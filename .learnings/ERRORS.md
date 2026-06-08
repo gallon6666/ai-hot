@@ -4,6 +4,42 @@ Command failures and integration errors.
 
 ---
 
+## [ERR-20260608-005] in_app_browser_pac_fake_ip
+
+**Logged**: 2026-06-08T12:08:00+08:00
+**Priority**: medium
+**Status**: resolved
+**Area**: infra
+
+### Summary
+
+The Codex in-app browser timed out on GitHub Pages because the system PAC and DNS returned a proxy fake IP that the browser path could not use.
+
+### Error
+
+```text
+Page.navigate timed out for https://gallon6666.github.io/ai-hot/
+```
+
+### Context
+
+- System PAC: `alilang-hubble.alicdn.com`
+- System DNS: `29.29.29.29`
+- Local resolution: `gallon6666.github.io -> 29.240.0.172`
+- Public DNS resolution: `185.199.108.153` through `185.199.111.153`
+- GitHub Pages API reported `built` and direct HTTP checks returned 200.
+
+### Suggested Fix
+
+Treat in-app browser failures on fake-IP DNS as a client network-path issue. Verify deployment independently and use a browser that honors the PAC, or temporarily bypass the PAC for `*.github.io`.
+
+### Metadata
+
+- Reproducible: yes
+- Related Files: .github/workflows/deploy-pages.yml
+
+---
+
 ## [ERR-20260608-004] zsh_reserved_status
 
 **Logged**: 2026-06-08T11:08:00+08:00
