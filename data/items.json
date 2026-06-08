@@ -1,18 +1,126 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwNTk5NDY1MDAwLCJpIjoiY21wendsNTV2MDBwZnNsdHI2YnE5NW91aCJ9",
+  "nextCursor": "eyJhIjoxNzgwNjA3NjIyMDAwLCJpIjoiY21xMDFjMGVvMDF5Y3NsdHJzNGFybm8yNyJ9",
   "items": [
     {
-      "id": "cmq5g57su07moslt2sf90ow95",
-      "title": "NotebookLM重大升级：智能体能力+高级推理",
-      "title_en": "Forget about our users？ Who？ Us？？？ Please. These updates are rolling out globally on the web starti…",
-      "url": "https://x.com/NotebookLM/status/2064022737107247423",
-      "source": "X：NotebookLM (@NotebookLM)",
-      "publishedAt": "2026-06-08T16:32:22.000Z",
-      "summary": "NotebookLM 迎来重大更新，在对话中新增智能体能力、更高级推理及多种新输出格式，旨在简化复杂多步骤研究。该更新面向 Google AI Ultra 订阅者以及拥有 AI Ultra Access 和 AI Expanded Access 的 Workspace 业务客户率先推出，后续计划扩展至更多用户。",
+      "id": "cmq5kh0q200g7sl38uoitn0e3",
+      "title": "Claude 为 Connector 开发者推出性能监控仪表盘",
+      "title_en": "Observability for developers building connectors",
+      "url": "https://claude.com/blog/observability-for-developers-building-connectors",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-08T18:50:51.580Z",
+      "summary": "Claude 为目录中已发布的 Connector 新增性能监控仪表盘（公开测试版）。所有者可追踪活跃用户、工具调用次数、目录排名、健康评分、错误率、延迟，并按工具细分错误归因；还能按 Claude、Claude Code、Cowork 等产品分解使用情况。访问需 Team 或 Enterprise 账号（Admin/Owner 权限或自定义角色）。基于 MCP 构建的 Connector 可直接在 Claude 应用内提交至目录，该目录已有超 300 个第三方 Connector，每日被数百万人使用。",
       "category": "ai-products",
-      "score": 67,
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmq5kh5ui00ghsl3849i05qae",
+      "title": "Anthropic：AI编码快于生物学的缘由",
+      "title_en": "New Science Blog： Why has AI advanced faster in coding than in biology？ To agents， bio databases a…",
+      "url": "https://x.com/AnthropicAI/status/2064054837294354677",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "publishedAt": "2026-06-08T18:39:56.000Z",
+      "summary": "新的科学博客：为什么 AI 在编码方面的进步比在生物学方面更快？\n\n对智能体而言，生物数据库就像汽车发明前建造的城市--开进去会让人抓狂，因为它们是针对不同的交通流量设计的。\n\n我们如何构建智能体可以使用的基础设施？\nhttps：//www.anthropic.com/research/agents-in-biology",
+      "category": "tip",
+      "score": 61,
+      "selected": true
+    },
+    {
+      "id": "cmq5lakyn00nasl382lj0ka6f",
+      "title": "Apple发布新一代Apple Intelligence和Siri AI",
+      "title_en": "Apple unveils next generation of Apple Intelligence， Siri AI， and more",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-06-08T18:18:43.157Z",
+      "summary": "今天Apple预览了即将推出的软件版本，将带来新一代Apple Intelligence和Siri AI。",
+      "category": "ai-products",
+      "score": 56,
+      "selected": true
+    },
+    {
+      "id": "cmq5lakyn00nbsl3832izqutm",
+      "title": "Apple Intelligence 将强大 AI 能力融入日常体验",
+      "title_en": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
+      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-06-08T18:17:44.449Z",
+      "summary": "Apple 发布下一代 Apple Intelligence，将 AI 能力集成到 iPhone、iPad 和 Mac 中，带来更个性化和有帮助的日常体验。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmq5js0wr009ksl38tvk1llo2",
+      "title": "苹果 WWDC 2026 直播",
+      "title_en": null,
+      "url": "https://www.apple.com/apple-events/event-stream",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-08T18:17:22.096Z",
+      "summary": "苹果 WWDC 2026 主题演讲通过官网进行直播，Hacker News 用户讨论热度达到 110 点。",
+      "category": "industry",
+      "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmq5lakyn00nesl38edfw2m19",
+      "title": "受 DMA 影响，Siri AI 在欧盟将随 iOS 27 和 iPadOS 27 延迟上线",
+      "title_en": "Due to DMA， Siri AI delayed in EU for iOS 27 and iPadOS 27",
+      "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-06-08T18:13:26.639Z",
+      "summary": "由于欧盟《数字市场法案》（DMA），Apple 无法在 iOS 27 和 iPadOS 27 发布时于欧盟地区推出 Siri AI。该功能在欧盟的上线时间将晚于其他地区，具体时间未公布。",
+      "category": "industry",
+      "score": 65,
+      "selected": true
+    },
+    {
+      "id": "cmq5j7nkn002fsl385mhl7d2d",
+      "title": "样本效率黑洞：AI能力背后隐藏的数据需求深渊",
+      "title_en": "The sample efficiency black hole",
+      "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-06-08T18:09:37.000Z",
+      "summary": "将AI比作一个闪耀着能力的星系，其核心存在一个肉眼不可见的巨大黑洞--数据。这个比喻揭示了AI模型惊人能力背后对海量数据的依赖，样本效率的瓶颈如同引力中心，将各色能力凝聚在一起。",
+      "category": "tip",
+      "score": 69,
+      "selected": true
+    },
+    {
+      "id": "cmq5i5o4g0861slt2rprafeu2",
+      "title": "为生物学AI智能体铺路",
+      "title_en": "Paving the way for agents in biology",
+      "url": "https://www.anthropic.com/research/agents-in-biology",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-06-08T17:46:10.323Z",
+      "summary": "一项实验让Claude、Biomni、Edison Analysis、GPT等科研智能体从病毒学数据库NCBI Virus中检索序列数据，即使最强模型也无法稳定达到可靠数据集构建所需的准确率。加入确定性检索层gget virus后，准确率接近100%。研究指出，当前生物学数据基础设施存在碎片化、格式特殊、接口不统一等问题，导致AI智能体难以像在软件领域那样高效工作。确定性检索工具是实现可靠智能体工作流的关键，生物学数据库需为智能体作为规模化用户而设计。",
+      "category": "paper",
+      "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmq5h53nq07w6slt2j3mljqg7",
+      "title": "Claude Code GA一周年回顾：验证与自动模式",
+      "title_en": "Claude Code's first demo got two Slack reactions. One year after GA， @bcherny and @_catwu look back…",
+      "url": "https://x.com/ClaudeDevs/status/2064032814392352816",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-06-08T17:12:25.000Z",
+      "summary": "Claude Code 的第一个演示收到了两个 Slack 反应。\n\nGA 一周年之际，@bcherny 和 @_catwu 回顾：验证最佳实践、为何构建自动模式、例程和循环，以及下一步计划。\n\nhttps：//www.youtube.com/watch？v=Hth_tLaC2j8",
+      "category": "tip",
+      "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmq5gf74e07p1slt2ae83siz1",
+      "title": "Perplexity与哈佛：AI智能体提效87%降本94%",
+      "title_en": "We published new research with Harvard on the shift from chat interfaces to autonomous agents like C…",
+      "url": "https://x.com/perplexity_ai/status/2064023455453110286",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "publishedAt": "2026-06-08T16:35:14.000Z",
+      "summary": "我们与哈佛大学发表新研究，关于从聊天界面转向像Computer这样的自主智能体的转变。\n\n超过3个月的研究结果表明，使用Computer的工人在完成任务上比仅使用搜索快87%，成本低94%，且满意度更高。\n\nhttps：//research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work",
+      "category": "paper",
+      "score": 76,
       "selected": true
     },
     {
@@ -118,9 +226,9 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484250&idx=1&sn=d0a07f5358250f3a54df8fbabe61f09a",
       "source": "公众号：月之暗面（Kimi）",
       "publishedAt": "2026-06-08T13:44:16.000Z",
-      "summary": null,
+      "summary": "Kimi Code 开源 Coding Agent 迎来大版本升级：一行命令安装，毫秒级启动；新增视频理解能力，支持提取视频风格生成 LUT 文件、长视频切片、根据录屏生成代码；集成同花顺、天眼查等权威数据源，可查询股票价格、财报、学术论文；支持 ACP 协议，可在 JetBrains、Zed 中使用；丰富 hook 生态方便集成其他工具。底层视觉推理由 Kimi K2.6 模型提供。",
       "category": "ai-products",
-      "score": 64,
+      "score": 76,
       "selected": true
     },
     {
@@ -160,39 +268,39 @@
       "selected": true
     },
     {
-      "id": "cmq51vfwz03rpslt225t051ui",
-      "title": "AgentScope Java 2.0 发布",
-      "title_en": "🚀 AgentScope Java 2.0 released！ Solving enterprise AI agent challenges： ✅ Distributed & Stateless： …",
-      "url": "https://x.com/alibaba_cloud/status/2063923881857945815",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-06-08T09:59:33.000Z",
-      "summary": "阿里云发布AgentScope Java 2.0，面向企业级AI智能体开发。新版本主要特性：分布式无状态架构，支持K8s弹性扩缩容与会话恢复；多租户隔离，通过Workspace抽象实现安全数据分离；长期稳定性，HarnessAgent负责上下文管理与容错；安全执行，提供细粒度权限控制和Human-in-the-Loop支持。适用于JVM生产环境。开源地址见推文链接。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true
-    },
-    {
       "id": "cmq51i5mc03ohslt2ggzp1vas",
       "title": "Agent 辅助开发，一站式打通 Qwen3-VL Android 端侧推理",
       "title_en": null,
       "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA%3D%3D&mid=2247501437&idx=1&sn=d6c6dcb853adbed4ea946711d478779a",
       "source": "公众号：通义实验室（千问）",
       "publishedAt": "2026-06-08T09:54:08.000Z",
-      "summary": null,
+      "summary": "通义实验室教程演示了如何用 Agent（Qoder）辅助完成 Qwen3-VL-2B 模型在 Android 端侧的全流程部署。操作包括：检查 JDK 21、NDK 27、CMake 3.18.1 等环境；创建 arm64-v8a 的 Native C++ 工程（minSdk 29、compileSdk 35）；通过 ModelScope CLI 下载约 1.4GB 的 MNN/Qwen3-VL-2B-Instruct-MNN 模型；编译开启 LLM 视觉支持（MNN_BUILD_LLM、LLM_SUPPORT_VISION）的 libMNN.so；构建 APK 并推送模型至手机私有目录。最终 App 提供图文推理页面，输出 MNN 版本（v3.5.0）、ABI 及推理指标。所有繁琐步骤均可由 Agent 自动执行。",
       "category": "tip",
-      "score": 69,
+      "score": 68,
+      "selected": true
+    },
+    {
+      "id": "cmq50vn4l03ieslt2nrjrhkq8",
+      "title": "微信AI Agent生态曝光：嵌入小程序调用与手机厂商合作",
+      "title_en": "最近几天，微信Agent曝光的消息越来越多了。 我简单汇总一下： 6月2日，据外媒外媒，腾讯正在测试一款嵌入微信的AI Agent，用户在微信主界面向右滑动即可唤出Agent对话窗口，通过自然语言下",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683054&idx=1&sn=dcaa25bd4fdfc9bd5c0211532021bf7c",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-06-08T09:38:30.000Z",
+      "summary": "腾讯正测试嵌入微信的AI Agent，用户右滑唤出对话窗口，通过自然语言指令调用数百万小程序完成点咖啡等任务。微信还与华为、荣耀、小米、OPPO、vivo合作推出A2A助手能力，可通过手机语音助理发起微信音视频通话或发送消息。6月8日，微信官方发布《关于开发者接入微信AI生态的指引》，提供自动接入模式，利用微信沙箱全自动改造小程序，使其可被AI直接调用。这一布局被视为Agentic Commerce（代理式交易）的雏形。",
+      "category": "tip",
+      "score": 71,
       "selected": true
     },
     {
       "id": "cmq50iuao03eislt2og43waqb",
-      "title": "生数科技与华策集团达成战略合作，共建AIGC影视创制中心",
+      "title": "生数科技与华策影视达成战略合作，共建AI视听创制中心",
       "title_en": "生数科技与华策集团达成战略合作，推动AI与影视产业融合落地",
       "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247488842&idx=1&sn=3dab63189fa60b3b78c5ad72e3358791",
       "source": "公众号：生数科技（Vidu·视频）",
       "publishedAt": "2026-06-08T09:30:33.000Z",
-      "summary": "生数科技与华策集团达成战略合作，共建AIGC影视创制中心，推动AI与影视产业融合落地。合作聚焦于利用生数科技的AI视频生成能力（Vidu），结合华策集团的影视行业资源，探索AIGC在影视制作全流程中的应用，包括剧本生成、预可视化、特效制作等环节。双方将通过技术研发与场景验证，加速AI在影视行业的规模化落地。",
+      "summary": "6月7日，生数科技与华策影视签署战略合作协议，共同推动AI与影视产业融合。双方将以华策影视科技产教示范区为载体、生数科技Vidu视频生成大模型为技术底座，设立\"AI视听创制中心\"，探索AI虚拟制作与实拍结合。同时在浙江华策影视学校设立\"华策&生数AI影视创制专业\"，课程覆盖传统编导剪与AI视频制作技术。内容生产层面推广\"实拍+AI\"融合方案并优先在华策项目中试点，创作者生态层面引导Vidu社区超级创作者到产教基地注册。",
       "category": "industry",
-      "score": 63,
+      "score": 65,
       "selected": true
     },
     {
@@ -244,18 +352,6 @@
       "selected": true
     },
     {
-      "id": "cmq4tambh01hjslt26nzjxvrn",
-      "title": "英国借助 NVIDIA 技术将主权 AI 雄心转化为行动",
-      "title_en": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
-      "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements",
-      "source": "NVIDIA AI Blog",
-      "publishedAt": "2026-06-08T06:00:57.000Z",
-      "summary": "一年前英国宣布做\"AI 制造者\"，如今主权 AI 计划取得实质进展：AI 云提供商数量翻倍，Nebius 部署三套 NVIDIA AI 基础设施，预计 2027 年满负荷达 65 兆瓦；基于 5，400 个 NVIDIA GH200 的 Isambard-AI 超级计算机全由零碳电力驱动。主权 AI 基金资助四家 NVIDIA Inception 初创公司：Cosine 训练多模态 MoE 编码模型；Cursive 使用 Megatron-LM 开发自改进 AI 系统；Doubleword 基于 Dynamo 和 Nemotron 3 Super 120B 实现 70 倍冷启动加速、4 倍 KV 缓存压缩，推理成本降低 90-95%；Prima Mente 借助 Blackwell GPU 以近 3 倍训练加速开发生物基础模型。NVIDIA 对英国初创生态投资 20 亿英镑。",
-      "category": "industry",
-      "score": 61,
-      "selected": true
-    },
-    {
       "id": "cmq4tfme001jlslt2hle9mu5a",
       "title": "腾讯混元联合多家机构发布首个音频编辑基准MMAE",
       "title_en": "Can AI truly edit audio， not just generate it？ 🎧 Tencent Hy， in collaboration with SJTU， SII， NTU，…",
@@ -280,18 +376,6 @@
       "selected": true
     },
     {
-      "id": "cmq4p089k00dnslt2bfbwnusn",
-      "title": "NVIDIA与LG集团合作建设AI工厂，加速物理AI与自动驾驶",
-      "title_en": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI， Mobility and AI Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory",
-      "source": "NVIDIA AI Blog",
-      "publishedAt": "2026-06-08T03:00:50.000Z",
-      "summary": "NVIDIA与LG集团合作建设AI工厂，为LG的机器人、自动驾驶、数据中心和GPU云服务提供加速计算基础设施。双方整合NVIDIA AI工厂平台与LG的消费电子、机器人技术，连接AI模型开发、物理AI数据生成、机器人仿真训练、边缘部署和工厂数字孪生。LG电子将利用NVIDIA Isaac Sim和Isaac Lab仿真训练CLOiD家用机器人，探索采用Isaac GR00T模型，并开发物理AI数据工厂。LG Innotek提供针对NVIDIA GPU优化的机器人传感组件，LG CNS集成NVIDIA机器人技术。双方还将基于NVIDIA DSX平台建设下一代AI工厂，涵盖冷却、模块化设计和800V直流能源方案。LG电子将基于NVIDIA DRIVE平台开发ADAS和车载AI系统。",
-      "category": "industry",
-      "score": 68,
-      "selected": true
-    },
-    {
       "id": "cmq59qphf05vuslt2zgw6ndy6",
       "title": "开源社区支持 OpenEnv 用于智能体强化学习",
       "title_en": "The Open Source Community is backing OpenEnv for Agentic RL",
@@ -313,18 +397,6 @@
       "summary": "Nvidia 与 SK Hynix 达成合作，将共同设计面向 AI 应用的未来几代存储芯片。此举巩固了 SK Hynix 在高端半导体领域的领先地位。",
       "category": "industry",
       "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmq4gfkuv00qoslot9jvo6ip8",
-      "title": "英伟达与斗山集团合作推进物理AI及AI工厂基础设施",
-      "title_en": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai",
-      "source": "NVIDIA AI Blog",
-      "publishedAt": "2026-06-07T23:00:36.000Z",
-      "summary": "英伟达与斗山集团扩大合作，覆盖斗山机器人、斗山山猫、斗山能源及斗山电子材料四大板块。斗山机器人将集成英伟达Isaac Sim、Isaac Lab、Cosmos世界基础模型、Newton物理引擎及Jetson Thor，推进Agentic Robot OS，探索卸垛、打磨等参考用例及双臂/人形机器人。斗山山猫计划将物理AI技术用于建筑、园林、农业设备，加速开发专用世界模型。斗山能源评估通过燃气轮机、汽轮机、小型模块化反应堆及氢燃料电池为AI工厂供电。斗山电子材料为英伟达MGX生态系统供应高性能铜箔基板（CCL），用于AI服务器PCB。",
-      "category": "industry",
-      "score": 61,
       "selected": true
     },
     {
@@ -421,18 +493,6 @@
       "summary": "Her（हेर）是专为 Claude Code 设计的会话分析工具。用户上传 `.jsonl` 文件后，Her 用自然语言重建每轮交互，标记部署、配置变更、秘密等高风险操作并定位到具体轮次。它展示 token 消耗、所用工具、子智能体、技能和 MCP 服务器，并结合 Anthropic 与社区最佳实践给出改进建议（仅在有明确可修复模式时）。内置\"Ask Her\"问答功能，支持单会话与跨会话项目分析。工具不调用第三方 AI API，使用 Nemotron-Mini-4B-Instruct 模型在 Hugging Face ZeroGPU 上运行，评估引擎完全确定，模型仅负责文本生成与建议。Her 内置 Homebrew、npm、PyPI 主流 CLI 工具数据库，自动识别会话中使用的工具，并对部署工具、数据库客户端等执行活动进行标记提醒。",
       "category": "ai-products",
       "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmq3i394000ouslqlpcl2mnr6",
-      "title": "NVIDIA 与 KRAFTON、NC、T1 在韩国 PC 房庆祝 RTX Spark 发布",
-      "title_en": "NVIDIA， KRAFTON， NC and Reigning 'League of Legends' Champions T1 Celebrate RTX Spark at Korea's PC Bangs",
-      "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark",
-      "source": "NVIDIA AI Blog",
-      "publishedAt": "2026-06-07T07:00:15.000Z",
-      "summary": "继上周 GTC Taipei 发布后，NVIDIA CEO Jensen Huang 前往韩国，向当地游戏社区正式介绍 RTX Spark 超芯片。该芯片集成 30 年 NVIDIA 技术，可在 Windows 笔记本上实现全天续航，并以 1440p 分辨率、超过 100fps 运行 AAA 游戏，支持包括 DLSS 4.5 Ray Reconstruction（基于第二代 Transformer 模型）在内的全套 RTX 技术。KRAFTON、NC 与 Riot Games 正合作将旗下游戏适配 RTX Spark。周五，Huang 在 T1 电竞场馆与 Faker 共同亮相，并突袭江南区网吧，演示《PUBG： BATTLEGROUNDS》及基于 NVIDIA ACE 的\"PUBG Ally\"AI 队友、《CINDER CITY》《AION 2》等作品。《CINDER CITY》首发支持 DLSS 4.5 动态多帧生成与超分辨率。已有超过 100 家 Windows 软件与游戏开发商采纳 RTX Spark。",
-      "category": "ai-products",
-      "score": 56,
       "selected": true
     },
     {
@@ -592,27 +652,27 @@
       "selected": true
     },
     {
+      "id": "cmq28dvet000pslopfql7jlc7",
+      "title": "海螺AI×上影节活动日历：开放日6.14-6.15",
+      "title_en": "海螺AI×上影节活动日历|请收下邀请函！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUzMzEzNw%3D%3D&mid=2247487793&idx=1&sn=b5649b5c9c4204135b4914d89f71cb41",
+      "source": "公众号：MiniMax（稀宇科技）",
+      "publishedAt": "2026-06-06T09:52:47.000Z",
+      "summary": "MiniMax旗下海螺AI作为第28届上影节独家AI影像战略合作伙伴，6.14-6.15举办开放日。活动包括：AI片场·海螺专属Booth（展示1+1组合作品及过程）、6.14多模态行业交流会、6.15专题圆桌（超级创作者呈现四种图景、《流浪地球》制片人与青年导演对谈）。具体时间地点详见图片。",
+      "category": "industry",
+      "score": 56,
+      "selected": true
+    },
+    {
       "id": "cmq2o63pf01dosl6n6n4wr3tr",
       "title": "阶跃首席科学家张祥雨合著论文 ResNet 获 CVPR 2026 「时间检验奖」",
       "title_en": null,
       "url": "https://mp.weixin.qq.com/s/ZVgqdH_fE42jO4kcI-lF3g",
       "source": "公众号：阶跃星辰（Step）",
       "publishedAt": "2026-06-06T06:46:02.000Z",
-      "summary": null,
+      "summary": "CVPR 2026 将 Longuet-Higgins Prize「时间检验奖」授予 2015 年发表的《Deep Residual Learning for Image Recognition》（ResNet）。该论文由何恺明、张祥雨、任少卿、孙剑完成，提出的残差学习思想解决了深层神经网络训练难题，已成为现代深度学习基础结构。同获该奖的还有 YOLO v1。ResNet 全球引用量超 32 万次，是 21 世纪被引最多论文。阶跃算法团队正热招大模型技术人才。",
       "category": "industry",
-      "score": 57,
-      "selected": true
-    },
-    {
-      "id": "cmq1jj4u00gejsltrelu93dbg",
-      "title": "PixelDiT入选CVPR2026最佳论文决赛",
-      "title_en": "Selected as a best paper finalist at #CVPR2026： PixelDiT from NVIDIA Research In most image generat…",
-      "url": "https://x.com/NVIDIAAI/status/2063034422698389625",
-      "source": "X：NVIDIA AI (@NVIDIAAI)",
-      "publishedAt": "2026-06-05T23:05:10.000Z",
-      "summary": "被选为 #CVPR2026 最佳论文决赛作品：来自 NVIDIA Research 的 PixelDiT\n\n在大多数图像生成模型中，预训练的自编码器会在任何扩散发生前压缩图像，导致质量损失在整个流程中累积。\n\nPixelDiT，即像素扩散变换器，完全去掉了这一步骤。它是一个单阶段模型，直接在像素空间中端到端地学习扩散过程。",
-      "category": "paper",
-      "score": 68,
+      "score": 71,
       "selected": true
     },
     {
@@ -856,18 +916,6 @@
       "selected": true
     },
     {
-      "id": "cmq12gsy20buksltr2nwivyhu",
-      "title": "苹果新版 Siri 不会被宣传为完成品，内部将其标记为\"Beta\"版",
-      "title_en": "古尔曼称苹果新版 Siri 不会被宣传为完成品，内部将其标记为\"Beta 版\"",
-      "url": "https://www.ithome.com/0/960/739.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-05T14:21:03.000Z",
-      "summary": "苹果新版Siri被内部标记为\"Beta\"版，不会作为完成品宣传；可能设置等待清单供用户尝试。iOS 27细节：通知到达重新设计，通知中心手势移至左上角；\"查找\"应用视觉重设计；照片\"清理\"功能改进；大量底层安全改进。部分Siri查询将通过Google Cloud调用授权版Gemini，并使用谷歌的NVIDIA Blackwell B200集群处理。",
-      "category": "industry",
-      "score": 73,
-      "selected": true
-    },
-    {
       "id": "cmq10bltr0b9ksltrs7mappfh",
       "title": "Meta 智能眼镜 App 暗藏人脸识别代码，NameTag 功能已推送至超 5000 万设备",
       "title_en": "Meta 智能眼镜 App 被曝暗藏 AI 人脸识别功能相关代码：影响超 5000 万设备，公司回应称仅为探索而已",
@@ -917,26 +965,14 @@
     },
     {
       "id": "cmq2o71l001iisl6n8ljx5jbt",
-      "title": "首字延迟降低3.6倍，腾讯混元提出Stem稀疏注意力算法，长文推理加速新SOTA",
-      "title_en": null,
+      "title": "腾讯混元提出Stem稀疏注意力算法，被ICML 2026收录",
+      "title_en": "首字延迟降低3.6倍，腾讯混元提出Stem稀疏注意力算法，长文推理加速新SOTA",
       "url": "https://mp.weixin.qq.com/s/XneOSvjt-7A-DU546cGoZA",
       "source": "公众号：腾讯混元",
       "publishedAt": "2026-06-05T11:22:41.000Z",
-      "summary": null,
+      "summary": "Stem算法通过Token位置衰减（TPD）和输出感知度量（OAM）两项创新，仅用25%算力即逼近稠密注意力精度。配套HPC算子针对Hopper架构优化，支持FP8量化与vLLM的Paged KV Cache，在混元Hy3 preview上实现首字延迟降低3.6倍。HPC-BSA相比MIT-BSA稳定保持约3倍加速，在8K至256K序列长度上表现一致。",
       "category": "paper",
-      "score": 56,
-      "selected": true
-    },
-    {
-      "id": "cmq2o6lwv01h0sl6ni883xkm3",
-      "title": "从品牌TVC到效果素材量产，Seedance 2.0进入广告核心生产流程",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/uvasI0EYNtv1Q8bMd96CzQ",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-06-05T11:17:53.000Z",
-      "summary": "Seedance 2.0进入广告核心生产流程，旨在同时应对品牌TVC的高质感、叙事统一需求与效果素材的快速迭代、量产压力。传统广告制作中，品牌广告与效果广告依赖两套不同的生产体系，前者周期长、重视觉统一，后者需高频更新。Seedance 2.0试图融合两种模式，提升内容上新速度和项目交付效率。",
-      "category": "ai-products",
-      "score": 66,
+      "score": 62,
       "selected": true
     },
     {
@@ -953,14 +989,14 @@
     },
     {
       "id": "cmq2l9lfs009zsl6n45wlgkj8",
-      "title": "FluxA与百度智能云合作：DAA时代，AI开始自己赚钱",
+      "title": "FluxA与百度智能云战略合作，为Agent经济搭建基础设施",
       "title_en": "FluxA🤝百度智能云：DAA时代，终于轮到AI自己赚钱了",
       "url": "https://mp.weixin.qq.com/s/_Gxb4JWjVidXVfeCRjghzg",
       "source": "公众号：百度智能云（文心）",
       "publishedAt": "2026-06-05T10:52:01.000Z",
-      "summary": "FluxA与百度智能云达成合作，标志着DAA时代到来--AI开始实现自身盈利，不再依赖外部投入。",
+      "summary": "百度智能云与FluxA建立战略合作，共同为Agent经济搭建基础设施。百度智能云提供可交易商品体系、自雇佣交易机制、能力工具箱及出海分销通道；FluxA作为支付底座，提供低费率高频微交易、Financial Harness安全授权、全球收款与Token Paywall。目前超9万个Agent使用FluxA钱包，超1万个AI Agent资源完成商业化。今年一季度中国两地区OPC新增超6000户，日均Token消耗140万亿。DAA被视为AI时代衡量生态价值的核心指标。",
       "category": "industry",
-      "score": 65,
+      "score": 57,
       "selected": true
     },
     {
@@ -970,9 +1006,9 @@
       "url": "https://mp.weixin.qq.com/s/Q1fa3KwT63HBOF2fmWKzlg",
       "source": "公众号：通义实验室（千问）",
       "publishedAt": "2026-06-05T09:54:27.000Z",
-      "summary": null,
-      "category": "paper",
-      "score": 73,
+      "summary": "通义实验室推出全新评测基准PawBench v1.0，面向个人助理与通用智能体场景，将底座模型与运行框架Harness纳入同一体系进行交叉评测。评测矩阵包含9个模型与3个Harness（Hermes、OpenClaw、QwenPaw），覆盖150道真实任务共4050个测试单元。结果显示，QwenPaw（76.4分）、OpenClaw（75.4分）、Hermes（70.4分）之间存在显著分差，Harness环境对表现的影响甚至大于模型本身。PawBench还通过切片分析揭示了Harness在产物校验、Skill主动发现和Web搜索默认可用性等方面的关键差距。项目已开源。",
+      "category": "ai-products",
+      "score": 70,
       "selected": true
     },
     {
@@ -1012,18 +1048,6 @@
       "selected": true
     },
     {
-      "id": "cmq0irius06k5sltr35ji4gbi",
-      "title": "NVIDIA CEO 黄仁勋访问首尔：与韩国共建 AI 未来",
-      "title_en": "Seoul Purpose： How NVIDIA and South Korea Are Building the Future of AI",
-      "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026",
-      "source": "NVIDIA AI Blog",
-      "publishedAt": "2026-06-05T05:38:37.000Z",
-      "summary": "NVIDIA 创始人兼 CEO 黄仁勋本周到访首尔，会见韩国的 AI 建造者、主权基础设施合作伙伴及游戏社区。黄仁勋表示，为应对下半年繁忙的 AI 基础设施建设，需对齐 AI 供应链。他指出 Grace Blackwell 系统表现良好，Vera Rubin 已全面投产。他还强调机器人技术将成为韩国的下一个重要产业，并呼吁韩国投资 AI。",
-      "category": "industry",
-      "score": 63,
-      "selected": true
-    },
-    {
       "id": "cmq0h580h066psltrtxbfx6id",
       "title": "Open Code Review - 一款基于人工智能的代码审查命令行工具",
       "title_en": null,
@@ -1060,15 +1084,27 @@
       "selected": true
     },
     {
+      "id": "cmq2l9lhg00dxsl6ns5nl3hik",
+      "title": "ACL'26美团技术团队6篇论文入选：聚焦大模型评测与推理优化",
+      "title_en": "报名|ACL'26 美团中稿精选：从能力评测到推理优化，构建生成新范式",
+      "url": "https://mp.weixin.qq.com/s/qgq5fstJNeNmfSigedFOeQ",
+      "source": "公众号：龙猫LongCat（美团）",
+      "publishedAt": "2026-06-05T02:24:00.000Z",
+      "summary": "美团技术团队在ACL'26上分享6篇论文，涵盖代码评测、复杂流程推理、数学竞赛、过度思考分析、推理后训练优化及生成式推荐。CoreCodeBench从12个开源库生成1524个结构化任务，有效性达78.55%；SOP-Maze基于真实业务构建397个流程实例，测试显示前沿模型存在流程遵循、对话脆弱性和计算错误三类短板；AMO-Bench含50道高难度数学题，最强模型准确率仅52.4%；The Evolution of Thought提出推理完成点（RCP）检测器减少冗余生成；MASPO通过软高斯门控等优化推理后训练，提升Avg@32和Pass@32；FLR将隐式推理分解为多维偏好因子，平均提升3.2%。",
+      "category": "paper",
+      "score": 55,
+      "selected": true
+    },
+    {
       "id": "cmq2lrvf800kzsl6nvajb0wbi",
-      "title": "Anthropic万字长文：当AI开始构建自己，人类该何去何从？",
-      "title_en": null,
+      "title": "Anthropic《When AI builds itself》：当AI开始自我构建",
+      "title_en": "Anthropic万字长文：当AI开始构建自己，人类该何去何从？",
       "url": "https://mp.weixin.qq.com/s/mJbuKJChVk7ktIHEtKzChg",
       "source": "公众号：数字生命卡兹克",
       "publishedAt": "2026-06-05T01:31:15.000Z",
-      "summary": null,
+      "summary": "Anthropic发文指出，AI系统正加速自身开发，递归自我改进或将到来。目前Anthropic超80%代码由Claude编写，工程师每日合并代码量达2024年8倍。Claude Opus 4.6可胜任12小时软件任务，Mythos Preview连续工作至少16小时，SWE-bench和CORE-Bench等基准均已饱和。内部测试显示，Mythos Preview使研究效率提升约4倍，代码速度优化达52倍，在开放任务中成功率达76%，并弥合97%的研究项目差距。Claude在64%情况下给出比人类更好的研究建议。",
       "category": "tip",
-      "score": 62,
+      "score": 68,
       "selected": true
     },
     {
@@ -1156,18 +1192,6 @@
       "selected": true
     },
     {
-      "id": "cmq00q1w401tvsltr2b8zysje",
-      "title": "Nemotron Parakeet ASR 印尼语准确率达 97.7%",
-      "title_en": "When laws and oversight depend on transcripts， 70-80% isn't enough. http：//Rafiqspace.ai hit 97.7% …",
-      "url": "https://x.com/nvidia/status/2062647600424128773",
-      "source": "X：NVIDIA (@nvidia)",
-      "publishedAt": "2026-06-04T21:28:04.000Z",
-      "summary": "当法律和监督依赖于转录内容时，70-80% 是不够的。\n\nhttp：//Rafiqspace.ai 通过微调 Nemotron Parakeet ASR 达到了 97.7% 的印尼语准确率（2.3% WER）-- 优于全球工具，同时每小时成本降低高达 90%。⚖️",
-      "category": "industry",
-      "score": 60,
-      "selected": true
-    },
-    {
       "id": "cmq01c0eo01ycsltrs4arno27",
       "title": "共存与协同智能的终结",
       "title_en": "Co-Existence and the End of Co-Intelligence",
@@ -1178,31 +1202,7 @@
       "category": "tip",
       "score": 73,
       "selected": true
-    },
-    {
-      "id": "cmpzxaxqv00w8sltrueor0hp8",
-      "title": "OpenAI API 新增内容审核评分",
-      "title_en": "Moderation scores are now available in the Responses API and Completions API. Return moderation sig…",
-      "url": "https://x.com/OpenAIDevs/status/2062619558440267801",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-06-04T19:36:39.000Z",
-      "summary": "Moderation scores 现已在 Responses API 和 Completions API 中可用。\n\n在与生成相同的请求流程中返回审核信号，然后由你的应用决定如何使用它们进行记录、路由、审核或拦截。\n\nhttps：//developers.openai.com/api/docs/guides/moderation",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmpzwl55v00pfsltr6bq95ouh",
-      "title": "Nemotron 3.5 Content Safety：面向全球企业AI的可定制多模态安全",
-      "title_en": "Nemotron 3.5 Content Safety： Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-04T18:57:45.000Z",
-      "summary": "Nemotron 3.5 Content Safety基于Gemma 3 4B IT，提供128K上下文窗口，支持用户提示、可选图像与助手响应的统一多模态安全评估。新增自定义策略执行，允许企业用自然语言定义专属安全规则；THINK模式可输出可审计的逐步推理痕迹。显式训练覆盖12种语言，并借助基座模型零样本泛化至约140种语言。输出提供低延迟二分类、带分类标签、THINK推理痕迹三种模式。安全分类遵循Aegis 2.0框架（13核心类别+10细分类别）。同步发布多模态、多语言安全数据集，可在8GB+ VRAM GPU上实时部署。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-08T16:53:49Z"
+  "cachedAt": "2026-06-08T19:35:04Z"
 }
