@@ -1,8 +1,80 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwNTMxMjAwMDAwLCJpIjoiY21wenoydGVrMDFjenNsdHI1ZTh0MDJsdSJ9",
+  "nextCursor": "eyJhIjoxNzgwNTYzNjAwMDAwLCJpIjoiY21wem9zaWdzMDVrbnNsa3B3cnBudmY2NSJ9",
   "items": [
+    {
+      "id": "cmq4xm17502mfslt23bh7visa",
+      "title": "CoreWeave 如何看待当前计算市场",
+      "title_en": "<strong>How CoreWeave Sees the Market for Compute Right Now </strong>",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/how-coreweave-sees-the-market-for-compute-right-now",
+      "source": "Bloomberg：Technology（RSS）",
+      "publishedAt": "2026-06-08T08:00:32.000Z",
+      "summary": "CoreWeave 对当前计算市场进行了分析，指出推动增长的因素和限制增长的因素。该公司的市场看法即围绕这两个维度展开。",
+      "category": "tip",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmq4xiqwk02l4slt2amhfh2do",
+      "title": "PixVerse Creative Partner Program 2.0 上线",
+      "title_en": "Thank you for the thoughtful sharing. Our chat at Berlinale was truly inspiring and rewarding！ Looki…",
+      "url": "https://x.com/PixVerse_/status/2063890444413706442",
+      "source": "X：PixVerse (@PixVerse_)",
+      "publishedAt": "2026-06-08T07:46:41.000Z",
+      "summary": "PixVerse 宣布 Creative Partner Program （CPP） 2.0 正式上线，面向 AI 视频创作者。该计划围绕真实创作：发布、测试、教学、故事片及公开推广新想法。核心福利包括：合格帖子每周最高可获得 150，000 credits；每周 $2，500 现金奖池，单个创作者单周最高 $850；对大项目、教程、测试内容和电影节投稿提供特别支持。参与者还可获得更多曝光、项目机会及与 PixVerse 共创的可能。申请可通过官网进行。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true
+    },
+    {
+      "id": "cmq4tambh01hjslt26nzjxvrn",
+      "title": "英国借助 NVIDIA 技术将主权 AI 雄心转化为行动",
+      "title_en": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
+      "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-06-08T06:00:57.000Z",
+      "summary": "一年前英国宣布做\"AI 制造者\"，如今主权 AI 计划取得实质进展：AI 云提供商数量翻倍，Nebius 部署三套 NVIDIA AI 基础设施，预计 2027 年满负荷达 65 兆瓦；基于 5，400 个 NVIDIA GH200 的 Isambard-AI 超级计算机全由零碳电力驱动。主权 AI 基金资助四家 NVIDIA Inception 初创公司：Cosine 训练多模态 MoE 编码模型；Cursive 使用 Megatron-LM 开发自改进 AI 系统；Doubleword 基于 Dynamo 和 Nemotron 3 Super 120B 实现 70 倍冷启动加速、4 倍 KV 缓存压缩，推理成本降低 90-95%；Prima Mente 借助 Blackwell GPU 以近 3 倍训练加速开发生物基础模型。NVIDIA 对英国初创生态投资 20 亿英镑。",
+      "category": "industry",
+      "score": 61,
+      "selected": true
+    },
+    {
+      "id": "cmq4tfme001jlslt2hle9mu5a",
+      "title": "腾讯混元联合多家机构发布首个音频编辑基准MMAE",
+      "title_en": "Can AI truly edit audio， not just generate it？ 🎧 Tencent Hy， in collaboration with SJTU， SII， NTU，…",
+      "url": "https://x.com/TencentHunyuan/status/2063862263434613237",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "publishedAt": "2026-06-08T05:54:42.000Z",
+      "summary": "腾讯混元联合上海交大、南洋理工等机构推出MMAE（Massive Multitask Audio Editing Benchmark），这是首个全面评估AI语音/音频编辑能力的基准。MMAE要求模型理解现有音频并按自然语言指令精确修改，而非简单生成。当前模型在该基准上的精确匹配率（EMR）低于5%，暴露了可靠音频编辑的短板。MMAE包含2000个真实场景高保真样本、17741条细粒度评估项，覆盖声音/音乐/语音及混合共7种模态、6种任务复杂度（基础修改到多跳推理及多轮编辑）、8种操作类型（局部到全局）。论文、代码、数据集和演示已公开。",
+      "category": "paper",
+      "score": 69,
+      "selected": true
+    },
+    {
+      "id": "cmq4tna5301m5slt2fr7nmpp7",
+      "title": "全球首个：高德发布3D原生城市世界模型ABot-Earth0.5",
+      "title_en": "全球首个：高德发布 3D 原生城市世界模型 ABot-Earth0.5，单图 10 分钟重建 3D 城市",
+      "url": "https://www.ithome.com/0/961/378.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-08T05:53:46.000Z",
+      "summary": "阿里巴巴旗下高德发布全球首个3D原生城市世界模型ABot-Earth0.5，已建成覆盖190多个国家和地区的3D地图。用户输入卫星图或文字描述，10分钟即可在消费级GPU上生成公里级3D城市，输出可编辑3DGS格式，可直接导入Unity等引擎。制图成本为传统百分之一，效率提升约千倍，可为具身智能、低空经济、应急救援等提供支撑。目前已开放内测，可前往abot-earth.amap.com提交申请。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmq4p089k00dnslt2bfbwnusn",
+      "title": "NVIDIA与LG集团合作建设AI工厂，加速物理AI与自动驾驶",
+      "title_en": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI， Mobility and AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory",
+      "source": "NVIDIA AI Blog",
+      "publishedAt": "2026-06-08T03:00:50.000Z",
+      "summary": "NVIDIA与LG集团合作建设AI工厂，为LG的机器人、自动驾驶、数据中心和GPU云服务提供加速计算基础设施。双方整合NVIDIA AI工厂平台与LG的消费电子、机器人技术，连接AI模型开发、物理AI数据生成、机器人仿真训练、边缘部署和工厂数字孪生。LG电子将利用NVIDIA Isaac Sim和Isaac Lab仿真训练CLOiD家用机器人，探索采用Isaac GR00T模型，并开发物理AI数据工厂。LG Innotek提供针对NVIDIA GPU优化的机器人传感组件，LG CNS集成NVIDIA机器人技术。双方还将基于NVIDIA DSX平台建设下一代AI工厂，涵盖冷却、模块化设计和800V直流能源方案。LG电子将基于NVIDIA DRIVE平台开发ADAS和车载AI系统。",
+      "category": "industry",
+      "score": 68,
+      "selected": true
+    },
     {
       "id": "cmq4gflji00qtslotgoi786jr",
       "title": "Nvidia 与 SK Hynix 签署多年协议，共同开发下一代 AI 存储芯片",
@@ -1130,79 +1202,7 @@
       "category": "ai-products",
       "score": 77,
       "selected": true
-    },
-    {
-      "id": "cmpz4ztc400a8slkpncco9ljl",
-      "title": "Meet OpenJarvis：一个本地优先的设备端个人AI智能体框架，支持工具、记忆与学习",
-      "title_en": "Meet OpenJarvis： A Local-First Framework for On-Device Personal AI Agents with Tools， Memory， and Learning",
-      "url": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-06-04T06:23:10.000Z",
-      "summary": "Stanford 研究人员发布 OpenJarvis，一个完全在设备端运行推理、智能体、记忆与学习的开源框架。它将个人 AI 系统分解为五个可组合原语：Intelligence、Engine、Agents、Tools & Memory 和 Learning。该框架与最佳云端模型的性能差距在 3.2 points 以内，边际 API 成本降低约 800 倍。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmq2o6lwv01h1sl6n14cgtog8",
-      "title": "中国美术学院×火山引擎：高质量数据集，让普通人也能专业作画",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/eiRHy544wkcaBq7c0RS96A",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-06-04T03:00:19.000Z",
-      "summary": "上个月，2026世界数字教育大会在杭州开幕。中国美术学院作为参访线路之一，展示了与火山引擎联合开发的「中国画创作平台」。该平台通过三个递进步骤，教会普通人使用高质量数据集进行专业水准的中国画创作。",
-      "category": "ai-products",
-      "score": 58,
-      "selected": true
-    },
-    {
-      "id": "cmpyx4llm047vsli313nmjw1m",
-      "title": "Cloudflare Radar：机器人流量首次超过人类占比57.5%",
-      "title_en": "📢 里程碑 机器人流量🤖 首次在互联网历史上超过了人类在线流量👨🦰 根据Cloudflare Radar的实时统计 过去一周（5月28日到6月4日），全球所有请求 HTML 网页的流…",
-      "url": "https://x.com/xiaohu/status/2062367357868355622",
-      "source": "X：小互 (@xiaohu)",
-      "publishedAt": "2026-06-04T02:54:29.000Z",
-      "summary": "Cloudflare Radar 实时统计显示，过去一周（5月28日至6月4日）全球所有 HTML 网页请求流量中，57.5% 来自机器人（爬虫、AI 抓取、自动化脚本），仅42.5%来自真人浏览器，机器人流量首次超过人类。按所有 HTTP 流量返回内容分类，JSON（API 机器通信）占33.1%居首，HTML 仅12%。互联网流量主体已从人类浏览网页转向机器间通信和机器人抓取。",
-      "category": "industry",
-      "score": 82,
-      "selected": true
-    },
-    {
-      "id": "cmpyvxja303t6sli3dok90v7m",
-      "title": "NVIDIA PPISP：补偿光度变化提升3D重建",
-      "title_en": "Radiance fields are only as good as the images behind them. PPISP helps compensate for photometric…",
-      "url": "https://x.com/NVIDIAAI/status/2062358080222876041",
-      "source": "X：NVIDIA AI (@NVIDIAAI)",
-      "publishedAt": "2026-06-04T02:17:37.000Z",
-      "summary": "辐射场的质量取决于其背后的图像。\n\nPPISP 可帮助补偿不同拍摄之间的光度变化，使 3D 重建在光照和相机设置不完全一致时更加鲁棒。\n\n🔗 项目：https：//nvda.ws/43JeJpk",
-      "category": "paper",
-      "score": 62,
-      "selected": true
-    },
-    {
-      "id": "cmpysu6gj030usli3gqo1qtsd",
-      "title": "联合国报告：2030年AI数据中心水电消耗将翻倍",
-      "title_en": "联合国报告警示：AI 驱动下，2030 年数据中心水电消耗将翻倍",
-      "url": "https://www.ithome.com/0/959/607.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-04T00:50:46.000Z",
-      "summary": "联合国大学水、环境与健康研究所报告指出，受AI需求驱动，去年全球数据中心耗电448太瓦时（AI占五分之一），耗水4.5万亿升，碳排放1.89亿吨。预计到2030年，年耗电量将翻倍至945太瓦时（AI占40%），耗水增至9.3万亿升，碳排放升至3.99亿吨，占地面积从6900平方公里扩展至14500平方公里。报告警告若忽视环境成本，AI落地还将加剧土地紧张与电子废弃物问题。",
-      "category": "industry",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmpzz2tek01czsltr5e8t02lu",
-      "title": "OpenAI 发布《智能时代的生物防御》行动计划，以 AI 驱动生物韧性",
-      "title_en": "Biodefense in the Intelligence Age",
-      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-04T00:00:00.000Z",
-      "summary": "OpenAI 提出一项名为\"Biodefense in the Intelligence Age\"的行动计划，旨在利用 AI 增强生物防御与韧性。该计划聚焦于构建 AI 驱动的生物安全能力，以应对未来可能出现的生物威胁。",
-      "category": "tip",
-      "score": 61,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-08T03:05:36Z"
+  "cachedAt": "2026-06-08T08:21:17Z"
 }
