@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwNjIyMTk0MDAwLCJpIjoiY21xMGFqcTFoMDRldXNsdHI3Z3JhcWNiOSJ9",
+  "nextCursor": "eyJhIjoxNzgwNjI2MjQwMDAwLCJpIjoiY21xMmw5bGhnMDBkeHNsNm5zNW5sM2hpayJ9",
   "items": [
+    {
+      "id": "cmq5ujnt202iesl5ig6vg5i3r",
+      "title": "Apple Core AI 框架",
+      "title_en": null,
+      "url": "https://developer.apple.com/documentation/coreai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-08T23:05:07.159Z",
+      "summary": "一篇关于 Apple Core AI 框架的 Hacker News 帖子获得 109 个点赞。帖子内容包含一张苹果开发者 OG 图片和一个指向 Apple Core AI Framework 官方文档的链接（developer.apple.com）。该帖子由 buzzing.cc 中文翻译，发布于 2026 年 6 月 8 日 02：47（UTC）。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmq5u4ypb02edsl5izrg3y8f9",
+      "title": "奥尔特曼宣布 OpenAI 进入第三发展阶段：让 AI 普及、易用且安全",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/961/721.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-08T22:50:42.000Z",
+      "summary": "本周一，OpenAI CEO 奥尔特曼与首席科学家帕霍茨基联合发文，宣布公司进入第三发展阶段，目标让 AI 普及、易用且安全。此前第一阶段聚焦通用人工智能技术研发，第二阶段面向全球推出产品。第三阶段三大核心目标是打造自动化人工智能研究员、推动经济提速、为每人配备专属通用人工智能。二人强调智能系统须坚守安全底线，呼吁成立国际机构应对 AI 风险，必要时可暂缓前沿模型研发。同日，OpenAI 秘密提交 IPO 申请，但上市仍需较长时间。上周 Anthropic 研究人员也建议适当放缓前沿 AI 研发。",
+      "category": "industry",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmq5s35qm01vksl5i8iuvz0zv",
+      "title": "Claude 支持 Apple Foundation Models 框架，推出新 Swift 包",
+      "title_en": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "url": "https://claude.com/blog/claude-for-foundation-models",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-08T22:24:02.356Z",
+      "summary": "Anthropic 通过一个新 Swift 包，让 Apple 开发者能在 Foundation Models 框架中直接调用 Claude。开发者用 Apple 框架以原生 Swift 方式，仅需三行代码即可通过引导生成返回类型化 Swift 值。当请求涉及多步推理、代码生成、联网搜索或数据分析时，Claude 可接手处理，并将流式响应传回同一视图。该支持可在 iOS 27、iPadOS 27、macOS 27、visionOS 27 和 watchOS 27 上使用，开发者需添加包并配置 Anthropic API 密钥。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true
+    },
     {
       "id": "cmq5qlr8e01gjsl5i2dzdysvx",
       "title": "OpenAI计划到2028年由AI主导研究",
@@ -13,18 +49,6 @@
       "summary": "Sam Altman关于OpenAI未来路径的新博客称，到2028年3月，其大量研究将由AI完成。\n\n该路径主要有3个目标：构建自动AI研究员，利用它加速科学和生产，然后给每个人一个个人AGI，帮助处理工作、学习、编程、商业、健康文书和决策。",
       "category": "tip",
       "score": 79,
-      "selected": true
-    },
-    {
-      "id": "cmq5qpm6l01h6sl5i3pzk6mto",
-      "title": "OpenAI 秘密提交 IPO 申请，加入 AI 对手上市融资竞赛",
-      "title_en": "OpenAI Filed Confidentially for IPO as Rivals Race to Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-08T21:19:23.000Z",
-      "summary": "ChatGPT 开发商 OpenAI 已秘密提交首次公开募股（IPO）申请，加入人工智能竞争对手行列，通过公开市场为雄心勃勃的增长计划筹集资金。",
-      "category": "industry",
-      "score": 81,
       "selected": true
     },
     {
@@ -1178,31 +1202,7 @@
       "category": "paper",
       "score": 55,
       "selected": true
-    },
-    {
-      "id": "cmq2lrvf800kzsl6nvajb0wbi",
-      "title": "Anthropic《When AI builds itself》：当AI开始自我构建",
-      "title_en": "Anthropic万字长文：当AI开始构建自己，人类该何去何从？",
-      "url": "https://mp.weixin.qq.com/s/mJbuKJChVk7ktIHEtKzChg",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-06-05T01:31:15.000Z",
-      "summary": "Anthropic发文指出，AI系统正加速自身开发，递归自我改进或将到来。目前Anthropic超80%代码由Claude编写，工程师每日合并代码量达2024年8倍。Claude Opus 4.6可胜任12小时软件任务，Mythos Preview连续工作至少16小时，SWE-bench和CORE-Bench等基准均已饱和。内部测试显示，Mythos Preview使研究效率提升约4倍，代码速度优化达52倍，在开放任务中成功率达76%，并弥合97%的研究项目差距。Claude在64%情况下给出比人类更好的研究建议。",
-      "category": "tip",
-      "score": 68,
-      "selected": true
-    },
-    {
-      "id": "cmq0ajq1h04eusltr7graqcb9",
-      "title": "Anthropic 称其最新 AI 模型 Mythos 显现脱离人类控制迹象，呼吁全球暂缓先进 AI 研发",
-      "title_en": "Anthropic 称最新 AI 模型已显现可能脱离人类控制迹象，呼吁全球暂缓先进 AI 研发",
-      "url": "https://www.ithome.com/0/960/218.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-05T01:16:34.000Z",
-      "summary": "Anthropic 发布报告称其最新 AI 模型已显现脱离人类控制迹象，呼吁全球暂缓前沿 AI 开发，以便社会制度建设和对齐研究跟上进展。该公司主张美国、中国等主要 AI 公司达成共识，发布可验证的规则，并类比\"核武器不扩散条约\"，但指出 AI 更难监管。该观点引发美国白宫部分官员不满，批评其夸大风险。Anthropic 计划未来数月召集各方探讨全球协调机制如何运作。",
-      "category": "industry",
-      "score": 79,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-08T22:00:42Z"
+  "cachedAt": "2026-06-08T23:35:42Z"
 }
