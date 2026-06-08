@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwNjA3NjIyMDAwLCJpIjoiY21xMDFjMGVvMDF5Y3NsdHJzNGFybm8yNyJ9",
+  "nextCursor": "eyJhIjoxNzgwNjIyMTk0MDAwLCJpIjoiY21xMGFqcTFoMDRldXNsdHI3Z3JhcWNiOSJ9",
   "items": [
+    {
+      "id": "cmq5qlr8e01gjsl5i2dzdysvx",
+      "title": "OpenAI计划到2028年由AI主导研究",
+      "title_en": "Sam Altman's new blog about OpenAI's future path says by March-2028 a significant fraction of its ow…",
+      "url": "https://x.com/rohanpaul_ai/status/2064096574142390755",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-06-08T21:25:46.000Z",
+      "summary": "Sam Altman关于OpenAI未来路径的新博客称，到2028年3月，其大量研究将由AI完成。\n\n该路径主要有3个目标：构建自动AI研究员，利用它加速科学和生产，然后给每个人一个个人AGI，帮助处理工作、学习、编程、商业、健康文书和决策。",
+      "category": "tip",
+      "score": 79,
+      "selected": true
+    },
+    {
+      "id": "cmq5qpm6l01h6sl5i3pzk6mto",
+      "title": "OpenAI 秘密提交 IPO 申请，加入 AI 对手上市融资竞赛",
+      "title_en": "OpenAI Filed Confidentially for IPO as Rivals Race to Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market",
+      "source": "Bloomberg：Technology（RSS）",
+      "publishedAt": "2026-06-08T21:19:23.000Z",
+      "summary": "ChatGPT 开发商 OpenAI 已秘密提交首次公开募股（IPO）申请，加入人工智能竞争对手行列，通过公开市场为雄心勃勃的增长计划筹集资金。",
+      "category": "industry",
+      "score": 81,
+      "selected": true
+    },
+    {
+      "id": "cmq5p0eag0118sl5iydnwrhui",
+      "title": "Viggle API 上线：任意角色任意动作秒级生成",
+      "title_en": "Introducing the Viggle API. Give any character any motion， one API call - alive in seconds. Wire …",
+      "url": "https://x.com/ViggleAI/status/2064083087806390319",
+      "source": "X：Viggle AI (@ViggleAI)",
+      "publishedAt": "2026-06-08T20:32:11.000Z",
+      "summary": "推出 Viggle API。\n\n给任意角色添加任意动作，一次 API 调用--数秒内即可激活。\n\n可接入 Claude、Codex 或你正在构建的任何智能体。起价 $0.01/秒。\n\n注册即获 100 次免费额度。\n\n转发 + 关注 + 评论，10 位中奖者再获 100 次！\n\n了解更多👇",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true
+    },
     {
       "id": "cmq5kh0q200g7sl38uoitn0e3",
       "title": "Claude 为 Connector 开发者推出性能监控仪表盘",
@@ -208,6 +244,18 @@
       "selected": true
     },
     {
+      "id": "cmq5pocki017bsl5ikjj1dzhk",
+      "title": "OpenAI 向 SEC 机密提交 S-1 草案，上市时间未定",
+      "title_en": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-08T14:00:00.000Z",
+      "summary": "OpenAI 近日向 SEC 机密提交了 S-1 草案（即首次公开募股注册声明），目前尚未决定上市时间。",
+      "category": "industry",
+      "score": 89,
+      "selected": true
+    },
+    {
       "id": "cmq5ae45j060nslt214k74uu3",
       "title": "微软AI CEO：超级智能即将到来，但不会取代你的工作",
       "title_en": "Microsoft's AI chief says superintelligence is near， but won't take your job",
@@ -253,6 +301,18 @@
       "summary": "用五个不同实验室的AI模型（OpenAI、NVIDIA、OpenBMB及一个自微调的5亿参数模型）各自驱动一个智能体构建经济市场，试图复现此前单一模型下出现的银行挤兑式价格崩溃。结果同一场景下模型不仅不抛售反而囤积，导致价格不跌反涨。通过纯谣言、库存泛滥、加大做空三种方式均无法重现崩溃。最终在结算环节直接覆盖价格，使崩溃成为设计事实。实验表明，AI智能体的涌现行为是偶然的而非稳健的，有效系统需在涌现纹理与确定性控制之间找到精确接缝。",
       "category": "tip",
       "score": 57,
+      "selected": true
+    },
+    {
+      "id": "cmq5oofrd00x3sl5iadjbb59k",
+      "title": "EU AI Act 合规：面向 AI 智能体的人工监督",
+      "title_en": "EU AI Act Compliance： Human Oversight for AI Agents",
+      "url": "https://openrouter.ai/blog/human-oversight-eu-ai-act-compliance-agent-sdk",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-08T12:00:00.000Z",
+      "summary": "使用智能体 SDK 的人机协作（HITL）工具，可满足 EU AI Act、Colorado AI Act 和 NIST AI RMF 对 AI 智能体的合规要求。",
+      "category": "ai-products",
+      "score": 64,
       "selected": true
     },
     {
@@ -373,6 +433,30 @@
       "summary": "阿里巴巴旗下高德发布全球首个3D原生城市世界模型ABot-Earth0.5，已建成覆盖190多个国家和地区的3D地图。用户输入卫星图或文字描述，10分钟即可在消费级GPU上生成公里级3D城市，输出可编辑3DGS格式，可直接导入Unity等引擎。制图成本为传统百分之一，效率提升约千倍，可为具身智能、低空经济、应急救援等提供支撑。目前已开放内测，可前往abot-earth.amap.com提交申请。",
       "category": "ai-models",
       "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmq5olpvf00wjsl5iw1vr85vy",
+      "title": "OpenAI 公布让 AGI 造福所有人的计划",
+      "title_en": "Built to benefit everyone： our plan",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-08T01:30:00.000Z",
+      "summary": "OpenAI 发布计划，阐述让 AGI 造福所有人的愿景。该计划聚焦于 AI 的可及性、安全性和共享繁荣，确保技术进步惠及每个人。",
+      "category": "tip",
+      "score": 56,
+      "selected": true
+    },
+    {
+      "id": "cmq5pmqqc0166sl5icnriem6v",
+      "title": "苹果发布第三代 Apple Foundation Models（AFM）",
+      "title_en": "Introducing the Third Generation of Apple's Foundation Models",
+      "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
+      "source": "Apple Machine Learning Research（RSS）",
+      "publishedAt": "2026-06-08T00:00:00.000Z",
+      "summary": "苹果推出第三代 Apple Foundation Models（AFM）基础模型家族，与 Google 合作定制，包含五个模型，覆盖从设备端到基于 Private Cloud Compute 的服务器端模型。这些模型旨在驱动 Apple Intelligence 功能，包括全新 Siri 和智能工具，以用户为中心深度融合操作系统，隐私为核心设计原则。",
+      "category": "ai-models",
+      "score": 79,
       "selected": true
     },
     {
@@ -1118,91 +1202,7 @@
       "category": "industry",
       "score": 79,
       "selected": true
-    },
-    {
-      "id": "cmq4k0mcr01psslot5yxg2wpu",
-      "title": "dots.tts 技术报告",
-      "title_en": "dots.tts Technical Report",
-      "url": "https://arxiv.org/abs/2606.07080",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-05T00:00:00.000Z",
-      "summary": "dots.tts 是一个 2B 参数的连续自回归 TTS 基座模型，在连续潜在空间中建模语音。其创新包括：多目标训练的 AudioVAE 构建语义结构化连续语音空间；全历史条件的 flow-matching 头保持长程一致性；无奖励自纠正后训练提升鲁棒性和音质。在 Seed-TTS-Eval 上取得最佳平均性能，中文/英文/中文-hard 的 WER 分别为 0.94%/1.30%/6.60%，SIM 分别为 81.0/77.1/79.5。其他基准也达开源 SOTA。基于 CFG 的 MeanFlow 蒸馏实现低延迟推理，输出流首包 85ms，双流 54ms。训练推理代码及检查点已开源。",
-      "category": "paper",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmq15ezdt0cn9sltrl1ad2e8n",
-      "title": "AI的微型钢厂",
-      "title_en": "The Minimill of AI",
-      "url": "https://www.tomtunguz.com/using-local-ai-to-work-faster",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-06-05T00:00:00.000Z",
-      "summary": "作者通过技能蒸馏将78%的AI工作交由Mac本地模型处理，仅复杂任务发往云端。智能体自动分类任务：简单任务本地数秒完成，复杂任务路由至云端。过去一周本地处理峰值达88%。双车道设计使吞吐量提升约25%，平均任务时长从47秒降至19秒，队列等待时间从73秒降至4秒（降幅94%）。该模式类比Nucor小钢厂，每台能运行蒸馏模型的边缘设备都成为小型AI工厂，仅对那1/5困难任务支付云费用。未来几年，数以千万计的此类设备将在企业内部增殖，逐步取代现阶段云厂商账单上的大部分工作负载。",
-      "category": "tip",
-      "score": 68,
-      "selected": true
-    },
-    {
-      "id": "cmq05xm1y036msltrf77ju7y7",
-      "title": "马斯克谈SpaceX上市：正处大规模资本扩张期",
-      "title_en": "Elon Musk on taking SpaceX public： \"I've been asked for many years about taking SpaceX public， so i…",
-      "url": "https://x.com/cb_doge/status/2062681226633523250",
-      "source": "X：cb_doge (@cb_doge)",
-      "publishedAt": "2026-06-04T23:41:41.000Z",
-      "summary": "马斯克在JPMorgan活动上回应SpaceX上市问题：他已被建议上市近10年，自2014-2015年起SpaceX就已实现正现金流并自筹资金，之前的私募轮次实际是面向投资者和员工的流动性/回购轮次。当前不同之处在于SpaceX正进入显著资本增长阶段，计划发射约10万颗通信卫星（可能超10万颗），AI和机器人对带宽需求巨大，还将在太空中建设AI数据中心，马斯克认为这将成为AI扩张的主要手段。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmq01ld46020ksltri2vkr5uv",
-      "title": "NotebookLM 来源归属功能上线",
-      "title_en": "Today we're launching another highly requested feature： Source Attribution！ 🥳 No more guessing. No…",
-      "url": "https://x.com/NotebookLM/status/2062653124326863077",
-      "source": "X：NotebookLM (@NotebookLM)",
-      "publishedAt": "2026-06-04T21:50:01.000Z",
-      "summary": "今天，我们推出又一项呼声很高的功能：来源归属！🥳\n\n无需再猜测。现在你可以看到每个创作物背后所用的确切公式（提示词 + 来源）。想要调整？只需轻点\"迭代\"，随心定制 💖",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true
-    },
-    {
-      "id": "cmq01qi40023fsltru08k8zx9",
-      "title": "Gemini macOS 双击 Command 附加活动窗口",
-      "title_en": "Get tailored help for what's on your screen using the Gemini app for macOS. 💻 Simply press both Co…",
-      "url": "https://x.com/GeminiApp/status/2062652523945836770",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-06-04T21:47:38.000Z",
-      "summary": "使用适用于 macOS 的 Gemini 应用，获取针对屏幕内容的定制帮助。💻\n\n只需同时按下两个 Command ⌘ 键，即可将当前活动窗口无缝附加到聊天中，无需手动截图或切换标签页。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmq010okb01vbsltr3j2n6q5t",
-      "title": "Anthropic 开源 AI 驱动漏洞发现框架",
-      "title_en": "Anthropic 用于人工智能驱动漏洞发现的开源框架",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-04T21:32:05.585Z",
-      "summary": "Anthropic 将其用于 AI 驱动漏洞发现的开源框架代码托管在 GitHub 上。该框架借助 AI 技术进行漏洞发现，旨在帮助识别软件中的安全缺陷。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmq01c0eo01ycsltrs4arno27",
-      "title": "共存与协同智能的终结",
-      "title_en": "Co-Existence and the End of Co-Intelligence",
-      "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
-      "source": "Ethan Mollick：One Useful Thing（RSS）",
-      "publishedAt": "2026-06-04T21:13:42.000Z",
-      "summary": "Ethan Mollick 在 One Useful Thing 博客中，以\"共存与协同智能的终结\"为题，并附带介绍了如何向 AI 推销一本书。",
-      "category": "tip",
-      "score": 73,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-08T19:35:04Z"
+  "cachedAt": "2026-06-08T22:00:42Z"
 }
