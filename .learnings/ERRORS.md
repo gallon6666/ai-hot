@@ -4,6 +4,38 @@ Command failures and integration errors.
 
 ---
 
+## [ERR-20260608-003] missing_jq
+
+**Logged**: 2026-06-08T11:05:00+08:00
+**Priority**: low
+**Status**: resolved
+**Area**: infra
+
+### Summary
+
+The GitHub authentication probe assumed `jq` was installed.
+
+### Error
+
+```text
+zsh: command not found: jq
+```
+
+### Context
+
+- GitHub returned HTTP 200, so authentication itself succeeded.
+
+### Suggested Fix
+
+Use shell-native parsing for the small API response in this environment.
+
+### Metadata
+
+- Reproducible: yes
+- Related Files: none
+
+---
+
 ## [ERR-20260608-002] in_app_browser_local_policy
 
 **Logged**: 2026-06-08T11:03:00+08:00
