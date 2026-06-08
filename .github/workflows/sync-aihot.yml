@@ -1,0 +1,53 @@
+name: Sync AI HOT data
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-aihot-data
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Fetch seven-day selected feed
+        shell: bash
+        run: |
+          set -euo pipefail
+          since=$(date -u -d "7 days ago" +%Y-%m-%dT%H:%M:%SZ)
+          user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124.0 Safari/537.36"
+
+          curl --fail --silent --show-error --location \
+            --retry 3 --retry-delay 3 \
+            -H "User-Agent: ${user_agent}" \
+            -H "Accept: application/json" \
+            "https://aihot.virxact.com/api/public/items?mode=selected&since=${since}&take=100" \
+            --output /tmp/items.json
+
+          jq -e '.items | type == "array"' /tmp/items.json >/dev/null
+          cached_at=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          jq --arg cachedAt "${cached_at}" '. + {cachedAt: $cachedAt}' \
+            /tmp/items.json > data/items.json
+
+      - name: Commit updated snapshot
+        shell: bash
+        run: |
+          if git diff --quiet -- data/items.json; then
+            echo "Snapshot unchanged"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/items.json
+          git commit -m "Update AI HOT data snapshot"
+          git push

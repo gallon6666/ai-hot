@@ -1,4 +1,5 @@
 const API_BASE = "https://aihot.virxact.com/api/public/items";
+const CACHE_URL = "./data/items.json";
 
 const categoryLabels = {
   "ai-models": "模型发布/更新",
@@ -67,15 +68,18 @@ function formatTime(value) {
 
 function filteredItems() {
   const query = state.query.trim().toLowerCase();
+  const cutoff = Date.now() - state.hours * 60 * 60 * 1000;
 
   return state.items.filter((item) => {
     const categoryMatch = state.category === "all" || item.category === state.category;
+    const publishedTime = item.publishedAt ? new Date(item.publishedAt).getTime() : NaN;
+    const timeMatch = Number.isNaN(publishedTime) || publishedTime >= cutoff;
     const queryMatch =
       !query ||
       [item.title, item.summary, item.source].some((value) =>
         String(value).toLowerCase().includes(query),
       );
-    return categoryMatch && queryMatch;
+    return categoryMatch && timeMatch && queryMatch;
   });
 }
 
@@ -153,15 +157,36 @@ async function fetchItems() {
     state.items = rawItems.map(normalizeItem);
     elements.headerStatus.textContent = `已同步 ${state.items.length} 条精选`;
     setStatus("hidden");
-  } catch (error) {
-    state.items = [];
-    elements.headerStatus.textContent = "数据源暂时不可达";
-    setStatus(
-      "error",
-      "暂时无法读取 AI HOT API",
-      `本页不会用旧新闻冒充实时数据。请稍后刷新，或前往 <a href="https://aihot.virxact.com" target="_blank" rel="noreferrer">AI HOT 原站 ↗</a>。`,
-    );
-    console.error(error);
+  } catch (liveError) {
+    try {
+      const cacheResponse = await fetch(`${CACHE_URL}?v=${Date.now()}`, {
+        headers: { Accept: "application/json" },
+      });
+      if (!cacheResponse.ok) throw new Error(`快照返回 ${cacheResponse.status}`);
+
+      const cache = await cacheResponse.json();
+      if (!Array.isArray(cache.items) || cache.items.length === 0) {
+        throw new Error("快照尚未生成");
+      }
+
+      state.items = cache.items.map(normalizeItem);
+      const cachedAt = cache.cachedAt ? formatTime(cache.cachedAt) : "时间未标注";
+      elements.headerStatus.textContent = `快照同步于 ${cachedAt}`;
+      setStatus(
+        "error",
+        "实时连接不可用，正在展示 GitHub 快照",
+        `快照同步时间：${cachedAt}。内容仍来自 AI HOT 公开 API。`,
+      );
+    } catch (cacheError) {
+      state.items = [];
+      elements.headerStatus.textContent = "数据源暂时不可达";
+      setStatus(
+        "error",
+        "暂时无法读取 AI HOT 数据",
+        `本页不会用旧新闻冒充实时数据。请稍后刷新，或前往 <a href="https://aihot.virxact.com" target="_blank" rel="noreferrer">AI HOT 原站 ↗</a>。`,
+      );
+      console.error(liveError, cacheError);
+    }
   } finally {
     state.loading = false;
     elements.refreshButton.disabled = false;
@@ -181,7 +206,8 @@ document.querySelectorAll("[data-hours]").forEach((button) => {
     elements.windowLabel.textContent =
       state.hours === 24 ? "最近 24 小时" : state.hours === 72 ? "最近 3 天" : "最近 7 天";
     setActiveButton("[data-hours]", button);
-    fetchItems();
+    if (state.items.length > 0) render();
+    else fetchItems();
   });
 });
 
