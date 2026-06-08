@@ -4,6 +4,39 @@ Command failures and integration errors.
 
 ---
 
+## [ERR-20260608-004] zsh_reserved_status
+
+**Logged**: 2026-06-08T11:08:00+08:00
+**Priority**: low
+**Status**: resolved
+**Area**: infra
+
+### Summary
+
+The Pages polling script used zsh's read-only `status` parameter.
+
+### Error
+
+```text
+zsh: read-only variable: status
+```
+
+### Context
+
+- GitHub Pages had already been enabled successfully with HTTP 201.
+- Only the follow-up polling loop stopped.
+
+### Suggested Fix
+
+Use `page_status` for zsh deployment polling scripts.
+
+### Metadata
+
+- Reproducible: yes
+- Related Files: none
+
+---
+
 ## [ERR-20260608-003] missing_jq
 
 **Logged**: 2026-06-08T11:05:00+08:00
