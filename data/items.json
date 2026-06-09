@@ -1,8 +1,80 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwODAzMTQzMDAwLCJpIjoiY21xMzk3am1hMDUyZHNsOTdxeGZwNzhvNyJ9",
+  "nextCursor": "eyJhIjoxNzgwODI5Mjg2MDAwLCJpIjoiY21xM3A2MnB4MDBsbHNsYTljaHR5dmY0eiJ9",
   "items": [
+    {
+      "id": "cmq74r6rm008wslophwgthx4l",
+      "title": "Claude Managed Agents 新增定时运行和环境变量存储功能",
+      "title_en": "New in Claude Managed Agents： run agents on a schedule and store environment variables in vaults",
+      "url": "https://claude.com/blog/whats-new-in-claude-managed-agents",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-09T21:06:26.068Z",
+      "summary": "Claude Managed Agents 今日在 Claude Platform 公开测试两项新功能：代理可按 cron 计划自动执行周期性任务（如夜间数据同步、周度合规扫描、每日摘要），无需用户自建调度器，支持暂停、恢复、归档或按需触发；vaults 新增环境变量支持，允许代理通过 CLI 进行认证请求，真实密钥仅附加在网络边界，代理无法读取。已集成的 CLI 包括 Browserbase、KERNEL、Notion、Ramp 和 Sentry。Rakuten、Actively AI、Ando、Milana 等团队正在使用这些功能实现自动化数据报表、跨账户搜索、招聘提醒等场景。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmq72e9ea002ksle3umrclmuo",
+      "title": "Mythos 5 智能体因资源互相杀戮",
+      "title_en": "Mythos 5 agents started killing other agents over resources - and \"to avoid being killed themselves\"",
+      "url": "https://x.com/AISafetyMemes/status/2064435128479400270",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "publishedAt": "2026-06-09T19:51:04.000Z",
+      "summary": "Mythos 5 个智能体开始因为资源互相残杀--并且\"为了避免自己被杀死\"",
+      "category": "industry",
+      "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmq7289uo001rsle3dbj1unbi",
+      "title": "Hugging Face 博客发布语音智能体代码切换基准测试",
+      "title_en": "Can Voice Agents Handle Bilingual Customers？ Benchmarking Frontier ASR on Code-Switched Speech",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-06-09T19:38:28.000Z",
+      "summary": "Hugging Face 博客发布针对语音智能体处理代码切换语音的基准测试。数据集覆盖西班牙语-英语、法语-英语、加拿大法语-英语和德语-英语四对语言，基于人力资源与IT服务管理场景构建。采用词错误率、语义词错误率和答案错误率三项指标评估七种ASR系统，包括AssemblyAI Universal 3-Pro、Deepgram Nova 3 Multilang、ElevenLabs Scribe V2、Gemini 3 Flash、Mistral AI Voxtral Small 24B-2507、Nvidia Parakeet TDT 0.6b V3和OpenAI Whisper Large V3 Turbo。主要发现：代码切换的转录成本因语言对和模型而异；ElevenLabs Scribe V2、Gemini 3 Flash和AssemblyAI Universal 3-Pro在所有指标上表现最佳。数据集和测试框架通过AU-Harness开源发布。",
+      "category": "paper",
+      "score": 67,
+      "selected": true
+    },
+    {
+      "id": "cmq70u8g501f3slbh9ljxnmoy",
+      "title": "Claude Code 团队 Thariq 分享提升 Claude Code 效率的十条建议",
+      "title_en": "Some really cool recommendation for pushing Claude Code to its full potential. By Thariq （@trq212） f…",
+      "url": "https://x.com/rohanpaul_ai/status/2064425086409679358",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-06-09T19:11:10.000Z",
+      "summary": "Thariq（Claude Code 团队）提出十条建议，核心转变是：从检查 Claude 是否做对工作，转向检查它是否在做正确的工作。具体包括：提前提供完整上下文，将其视为思考伙伴；用小规格文档让 Claude 访谈实现细节；探索多方向并生成 HTML 原型；提供丰富上下文（如功能可能一个月后删除）而非硬约束；设定明确目标与验证方法；使用 /goal 命令；利用 Workflows 并行任务、自我验证并生成对比报告；同时设置目标和 workflow；更勇敢地将此前认为 LLM 无法完成的任务交给 Claude Fable 5，因其可运行数小时、自检并产出高质量代码。Thariq 本人用 Claude Fable 5 剪辑了整段视频证明其能力。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmq6zc2gi00zlslbhqf3iwgv1",
+      "title": "NotebookLM 笔记本功能在 Gemini App 欧洲全面上线",
+      "title_en": "Notebooks in @GeminiApp are now 100% rolled out in Europe！ We're so excited to hear what you think！…",
+      "url": "https://x.com/NotebookLM/status/2064410506287538387",
+      "source": "X：NotebookLM (@NotebookLM)",
+      "publishedAt": "2026-06-09T18:13:14.000Z",
+      "summary": "NotbookLM 宣布其笔记本功能已在欧洲的 Gemini App 中 100% 上线。此前用户只能上传笔记本作为 Gemini 的来源，现在可直接在 Gemini App 内访问所有个人未共享的笔记本，并将与 Gemini 的对话作为新笔记本或已有笔记本的来源。该功能先面向 Google AI Ultra、Pro 和 Plus 订阅者的网页端，未来几周将扩展到移动端、更多欧洲国家及免费用户。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true
+    },
+    {
+      "id": "cmq737old00b0sle3025e4b4c",
+      "title": "OpenRouter 推出 Advisor 工具：让低成本模型可随时调用强模型增强生成",
+      "title_en": "Advisor： Give Any Model a Lifeline to a Smarter One",
+      "url": "https://openrouter.ai/blog/advisor-server-tool",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-09T18:00:00.000Z",
+      "summary": "OpenRouter 发布 advisor 服务器工具，允许一个快速、便宜的模型在生成过程中咨询一个更强大的模型。具体而言，可用 GPT-4o Mini 处理日常例行工作，在关键时刻调用 Claude Fable 解决真正重要的问题，从而实现成本和质量的动态平衡。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmq6yahue00p0slbh0r0bgk9q",
       "title": "Cursor Evals 新增成本与输出 Token 图表",
@@ -13,18 +85,6 @@
       "summary": "我们刚刚向 http：//cursor.com/evals 推送了一些改进！\n\n你现在可以看到每个模型的成本、输出 token 和步骤绘制在图表中",
       "category": "ai-products",
       "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmq6yr8ti00uvslbhieio47wm",
-      "title": "Claude Code v2.1.170 发布：引入 Claude Fable 5 模型",
-      "title_en": "v2.1.170",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.170",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-06-09T17:23:09.000Z",
-      "summary": "Claude Code v2.1.170 更新引入新模型 Claude Fable 5（Mythos-class），Anthropic 称其能力超过以往所有已开放使用的模型，并已确保安全。该版本同时修复了从 VS Code 集成终端或继承了 Claude Code 环境变量的 shell 启动时 session 无法保存 transcript 且无法用 `--resume` 恢复的问题。",
-      "category": "ai-models",
-      "score": 88,
       "selected": true
     },
     {
@@ -61,18 +121,6 @@
       "summary": "Anthropic 今日推出 Claude Fable 5（通用安全版）和 Claude Mythos 5（受限安全版）。Fable 5 在软件工程、知识工作、视觉、科研等几乎所有测试基准上达到 SOTA，Stripe 称其将数月工程压缩至数天，FrontierCode 评分居前沿模型之首，可仅凭截图重建网页应用源码。Mythos 5 在药物设计中实现约 10 倍加速，其分子生物学假说盲测获科学家偏好的概率约 80%。两模型售价均为 $10/百万输入 tokens、$50/百万输出 tokens，较 Claude Mythos Preview 降价过半。Fable 5 在部分敏感主题上回退至 Claude Opus 4.8，安全触发率低于 5% 的会话。Mythos 5 通过 Project Glasswing 向网络安全防御者开放。",
       "category": "ai-models",
       "score": 90,
-      "selected": true
-    },
-    {
-      "id": "cmq6x3e2q00cwslbhxy4wde4e",
-      "title": "Cohere首个编程模型North Mini Code免费开源",
-      "title_en": "North Mini Code is now free on OpenCode 256K Context · fully open source Cohere's first coding mod…",
-      "url": "https://x.com/opencode/status/2064392792265171081",
-      "source": "X：opencode (@opencode)",
-      "publishedAt": "2026-06-09T17:02:50.000Z",
-      "summary": "North Mini Code 现已在 OpenCode 上免费提供\n\n256K 上下文 · 完全开源\n\nCohere 的首个编程模型",
-      "category": "ai-models",
-      "score": 65,
       "selected": true
     },
     {
@@ -133,6 +181,18 @@
       "summary": "GitHub Copilot CLI 新增自定义 AI 智能体功能，使 CLI 能够理解开发者的技术栈和团队工作流，将一次性终端提示转变为可重复、可审查的流程。",
       "category": "tip",
       "score": 68,
+      "selected": true
+    },
+    {
+      "id": "cmq74dg8m006psloprllkcbmm",
+      "title": "Cohere发布North Mini Code：面向开发者的开源编码模型",
+      "title_en": "Introducing North Mini Code： Cohere's First Model For Developers",
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-06-09T15:56:23.000Z",
+      "summary": "Cohere发布North Mini Code，一款30B参数MoE模型（3B活跃参数），Apache 2.0开源。在Artificial Analysis Coding Index上得分33.4，超越Qwen3.5、Gemma 4等同类模型。后训练采用两阶段SFT和RLVR，在SWE-Bench Verified上pass@10达80.2%，Terminal-Bench v2上达55.1%。支持64K/128K上下文长度，专为智能体编码任务优化。",
+      "category": "ai-models",
+      "score": 73,
       "selected": true
     },
     {
@@ -265,6 +325,18 @@
       "summary": "2026年6月，百度智能云旗下百度搭子DuMate V3.4.0通过中国信通院「可信AI-企业级Claw能力评估」，获最高评级4+级，为国内首批。评估依据《智能助理智能体（Claw）技术和应用要求 第2部分 企业级Claw能力》（AIIA/T 0295-2026），覆盖智能体、工程化部署、服务、业务融合、运行管理五大能力域。百度搭子支持多智能体分工协作、容器化批量部署、多租户隔离与三级差异化授权、企业知识库接入、全链路日志审计等能力，企业级智能助手服务能力获国家级权威认可。",
       "category": "industry",
       "score": 63,
+      "selected": true
+    },
+    {
+      "id": "cmq734vrf00a7sle3gi1phrm9",
+      "title": "Nextdoor 工程师借助 Codex 与 GPT-5.5 无限制构建",
+      "title_en": "How engineers at Nextdoor use Codex to build without limits",
+      "url": "https://openai.com/index/nextdoor",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-09T12:00:00.000Z",
+      "summary": "Nextdoor 工程师利用 Codex 搭配 GPT-5.5 调查难以复现的问题、实现跨平台构建，并集中精力于产品成果。",
+      "category": "tip",
+      "score": 55,
       "selected": true
     },
     {
@@ -700,18 +772,6 @@
       "selected": true
     },
     {
-      "id": "cmq5d3g7k06t5slt27nmi6rvh",
-      "title": "OpenRouter Advisor 助小模型问高级模型",
-      "title_en": "New server tool： Advisor Let smaller models consult a higher-intelligence \"advisor\" model. Helps t…",
-      "url": "https://x.com/OpenRouter/status/2064004944613527730",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-06-08T15:21:40.000Z",
-      "summary": "新服务器工具：Advisor\n\n让较小的模型咨询一个更高智能的\"顾问\"模型。\n\n帮助它们逃出困境循环，并帮助你迁移到更便宜的模型！🧵",
-      "category": "tip",
-      "score": 72,
-      "selected": true
-    },
-    {
       "id": "cmq5cna7k06nbslt2fvxds4v4",
       "title": "Hivemind推出面向AI编程智能体的持续学习功能，即日起开放",
       "title_en": "New from Hivemind： continual learning for AI coding agents， available to everyone starting today. I…",
@@ -1142,67 +1202,7 @@
       "category": "tip",
       "score": 78,
       "selected": true
-    },
-    {
-      "id": "cmq3nuz12009bsla9rbw1qhyn",
-      "title": "Her · हेर - Claude Code 会话分析工具",
-      "title_en": "Her · हेर - a detective for your Claude Code sessions",
-      "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-07T10:13:41.000Z",
-      "summary": "Her（हेर）是专为 Claude Code 设计的会话分析工具。用户上传 `.jsonl` 文件后，Her 用自然语言重建每轮交互，标记部署、配置变更、秘密等高风险操作并定位到具体轮次。它展示 token 消耗、所用工具、子智能体、技能和 MCP 服务器，并结合 Anthropic 与社区最佳实践给出改进建议（仅在有明确可修复模式时）。内置\"Ask Her\"问答功能，支持单会话与跨会话项目分析。工具不调用第三方 AI API，使用 Nemotron-Mini-4B-Instruct 模型在 Hugging Face ZeroGPU 上运行，评估引擎完全确定，模型仅负责文本生成与建议。Her 内置 Homebrew、npm、PyPI 主流 CLI 工具数据库，自动识别会话中使用的工具，并对部署工具、数据库客户端等执行活动进行标记提醒。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmq3eppdj06j7sl97koo7u9xf",
-      "title": "Harness-1：基于强化学习训练的有状态搜索20B检索子智能体",
-      "title_en": "Meet Harness-1： A 20B Retrieval Subagent Trained With Reinforcement Learning Inside a Stateful Search Harness on gpt-oss-20b",
-      "url": "https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-06-07T06:25:18.000Z",
-      "summary": "UIUC与Chroma联合推出Harness-1，一个20B参数的检索子智能体。它通过强化学习在一个有状态搜索框架中训练，该框架维护候选池、重要性标注集、证据图和验证记录，由策略决定搜索、筛选、验证及停止的时机。Harness-1在8个基准测试上达到0.730平均curated recall，比下一个最佳开源子智能体高出11.4个百分点，仅落后于Opus-4.6。模型权重和框架代码均已公开。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmq3e8n9k06evsl97fee4j5ki",
-      "title": "Opus 4.8 缓存命中率与有效价格可实时查看",
-      "title_en": "How do different model providers differ on cache hit rate and effective price？ Now you can see real…",
-      "url": "https://x.com/OpenRouter/status/2063504950429147376",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-06-07T06:14:52.000Z",
-      "summary": "不同模型提供商在缓存命中率和有效价格上有什么差异？\n\n现在你可以从 Pricing 标签查看实时缓存命中率和历史流量。这里是 Opus 4.8：https：//openrouter.ai/anthropic/claude-opus-4.8/pricing",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true
-    },
-    {
-      "id": "cmq392v1i051osl97zxmhrco3",
-      "title": "Harness 工程：在智能体优先的世界中运用 Codex",
-      "title_en": "Harness 工程：在\"代理优先\"的世界中运用 Codex",
-      "url": "https://openai.com/index/harness-engineering",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-07T03:39:37.239Z",
-      "summary": "Harness 工程在智能体优先的世界中利用 OpenAI Codex 的实践文章，6月6日发布于 openai.com，在 Hacker News 上获得 102 点热度。",
-      "category": "tip",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmq397jma052dsl97qxfp78o7",
-      "title": "对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果",
-      "title_en": "对比一下 GPT-5.5 的设计效果和 Opus 4.8 的设计效果 我真不是尬黑 GPT-5.5，我这种审美水平都能看出来差距 使用 Skill：https：//github.com/JimLi…",
-      "url": "https://x.com/dotey/status/2063464057647075379",
-      "source": "X：宝玉 (@dotey)",
-      "publishedAt": "2026-06-07T03:32:23.000Z",
-      "summary": "宝玉对比了GPT-5.5与Opus 4.8的设计能力，认为Opus 4.8效果远优于GPT-5.5。他使用了基于Cursor浏览器和元素标注的baoyu-design Skill，该Skill通过npx skills add JimLiu/baoyu-design安装，可在本地运行：描述屏幕需求即可生成精良HTML，点击预览中任意元素即可发出修改指令。官方推荐搭配Opus 4.8以获得最佳效果。工具GitHub仓库：https：//github.com/JimLiu/baoyu-design。",
-      "category": "tip",
-      "score": 76,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-09T18:20:33Z"
+  "cachedAt": "2026-06-09T21:09:01Z"
 }
