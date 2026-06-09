@@ -1,8 +1,32 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwNjUzMjY3MDAwLCJpIjoiY21xMm83MWwwMDFpbXNsNm53NWN5cHU5YSJ9",
+  "nextCursor": "eyJhIjoxNzgwNjY0NDAwMDAwLCJpIjoiY21xMTB1eGY4MGJmZXNsdHJuZ3UxbG8xNSJ9",
   "items": [
+    {
+      "id": "cmq6e266t07lksl5ilaz45zbv",
+      "title": "硅基流动联合CodeWhale推出DeepSeek V4终端最佳性价比组合",
+      "title_en": "V4-Pro （quality） + V4-Flash （speed） 2 lines of config to bring the Best price/perf DeepSeek combo in…",
+      "url": "https://x.com/SiliconFlowAI/status/2064261826083512554",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "publishedAt": "2026-06-09T08:22:26.000Z",
+      "summary": "硅基流动宣布，通过V4-Pro（质量）与V4-Flash（速度）两行配置，即可在终端获得DeepSeek V4的最佳性价比组合。专为DeepSeek V4构建的终端编码智能体CodeWhale现已内置SiliconFlow。CodeWhale具备流式推理（显示思考过程）、自动路由（根据任务复杂度切换模型与思考深度）、零漂移（通过书面宪法为每轮排序权威，保持V4定向）以及自我改进（V4协助编写框架，框架提升后每个会话更强大）等特性。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true
+    },
+    {
+      "id": "cmq69650406cmsl5iwf8zszhp",
+      "title": "AI 编程独角兽 Cursor 欧洲总部落子伦敦，SpaceX 手握 600 亿美元收购选择权",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/961/868.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-09T05:53:06.000Z",
+      "summary": "Cursor 将欧洲总部设在伦敦，计划招聘约 200 名员工，并在巴黎、慕尼黑等地开设小型办事处。SpaceX 拥有以 600 亿美元收购 Cursor 的选择权，或支付 100 亿美元开展全新合作。Cursor 目前 B2B 年化营收约 26 亿美元，客户包括英国航空、英国石油、诺基亚等。公司强调数据留存欧洲本地以满足监管合规，其平台支持用户用自然语言生成代码，主打模型中立，竞争对手包括 GitHub Copilot、OpenAI 和谷歌的同类产品。",
+      "category": "industry",
+      "score": 72,
+      "selected": true
+    },
     {
       "id": "cmq63dzew04srsl5ix1r8n4ne",
       "title": "小米 MiMo 与 TileRT 联合发布 UltraSpeed 模式，1T 模型输出突破 1000 tokens/s",
@@ -424,6 +448,18 @@
       "selected": true
     },
     {
+      "id": "cmq6ad1x406mnsl5icugz7p62",
+      "title": "Reasoning Arena：可验证奖励不足时的迹线锦标赛",
+      "title_en": "Reasoning Arena： Trace Tournaments When Verifiable Rewards Fall Short",
+      "url": "https://arxiv.org/abs/2606.09380",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-08T11:57:17.000Z",
+      "summary": "针对基于可验证奖励的强化学习（RLVR）在组级别奖励无信息时无法提供梯度信号的问题，提出Reasoning Arena自适应训练框架。该框架将非多样化奖励组路由至评判系统，通过迹线锦标赛（trace tournaments）对推理迹线进行头对头比较，转化为相对奖励信号。每个新迹线仅与动态更新的少量锚点比较，然后在不完全比较图上拟合Bradley-Terry模型。在竞赛数学和编程基准上，平均超越RLVR基线7.6%，训练加速27%至41%，节省近50%生成计算量。",
+      "category": "paper",
+      "score": 74,
+      "selected": true
+    },
+    {
       "id": "cmq55gcok04r4slt26kmgs0xg",
       "title": "Pakistan Notice Helper：一款面向本地安全问题的轻量 AI 工具",
       "title_en": "Building Pakistan Notice Helper： A Small AI Tool for a Very Local Safety Problem",
@@ -553,6 +589,18 @@
       "summary": "OpenAI 发布计划，阐述让 AGI 造福所有人的愿景。该计划聚焦于 AI 的可及性、安全性和共享繁荣，确保技术进步惠及每个人。",
       "category": "tip",
       "score": 56,
+      "selected": true
+    },
+    {
+      "id": "cmq662pg105irsl5i1tkwikyf",
+      "title": "OmniGameArena：面向VLM游戏智能体的统一UE5基准与改善动态",
+      "title_en": "OmniGameArena： A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics",
+      "url": "https://arxiv.org/abs/2606.09826",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-08T00:00:00.000Z",
+      "summary": "OmniGameArena是一个基于十二个Unreal Engine 5新构建游戏的实时基准，涵盖单人（7个）、PvP（3个）和合作（2个）模式，提供统一动作接口。除冷启动排行榜分数外，还引入Improvement Dynamics Curve （IDC），一种智能体反射评估机制：通过工具调用反射大语言模型自动优化技能提示词，追踪多轮反射中的分数变化以及习得技能在任务变体上的泛化表现。论文报告了12个VLM智能体在冷启动排行榜上的表现，以及4个顶级智能体在IDC下的指标。",
+      "category": "paper",
+      "score": 73,
       "selected": true
     },
     {
@@ -1154,55 +1202,7 @@
       "category": "ai-products",
       "score": 71,
       "selected": true
-    },
-    {
-      "id": "cmq2o71l001iisl6n8ljx5jbt",
-      "title": "腾讯混元提出Stem稀疏注意力算法，被ICML 2026收录",
-      "title_en": "首字延迟降低3.6倍，腾讯混元提出Stem稀疏注意力算法，长文推理加速新SOTA",
-      "url": "https://mp.weixin.qq.com/s/XneOSvjt-7A-DU546cGoZA",
-      "source": "公众号：腾讯混元",
-      "publishedAt": "2026-06-05T11:22:41.000Z",
-      "summary": "Stem算法通过Token位置衰减（TPD）和输出感知度量（OAM）两项创新，仅用25%算力即逼近稠密注意力精度。配套HPC算子针对Hopper架构优化，支持FP8量化与vLLM的Paged KV Cache，在混元Hy3 preview上实现首字延迟降低3.6倍。HPC-BSA相比MIT-BSA稳定保持约3倍加速，在8K至256K序列长度上表现一致。",
-      "category": "paper",
-      "score": 62,
-      "selected": true
-    },
-    {
-      "id": "cmq0u0eel09ljsltrgblmk1xv",
-      "title": "微软CEO Satya Nadella最新访谈上线",
-      "title_en": "chat is he cooked",
-      "url": "https://x.com/swyx/status/2062854555562565741",
-      "source": "X：swyx (@swyx)",
-      "publishedAt": "2026-06-05T11:10:26.000Z",
-      "summary": "Satya Nadella 在 Latent Space 发布最新访谈，链接见原文。原推文仅评论\"chat is he cooked\"。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmq2l9lfs009zsl6n45wlgkj8",
-      "title": "FluxA与百度智能云战略合作，为Agent经济搭建基础设施",
-      "title_en": "FluxA🤝百度智能云：DAA时代，终于轮到AI自己赚钱了",
-      "url": "https://mp.weixin.qq.com/s/_Gxb4JWjVidXVfeCRjghzg",
-      "source": "公众号：百度智能云（文心）",
-      "publishedAt": "2026-06-05T10:52:01.000Z",
-      "summary": "百度智能云与FluxA建立战略合作，共同为Agent经济搭建基础设施。百度智能云提供可交易商品体系、自雇佣交易机制、能力工具箱及出海分销通道；FluxA作为支付底座，提供低费率高频微交易、Financial Harness安全授权、全球收款与Token Paywall。目前超9万个Agent使用FluxA钱包，超1万个AI Agent资源完成商业化。今年一季度中国两地区OPC新增超6000户，日均Token消耗140万亿。DAA被视为AI时代衡量生态价值的核心指标。",
-      "category": "industry",
-      "score": 57,
-      "selected": true
-    },
-    {
-      "id": "cmq2o71l001imsl6nw5cypu9a",
-      "title": "PawBench：给通用智能体一把可度量的尺",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/Q1fa3KwT63HBOF2fmWKzlg",
-      "source": "公众号：通义实验室（千问）",
-      "publishedAt": "2026-06-05T09:54:27.000Z",
-      "summary": "通义实验室推出全新评测基准PawBench v1.0，面向个人助理与通用智能体场景，将底座模型与运行框架Harness纳入同一体系进行交叉评测。评测矩阵包含9个模型与3个Harness（Hermes、OpenClaw、QwenPaw），覆盖150道真实任务共4050个测试单元。结果显示，QwenPaw（76.4分）、OpenClaw（75.4分）、Hermes（70.4分）之间存在显著分差，Harness环境对表现的影响甚至大于模型本身。PawBench还通过切片分析揭示了Harness在产物校验、Skill主动发现和Web搜索默认可用性等方面的关键差距。项目已开源。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-09T04:33:02Z"
+  "cachedAt": "2026-06-09T08:40:38Z"
 }
