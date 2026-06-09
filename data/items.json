@@ -1,8 +1,176 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwNjkzMzQ5MDAwLCJpIjoiY21xMWZ3MmJiMGZmc3NsdHJ2bDY5MXdueCJ9",
+  "nextCursor": "eyJhIjoxNzgwODAzMTQzMDAwLCJpIjoiY21xMzk3am1hMDUyZHNsOTdxeGZwNzhvNyJ9",
   "items": [
+    {
+      "id": "cmq6yahue00p0slbh0r0bgk9q",
+      "title": "Cursor Evals 新增成本与输出 Token 图表",
+      "title_en": "we just shipped some improvements to http：//cursor.com/evals！ you can now see cost， output tokens a…",
+      "url": "https://x.com/ericzakariasson/status/2064404502053294565",
+      "source": "X：Eric Zakariasson (@ericzakariasson)",
+      "publishedAt": "2026-06-09T17:49:22.000Z",
+      "summary": "我们刚刚向 http：//cursor.com/evals 推送了一些改进！\n\n你现在可以看到每个模型的成本、输出 token 和步骤绘制在图表中",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmq6yr8ti00uvslbhieio47wm",
+      "title": "Claude Code v2.1.170 发布：引入 Claude Fable 5 模型",
+      "title_en": "v2.1.170",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.170",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-06-09T17:23:09.000Z",
+      "summary": "Claude Code v2.1.170 更新引入新模型 Claude Fable 5（Mythos-class），Anthropic 称其能力超过以往所有已开放使用的模型，并已确保安全。该版本同时修复了从 VS Code 集成终端或继承了 Claude Code 环境变量的 shell 启动时 session 无法保存 transcript 且无法用 `--resume` 恢复的问题。",
+      "category": "ai-models",
+      "score": 88,
+      "selected": true
+    },
+    {
+      "id": "cmq6x171500clslbherqa4dhg",
+      "title": "Responses API 网页搜索新增图片结果",
+      "title_en": "Your app can now search the web for images. Web search in the Responses API now supports image resu…",
+      "url": "https://x.com/OpenAIDevs/status/2064395155688616153",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-06-09T17:12:14.000Z",
+      "summary": "你的应用现在可以搜索网页上的图片。\n\nResponses API 中的网页搜索现在除了文本结果外，还支持图片结果，因此你可以构建能展示商品、地点、视觉参考和来源链接以激发灵感的应用。",
+      "category": "ai-products",
+      "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmq6yfqwl00r9slbhgupwks0e",
+      "title": "Claude Fable 发布：Anthropic 带来的另一种推理体验",
+      "title_en": "What it feels like to work with Mythos",
+      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+      "source": "Ethan Mollick：One Useful Thing（RSS）",
+      "publishedAt": "2026-06-09T17:11:22.000Z",
+      "summary": "Anthropic 发布 Claude Fable，这是一款提供截然不同推理体验的 AI 模型。它擅长规划与生成复杂代码库，在需要精确构建代码结构或理解程序员深层需求的场景中，其表现相比 Claude Sonnet 有了大幅提升。用户描述与它协作更像与一位直觉敏锐的资深工程师合作，其对代码意图的捕捉和方案生成能力令人惊叹，但并非通用型 AI。",
+      "category": "tip",
+      "score": 66,
+      "selected": true
+    },
+    {
+      "id": "cmq6w3soi002gslbhz3kkhav0",
+      "title": "Claude Fable 5 和 Claude Mythos 5",
+      "title_en": "Claude Fable 5 and Claude Mythos 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-06-09T17:04:29.001Z",
+      "summary": "Anthropic 今日推出 Claude Fable 5（通用安全版）和 Claude Mythos 5（受限安全版）。Fable 5 在软件工程、知识工作、视觉、科研等几乎所有测试基准上达到 SOTA，Stripe 称其将数月工程压缩至数天，FrontierCode 评分居前沿模型之首，可仅凭截图重建网页应用源码。Mythos 5 在药物设计中实现约 10 倍加速，其分子生物学假说盲测获科学家偏好的概率约 80%。两模型售价均为 $10/百万输入 tokens、$50/百万输出 tokens，较 Claude Mythos Preview 降价过半。Fable 5 在部分敏感主题上回退至 Claude Opus 4.8，安全触发率低于 5% 的会话。Mythos 5 通过 Project Glasswing 向网络安全防御者开放。",
+      "category": "ai-models",
+      "score": 90,
+      "selected": true
+    },
+    {
+      "id": "cmq6x3e2q00cwslbhxy4wde4e",
+      "title": "Cohere首个编程模型North Mini Code免费开源",
+      "title_en": "North Mini Code is now free on OpenCode 256K Context · fully open source Cohere's first coding mod…",
+      "url": "https://x.com/opencode/status/2064392792265171081",
+      "source": "X：opencode (@opencode)",
+      "publishedAt": "2026-06-09T17:02:50.000Z",
+      "summary": "North Mini Code 现已在 OpenCode 上免费提供\n\n256K 上下文 · 完全开源\n\nCohere 的首个编程模型",
+      "category": "ai-models",
+      "score": 65,
+      "selected": true
+    },
+    {
+      "id": "cmq6wk8kc008jslbhgv6rna5r",
+      "title": "Apollo 与 Blackstone 联手 350 亿美元 AI 融资交易",
+      "title_en": "Apollo， Blackstone Fund AI Boom",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-09/apollo-blackstone-fund-ai-boom-video",
+      "source": "Bloomberg：Technology（RSS）",
+      "publishedAt": "2026-06-09T16:54:29.000Z",
+      "summary": "Apollo 和 Blackstone 合作开展 350 亿美元 AI 融资交易，可能重塑人工智能基础设施的融资方式。华尔街正为昂贵的 AI 芯片创建新的融资模型，Anthropic 和 Broadcom 参与其中。这笔交易可能标志着一个全新 AI 投资类别的开端。",
+      "category": "industry",
+      "score": 81,
+      "selected": true
+    },
+    {
+      "id": "cmq6w8kfq0054slbhl8fai2wp",
+      "title": "World Labs与Lore合作打造互动体验",
+      "title_en": "The creativity and imagination is out of the world！ So grateful that @theworldlabs got to partner wi…",
+      "url": "https://x.com/drfeifei/status/2064387365930676695",
+      "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
+      "publishedAt": "2026-06-09T16:41:17.000Z",
+      "summary": "创意和想象力无与伦比！非常感谢@theworldlabs能与@withloreco的优秀人才合作，将他们不可思议的想法转化为用户可以享受的互动体验！🤩",
+      "category": "ai-products",
+      "score": 78,
+      "selected": true
+    },
+    {
+      "id": "cmq6v2unp0c37sl5i7x4os7e1",
+      "title": "Ex Vivo：多样细胞状态提升AI疗法匹配",
+      "title_en": "New research in Nature Methods from Project Ex Vivo shows AI models learn more from diverse cell sta…",
+      "url": "https://x.com/MSFTResearch/status/2064384745195118817",
+      "source": "X：Microsoft Research (@MSFTResearch)",
+      "publishedAt": "2026-06-09T16:30:52.000Z",
+      "summary": "在《Nature Methods》上发表的最新研究来自Project Ex Vivo，表明AI模型从多样化的细胞状态中学到的知识，比仅从规模化数据集中学到的更多，这一发现可能重塑疗法与患者的匹配方式。https：//msft.it/6013vgE8l",
+      "category": "paper",
+      "score": 63,
+      "selected": true
+    },
+    {
+      "id": "cmq6v24y60c2rsl5i9yvqrige",
+      "title": "OpenRouter与Cursor集成指南",
+      "title_en": "Want to use OpenRouter with Cursor？ Here's an integration guide： https：//openrouter.ai/docs/cookboo…",
+      "url": "https://x.com/OpenRouter/status/2064384545256833209",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-06-09T16:30:04.000Z",
+      "summary": "想要在Cursor中使用OpenRouter吗？\n\n这里有一份集成指南：https：//openrouter.ai/docs/cookbook/coding-agents/cursor-integration",
+      "category": "tip",
+      "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmq6ugzqs0bxhsl5itd4fbiqd",
+      "title": "GitHub Copilot CLI 推出自定义 AI 智能体，将一次性终端提示转化为可重复工作流",
+      "title_en": "From one-off prompts to workflows： How to use custom agents in GitHub Copilot CLI",
+      "url": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-06-09T16:00:00.000Z",
+      "summary": "GitHub Copilot CLI 新增自定义 AI 智能体功能，使 CLI 能够理解开发者的技术栈和团队工作流，将一次性终端提示转变为可重复、可审查的流程。",
+      "category": "tip",
+      "score": 68,
+      "selected": true
+    },
+    {
+      "id": "cmq6uc56g0bvvsl5icsvihsum",
+      "title": "里程碑式德国裁决：Google AI Overviews 被视为谷歌自身言论，需为错误回答承担责任",
+      "title_en": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-06-09T15:55:53.000Z",
+      "summary": "德国地方法院裁定，Google 对其 AI 概览生成的内容直接承担法律责任，不能援引搜索引擎运营商原有的有限责任保护。涉案 AI 概览错误地将两家出版商与欺诈行为关联，且相关声明未出现在任何链接来源中。该裁决可能为全球 AI 生成内容责任认定树立先例。",
+      "category": "industry",
+      "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmq6tcee80bmxsl5ik7x89gue",
+      "title": "塔塔咨询服务将因AI智能体应用放缓招聘，亚洲外包业迎来转折",
+      "title_en": "Asia's Largest Outsourcer to Slow Hiring as AI Reshapes Industry",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/asia-s-largest-outsourcer-to-slow-hiring-as-ai-reshapes-industry",
+      "source": "Bloomberg：Technology（RSS）",
+      "publishedAt": "2026-06-09T15:32:09.000Z",
+      "summary": "亚洲最大外包商塔塔咨询服务（Tata Consultancy Services）将减少未来招聘规模，同时加大对AI智能体的使用。这一变化标志着印度劳动密集型外包产业正经历关键性转变。",
+      "category": "industry",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmq6sxx1u0bizsl5ib9ja78pe",
+      "title": "Gemini 3.5 Live Translate 发布",
+      "title_en": "Say hello， hola， 你好 to Gemini 3.5 Live Translate： our latest audio model built for fast， cross-langu…",
+      "url": "https://x.com/GoogleDeepMind/status/2064366504745828689",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "publishedAt": "2026-06-09T15:18:23.000Z",
+      "summary": "说 hello， hola， 你好--欢迎 Gemini 3.5 Live Translate：我们最新的音频模型，专为快速跨语言交流而构建。🌐",
+      "category": "ai-models",
+      "score": 69,
+      "selected": true
+    },
     {
       "id": "cmq6rv40r0b8isl5iwmqtrlxl",
       "title": "Claude Mythos 即将发布，Fable 精简版同日登场",
@@ -133,18 +301,6 @@
       "summary": "Kimi 利用 Agent Swarm 系统并行协调300个子智能体，分析战术、球员状态、伤病、赛程、天气、赔率等因素，预测2026年美加墨世界杯全部104场比赛，并发布每轮赛前预测和赛后回顾。模型层融合了 Elo/FIFA 强度、Poisson 进球分布、xG/xT 指标、蒙特卡洛模拟等方法。预测结果显示西班牙和法国为头号热门，但德国夺冠概率可能被市场低估：模型基线估计约11.0%，校准估计约11.3%，而部分市场隐含概率仅约7.4%，正向偏差约+3.6个百分点。该判断基于多分析链交叉验证，可能源于对德国近两届小组出局的近因偏差以及纳格尔斯曼高位压迫体系与穆西亚拉/维尔茨新创造轴的复苏信号。",
       "category": "ai-products",
       "score": 63,
-      "selected": true
-    },
-    {
-      "id": "cmq6k6ggm096asl5inpa8a1vs",
-      "title": "可灵AI×候鸟300发起AI主义新浪潮AIGC影像大赛",
-      "title_en": "李少红、陈明昊邀你一起开启AI主义新浪潮！",
-      "url": "https://mp.weixin.qq.com/s/d0c13s2tpsSnpgk3bQk04Q",
-      "source": "公众号：可灵AI（快手·视频）",
-      "publishedAt": "2026-06-09T11:14:57.000Z",
-      "summary": "可灵AI与候鸟300联合发起AIGC影像大赛。线下大赛6月16-26日在阿那亚海边举办，评审包括李少红、陈明昊、焦雄屏等影视与AI专家及美院教授，设10万奖金+超200万灵感值，结果6月27日晚揭晓。线上大赛6月22日前投稿可角逐\"最受关注大奖\"，获奖者受邀参加6月27日颁奖。参赛要求：视频≥50%由可灵AI生成，官网投稿填表并带话题分享。",
-      "category": "ai-products",
-      "score": 55,
       "selected": true
     },
     {
@@ -352,6 +508,18 @@
       "selected": true
     },
     {
+      "id": "cmq6w49b2002qslbh4c4bh43i",
+      "title": "Gopuff与SpaceXAI推出Go AI购物助手",
+      "title_en": "Powering Gopuff's Go agent Jun 9， 2026 # Powering Gopuff's Go agent Gopuff and SpaceXAI launched Go， an AI-powered shopping assistant built into the Gopuff app and powered by Grok text， audio， and image models. Read More",
+      "url": "https://x.ai/news/grok-gopuff",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-06-09T00:00:00.000Z",
+      "summary": "Gopuff与SpaceXAI合作推出Go智能购物助手，内置于Gopuff应用，由Grok文本、音频和图像模型驱动。Go结合Grok的推理、语音和图像生成能力与Gopuff的13年需求智能，利用X和网络实时信号。它可在用户打开应用前根据历史偏好和天气等信号构建个性化购物车，并包含基于Grok Imagine的超逼真视觉购物信息流。Go目前在美国iOS和Android端可用，随后在英国推出。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true
+    },
+    {
       "id": "cmq5ujnt202iesl5ig6vg5i3r",
       "title": "Apple Core AI 框架",
       "title_en": null,
@@ -376,18 +544,6 @@
       "selected": true
     },
     {
-      "id": "cmq5s35qm01vksl5i8iuvz0zv",
-      "title": "Claude 支持 Apple Foundation Models 框架，推出新 Swift 包",
-      "title_en": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
-      "url": "https://claude.com/blog/claude-for-foundation-models",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-08T22:24:02.356Z",
-      "summary": "Anthropic 通过一个新 Swift 包，让 Apple 开发者能在 Foundation Models 框架中直接调用 Claude。开发者用 Apple 框架以原生 Swift 方式，仅需三行代码即可通过引导生成返回类型化 Swift 值。当请求涉及多步推理、代码生成、联网搜索或数据分析时，Claude 可接手处理，并将流式响应传回同一视图。该支持可在 iOS 27、iPadOS 27、macOS 27、visionOS 27 和 watchOS 27 上使用，开发者需添加包并配置 Anthropic API 密钥。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": true
-    },
-    {
       "id": "cmq5qlr8e01gjsl5i2dzdysvx",
       "title": "OpenAI计划到2028年由AI主导研究",
       "title_en": "Sam Altman's new blog about OpenAI's future path says by March-2028 a significant fraction of its ow…",
@@ -409,18 +565,6 @@
       "summary": "推出 Viggle API。\n\n给任意角色添加任意动作，一次 API 调用--数秒内即可激活。\n\n可接入 Claude、Codex 或你正在构建的任何智能体。起价 $0.01/秒。\n\n注册即获 100 次免费额度。\n\n转发 + 关注 + 评论，10 位中奖者再获 100 次！\n\n了解更多👇",
       "category": "ai-products",
       "score": 66,
-      "selected": true
-    },
-    {
-      "id": "cmq5kh0q200g7sl38uoitn0e3",
-      "title": "Claude 为 Connector 开发者推出性能监控仪表盘",
-      "title_en": "Observability for developers building connectors",
-      "url": "https://claude.com/blog/observability-for-developers-building-connectors",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-08T18:50:51.580Z",
-      "summary": "Claude 为目录中已发布的 Connector 新增性能监控仪表盘（公开测试版）。所有者可追踪活跃用户、工具调用次数、目录排名、健康评分、错误率、延迟，并按工具细分错误归因；还能按 Claude、Claude Code、Cowork 等产品分解使用情况。访问需 Team 或 Enterprise 账号（Admin/Owner 权限或自定义角色）。基于 MCP 构建的 Connector 可直接在 Claude 应用内提交至目录，该目录已有超 300 个第三方 Connector，每日被数百万人使用。",
-      "category": "ai-products",
-      "score": 72,
       "selected": true
     },
     {
@@ -493,18 +637,6 @@
       "summary": "将AI比作一个闪耀着能力的星系，其核心存在一个肉眼不可见的巨大黑洞--数据。这个比喻揭示了AI模型惊人能力背后对海量数据的依赖，样本效率的瓶颈如同引力中心，将各色能力凝聚在一起。",
       "category": "tip",
       "score": 69,
-      "selected": true
-    },
-    {
-      "id": "cmq5i5o4g0861slt2rprafeu2",
-      "title": "为生物学AI智能体铺路",
-      "title_en": "Paving the way for agents in biology",
-      "url": "https://www.anthropic.com/research/agents-in-biology",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-06-08T17:46:10.323Z",
-      "summary": "一项实验让Claude、Biomni、Edison Analysis、GPT等科研智能体从病毒学数据库NCBI Virus中检索序列数据，即使最强模型也无法稳定达到可靠数据集构建所需的准确率。加入确定性检索层gget virus后，准确率接近100%。研究指出，当前生物学数据基础设施存在碎片化、格式特殊、接口不统一等问题，导致AI智能体难以像在软件领域那样高效工作。确定性检索工具是实现可靠智能体工作流的关键，生物学数据库需为智能体作为规模化用户而设计。",
-      "category": "paper",
-      "score": 77,
       "selected": true
     },
     {
@@ -928,6 +1060,42 @@
       "selected": true
     },
     {
+      "id": "cmq5s35qm01vksl5i8iuvz0zv",
+      "title": "Claude 支持 Apple Foundation Models 框架，推出新 Swift 包",
+      "title_en": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
+      "url": "https://claude.com/blog/claude-for-foundation-models",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-07T16:00:00.000Z",
+      "summary": "Anthropic 通过一个新 Swift 包，让 Apple 开发者能在 Foundation Models 框架中直接调用 Claude。开发者用 Apple 框架以原生 Swift 方式，仅需三行代码即可通过引导生成返回类型化 Swift 值。当请求涉及多步推理、代码生成、联网搜索或数据分析时，Claude 可接手处理，并将流式响应传回同一视图。该支持可在 iOS 27、iPadOS 27、macOS 27、visionOS 27 和 watchOS 27 上使用，开发者需添加包并配置 Anthropic API 密钥。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true
+    },
+    {
+      "id": "cmq5kh0q200g7sl38uoitn0e3",
+      "title": "Claude 为 Connector 开发者推出性能监控仪表盘",
+      "title_en": "Observability for developers building connectors",
+      "url": "https://claude.com/blog/observability-for-developers-building-connectors",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-07T16:00:00.000Z",
+      "summary": "Claude 为目录中已发布的 Connector 新增性能监控仪表盘（公开测试版）。所有者可追踪活跃用户、工具调用次数、目录排名、健康评分、错误率、延迟，并按工具细分错误归因；还能按 Claude、Claude Code、Cowork 等产品分解使用情况。访问需 Team 或 Enterprise 账号（Admin/Owner 权限或自定义角色）。基于 MCP 构建的 Connector 可直接在 Claude 应用内提交至目录，该目录已有超 300 个第三方 Connector，每日被数百万人使用。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmq5i5o4g0861slt2rprafeu2",
+      "title": "为生物学AI智能体铺路",
+      "title_en": "Paving the way for agents in biology",
+      "url": "https://www.anthropic.com/research/agents-in-biology",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-06-07T16:00:00.000Z",
+      "summary": "一项实验让Claude、Biomni、Edison Analysis、GPT等科研智能体从病毒学数据库NCBI Virus中检索序列数据，即使最强模型也无法稳定达到可靠数据集构建所需的准确率。加入确定性检索层gget virus后，准确率接近100%。研究指出，当前生物学数据基础设施存在碎片化、格式特殊、接口不统一等问题，导致AI智能体难以像在软件领域那样高效工作。确定性检索工具是实现可靠智能体工作流的关键，生物学数据库需为智能体作为规模化用户而设计。",
+      "category": "paper",
+      "score": 77,
+      "selected": true
+    },
+    {
       "id": "cmq3y2kf1004jslqvmbs4vuam",
       "title": "Slop、生产力，以及为何AI驱动的世界进展甚微",
       "title_en": "Slop， productivity， and why the AI-fueled world is going nowhere mighty fast",
@@ -1034,175 +1202,7 @@
       "category": "tip",
       "score": 76,
       "selected": true
-    },
-    {
-      "id": "cmq5fu9vx07j4slt2xwo7tc0y",
-      "title": "AI 替代浪潮：三大力量重塑成本结构",
-      "title_en": "The Substitution Wave in AI",
-      "url": "https://www.tomtunguz.com/inflation-deflation-ai",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-06-07T00:00:00.000Z",
-      "summary": "三大力量重塑 AI 成本：前沿闭源模型持续涨价，开源模型在多数场景已足够好，买家开始替代。Coinbase 将提示词路由至更便宜模型，成本持平但 token 用量指数增长。Lindy 全切至 DeepSeek v4，节省数百万美元且多项核心性能提升。Harvey 在 Legal Agent Benchmark 上通过 SFT 使 Kimi 2.6 all-pass 率达 15%，超越 Opus 的 14%，同一 100 任务成本 $84 vs $954（约 11 倍价差）。Cursor 后训练 Kimi K2.5 得到 Composer 2.5，称其\"性能优异且效率高达同类模型 10 倍\"。闭源越来越贵，开源平价且性能接近，选择决定企业单位经济学的斜率。",
-      "category": "tip",
-      "score": 56,
-      "selected": true
-    },
-    {
-      "id": "cmq2yz8xj02fosl97d6ckqael",
-      "title": "M3与Opus代码审计13个bug：$0.07 vs $1.30",
-      "title_en": "$0.07 for M3， $3.39 for Opus. Both caught 13 of 17 bugs. Really interesting breakdown from @kilocod…",
-      "url": "https://x.com/MiniMax_AI/status/2063397618034844135",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-06-06T23:08:22.000Z",
-      "summary": "对 Claude Opus 4.8 和 MiniMax M3 进行相同的代码审计：同一代码库、同一提示词，预先植入 17 个已知 bug。MiniMax M3 以 $0.07 抓到 13 个；最便宜的 Claude 运行同样抓到 13 个，花费 $1.30。MiniMax 表示这一对比非常有趣，绝对值得一读。",
-      "category": "tip",
-      "score": 60,
-      "selected": true
-    },
-    {
-      "id": "cmq2w7jzd01ojsl97krih83rb",
-      "title": "美国众议院议员发布法案草案，旨在禁止各州制定人工智能相关法规",
-      "title_en": null,
-      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-06T21:47:39.887Z",
-      "summary": "美国众议院议员发布一项法案草案，旨在禁止各州自行制定人工智能相关法规，将AI监管权力集中到联邦层面。",
-      "category": "industry",
-      "score": 78,
-      "selected": true
-    },
-    {
-      "id": "cmq2rp55c00hlsl97h98gkd14",
-      "title": "五个实验室，五个心智：用小模型构建多模型金融剧情游戏",
-      "title_en": "Five labs， five minds： building a multi-model finance drama on small models",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-06T19:02:33.000Z",
-      "summary": "Thousand Token Wood v2使用四个不同实验室的小模型（gpt-oss-20b、MiniCPM3-4B、Nemotron-Mini-4B及微调Qwen 0.5B）驱动金融模拟游戏的智能体。核心发现是异构服务层摩擦在于vLLM 0.22.1需CUDA工具包，而非模型本身。通过容忍性JSON解析层，添加模型只需一条配置。信息隔离确保内幕标志不在提示词中，扫描测试验证无泄露。记忆用情绪摘要截断避免淹没。微调0.5B模型实现0%自成交、100%有效报价，真相防火墙零泄露。小模型是可靠格式生成器但不可靠推理器，可通过结构化、提示词和微调弥补。",
-      "category": "tip",
-      "score": 66,
-      "selected": true
-    },
-    {
-      "id": "cmq2kpb9b01h1slbv07xan05v",
-      "title": "AI 的黑色星期五",
-      "title_en": "AI's Black Friday",
-      "url": "https://garymarcus.substack.com/p/ais-black-friday",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-06-06T16:24:04.000Z",
-      "summary": "Gary Marcus 在文章中分享了对 AI 领域刚刚发生事件的看法，表达了对当前 AI 发展方向的思考。",
-      "category": "tip",
-      "score": 69,
-      "selected": true
-    },
-    {
-      "id": "cmq2j2aqq0111slbv2442dsoa",
-      "title": "Job Searcher",
-      "title_en": null,
-      "url": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-06T15:36:51.000Z",
-      "summary": "Hugging Face 发布 Job Searcher，一个基于 AI 的求职搜索工具。用户上传简历并设定偏好后，系统使用教师模型 DeepSeek V4 Pro 生成 LinkedIn 搜索查询，通过 JobSpy 抓取职位，再对学生模型 Qwen3-8B（8B 参数）进行 LoRA 微调，对每个职位从技能匹配、经验相关性、教育背景、行业领域契合度和资历对齐五个维度给出评分和推理。训练在 Modal 平台单张 A100 上完成。推理部署于 Hugging Face ZeroGPU Space，使用 llama.cpp 实现流式输出。项目开源。",
-      "category": "tip",
-      "score": 65,
-      "selected": true
-    },
-    {
-      "id": "cmq2e53d100lpsl783tyjx1iw",
-      "title": "GitHub 开源 Spec Kit 工具包，用产品规范引导 AI 编码",
-      "title_en": "GitHub released Spec Kit， an open-source toolkit to fix vibe coding's biggest weakness： the AI often…",
-      "url": "https://x.com/rohanpaul_ai/status/2063246343842501091",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-06T13:07:16.000Z",
-      "summary": "GitHub 发布开源工具包 Spec Kit，旨在解决 \"vibe coding\" 的最大弱点--AI 常在规则未明确时就开始编码。它把流程从 \"让 AI 直接构建\" 改为 \"先写产品规范，再让 AI 根据规范实现\"。当前 AI 编码模式常因松散提示直接跳入代码，导致需求薄弱、边界遗漏和反复返工。Spec Kit 推动反向流程：先定义产品功能，再澄清差距、制订技术计划、分解任务，最后让 agent 执行。规范成为可执行的开发合约，支持 Copilot、Claude Code、Codex、Gemini、Cursor、Qwen 等 30+ agent 集成。项目已获 109K+ 星标。",
-      "category": "ai-products",
-      "score": 80,
-      "selected": true
-    },
-    {
-      "id": "cmq2doi6700hlsl78fk3tm0l4",
-      "title": "OpenCV 5 发布：升级全新 DNN 引擎、原生支持大模型",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/960/969.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-06T12:48:12.000Z",
-      "summary": "OpenCV 5 正式发布，采用基于图的 DNN 引擎，ONNX 算子覆盖率从 4.x 的不到 23% 提升至超 80%，原生支持 Transformer、视觉语言模型（VLM）和大语言模型（LLM）。其他更新包括：更好的 Python 集成与命名参数、更紧凑核心代码、清晰硬件加速层、原生 FP16/BF16、规范化 0D/1D 张量、扩展 3D 视觉及现代化文档。该库 GitHub 拥有超 86，000 stars，每日安装量超一百万次。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmq2ahm4y00o9slopm7hxc8ld",
-      "title": "Persona Atlas：Hugging Face 上的开源人物思维映射工具",
-      "title_en": "Persona Atlas： Mapping How Famous Minds Think",
-      "url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-06T11:42:01.000Z",
-      "summary": "Persona Atlas 是一个运行在 Hugging Face Inference Providers 上的开源项目。它通过工具调用代理执行真实网络搜索，生成公众人物的资料、事实清单和风格假设，然后让该人物回答十个关于身份、伦理等开放式问题。每个回答被转化为嵌入向量，从而在向量空间中对不同人物进行距离比较，并基于十个特质锚点绘制热力图。前端采用 Gradio，提供研究、比较和检查代理完整追溯三个标签页，预设多个人物角色，无需 token 即可直接体验。",
-      "category": "ai-products",
-      "score": 58,
-      "selected": true
-    },
-    {
-      "id": "cmq28dvet000pslopfql7jlc7",
-      "title": "海螺AI×上影节活动日历：开放日6.14-6.15",
-      "title_en": "海螺AI×上影节活动日历|请收下邀请函！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkzNDUzMzEzNw%3D%3D&mid=2247487793&idx=1&sn=b5649b5c9c4204135b4914d89f71cb41",
-      "source": "公众号：MiniMax（稀宇科技）",
-      "publishedAt": "2026-06-06T09:52:47.000Z",
-      "summary": "MiniMax旗下海螺AI作为第28届上影节独家AI影像战略合作伙伴，6.14-6.15举办开放日。活动包括：AI片场·海螺专属Booth（展示1+1组合作品及过程）、6.14多模态行业交流会、6.15专题圆桌（超级创作者呈现四种图景、《流浪地球》制片人与青年导演对谈）。具体时间地点详见图片。",
-      "category": "industry",
-      "score": 56,
-      "selected": true
-    },
-    {
-      "id": "cmq2o63pf01dosl6n6n4wr3tr",
-      "title": "阶跃首席科学家张祥雨合著论文 ResNet 获 CVPR 2026 「时间检验奖」",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/ZVgqdH_fE42jO4kcI-lF3g",
-      "source": "公众号：阶跃星辰（Step）",
-      "publishedAt": "2026-06-06T06:46:02.000Z",
-      "summary": "CVPR 2026 将 Longuet-Higgins Prize「时间检验奖」授予 2015 年发表的《Deep Residual Learning for Image Recognition》（ResNet）。该论文由何恺明、张祥雨、任少卿、孙剑完成，提出的残差学习思想解决了深层神经网络训练难题，已成为现代深度学习基础结构。同获该奖的还有 YOLO v1。ResNet 全球引用量超 32 万次，是 21 世纪被引最多论文。阶跃算法团队正热招大模型技术人才。",
-      "category": "industry",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmq1ikzj50g4jsltr7vm9qbst",
-      "title": "用Qwen2.5-3B构建多智能体经济体：工程报告",
-      "title_en": "Thousand Token Wood： shipping a multi-agent economy on a 3B model",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-05T22:18:46.000Z",
-      "summary": "开发者用Qwen2.5-3B构建了五人森林生物多智能体经济体，每个智能体独立运行，通过vLLM部署在Modal，以Gradio为交互窗口。3B模型在100%调用中输出有效JSON，但经济判断能力弱。通过设计稀缺性（食物品种限制、易腐坏、冬季燃料危机）和优化提示词（禁止买入自产物品、给出示例）提升决策质量。15轮模拟中，蜜价从10跌至3、柴价从4涨至7、财富基尼系数从0.14扩至0.38。项目展示了小模型可靠格式化与不可靠推理之间的工程填补。",
-      "category": "tip",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmq1hy4wt0fyrsltrxx64boz8",
-      "title": "Arena 发布真实世界 AI 智能体排行榜 Agent Arena",
-      "title_en": "Arena just released a real-world agent leaderboard that ranks AI models by how well they complete ac…",
-      "url": "https://x.com/rohanpaul_ai/status/2063018358795300982",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-05T22:01:20.000Z",
-      "summary": "Arena 推出基于真实用户任务的智能体排行榜，评估模型在代码编写、应用构建、文档分析等工作中的表现，而非孤立基准。排行榜基于30万+任务、200万+工具调用和4000万行代码，综合任务成功、纠正遵从性、错误恢复、用户表扬与抱怨、工具幻觉等信号。前三名：GPT-5.5 High（+10.7%）、Claude Opus 4.7 Thinking（+9.5%）、GPT-5.4 High（+8.9%）。",
-      "category": "paper",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmq1fw2bb0ffssltrvl691wnx",
-      "title": "Apollo 敲定 350 亿美元债务融资，为 Anthropic 采购 AI 芯片",
-      "title_en": "Apollo Wraps Up $35 Billion Debt to Buy AI Chips for Anthropic",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-05T21:02:29.000Z",
-      "summary": "Apollo Global Management 和 Blackstone 已为 Anthropic 敲定 350 亿美元融资方案，用于扩充其 AI 基础设施。这是人工智能竞赛中最新的一笔巨额交易。",
-      "category": "industry",
-      "score": 77,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-09T15:28:45Z"
+  "cachedAt": "2026-06-09T18:20:33Z"
 }
