@@ -1,8 +1,104 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwNjI2MjQwMDAwLCJpIjoiY21xMmw5bGhnMDBkeHNsNm5zNW5sM2hpayJ9",
+  "nextCursor": "eyJhIjoxNzgwNjUzMjY3MDAwLCJpIjoiY21xMm83MWwwMDFpbXNsNm53NWN5cHU5YSJ9",
   "items": [
+    {
+      "id": "cmq63dzew04srsl5ix1r8n4ne",
+      "title": "小米 MiMo 与 TileRT 联合发布 UltraSpeed 模式，1T 模型输出突破 1000 tokens/s",
+      "title_en": "Xiaomi MiMo 携手 TileRT|1T 模型首次突破 1000 tokens/s 输出速度",
+      "url": "https://mp.weixin.qq.com/s/EZvmrx8xfM9MZNCMDwImFQ",
+      "source": "公众号：小米 MiMo",
+      "publishedAt": "2026-06-09T03:31:32.000Z",
+      "summary": "小米 MiMo 与 TileRT 联合发布 MiMo-V2.5-Pro-UltraSpeed 模式，使 1T 参数旗舰模型输出速度首次突破 1000 tokens/s。模型侧采用 FP4 混合量化（仅量化 MoE Expert）与 DFlash 块级 masked 并行推测解码（coding 场景平均接受长度 6.30 tokens）；系统侧 TileRT 引入常驻内核引擎与异构流水线协作。API 限时开放（2026 年 6 月 9 日至 23 日），定价为 MiMo-V2.5-Pro 的 3 倍，速度提升约 10 倍。FP4 权重与 DFlash 模型 checkpoint 已开源至 HuggingFace。",
+      "category": "ai-models",
+      "score": 80,
+      "selected": true
+    },
+    {
+      "id": "cmq60kxqi042ksl5i30p1a5py",
+      "title": "OpenAI 秘密提交 IPO 申请，奥特曼旗下 Tools for Humanity 裁员",
+      "title_en": "OpenAI 申请上市，奥尔特曼估值 25 亿美元的眼球扫描公司却被曝裁员",
+      "url": "https://www.ithome.com/0/961/792.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-09T02:19:48.000Z",
+      "summary": "OpenAI 近日秘密提交 IPO 申请。其 CEO 山姆·奥特曼旗下的 Tools for Humanity 公司正裁员，该公司因虹膜扫描项目 World 及加密货币 Worldcoin 知名，投后估值 25 亿美元，获 Andreessen Horowitz 等投资。因营收困境，公司缩减规模。海外监管方面，肯尼亚以隐私和金融风险为由叫停运营，韩国因违反隐私法规罚款 83 万美元。",
+      "category": "industry",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmq6090s803ymsl5i7zd3l79f",
+      "title": "Elon Musk 详解 SpaceX AI1 轨道 AI 数据中心卫星方案",
+      "title_en": "For the very first time Elon Musk explains the \"space data center plan\" of @SpaceX in detail and its…",
+      "url": "https://x.com/rohanpaul_ai/status/2064165951936094364",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-06-09T02:01:27.000Z",
+      "summary": "Elon Musk 首次详细解释 SpaceX 的 AI1 轨道 AI 数据中心卫星：峰值功率 150 kW，持续计算功率约 120 kW，相当于一个 NVIDIA GB300 机架；太阳能板效率 250 W/m2；双面散热器排热 1，400 W/m2。通过激光链路实现约 1 Tbps 互联，低轨 600-800 km 高度往返延迟 6-8 ms。由 Starship 发射，计划部署多达百万颗卫星，2027 年底前实现量产。近地目标为吉瓦级轨道 AI 算力，长期向太瓦级推进。",
+      "category": "industry",
+      "score": 83,
+      "selected": true
+    },
+    {
+      "id": "cmq5zxlug03vusl5ioevfmvk2",
+      "title": "开源工具 Tokei：在菜单栏实时监控 AI coding agent 的 token 用量与成本",
+      "title_en": "兄弟们！地主家家没有余粮了都！ 天天烧Token 心里没有点b数啊？ AI coding工具天天帮你狂飙代码，结果你连自己到底烧了多少钱都蒙在鼓里？ 今天给大家推荐Lank 的Tokei这个mac…",
+      "url": "https://x.com/berryxia/status/2064155452934639718",
+      "source": "X：Berry Xia (@berryxia)",
+      "publishedAt": "2026-06-09T01:19:44.000Z",
+      "summary": "Berry Xia 推荐开源工具 Tokei，这是一个 macOS 菜单栏小工具，只读本地日志、零网络调用，30 秒自动刷新，实时监控 Claude Code、Grok CLI、Aider、OpenCode 等 8 个主流 AI coding agent 的 token 用量、实时成本与性能数据，并附每日图表、周热力图和年度 Wrapped。支持私人 Git 多设备同步、价格表本地覆盖，闲置过久会提醒休息。引用推文指出，token 消耗情况可作为深度使用 AI 的面试亮点，数据全程私有，零侵入，无需任何认证。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmq5yfk9603iosl5ir79yjdcq",
+      "title": "两部门：到2026年底人形机器人等重点产品完成应用验证并常态部署",
+      "title_en": "两部门：到 2026 年底，人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署",
+      "url": "https://www.ithome.com/0/961/749.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-09T01:15:30.000Z",
+      "summary": "工信部、国资委6月8日联合发布通知，目标到2026年底，人形机器人等重点产品在代表性场景完成应用验证并开启常态部署，形成百个以上高价值场景，万台级规模落地。要求各省级地区选取不少于20个场景单元（覆盖两类领域），央企不少于10个。围绕打造实景实训空间、组建创新应用联合体、攻关作业技能、加强验证部署、强化要素保障、凝练经验等六大任务展开，鼓励\"人形机器人即服务\"等商业创新。",
+      "category": "industry",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmq5ynwlm03lhsl5i2p2cud2v",
+      "title": "FrontierCode 基准测试：AI 编程评估新标准--维护者审核通过率最高仅 13.4%",
+      "title_en": "Claude Opus 4.8 是目前最好的编码模型，这件事应该没啥太大争议了，我自己跑了这么久体感也是这样。 Cognition（Devin 的公司）刚发布的 FrontierCode 基准测试，…",
+      "url": "https://x.com/AYi_AInotes/status/2064146694774595646",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-06-09T00:44:56.000Z",
+      "summary": "Cognition 发布 FrontierCode 基准测试，重新定义 AI 编程评估：由 20 多位顶级开源维护者手工制作 150 个任务（每个耗时 40+ 小时），依据 3000 多条规则判断维护者是否愿意合并代码。该基准指出 SWE-Bench 等超半数通过测试的代码实为不可维护的垃圾。结果中 Claude Opus 4.8 在最高难度档获 13.4%，GPT-5.5 为 6.3%，其余模型 1%-5%。这意味着即便最强模型，近九成代码仍无法通过有经验维护者审核。",
+      "category": "tip",
+      "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmq5x1u8w035ysl5i0ri9dysx",
+      "title": "GitHub 122K⭐的Skills推出新技能「Teach」：把工作目录变有状态学习空间",
+      "title_en": "Github 122K ⭐️ 的 Skills 仓库「Skills For Real Engineers」推出新 Skill「Teach」：把当前工作目录变成有状态的学习空间！！怒赞作者 @mattp…",
+      "url": "https://x.com/shao__meng/status/2064144978792878348",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-06-09T00:38:07.000Z",
+      "summary": "GitHub 122K⭐的Skills仓库推出新技能Teach，可将当前工作目录变为有状态学习空间。设计理念从Knowledge（概念事实）→Skills（动手操作）→Wisdom（真实判断）。工作区以文件即学习状态：MISSION.md定目标、lessons/提供课程、learning-records/记录已会内容、reference/生成速查手册。五个关键机制：Mission定方向、ZPD根据记录调整难度、Lesson一课一事+即时反馈、Learning Record记\"会了什么\"而非\"讲了什么\"、Reference形成长期可回看手册。可通过npx skills add mattpocock/skills --skill teach安装，适用于从魔方到软件基础等学习场景。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmq5wmjtl032esl5izran9oz5",
+      "title": "Claude 东京站活动开放注册",
+      "title_en": "Final stop： Tokyo. Register to hear directly from the teams behind Claude： http：//claude.com/code-w…",
+      "url": "https://x.com/claudeai/status/2064139073590104402",
+      "source": "X：Claude (@claudeai)",
+      "publishedAt": "2026-06-09T00:14:39.000Z",
+      "summary": "最终站：东京。\n快来注册，直接聆听 Claude 团队分享：http：//claude.com/code-with-claude/tokyo",
+      "category": "industry",
+      "score": 63,
+      "selected": true
+    },
     {
       "id": "cmq5ujnt202iesl5ig6vg5i3r",
       "title": "Apple Core AI 框架",
@@ -241,18 +337,6 @@
       "summary": "Hivemind发布面向AI编程智能体的持续学习功能，即日起开放。该工具收集团队运行的每个智能体（Claude Code、Codex、Cursor、Hermes、Pi）的轨迹，转化为可复用技能并推送到所有智能体，数据存储在用户自己的云存储中。内置SkillOpt使技能持续训练：Claude Code准确率提升+19.1分，Codex提升+24.8分，在全部52个测试设置中最佳或持平。开源，一行命令安装。",
       "category": "tip",
       "score": 78,
-      "selected": true
-    },
-    {
-      "id": "cmq5bjjga06d1slt2lstyzq8i",
-      "title": "小米 MiMo-V2.5-Pro-UltraSpeed 突破 1，000 tokens/s，单台 8-GPGPU 节点运行 1T MoE 模型",
-      "title_en": "🚀 1，000+ TOKENS/S ON A 1T MODEL！ 🚀 We are thrilled to release Xiaomi MiMo-V2.5-Pro-UltraSpeed in …",
-      "url": "https://x.com/XiaomiMiMo/status/2063993790587904362",
-      "source": "X：小米 MiMo (@XiaomiMiMo)",
-      "publishedAt": "2026-06-08T14:37:21.000Z",
-      "summary": "小米 MiMo 联合 TileRT_AI 发布 MiMo-V2.5-Pro-UltraSpeed，首次在 1 万亿参数 MoE 模型上实现超过 1，000 tokens/s 输出速度，仅用单台标准 8-GPGPU 节点（非 Cerebras 或 Groq 方案）。提供限时免费聊天体验，UltraSpeed API 价格为 3 倍，输出体验提升约 10 倍。申请时间为 6 月 8 日至 23 日（PDT），企业可邮件联系 business-mimo@xiaomi.com。",
-      "category": "ai-models",
-      "score": 82,
       "selected": true
     },
     {
@@ -1118,91 +1202,7 @@
       "category": "ai-products",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmq0msqwn07oisltr2sw1wjbg",
-      "title": "腾讯混元联合人大开源PlanningBench评估框架",
-      "title_en": "Planning is where LLMs move from \"saying\" to \"doing.\" Tencent Hy， in collaboration with the Gaoling…",
-      "url": "https://x.com/TencentHunyuan/status/2062803141314437391",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "publishedAt": "2026-06-05T07:46:08.000Z",
-      "summary": "腾讯混元（Tencent Hunyuan）与中国人民大学高瓴人工智能学院合作，开源PlanningBench--一个可扩展、可验证的LLM规划能力评估与训练框架。该框架包含30+真实世界规划任务，支持自动验证和训练。PlanningBench旨在推动LLM从\"说\"到\"做\"的规划能力发展。资源已发布于arXiv、GitHub及HuggingFace。",
-      "category": "tip",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmq0jeh6o06sosltrqizuioxb",
-      "title": "PolarDB-X Zero 上线：30秒全分布式数据库",
-      "title_en": "PolarDB-X Zero is live！ No signup. No config. Just one API call. Get a full distributed database i…",
-      "url": "https://x.com/alibaba_cloud/status/2062781182417490310",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-06-05T06:18:53.000Z",
-      "summary": "PolarDB-X Zero 上线了！\n\n无需注册。无需配置。只需一次 API 调用。\n30 秒内获得一个全分布式数据库。\n原生 HNSW 向量索引--内置兼容 MySQL 的引擎。\n关系型 + 语义搜索--一条 SQL 语句。\nAI 智能体就绪--MCP 协议、AI IDE 兼容（Cursor、Claude、Qoder、Qodex 等）\n\n立即尝试：https：//zero.polardbx.com\n#AlibabaCloud #PolarDB #ApsaraDB",
-      "category": "ai-products",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmq0jeh6o06sqsltretmigj6c",
-      "title": "阿里云发布SkillClaw与Nacos的Agent技能进化循环",
-      "title_en": "SkillClaw × Nacos： The Agent Skill Evolution Loop 🔄 Key Highlights： • Auto-Extraction： Captures exp…",
-      "url": "https://x.com/alibaba_cloud/status/2062777684120244656",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-06-05T06:04:59.000Z",
-      "summary": "阿里云推出SkillClaw与Nacos结合，构建AI智能体技能进化流水线。关键特性：自动从真实对话中提取经验并封装为可复用技能（Skill）；Nacos负责集中化版本管理、审核与审计；打破本地孤岛，实现团队安全共享与分发；形成完整的\"生成-治理-分发\"持续进化闭环。目标是将个人洞察转化为团队的AI资产。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true
-    },
-    {
-      "id": "cmq0h580h066psltrtxbfx6id",
-      "title": "Open Code Review - 一款基于人工智能的代码审查命令行工具",
-      "title_en": null,
-      "url": "https://github.com/alibaba/open-code-review",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-05T05:16:06.561Z",
-      "summary": "Open Code Review 是一个基于人工智能的代码审查命令行（CLI）工具，旨在帮助开发者通过自动化的方式提升代码审查效率。",
-      "category": "tip",
-      "score": 80,
-      "selected": true
-    },
-    {
-      "id": "cmq0iv3og06mdsltrreibayr9",
-      "title": "375个公众号RSS源优化Agent输入",
-      "title_en": "如果你的 Agent 还在全网垃圾里捞内容，不如先喂它 375 个高质量微信公众号 RSS 源。 🔽",
-      "url": "https://x.com/hongming731/status/2062764845494317493",
-      "source": "X：洪明 (@hongming731)",
-      "publishedAt": "2026-06-05T05:13:58.000Z",
-      "summary": "你的 Agent 还在全网垃圾里捞内容？不如先喂它 375 个高质量微信公众号 RSS 源。 🔽",
-      "category": "tip",
-      "score": 78,
-      "selected": true
-    },
-    {
-      "id": "cmq0cow5r050csltrm2m7furf",
-      "title": "腾讯高级执行副总裁汤道生：今年腾讯大部分代码都由 AI 生成",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/960/323.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-05T03:04:23.000Z",
-      "summary": "在 6 月 5 日的腾讯云 AI 产业应用大会上，腾讯高级执行副总裁汤道生表示，今年腾讯大部分代码都由 AI 生成，工程师将更多时间用于架构设计，定期指导与修正 AI 输出。腾讯 2026 年 Q1 财报显示，重组后的 AI 研发团队重构了基础设施，并搭建了 Hy3 preview 模型。腾讯总裁刘炽平今年 3 月透露，去年腾讯在 AI 新产品上投入 180 亿元，今年投入至少翻倍。",
-      "category": "industry",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmq2l9lhg00dxsl6ns5nl3hik",
-      "title": "ACL'26美团技术团队6篇论文入选：聚焦大模型评测与推理优化",
-      "title_en": "报名|ACL'26 美团中稿精选：从能力评测到推理优化，构建生成新范式",
-      "url": "https://mp.weixin.qq.com/s/qgq5fstJNeNmfSigedFOeQ",
-      "source": "公众号：龙猫LongCat（美团）",
-      "publishedAt": "2026-06-05T02:24:00.000Z",
-      "summary": "美团技术团队在ACL'26上分享6篇论文，涵盖代码评测、复杂流程推理、数学竞赛、过度思考分析、推理后训练优化及生成式推荐。CoreCodeBench从12个开源库生成1524个结构化任务，有效性达78.55%；SOP-Maze基于真实业务构建397个流程实例，测试显示前沿模型存在流程遵循、对话脆弱性和计算错误三类短板；AMO-Bench含50道高难度数学题，最强模型准确率仅52.4%；The Evolution of Thought提出推理完成点（RCP）检测器减少冗余生成；MASPO通过软高斯门控等优化推理后训练，提升Avg@32和Pass@32；FLR将隐式推理分解为多维偏好因子，平均提升3.2%。",
-      "category": "paper",
-      "score": 55,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-08T23:35:42Z"
+  "cachedAt": "2026-06-09T04:33:02Z"
 }
