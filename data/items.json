@@ -1,8 +1,104 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwNjc3MzYwMDAwLCJpIjoiY21xMTVpZm5yMGNvbXNsdHJiMnZkNTNtdSJ9",
+  "nextCursor": "eyJhIjoxNzgwNjkzMzQ5MDAwLCJpIjoiY21xMWZ3MmJiMGZmc3NsdHJ2bDY5MXdueCJ9",
   "items": [
+    {
+      "id": "cmq6rv40r0b8isl5iwmqtrlxl",
+      "title": "Claude Mythos 即将发布，Fable 精简版同日登场",
+      "title_en": "Confirmed， Claude Mythos will be unveiled in the next few hours",
+      "url": "https://x.com/kimmonismus/status/2064362469632405807",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-06-09T15:02:21.000Z",
+      "summary": "确认，Claude Mythos 将在接下来几小时内揭晓。\n\n【引用 @steph_palazzolo】：\n独家：一个名为 Claude Fable 的精简版 Mythos 今天推出。它价格昂贵--是 Opus 的两倍--但或许不像人们从最初 Mythos 定价（Opus 的 5 倍）所想的那样昂贵。\n\n更多内容及 Apple WWDC 见 AI Agenda：\n\nhttps：//www.theinformation.com/newsletters/ai-agenda/anthropics-mythos-coming-today-apple-pursues-modest-goals-siri-revamp",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmq6rn45v0b5csl5i8uplhmsj",
+      "title": "Luma AI Ray3.2：方向进，电影出",
+      "title_en": "Direction goes in. Cinema comes out. Ray3.2 is here → http：//lumalabs.ai/ray3-2",
+      "url": "https://x.com/LumaLabsAI/status/2064358414143143954",
+      "source": "X：Luma AI (@LumaLabsAI)",
+      "publishedAt": "2026-06-09T14:46:14.000Z",
+      "summary": "方向进入，电影出来。\n\nRay3.2 来了 → http：//lumalabs.ai/ray3-2",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmq6r17220b1gsl5in9n805vf",
+      "title": "Runway视频轻松转宽高比",
+      "title_en": "Easily reformat your videos to different aspect ratios， so you can show up everywhere that matters. …",
+      "url": "https://x.com/runwayml/status/2064350871048077756",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-06-09T14:16:16.000Z",
+      "summary": "轻松将视频重新格式化为不同宽高比，让你在每一个重要平台都能展示。\n\n点击下方链接开始。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true
+    },
+    {
+      "id": "cmq6qqqbp0axhsl5i2ow5j5co",
+      "title": "Google DeepMind 发布 Gemma 4 12B：统一的无编码器多模态模型",
+      "title_en": "Introducing Gemma 4 12B： a unified， encoder-free multimodal model",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-06-09T14:10:19.000Z",
+      "summary": "Gemma 4 12B 是 Google DeepMind 最新推出的中等规模多模态模型，采用无编码器统一架构，原生支持音频输入。其基准测试性能接近 26B MoE 模型，但内存占用不到一半，仅需 16GB 显存或统一内存即可在消费级笔记本上本地运行。模型内置多 token 预测（MTP）drafter 以降低延迟，基于 Apache 2.0 开源许可发布，已累计超过 1.5 亿次下载。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true
+    },
+    {
+      "id": "cmq6pnxzb0am5sl5i5g6wjkvv",
+      "title": "Google DeepMind 欧洲机器人加速器启动，15家初创公司入选",
+      "title_en": "Powering the future of robotics in Europe",
+      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-06-09T14:02:33.000Z",
+      "summary": "Google DeepMind 加速器从欧洲选出15家机器人初创公司，提供为期3个月的密集指导和AI技术整合支持，帮助公司将AI融入核心产品。",
+      "category": "industry",
+      "score": 58,
+      "selected": true
+    },
+    {
+      "id": "cmq6qlc110aw0sl5iv6lmobov",
+      "title": "GPT-5.5 替代 OCR，ChinaRxiv 论文免费开放",
+      "title_en": "23，000+ ChinaRxiv papers are now freely available with more complete English translations after one …",
+      "url": "https://x.com/OpenAIDevs/status/2064346891673059484",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-06-09T14:00:27.000Z",
+      "summary": "23，000+ 篇 ChinaRxiv 论文现已免费提供，并带有更完整的英文翻译，源于一位开发者用 GPT-5.5 替换了复杂的 OCR 管道。",
+      "category": "tip",
+      "score": 60,
+      "selected": true
+    },
+    {
+      "id": "cmq6neb920a0esl5ixu2rh53j",
+      "title": "全新汽车品牌AIVA发布，火山引擎助力打造AI汽车新体验",
+      "title_en": "全新汽车品牌AIVA发布！火山引擎助力打造AI汽车新体验",
+      "url": "https://mp.weixin.qq.com/s/toK_uIB9ECFHVaoCgK-w9Q",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-06-09T13:00:21.000Z",
+      "summary": "由赛力斯、宁德时代等多方产业资本组建的AI出行品牌AIVA正式发布。火山引擎提供豆包大模型、智能座舱等技术服务。概念车AIVA Origin Concept亮相，首款量产车AIVA ME7将于2026年内亮相，全系覆盖20万元以上市场。AIVA提出\"AI定义汽车\"路径，让汽车成为具身AI生命体。火山引擎副总裁表示，人与汽车的关系将实现交互、智能、感受三方面根本转变。未来双方将围绕AI交互、智能体验、情感陪伴深度共创。",
+      "category": "industry",
+      "score": 69,
+      "selected": true
+    },
+    {
+      "id": "cmq6neaj80a09sl5if1zpnqpw",
+      "title": "百度搭子DuMate获中国信通院企业级Claw能力评估最高4+级",
+      "title_en": "最高评级4+级！百度搭子DuMate通过中国信通院企业级Claw能力评估",
+      "url": "https://mp.weixin.qq.com/s/lv99XfrRtMMgiOflcT67VA",
+      "source": "公众号：百度智能云（文心）",
+      "publishedAt": "2026-06-09T12:03:00.000Z",
+      "summary": "2026年6月，百度智能云旗下百度搭子DuMate V3.4.0通过中国信通院「可信AI-企业级Claw能力评估」，获最高评级4+级，为国内首批。评估依据《智能助理智能体（Claw）技术和应用要求 第2部分 企业级Claw能力》（AIIA/T 0295-2026），覆盖智能体、工程化部署、服务、业务融合、运行管理五大能力域。百度搭子支持多智能体分工协作、容器化批量部署、多租户隔离与三级差异化授权、企业知识库接入、全链路日志审计等能力，企业级智能助手服务能力获国家级权威认可。",
+      "category": "industry",
+      "score": 63,
+      "selected": true
+    },
     {
       "id": "cmq6kwvh809eesl5irgb0uzf2",
       "title": "腾讯混元发布UniRL：统一多模态强化学习基础设施",
@@ -568,6 +664,18 @@
       "selected": true
     },
     {
+      "id": "cmq6niqv20a1osl5iixuej5ea",
+      "title": "Gemini Guided Learning 随机对照试验：在塞拉利昂等地提升参与度并加速学习",
+      "title_en": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-06-08T13:04:59.000Z",
+      "summary": "一项在塞拉利昂等地开展的随机对照试验显示，Gemini 的 Guided Learning 功能能够提升学生参与度并加速学习。",
+      "category": "paper",
+      "score": 67,
+      "selected": true
+    },
+    {
       "id": "cmq5oofrd00x3sl5iadjbb59k",
       "title": "EU AI Act 合规：面向 AI 智能体的人工监督",
       "title_en": "EU AI Act Compliance： Human Oversight for AI Agents",
@@ -1094,115 +1202,7 @@
       "category": "industry",
       "score": 77,
       "selected": true
-    },
-    {
-      "id": "cmq1eqdug0f4bsltr1nzlten4",
-      "title": "SpaceX与Google达成云计算新协议",
-      "title_en": "SpaceX just disclosed a new Cloud Service Agreement with Google. Google to pay SpaceX $920 million …",
-      "url": "https://x.com/rohanpaul_ai/status/2063000834045313314",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-05T20:51:42.000Z",
-      "summary": "SpaceX 刚刚披露了一份与 Google 的新云服务协议。\n\nGoogle 将每月向 SpaceX 支付 9.2 亿美元（约合每年 110 亿美元），用于 xAI 数据中心的计算能力。\n\n这再次表明，AI 算力正成为一种战略性商品，就像发射能力或能源一样，而那些能够为庞大的 GPU 集群提供资金、电力、冷却和运营的公司，可能会在其原有业务之外获得巨大的杠杆优势。",
-      "category": "industry",
-      "score": 77,
-      "selected": true
-    },
-    {
-      "id": "cmq1d2vyt0epssltrsz0gvbky",
-      "title": "微软Project Mosaic：micro-LED光学互连技术",
-      "title_en": "During the Inside Azure Innovations breakout at Build 2026， Microsoft Azure CTO， deputy CISO and tec…",
-      "url": "https://x.com/MSFTResearch/status/2062983588606320714",
-      "source": "X：Microsoft Research (@MSFTResearch)",
-      "publishedAt": "2026-06-05T19:43:10.000Z",
-      "summary": "微软Azure CTO Mark Russinovich在Build 2026上介绍Project Mosaic，这是微软剑桥研究院的实验性光学互连技术，采用micro-LED实现低功耗、高速数据传输。高级研究员Kaoutar Benyahya现场演示单个LED调制形成字母，证明概念具备实时响应能力。",
-      "category": "paper",
-      "score": 60,
-      "selected": true
-    },
-    {
-      "id": "cmq1cb2df0ehlsltrb0nb702a",
-      "title": "五角大楼正运营着一个针对拉丁美洲的人工智能宣传机器",
-      "title_en": null,
-      "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-05T19:23:20.788Z",
-      "summary": "据 The Intercept 6月5日报道，美国五角大楼正在运营一个针对拉丁美洲的人工智能宣传机器（AI propaganda mill）。报道指出，该机器利用 AI 技术生成并传播宣传内容，目标为拉丁美洲地区。该消息在 Hacker News 上获得 100 点热度。",
-      "category": "industry",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmq1b8gvh0e7isltriul9fo2j",
-      "title": "Claude 是否增加了 rsync 中的错误？",
-      "title_en": "克劳德是否增加了 rsync 中的错误？",
-      "url": "https://alexispurslane.github.io/rsync-analysis",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-05T19:07:35.749Z",
-      "summary": "一篇 Hacker News 热门帖子（105 分）提出了 Claude 是否导致 rsync 工具中 bug 增加的问题，并附有分析链接。",
-      "category": "tip",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmq18rbp70dk3sltr7eqx8xil",
-      "title": "智能体协作应如同事般对话和手势",
-      "title_en": "Working with agents should feel like working with a colleague. You should be able \"speak to\" them no…",
-      "url": "https://x.com/mntruell/status/2062955210897801520",
-      "source": "X：Michael Truell (@mntruell)",
-      "publishedAt": "2026-06-05T17:50:24.000Z",
-      "summary": "与 AI 智能体协作应感觉像与同事协作一样。你应能\"与它们交谈\"--不仅通过文本聊天，还能一起对着屏幕做手势、实时对话等。",
-      "category": "ai-products",
-      "score": 80,
-      "selected": true
-    },
-    {
-      "id": "cmq16l9id0cz7sltrd5u9tevg",
-      "title": "Riverflow 2.5：可控制评分标准的图像模型",
-      "title_en": "Live on OpenRouter： Riverflow 2.5 from @Sourceful. The first image model with an independent scorin…",
-      "url": "https://x.com/OpenRouter/status/2062944965978992935",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-06-05T17:09:42.000Z",
-      "summary": "在OpenRouter上线：来自@Sourceful的Riverflow 2.5。\n\n首个具有独立评分标准的图像模型，你可控制该标准以引导其思维和编辑，并具备可控的推理努力，可在速度与质量之间进行权衡。\n\n免费至6月9日（周二）。Fast和Pro见下方🧵。",
-      "category": "ai-models",
-      "score": 60,
-      "selected": true
-    },
-    {
-      "id": "cmq16lagb0czbsltr4d2whlpo",
-      "title": "ChatGPT 网页版支持从写作块发送邮件",
-      "title_en": "Draft it. Tweak it. Send it. You can now send emails directly from writing blocks in ChatGPT on the…",
-      "url": "https://x.com/ChatGPTapp/status/2062944254591430917",
-      "source": "X：ChatGPT (@ChatGPTapp)",
-      "publishedAt": "2026-06-05T17:06:52.000Z",
-      "summary": "草拟。调整。发送。\n\n现在你可以在网页版 ChatGPT 中直接从写作块发送邮件，无需离开对话。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true
-    },
-    {
-      "id": "cmq16wkmr0d1qsltrrxq2ijpb",
-      "title": "Google AI 本周产品更新：Nano Banana 2、Co-Scientist、dreambeans、Gemma 4 等",
-      "title_en": "Here's this week's shipping recap 👇 - Nano Banana 2 & Nano Banana Pro are now GA and available via…",
-      "url": "https://x.com/GoogleAI/status/2062942864288387430",
-      "source": "X：Google AI (@GoogleAI)",
-      "publishedAt": "2026-06-05T17:01:21.000Z",
-      "summary": "Google AI 本周发布多项更新：Nano Banana 2 及 Pro 正式 GA，可通过 Gemini Enterprise Agent Platform、Gemini API 和 Google AI Studio 获取；Co-Scientist 多智能体系统面向科研自动生成优化新假设；Google Labs 推出 dreambeans，根据用户 Google 应用数据每日生成个性化话题集；Gemma 4 12B 统一无编码器多模态模型可完全离线运行于笔记本；Gemma 4 系列及草稿模型引入 QAT 降低内存需求；Google Magenta RealTime 2 开源实时音乐模型，支持 MIDI 键盘、文本提示和手势演奏。",
-      "category": "ai-products",
-      "score": 78,
-      "selected": true
-    },
-    {
-      "id": "cmq15ifnr0comsltrb2vd53mu",
-      "title": "Gemini Live 支持实时创建编辑图像",
-      "title_en": "You can now create and edit images directly in Gemini Live. Whether testing out room decor， getting…",
-      "url": "https://x.com/GeminiApp/status/2062936486509785385",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-06-05T16:36:00.000Z",
-      "summary": "你现可直接在 Gemini Live 中创建和编辑图像。\n\n无论是测试房间装饰、解决数学问题，还是制作可分享的梗图，所有操作都实时完成。\n\n只需打开 Gemini 应用，点击 Live 按钮，共享摄像头，告诉 Gemini 你想看到的。",
-      "category": "ai-products",
-      "score": 81,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-09T12:15:23Z"
+  "cachedAt": "2026-06-09T15:28:45Z"
 }
