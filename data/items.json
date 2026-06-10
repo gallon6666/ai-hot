@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwNzkwNDAwMDAwLCJpIjoiY21xNWZ1OXZ4MDdqNHNsdDJ4d283dGMweSJ9",
+  "nextCursor": "eyJhIjoxNzgwODAzMTQzMDAwLCJpIjoiY21xMzk3am1hMDUyZHNsOTdxeGZwNzhvNyJ9",
   "items": [
+    {
+      "id": "cmq7cnl4q01x0sl5w2itvprtz",
+      "title": "Text-To-Lottie：Agent Skill + 本地预览 Harness，让 Agent 生成 Lottie 动画并实时验收",
+      "title_en": "Text-To-Lottie： 一套 「Agent Skill + 本地预览 Harness」 的组合，让 Agent 生成 Lottie，在浏览器里实时验收 开源作者 @konstipaulus …",
+      "url": "https://x.com/shao__meng/status/2064508455051043008",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-06-10T00:42:27.000Z",
+      "summary": "开源项目 Text-To-Lottie 提供一套 Agent Skill 和本地预览工具，让 Codex/Claude Code/Cursor 等 Agent 生成标准 Bodymovin JSON（public/lottie.json），通过 Skottie 渲染引擎在浏览器中实时验收。安装命令：`npx skills add diffusionstudio/lottie`。技术特点：输出标准 Lottie JSON，使用 Skottie 渲染（非 lottie-web）；基于 Vite 热重载实现自动刷新闭环；支持通过 Skottie Slots + controls.json 调整颜色、尺寸；Agent 可用 URL 参数 `？frame=60&paused=1` 精确定位帧截图。Prompt 指南包括：给具体素材、使用动效术语、pan/zoom/hold 模拟镜头、显式声明 Slots、锁定时间规格。适合单场景短时长 Motion Graphics、SVG→Lottie、数据可视化、透明背景矢量动效；不适合多镜头剪辑、复杂角色绑定、粒子、3D 或需 lottie-web 全特性的场景。",
+      "category": "tip",
+      "score": 77,
+      "selected": true
+    },
     {
       "id": "cmq77b1f600gvsl5w4toi02fe",
       "title": "IBM CEO：AI不一定导致员工减少",
@@ -1190,19 +1202,7 @@
       "category": "tip",
       "score": 76,
       "selected": true
-    },
-    {
-      "id": "cmq5fu9vx07j4slt2xwo7tc0y",
-      "title": "AI 替代浪潮：三大力量重塑成本结构",
-      "title_en": "The Substitution Wave in AI",
-      "url": "https://www.tomtunguz.com/inflation-deflation-ai",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-06-07T00:00:00.000Z",
-      "summary": "三大力量重塑 AI 成本：前沿闭源模型持续涨价，开源模型在多数场景已足够好，买家开始替代。Coinbase 将提示词路由至更便宜模型，成本持平但 token 用量指数增长。Lindy 全切至 DeepSeek v4，节省数百万美元且多项核心性能提升。Harvey 在 Legal Agent Benchmark 上通过 SFT 使 Kimi 2.6 all-pass 率达 15%，超越 Opus 的 14%，同一 100 任务成本 $84 vs $954（约 11 倍价差）。Cursor 后训练 Kimi K2.5 得到 Composer 2.5，称其\"性能优异且效率高达同类模型 10 倍\"。闭源越来越贵，开源平价且性能接近，选择决定企业单位经济学的斜率。",
-      "category": "tip",
-      "score": 56,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-09T22:48:39Z"
+  "cachedAt": "2026-06-10T01:30:54Z"
 }
