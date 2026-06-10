@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwODc2ODAwMDAwLCJpIjoiY21xNTlxcGhmMDV2dXNsdDJ6Z3c2bmR5NiJ9",
+  "nextCursor": "eyJhIjoxNzgwODc2ODAwMDAwLCJpIjoiY21xNXBtcXFjMDE2NnNsNWljbnJpZW02diJ9",
   "items": [
+    {
+      "id": "cmq81cmpv03m3slepyhjpny0l",
+      "title": "走进 Anthropic：这家估值 9650 亿美元的 AI 巨头",
+      "title_en": "Inside Anthropic， the $965 Billion AI Titan",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-10/inside-anthropic-the-965-billion-ai-juggernaut-video",
+      "source": "Bloomberg：Technology（RSS）",
+      "publishedAt": "2026-06-10T12:00:06.000Z",
+      "summary": "Emily Chang 与 Anthropic 联合创始人 Dario 和 Daniela Amodei 进行罕见深度对话，探讨创业起源、与五角大楼的摩擦，以及该公司如何在激烈的 AI 竞赛中将安全置于首位。",
+      "category": "tip",
+      "score": 78,
+      "selected": true
+    },
     {
       "id": "cmq7w1nzi028nslepn0azwdsg",
       "title": "百度百舸联合复旦提出LU-KV框架，被ICML 2026录用",
@@ -1190,19 +1202,7 @@
       "category": "ai-models",
       "score": 79,
       "selected": true
-    },
-    {
-      "id": "cmq59qphf05vuslt2zgw6ndy6",
-      "title": "开源社区支持 OpenEnv 用于智能体强化学习",
-      "title_en": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-08T00:00:00.000Z",
-      "summary": "今日，Hugging Face 宣布 OpenEnv 项目进一步开放，由 Meta-PyTorch、Reflection、Unsloth 等组成的委员会协调，并获得 PyTorch Foundation、vLLM、SkyRL（UCB）等机构支持。OpenEnv 是创建终端、浏览器等智能体执行环境的工具，定位为训练器与环境间的互操作层，标准化环境的发布、部署和消费，但不定义奖励或训练循环。它基于客户端/服务器架构提供 Gymnasium 风格 API（`reset（）`、`step（）`、`state（）`），支持 HTTP、WebSocket、Docker 打包，并将 MCP 作为一等公民，使环境在模拟和生产模式下行为一致。未来将聚焦任务集对接数据集、外部奖励、Harness 集成及自动验证，以推动开源智能体 RL 基础建设。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-10T11:03:16Z"
+  "cachedAt": "2026-06-10T14:29:02Z"
 }
