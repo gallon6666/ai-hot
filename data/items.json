@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwOTI3MjAwMDAwLCJpIjoiY21xNXBvY2tpMDE3YnNsNWlramoxZHpoayJ9",
+  "nextCursor": "eyJhIjoxNzgwOTI5MDA1MDAwLCJpIjoiY21xNWJweW0zMDZmYnNsdDJjbmZjYW5neSJ9",
   "items": [
+    {
+      "id": "cmq8nblte041islldguc1eqww",
+      "title": "通过 Oracle 云承诺访问 OpenAI 模型和 Codex",
+      "title_en": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-10T20:00:00.000Z",
+      "summary": "OpenAI 与 Oracle 合作，用户可利用现有 Oracle 云服务承诺（commitment）额度，在 Oracle 云上访问 OpenAI 模型和 Codex，用于构建和部署 AI 应用，同时获得企业级安全与治理能力。",
+      "category": "industry",
+      "score": 56,
+      "selected": true
+    },
     {
       "id": "cmq8gzpbb02egslld4b5zy63k",
       "title": "MiniMax M3 上链 0G，限时免费运行",
@@ -1190,19 +1202,7 @@
       "category": "ai-models",
       "score": 75,
       "selected": true
-    },
-    {
-      "id": "cmq5pocki017bsl5ikjj1dzhk",
-      "title": "OpenAI 向 SEC 机密提交 S-1 草案，上市时间未定",
-      "title_en": "Confidential submission of draft S-1 to the SEC",
-      "url": "https://openai.com/index/openai-submits-confidential-s-1",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-08T14:00:00.000Z",
-      "summary": "OpenAI 近日向 SEC 机密提交了 S-1 草案（即首次公开募股注册声明），目前尚未决定上市时间。",
-      "category": "industry",
-      "score": 89,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-10T20:44:35Z"
+  "cachedAt": "2026-06-10T22:56:31Z"
 }
