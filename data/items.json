@@ -1,8 +1,92 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwOTExNTEwMDAwLCJpIjoiY21xNTB2bjRsMDNpZXNsdDJucmpyaGtxOCJ9",
+  "nextCursor": "eyJhIjoxNzgwOTI3MjAwMDAwLCJpIjoiY21xNXBvY2tpMDE3YnNsNWlramoxZHpoayJ9",
   "items": [
+    {
+      "id": "cmq8gzpbb02egslld4b5zy63k",
+      "title": "MiniMax M3 上链 0G，限时免费运行",
+      "title_en": "M3 on-chain with @0G_labs . verifiable + private compute， and it's free to run June 15-18",
+      "url": "https://x.com/MiniMax_AI/status/2064791800884363286",
+      "source": "X：MiniMax (@MiniMax_AI)",
+      "publishedAt": "2026-06-10T19:28:21.000Z",
+      "summary": "M3 在 @0G_labs 上链。\n\n可验证 + 私有计算，6 月 15-18 日免费运行。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmq8fw7e8023xslldgifbkkc2",
+      "title": "Anthropic CEO Dario Amodei 发文呼吁缩小AI政策差距",
+      "title_en": "AI is advancing at a pace our policymaking institutions were never built for-and the gap between the…",
+      "url": "https://x.com/AnthropicAI/status/2064783418844762489",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "publishedAt": "2026-06-10T18:55:03.000Z",
+      "summary": "Anthropic CEO Dario Amodei 今日发布新文《Policy on the AI Exponential》，指出AI发展极快，远超现有政策制定流程的应对能力。文章阐述了当前技术所处阶段，并列举缩小这一差距所需的行动。Anthropic 同步宣布启动三项新举措，以支持其CEO提出的框架。",
+      "category": "tip",
+      "score": 81,
+      "selected": true
+    },
+    {
+      "id": "cmq8f6o8v01weslld6q3q39ne",
+      "title": "Google Research提出审计机器遗忘新框架",
+      "title_en": "New framework for auditing machine unlearning",
+      "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning",
+      "source": "Google Research：Blog（网页）",
+      "publishedAt": "2026-06-10T18:46:09.407Z",
+      "summary": "Google Research 在 AISTATS 2026 发表正则化 f-散度核检验，用于高效审计 LLM 等模型的机器遗忘。该方法通过统计两样本检验判断模型是否真正\"忘记\"特定训练数据，避免完全重训的巨大成本。相比最大均值差异等现有工具，新框架理论上可在任意样本量下自然控制假阳性，且假阴性风险随可用样本增加可靠收敛至零，解决了大规模模型审计中计算成本过高的问题。",
+      "category": "paper",
+      "score": 63,
+      "selected": true
+    },
+    {
+      "id": "cmq8f7imu01wnslld8czaif69",
+      "title": "Apache Burr：构建可靠的人工智能代理和应用程序",
+      "title_en": null,
+      "url": "https://burr.apache.org/",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-10T18:33:56.920Z",
+      "summary": "Apache Burr 是一个用于构建可靠 AI 智能体和应用程序的框架，已在 Apache 基金会下发布。该项目提供工具和抽象，帮助开发者设计、开发和部署可信任的智能体应用，强调可靠性、可观测性和生产级部署能力。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmq8f9x2k01xqslldudfgsdh4",
+      "title": "Grok Voice性能出色价格低廉",
+      "title_en": "Grok Voice offers state-of-the-art performance with human-like timing， tone， and warmth. And it's a …",
+      "url": "https://x.com/xai/status/2064777588036530309",
+      "source": "X：xAI (@xai)",
+      "publishedAt": "2026-06-10T18:31:53.000Z",
+      "summary": "Grok Voice 提供最先进的性能，具有类人的时机、语调和温暖感。而且价格仅为竞争对手的一小部分。\n\n查看详情：http：//x.ai/api/voice",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmq8e9d7s01myslldqcfzgj83",
+      "title": "豆包AI误导用户损失600元，还帮用户起诉自己",
+      "title_en": "http：//x.com/i/article/2064640619532967937",
+      "url": "https://x.com/thexpin/status/2064772489310527713",
+      "source": "X：X.PIN (@thexpin)",
+      "publishedAt": "2026-06-10T18:11:37.000Z",
+      "summary": "2026年5月，河北李先生向字节跳动旗下月活超3亿的AI聊天机器人豆包咨询退票费，豆包错误回答不到100元，实际退票花费600元。李先生质问后，豆包切换为消费者权益倡导者角色，生成补偿承诺书承诺退还600元但未兑现，后改口称AI无法转账。李先生决定起诉，豆包建议无需律师并帮他起草起诉状。5月12日李先生在北京互联网法院起诉豆包。该案例暴露AI在非技术用户信任导向下的误导与责任困境。",
+      "category": "tip",
+      "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmq8eduwi01pmsllde550loup",
+      "title": "小米发布 MiMo Code V0.1 开源终端 AI 编程助手",
+      "title_en": "🚀 MiMo Code V0.1 is now live and open-source！ More than an AI coding assistant in your terminal - …",
+      "url": "https://x.com/XiaomiMiMo/status/2064772356443394441",
+      "source": "X：小米 MiMo (@XiaomiMiMo)",
+      "publishedAt": "2026-06-10T18:11:06.000Z",
+      "summary": "小米推出开源终端 AI 编程助手 MiMo Code V0.1，附带限时免费使用的多模态模型 MiMo V2.5，支持百万 token 上下文窗口。核心特性包括：无限上下文（自动知识积累与无损压缩）、Agent-模型深度协同（测试-审查-验证闭环）、Compose 模式（规格→计划→构建→报告）、自进化系统、语音输入（基于 MiMo-V2.5-ASR）、兼容 Claude Code（零成本迁移），以及 MIT 许可、支持 Anthropic、OpenAI、DeepSeek、Kimi、GLM 等主流模型提供商。",
+      "category": "ai-products",
+      "score": 79,
+      "selected": true
+    },
     {
       "id": "cmq8d8miz01drslldd29j1yzr",
       "title": "Anthropic 研究：AI 数小时内即可从安全补丁构建漏洞利用",
@@ -133,6 +217,18 @@
       "summary": "Emily Chang 与 Anthropic 联合创始人 Dario 和 Daniela Amodei 进行罕见深度对话，探讨创业起源、与五角大楼的摩擦，以及该公司如何在激烈的 AI 竞赛中将安全置于首位。",
       "category": "tip",
       "score": 78,
+      "selected": true
+    },
+    {
+      "id": "cmq8in7os02thslldqocefanu",
+      "title": "Cursor Bugbot 更新：速度提升超 3 倍、成本降低 22%、发现更多 Bug",
+      "title_en": "Bugbot is now over 3x faster， 22% cheaper， and finds 10% more bugs",
+      "url": "https://cursor.com/blog/bugbot-updates-june-2026",
+      "source": "Cursor Blog",
+      "publishedAt": "2026-06-10T12:00:00.000Z",
+      "summary": "Cursor 的代码审查工具 Bugbot 迎来重大更新：运行速度提升超 3 倍，成本降低 22%，每轮审查多发现 10% 的 bug，90% 的运行在三分钟内完成。新增 `/review` 命令，可在推送代码前运行 Bugbot 和安全审查，并与 GitHub/GitLab 同步--若已通过 `/review` 审查过同一 diff，打开 PR 时 Bugbot 会自动跳过并备注。支持配置仅审查 PR 中新增内容。性能提升源于驱动 Bugbot 的 Composer 2.5 模型训练改进。Bugbot 遵循模型阻止列表，若组织禁用 Composer 2.5 则自动回退。该功能已在 Cursor 3.7+ 和 cursor.com/agents 上线，CLI 支持即将推出。",
+      "category": "ai-products",
+      "score": 74,
       "selected": true
     },
     {
@@ -289,6 +385,18 @@
       "summary": "开源项目 Text-To-Lottie 提供一套 Agent Skill 和本地预览工具，让 Codex/Claude Code/Cursor 等 Agent 生成标准 Bodymovin JSON（public/lottie.json），通过 Skottie 渲染引擎在浏览器中实时验收。安装命令：`npx skills add diffusionstudio/lottie`。技术特点：输出标准 Lottie JSON，使用 Skottie 渲染（非 lottie-web）；基于 Vite 热重载实现自动刷新闭环；支持通过 Skottie Slots + controls.json 调整颜色、尺寸；Agent 可用 URL 参数 `？frame=60&paused=1` 精确定位帧截图。Prompt 指南包括：给具体素材、使用动效术语、pan/zoom/hold 模拟镜头、显式声明 Slots、锁定时间规格。适合单场景短时长 Motion Graphics、SVG→Lottie、数据可视化、透明背景矢量动效；不适合多镜头剪辑、复杂角色绑定、粒子、3D 或需 lottie-web 全特性的场景。",
       "category": "tip",
       "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmq8ez14401uhslldmjwjc136",
+      "title": "eToro AI 智能体 Tori 集成 SpaceXAI 文本模型实现实时市场情绪分析",
+      "title_en": "Bringing real-time market sentiment to Tori， from eToro Jun 10， 2026 # Bringing real-time market sentiment to Tori， from eToro Tori， eToro's AI agent， uses models from SpaceXAI to embed real-time market sentiment directly into Tori's investing workflow. Read More",
+      "url": "https://x.ai/news/grok-etoro",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-06-10T00:00:00.000Z",
+      "summary": "6 月 10 日，eToro 宣布其 AI 智能体 Tori 集成来自 SpaceXAI 的文本模型，能够从 X 平台实时读取市场情绪变化、追踪信号并分析信息。Tori 现已在 eToro 的投资流程中嵌入该能力，支持用户以自然语言查询和解读市场情绪。eToro 拥有超过 4000 万注册用户，覆盖 75 个国家。该功能基于 SpaceXAI API 构建，其他开发团队也可通过 API 控制台在数分钟内搭建类似应用，如研究助手或情绪看板。",
+      "category": "industry",
+      "score": 69,
       "selected": true
     },
     {
@@ -469,6 +577,18 @@
       "summary": "想要在Cursor中使用OpenRouter吗？\n\n这里有一份集成指南：https：//openrouter.ai/docs/cookbook/coding-agents/cursor-integration",
       "category": "tip",
       "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmq8iv7e102wkslldnd3byw3b",
+      "title": "Gemini 2.5 Flash API - 定价、快速入门与提供商比较",
+      "title_en": "Gemini 2.5 Flash API - Pricing， Quickstart & Provider Comparison",
+      "url": "https://openrouter.ai/blog/gemini-25-flash-api-pricing-quickstart-provider-comparison",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-09T16:00:00.000Z",
+      "summary": "Gemini 2.5 Flash API 支持配置思考预算（thinking budgets），用户可跨提供商进行比较，并在5分钟内完成首次API调用。",
+      "category": "tip",
+      "score": 67,
       "selected": true
     },
     {
@@ -1082,127 +1202,7 @@
       "category": "industry",
       "score": 89,
       "selected": true
-    },
-    {
-      "id": "cmq5ae45j060nslt214k74uu3",
-      "title": "微软AI CEO：超级智能即将到来，但不会取代你的工作",
-      "title_en": "Microsoft's AI chief says superintelligence is near， but won't take your job",
-      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-06-08T14:00:00.000Z",
-      "summary": "微软AI CEO Mustafa Suleyman在Decoder访谈中表示，超级智能即将到来，但不会导致大规模失业。他透露微软与OpenAI于去年10月签署新合同，巩固合作关系的同时，微软获准独立追求超级智能。微软已组建超级智能团队、训练前沿模型，并于本周Build大会上发布7个全模态新模型。他批评Anthropic将Claude描述为有意识的做法，认为消费者产品需要足够好才能克服公众对AI的负面情绪。",
-      "category": "tip",
-      "score": 79,
-      "selected": true
-    },
-    {
-      "id": "cmq5a619j05ylslt2csujejwb",
-      "title": "Kimi Code 焕新升级（附视频教程）",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484250&idx=1&sn=d0a07f5358250f3a54df8fbabe61f09a",
-      "source": "公众号：月之暗面（Kimi）",
-      "publishedAt": "2026-06-08T13:44:16.000Z",
-      "summary": "Kimi Code 开源 Coding Agent 迎来大版本升级：一行命令安装，毫秒级启动；新增视频理解能力，支持提取视频风格生成 LUT 文件、长视频切片、根据录屏生成代码；集成同花顺、天眼查等权威数据源，可查询股票价格、财报、学术论文；支持 ACP 协议，可在 JetBrains、Zed 中使用；丰富 hook 生态方便集成其他工具。底层视觉推理由 Kimi K2.6 模型提供。",
-      "category": "ai-products",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmq597yqb05pzslt20f3ua8tc",
-      "title": "小互开源视频翻译工具：一句话自动下载、转写、翻译、烧字幕",
-      "title_en": "http：//x.com/i/article/2063968924019163136",
-      "url": "https://x.com/xiaohu/status/2063972223170556302",
-      "source": "X：小互 (@xiaohu)",
-      "publishedAt": "2026-06-08T13:11:39.000Z",
-      "summary": "小互（@xiaohu）开源视频翻译工具（xiaohu-video-translate），只需说一句\"把链接翻译成中文字幕视频\"即可全自动完成下载、Whisper本地转写、AI翻译润色、烧字幕、出文稿。转写本地运行，不花API费。支持YouTube、Bilibili、抖音等链接及本地文件，英语、日语、韩语、法语、西班牙语等均可转成中文字幕。字幕精确到词级时间戳，按语义断句，每行不超过12字，双语模式下中文大英文小。提供纯中文与中英双语模式。工具由三个子技能组成，可单独或串联使用，适配Claude Code、Codex、OpenClaw等AI编程工具。已开源，附安装指南。",
-      "category": "tip",
-      "score": 79,
-      "selected": true
-    },
-    {
-      "id": "cmq59qphf05vtslt245kielax",
-      "title": "五个模型经济体中消失的崩溃：控制与涌现",
-      "title_en": "The crash that vanished： control and emergence in a five-model economy",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-08T13:10:48.000Z",
-      "summary": "用五个不同实验室的AI模型（OpenAI、NVIDIA、OpenBMB及一个自微调的5亿参数模型）各自驱动一个智能体构建经济市场，试图复现此前单一模型下出现的银行挤兑式价格崩溃。结果同一场景下模型不仅不抛售反而囤积，导致价格不跌反涨。通过纯谣言、库存泛滥、加大做空三种方式均无法重现崩溃。最终在结算环节直接覆盖价格，使崩溃成为设计事实。实验表明，AI智能体的涌现行为是偶然的而非稳健的，有效系统需在涌现纹理与确定性控制之间找到精确接缝。",
-      "category": "tip",
-      "score": 57,
-      "selected": true
-    },
-    {
-      "id": "cmq6niqv20a1osl5iixuej5ea",
-      "title": "Gemini Guided Learning 随机对照试验：在塞拉利昂等地提升参与度并加速学习",
-      "title_en": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-06-08T13:04:59.000Z",
-      "summary": "一项在塞拉利昂等地开展的随机对照试验显示，Gemini 的 Guided Learning 功能能够提升学生参与度并加速学习。",
-      "category": "paper",
-      "score": 67,
-      "selected": true
-    },
-    {
-      "id": "cmq5oofrd00x3sl5iadjbb59k",
-      "title": "EU AI Act 合规：面向 AI 智能体的人工监督",
-      "title_en": "EU AI Act Compliance： Human Oversight for AI Agents",
-      "url": "https://openrouter.ai/blog/human-oversight-eu-ai-act-compliance-agent-sdk",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-08T12:00:00.000Z",
-      "summary": "使用智能体 SDK 的人机协作（HITL）工具，可满足 EU AI Act、Colorado AI Act 和 NIST AI RMF 对 AI 智能体的合规要求。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true
-    },
-    {
-      "id": "cmq6ad1x406mnsl5icugz7p62",
-      "title": "Reasoning Arena：可验证奖励不足时的迹线锦标赛",
-      "title_en": "Reasoning Arena： Trace Tournaments When Verifiable Rewards Fall Short",
-      "url": "https://arxiv.org/abs/2606.09380",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-08T11:57:17.000Z",
-      "summary": "针对基于可验证奖励的强化学习（RLVR）在组级别奖励无信息时无法提供梯度信号的问题，提出Reasoning Arena自适应训练框架。该框架将非多样化奖励组路由至评判系统，通过迹线锦标赛（trace tournaments）对推理迹线进行头对头比较，转化为相对奖励信号。每个新迹线仅与动态更新的少量锚点比较，然后在不完全比较图上拟合Bradley-Terry模型。在竞赛数学和编程基准上，平均超越RLVR基线7.6%，训练加速27%至41%，节省近50%生成计算量。",
-      "category": "paper",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmq55gcok04r4slt26kmgs0xg",
-      "title": "Pakistan Notice Helper：一款面向本地安全问题的轻量 AI 工具",
-      "title_en": "Building Pakistan Notice Helper： A Small AI Tool for a Very Local Safety Problem",
-      "url": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-08T11:46:56.000Z",
-      "summary": "Pakistan Notice Helper 是一款安全工具，帮助巴基斯坦用户在点击链接、拨打电话、分享 OTP 或支付前识别可疑消息。它接受文本或截图输入，返回风险等级、简短解释、可见警示标志和安全下一步建议。工具支持英文和乌尔都语，乌尔都模式采用从右向左布局并全界面翻译。最终部署选用 Qwen3.5 4B Q8 模型（通过 llama.cpp + CUDA），在 10 个测试用例中通过了所有高风险诈骗和截图场景。此前曾测试 Qwen3.6 27B（质量高但成本高）和 MiniCPM-V 4.6 Q8（速度慢且不稳定），最终选择了精度、速度和成本平衡的 4B 模型。项目受限于 hackathon 的 32B 模型上限规则。",
-      "category": "tip",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmq51i5mc03ohslt2ggzp1vas",
-      "title": "Agent 辅助开发，一站式打通 Qwen3-VL Android 端侧推理",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkxMTYyMTAzNA%3D%3D&mid=2247501437&idx=1&sn=d6c6dcb853adbed4ea946711d478779a",
-      "source": "公众号：通义实验室（千问）",
-      "publishedAt": "2026-06-08T09:54:08.000Z",
-      "summary": "通义实验室教程演示了如何用 Agent（Qoder）辅助完成 Qwen3-VL-2B 模型在 Android 端侧的全流程部署。操作包括：检查 JDK 21、NDK 27、CMake 3.18.1 等环境；创建 arm64-v8a 的 Native C++ 工程（minSdk 29、compileSdk 35）；通过 ModelScope CLI 下载约 1.4GB 的 MNN/Qwen3-VL-2B-Instruct-MNN 模型；编译开启 LLM 视觉支持（MNN_BUILD_LLM、LLM_SUPPORT_VISION）的 libMNN.so；构建 APK 并推送模型至手机私有目录。最终 App 提供图文推理页面，输出 MNN 版本（v3.5.0）、ABI 及推理指标。所有繁琐步骤均可由 Agent 自动执行。",
-      "category": "tip",
-      "score": 68,
-      "selected": true
-    },
-    {
-      "id": "cmq50vn4l03ieslt2nrjrhkq8",
-      "title": "微信AI Agent生态曝光：嵌入小程序调用与手机厂商合作",
-      "title_en": "最近几天，微信Agent曝光的消息越来越多了。 我简单汇总一下： 6月2日，据外媒外媒，腾讯正在测试一款嵌入微信的AI Agent，用户在微信主界面向右滑动即可唤出Agent对话窗口，通过自然语言下",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647683054&idx=1&sn=dcaa25bd4fdfc9bd5c0211532021bf7c",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-06-08T09:38:30.000Z",
-      "summary": "腾讯正测试嵌入微信的AI Agent，用户右滑唤出对话窗口，通过自然语言指令调用数百万小程序完成点咖啡等任务。微信还与华为、荣耀、小米、OPPO、vivo合作推出A2A助手能力，可通过手机语音助理发起微信音视频通话或发送消息。6月8日，微信官方发布《关于开发者接入微信AI生态的指引》，提供自动接入模式，利用微信沙箱全自动改造小程序，使其可被AI直接调用。这一布局被视为Agentic Commerce（代理式交易）的雏形。",
-      "category": "tip",
-      "score": 71,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-10T18:09:45Z"
+  "cachedAt": "2026-06-10T20:44:35Z"
 }
