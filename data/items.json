@@ -1,8 +1,92 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwODQ2MzAzMDAwLCJpIjoiY21xM3kya2YxMDA0anNscXZtYnM0dnVhbSJ9",
+  "nextCursor": "eyJhIjoxNzgwODc2ODAwMDAwLCJpIjoiY21xNTlxcGhmMDV2dXNsdDJ6Z3c2bmR5NiJ9",
   "items": [
+    {
+      "id": "cmq7w1nzi028nslepn0azwdsg",
+      "title": "百度百舸联合复旦提出LU-KV框架，被ICML 2026录用",
+      "title_en": "顶会入选！百度百舸联合复旦大学刷新KV Cache压缩SOTA",
+      "url": "https://mp.weixin.qq.com/s/oKhawmph49YYPR63T-ekaw",
+      "source": "公众号：百度智能云（文心）",
+      "publishedAt": "2026-06-10T09:43:54.000Z",
+      "summary": "百度百舸团队与复旦大学合作提出Long-horizon Utility KV（LU-KV）框架，将头级KV Cache预算分配建模为面向长程边际效用的全局组合优化问题。LU-KV通过离线画像估计注意力头边际贡献曲线，结合凸包松弛与基于边际效用的贪心求解器，在较低开销下得到接近最优的预算配置，可适配SnapKV、KeyDiff等多类压缩方法。在LongBench和RULER基准上，80%压缩比下性能损失小，降低显存占用和推理延迟。相关论文被ICML 2026录用。",
+      "category": "paper",
+      "score": 63,
+      "selected": true
+    },
+    {
+      "id": "cmq7vrubn024sslepi58d3kyg",
+      "title": "华为云发布全球首个端到端具身AI平台CloudRobo",
+      "title_en": "Unveiling the world's first end-to-end embodied AI development platform！ Huawei Cloud CloudRobo str…",
+      "url": "https://x.com/HuaweiCloud1/status/2064637581652852831",
+      "source": "X：华为云 (@HuaweiCloud1)",
+      "publishedAt": "2026-06-10T09:15:33.000Z",
+      "summary": "华为云推出全球首个端到端具身AI开发平台CloudRobo，覆盖从数据、模型到部署、集成的全生命周期，基于PB级可信数据底座。在INSPIRE2026上，国家地方共建人形机器人创新中心、Yijiahe Technology、上海交通大学展示了其核心能力：数据与模型双评估系统、主动力控模型快速组装、机器人小时级上云、模型分钟级部署。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true
+    },
+    {
+      "id": "cmq7v8ngp0204slepr7cog6d4",
+      "title": "谷歌 DeepMind 经济学家伊马斯：尚未发现 AI 造成岗位流失的证据，跟风裁员恐适得其反",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/962/515.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-10T08:36:14.000Z",
+      "summary": "谷歌 DeepMind AGI 经济学负责人亚历克斯·伊马斯表示，目前没有看到白领岗位因 AI 大规模消失的证据。他强调，若企业因\"不裁员就等于 AI 转型慢\"的叙事而跟风裁员，可能适得其反。伊马斯认为，AI 更多是接手部分任务、提升生产力，让员工专注机器无法完成的工作，岗位冲击尚未真正出现。",
+      "category": "tip",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmq7t3hhr01f3slepkahaev5l",
+      "title": "摩尔线程开源 MusaCoder 代码大模型，9B/27B 参数基于国产 GPU 全链路训练",
+      "title_en": "摩尔线程开源 MusaCoder：首个基于国产全功能 GPU 全栈训练的代码大模型",
+      "url": "https://www.ithome.com/0/962/509.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-10T08:21:45.000Z",
+      "summary": "摩尔线程发布并开源 MusaCoder 代码大模型，含 9B 和 27B 两个参数规模，是业内首个基于国产 GPU 算力底座完成全链路训练与验证的开源模型。后训练流程在基于 MTT S5000 的夸娥智算集群上完成，支持从 PyTorch 标准算子自动生成高性能 CUDA/MUSA 原生 Kernel 代码。在 KernelBench 评测中，MusaCoder-27B-RL 以 Overall Pass@8 93.2%、Avg.@8 88.60% 超越 Claude Opus、DeepSeek-V4 Pro、GLM-5.1、Kimi K2.6 等主流 SOTA 代码模型。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmq7qyb3800uqslepjr20j9gw",
+      "title": "工信部印发《\"人工智能+信息通信\"创新发展实施意见》",
+      "title_en": "工信部：加快建设 400Gbps/800Gbps 等骨干传输网络，优化东中西部国家枢纽节点之间网络传输通道",
+      "url": "https://www.ithome.com/0/962/456.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-10T07:07:13.000Z",
+      "summary": "工信部发文，要求加快建设400Gbps/800Gbps骨干传输网络，优化东中西部国家枢纽节点间通道；推进城域400Gbps及以上、全光交叉等高速光传输系统应用，构建城域毫秒级低时延入算能力。同时推动5G-A/6G、新一代光网络、\"IPv6+\"、工业互联网与AI融合发展，攻关空口智能化、网络高等级自智、智能体互联网等核心技术。鼓励基础电信企业用AI赋能传统业务，深化智慧个人助理、智慧管家、家庭看护、3D观影等新型应用。",
+      "category": "industry",
+      "score": 78,
+      "selected": true
+    },
+    {
+      "id": "cmq7qgacz00ptslepe0e36kj9",
+      "title": "用好 Claude Design 的一些经验",
+      "title_en": "用好 Claude Design 的一些经验： 1. 加上 Design System 可以有效避免设计 AI 味 比如我偏好用 Adobe Spectrum 2 Design System ht…",
+      "url": "https://x.com/dotey/status/2064601571397185639",
+      "source": "X：宝玉 (@dotey)",
+      "publishedAt": "2026-06-10T06:52:27.000Z",
+      "summary": "宝玉分享了5点心得：1. 加入设计系统（如 Adobe Spectrum 2）可避免 AI 味，设为默认后可专注布局与交互。2. 先搭建少量功能，再通过左侧聊天框逐步调整。3. 用 Markup 框选局部评论，Edit 可手动调整元素树。4. 注意上下文管理，新任务创建新会话。5. 通过 Tweaks 面板调整主题、布局、加载状态，也可添加导航快速切换界面。",
+      "category": "tip",
+      "score": 81,
+      "selected": true
+    },
+    {
+      "id": "cmq7pb0cg00epslepudldb2ml",
+      "title": "亚马逊的大规模扁平化数据中心网络",
+      "title_en": null,
+      "url": "https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-10T06:33:52.391Z",
+      "summary": "亚马逊分享了在大规模数据中心中实现扁平化网络架构的工程实践与设计考量，重点论述了如何通过简化拓扑和路由策略来支撑超大规模集群的高带宽、低延迟通信。文章未披露具体模型或评测数据。",
+      "category": "tip",
+      "score": 73,
+      "selected": true
+    },
     {
       "id": "cmq7o76t70033slep3hezyguv",
       "title": "2026年高考，跟着千问，选好志愿！",
@@ -592,6 +676,18 @@
       "selected": true
     },
     {
+      "id": "cmq7u3iet01peslepwrtwakhb",
+      "title": "快手开源 Kwai Keye-VL-2.0-30B-A3B：面向长视频理解与智能体智能的 MoE 多模态模型",
+      "title_en": "Kwai Keye-VL-2.0 Technical Report",
+      "url": "https://arxiv.org/abs/2606.10651",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-09T00:00:00.000Z",
+      "summary": "快手开源 Kwai Keye-VL-2.0-30B-A3B，一个 MoE 多模态基础模型，激活仅 3B 参数，专为长视频理解和智能体智能设计。模型首次将 DeepSeek Sparse Attention （DSA） 适配到 GQA 多模态架构，实现无损 256K 上下文处理，并通过可扩展视频 I/O、异构 ViT-LM 并行及自定义 DSA 内核优化吞吐与计算开销。引入跨模态多教师在策略蒸馏（MOPD）结合 Context-RL 和 Video-RL，缓解多任务对齐中的灾难性遗忘，原生支持代码、工具、搜索场景下的多智能体协作与多模态自纠正。在 TimeLens、Video-MME-v2、LongVideoBench 等多个基准上达到同类规模 SOTA，模型权重已开源。",
+      "category": "paper",
+      "score": 70,
+      "selected": true
+    },
+    {
       "id": "cmq7lit3f0492sl5wcbuhw0ln",
       "title": "混合LLM中的注意力失忆：CoT微调破坏长距离召回及修复方法",
       "title_en": "Attention Amnesia in Hybrid LLMs： When CoT Fine-Tuning Breaks Long-Range Recall， and How to Fix It",
@@ -1106,103 +1202,7 @@
       "category": "ai-products",
       "score": 62,
       "selected": true
-    },
-    {
-      "id": "cmq4gflji00qtslotgoi786jr",
-      "title": "Nvidia 与 SK Hynix 签署多年协议，共同开发下一代 AI 存储芯片",
-      "title_en": "Nvidia， SK Hynix Sign Multi-Year Pact to Develop Next-Gen Chips",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-07/nvidia-sk-hynix-sign-multi-year-pact-to-develop-next-gen-chips",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-07T23:26:02.000Z",
-      "summary": "Nvidia 与 SK Hynix 达成合作，将共同设计面向 AI 应用的未来几代存储芯片。此举巩固了 SK Hynix 在高端半导体领域的领先地位。",
-      "category": "industry",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmq44c1hy00d9slz5itsduqad",
-      "title": "ChatGPT 要变 AgentGPT 了",
-      "title_en": "ChatGPT 要变 AgentGPT 了 当然 ChatGPT 应该不会改名字，但 ChatGPT 应该不再是一个单纯的 Chat 工具了。 OpenAI 内部一位高管对《金融时报》说：\"Cha…",
-      "url": "https://x.com/dotey/status/2063686036895478162",
-      "source": "X：宝玉 (@dotey)",
-      "publishedAt": "2026-06-07T18:14:27.000Z",
-      "summary": "OpenAI 正筹备 ChatGPT 自 2022 年上线以来最大规模改版，从聊天机器人转向超级应用/Agent 平台，整合编程工具 Codex、图像生成及第三方应用（Canva、Booking）。高管称\"聊天已死\"，目标成为跨平台个人 AI 助手，未来甚至省去用户输入提示词。改版预计未来几周在网页和手机端上线。商业压力：ChatGPT 有 9 亿周活用户、5000 万付费用户、月收入 20 亿美元但未盈利；企业客户贡献约 40% 收入，目标年底达 50%；Codex 桌面版周活超 500 万。竞争对手 Anthropic 估值已达 9650 亿美元。OpenAI 刚完成 1220 亿美元融资，估值 8520 亿美元，IPO 目标估值可能超 1 万亿美元。",
-      "category": "industry",
-      "score": 81,
-      "selected": true
-    },
-    {
-      "id": "cmq41cpfx00g9slr28fihcr5v",
-      "title": "特朗普政府与OpenAI讨论通过公共财富基金入股AI初创公司",
-      "title_en": "FT： The proposal suddenly of a sovereign-wealth-style fund got more attention inside the White House…",
-      "url": "https://x.com/rohanpaul_ai/status/2063662672835703126",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-07T16:41:36.000Z",
-      "summary": "据FT报道，特朗普政府正与OpenAI探讨通过公共财富基金机制让政府入股AI初创公司。方案是AI企业捐赠小部分股权至该基金，基金通过账户或分红将收益返还美国公民，而非政府直接运营公司。这不同于特朗普去年对Intel的90亿美元直接持股。OpenAI此前已提出公共财富基金概念，持有长期资产，让公民分享AI增长红利。政治背景方面，选民担忧失业、数据中心成本与企业控制，而AI公司需要华盛顿在基建、采购和监管上的支持。",
-      "category": "industry",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmq404ny5005mslr29n96iugc",
-      "title": "OpenAI 仍推进超级应用计划",
-      "title_en": "OpenAI is still working on that 'super app'",
-      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-07T16:23:22.000Z",
-      "summary": "OpenAI 一位高级员工表示\"聊天已死\"，同时公司仍在继续推进超级应用计划。",
-      "category": "industry",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmq5s35qm01vksl5i8iuvz0zv",
-      "title": "Claude 支持 Apple Foundation Models 框架，推出新 Swift 包",
-      "title_en": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
-      "url": "https://claude.com/blog/claude-for-foundation-models",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-07T16:00:00.000Z",
-      "summary": "Anthropic 通过一个新 Swift 包，让 Apple 开发者能在 Foundation Models 框架中直接调用 Claude。开发者用 Apple 框架以原生 Swift 方式，仅需三行代码即可通过引导生成返回类型化 Swift 值。当请求涉及多步推理、代码生成、联网搜索或数据分析时，Claude 可接手处理，并将流式响应传回同一视图。该支持可在 iOS 27、iPadOS 27、macOS 27、visionOS 27 和 watchOS 27 上使用，开发者需添加包并配置 Anthropic API 密钥。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": true
-    },
-    {
-      "id": "cmq5kh0q200g7sl38uoitn0e3",
-      "title": "Claude 为 Connector 开发者推出性能监控仪表盘",
-      "title_en": "Observability for developers building connectors",
-      "url": "https://claude.com/blog/observability-for-developers-building-connectors",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-07T16:00:00.000Z",
-      "summary": "Claude 为目录中已发布的 Connector 新增性能监控仪表盘（公开测试版）。所有者可追踪活跃用户、工具调用次数、目录排名、健康评分、错误率、延迟，并按工具细分错误归因；还能按 Claude、Claude Code、Cowork 等产品分解使用情况。访问需 Team 或 Enterprise 账号（Admin/Owner 权限或自定义角色）。基于 MCP 构建的 Connector 可直接在 Claude 应用内提交至目录，该目录已有超 300 个第三方 Connector，每日被数百万人使用。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmq5i5o4g0861slt2rprafeu2",
-      "title": "为生物学AI智能体铺路",
-      "title_en": "Paving the way for agents in biology",
-      "url": "https://www.anthropic.com/research/agents-in-biology",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-06-07T16:00:00.000Z",
-      "summary": "一项实验让Claude、Biomni、Edison Analysis、GPT等科研智能体从病毒学数据库NCBI Virus中检索序列数据，即使最强模型也无法稳定达到可靠数据集构建所需的准确率。加入确定性检索层gget virus后，准确率接近100%。研究指出，当前生物学数据基础设施存在碎片化、格式特殊、接口不统一等问题，导致AI智能体难以像在软件领域那样高效工作。确定性检索工具是实现可靠智能体工作流的关键，生物学数据库需为智能体作为规模化用户而设计。",
-      "category": "paper",
-      "score": 77,
-      "selected": true
-    },
-    {
-      "id": "cmq3y2kf1004jslqvmbs4vuam",
-      "title": "Slop、生产力，以及为何AI驱动的世界进展甚微",
-      "title_en": "Slop， productivity， and why the AI-fueled world is going nowhere mighty fast",
-      "url": "https://garymarcus.substack.com/p/slop-productivity-and-why-the-ai",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-06-07T15:31:43.000Z",
-      "summary": "Gary Marcus在金融时报上看到John Burn-Murdoch的一张图表，认为它精准提炼了自己一直试图表达的观点。",
-      "category": "tip",
-      "score": 67,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-10T06:41:37Z"
+  "cachedAt": "2026-06-10T11:03:16Z"
 }
