@@ -1,8 +1,68 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwOTMzODg0MDAwLCJpIjoiY21xNWVvOTJmMDc2dXNsdDIxazQzcmRwYiJ9",
+  "nextCursor": "eyJhIjoxNzgwOTQyNDA2NjM5LCJpIjoiY21xNWxha3luMDBuZXNsMzhlZGZ3Mm0xOSJ9",
   "items": [
+    {
+      "id": "cmq954qjy08p2slldtang9e2v",
+      "title": "baoyu-design skill 更新：支持导入 Figma 本地文件重建设计系统",
+      "title_en": "baoyu-design skill （让你本地运行 Claude Design 的 Skill）更新，现在支持导入 figma 本地文件（Figma可以保存成 xxx.fig 文件）。比如你有一个设…",
+      "url": "https://x.com/dotey/status/2064959133535658144",
+      "source": "X：宝玉 (@dotey)",
+      "publishedAt": "2026-06-11T06:33:17.000Z",
+      "summary": "baoyu-design skill 更新，现已支持导入 Figma 本地文件（.fig），可在本地重建设计系统，效果与 Claude Design 在线版一致。该功能依赖 Claude Fable 5 辅助（Token 不够用）。安装后提供 Figma 文件路径即可导入为 Design System，后续新建设计项目可复用。同时支持在新建项目时添加已导入的 Design System，保留了 Claude Design 原始的导入和编译方式，用户可通过提问选择设计系统。安装命令：`npx skills add JimLiu/baoyu-design`。项目地址：https：//github.com/jimliu/baoyu-design。",
+      "category": "tip",
+      "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmq958epc08qasllddc5u86n8",
+      "title": "AI浪潮引发中国担忧：官媒呼吁保护劳动者权益",
+      "title_en": "AI Wave Sparks Alarm in China With Call to Protect Worker Rights",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
+      "source": "Bloomberg：Technology（RSS）",
+      "publishedAt": "2026-06-11T06:19:13.000Z",
+      "summary": "中国工作场所快速采用人工智能，引发官媒异常直白地呼吁保护劳工权利。北京正在考虑如何控制这项新技术带来的风险。",
+      "category": "industry",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmq94c8iu08i6slld2kpggdra",
+      "title": "Anthropic CEO 阿莫迪：AI 可能会造成大规模、长期性的岗位流失",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/962/854.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-11T05:53:41.000Z",
+      "summary": "Anthropic CEO 达里奥・阿莫迪警告，AI造成的大规模岗位流失是技术固有属性--AI系统旨在复刻人类认知，失业将成为结构性必然结果。他提出应对思路：完善劳动力市场监测、推行薪资保障与留岗税收优惠、发放培训补贴；若人力需求永久下降，则需通过征税推行全民基本收入等长期收入保障。Anthropic目标非削减人力成本，而是帮企业开拓新营收、盘活现有员工产能。",
+      "category": "tip",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmq8zcaxy076fslldrds65pvu",
+      "title": "Midjourney V8.1 已成为默认模型",
+      "title_en": "V8.1 is now the default model on Midjourney！",
+      "url": "https://updates.midjourney.com/v8-1-is-now-the-default-model",
+      "source": "Midjourney：Updates（RSS）",
+      "publishedAt": "2026-06-11T04:08:51.000Z",
+      "summary": "Midjourney 已将默认模型从 V7 升级为 V8.1。V8.1 在智能性、连贯性、对详细提示的遵循度以及文本渲染效果上均有提升，HD 模式也已支持。",
+      "category": "ai-models",
+      "score": 64,
+      "selected": true
+    },
+    {
+      "id": "cmq8whekl06eyslldxzkd9dzi",
+      "title": "从0到1速通WorkBuddy：国内通用Agent产品教程",
+      "title_en": "从0到1带你速通WorkBuddy，这可能是最适合国内的Agent产品。",
+      "url": "https://mp.weixin.qq.com/s/nFSSzluc57xPv50Zbh4owg",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-06-11T01:58:00.000Z",
+      "summary": "WorkBuddy是面向国内用户的通用Agent产品，支持Windows和Mac，提供免费版和58元/月个人专业版，企业版已推出。内置代码开发、日常办公、设计创意三种场景模式及100多个行业领域AI专家。模型集成腾讯混元、DeepSeek（推荐V4 Pro）、GLM、Kimi等国产大模型，也支持接入兼容OpenAI协议的外部API。拥有Skills市场和MCP连接器生态，可打通QQ邮箱、腾讯会议、腾讯文档等服务。教程通过公众号周报生成和功能网页开发两个案例演示实际用法。",
+      "category": "tip",
+      "score": 70,
+      "selected": true
+    },
     {
       "id": "cmq8svjva05grslldediy0tpk",
       "title": "mlx-vlm v0.6.3 发布，Day-0 支持 Google DeepMind DiffusionGemma 和 Cohere North Mini Code 1.0",
@@ -112,15 +172,15 @@
       "selected": true
     },
     {
-      "id": "cmq8eduwi01pmsllde550loup",
-      "title": "小米发布 MiMo Code V0.1 开源终端 AI 编程助手",
-      "title_en": "🚀 MiMo Code V0.1 is now live and open-source！ More than an AI coding assistant in your terminal - …",
-      "url": "https://x.com/XiaomiMiMo/status/2064772356443394441",
-      "source": "X：小米 MiMo (@XiaomiMiMo)",
-      "publishedAt": "2026-06-10T18:11:06.000Z",
-      "summary": "小米推出开源终端 AI 编程助手 MiMo Code V0.1，附带限时免费使用的多模态模型 MiMo V2.5，支持百万 token 上下文窗口。核心特性包括：无限上下文（自动知识积累与无损压缩）、Agent-模型深度协同（测试-审查-验证闭环）、Compose 模式（规格→计划→构建→报告）、自进化系统、语音输入（基于 MiMo-V2.5-ASR）、兼容 Claude Code（零成本迁移），以及 MIT 许可、支持 Anthropic、OpenAI、DeepSeek、Kimi、GLM 等主流模型提供商。",
+      "id": "cmq8whf5x06f2slld2conqwg5",
+      "title": "小米发布并开源终端AI编程助手MiMo Code V0.1.0，采用MIT协议",
+      "title_en": "MiMo Code 发布并开源|模型 Agent 协同优化，迈向自进化时代",
+      "url": "https://mp.weixin.qq.com/s/WkMPz-eBK2Hz0ZTQEwtx6w",
+      "source": "公众号：小米 MiMo",
+      "publishedAt": "2026-06-10T18:06:35.000Z",
+      "summary": "小米发布并开源终端AI编程助手MiMo Code V0.1.0，采用MIT协议。内置限时免费MiMo-V2.5多模态模型，性能比肩Claude Sonnet 4.6；支持接入DeepSeek、Kimi、GLM等模型。核心能力包括持久记忆系统（项目记忆、会话检查点、任务进度）和无限上下文--通过独立subagent自动保存状态解决长会话遗忘。独创Compose模式实现模型与Agent协同优化，SWE-Bench Pro达62%（Claude Code 57%），Terminal Bench 2达73%（68%）。内置语音输入和/dream命令，每7天自动合并记忆。终端输入`mimo`即可使用，所有设置中文汉化。",
       "category": "ai-products",
-      "score": 79,
+      "score": 74,
       "selected": true
     },
     {
@@ -421,6 +481,18 @@
       "summary": "开源项目 Text-To-Lottie 提供一套 Agent Skill 和本地预览工具，让 Codex/Claude Code/Cursor 等 Agent 生成标准 Bodymovin JSON（public/lottie.json），通过 Skottie 渲染引擎在浏览器中实时验收。安装命令：`npx skills add diffusionstudio/lottie`。技术特点：输出标准 Lottie JSON，使用 Skottie 渲染（非 lottie-web）；基于 Vite 热重载实现自动刷新闭环；支持通过 Skottie Slots + controls.json 调整颜色、尺寸；Agent 可用 URL 参数 `？frame=60&paused=1` 精确定位帧截图。Prompt 指南包括：给具体素材、使用动效术语、pan/zoom/hold 模拟镜头、显式声明 Slots、锁定时间规格。适合单场景短时长 Motion Graphics、SVG→Lottie、数据可视化、透明背景矢量动效；不适合多镜头剪辑、复杂角色绑定、粒子、3D 或需 lottie-web 全特性的场景。",
       "category": "tip",
       "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmq8ws2lk06imslld3t5k4rid",
+      "title": "Bebop：通过带拒绝采样的多token预测加速RL训练",
+      "title_en": "Breaking Entropy Bounds： Accelerating RL Training via MTP with Rejection Sampling",
+      "url": "https://arxiv.org/abs/2606.12370",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-10T00:00:00.000Z",
+      "summary": "Bebop系统研究多token预测（MTP）在大语言模型RL后训练中的加速瓶颈。发现MTP接受率与模型熵波动呈负线性关系；概率拒绝采样相比贪婪草稿采样能缓解熵干扰。提出端到端TV损失直接优化多步拒绝采样接受率，带来约10%提升，最高达95%接受率，额外推理吞吐提升25%。在Qwen3.5、Qwen3.6和Qwen3.7上，异步RL训练实现1.8倍端到端加速。预RL阶段的MTP训练结合e2e TV损失和拒绝采样可保持全程一致的加速，无需在线更新。",
+      "category": "paper",
+      "score": 73,
       "selected": true
     },
     {
@@ -940,6 +1012,30 @@
       "selected": true
     },
     {
+      "id": "cmq8ws2lj06ikslldd7r6waue",
+      "title": "i1：面向强文生图模型的简单且完全开源配方",
+      "title_en": "i1： A Simple and Fully Open Recipe for Strong Text-to-Image Models",
+      "url": "https://arxiv.org/abs/2606.11289",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-09T00:00:00.000Z",
+      "summary": "i1 是一个 3B 参数的文本到图像扩散模型，仅使用公开数据集训练。在 GenEval、DPG、PRISM、CVTG-2K 和 LongText 五个基准上，i1 性能与领先模型相当，平均比最佳现有完全开源模型高 29.5 个百分点。研究基于 300 余项控制实验（超 700K TPU v6e 小时），发现等权重混合 curated 数据集是强默认配置、更大文本编码器适配器以极少参数提升性能。i1 的检查点、训练与推理代码及数据处理流程已全部开源。",
+      "category": "paper",
+      "score": 82,
+      "selected": true
+    },
+    {
+      "id": "cmq8ws2lj06iislldscf42bb5",
+      "title": "Embodied-R1.5：通过具身基础模型演化物理智能",
+      "title_en": "Embodied-R1.5： Evolving Physical Intelligence via Embodied Foundation Models",
+      "url": "https://arxiv.org/abs/2606.11324",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-09T00:00:00.000Z",
+      "summary": "Embodied-R1.5是一个统一具身基础模型，将具身认知、任务规划、纠错与指向能力整合在单一架构中。基于三条自动化数据构建流水线，团队搭建超过150亿模型token的数据系统，并设计多任务平衡强化学习方案以缓解异构任务冲突。其Planner-Grounder-Corrector闭环框架使模型能在长周期任务中自主执行并自我纠正。仅8B参数的Embodied-R1.5在24个具身VLM基准中的16个上达到SOTA，超越Gemini-Robotics-ER-1.5与GPT-5.4，并可微调为VLA，在4个操作任务基准上领先π_{0.5}等模型。零样本真实机器人实验验证了其指令遵循、可操作物体判别、铰接物体操控与长周期复杂任务中的泛化能力。模型权重、数据集、训练代码及评估框架EmbodiedEvalKit已开源。",
+      "category": "paper",
+      "score": 78,
+      "selected": true
+    },
+    {
       "id": "cmq8b9pvl00u6slldy8wae1i4",
       "title": "DeLM：去中心化多智能体系统框架",
       "title_en": "Decentralized Multi-Agent Systems with Shared Context",
@@ -1106,103 +1202,7 @@
       "category": "industry",
       "score": 65,
       "selected": true
-    },
-    {
-      "id": "cmq5j7nkn002fsl385mhl7d2d",
-      "title": "样本效率黑洞：AI能力背后隐藏的数据需求深渊",
-      "title_en": "The sample efficiency black hole",
-      "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "publishedAt": "2026-06-08T18:09:37.000Z",
-      "summary": "将AI比作一个闪耀着能力的星系，其核心存在一个肉眼不可见的巨大黑洞--数据。这个比喻揭示了AI模型惊人能力背后对海量数据的依赖，样本效率的瓶颈如同引力中心，将各色能力凝聚在一起。",
-      "category": "tip",
-      "score": 69,
-      "selected": true
-    },
-    {
-      "id": "cmq5h53nq07w6slt2j3mljqg7",
-      "title": "Claude Code GA一周年回顾：验证与自动模式",
-      "title_en": "Claude Code's first demo got two Slack reactions. One year after GA， @bcherny and @_catwu look back…",
-      "url": "https://x.com/ClaudeDevs/status/2064032814392352816",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-06-08T17:12:25.000Z",
-      "summary": "Claude Code 的第一个演示收到了两个 Slack 反应。\n\nGA 一周年之际，@bcherny 和 @_catwu 回顾：验证最佳实践、为何构建自动模式、例程和循环，以及下一步计划。\n\nhttps：//www.youtube.com/watch？v=Hth_tLaC2j8",
-      "category": "tip",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmq5gf74e07p1slt2ae83siz1",
-      "title": "Perplexity与哈佛：AI智能体提效87%降本94%",
-      "title_en": "We published new research with Harvard on the shift from chat interfaces to autonomous agents like C…",
-      "url": "https://x.com/perplexity_ai/status/2064023455453110286",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "publishedAt": "2026-06-08T16:35:14.000Z",
-      "summary": "我们与哈佛大学发表新研究，关于从聊天界面转向像Computer这样的自主智能体的转变。\n\n超过3个月的研究结果表明，使用Computer的工人在完成任务上比仅使用搜索快87%，成本低94%，且满意度更高。\n\nhttps：//research.perplexity.ai/articles/how-ai-agents-reshape-knowledge-work",
-      "category": "paper",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmq5f9hfb07e4slt2h4zsfqiu",
-      "title": "ChatGPT 新增数据图表生成功能",
-      "title_en": "Turn data and comparisons into charts， directly in ChatGPT. Available now on mobile and web.",
-      "url": "https://x.com/ChatGPTapp/status/2064018770839113769",
-      "source": "X：ChatGPT (@ChatGPTapp)",
-      "publishedAt": "2026-06-08T16:16:37.000Z",
-      "summary": "将数据和比较转化为图表，直接在 ChatGPT 中完成。\n\n现已支持移动端和网页端。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true
-    },
-    {
-      "id": "cmq5f21ab07caslt24z471p91",
-      "title": "NotebookLM重大升级：智能体能力与高级推理",
-      "title_en": "Introducing a more powerful NotebookLM 🚀 Massive upgrades deliver agentic capabilities in chat， mo…",
-      "url": "https://x.com/NotebookLM/status/2064016460964585549",
-      "source": "X：NotebookLM (@NotebookLM)",
-      "publishedAt": "2026-06-08T16:07:26.000Z",
-      "summary": "推出更强大的 NotebookLM 🚀\n\n重大升级带来了对话中的智能体能力、更高级的推理以及一系列新的输出格式。处理复杂的多步骤研究问题从未如此简单。\n\n现已面向 Google AI Ultra 订阅者推出。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmq74r6rm008wslophwgthx4l",
-      "title": "Claude Managed Agents 新增定时运行和环境变量存储功能",
-      "title_en": "New in Claude Managed Agents： run agents on a schedule and store environment variables in vaults",
-      "url": "https://claude.com/blog/whats-new-in-claude-managed-agents",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-08T16:00:00.000Z",
-      "summary": "Claude Managed Agents 今日在 Claude Platform 公开测试两项新功能：代理可按 cron 计划自动执行周期性任务（如夜间数据同步、周度合规扫描、每日摘要），无需用户自建调度器，支持暂停、恢复、归档或按需触发；vaults 新增环境变量支持，允许代理通过 CLI 进行认证请求，真实密钥仅附加在网络边界，代理无法读取。已集成的 CLI 包括 Browserbase、KERNEL、Notion、Ramp 和 Sentry。Rakuten、Actively AI、Ando、Milana 等团队正在使用这些功能实现自动化数据报表、跨账户搜索、招聘提醒等场景。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmq6w3soi002gslbhz3kkhav0",
-      "title": "Claude Fable 5 和 Claude Mythos 5",
-      "title_en": "Claude Fable 5 and Claude Mythos 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-06-08T16:00:00.000Z",
-      "summary": "Anthropic 今日推出 Claude Fable 5（通用安全版）和 Claude Mythos 5（受限安全版）。Fable 5 在软件工程、知识工作、视觉、科研等几乎所有测试基准上达到 SOTA，Stripe 称其将数月工程压缩至数天，FrontierCode 评分居前沿模型之首，可仅凭截图重建网页应用源码。Mythos 5 在药物设计中实现约 10 倍加速，其分子生物学假说盲测获科学家偏好的概率约 80%。两模型售价均为 $10/百万输入 tokens、$50/百万输出 tokens，较 Claude Mythos Preview 降价过半。Fable 5 在部分敏感主题上回退至 Claude Opus 4.8，安全触发率低于 5% 的会话。Mythos 5 通过 Project Glasswing 向网络安全防御者开放。",
-      "category": "ai-models",
-      "score": 90,
-      "selected": true
-    },
-    {
-      "id": "cmq5eo92f076uslt21k43rdpb",
-      "title": "Runway Aleph 2.0 编辑模型：一键适配任意视频格式",
-      "title_en": "One video， now made for every feed and format. Upload your existing video， choose your desired aspec…",
-      "url": "https://x.com/runwayml/status/2064012425884569627",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-06-08T15:51:24.000Z",
-      "summary": "一个视频，现在可以为每个信息流和格式制作。上传你现有的视频，选择你想要的宽高比，然后观看我们的编辑模型 Aleph 2.0，填充场景的其余部分，就像你从一开始就这样制作一样。\n\n在我们的桌面 Web 应用上尝试，链接如下。",
-      "category": "ai-products",
-      "score": 79,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-11T01:38:18Z"
+  "cachedAt": "2026-06-11T07:04:16Z"
 }
