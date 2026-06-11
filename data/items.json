@@ -1,8 +1,32 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwOTI5MDA1MDAwLCJpIjoiY21xNWJweW0zMDZmYnNsdDJjbmZjYW5neSJ9",
+  "nextCursor": "eyJhIjoxNzgwOTMzODg0MDAwLCJpIjoiY21xNWVvOTJmMDc2dXNsdDIxazQzcmRwYiJ9",
   "items": [
+    {
+      "id": "cmq8svjva05grslldediy0tpk",
+      "title": "mlx-vlm v0.6.3 发布，Day-0 支持 Google DeepMind DiffusionGemma 和 Cohere North Mini Code 1.0",
+      "title_en": "Prince Canuma直接把Google刚发布的DiffusionGemma和Cohere North Mini Code当天塞进Mac本地MLX，零等待直接把玩咯！ mlx-vlm v0.6….",
+      "url": "https://x.com/berryxia/status/2064875107278098769",
+      "source": "X：Berry Xia (@berryxia)",
+      "publishedAt": "2026-06-11T00:59:23.000Z",
+      "summary": "mlx-vlm v0.6.3 上线，首发支持 DiffusionGemma 和 North Mini Code 1.0。DiffusionGemma 采用全新架构：以 256 token 块为单位并行生成、双向注意力、迭代自纠错；26B MoE 仅激活 3.8B，量化后 18GB 即可运行。North Mini Code 1.0 为 30B MoE，仅激活 3B，BF16 下约 66 tok/s。两款模型均通过深度合作实现 Day-0 MLX 支持，可在 Mac 本地运行。可通过 `uv pip install -U mlx-vlm` 安装体验。",
+      "category": "ai-products",
+      "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmq8qsjfr04wqslld2epey16c",
+      "title": "在写完这篇文章后 我把配图过程蒸馏成了一个「橙线插画」Skill 免费开源 安装地址： https：//github.com/orange2ai/orange-line-illustration",
+      "title_en": null,
+      "url": "https://x.com/oran_ge/status/2064861625883222114",
+      "source": "X：Oran Ge (@oran_ge)",
+      "publishedAt": "2026-06-11T00:05:49.000Z",
+      "summary": "在写完这篇文章后\n我把配图过程蒸馏成了一个「橙线插画」Skill\n\n免费开源\n安装地址：\nhttps：//github.com/orange2ai/orange-line-illustration\n\n【引用 @oran_ge】：http：//x.com/i/article/2064857003743391744",
+      "category": "tip",
+      "score": 76,
+      "selected": true
+    },
     {
       "id": "cmq8nblte041islldguc1eqww",
       "title": "通过 Oracle 云承诺访问 OpenAI 模型和 Codex",
@@ -1178,31 +1202,7 @@
       "category": "ai-products",
       "score": 79,
       "selected": true
-    },
-    {
-      "id": "cmq5cna7k06nbslt2fvxds4v4",
-      "title": "Hivemind推出面向AI编程智能体的持续学习功能，即日起开放",
-      "title_en": "New from Hivemind： continual learning for AI coding agents， available to everyone starting today. I…",
-      "url": "https://x.com/kimmonismus/status/2064001045391462907",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-06-08T15:06:11.000Z",
-      "summary": "Hivemind发布面向AI编程智能体的持续学习功能，即日起开放。该工具收集团队运行的每个智能体（Claude Code、Codex、Cursor、Hermes、Pi）的轨迹，转化为可复用技能并推送到所有智能体，数据存储在用户自己的云存储中。内置SkillOpt使技能持续训练：Claude Code准确率提升+19.1分，Codex提升+24.8分，在全部52个测试设置中最佳或持平。开源，一行命令安装。",
-      "category": "tip",
-      "score": 78,
-      "selected": true
-    },
-    {
-      "id": "cmq5bpym306fbslt2cnfcangy",
-      "title": "VoxCPM2 技术报告发布",
-      "title_en": "🚀 VoxCPM2 Technical Report is now available on arXiv！ VoxCPM2 is the latest speech generation mode…",
-      "url": "https://x.com/OpenBMB/status/2063991963133903317",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "publishedAt": "2026-06-08T14:30:05.000Z",
-      "summary": "面壁智能 OpenBMB 发布 VoxCPM2 技术报告。该模型为最新语音生成模型，拥有 2B 参数，基于超 200 万小时多语言语音数据训练，支持 30 种语言和 9 种中文方言。具备自然语言语音设计、可控及高保真延续性语音克隆能力。技术报告涵盖架构设计、统一序列公式、AudioVAE 高保真语音重建、大规模训练评估，以及零样本和指令跟随 TTS 基准结果。采用 16kHz 语义编码 + 48kHz 波形重建，在公开 TTS 基准上达到 SOTA 或极具竞争力。模型权重、微调代码和推理工具以 Apache 2.0 开源。",
-      "category": "ai-models",
-      "score": 75,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-10T22:56:31Z"
+  "cachedAt": "2026-06-11T01:38:18Z"
 }
