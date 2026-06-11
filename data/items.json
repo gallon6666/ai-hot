@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwOTk0MjY4MDAwLCJpIjoiY21xNmU2Z21iMDduOXNsNWkzZ3VqcmpwZSJ9",
+  "nextCursor": "eyJhIjoxNzgxMDAxOTc5MDAwLCJpIjoiY21xNmwyd21zMDllbHNsNWlwdDhhaDBpaiJ9",
   "items": [
+    {
+      "id": "cmqa20ewf0hf8slldlq4bawrp",
+      "title": "Replit 专家级提示词技巧",
+      "title_en": "How to prompt like a pro with Replit 🤖 Vague prompts just mean more rewrites. Here's how to get Ag…",
+      "url": "https://x.com/Replit/status/2065192392718733327",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-06-11T22:00:10.000Z",
+      "summary": "如何像专家一样使用 Replit 进行提示 🤖\n\n模糊的提示词只会导致更多重写。以下是如何让 Agent 第一次就构建出正确的东西。\n\n🧵 展开线程 ↓",
+      "category": "tip",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqa20ewf0hf9slldu9bj1rhz",
+      "title": "Replit 与 Databricks 集成升级，公开预览开放",
+      "title_en": "Replit and @databricks integration just leveled up. Build apps where every user sees only what they…",
+      "url": "https://x.com/Replit/status/2065189762365813089",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-06-11T21:49:43.000Z",
+      "summary": "Replit 与 @databricks 集成刚刚升级了。\n\n构建应用，让每个用户只看到他们应该看到的内容。你的 HR 分析师可以为 CEO 构建完整的组织视图，而无需访问底层数据。\n\n公开预览已开放注册！了解更多 →\n\nhttps：//replit.com/blog/databricksjune2026",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true
+    },
+    {
+      "id": "cmq9wt5fl0g09slldyw8h9u7p",
+      "title": "全自主无人机首次击毙了人类士兵",
+      "title_en": null,
+      "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-11T19:29:06.279Z",
+      "summary": "据《新科学家》6月10日报道，全自主无人机首次击毙了人类士兵。这是有记录以来第一次由完全自主运行的无人机执行致命攻击，标志着自主武器系统在实战中的新进展。该报道来自《新科学家》网站，目前尚无更多细节公布。",
+      "category": "industry",
+      "score": 88,
+      "selected": true
+    },
     {
       "id": "cmq9vker90fnyslldhowm7reb",
       "title": "Replit Agent 新增自定义指令与技能功能",
@@ -61,6 +97,18 @@
       "summary": "Gemini Omni Flash 在图像到视频、文本到视频和视频编辑方面达到了 SATA ： ）\n\n很高兴很快能将这一能力通过 API 提供给开发者！",
       "category": "ai-models",
       "score": 81,
+      "selected": true
+    },
+    {
+      "id": "cmq9zl2ha0gp3slld5dmtovns",
+      "title": "什么是 LLM 网关？应用与 AI 模型之间缺失的一层",
+      "title_en": "What Is an LLM Gateway？ The Missing Layer Between Your App and AI Models",
+      "url": "https://openrouter.ai/blog/insights/llm-gateway",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-11T16:00:00.000Z",
+      "summary": "缺少 LLM 网关时，供应商中断会直接变成用户可见的错误，AI 支出也难以追踪。文章从路由、合规性和设置时间三个维度比较了最佳方案。",
+      "category": "tip",
+      "score": 60,
       "selected": true
     },
     {
@@ -1154,55 +1202,7 @@
       "category": "tip",
       "score": 76,
       "selected": true
-    },
-    {
-      "id": "cmq6il4p208t1sl5iriawuqnk",
-      "title": "台湾考虑限制AI芯片对华出口以配合美国",
-      "title_en": "Taiwan Mulls Curbs on AI Chip Exports to China to Align With US",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-09/taiwan-mulls-curbs-on-ai-chip-exports-to-china-to-align-with-us",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-09T10:07:50.000Z",
-      "summary": "据知情人士透露，台湾当局正考虑对AI芯片出口中国大陆实施更严格的管制，以进一步与美国出口限制措施对齐。此举旨在遏制半导体走私，但可能招致北京方面的谴责。",
-      "category": "industry",
-      "score": 79,
-      "selected": true
-    },
-    {
-      "id": "cmq6g8zwp086isl5is6dkxq0k",
-      "title": "仅凭一份文档，Qwen3.7-Max 从 0 交付双端应用",
-      "title_en": "只给一份文档，Qwen3.7-Max 从 0 交付双端应用",
-      "url": "https://mp.weixin.qq.com/s/bYEZL9LM3daNP9tZReqNwg",
-      "source": "公众号：通义实验室（千问）",
-      "publishedAt": "2026-06-09T09:27:47.000Z",
-      "summary": "在无设计稿和后端代码的条件下，Qwen3.7-Max 仅凭一份约 15 万字的产品调研文档，于隔离环境中全自动完成移动端与 Web 端两套真实应用从 0 到 1 交付，单端耗时约 4 小时，中途无人工接管。模型不具备图像理解能力，通过像素坐标反推布局约束实现界面还原。实验采用\"分阶段注入约束→逐层验收→带错纠正\"的闭环控制系统：任务拆分为规划、架构、编码等阶段，验收覆盖静态检查、编译自检（0 error）、路由完整性（Web 端 34 条路由全部可达）、功能扫描及真机冷启动冒烟。失败时错误文本自动注入下一轮重试，使模型数小时内收敛。移动端产出可安装 APK，Web 端 typecheck 与构建均通过。",
-      "category": "tip",
-      "score": 67,
-      "selected": true
-    },
-    {
-      "id": "cmq6gskkl08acsl5i3wx4hdde",
-      "title": "NeuroBait：微调AI助手，为ADHD大脑点燃多巴胺火花",
-      "title_en": "NeuroBait： I fine-tuned a model to spark dopamine for ADHD brain",
-      "url": "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-09T09:04:58.000Z",
-      "summary": "NeuroBait是基于Google gemma-3-12b-it微调的AI对话助手，旨在帮助ADHD患者克服\"知道该做什么但无法开始\"的执行功能障碍。采用16-bit LoRA（r=16， alpha=16）在Unsloth上训练3个epoch，学习率2e-4，最大序列长度2048，使用单张H100 80GB GPU。数据集为基于真实ADHD场景手工合成的少量数据。部署于Hugging Face Space（ZeroGPU），使用Gradio和标准transformers+peft，运行时以4-bit NF4加载基础模型并应用LoRA适配器。NeuroBait不生成待办清单，而是根据用户上下文给出3-6句温暖流畅的回复，引导用户找到一件微小可立即执行的动作，从而激发多巴胺、降低启动阻力。",
-      "category": "tip",
-      "score": 68,
-      "selected": true
-    },
-    {
-      "id": "cmq6e6gmb07n9sl5i3gujrjpe",
-      "title": "NVIDIA cuTile Python 教程：在 Colab 中构建用于向量加法、矩阵加法和矩阵乘法的 Tiled GPU 内核",
-      "title_en": "NVIDIA cuTile Python Tutorial： Building Tiled GPU Kernels for Vector Addition， Matrix Addition， and Matrix Multiplication in Colab",
-      "url": "https://www.marktechpost.com/2026/06/09/nvidia-cutile-python-tutorial-building-tiled-gpu-kernels-for-vector-addition-matrix-addition-and-matrix-multiplication-in-colab",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-06-09T08:37:48.000Z",
-      "summary": "该教程基于 NVIDIA cuTile Python 实现了分块 GPU 内核编程工作流，在 Colab 环境中配置 GPU、驱动、CUDA 及 cuTile 可用性后，分别构建了 tiled 向量加法、矩阵加法和矩阵乘法核函数，并以 PyTorch 作为回退保持 notebook 可执行。每一步均通过 PyTorch 验证结果正确性，并基准测试了各阶段的中位运行时间。",
-      "category": "tip",
-      "score": 70,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-11T19:44:41Z"
+  "cachedAt": "2026-06-11T22:15:02Z"
 }
