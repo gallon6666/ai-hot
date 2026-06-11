@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMDAxOTc5MDAwLCJpIjoiY21xNmwyd21zMDllbHNsNWlwdDhhaDBpaiJ9",
+  "nextCursor": "eyJhIjoxNzgxMDA1NTAyMDAwLCJpIjoiY21xNmw4end5MDlnMHNsNWlvYTdhaHhxdiJ9",
   "items": [
+    {
+      "id": "cmqa38qfw0hrsslld9n3v1pzf",
+      "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
+      "title_en": "我们来玩个游戏吧？--在95%的模拟中，大型语言模型都会使用战术核武器",
+      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-11T22:23:17.154Z",
+      "summary": "一项模拟研究显示，大型语言模型（LLM）在 95% 的模拟场景中会选择使用战术核武器。该研究未指明具体模型名称与版本，结果引发对 AI 决策行为的关注。",
+      "category": "paper",
+      "score": 70,
+      "selected": true
+    },
     {
       "id": "cmqa20ewf0hf8slldlq4bawrp",
       "title": "Replit 专家级提示词技巧",
@@ -1190,19 +1202,7 @@
       "category": "ai-products",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmq6l2wms09elsl5ipt8ah0ij",
-      "title": "一个Agent如何通过链式调用两个HuggingFace Space构建3D巴黎画廊",
-      "title_en": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-09T10:46:19.000Z",
-      "summary": "一个编码Agent调用HuggingFace上的两个Space，从零构建了展示巴黎地标3D高斯散点图的交互式画廊。Agent先用ideogram-ai/ideogram4生成每个纪念碑的黑色背景图像，再通过VAST-AI/TripoSplat从单张图像重建3D高斯散点（.ply），自动完成坐标系校正、取景、压缩为.ksplat（体积缩小约3倍），并构建基于Three.js的滚动切换、拖拽旋转查看器，最终部署为静态Space。整个过程无需客户端库，每个Space通过`agents.md`暴露可调用API。",
-      "category": "tip",
-      "score": 76,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-11T22:15:02Z"
+  "cachedAt": "2026-06-11T23:54:02Z"
 }
