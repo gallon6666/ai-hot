@@ -1,30 +1,66 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwOTY3OTg0MDAwLCJpIjoiY21xNXp4bHVnMDN2dXNsNWlvZXZmbXZrMiJ9",
+  "nextCursor": "eyJhIjoxNzgwOTk0MjY4MDAwLCJpIjoiY21xNmU2Z21iMDduOXNsNWkzZ3VqcmpwZSJ9",
   "items": [
     {
-      "id": "cmq9pb0ce0e04slldn3utvuq0",
-      "title": "MiMo Code 现已发布并开源",
-      "title_en": null,
-      "url": "https://mimo.xiaomi.com/mimocode",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-11T16:04:16.097Z",
-      "summary": "2026年6月11日，小米旗下 MiMo Code 项目正式发布并开源，相关代码已托管于 mimo.xiaomi.com 供社区访问。",
+      "id": "cmq9vker90fnyslldhowm7reb",
+      "title": "Replit Agent 新增自定义指令与技能功能",
+      "title_en": "AI agents are powerful， but they don't remember your preferences. So you end up repeating instructi…",
+      "url": "https://x.com/Replit/status/2065146579326271883",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-06-11T18:58:07.000Z",
+      "summary": "AI 智能体很强大，但它们不记得你的偏好。\n\n所以你总是重复指令--如何组织项目、你的品牌指南。\n\n现在你可以通过自定义指令和技能让 Replit Agent 学会你的惯例。\n\n它会在每个项目中自动将这些考虑进去。",
       "category": "ai-products",
-      "score": 75,
+      "score": 65,
       "selected": true
     },
     {
-      "id": "cmq9p9pqv0dzrslldxfvyeptq",
-      "title": "OpenRouter 基准测试探索器支持帕累托曲线",
-      "title_en": "Use our Benchmarks explorer to plot Pareto curves for 10 different benchmarks， including @Artificial…",
-      "url": "https://x.com/OpenRouter/status/2065099934676713713",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-06-11T15:52:46.000Z",
-      "summary": "使用我们的基准测试探索器，为 10 个不同基准（包括 @ArtificialAnlys 和 @Designarena）绘制帕累托曲线：\n\nhttps：//openrouter.ai/rankings#benchmarks",
-      "category": "ai-products",
+      "id": "cmq9tg1bi0f3qslld86ne1vt3",
+      "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
+      "title_en": "DXC will integrate Claude into the systems banks， airlines， and other regulated industries rely on",
+      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-06-11T18:13:16.585Z",
+      "summary": "Anthropic与IT服务公司DXC Technology达成多年全球联盟。DXC将培训数万名获得Claude认证的前沿部署工程师（FDE），将Claude引入其为全球大型银行、航空公司、保险公司及政府机构运营的关键系统。内部部署中，Claude已成为DXC OASIS平台的默认基础模型，该平台超95%代码由Claude编写，开发速度提升10倍，已服务50多家客户。DXC加入Claude Partner Network，将在保险、现代化服务、网络安全及应用服务四个领域率先推出基于Claude的解决方案。",
+      "category": "industry",
       "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmq9sr7km0exoslld90mxla1z",
+      "title": "Perplexity Computer 集成 Deep Research",
+      "title_en": "We're integrating Deep Research as a native skill inside Computer. It now connects to the agent har…",
+      "url": "https://x.com/perplexity_ai/status/2065124930463916317",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "publishedAt": "2026-06-11T17:32:06.000Z",
+      "summary": "我们正在将 Deep Research 作为原生技能集成到 Computer 中。\n\n它现在连接到驱动 Computer 的智能体框架，可访问搜索即代码生成、长运行沙箱、连接器、工具和授权数据。\n\nPro 和 Max 订阅者现已可用。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmq9rg6q70ekjslldnvejg7m9",
+      "title": "DeepSeek-R1 的开源实现",
+      "title_en": null,
+      "url": "https://github.com/huggingface/open-r1",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-11T17:07:18.181Z",
+      "summary": "DeepSeek-R1 的开源复现项目已在 GitHub 发布，在 Hacker News 上获得 101 个积分。该项目旨在以开源方式复现 DeepSeek-R1 模型。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmq9rke110ekyslldmbw1ap3o",
+      "title": "Gemini Omni Flash 视频任务达 SOTA",
+      "title_en": "Gemini Omni Flash is SOTA at image to video， text to video， and video editing ： ） Excited to get t…",
+      "url": "https://x.com/OfficialLoganK/status/2065118111360303414",
+      "source": "X：Logan Kilpatrick (@OfficialLoganK)",
+      "publishedAt": "2026-06-11T17:05:00.000Z",
+      "summary": "Gemini Omni Flash 在图像到视频、文本到视频和视频编辑方面达到了 SATA ： ）\n\n很高兴很快能将这一能力通过 API 提供给开发者！",
+      "category": "ai-models",
+      "score": 81,
       "selected": true
     },
     {
@@ -121,6 +157,18 @@
       "summary": "Anthropic 推出 Claude Corps 奖学金项目，面向早期职业生涯的年轻人，培训 1，000 名研究员使用 Claude，并匹配给美国非营利组织全职工作一年。研究员年薪 85，000 美元及福利，每周接受 5 小时持续培训。Anthropic 初始投入 1.5 亿美元，合作方为 CodePath 和 Social Finance。至少 400 家非营利组织将参与接待，包括 Braven、Code the Dream、Heartland Forward 等。",
       "category": "industry",
       "score": 61,
+      "selected": true
+    },
+    {
+      "id": "cmq9rpndz0emkslldcjukgjn5",
+      "title": "Cursor 推出 Auto-review 机制：用分类器智能体动态管控智能体自主权限",
+      "title_en": "Governing agent autonomy with Auto-review",
+      "url": "https://cursor.com/blog/auto-review",
+      "source": "Cursor Blog",
+      "publishedAt": "2026-06-11T12:00:00.000Z",
+      "summary": "Cursor 近日推出 Auto-review，通过一个专门的分类器智能体在工具调用前审查动作风险。该分类器根据上下文判断动作是否与用户意图一致，高风险时阻止并返回解释给父智能体，低风险时放行。分类器采用小模型，运行在智能体循环内以避免额外延迟，并能读取工作区文件辅助判断。测试基于约12小时内部开发会话生成的6122条标签数据，以及针对读取密钥、操作生产数据等危险场景的合成数据。设计目标是在不频繁阻断日常开发的前提下，拦截风险动作。",
+      "category": "ai-products",
+      "score": 74,
       "selected": true
     },
     {
@@ -277,6 +325,30 @@
       "summary": "在写完这篇文章后\n我把配图过程蒸馏成了一个「橙线插画」Skill\n\n免费开源\n安装地址：\nhttps：//github.com/orange2ai/orange-line-illustration\n\n【引用 @oran_ge】：http：//x.com/i/article/2064857003743391744",
       "category": "tip",
       "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmq9s8u4a0et6slldp9ssbb96",
+      "title": "BBVA 将 AI 置于银行业务核心，与 OpenAI 合作",
+      "title_en": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "summary": "BBVA 将 ChatGPT Enterprise 推广至 10 万名员工，并与 OpenAI 达成合作，加速全球银行业 AI 驱动的转型。",
+      "category": "industry",
+      "score": 60,
+      "selected": true
+    },
+    {
+      "id": "cmq9q3mrj0e8jslld20gniuzv",
+      "title": "OpenAI 将收购 Ona",
+      "title_en": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "summary": "OpenAI 计划收购 Ona，以拓展 Codex 的功能，提供安全、持久的云端环境，从而支持企业工作流中长时间运行的 AI 智能体。",
+      "category": "industry",
+      "score": 60,
       "selected": true
     },
     {
@@ -1130,79 +1202,7 @@
       "category": "tip",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmq6eaqf207o8sl5iy1dyf29k",
-      "title": "中国准备2950亿美元计划资助全国AI基础设施建设",
-      "title_en": "China Prepares $295 Billion Plan to Fund Nationwide AI Buildout",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-09/china-prepares-295-billion-plan-to-fund-nationwide-ai-buildout",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-09T08:13:10.000Z",
-      "summary": "中国计划在未来五年投入约2万亿元人民币（约2950亿美元）建设全国数据中心，以推动国内AI产业发展并超越美国。该投资将覆盖数据中心基础设施的大规模建设，为北京在关键技术领域的雄心提供资金支持。",
-      "category": "industry",
-      "score": 80,
-      "selected": true
-    },
-    {
-      "id": "cmq69650406cmsl5iwf8zszhp",
-      "title": "AI 编程独角兽 Cursor 欧洲总部落子伦敦，SpaceX 手握 600 亿美元收购选择权",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/961/868.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-09T05:53:06.000Z",
-      "summary": "Cursor 将欧洲总部设在伦敦，计划招聘约 200 名员工，并在巴黎、慕尼黑等地开设小型办事处。SpaceX 拥有以 600 亿美元收购 Cursor 的选择权，或支付 100 亿美元开展全新合作。Cursor 目前 B2B 年化营收约 26 亿美元，客户包括英国航空、英国石油、诺基亚等。公司强调数据留存欧洲本地以满足监管合规，其平台支持用户用自然语言生成代码，主打模型中立，竞争对手包括 GitHub Copilot、OpenAI 和谷歌的同类产品。",
-      "category": "industry",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmq63dzew04srsl5ix1r8n4ne",
-      "title": "小米 MiMo 与 TileRT 联合发布 UltraSpeed 模式，1T 模型输出突破 1000 tokens/s",
-      "title_en": "Xiaomi MiMo 携手 TileRT|1T 模型首次突破 1000 tokens/s 输出速度",
-      "url": "https://mp.weixin.qq.com/s/EZvmrx8xfM9MZNCMDwImFQ",
-      "source": "公众号：小米 MiMo",
-      "publishedAt": "2026-06-09T03:31:32.000Z",
-      "summary": "小米 MiMo 与 TileRT 联合发布 MiMo-V2.5-Pro-UltraSpeed 模式，使 1T 参数旗舰模型输出速度首次突破 1000 tokens/s。模型侧采用 FP4 混合量化（仅量化 MoE Expert）与 DFlash 块级 masked 并行推测解码（coding 场景平均接受长度 6.30 tokens）；系统侧 TileRT 引入常驻内核引擎与异构流水线协作。API 限时开放（2026 年 6 月 9 日至 23 日），定价为 MiMo-V2.5-Pro 的 3 倍，速度提升约 10 倍。FP4 权重与 DFlash 模型 checkpoint 已开源至 HuggingFace。",
-      "category": "ai-models",
-      "score": 80,
-      "selected": true
-    },
-    {
-      "id": "cmq60kxqi042ksl5i30p1a5py",
-      "title": "OpenAI 秘密提交 IPO 申请，奥特曼旗下 Tools for Humanity 裁员",
-      "title_en": "OpenAI 申请上市，奥尔特曼估值 25 亿美元的眼球扫描公司却被曝裁员",
-      "url": "https://www.ithome.com/0/961/792.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-09T02:19:48.000Z",
-      "summary": "OpenAI 近日秘密提交 IPO 申请。其 CEO 山姆·奥特曼旗下的 Tools for Humanity 公司正裁员，该公司因虹膜扫描项目 World 及加密货币 Worldcoin 知名，投后估值 25 亿美元，获 Andreessen Horowitz 等投资。因营收困境，公司缩减规模。海外监管方面，肯尼亚以隐私和金融风险为由叫停运营，韩国因违反隐私法规罚款 83 万美元。",
-      "category": "industry",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmq6090s803ymsl5i7zd3l79f",
-      "title": "Elon Musk 详解 SpaceX AI1 轨道 AI 数据中心卫星方案",
-      "title_en": "For the very first time Elon Musk explains the \"space data center plan\" of @SpaceX in detail and its…",
-      "url": "https://x.com/rohanpaul_ai/status/2064165951936094364",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-09T02:01:27.000Z",
-      "summary": "Elon Musk 首次详细解释 SpaceX 的 AI1 轨道 AI 数据中心卫星：峰值功率 150 kW，持续计算功率约 120 kW，相当于一个 NVIDIA GB300 机架；太阳能板效率 250 W/m2；双面散热器排热 1，400 W/m2。通过激光链路实现约 1 Tbps 互联，低轨 600-800 km 高度往返延迟 6-8 ms。由 Starship 发射，计划部署多达百万颗卫星，2027 年底前实现量产。近地目标为吉瓦级轨道 AI 算力，长期向太瓦级推进。",
-      "category": "industry",
-      "score": 83,
-      "selected": true
-    },
-    {
-      "id": "cmq5zxlug03vusl5ioevfmvk2",
-      "title": "开源工具 Tokei：在菜单栏实时监控 AI coding agent 的 token 用量与成本",
-      "title_en": "兄弟们！地主家家没有余粮了都！ 天天烧Token 心里没有点b数啊？ AI coding工具天天帮你狂飙代码，结果你连自己到底烧了多少钱都蒙在鼓里？ 今天给大家推荐Lank 的Tokei这个mac…",
-      "url": "https://x.com/berryxia/status/2064155452934639718",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-06-09T01:19:44.000Z",
-      "summary": "Berry Xia 推荐开源工具 Tokei，这是一个 macOS 菜单栏小工具，只读本地日志、零网络调用，30 秒自动刷新，实时监控 Claude Code、Grok CLI、Aider、OpenCode 等 8 个主流 AI coding agent 的 token 用量、实时成本与性能数据，并附每日图表、周热力图和年度 Wrapped。支持私人 Git 多设备同步、价格表本地覆盖，闲置过久会提醒休息。引用推文指出，token 消耗情况可作为深度使用 AI 的面试亮点，数据全程私有，零侵入，无需任何认证。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-11T16:20:20Z"
+  "cachedAt": "2026-06-11T19:44:41Z"
 }
