@@ -1,8 +1,80 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgwOTQyNDA2NjM5LCJpIjoiY21xNWxha3luMDBuZXNsMzhlZGZ3Mm0xOSJ9",
+  "nextCursor": "eyJhIjoxNzgwOTYzMjAwMDAwLCJpIjoiY21xNnc0OWIyMDAycXNsYmg0YzRiaDQzaSJ9",
   "items": [
+    {
+      "id": "cmq9ck1s90amsslldrz73effj",
+      "title": "Hermes Agent Desktop 发布，硅基流动支持一键切换",
+      "title_en": "@NousResearch has shipped Hermes Agent Desktop - and it's now even easier to use frontier open-sourc…",
+      "url": "https://x.com/SiliconFlowAI/status/2065015632215912879",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "publishedAt": "2026-06-11T10:17:47.000Z",
+      "summary": "@NousResearch 发布了 Hermes Agent Desktop--现在通过 @硅基流动 SiliconFlow 使用前沿开源模型更加便捷 🔥\n\n→ 一键随时切换模型--DeepSeek-V4、GLM-5.1、Kimi-K2.6、MiniMax-M3 等，均在硅基流动上\n… …\n通过硅基流动开启你的 Hermes 之旅的完整指南 👇🧵",
+      "category": "tip",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmq9ax93k0a7lslldcqadlkhv",
+      "title": "Codex 维护仓库：5分钟循环并行自治",
+      "title_en": "Here's a simple loop： Tell codex to maintain your repos， wake up every 5 minutes and direct work to …",
+      "url": "https://x.com/steipete/status/2064998499780084154",
+      "source": "X：Peter Steinberger (@steipete)",
+      "publishedAt": "2026-06-11T09:09:42.000Z",
+      "summary": "一个简单的循环：告诉 Codex 维护你的仓库，每5分钟唤醒一次，将工作直接分配到线程。这样可以轻松按需并行化和导向工作。\n\n我使用一个编排器技能，结合我的分类+自动审查+计算机使用技能，因此部分工作可以自主落地。",
+      "category": "tip",
+      "score": 78,
+      "selected": true
+    },
+    {
+      "id": "cmq9asgdq0a6mslld6xdabp77",
+      "title": "阿里云发布 Meoo CLI：本地 AI 编程项目可一键部署上线",
+      "title_en": "阿里云秒悟 Meoo CLI 发布：本地 AI 编程项目可一键部署上线，支持 Claude Code、Codex 等",
+      "url": "https://www.ithome.com/0/963/009.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-11T08:50:49.000Z",
+      "summary": "阿里云今日推出 Meoo（秒悟）开源命令行工具 Meoo CLI，面向开发者，支持 Claude Code、Codex、Cursor 等本地 AI 编程助手。通过调用阿里云云端能力，可自动完成数据库接入、用户登录、文件存储及项目发布，将本地项目一键部署上线并生成可分享的访问链接。该工具定位为本地 Agent 与秒悟云端能力的连接入口，已开放下载，支持主流 Linux、macOS 及 Windows 平台。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmq99p86d09wisllduyfqf5mn",
+      "title": "千问推出首个足球预测AI助手，竞猜赢奖并捐建球场",
+      "title_en": "猜到了！这届美加墨冠军是--",
+      "url": "https://mp.weixin.qq.com/s/G36ugI8tuSLUkDzL_sJNkQ",
+      "source": "公众号：千问APP（阿里）",
+      "publishedAt": "2026-06-11T08:40:14.000Z",
+      "summary": "千问上线首个足球预测AI助手，基于海量大数据（含历史比赛、球员数据、伤病、美加墨地貌及天气等）。以6月22日挪威对塞内加尔为例，预测\"1：1平局\"，理由为气候差异。活动：参与全部104场竞猜，预测超80场且准确率超千问可抽万元大奖（100个名额）；预测超32场可抽千问AI眼镜G1（1000副），该眼镜支持赛后分析、拍屏识球员及赛事结果订阅。累积积分将向乡村学校捐建足球场，目标至少50所。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmq99cd9g09skslldniw7u2ub",
+      "title": "腾讯混元 AI Infra 新开源：HPC-Ops 推理核心算子全面升级",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s/y0vd1cpvWXLSssL1kXxguw",
+      "source": "公众号：腾讯混元",
+      "publishedAt": "2026-06-11T08:34:59.000Z",
+      "summary": "腾讯混元 AI Infra 团队开源升级 HPC-Ops 推理算子库，推出五大核心算子。Attention 采用运行时动态负载调度，长文本最高加速 2.95x，端到端 QPM 提升 17%；Router GEMM 以双 BF16 组合实现 FP32 精度，对比 CuBLAS FP32 最高提速 3.22x；FusedMoE 相对 vLLM、SGLang 性能提升 1.2x~1.6x；Fused AllReduce+Norm 对比主流方案最高提速 1.68x；Sampler 将解码采样融合为 2 个 CUDA Kernel，相对 vLLM 提速 4.0x~7.5x。所有能力均来自生产实践并完全开源。",
+      "category": "ai-products",
+      "score": 78,
+      "selected": true
+    },
+    {
+      "id": "cmq98bstr09i4slldkrky14cd",
+      "title": "Deezer 推出面向其他流媒体服务的 AI 音乐检测器",
+      "title_en": "Deezer launches an AI music detector for other streaming services",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-06-11T08:00:00.000Z",
+      "summary": "Deezer 将扫描用户在其它流媒体平台的播放列表，检测其中的 AI 生成音乐。Deezer 是最早标记 AI 生成音乐的大型流媒体服务之一，曾向其他平台提供该技术但少有采纳。Deezer CEO Alexis Lanternier 表示，由于没有其他公司跟进，他们决定让用户无论使用哪个平台，都能检查自己的播放列表中是否包含合成音乐。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true
+    },
     {
       "id": "cmq954qjy08p2slldtang9e2v",
       "title": "baoyu-design skill 更新：支持导入 Figma 本地文件重建设计系统",
@@ -85,6 +157,18 @@
       "summary": "在写完这篇文章后\n我把配图过程蒸馏成了一个「橙线插画」Skill\n\n免费开源\n安装地址：\nhttps：//github.com/orange2ai/orange-line-illustration\n\n【引用 @oran_ge】：http：//x.com/i/article/2064857003743391744",
       "category": "tip",
       "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmq95mssa08tgslldrinkc8s3",
+      "title": "OpenAI 支持欧洲构建可信 AI 生态系统",
+      "title_en": "Supporting Europe's work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "summary": "OpenAI 支持欧盟《AI 内容透明度行为准则》，推进内容溯源标准与工具，帮助用户识别 AI 生成内容。",
+      "category": "industry",
+      "score": 64,
       "selected": true
     },
     {
@@ -325,6 +409,18 @@
       "summary": "Cursor 的代码审查工具 Bugbot 迎来重大更新：运行速度提升超 3 倍，成本降低 22%，每轮审查多发现 10% 的 bug，90% 的运行在三分钟内完成。新增 `/review` 命令，可在推送代码前运行 Bugbot 和安全审查，并与 GitHub/GitLab 同步--若已通过 `/review` 审查过同一 diff，打开 PR 时 Bugbot 会自动跳过并备注。支持配置仅审查 PR 中新增内容。性能提升源于驱动 Bugbot 的 Composer 2.5 模型训练改进。Bugbot 遵循模型阻止列表，若组织禁用 Composer 2.5 则自动回退。该功能已在 Cursor 3.7+ 和 cursor.com/agents 上线，CLI 支持即将推出。",
       "category": "ai-products",
       "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmq9fhg180bf6slldy6yurdhh",
+      "title": "Google DeepMind 宣布投入 1000 万美元资助多智能体AI安全研究",
+      "title_en": "Investing in multi-agent AI safety research",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-06-10T10:21:19.000Z",
+      "summary": "Google DeepMind 与合作伙伴共同发起一项 1000 万美元的资金征集，专门用于多智能体 AI 安全方向的研究。",
+      "category": "industry",
+      "score": 71,
       "selected": true
     },
     {
@@ -1106,103 +1202,7 @@
       "category": "ai-products",
       "score": 65,
       "selected": true
-    },
-    {
-      "id": "cmq5ujnt202iesl5ig6vg5i3r",
-      "title": "Apple Core AI 框架",
-      "title_en": null,
-      "url": "https://developer.apple.com/documentation/coreai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-08T23:05:07.159Z",
-      "summary": "一篇关于 Apple Core AI 框架的 Hacker News 帖子获得 109 个点赞。帖子内容包含一张苹果开发者 OG 图片和一个指向 Apple Core AI Framework 官方文档的链接（developer.apple.com）。该帖子由 buzzing.cc 中文翻译，发布于 2026 年 6 月 8 日 02：47（UTC）。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true
-    },
-    {
-      "id": "cmq5u4ypb02edsl5izrg3y8f9",
-      "title": "奥尔特曼宣布 OpenAI 进入第三发展阶段：让 AI 普及、易用且安全",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/961/721.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-08T22:50:42.000Z",
-      "summary": "本周一，OpenAI CEO 奥尔特曼与首席科学家帕霍茨基联合发文，宣布公司进入第三发展阶段，目标让 AI 普及、易用且安全。此前第一阶段聚焦通用人工智能技术研发，第二阶段面向全球推出产品。第三阶段三大核心目标是打造自动化人工智能研究员、推动经济提速、为每人配备专属通用人工智能。二人强调智能系统须坚守安全底线，呼吁成立国际机构应对 AI 风险，必要时可暂缓前沿模型研发。同日，OpenAI 秘密提交 IPO 申请，但上市仍需较长时间。上周 Anthropic 研究人员也建议适当放缓前沿 AI 研发。",
-      "category": "industry",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmq5qlr8e01gjsl5i2dzdysvx",
-      "title": "OpenAI计划到2028年由AI主导研究",
-      "title_en": "Sam Altman's new blog about OpenAI's future path says by March-2028 a significant fraction of its ow…",
-      "url": "https://x.com/rohanpaul_ai/status/2064096574142390755",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-08T21:25:46.000Z",
-      "summary": "Sam Altman关于OpenAI未来路径的新博客称，到2028年3月，其大量研究将由AI完成。\n\n该路径主要有3个目标：构建自动AI研究员，利用它加速科学和生产，然后给每个人一个个人AGI，帮助处理工作、学习、编程、商业、健康文书和决策。",
-      "category": "tip",
-      "score": 79,
-      "selected": true
-    },
-    {
-      "id": "cmq5p0eag0118sl5iydnwrhui",
-      "title": "Viggle API 上线：任意角色任意动作秒级生成",
-      "title_en": "Introducing the Viggle API. Give any character any motion， one API call - alive in seconds. Wire …",
-      "url": "https://x.com/ViggleAI/status/2064083087806390319",
-      "source": "X：Viggle AI (@ViggleAI)",
-      "publishedAt": "2026-06-08T20:32:11.000Z",
-      "summary": "推出 Viggle API。\n\n给任意角色添加任意动作，一次 API 调用--数秒内即可激活。\n\n可接入 Claude、Codex 或你正在构建的任何智能体。起价 $0.01/秒。\n\n注册即获 100 次免费额度。\n\n转发 + 关注 + 评论，10 位中奖者再获 100 次！\n\n了解更多👇",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true
-    },
-    {
-      "id": "cmq5lakyn00nasl382lj0ka6f",
-      "title": "Apple发布新一代Apple Intelligence和Siri AI",
-      "title_en": "Apple unveils next generation of Apple Intelligence， Siri AI， and more",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-06-08T18:18:43.157Z",
-      "summary": "今天Apple预览了即将推出的软件版本，将带来新一代Apple Intelligence和Siri AI。",
-      "category": "ai-products",
-      "score": 56,
-      "selected": true
-    },
-    {
-      "id": "cmq5lakyn00nbsl3832izqutm",
-      "title": "Apple Intelligence 将强大 AI 能力融入日常体验",
-      "title_en": "Apple Intelligence brings powerful AI capabilities into everyday experiences",
-      "url": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-06-08T18:17:44.449Z",
-      "summary": "Apple 发布下一代 Apple Intelligence，将 AI 能力集成到 iPhone、iPad 和 Mac 中，带来更个性化和有帮助的日常体验。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmq5js0wr009ksl38tvk1llo2",
-      "title": "苹果 WWDC 2026 直播",
-      "title_en": null,
-      "url": "https://www.apple.com/apple-events/event-stream",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-08T18:17:22.096Z",
-      "summary": "苹果 WWDC 2026 主题演讲通过官网进行直播，Hacker News 用户讨论热度达到 110 点。",
-      "category": "industry",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmq5lakyn00nesl38edfw2m19",
-      "title": "受 DMA 影响，Siri AI 在欧盟将随 iOS 27 和 iPadOS 27 延迟上线",
-      "title_en": "Due to DMA， Siri AI delayed in EU for iOS 27 and iPadOS 27",
-      "url": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-06-08T18:13:26.639Z",
-      "summary": "由于欧盟《数字市场法案》（DMA），Apple 无法在 iOS 27 和 iPadOS 27 发布时于欧盟地区推出 Siri AI。该功能在欧盟的上线时间将晚于其他地区，具体时间未公布。",
-      "category": "industry",
-      "score": 65,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-11T07:04:16Z"
+  "cachedAt": "2026-06-11T11:47:18Z"
 }
