@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMDE4MzAzMDAwLCJpIjoiY21xNnN4eDF1MGJpenNsNWliOWphNzhwZSJ9",
+  "nextCursor": "eyJhIjoxNzgxMDIwODAwMDAwLCJpIjoiY21xNnVnenFzMGJ4aHNsNWl0ZDRmYmlxZCJ9",
   "items": [
+    {
+      "id": "cmqas4pf30obzslldpvkbrqde",
+      "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
+      "title_en": "🌘 Kimi-K2.7-Code， our latest coding model， is now released and open-sourced！ 🔷 Improved coding & …",
+      "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "publishedAt": "2026-06-12T10:16:02.000Z",
+      "summary": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code。相比 K2.6，其在 Kimi Code Bench v2 上提升 +21.8%，Program Bench 提升 +11.0%，MLS Bench Lite 提升 +31.5%。推理效率改进，推理 token 使用量降低 30%，长时编码任务中指令遵循和端到端成功率均提升。6x 高速模式即将推出，即日起可通过 Kimi API 和 Kimi Code 使用。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true
+    },
     {
       "id": "cmqae79010kohslldooq3h2gk",
       "title": "小互开源公众号自动排版技能组合",
@@ -457,6 +469,30 @@
       "summary": "在写完这篇文章后\n我把配图过程蒸馏成了一个「橙线插画」Skill\n\n免费开源\n安装地址：\nhttps：//github.com/orange2ai/orange-line-illustration\n\n【引用 @oran_ge】：http：//x.com/i/article/2064857003743391744",
       "category": "tip",
       "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmqap4xzd0njdsllde7pwfwe3",
+      "title": "HYDRA-X： 原生统一多模态模型与整体视觉分词器",
+      "title_en": "HYDRA-X： Native Unified Multimodal Models with Holistic Visual Tokenizers",
+      "url": "https://arxiv.org/abs/2606.13289",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "summary": "HYDRA-X 是首个在单个 Vision Transformer （ViT） 中统一图像与视频 tokenization 的统一多模态模型。通过帧级因果时间注意力实现视觉重建，并采用层级时间压缩替代单步压缩。轻量级解压器在联合图像-视频教师监督下上采样时间压缩特征。编辑管线中，源-目标交互在分词器内部潜在层面而非 LLM 语义层面进行，提升编辑一致性与收敛速度。7B 密集模型在图像与视频理解及生成任务上表现强劲。",
+      "category": "paper",
+      "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmqaipftg0ltyslldbhrdenba",
+      "title": "MiniMax Sparse Attention（MSA）块状稀疏注意力",
+      "title_en": "MiniMax Sparse Attention",
+      "url": "https://arxiv.org/abs/2606.13392",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "summary": "MiniMax 提出块状稀疏注意力 MSA，基于 GQA 构建。轻量级 Index Branch 为每个 GQA 组独立选择 Top-k KV 块，Main Branch 仅对选中块执行精确块稀疏注意力。在 109B 参数多模态模型上，MSA 与 GQA 性能持平，1M 上下文下每 token 注意力计算减少 28.4 倍。配合协同设计的 GPU 内核，H800 上实现 14.2 倍 prefill 和 7.6 倍 decoding 端到端加速。推理内核与基于 MSA 的多模态模型已公开发布。",
+      "category": "paper",
+      "score": 77,
       "selected": true
     },
     {
@@ -1166,43 +1202,7 @@
       "category": "tip",
       "score": 68,
       "selected": true
-    },
-    {
-      "id": "cmq74dg8m006psloprllkcbmm",
-      "title": "Cohere发布North Mini Code：面向开发者的开源编码模型",
-      "title_en": "Introducing North Mini Code： Cohere's First Model For Developers",
-      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-09T15:56:23.000Z",
-      "summary": "Cohere发布North Mini Code，一款30B参数MoE模型（3B活跃参数），Apache 2.0开源。在Artificial Analysis Coding Index上得分33.4，超越Qwen3.5、Gemma 4等同类模型。后训练采用两阶段SFT和RLVR，在SWE-Bench Verified上pass@10达80.2%，Terminal-Bench v2上达55.1%。支持64K/128K上下文长度，专为智能体编码任务优化。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmq6tcee80bmxsl5ik7x89gue",
-      "title": "塔塔咨询服务将因AI智能体应用放缓招聘，亚洲外包业迎来转折",
-      "title_en": "Asia's Largest Outsourcer to Slow Hiring as AI Reshapes Industry",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-09/asia-s-largest-outsourcer-to-slow-hiring-as-ai-reshapes-industry",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-09T15:32:09.000Z",
-      "summary": "亚洲最大外包商塔塔咨询服务（Tata Consultancy Services）将减少未来招聘规模，同时加大对AI智能体的使用。这一变化标志着印度劳动密集型外包产业正经历关键性转变。",
-      "category": "industry",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmq6sxx1u0bizsl5ib9ja78pe",
-      "title": "Gemini 3.5 Live Translate 发布",
-      "title_en": "Say hello， hola， 你好 to Gemini 3.5 Live Translate： our latest audio model built for fast， cross-langu…",
-      "url": "https://x.com/GoogleDeepMind/status/2064366504745828689",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
-      "publishedAt": "2026-06-09T15:18:23.000Z",
-      "summary": "说 hello， hola， 你好--欢迎 Gemini 3.5 Live Translate：我们最新的音频模型，专为快速跨语言交流而构建。🌐",
-      "category": "ai-models",
-      "score": 69,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-12T05:01:33Z"
+  "cachedAt": "2026-06-12T12:30:10Z"
 }
