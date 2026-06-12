@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMDI0MDY5MDAwLCJpIjoiY21xNndrOGtjMDA4anNsYmhndjZybmE1ciJ9",
+  "nextCursor": "eyJhIjoxNzgxMDI1MDgyMDAwLCJpIjoiY21xNnlmcXdsMDByOXNsYmhndXB3a3MwZSJ9",
   "items": [
+    {
+      "id": "cmqbjpkto024kslamjgm4tayw",
+      "title": "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
+      "title_en": "今天凌晨五点的时候，我让 AI 帮我打磨一段文案，打磨三遍给我看。 AI 改完之后，我发现一遍比一遍讲究，但是一遍比一遍缺人味儿。 我已经用上最贵的 Claude Fable 5 了，还这样，让我很生…",
+      "url": "https://x.com/oran_ge/status/2065566882774868125",
+      "source": "X：Oran Ge (@oran_ge)",
+      "publishedAt": "2026-06-12T22:48:15.000Z",
+      "summary": "Oran Ge 让 Claude Fable 5 打磨文案三遍，发现改稿越来越讲究却缺\"人味儿\"。他与 AI 讨论后得出结论：人写的文字背后有\"存在感\"--作者在具体位置付出过具体代价，而 AI 无法复现。为此他制作了《人味儿写作心法.skill》，专用于自写文章或口述后让 AI 改稿的场景，旨在保留文字的人味。该技能已开源免费发布在 GitHub。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmqb4nt5t0116sl9zke56a7ml",
       "title": "Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业",
@@ -1190,19 +1202,7 @@
       "category": "tip",
       "score": 66,
       "selected": true
-    },
-    {
-      "id": "cmq6wk8kc008jslbhgv6rna5r",
-      "title": "Apollo 与 Blackstone 联手 350 亿美元 AI 融资交易",
-      "title_en": "Apollo， Blackstone Fund AI Boom",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-09/apollo-blackstone-fund-ai-boom-video",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-09T16:54:29.000Z",
-      "summary": "Apollo 和 Blackstone 合作开展 350 亿美元 AI 融资交易，可能重塑人工智能基础设施的融资方式。华尔街正为昂贵的 AI 芯片创建新的融资模型，Anthropic 和 Broadcom 参与其中。这笔交易可能标志着一个全新 AI 投资类别的开端。",
-      "category": "industry",
-      "score": 81,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-12T22:00:15Z"
+  "cachedAt": "2026-06-12T23:48:07Z"
 }
