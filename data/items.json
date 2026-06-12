@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMDIzMjc3MDAwLCJpIjoiY21xNnc4a2ZxMDA1NHNsYmhsOGZhaTJ3cCJ9",
+  "nextCursor": "eyJhIjoxNzgxMDIzODA1MDAwLCJpIjoiY21xNnZ4OHpsMDAwdXNsYmhpaXVjYmJ4eSJ9",
   "items": [
     {
       "id": "cmqb4nt5t0116sl9zke56a7ml",
@@ -61,6 +61,18 @@
       "summary": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code。相比 K2.6，其在 Kimi Code Bench v2 上提升 +21.8%，Program Bench 提升 +11.0%，MLS Bench Lite 提升 +31.5%。推理效率改进，推理 token 使用量降低 30%，长时编码任务中指令遵循和端到端成功率均提升。6x 高速模式即将推出，即日起可通过 Kimi API 和 Kimi Code 使用。",
       "category": "ai-models",
       "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqb6brwi0008sl5v981gsd10",
+      "title": "OpenAI 推出面向新时代工作的新 Academy 课程",
+      "title_en": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-12T10:00:00.000Z",
+      "summary": "OpenAI 发布三门 Academy 课程，帮助用户掌握实用 AI 技能、创建可重复工作流，并在日常工作中应用 AI 智能体。",
+      "category": "tip",
+      "score": 67,
       "selected": true
     },
     {
@@ -1190,19 +1202,7 @@
       "category": "ai-products",
       "score": 78,
       "selected": true
-    },
-    {
-      "id": "cmq6w8kfq0054slbhl8fai2wp",
-      "title": "World Labs与Lore合作打造互动体验",
-      "title_en": "The creativity and imagination is out of the world！ So grateful that @theworldlabs got to partner wi…",
-      "url": "https://x.com/drfeifei/status/2064387365930676695",
-      "source": "X：Fei-Fei Li (@drfeifei, World Labs)",
-      "publishedAt": "2026-06-09T16:41:17.000Z",
-      "summary": "创意和想象力无与伦比！非常感谢@theworldlabs能与@withloreco的优秀人才合作，将他们不可思议的想法转化为用户可以享受的互动体验！🤩",
-      "category": "ai-products",
-      "score": 78,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-12T16:27:55Z"
+  "cachedAt": "2026-06-12T19:21:22Z"
 }
