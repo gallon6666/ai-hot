@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMDIzODA1MDAwLCJpIjoiY21xNnZ4OHpsMDAwdXNsYmhpaXVjYmJ4eSJ9",
+  "nextCursor": "eyJhIjoxNzgxMDI0MDY5MDAwLCJpIjoiY21xNndrOGtjMDA4anNsYmhndjZybmE1ciJ9",
   "items": [
     {
       "id": "cmqb4nt5t0116sl9zke56a7ml",
@@ -13,6 +13,18 @@
       "summary": "Anthropic对近5.2万美国人调查显示：48%将治愈癌症等疾病列为首要期望，36%希望AI帮助残障人士。64%担忧AI导致失业，56%担忧认知依赖，52%担忧信息误导。超70%支持政府监管，最关注隐私（56%）、儿童安全（52%）和责任归属（49%）。仅15%信任AI公司决策。多数议题上观点不因党派或地域严重分裂。调查于2025年11-12月由YouGov线上执行并加权至人口普查基准。",
       "category": "tip",
       "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmqbg9zu8017zslam3adnpkeb",
+      "title": "如何在OpenRouter上获得最低成本的LLM推理",
+      "title_en": "How to Get the Lowest-Cost LLM Inference on OpenRouter",
+      "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-12T16:00:00.000Z",
+      "summary": "在OpenRouter上追加`：floor`可获取最便宜提供商，通过`max_price`设定花费上限，并可免费使用20多个零成本模型。同时需注意避免计费陷阱。",
+      "category": "tip",
+      "score": 59,
       "selected": true
     },
     {
@@ -1190,19 +1202,7 @@
       "category": "industry",
       "score": 81,
       "selected": true
-    },
-    {
-      "id": "cmq6vx8zl000uslbhiiucbbxy",
-      "title": "Luma AI Ray3.2 API：电影级渲染可集成",
-      "title_en": "The Ray3.2 API runs cinematic-grade at scale and integrates into the products you already build. Mad…",
-      "url": "https://x.com/LumaLabsAI/status/2064389582997897216",
-      "source": "X：Luma AI (@LumaLabsAI)",
-      "publishedAt": "2026-06-09T16:50:05.000Z",
-      "summary": "Ray3.2 API 可大规模运行电影级渲染，并集成到您正在构建的产品中。专为在交付的产品中打造电影感的开发者、代理机构和企业而设计。\n\n开始构建 → http：//lumalabs.ai/api",
-      "category": "ai-products",
-      "score": 78,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-12T19:21:22Z"
+  "cachedAt": "2026-06-12T22:00:15Z"
 }
