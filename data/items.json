@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMDQ5NjAwMDAwLCJpIjoiY21xOGV6MTQ0MDF1aHNsbGRtandqYzEzNiJ9",
+  "nextCursor": "eyJhIjoxNzgxMDU1NjcyMDAwLCJpIjoiY21xN2c4ZzY0MDJ0cHNsNXdzMXphdm5zaiJ9",
   "items": [
+    {
+      "id": "cmqcoyrfo00ieslttjd60zi3a",
+      "title": "Suno 音轨分离：从零生成更纯净",
+      "title_en": "Major update： Stem separation on Suno just got a massive level up. 🚀 We're now regenerating stems …",
+      "url": "https://x.com/suno/status/2065862499765821916",
+      "source": "X：Suno (@suno)",
+      "publishedAt": "2026-06-13T18:22:56.000Z",
+      "summary": "重大更新：Suno 的音轨分离刚刚大幅升级。🚀\n\n我们现在从零重新生成音轨，而非仅仅隔离频率。结果如何？纯净无伪影的音轨，可直接拖入你的 DAW。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqcopoix00f8slttxcyouu31",
+      "title": "Fusion API：半价达Fable级智能",
+      "title_en": "Introducing the Fusion API， the smartest compound model in the market. Fusion achieves Fable-level …",
+      "url": "https://x.com/OpenRouter/status/2065856853989270011",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-06-13T18:00:30.000Z",
+      "summary": "推出Fusion API，市场上最智能的复合模型。\n\nFusion以一半的价格实现Fable级别的智能。\n\n工作原理如下👇",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqclfuji004mslpbagr29kg3",
+      "title": "/architect：减少80%的Fable token，Fable负责协调/审核，Codex负责构建",
+      "title_en": "/架构师：将 Fable 代币减少 80%，Fable 负责协调/审核，Codex 负责构建",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-13T16:46:05.572Z",
+      "summary": "/architect项目将Fable token减少80%，由Fable进行协调和审核，Codex负责构建任务。",
+      "category": "tip",
+      "score": 70,
+      "selected": true
+    },
     {
       "id": "cmqca4a1900uxsl9izm7hb426",
       "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
@@ -1166,43 +1202,7 @@
       "category": "industry",
       "score": 76,
       "selected": true
-    },
-    {
-      "id": "cmq7cnl4q01x0sl5w2itvprtz",
-      "title": "Text-To-Lottie：Agent Skill + 本地预览 Harness，让 Agent 生成 Lottie 动画并实时验收",
-      "title_en": "Text-To-Lottie： 一套 「Agent Skill + 本地预览 Harness」 的组合，让 Agent 生成 Lottie，在浏览器里实时验收 开源作者 @konstipaulus …",
-      "url": "https://x.com/shao__meng/status/2064508455051043008",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-06-10T00:42:27.000Z",
-      "summary": "开源项目 Text-To-Lottie 提供一套 Agent Skill 和本地预览工具，让 Codex/Claude Code/Cursor 等 Agent 生成标准 Bodymovin JSON（public/lottie.json），通过 Skottie 渲染引擎在浏览器中实时验收。安装命令：`npx skills add diffusionstudio/lottie`。技术特点：输出标准 Lottie JSON，使用 Skottie 渲染（非 lottie-web）；基于 Vite 热重载实现自动刷新闭环；支持通过 Skottie Slots + controls.json 调整颜色、尺寸；Agent 可用 URL 参数 `？frame=60&paused=1` 精确定位帧截图。Prompt 指南包括：给具体素材、使用动效术语、pan/zoom/hold 模拟镜头、显式声明 Slots、锁定时间规格。适合单场景短时长 Motion Graphics、SVG→Lottie、数据可视化、透明背景矢量动效；不适合多镜头剪辑、复杂角色绑定、粒子、3D 或需 lottie-web 全特性的场景。",
-      "category": "tip",
-      "score": 77,
-      "selected": true
-    },
-    {
-      "id": "cmq8ws2lk06imslld3t5k4rid",
-      "title": "Bebop：通过带拒绝采样的多token预测加速RL训练",
-      "title_en": "Breaking Entropy Bounds： Accelerating RL Training via MTP with Rejection Sampling",
-      "url": "https://arxiv.org/abs/2606.12370",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "summary": "Bebop系统研究多token预测（MTP）在大语言模型RL后训练中的加速瓶颈。发现MTP接受率与模型熵波动呈负线性关系；概率拒绝采样相比贪婪草稿采样能缓解熵干扰。提出端到端TV损失直接优化多步拒绝采样接受率，带来约10%提升，最高达95%接受率，额外推理吞吐提升25%。在Qwen3.5、Qwen3.6和Qwen3.7上，异步RL训练实现1.8倍端到端加速。预RL阶段的MTP训练结合e2e TV损失和拒绝采样可保持全程一致的加速，无需在线更新。",
-      "category": "paper",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmq8ez14401uhslldmjwjc136",
-      "title": "eToro AI 智能体 Tori 集成 SpaceXAI 文本模型实现实时市场情绪分析",
-      "title_en": "Bringing real-time market sentiment to Tori， from eToro Jun 10， 2026 # Bringing real-time market sentiment to Tori， from eToro Tori， eToro's AI agent， uses models from SpaceXAI to embed real-time market sentiment directly into Tori's investing workflow. Read More",
-      "url": "https://x.ai/news/grok-etoro",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-06-10T00:00:00.000Z",
-      "summary": "6 月 10 日，eToro 宣布其 AI 智能体 Tori 集成来自 SpaceXAI 的文本模型，能够从 X 平台实时读取市场情绪变化、追踪信号并分析信息。Tori 现已在 eToro 的投资流程中嵌入该能力，支持用户以自然语言查询和解读市场情绪。eToro 拥有超过 4000 万注册用户，覆盖 75 个国家。该功能基于 SpaceXAI API 构建，其他开发团队也可通过 API 控制台在数分钟内搭建类似应用，如研究助手或情绪看板。",
-      "category": "industry",
-      "score": 69,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-13T16:44:32Z"
+  "cachedAt": "2026-06-13T18:43:10Z"
 }
