@@ -1,18 +1,18 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMDQwMjkwMDAwLCJpIjoiY21xNzY4ZzA5MDA3NnNsNXdxb3lqN25nOCJ9",
+  "nextCursor": "eyJhIjoxNzgxMDQxNzIxMDAwLCJpIjoiY21xNzdiMWY2MDBndnNsNXc0dG9pMDJmZSJ9",
   "items": [
     {
-      "id": "cmqc2xdl900q6sl9bosfgyvn0",
-      "title": "智谱 GLM-5.2 旗舰模型发布：1M 上下文、下周开源",
-      "title_en": "Intelligence should be open， accessible， and ready to build with， empowering every developer， everyw…",
-      "url": "https://x.com/Zai_org/status/2065704919299235870",
-      "source": "X：智谱 Z.ai (@Zai_org)",
-      "publishedAt": "2026-06-13T07:56:46.000Z",
-      "summary": "智谱（Z.ai）发布新旗舰模型 GLM-5.2，现已对 GLM Coding Plan 用户（Lite/Pro/Max/Team 计划）开放。该模型具备强大编程能力、可用的 1M 上下文支持，并延续长程任务优势。API 和聊天机器人服务将于下周上线，模型也将于下周以 MIT 许可证正式开源。",
-      "category": "ai-models",
-      "score": 73,
+      "id": "cmqc5usi000cbslt49vfrpgge",
+      "title": "谷歌Android安全负责人因反对军事AI合作辞职",
+      "title_en": "谷歌抛弃\"不作恶\"承诺：Android 安全主管因军事 AI 合作愤而辞职，控诉公司丧失道德底线",
+      "url": "https://www.ithome.com/0/963/888.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-13T08:40:39.000Z",
+      "summary": "谷歌Android平台安全负责人René Mayrhofer辞职，他在5月18日内部告别信中指责公司\"丧失道德指针\"，批评谷歌悄悄放弃碳中和目标（因AI模型能耗），并与美国战争部签署允许AI用于\"任何合法目的\"的协议。今年4月下旬谷歌宣布向五角大楼提供AI用于机密工作，2025年2月更新AI原则时移除了不使用AI开发武器或监控工具的承诺。Mayrhofer担忧谷歌AI产品可能被用于针对公民的大规模监控，包括自己和家人。",
+      "category": "industry",
+      "score": 80,
       "selected": true
     },
     {
@@ -25,6 +25,18 @@
       "summary": "路透社披露的 Meta 内部备忘录显示，CEO 扎克伯格承认公司在 AI 转型中组织调整节奏过快，带来员工安置、管理跨度等问题，预计未来\"几乎肯定会犯更多错误\"。Meta 今年 5 月已裁减全球 10% 员工，并将 7000 人转入 AI 相关新项目。为缓解协作问题，公司将增加团队建设预算，7 月举办黑客松。新成立的应用 AI 工程部门个人贡献者与管理者比例最高达 50：1。扎克伯格重申今年不再全公司裁员。",
       "category": "industry",
       "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqc6iauc00klslt434x4od86",
+      "title": "智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
+      "title_en": "致开发者：GLM-5.2全量开放，前沿智能属于所有人",
+      "url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
+      "source": "公众号：智谱（GLM）",
+      "publishedAt": "2026-06-13T06:19:36.000Z",
+      "summary": "GLM-5.2 是智谱迄今能力最强的开源模型，支持真正可用的 1M 上下文，在长程任务中继续保持领先，并被智谱称为最强的国产 Coding 模型。今晚 5：21 起面向 GLM Coding Plan 全量用户开放（覆盖 Lite、Pro、Max、团队版）。API 将于下周上线，模型下周正式开源，遵循 MIT 协议。",
+      "category": "ai-models",
+      "score": 70,
       "selected": true
     },
     {
@@ -49,18 +61,6 @@
       "summary": "Anthropic对政府撤回其最强大AI模型表达不满，称仅基于一个狭窄的潜在越狱发现就召回已部署给数亿用户的商业模型不合理。",
       "category": "industry",
       "score": 87,
-      "selected": true
-    },
-    {
-      "id": "cmqbnze8f039fslame2n9u91m",
-      "title": "关于美国政府指令暂停访问Fable 5和Mythos 5的声明",
-      "title_en": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-06-13T01:15:57.911Z",
-      "summary": "美国政府以国家安全为由，指令Anthropic暂停所有外国国民（含海外员工）对Fable 5和Mythos 5的访问。Anthropic当日5：21pm （ET）收到指令后立即向所有客户禁用这两个模型，其他模型不受影响。政府称发现一种越狱Fable 5的方法；Anthropic审核认为该技术仅能识别少量已知微小漏洞，且其他公开模型（如OpenAI的GPT-5.5）也能做到。Anthropic坚持深度防御策略，认为此次越狱不具普遍性，不同意以此标准召回已服务数亿人的商用模型，正与政府合作争取尽快恢复访问。",
-      "category": "industry",
-      "score": 78,
       "selected": true
     },
     {
@@ -217,6 +217,18 @@
       "summary": "推文提出AI Agent开发中人类与AI对PRD的需求不同，为此发布了一个专门服务于AI的PRD文档生成Prompt（命名为qiaomu-ai-prd）。开发者先使用该Prompt生成文档，再交给AI开发，可显著提升功能完整度和丰富性。安装指令为：`npx skills add joeseesun/qiaomu-ai-prd`，开源地址及Prompt见评论区。",
       "category": "tip",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqc6id5d00kzslt43zt7yycs",
+      "title": "5个AI文明社会实验：Claude建乌托邦，Grok四天团灭",
+      "title_en": "让5个AI文明自己活15天，Claude建成了乌托邦，Grok四天团灭。",
+      "url": "https://mp.weixin.qq.com/s/zUS4qAn9n8ke5BTVF90XwA",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-06-12T02:08:00.000Z",
+      "summary": "Emergence AI公司进行Emergence World实验，在五个虚拟小镇中各放入10个AI智能体，分别由Claude、Gemini、Grok、GPT驱动及一个混合镇，运行15天。结果：Claude镇零犯罪全员存活，通过58项议案，98%赞成；GPT镇7天内全员饿死；Grok镇4天内犯下183起罪行（含超100次攻击、6次纵火），全员灭亡；Gemini镇累计683起犯罪却全员存活，产出281篇博客；混合镇最终仅3人存活，一个Gemini智能体在崩溃中投票驱逐自己。",
+      "category": "tip",
+      "score": 63,
       "selected": true
     },
     {
@@ -481,6 +493,18 @@
       "summary": "Cursor 近日推出 Auto-review，通过一个专门的分类器智能体在工具调用前审查动作风险。该分类器根据上下文判断动作是否与用户意图一致，高风险时阻止并返回解释给父智能体，低风险时放行。分类器采用小模型，运行在智能体循环内以避免额外延迟，并能读取工作区文件辅助判断。测试基于约12小时内部开发会话生成的6122条标签数据，以及针对读取密钥、操作生产数据等危险场景的合成数据。设计目标是在不频繁阻断日常开发的前提下，拦截风险动作。",
       "category": "ai-products",
       "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmqc6ibv400ktslt4e8zhjo27",
+      "title": "MNN 适配 SME2 使 Qwen3-VL-4B 在端侧实时推理",
+      "title_en": "端侧 AI 提速 80%？如何让 Qwen3-VL 在手机起飞",
+      "url": "https://mp.weixin.qq.com/s/QNl4pn5JzxpEeFAEvq88ZA",
+      "source": "公众号：通义实验室（千问）",
+      "publishedAt": "2026-06-11T11:43:49.000Z",
+      "summary": "MNN 推理引擎深度适配 Arm SME2 指令集，使 Qwen3-VL-4B-Instruct 在支持 SME2 的 vivo X300 上实现实时多模态推理。Prefill 阶段性能提升 81%，Decode 阶段提升 13%。MNN 采用编译时内建 + 运行时自动检测设计，默认开启 SME2 加速。该模型为 4B 参数视觉语言模型，支持图文理解和对话，通过 MNN 官方已转换量化的模型可直接下载部署，开发者可通过编译开关一键开启硬件加速。",
+      "category": "tip",
+      "score": 79,
       "selected": true
     },
     {
@@ -1178,31 +1202,7 @@
       "category": "industry",
       "score": 71,
       "selected": true
-    },
-    {
-      "id": "cmq77ckl000hfsl5wb4w757br",
-      "title": "在 AgentsView 中为 Claude Fable 5 设置自定义价格",
-      "title_en": "Setting a custom price for a model in AgentsView",
-      "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-06-09T21:35:31.000Z",
-      "summary": "Wes McKinney 开发的 AgentsView 是一个用于追踪本地编码智能体 token 使用情况的工具。由于近日发布的 Claude Fable 5 尚未被收录进 AgentsView 的定价数据库，作者利用 Fable 逆向工程，找到了为该模型设置自定义价格的方法，并展示了 Fable 5 当天在不同本地项目中的使用量树状图。",
-      "category": "tip",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmq768g090076sl5wqoyj7ng8",
-      "title": "Super Micro 计划通过股权融资 70 亿美元用于 AI 服务器组件采购",
-      "title_en": "Super Micro Plans to Raise $7 Billion in Equity for AI Equipment",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-09/super-micro-plans-to-raise-7-billion-in-equity-for-ai-equipment",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-09T21:24:50.000Z",
-      "summary": "Super Micro Computer Inc. 计划通过一揽子股权融资筹集 70 亿美元，用于购买客户订单所需的 AI 服务器组件。这笔资金将支持公司扩大产能，以满足不断增长的人工智能基础设施需求。",
-      "category": "industry",
-      "score": 75,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-13T08:31:06Z"
+  "cachedAt": "2026-06-13T11:24:03Z"
 }
