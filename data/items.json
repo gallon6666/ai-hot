@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMDU1NjcyMDAwLCJpIjoiY21xN2c4ZzY0MDJ0cHNsNXdzMXphdm5zaiJ9",
+  "nextCursor": "eyJhIjoxNzgxMDU1OTYwMDAwLCJpIjoiY21xN2VzZGFpMDJoZHNsNXdxMnBlNm81diJ9",
   "items": [
     {
       "id": "cmqcoyrfo00ieslttjd60zi3a",
@@ -13,6 +13,18 @@
       "summary": "重大更新：Suno 的音轨分离刚刚大幅升级。🚀\n\n我们现在从零重新生成音轨，而非仅仅隔离频率。结果如何？纯净无伪影的音轨，可直接拖入你的 DAW。",
       "category": "ai-products",
       "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqcpszqx00r5slttxgr6scpy",
+      "title": "亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治",
+      "title_en": "亚马逊首席执行官与美国官员的会谈引发了对Anthropic模型的整治",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-13T18:22:19.626Z",
+      "summary": "亚马逊 CEO 与美国官员的会谈直接导致美国政府对 Anthropic 公司的 AI 模型采取整治行动。此次事件涉及对 Anthropic 旗下大语言模型的监管升级，具体措施及模型版本细节尚未披露。",
+      "category": "industry",
+      "score": 76,
       "selected": true
     },
     {
@@ -1190,19 +1202,7 @@
       "category": "industry",
       "score": 75,
       "selected": true
-    },
-    {
-      "id": "cmq7g8g6402tpsl5ws1zavnsj",
-      "title": "欧盟发布临时措施，要求 Meta 向第三方 AI 助手免费开放 WhatsApp",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/962/206.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-10T01:41:12.000Z",
-      "summary": "欧盟委员会6月9日宣布临时措施，责令Meta在反垄断调查结束前免费向第三方AI助手开放WhatsApp访问权限。Meta于2025年10月15日禁止第三方AI助手调用WhatsApp for Business API，意图让自家Meta AI独占市场；今年3月4日虽改为付费使用，但欧盟委员会认为这实质上延续了禁令，可能严重损害通用AI助手市场竞争，尤其危及小企业和新进入者。",
-      "category": "industry",
-      "score": 76,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-13T18:43:10Z"
+  "cachedAt": "2026-06-13T20:40:11Z"
 }
