@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMDI1MDgyMDAwLCJpIjoiY21xNnlmcXdsMDByOXNsYmhndXB3a3MwZSJ9",
+  "nextCursor": "eyJhIjoxNzgxMDI4Nzk0MDAwLCJpIjoiY21xNnpjMmdpMDB6bHNsYmhxZjNpd2d2MSJ9",
   "items": [
+    {
+      "id": "cmqbrjero04b5slamicgrz7kn",
+      "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
+      "title_en": "Anthropic's safety warnings may have just backfired - the government has pulled the plug on its most powerful AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-13T02:26:30.000Z",
+      "summary": "Anthropic对政府撤回其最强大AI模型表达不满，称仅基于一个狭窄的潜在越狱发现就召回已部署给数亿用户的商业模型不合理。",
+      "category": "industry",
+      "score": 87,
+      "selected": true
+    },
+    {
+      "id": "cmqbnze8f039fslame2n9u91m",
+      "title": "关于美国政府指令暂停访问Fable 5和Mythos 5的声明",
+      "title_en": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-06-13T01:15:57.911Z",
+      "summary": "美国政府以国家安全为由，指令Anthropic暂停所有外国国民（含海外员工）对Fable 5和Mythos 5的访问。Anthropic当日5：21pm （ET）收到指令后立即向所有客户禁用这两个模型，其他模型不受影响。政府称发现一种越狱Fable 5的方法；Anthropic审核认为该技术仅能识别少量已知微小漏洞，且其他公开模型（如OpenAI的GPT-5.5）也能做到。Anthropic坚持深度防御策略，认为此次越狱不具普遍性，不同意以此标准召回已服务数亿人的商用模型，正与政府合作争取尽快恢复访问。",
+      "category": "industry",
+      "score": 78,
+      "selected": true
+    },
+    {
+      "id": "cmqbnjbai034islame1d5jkaf",
+      "title": "OpenAI 遭多州总检察长联合调查",
+      "title_en": "OpenAI Probed by Coalition of State Attorneys General",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
+      "source": "Bloomberg：Technology（RSS）",
+      "publishedAt": "2026-06-13T00:27:02.000Z",
+      "summary": "OpenAI 正被一个由多州总检察长组成的联盟调查，该联盟已向这家人工智能公司索取涵盖广泛主题的信息。",
+      "category": "industry",
+      "score": 72,
+      "selected": true
+    },
     {
       "id": "cmqbjpkto024kslamjgm4tayw",
       "title": "Oran Ge 开源《人味儿写作心法.skill》解决AI写作缺人味",
@@ -25,6 +61,18 @@
       "summary": "Anthropic对近5.2万美国人调查显示：48%将治愈癌症等疾病列为首要期望，36%希望AI帮助残障人士。64%担忧AI导致失业，56%担忧认知依赖，52%担忧信息误导。超70%支持政府监管，最关注隐私（56%）、儿童安全（52%）和责任归属（49%）。仅15%信任AI公司决策。多数议题上观点不因党派或地域严重分裂。调查于2025年11-12月由YouGov线上执行并加权至人口普查基准。",
       "category": "tip",
       "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmqbpxbo703szslamf29w860z",
+      "title": "Hermes Agent 在 OpenRouter 上的使用指南：设置、模型与路由",
+      "title_en": "How to Use Hermes Agent with OpenRouter： Setup， Models & Routing",
+      "url": "https://openrouter.ai/blog/tutorials/hermes-agent",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-12T16:00:00.000Z",
+      "summary": "Hermes Agent 已通过 OpenRouter 处理超过 17 万亿 tokens。使用指南包括设置流程、选择支持 64K 上下文窗口的模型，以及调整路由策略以兼顾成本与可靠性。",
+      "category": "tip",
+      "score": 65,
       "selected": true
     },
     {
@@ -1154,55 +1202,7 @@
       "category": "ai-products",
       "score": 67,
       "selected": true
-    },
-    {
-      "id": "cmq737old00b0sle3025e4b4c",
-      "title": "OpenRouter 推出 Advisor 工具：让低成本模型可随时调用强模型增强生成",
-      "title_en": "Advisor： Give Any Model a Lifeline to a Smarter One",
-      "url": "https://openrouter.ai/blog/advisor-server-tool",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-09T18:00:00.000Z",
-      "summary": "OpenRouter 发布 advisor 服务器工具，允许一个快速、便宜的模型在生成过程中咨询一个更强大的模型。具体而言，可用 GPT-4o Mini 处理日常例行工作，在关键时刻调用 Claude Fable 解决真正重要的问题，从而实现成本和质量的动态平衡。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmq6yahue00p0slbh0r0bgk9q",
-      "title": "Cursor Evals 新增成本与输出 Token 图表",
-      "title_en": "we just shipped some improvements to http：//cursor.com/evals！ you can now see cost， output tokens a…",
-      "url": "https://x.com/ericzakariasson/status/2064404502053294565",
-      "source": "X：Eric Zakariasson (@ericzakariasson)",
-      "publishedAt": "2026-06-09T17:49:22.000Z",
-      "summary": "我们刚刚向 http：//cursor.com/evals 推送了一些改进！\n\n你现在可以看到每个模型的成本、输出 token 和步骤绘制在图表中",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmq6x171500clslbherqa4dhg",
-      "title": "Responses API 网页搜索新增图片结果",
-      "title_en": "Your app can now search the web for images. Web search in the Responses API now supports image resu…",
-      "url": "https://x.com/OpenAIDevs/status/2064395155688616153",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-06-09T17:12:14.000Z",
-      "summary": "你的应用现在可以搜索网页上的图片。\n\nResponses API 中的网页搜索现在除了文本结果外，还支持图片结果，因此你可以构建能展示商品、地点、视觉参考和来源链接以激发灵感的应用。",
-      "category": "ai-products",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmq6yfqwl00r9slbhgupwks0e",
-      "title": "Claude Fable 发布：Anthropic 带来的另一种推理体验",
-      "title_en": "What it feels like to work with Mythos",
-      "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
-      "source": "Ethan Mollick：One Useful Thing（RSS）",
-      "publishedAt": "2026-06-09T17:11:22.000Z",
-      "summary": "Anthropic 发布 Claude Fable，这是一款提供截然不同推理体验的 AI 模型。它擅长规划与生成复杂代码库，在需要精确构建代码结构或理解程序员深层需求的场景中，其表现相比 Claude Sonnet 有了大幅提升。用户描述与它协作更像与一位直觉敏锐的资深工程师合作，其对代码意图的捕捉和方案生成能力令人惊叹，但并非通用型 AI。",
-      "category": "tip",
-      "score": 66,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-12T23:48:07Z"
+  "cachedAt": "2026-06-13T04:49:48Z"
 }
