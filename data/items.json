@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMDQxNzIxMDAwLCJpIjoiY21xNzdiMWY2MDBndnNsNXc0dG9pMDJmZSJ9",
+  "nextCursor": "eyJhIjoxNzgxMDQ5NjAwMDAwLCJpIjoiY21xOGV6MTQ0MDF1aHNsbGRtandqYzEzNiJ9",
   "items": [
+    {
+      "id": "cmqca4a1900uxsl9izm7hb426",
+      "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
+      "title_en": "Global Capitalism Bets It All on AI Future That Alarms Voters",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+      "source": "Bloomberg：Technology（RSS）",
+      "publishedAt": "2026-06-13T11:00:00.000Z",
+      "summary": "Anthropic，这家估值达 9650 亿美元的 AI 巨头、史上增长最快的初创公司之一，在秘密提交 IPO 申请后，再次投下重磅炸弹。",
+      "category": "industry",
+      "score": 77,
+      "selected": true
+    },
     {
       "id": "cmqc5usi000cbslt49vfrpgge",
       "title": "谷歌Android安全负责人因反对军事AI合作辞职",
@@ -1190,19 +1202,7 @@
       "category": "industry",
       "score": 69,
       "selected": true
-    },
-    {
-      "id": "cmq77b1f600gvsl5w4toi02fe",
-      "title": "IBM CEO：AI不一定导致员工减少",
-      "title_en": "IBM CEO： AI Won't Necessarily Lead To Smaller Headcount",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-09/ibm-ceo-ai-won-t-necessarily-lead-to-smaller-headcount-video",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-09T21:48:41.000Z",
-      "summary": "IBM CEO Arvind Krishna表示AI不会必然导致员工数量减少。他透露IBM已在量子计算（一种更快形式的AI）上投资100亿美元，并指出联邦政府承诺投入10亿美元在纽约Albany建设芯片制造设施，体现了公私部门间的紧密合作。",
-      "category": "industry",
-      "score": 71,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-13T11:24:03Z"
+  "cachedAt": "2026-06-13T14:24:18Z"
 }
