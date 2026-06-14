@@ -4,6 +4,18 @@
   "nextCursor": "eyJhIjoxNzgxMDc5NzA1MDAwLCJpIjoiY21xN3QzaGhyMDFmM3NsZXBrYWhhZXY1bCJ9",
   "items": [
     {
+      "id": "cmqe0t4ci01r7slrd7j98j1za",
+      "title": "白宫AI监管决定被指偏袒OpenAI与亚马逊",
+      "title_en": "What Washington must do",
+      "url": "https://garymarcus.substack.com/p/what-washington-must-do",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "publishedAt": "2026-06-14T16:15:35.000Z",
+      "summary": "白宫周五做出的AI监管决定被指偏袒OpenAI、亚马逊等企业，同时对Anthropic施压不足24小时，缺乏透明度和事实依据。Gary Marcus、Dean W Ball及卡托研究所Kevin Frazier等专家指出，这种由少数人闭门快速决策的做法带有腐败嫌疑，可能促使其他国家加速发展\"主权AI\"甚至中国AI，并导致美国人才流失。Anthropic声明称政府应在法定程序中基于技术事实阻止不安全部署，而非当前方式。Marcus呼吁建立独立机构负责AI监管，确保公平、清晰、基于证据的执行。",
+      "category": "tip",
+      "score": 65,
+      "selected": true
+    },
+    {
       "id": "cmqdyt4ro019jslrde6w3jkxh",
       "title": "Satya Nadella：没有生态的前沿不稳定",
       "title_en": "http：//x.com/i/article/2065582894790365184",
@@ -73,18 +85,6 @@
       "summary": "重大更新：Suno 的音轨分离刚刚大幅升级。🚀\n\n我们现在从零重新生成音轨，而非仅仅隔离频率。结果如何？纯净无伪影的音轨，可直接拖入你的 DAW。",
       "category": "ai-products",
       "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmqcpszqx00r5slttxgr6scpy",
-      "title": "亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治",
-      "title_en": "亚马逊首席执行官与美国官员的会谈引发了对Anthropic模型的整治",
-      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-13T18:22:19.626Z",
-      "summary": "亚马逊 CEO 与美国官员的会谈直接导致美国政府对 Anthropic 公司的 AI 模型采取整治行动。此次事件涉及对 Anthropic 旗下大语言模型的监管升级，具体措施及模型版本细节尚未披露。",
-      "category": "industry",
-      "score": 76,
       "selected": true
     },
     {
@@ -1204,5 +1204,5 @@
       "selected": true
     }
   ],
-  "cachedAt": "2026-06-14T16:45:52Z"
+  "cachedAt": "2026-06-14T18:43:53Z"
 }
