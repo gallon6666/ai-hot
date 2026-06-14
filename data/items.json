@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMDcxMDQ4MDAwLCJpIjoiY21xN29oaWp2MDA3ZHNsZXBkdG11eG1hMyJ9",
+  "nextCursor": "eyJhIjoxNzgxMDc5NzA1MDAwLCJpIjoiY21xN3QzaGhyMDFmM3NsZXBrYWhhZXY1bCJ9",
   "items": [
+    {
+      "id": "cmqdcj53706qpslttlp0b4n9p",
+      "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来",
+      "title_en": "As Anthropic suspends access to new models， India debates its AI future",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-14T03:00:00.000Z",
+      "summary": "Anthropic 暂停了新模型的访问权限，印度科技领袖围绕这一事件展开辩论，探讨其是否是对该国 AI 雄心的警示。",
+      "category": "industry",
+      "score": 72,
+      "selected": true
+    },
     {
       "id": "cmqd77jxy05cwslttn9jua0ur",
       "title": "Anthropic 上市前夕",
@@ -24,7 +36,7 @@
       "publishedAt": "2026-06-14T00:03:49.000Z",
       "summary": "据 TechCrunch 报道，Meta 已开始撤销对 Manus 的 20 亿美元收购交易，此前北京要求该交易必须反转。目前收购解除程序已启动。",
       "category": "industry",
-      "score": 75,
+      "score": 71,
       "selected": true
     },
     {
@@ -172,6 +184,42 @@
       "selected": true
     },
     {
+      "id": "cmqb99dkw00pyslruihl7p4h6",
+      "title": "Google 起诉被指使用 AI 发送诈骗短信的中国网络犯罪团伙\"Outsider Enterprise\"",
+      "title_en": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+      "url": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-12T17:26:08.000Z",
+      "summary": "Google 起诉一个名为\"Outsider Enterprise\"的组织，指控其利用人工智能在两周内发送了 250 万条诈骗短信，导致数十万受害者上当。该组织被描述为中国网络犯罪团伙。",
+      "category": "industry",
+      "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmqb7ichm009mslruda4cweq1",
+      "title": "今年价值1300亿美元的数据中心项目因抗议被叫停",
+      "title_en": "$130 billion in data center projects blocked by protests so far this year",
+      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-06-12T17:18:49.000Z",
+      "summary": "截至今年，抗议活动已成功阻止价值约1300亿美元的AI数据中心项目。反对者通过组织行动阻碍了多地的开发计划，称这一胜利让参与者\"尝到了政治权力的滋味\"。抗议主要针对数据中心带来的能源消耗、水资源占用和环境影响，部分项目已被政府暂停或重新审查。",
+      "category": "industry",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqbpxbo703t0slam4t20lwok",
+      "title": "OpenRouter 模型路由工作原理",
+      "title_en": "How OpenRouter Model Routing Works",
+      "url": "https://openrouter.ai/blog/insights/model-routing",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-12T16:00:00.000Z",
+      "summary": "OpenRouter 将每个请求路由到 60 多家提供商，用户可自定义提供商顺序、价格上限和回退链，从而灵活控制路由策略。",
+      "category": "tip",
+      "score": 66,
+      "selected": true
+    },
+    {
       "id": "cmqbpxbo703szslamf29w860z",
       "title": "Hermes Agent 在 OpenRouter 上的使用指南：设置、模型与路由",
       "title_en": "How to Use Hermes Agent with OpenRouter： Setup， Models & Routing",
@@ -180,7 +228,7 @@
       "publishedAt": "2026-06-12T16:00:00.000Z",
       "summary": "Hermes Agent 已通过 OpenRouter 处理超过 17 万亿 tokens。使用指南包括设置流程、选择支持 64K 上下文窗口的模型，以及调整路由策略以兼顾成本与可靠性。",
       "category": "tip",
-      "score": 65,
+      "score": 74,
       "selected": true
     },
     {
@@ -192,7 +240,7 @@
       "publishedAt": "2026-06-12T16:00:00.000Z",
       "summary": "在OpenRouter上追加`：floor`可获取最便宜提供商，通过`max_price`设定花费上限，并可免费使用20多个零成本模型。同时需注意避免计费陷阱。",
       "category": "tip",
-      "score": 59,
+      "score": 64,
       "selected": true
     },
     {
@@ -229,6 +277,18 @@
       "summary": "MiniMax 发布开源权重模型 M3，约 428B 总参数、23B 激活参数，已上传 HuggingFace。该模型融合三种前沿能力：编码与智能体方面达 59.0% SWE-Bench Pro、66.0% Terminal Bench 2.1、34.8% SWE-fficiency、28.8% KernelBench Hard、74.2% MCP Atlas；采用 MiniMax 稀疏注意力将上下文窗口扩展至 1M token；原生多模态。同步上线 MiniMax Code 工具及 API 平台。权重与技术报告预计约 10 天后发布。",
       "category": "ai-models",
       "score": 81,
+      "selected": true
+    },
+    {
+      "id": "cmqaumbha0oz5slldur6mcs8h",
+      "title": "Pokémon Go玩家无意中为军用无人机技术贡献数据，引发持续审视",
+      "title_en": "Pokémon Go players unwittingly contributed to tech with military drone uses",
+      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-06-12T11:15:41.000Z",
+      "summary": "Pokémon Go玩家在游戏中收集的数据被重新用于AI训练，支持军用无人机技术。这一做法持续引发各方审视。",
+      "category": "industry",
+      "score": 77,
       "selected": true
     },
     {
@@ -352,6 +412,18 @@
       "selected": true
     },
     {
+      "id": "cmqck73e2001gslzwhu2x5dcg",
+      "title": "OpenRouter融合预算模型面板超越GPT-5.5和Claude Opus 4.8",
+      "title_en": "Surpassing Frontier Performance with Fusion",
+      "url": "https://openrouter.ai/blog/announcements/fusion-beats-frontier",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-12T00:00:00.000Z",
+      "summary": "通过OpenRouter融合的一组预算模型，在100个复杂研究任务上得分超过GPT-5.5和Claude Opus 4.8。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true
+    },
+    {
       "id": "cmqa38qfw0hrsslld9n3v1pzf",
       "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
       "title_en": "我们来玩个游戏吧？--在95%的模拟中，大型语言模型都会使用战术核武器",
@@ -397,6 +469,18 @@
       "summary": "据《新科学家》6月10日报道，全自主无人机首次击毙了人类士兵。这是有记录以来第一次由完全自主运行的无人机执行致命攻击，标志着自主武器系统在实战中的新进展。该报道来自《新科学家》网站，目前尚无更多细节公布。",
       "category": "industry",
       "score": 88,
+      "selected": true
+    },
+    {
+      "id": "cmq9w5ykx0ftoslldqwmy3asu",
+      "title": "WSJ：OpenAI 考虑大幅降价，同准备 ChatGPT 史上最大改版备战 IPO",
+      "title_en": "WSJ： OpenAI is considering deep price reductions as competition with Anthropic intensifies. Anthro…",
+      "url": "https://x.com/rohanpaul_ai/status/2065150529068769357",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-06-11T19:13:49.000Z",
+      "summary": "WSJ 报道，OpenAI 正考虑大幅降价以应对与 Anthropic 的竞争。Anthropic 增长主要来自开发者和编码工作流，Claude Code 消耗大量 token，已让企业团队将其融入日常工作。OpenAI 虽在消费品牌上更大，但企业市场才是关键--企业为编码智能体、自动化等工具付费。同时，OpenAI 在 IPO 前准备对 ChatGPT 进行史上最大改版，将其打造成涵盖编码、AI 智能体、图像生成和商业软件的超级应用，改版将在未来几周陆续推出。OpenAI 将更多资源投入编码工具 Codex，目标实现 Codex 工程负责人所说的\"个人智能体\"。",
+      "category": "industry",
+      "score": 82,
       "selected": true
     },
     {
@@ -457,18 +541,6 @@
       "summary": "Anthropic对近5.2万美国人调查显示：48%将治愈癌症等疾病列为首要期望，36%希望AI帮助残障人士。64%担忧AI导致失业，56%担忧认知依赖，52%担忧信息误导。超70%支持政府监管，最关注隐私（56%）、儿童安全（52%）和责任归属（49%）。仅15%信任AI公司决策。多数议题上观点不因党派或地域严重分裂。调查于2025年11-12月由YouGov线上执行并加权至人口普查基准。",
       "category": "tip",
       "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmq9zl2ha0gp3slld5dmtovns",
-      "title": "什么是 LLM 网关？应用与 AI 模型之间缺失的一层",
-      "title_en": "What Is an LLM Gateway？ The Missing Layer Between Your App and AI Models",
-      "url": "https://openrouter.ai/blog/insights/llm-gateway",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-11T16:00:00.000Z",
-      "summary": "缺少 LLM 网关时，供应商中断会直接变成用户可见的错误，AI 支出也难以追踪。文章从路由、合规性和设置时间三个维度比较了最佳方案。",
-      "category": "tip",
-      "score": 60,
       "selected": true
     },
     {
@@ -541,18 +613,6 @@
       "summary": "全球内容巨头Lionsgate与生成式AI研究公司Runway今日宣布扩大战略合作。Lionsgate已取得Runway股权，双方将启动联合开发项目，共同创作并制作新IP，首推一部基于Lionsgate现有IP和Runway生成模型的短剧系列。此外，Lionsgate将作为主持伙伴参与6月举行的Runway AI电影节。这是双方继2024年9月首次合作后的深化，Lionsgate此前已在预可视化、故事板及最终帧制作中应用Runway工具。",
       "category": "industry",
       "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmq9jvb4g0ckisllddfpo3q18",
-      "title": "OpenAI 正酝酿\"大幅\"降价，Gary Marcus 视其为示弱信号",
-      "title_en": "Breaking： OpenAI is pondering \"drastic\" price cuts.",
-      "url": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-06-11T13:34:49.000Z",
-      "summary": "OpenAI 正考虑大幅降价，Gary Marcus 认为这暴露了公司的疲软竞争力。",
-      "category": "tip",
-      "score": 58,
       "selected": true
     },
     {
@@ -948,7 +1008,7 @@
       "publishedAt": "2026-06-10T17:00:08.000Z",
       "summary": "一项法律裁决判定 Google 对其 AI 模型产生的幻觉内容负有法律责任。该判决可能产生巨大影响，尤其若其他国家跟进做出类似裁定。",
       "category": "industry",
-      "score": 64,
+      "score": 73,
       "selected": true
     },
     {
@@ -996,7 +1056,7 @@
       "publishedAt": "2026-06-10T16:16:05.000Z",
       "summary": "原文回顾了与 Steve Eisman 的最新访谈，并指出一些可能具有关键意义的新闻，未提供具体细节。",
       "category": "tip",
-      "score": 59,
+      "score": 63,
       "selected": true
     },
     {
@@ -1092,7 +1152,7 @@
       "publishedAt": "2026-06-10T10:21:19.000Z",
       "summary": "Google DeepMind 与合作伙伴共同发起一项 1000 万美元的资金征集，专门用于多智能体 AI 安全方向的研究。",
       "category": "industry",
-      "score": 71,
+      "score": 60,
       "selected": true
     },
     {
@@ -1142,67 +1202,7 @@
       "category": "ai-models",
       "score": 72,
       "selected": true
-    },
-    {
-      "id": "cmq7qyb3800uqslepjr20j9gw",
-      "title": "工信部印发《\"人工智能+信息通信\"创新发展实施意见》",
-      "title_en": "工信部：加快建设 400Gbps/800Gbps 等骨干传输网络，优化东中西部国家枢纽节点之间网络传输通道",
-      "url": "https://www.ithome.com/0/962/456.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-10T07:07:13.000Z",
-      "summary": "工信部发文，要求加快建设400Gbps/800Gbps骨干传输网络，优化东中西部国家枢纽节点间通道；推进城域400Gbps及以上、全光交叉等高速光传输系统应用，构建城域毫秒级低时延入算能力。同时推动5G-A/6G、新一代光网络、\"IPv6+\"、工业互联网与AI融合发展，攻关空口智能化、网络高等级自智、智能体互联网等核心技术。鼓励基础电信企业用AI赋能传统业务，深化智慧个人助理、智慧管家、家庭看护、3D观影等新型应用。",
-      "category": "industry",
-      "score": 78,
-      "selected": true
-    },
-    {
-      "id": "cmq7qgacz00ptslepe0e36kj9",
-      "title": "用好 Claude Design 的一些经验",
-      "title_en": "用好 Claude Design 的一些经验： 1. 加上 Design System 可以有效避免设计 AI 味 比如我偏好用 Adobe Spectrum 2 Design System ht…",
-      "url": "https://x.com/dotey/status/2064601571397185639",
-      "source": "X：宝玉 (@dotey)",
-      "publishedAt": "2026-06-10T06:52:27.000Z",
-      "summary": "宝玉分享了5点心得：1. 加入设计系统（如 Adobe Spectrum 2）可避免 AI 味，设为默认后可专注布局与交互。2. 先搭建少量功能，再通过左侧聊天框逐步调整。3. 用 Markup 框选局部评论，Edit 可手动调整元素树。4. 注意上下文管理，新任务创建新会话。5. 通过 Tweaks 面板调整主题、布局、加载状态，也可添加导航快速切换界面。",
-      "category": "tip",
-      "score": 81,
-      "selected": true
-    },
-    {
-      "id": "cmq7pb0cg00epslepudldb2ml",
-      "title": "亚马逊的大规模扁平化数据中心网络",
-      "title_en": null,
-      "url": "https://perspectives.mvdirona.com/2026/06/flat-datacenter-networks-at-scale",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-10T06:33:52.391Z",
-      "summary": "亚马逊分享了在大规模数据中心中实现扁平化网络架构的工程实践与设计考量，重点论述了如何通过简化拓扑和路由策略来支撑超大规模集群的高带宽、低延迟通信。文章未披露具体模型或评测数据。",
-      "category": "tip",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmq7o76t70033slep3hezyguv",
-      "title": "2026年高考，跟着千问，选好志愿！",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/4fovMM29x8tJ2E25kidl1A",
-      "source": "公众号：千问APP（阿里）",
-      "publishedAt": "2026-06-10T06:00:49.000Z",
-      "summary": "千问发布国内首个全周期高考志愿填报Agent，由数百位资深高报师参与训练。该智能体提供AI志愿报告，为考生量身定制深度全面的填报方案；AI志愿日历帮助制定专属填报计划；高考专业知识库整合夸克高考8年积累，并引入志愿专家顾问，数据权威可信赖，全程陪伴考生完成志愿填报。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true
-    },
-    {
-      "id": "cmq7ohijv007dslepdtmuxma3",
-      "title": "谷歌财务担保支撑 Anthropic 350 亿美元芯片租赁交易",
-      "title_en": "Google's Backstops Underpin $35 Billion Anthropic Chip Deal",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-10/google-s-backstops-underpin-35-bln-anthropic-chip-deal-video",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-10T05:57:28.000Z",
-      "summary": "Anthropic 在谷歌（其早期投资者之一）的帮助下，正在五个数据中心租赁高性能计算机芯片。谷歌同意为每个地点的租赁付款提供兜底担保，从而帮助 Anthropic 获得相当于 350 亿美元的融资。",
-      "category": "industry",
-      "score": 73,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-14T09:55:34Z"
+  "cachedAt": "2026-06-14T12:14:31Z"
 }
