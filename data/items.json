@@ -1,8 +1,32 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMDU1OTYwMDAwLCJpIjoiY21xN2VzZGFpMDJoZHNsNXdxMnBlNm81diJ9",
+  "nextCursor": "eyJhIjoxNzgxMDcxMDQ4MDAwLCJpIjoiY21xN29oaWp2MDA3ZHNsZXBkdG11eG1hMyJ9",
   "items": [
+    {
+      "id": "cmqd77jxy05cwslttn9jua0ur",
+      "title": "Anthropic 上市前夕",
+      "title_en": "Anthropic 上市前夕 彭博社采访了Anthropic 公司俩兄妹，在这次采访中（Fable 5 还没有被封杀）Dario Amodei极度的渲染了Mythos的威力和AI的威胁 当然这也是…",
+      "url": "https://x.com/xiaohu/status/2065991805238497732",
+      "source": "X：小互 (@xiaohu)",
+      "publishedAt": "2026-06-14T02:56:45.000Z",
+      "summary": "Anthropic CEO Dario Amodei透露内部模型Mythos有上千漏洞，能黑银行、窃取国家机密；预言AI一到五年内砍掉一半入门级白领工作；称Claude已被美军用于对伊朗战争，涉及女校150人死亡拷问；解释离开OpenAI因信任崩塌；回怼黄仁勋末日营销指控；给出文明崩溃概率10%-25%。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqd1t7a003wgslttffgjyn8q",
+      "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
+      "title_en": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-14T00:03:49.000Z",
+      "summary": "据 TechCrunch 报道，Meta 已开始撤销对 Manus 的 20 亿美元收购交易，此前北京要求该交易必须反转。目前收购解除程序已启动。",
+      "category": "industry",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmqcoyrfo00ieslttjd60zi3a",
       "title": "Suno 音轨分离：从零生成更纯净",
@@ -1178,31 +1202,7 @@
       "category": "industry",
       "score": 73,
       "selected": true
-    },
-    {
-      "id": "cmq7kyzxh0435sl5wh21ncfun",
-      "title": "火山方舟版权商业化平台上线，周星驰比高集团三大电影IP首批入驻",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/g3DxNO_3aYI4g26gQ2Yvig",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-06-10T04:30:00.000Z",
-      "summary": "火山引擎今日上线火山方舟版权商业化平台，推出行业首个覆盖\"授权-保护-审核-分发-变现\"全链路的版权合作机制。平台搭载视频生成模型Seedance 2.0及版权治理体系，已获周星驰旗下比高集团《喜剧之王》《食神》《长江七号》三部影片在AI视频创作场景下的版权使用权，并基于Seedance 2.0打造经典桥段AI创作模板。模板已在火山方舟体验中心、火山引擎Kickart上线，同步开放给LibTV、筷子科技丽帧引擎等工具合作伙伴。平台面向UGC和商业广告场景提供分润制、项目制等变现路径，未来还将提供版权管理后台，实现授权可见、使用可查、收入透明。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true
-    },
-    {
-      "id": "cmq7esdai02hdsl5wq2pe6o5v",
-      "title": "Magnetar用数百AI智能体替代分析师",
-      "title_en": "Bloomberg： Magnetar Capital， the $18B hedge fund company， will avoid human analysts in its newest of…",
-      "url": "https://x.com/rohanpaul_ai/status/2064524448582267047",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-10T01:46:00.000Z",
-      "summary": "Bloomberg：Magnetar Capital，这家 180 亿美元的对冲基金公司，将在其最新产品中避免使用人类分析师，转而依靠数百个 AI 智能体进行股票研究。\n\n这家 180 亿美元的对冲基金公司希望 AI 搜索投资想法、研究公司、推荐头寸并预测趋势，而人类仍负责批准交易。",
-      "category": "industry",
-      "score": 75,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-14T00:19:58Z"
+  "cachedAt": "2026-06-14T06:04:34Z"
 }
