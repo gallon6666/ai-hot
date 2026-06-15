@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMDc1MjMzMDAwLCJpIjoiY21xN3F5YjM4MDB1cXNsZXBqcjIwajlndyJ9",
+  "nextCursor": "eyJhIjoxNzgxMDc5NzA1MDAwLCJpIjoiY21xN3QzaGhyMDFmM3NsZXBrYWhhZXY1bCJ9",
   "items": [
+    {
+      "id": "cmqegnuc40214slunxe96pbiy",
+      "title": "OpenAI 推出合作伙伴网络 OpenAI Partner Network",
+      "title_en": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-14T17:00:00.000Z",
+      "summary": "OpenAI 宣布推出 OpenAI Partner Network，并投资 1.5 亿美元支持全球合作伙伴构建、销售和交付 AI 解决方案。该计划设立 Select、Advanced、Elite 三级合作伙伴层级，提供 Codex、网络安全、智能体等专业方向认证，并试点 Forward Deployed Experts 项目以支持复杂企业部署。目标在 2026 年底前培训认证 30 万名顾问。案例显示，Paychex 借助 Bain 和 OpenAI 的方案将等待时间降低 80%，人工审核时间减少 30%。",
+      "category": "industry",
+      "score": 59,
+      "selected": true
+    },
     {
       "id": "cmqe0t4ci01r7slrd7j98j1za",
       "title": "白宫AI监管决定被指偏袒OpenAI与亚马逊",
@@ -1190,19 +1202,7 @@
       "category": "ai-models",
       "score": 72,
       "selected": true
-    },
-    {
-      "id": "cmq7qyb3800uqslepjr20j9gw",
-      "title": "工信部印发《\"人工智能+信息通信\"创新发展实施意见》",
-      "title_en": "工信部：加快建设 400Gbps/800Gbps 等骨干传输网络，优化东中西部国家枢纽节点之间网络传输通道",
-      "url": "https://www.ithome.com/0/962/456.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-10T07:07:13.000Z",
-      "summary": "工信部发文，要求加快建设400Gbps/800Gbps骨干传输网络，优化东中西部国家枢纽节点间通道；推进城域400Gbps及以上、全光交叉等高速光传输系统应用，构建城域毫秒级低时延入算能力。同时推动5G-A/6G、新一代光网络、\"IPv6+\"、工业互联网与AI融合发展，攻关空口智能化、网络高等级自智、智能体互联网等核心技术。鼓励基础电信企业用AI赋能传统业务，深化智慧个人助理、智慧管家、家庭看护、3D观影等新型应用。",
-      "category": "industry",
-      "score": 78,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-14T22:21:33Z"
+  "cachedAt": "2026-06-15T01:40:35Z"
 }
