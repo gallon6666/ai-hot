@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMTA3MjAwMDAwLCJpIjoiY21xOGEydGx2MDBocnNsbGQyMHpxcnQ5ZSJ9",
+  "nextCursor": "eyJhIjoxNzgxMTA4MTY1MDAwLCJpIjoiY21xOGF1YXkxMDBvdXNsbGR2YjVyY3RndyJ9",
   "items": [
+    {
+      "id": "cmqfp50sf0004sl002o8dcc7w",
+      "title": "GitHub Copilot CLI 初学者指南：常用斜杠命令概览",
+      "title_en": "GitHub Copilot CLI for Beginners： Overview of common slash commands",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-06-15T20:15:31.000Z",
+      "summary": "GitHub Copilot CLI 为初学者提供了常用斜杠命令的概述，帮助用户通过命令控制终端中的 AI 智能体。",
+      "category": "tip",
+      "score": 59,
+      "selected": true
+    },
     {
       "id": "cmqfjwpb500o2slq8vbryuxyg",
       "title": "Meta 在 Facebook 上线\"AI Mode\"，基于平台公开信息合成答案",
@@ -964,6 +976,18 @@
       "selected": true
     },
     {
+      "id": "cmqfluk3b000cslb84hcz4xcd",
+      "title": "对抗性重新包装：仅修改呈现层即可欺骗AI同行评审",
+      "title_en": "No Hidden Prompts Needed！ You Can Game AI Peer Review with Presentation-Only Revisions",
+      "url": "https://arxiv.org/abs/2606.13044",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-11T00:00:00.000Z",
+      "summary": "研究提出对抗性重新包装攻击，在不改动科学证据（方法、实验、数据等）的前提下，仅修改摘要、贡献定位、相关工作、讨论和叙事结构等呈现层内容，并利用AI审稿人反馈进行闭环搜索。在三种主流AI审稿系统上，攻击成功率达75.1%，平均得分提高+1.21/10。策略中，相关工作重定位和分析性讨论扩展等结构性改动效果显著优于表面编辑。分析揭示两种失败模式：AI审稿人更易被亮点打动而非被说服，且会将\"看起来解决了限制\"与\"实际解决\"相混淆。研究发布了无污染滚动基准和攻击框架用于测试内容锚定性。",
+      "category": "paper",
+      "score": 76,
+      "selected": true
+    },
+    {
       "id": "cmqap4xzd0njdsllde7pwfwe3",
       "title": "HYDRA-X： 原生统一多模态模型与整体视觉分词器",
       "title_en": "HYDRA-X： Native Unified Multimodal Models with Holistic Visual Tokenizers",
@@ -1178,31 +1202,7 @@
       "category": "tip",
       "score": 63,
       "selected": true
-    },
-    {
-      "id": "cmq9tg1bi0f3qslld86ne1vt3",
-      "title": "Anthropic与DXC达成全球联盟，将Claude引入关键行业系统",
-      "title_en": "DXC will integrate Claude into the systems banks， airlines， and other regulated industries rely on",
-      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-06-10T16:00:00.000Z",
-      "summary": "Anthropic与IT服务公司DXC Technology达成多年全球联盟。DXC将培训数万名获得Claude认证的前沿部署工程师（FDE），将Claude引入其为全球大型银行、航空公司、保险公司及政府机构运营的关键系统。内部部署中，Claude已成为DXC OASIS平台的默认基础模型，该平台超95%代码由Claude编写，开发速度提升10倍，已服务50多家客户。DXC加入Claude Partner Network，将在保险、现代化服务、网络安全及应用服务四个领域率先推出基于Claude的解决方案。",
-      "category": "industry",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmq8a2tlv00hrslld20zqrt9e",
-      "title": "通过语言服务器为 GitHub Copilot CLI 提供真正的代码智能",
-      "title_en": "Give GitHub Copilot CLI real code intelligence with language servers",
-      "url": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-06-10T16:00:00.000Z",
-      "summary": "GitHub Copilot CLI 现在可以通过安装和配置 LSP（Language Server Protocol）服务器来替代原始的暴力 grep 或反编译方式，从而获得真正的代码智能。",
-      "category": "tip",
-      "score": 68,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-15T19:08:41Z"
+  "cachedAt": "2026-06-15T21:48:57Z"
 }
