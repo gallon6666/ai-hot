@@ -1,8 +1,56 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMTkwMDAyMDAwLCJpIjoiY21xOW10azF5MGRicHNsbGRscTVld3N1YyJ9",
+  "nextCursor": "eyJhIjoxNzgxMTkyNzAyMDAwLCJpIjoiY21xOW9iNGc1MGRxaHNsbGRnOW5vcXl3OSJ9",
   "items": [
+    {
+      "id": "cmqh9tq4602bvsle1zonzmrg9",
+      "title": "人工智能是否已经让自助类非虚构书籍销声匿迹了？",
+      "title_en": null,
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-16T23:09:29.793Z",
+      "summary": "2026年Q1美国成人非虚构书籍销量同比下降9%，自助类下跌26.3%，仅手工艺/爱好/古董/游戏和宗教两个子类别增长。一位出版了多本《纽约时报》畅销书的作者透露，其五本书的印刷版年销量从2022年基准连续下滑：2023年-5%，2024年-13%，2025年-46%，2026年年化跌幅达-57% vs 2025年；若持续，2026年销量将比2022年减少约80%。所有格式在2025年下半年环比上半年下降约45%。作者认为，Claude、ChatGPT等大语言模型能提供更快、更便宜、更个性化的建议，正在系统性取代自助类书籍的\"指令传递\"价值。头部自助类品牌同期销量也下滑约40-60%，唯一显著变化是AI加速普及。作者判断整个指令传递型内容（包括YouTube教程、播客、在线课程、newsletter）都将面临替代。",
+      "category": "tip",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmqh8r5nd020ysle1tvadx7vs",
+      "title": "Anthropic 5月企业AI订阅份额首超OpenAI，特朗普政府禁令反促采用量创新高",
+      "title_en": "Anthropic's latest feud with the Trump admin may actually help it， sales data suggests",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-16T22:34:17.000Z",
+      "summary": "Anthropic 5月企业AI订阅市场份额达41%，首次超越OpenAI（39.5%）。公司刚完成650亿美元融资、估值9650亿美元，并因首次盈利季度秘密提交IPO。特朗普政府以出口管制为由要求Anthropic禁止非美国人访问最新模型Mythos 5及Fable 5，导致两款模型下架。Ramp首席经济学家指出，类似争议（如3月被国防部列为供应链风险）反而推动Anthropic企业采用量创纪录。Ramp数据显示，企业支出主要流向Claude Opus模型（最新为Opus 4.8）。",
+      "category": "industry",
+      "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmqh78bnl01mrsle11gmghtv0",
+      "title": "Midjourney V8.1 推出 Draft mode 草稿模式与新功能预览",
+      "title_en": "Draft mode for V8.1 and new feature previews",
+      "url": "https://updates.midjourney.com/draft-mode-for-v8-1-and-new-feature-previews",
+      "source": "Midjourney：Updates（RSS）",
+      "publishedAt": "2026-06-16T22:04:29.000Z",
+      "summary": "Midjourney V8.1 的 Draft mode 草稿模式每次生成24张低分辨率低质量图片。用户可对任意图片点击 \"Vary\"，将其渲染为全质量、全分辨率版本。草稿任务消耗的快速小时数减半。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true
+    },
+    {
+      "id": "cmqh6wxfh01k6sle1y2xzcqjx",
+      "title": "OpenAI 的领先优势正在快速缩小",
+      "title_en": "OpenAI's lead is dwindling fast",
+      "url": "https://garymarcus.substack.com/p/openais-lead-is-dwindling-fast",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "publishedAt": "2026-06-16T21:54:47.000Z",
+      "summary": "评论认为 OpenAI 正面临多重危机：缺乏护城河导致市场领先地位下滑；最大投资者微软持续疏远，近期甚至公开考虑将主要产品外包给中国；亏损速度远超预期，年亏损额以 8 倍增长。华盛顿方面可能打压 Anthropic，但也可能反而帮助其崛起，而 Elon Musk 成为另一个潜在的竞标者。",
+      "category": "tip",
+      "score": 62,
+      "selected": true
+    },
     {
       "id": "cmqh1kwnx002asle1lo0di435",
       "title": "Anthropic：智能体编码中专业知识回报持续存在",
@@ -109,18 +157,6 @@
       "summary": "美国司法部在一份驳回诉讼的动议中称，xAI的聊天机器人Grok对军事行动至关重要，以此为其在密西西比州Southaven的Colossus 2设施运行未经许可的燃气轮机辩护。NAACP已提起诉讼，指控xAI的燃气轮机数量从4月的27台增至57台，导致氮氧化物排放飙升111%。国防部首席数字与人工智能官Cameron Stanley表示，Grok是支持机密和绝密网络军事任务的四款AI模型之一，包括近期针对伊朗的打击。",
       "category": "industry",
       "score": 80,
-      "selected": true
-    },
-    {
-      "id": "cmqgo34he01ftslic80znicuh",
-      "title": "2025年OpenAI亏损额激增近8倍，支出高达340亿美元",
-      "title_en": null,
-      "url": "https://www.wheresyoured.at/exclusive-openai-financials",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-16T13:01:23.690Z",
-      "summary": "据Hacker News热门文章，OpenAI在2025年亏损额激增近8倍，年度总支出达到340亿美元。原文来自wheresyoured.at的独家财务分析报道，该信息在Hacker News上获得超过100个点赞。",
-      "category": "industry",
-      "score": 78,
       "selected": true
     },
     {
@@ -253,6 +289,18 @@
       "summary": "五角大楼宣布已将超2/3日常AI工作流从Anthropic转移，目标9月前清零。起因是年初五角大楼要求Anthropic签署协议允许Claude用于大规模监控和全自动武器，CEO Dario Amodei以模型不可靠为由拒绝。五角大楼将其列为\"供应链风险\"，起诉未果。OpenAI调整立场获得订单。Polymarket预测6月底前和解概率仅9%。此事件凸显AI公司需在原则与政府合作间抉择。",
       "category": "industry",
       "score": 78,
+      "selected": true
+    },
+    {
+      "id": "cmqh94zt2027qsle1vfbtzbjc",
+      "title": "Subagent：让模型把琐碎任务委托出去",
+      "title_en": "Subagent： Let Your Model Delegate the Busywork",
+      "url": "https://openrouter.ai/blog/announcements/subagent-server-tool",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "summary": "OpenRouter 推出 openrouter：subagent 服务器工具，允许前沿模型在生成过程中将独立的琐碎任务（如文档总结、结构化数据提取、文本重格式化）委托给更小、更便宜、更快的 worker 模型执行，从而节省前沿模型的 token 消耗。",
+      "category": "ai-products",
+      "score": 67,
       "selected": true
     },
     {
@@ -1154,55 +1202,7 @@
       "category": "industry",
       "score": 75,
       "selected": true
-    },
-    {
-      "id": "cmq9o747e0dq2slldfrnfjbak",
-      "title": "OpenRouter 基准探索器：10项帕累托曲线",
-      "title_en": "Use our Benchmarks explorer to plot Pareto curves for 10 different benchmarks More coming soon！ htt…",
-      "url": "https://x.com/OpenRouter/status/2065094780271329729",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-06-11T15:32:17.000Z",
-      "summary": "使用我们的基准探索器，为10个不同基准绘制帕累托曲线。\n\n更多功能即将推出！https：//openrouter.ai/rankings#benchmarks",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true
-    },
-    {
-      "id": "cmq9niqdy0dijslldlisb24yj",
-      "title": "Codex Goal指令生成Skill发布：一句话需求转目标",
-      "title_en": "很多朋友问，如何给Codex写一个好的Goal指令？ 睡觉前执行，模型自动开发，第二天\"收菜\"。 发过4w字文档，但多数人懒的看，所以我写了个Skill。 把一句话需求变成目标，复制就能用。 …",
-      "url": "https://x.com/vista8/status/2065090494972174821",
-      "source": "X：Vista (@vista8)",
-      "publishedAt": "2026-06-11T15:15:16.000Z",
-      "summary": "针对如何给Codex写Goal指令的问题，作者发布了一个Skill，可将一句话需求自动转化为目标，实现\"睡前写指令、模型自动开发、第二天收菜\"。安装命令：`npx skills add joeseesun/qiaomu-goal-meta-skill`。源码免费开源（见评论区），旨在简化4w字文档的阅读负担。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmq9n5tca0devslld1mdftjbi",
-      "title": "员工每周花超6小时\"照看\"AI，加剧工作不满",
-      "title_en": "员工每周花在\"照看\"AI上的时间超过6小时，这加剧了他们对工作的不满",
-      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-11T15:00:19.599Z",
-      "summary": "员工每周平均花费超过6小时进行\"照看AI\"（botsitting）的工作，这一额外负担加剧了他们对工作的不满情绪。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmq9mtk1y0dbpslldlq5ewsuc",
-      "title": "Krea 2 推出生成式滑块控制图像属性",
-      "title_en": "introducing Generative Sliders. now you can control the intensity， complexity， and movement of any…",
-      "url": "https://x.com/krea_ai/status/2065086662166901114",
-      "source": "X：Krea AI (@krea_ai)",
-      "publishedAt": "2026-06-11T15:00:02.000Z",
-      "summary": "推出生成式滑块。\n现在您可以控制使用 Krea 2 生成的任何图像的强度、复杂度和运动。\n你希望看到哪些新控制？👇",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-16T21:18:35Z"
+  "cachedAt": "2026-06-16T23:46:57Z"
 }
