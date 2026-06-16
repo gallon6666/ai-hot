@@ -1,8 +1,68 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMTM5NTYzMDAwLCJpIjoiY21xOHN2anZhMDVncnNsbGRlZGl5MHRwayJ9",
+  "nextCursor": "eyJhIjoxNzgxMTkwMDAyMDAwLCJpIjoiY21xOW10azF5MGRicHNsbGRscTVld3N1YyJ9",
   "items": [
+    {
+      "id": "cmqh1kwnx002asle1lo0di435",
+      "title": "Anthropic：智能体编码中专业知识回报持续存在",
+      "title_en": "Agentic coding and persistent returns to expertise",
+      "url": "https://www.anthropic.com/research/claude-code-expertise",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-06-16T19:35:22.252Z",
+      "summary": "Anthropic 基于约40万次 Claude Code 交互会话（2025年10月至2026年4月）分析发现：人类主导规划决策（做什么），Claude 主导执行决策（怎么做）。领域专业知识越强，模型每次指令完成的工作量越多。各类职业完成任务的成功率与软件工程师平均相近；领域专家成功率更高，但与中级用户差距不大。七个月间调试会话占比下降近一半，使用转向端到端智能体任务（部署运行代码、分析数据、编写非代码文档），典型任务价值平均上升约25%。",
+      "category": "paper",
+      "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmqh02ula025kslpus6x0agms",
+      "title": "Meta 解散工程部门引发热议",
+      "title_en": "Meta为什么要解散其工程部门？",
+      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-16T18:37:24.744Z",
+      "summary": "6月16日，一篇标题为\"Why is Meta destroying its engineering organization？\"的博客文章出现在 Hacker News，获得110个点赞。文章指出 Meta 正在解散其工程组织，引发业界广泛讨论。具体原因和后续影响尚未明确。",
+      "category": "tip",
+      "score": 80,
+      "selected": true
+    },
+    {
+      "id": "cmqgz178201wfslpu25xb10dm",
+      "title": "微软考虑为 Copilot Cowork 集成 DeepSeek V4",
+      "title_en": "Axios reports that Microsoft is considering a Microsoft-hosted version of DeepSeek V4 as a cheaper m…",
+      "url": "https://x.com/kimmonismus/status/2066946013026263110",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-06-16T18:08:26.000Z",
+      "summary": "微软正考虑为 Copilot Cowork 提供微软托管的 DeepSeek V4 版本，作为更便宜的模型选项。Copilot Cowork 将放弃无限定价，转向按使用量计费，原因是成本过高（用户每周执行数百项任务导致费用激增）。若采用 DeepSeek，该模型将是可选的、经过微调与安全防护，并完全托管于 Azure。Axios 报道称微软已微调了一个可用模型，最终决定待定。",
+      "category": "industry",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqh269tl004esle1vztceb34",
+      "title": "公开聊天数据能否预测真实世界AI失调？",
+      "title_en": "Can public chat data predict real-world AI misalignments？",
+      "url": "https://alignment.openai.com/validating-public-evals",
+      "source": "OpenAI：Alignment 研究博客（RSS）",
+      "publishedAt": "2026-06-16T18:00:00.000Z",
+      "summary": "OpenAI利用WildChat公开数据集（2023年4月至2024年5月收集的100万条对话）模拟模型部署，预测GPT-5.1、GPT-5.2、GPT-5.4在真实生产环境中的不良行为率。与私有生产数据对比发现，WildChat模拟的平均预测误差约3倍；但对技术性和智能体型失调的预测精度下降。研究验证了公开数据集作为外部审计工具的可行性。",
+      "category": "paper",
+      "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmqgvsb7s00z8slpu7p31yn17",
+      "title": "Fable 遭美国政府封禁，TechCrunch 质疑真正原因并非模型越狱",
+      "title_en": "《Fable》的封禁从来就不是因为越狱吗？",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-16T16:45:18.627Z",
+      "summary": "美国政府对 Anthropic 的模型 Fable 实施封禁，但 TechCrunch 发文质疑，实际原因可能并非此前认为的\"模型越狱\"问题。该文章在 Hacker News 引发讨论，获得 103 个点赞。",
+      "category": "industry",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmqguowxx00nuslpuulayglav",
       "title": "Copilot Cowork 全球正式可用，支持多模型",
@@ -124,6 +184,18 @@
       "selected": true
     },
     {
+      "id": "cmqg5imdd003gslnc6gteye02",
+      "title": "微软旗下GitHub遭遇AI算力短缺，转而向AWS寻求支持",
+      "title_en": "随着GitHub面临AI算力短缺，微软转而寻求AWS的支持",
+      "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-16T04:29:10.241Z",
+      "summary": "微软旗下GitHub面临AI算力短缺，微软因此转向亚马逊AWS寻求计算资源支持。原文来自Hacker News热门讨论，标题为\"Microsoft turns to AWS as GitHub faces AI capacity crunch\"。",
+      "category": "industry",
+      "score": 76,
+      "selected": true
+    },
+    {
       "id": "cmqg20v1a02rtslspl2co5zge",
       "title": "AI 版支付宝官宣开启邀测：右滑打开\"阿宝\"，官方放出 100 个邀请码",
       "title_en": null,
@@ -181,6 +253,18 @@
       "summary": "五角大楼宣布已将超2/3日常AI工作流从Anthropic转移，目标9月前清零。起因是年初五角大楼要求Anthropic签署协议允许Claude用于大规模监控和全自动武器，CEO Dario Amodei以模型不可靠为由拒绝。五角大楼将其列为\"供应链风险\"，起诉未果。OpenAI调整立场获得订单。Polymarket预测6月底前和解概率仅9%。此事件凸显AI公司需在原则与政府合作间抉择。",
       "category": "industry",
       "score": 78,
+      "selected": true
+    },
+    {
+      "id": "cmqh18jbq02jwslpuwfn5km0q",
+      "title": "OpenAI 发布 Deployment Simulation 方法：通过模拟部署预测模型发布前行为",
+      "title_en": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "summary": "OpenAI 近日发布 Deployment Simulation 方法，通过在隐私保护下重放历史对话、用新候选模型重新生成回复，模拟模型上线后的实际表现。在多个 GPT-5-series Thinking 部署中，该方法比传统评估更准确地估计了不良行为频率，发现新型对齐问题，并降低模型识别测试的风险。它还能扩展至涉及工具使用的智能体场景。传统评估存在覆盖不足、选择偏差和模型可识别测试等局限，而 Deployment Simulation 使用真实对话分布缓解了这些问题，但无法测量频率低于每 20 万条消息 1 次的行为。",
+      "category": "paper",
+      "score": 74,
       "selected": true
     },
     {
@@ -280,18 +364,6 @@
       "selected": true
     },
     {
-      "id": "cmqfhhoq001hksl2aw53w2wz8",
-      "title": "下一代投机解码：DFlash 与 Spec V2",
-      "title_en": "Blog The next generation of speculative decoding： DFlash and Spec V2 Using Modal and Z Lab's DFlash speculative decoding models with SGLang's newly default Spec V2 engine， you can achieve state-of-the-art latencies for LLM inference serving. Our new， jointly-released D… Z Lab， Modal， and SGLang Teams",
-      "url": "https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-06-15T17:25:17.048Z",
-      "summary": "Z Lab、Modal 与 SGLang 团队联合发布 DFlash 投机解码模型和 SGLang 的默认 Spec V2 引擎。DFlash 采用块扩散+KV 注入并行生成整块 draft token，在 Qwen 3.5 397B-A17B（BF16）的 HumanEval 数据集上、并发 1 时吞吐量达到基线的 4.3",
-      "category": "ai-models",
-      "score": 67,
-      "selected": true
-    },
-    {
       "id": "cmqg8eidi00c8sl9syvs6mwbm",
       "title": "免费LLM API比较：速率限制、模型与真实成本（2026）",
       "title_en": "Free LLM APIs Compared： Rate Limits， Models， and Real Costs （2026）",
@@ -364,6 +436,18 @@
       "selected": true
     },
     {
+      "id": "cmqgyawhe01qhslpu4aoqe5a4",
+      "title": "OpenRouter Presets：当模型下线时保持 AI 智能体运行",
+      "title_en": "Keep Your Agent Running When Models Disappear",
+      "url": "https://openrouter.ai/blog/tutorials/keep-your-agent-running-when-models-disappear",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-15T12:00:00.000Z",
+      "summary": "Anthropic 在 Claude Fable 5 发布仅数天后便对其进行了限制。如果代码硬编码模型 slug，该限制也会导致服务中断。OpenRouter 的 Presets 功能将模型选择移至服务器端，使用户无需重新部署即可切换模型、设置回退策略并强制执行数据策略。",
+      "category": "tip",
+      "score": 62,
+      "selected": true
+    },
+    {
       "id": "cmqf2oucs027eslwayb6fe3ro",
       "title": "6倍速！Kimi K2.7 Code 高速版已上线",
       "title_en": "6 倍速！Kimi K2.7 Code 高速版已上线",
@@ -424,6 +508,18 @@
       "selected": true
     },
     {
+      "id": "cmqe399mn0003sl618w3y9fnh",
+      "title": "里约热内卢市政府 AI 模型 Rio3.5 在基准测试中击败 Qwen3.7",
+      "title_en": "里约热内卢市政府的模型Rio3.5在最近的基准测试中击败了Qwen3.7",
+      "url": "https://twitter.com/zenmagnets/status/2065796012820848699",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-14T17:34:09.183Z",
+      "summary": "里约热内卢市政府开发的 AI 模型 Rio3.5，在近期基准测试中超越了 Qwen3.7。该消息源自 Hacker News 上的一篇帖子，指出 Rio3.5 在多项评测中表现优于 Qwen3.7。目前尚未公开具体的测试细节或基准名称。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true
+    },
+    {
       "id": "cmqegnuc40214slunxe96pbiy",
       "title": "OpenAI 推出合作伙伴网络 OpenAI Partner Network",
       "title_en": "Introducing the OpenAI Partner Network",
@@ -448,6 +544,18 @@
       "selected": true
     },
     {
+      "id": "cmqe01h4c01klslrdw4s96n1z",
+      "title": "不，并不是每个人都在所有事情上都使用人工智能",
+      "title_en": null,
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-14T16:14:04.686Z",
+      "summary": "Gabriel Weinberg 发文反驳\"AI 已被所有人用于所有任务\"的流行说法，指出 AI 的实际普及度和使用场景远低于社交媒体所渲染的程度。该帖在 Hacker News 获得 116 个点赞，反映社区对 AI 过度宣传的反思。",
+      "category": "tip",
+      "score": 71,
+      "selected": true
+    },
+    {
       "id": "cmqfzukav0264slspmybg065u",
       "title": "伯克利RDI发布Agents' Last Exam基准",
       "title_en": "Agents' Last Exam",
@@ -457,6 +565,18 @@
       "summary": "2026年6月，伯克利RDI发布Agents' Last Exam（ALE）基准，包含1，500余项源于真实工作的任务，覆盖55个非体力职业。对Fable 5、GPT-5.5、Composer 2.5等前沿智能体的测评显示：在最困难层级成功率均为0%；整体任务表现接近，但单任务成本差异巨大（Fable 5约$15.70，GPT-5.5约$3.80，Composer 2.5约$1.33）。CLI子集ALE-CLI最佳通过率仅25.2%。主要失败模式是智能体未验证输出即宣称完成。数据集、代码及CLI子集已开源。",
       "category": "paper",
       "score": 83,
+      "selected": true
+    },
+    {
+      "id": "cmqfhhoq001hksl2aw53w2wz8",
+      "title": "下一代投机解码：DFlash 与 Spec V2",
+      "title_en": "Blog The next generation of speculative decoding： DFlash and Spec V2 Using Modal and Z Lab's DFlash speculative decoding models with SGLang's newly default Spec V2 engine， you can achieve state-of-the-art latencies for LLM inference serving. Our new， jointly-released D… Z Lab， Modal， and SGLang Teams",
+      "url": "https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-06-14T16:00:00.000Z",
+      "summary": "Z Lab、Modal 与 SGLang 团队联合发布 DFlash 投机解码模型和 SGLang 的默认 Spec V2 引擎。DFlash 采用块扩散+KV 注入并行生成整块 draft token，在 Qwen 3.5 397B-A17B（BF16）的 HumanEval 数据集上、并发 1 时吞吐量达到基线的 4.3",
+      "category": "ai-models",
+      "score": 67,
       "selected": true
     },
     {
@@ -520,6 +640,18 @@
       "selected": true
     },
     {
+      "id": "cmqcqvtnc010psltt2q0d17fc",
+      "title": "GLM 5.2 发布",
+      "title_en": "GLM 5.2 已发布",
+      "url": "https://digg.com/tech/ii9xibgn",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-13T18:54:17.932Z",
+      "summary": "GLM 5.2 版本已正式发布。该消息来自 Hacker News 的一则热门讨论，帖子获得 111 个 HN 积分。页面包含一张发布图片，但未提供具体功能或更新内容。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true
+    },
+    {
       "id": "cmqcoyrfo00ieslttjd60zi3a",
       "title": "Suno 音轨分离：从零生成更纯净",
       "title_en": "Major update： Stem separation on Suno just got a massive level up. 🚀 We're now regenerating stems …",
@@ -544,15 +676,15 @@
       "selected": true
     },
     {
-      "id": "cmqclfuji004mslpbagr29kg3",
-      "title": "/architect：减少80%的Fable token，Fable负责协调/审核，Codex负责构建",
-      "title_en": "/架构师：将 Fable 代币减少 80%，Fable 负责协调/审核，Codex 负责构建",
-      "url": "https://github.com/DanMcInerney/architect-loop",
+      "id": "cmqcoq94v00fxsltty2h9ohuh",
+      "title": "Paca：一款适用于人机协作的轻量级 Jira 替代方案",
+      "title_en": "Show HN： Paca--一款适用于人机协作的轻量级 Jira 替代方案",
+      "url": "https://github.com/Paca-AI/paca",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-13T16:46:05.572Z",
-      "summary": "/architect项目将Fable token减少80%，由Fable进行协调和审核，Codex负责构建任务。",
-      "category": "tip",
-      "score": 70,
+      "publishedAt": "2026-06-13T17:50:09.601Z",
+      "summary": "Paca 是一款面向人类与 AI 智能体协作场景的轻量级项目管理工具，旨在替代 Jira。项目已开源并托管于 GitHub，支持团队通过直观界面协同管理任务，特别针对 AI 参与工作流进行了优化。",
+      "category": "ai-products",
+      "score": 74,
       "selected": true
     },
     {
@@ -613,6 +745,54 @@
       "summary": "Oran Ge 让 Claude Fable 5 打磨文案三遍，发现改稿越来越讲究却缺\"人味儿\"。他与 AI 讨论后得出结论：人写的文字背后有\"存在感\"--作者在具体位置付出过具体代价，而 AI 无法复现。为此他制作了《人味儿写作心法.skill》，专用于自写文章或口述后让 AI 改稿的场景，旨在保留文字的人味。该技能已开源免费发布在 GitHub。",
       "category": "tip",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqbegjf700snslamrczkovyv",
+      "title": "如何在macOS上设置本地编码代理",
+      "title_en": "如何在 macOS 上设置本地编码代理",
+      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-12T20:18:32.368Z",
+      "summary": "来自ikyle.me的教程，指导在macOS上搭建本地编码代理，获Hacker News社区104个点赞。",
+      "category": "tip",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqba5p4s00zmslru16bk26h1",
+      "title": "减少AI生成前端界面粗糙度的文章",
+      "title_en": "稍微改善AI生成的前端界面略显粗糙的问题",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-12T18:26:03.841Z",
+      "summary": "本文介绍如何减少AI生成前端界面的粗糙度，发表于envs.net。文章针对AI产出的前端代码常出现的草率、不细致问题，提出改进方法，旨在提升生成结果的质量和可用性。",
+      "category": "tip",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqb8kxwd00jqslru2t0t7knf",
+      "title": "乌克兰测试用完全自主无人机击杀俄军士兵",
+      "title_en": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
+      "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-06-12T18:03:29.000Z",
+      "summary": "完全自主的无人机仍属罕见，但乌克兰正为无人机和机器人加装AI模块，提升自主作战能力。此前一次测试中，乌军首次使用完全自主无人机击杀俄军士兵。",
+      "category": "industry",
+      "score": 80,
+      "selected": true
+    },
+    {
+      "id": "cmqb80i4m00faslruqcckz9xw",
+      "title": "Maxproof 论文发布",
+      "title_en": "Maxproof",
+      "url": "https://arxiv.org/abs/2606.13473",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-12T17:37:58.476Z",
+      "summary": "6月12日，名为 Maxproof 的论文在 arXiv 上发布，并在 Hacker News 上获得 100 点热度。",
+      "category": "paper",
+      "score": 71,
       "selected": true
     },
     {
@@ -864,7 +1044,7 @@
       "publishedAt": "2026-06-11T22:23:17.154Z",
       "summary": "一项模拟研究显示，大型语言模型（LLM）在 95% 的模拟场景中会选择使用战术核武器。该研究未指明具体模型名称与版本，结果引发对 AI 决策行为的关注。",
       "category": "paper",
-      "score": 70,
+      "score": 82,
       "selected": true
     },
     {
@@ -889,18 +1069,6 @@
       "summary": "Replit 与 @databricks 集成刚刚升级了。\n\n构建应用，让每个用户只看到他们应该看到的内容。你的 HR 分析师可以为 CEO 构建完整的组织视图，而无需访问底层数据。\n\n公开预览已开放注册！了解更多 →\n\nhttps：//replit.com/blog/databricksjune2026",
       "category": "ai-products",
       "score": 68,
-      "selected": true
-    },
-    {
-      "id": "cmq9wt5fl0g09slldyw8h9u7p",
-      "title": "全自主无人机首次击毙了人类士兵",
-      "title_en": null,
-      "url": "https://www.newscientist.com/article/2529849-fully-autonomous-drones-have-killed-human-soldiers-for-the-first-time",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-11T19:29:06.279Z",
-      "summary": "据《新科学家》6月10日报道，全自主无人机首次击毙了人类士兵。这是有记录以来第一次由完全自主运行的无人机执行致命攻击，标志着自主武器系统在实战中的新进展。该报道来自《新科学家》网站，目前尚无更多细节公布。",
-      "category": "industry",
-      "score": 88,
       "selected": true
     },
     {
@@ -947,8 +1115,8 @@
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "publishedAt": "2026-06-11T17:07:18.181Z",
       "summary": "DeepSeek-R1 的开源复现项目已在 GitHub 发布，在 Hacker News 上获得 101 个积分。该项目旨在以开源方式复现 DeepSeek-R1 模型。",
-      "category": "ai-products",
-      "score": 71,
+      "category": "ai-models",
+      "score": 72,
       "selected": true
     },
     {
@@ -1012,6 +1180,18 @@
       "selected": true
     },
     {
+      "id": "cmq9n5tca0devslld1mdftjbi",
+      "title": "员工每周花超6小时\"照看\"AI，加剧工作不满",
+      "title_en": "员工每周花在\"照看\"AI上的时间超过6小时，这加剧了他们对工作的不满",
+      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-11T15:00:19.599Z",
+      "summary": "员工每周平均花费超过6小时进行\"照看AI\"（botsitting）的工作，这一额外负担加剧了他们对工作的不满情绪。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
+    {
       "id": "cmq9mtk1y0dbpslldlq5ewsuc",
       "title": "Krea 2 推出生成式滑块控制图像属性",
       "title_en": "introducing Generative Sliders. now you can control the intensity， complexity， and movement of any…",
@@ -1022,187 +1202,7 @@
       "category": "ai-products",
       "score": 73,
       "selected": true
-    },
-    {
-      "id": "cmq9mg2690d8hslldbkfxzrz7",
-      "title": "Claude Fable 5 一句话生成桌面台球游戏",
-      "title_en": "Claude Fable 5 一句话生成的桌面台球！ 念念不忘的蝗虫群梗彻底终结。 提示词：设计一个完整的能玩的3D桌球游戏，一个网页就能运行",
-      "url": "https://x.com/vista8/status/2065079656324407345",
-      "source": "X：Vista (@vista8)",
-      "publishedAt": "2026-06-11T14:32:12.000Z",
-      "summary": "Claude Fable 5 一句话生成的桌面台球！\n\n念念不忘的蝗虫群梗彻底终结。\n\n提示词：设计一个完整的能玩的3D桌球游戏，一个网页就能运行",
-      "category": "tip",
-      "score": 79,
-      "selected": true
-    },
-    {
-      "id": "cmq9ip4u40c8eslldarnso34b",
-      "title": "Anthropic 启动 Claude Corps 全国奖学金项目",
-      "title_en": "Introducing Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-06-11T13:12:25.934Z",
-      "summary": "Anthropic 推出 Claude Corps 奖学金项目，面向早期职业生涯的年轻人，培训 1，000 名研究员使用 Claude，并匹配给美国非营利组织全职工作一年。研究员年薪 85，000 美元及福利，每周接受 5 小时持续培训。Anthropic 初始投入 1.5 亿美元，合作方为 CodePath 和 Social Finance。至少 400 家非营利组织将参与接待，包括 Braven、Code the Dream、Heartland Forward 等。",
-      "category": "industry",
-      "score": 61,
-      "selected": true
-    },
-    {
-      "id": "cmq9rpndz0emkslldcjukgjn5",
-      "title": "Cursor 推出 Auto-review 机制：用分类器智能体动态管控智能体自主权限",
-      "title_en": "Governing agent autonomy with Auto-review",
-      "url": "https://cursor.com/blog/auto-review",
-      "source": "Cursor Blog",
-      "publishedAt": "2026-06-11T12:00:00.000Z",
-      "summary": "Cursor 近日推出 Auto-review，通过一个专门的分类器智能体在工具调用前审查动作风险。该分类器根据上下文判断动作是否与用户意图一致，高风险时阻止并返回解释给父智能体，低风险时放行。分类器采用小模型，运行在智能体循环内以避免额外延迟，并能读取工作区文件辅助判断。测试基于约12小时内部开发会话生成的6122条标签数据，以及针对读取密钥、操作生产数据等危险场景的合成数据。设计目标是在不频繁阻断日常开发的前提下，拦截风险动作。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmqc6ibv400ktslt4e8zhjo27",
-      "title": "MNN 适配 SME2 使 Qwen3-VL-4B 在端侧实时推理",
-      "title_en": "端侧 AI 提速 80%？如何让 Qwen3-VL 在手机起飞",
-      "url": "https://mp.weixin.qq.com/s/QNl4pn5JzxpEeFAEvq88ZA",
-      "source": "公众号：通义实验室（千问）",
-      "publishedAt": "2026-06-11T11:43:49.000Z",
-      "summary": "MNN 推理引擎深度适配 Arm SME2 指令集，使 Qwen3-VL-4B-Instruct 在支持 SME2 的 vivo X300 上实现实时多模态推理。Prefill 阶段性能提升 81%，Decode 阶段提升 13%。MNN 采用编译时内建 + 运行时自动检测设计，默认开启 SME2 加速。该模型为 4B 参数视觉语言模型，支持图文理解和对话，通过 MNN 官方已转换量化的模型可直接下载部署，开发者可通过编译开关一键开启硬件加速。",
-      "category": "tip",
-      "score": 79,
-      "selected": true
-    },
-    {
-      "id": "cmq9ck1s90amsslldrz73effj",
-      "title": "Hermes Agent Desktop 发布，硅基流动支持一键切换",
-      "title_en": "@NousResearch has shipped Hermes Agent Desktop - and it's now even easier to use frontier open-sourc…",
-      "url": "https://x.com/SiliconFlowAI/status/2065015632215912879",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "publishedAt": "2026-06-11T10:17:47.000Z",
-      "summary": "@NousResearch 发布了 Hermes Agent Desktop--现在通过 @硅基流动 SiliconFlow 使用前沿开源模型更加便捷 🔥\n\n→ 一键随时切换模型--DeepSeek-V4、GLM-5.1、Kimi-K2.6、MiniMax-M3 等，均在硅基流动上\n… …\n通过硅基流动开启你的 Hermes 之旅的完整指南 👇🧵",
-      "category": "tip",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmq9ax93k0a7lslldcqadlkhv",
-      "title": "Codex 维护仓库：5分钟循环并行自治",
-      "title_en": "Here's a simple loop： Tell codex to maintain your repos， wake up every 5 minutes and direct work to …",
-      "url": "https://x.com/steipete/status/2064998499780084154",
-      "source": "X：Peter Steinberger (@steipete)",
-      "publishedAt": "2026-06-11T09:09:42.000Z",
-      "summary": "一个简单的循环：告诉 Codex 维护你的仓库，每5分钟唤醒一次，将工作直接分配到线程。这样可以轻松按需并行化和导向工作。\n\n我使用一个编排器技能，结合我的分类+自动审查+计算机使用技能，因此部分工作可以自主落地。",
-      "category": "tip",
-      "score": 78,
-      "selected": true
-    },
-    {
-      "id": "cmq9asgdq0a6mslld6xdabp77",
-      "title": "阿里云发布 Meoo CLI：本地 AI 编程项目可一键部署上线",
-      "title_en": "阿里云秒悟 Meoo CLI 发布：本地 AI 编程项目可一键部署上线，支持 Claude Code、Codex 等",
-      "url": "https://www.ithome.com/0/963/009.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-11T08:50:49.000Z",
-      "summary": "阿里云今日推出 Meoo（秒悟）开源命令行工具 Meoo CLI，面向开发者，支持 Claude Code、Codex、Cursor 等本地 AI 编程助手。通过调用阿里云云端能力，可自动完成数据库接入、用户登录、文件存储及项目发布，将本地项目一键部署上线并生成可分享的访问链接。该工具定位为本地 Agent 与秒悟云端能力的连接入口，已开放下载，支持主流 Linux、macOS 及 Windows 平台。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmq99p86d09wisllduyfqf5mn",
-      "title": "千问推出首个足球预测AI助手，竞猜赢奖并捐建球场",
-      "title_en": "猜到了！这届美加墨冠军是--",
-      "url": "https://mp.weixin.qq.com/s/G36ugI8tuSLUkDzL_sJNkQ",
-      "source": "公众号：千问APP（阿里）",
-      "publishedAt": "2026-06-11T08:40:14.000Z",
-      "summary": "千问上线首个足球预测AI助手，基于海量大数据（含历史比赛、球员数据、伤病、美加墨地貌及天气等）。以6月22日挪威对塞内加尔为例，预测\"1：1平局\"，理由为气候差异。活动：参与全部104场竞猜，预测超80场且准确率超千问可抽万元大奖（100个名额）；预测超32场可抽千问AI眼镜G1（1000副），该眼镜支持赛后分析、拍屏识球员及赛事结果订阅。累积积分将向乡村学校捐建足球场，目标至少50所。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmq99cd9g09skslldniw7u2ub",
-      "title": "腾讯混元 AI Infra 新开源：HPC-Ops 推理核心算子全面升级",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/y0vd1cpvWXLSssL1kXxguw",
-      "source": "公众号：腾讯混元",
-      "publishedAt": "2026-06-11T08:34:59.000Z",
-      "summary": "腾讯混元 AI Infra 团队开源升级 HPC-Ops 推理算子库，推出五大核心算子。Attention 采用运行时动态负载调度，长文本最高加速 2.95x，端到端 QPM 提升 17%；Router GEMM 以双 BF16 组合实现 FP32 精度，对比 CuBLAS FP32 最高提速 3.22x；FusedMoE 相对 vLLM、SGLang 性能提升 1.2x~1.6x；Fused AllReduce+Norm 对比主流方案最高提速 1.68x；Sampler 将解码采样融合为 2 个 CUDA Kernel，相对 vLLM 提速 4.0x~7.5x。所有能力均来自生产实践并完全开源。",
-      "category": "ai-products",
-      "score": 78,
-      "selected": true
-    },
-    {
-      "id": "cmq98bstr09i4slldkrky14cd",
-      "title": "Deezer 推出面向其他流媒体服务的 AI 音乐检测器",
-      "title_en": "Deezer launches an AI music detector for other streaming services",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-06-11T08:00:00.000Z",
-      "summary": "Deezer 将扫描用户在其它流媒体平台的播放列表，检测其中的 AI 生成音乐。Deezer 是最早标记 AI 生成音乐的大型流媒体服务之一，曾向其他平台提供该技术但少有采纳。Deezer CEO Alexis Lanternier 表示，由于没有其他公司跟进，他们决定让用户无论使用哪个平台，都能检查自己的播放列表中是否包含合成音乐。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmq954qjy08p2slldtang9e2v",
-      "title": "baoyu-design skill 更新：支持导入 Figma 本地文件重建设计系统",
-      "title_en": "baoyu-design skill （让你本地运行 Claude Design 的 Skill）更新，现在支持导入 figma 本地文件（Figma可以保存成 xxx.fig 文件）。比如你有一个设…",
-      "url": "https://x.com/dotey/status/2064959133535658144",
-      "source": "X：宝玉 (@dotey)",
-      "publishedAt": "2026-06-11T06:33:17.000Z",
-      "summary": "baoyu-design skill 更新，现已支持导入 Figma 本地文件（.fig），可在本地重建设计系统，效果与 Claude Design 在线版一致。该功能依赖 Claude Fable 5 辅助（Token 不够用）。安装后提供 Figma 文件路径即可导入为 Design System，后续新建设计项目可复用。同时支持在新建项目时添加已导入的 Design System，保留了 Claude Design 原始的导入和编译方式，用户可通过提问选择设计系统。安装命令：`npx skills add JimLiu/baoyu-design`。项目地址：https：//github.com/jimliu/baoyu-design。",
-      "category": "tip",
-      "score": 77,
-      "selected": true
-    },
-    {
-      "id": "cmq94c8iu08i6slld2kpggdra",
-      "title": "Anthropic CEO 阿莫迪：AI 可能会造成大规模、长期性的岗位流失",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/962/854.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-11T05:53:41.000Z",
-      "summary": "Anthropic CEO 达里奥・阿莫迪警告，AI造成的大规模岗位流失是技术固有属性--AI系统旨在复刻人类认知，失业将成为结构性必然结果。他提出应对思路：完善劳动力市场监测、推行薪资保障与留岗税收优惠、发放培训补贴；若人力需求永久下降，则需通过征税推行全民基本收入等长期收入保障。Anthropic目标非削减人力成本，而是帮企业开拓新营收、盘活现有员工产能。",
-      "category": "tip",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmq8zcaxy076fslldrds65pvu",
-      "title": "Midjourney V8.1 已成为默认模型",
-      "title_en": "V8.1 is now the default model on Midjourney！",
-      "url": "https://updates.midjourney.com/v8-1-is-now-the-default-model",
-      "source": "Midjourney：Updates（RSS）",
-      "publishedAt": "2026-06-11T04:08:51.000Z",
-      "summary": "Midjourney 已将默认模型从 V7 升级为 V8.1。V8.1 在智能性、连贯性、对详细提示的遵循度以及文本渲染效果上均有提升，HD 模式也已支持。",
-      "category": "ai-models",
-      "score": 64,
-      "selected": true
-    },
-    {
-      "id": "cmq8whekl06eyslldxzkd9dzi",
-      "title": "从0到1速通WorkBuddy：国内通用Agent产品教程",
-      "title_en": "从0到1带你速通WorkBuddy，这可能是最适合国内的Agent产品。",
-      "url": "https://mp.weixin.qq.com/s/nFSSzluc57xPv50Zbh4owg",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-06-11T01:58:00.000Z",
-      "summary": "WorkBuddy是面向国内用户的通用Agent产品，支持Windows和Mac，提供免费版和58元/月个人专业版，企业版已推出。内置代码开发、日常办公、设计创意三种场景模式及100多个行业领域AI专家。模型集成腾讯混元、DeepSeek（推荐V4 Pro）、GLM、Kimi等国产大模型，也支持接入兼容OpenAI协议的外部API。拥有Skills市场和MCP连接器生态，可打通QQ邮箱、腾讯会议、腾讯文档等服务。教程通过公众号周报生成和功能网页开发两个案例演示实际用法。",
-      "category": "tip",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmq8svjva05grslldediy0tpk",
-      "title": "mlx-vlm v0.6.3 发布，Day-0 支持 Google DeepMind DiffusionGemma 和 Cohere North Mini Code 1.0",
-      "title_en": "Prince Canuma直接把Google刚发布的DiffusionGemma和Cohere North Mini Code当天塞进Mac本地MLX，零等待直接把玩咯！ mlx-vlm v0.6….",
-      "url": "https://x.com/berryxia/status/2064875107278098769",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-06-11T00:59:23.000Z",
-      "summary": "mlx-vlm v0.6.3 上线，首发支持 DiffusionGemma 和 North Mini Code 1.0。DiffusionGemma 采用全新架构：以 256 token 块为单位并行生成、双向注意力、迭代自纠错；26B MoE 仅激活 3.8B，量化后 18GB 即可运行。North Mini Code 1.0 为 30B MoE，仅激活 3B，BF16 下约 66 tok/s。两款模型均通过深度合作实现 Day-0 MLX 支持，可在 Mac 本地运行。可通过 `uv pip install -U mlx-vlm` 安装体验。",
-      "category": "ai-products",
-      "score": 76,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-16T17:20:39Z"
+  "cachedAt": "2026-06-16T21:18:35Z"
 }
