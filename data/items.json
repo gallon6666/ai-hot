@@ -1,8 +1,92 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMTM2MDAwMDAwLCJpIjoiY21xOXA1d2N2MGR5YXNsbGQ2cG5tMW56eSJ9",
+  "nextCursor": "eyJhIjoxNzgxMTM5NTYzMDAwLCJpIjoiY21xOHN2anZhMDVncnNsbGRlZGl5MHRwayJ9",
   "items": [
+    {
+      "id": "cmqguowxx00nuslpuulayglav",
+      "title": "Copilot Cowork 全球正式可用，支持多模型",
+      "title_en": "Copilot Cowork is now generally available worldwide， now with multi-model support！ Every organizati…",
+      "url": "https://x.com/satyanadella/status/2066911399494963335",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "publishedAt": "2026-06-16T15:50:53.000Z",
+      "summary": "Copilot Cowork 现已全球正式可用，并支持多模型！\n每个组织都可以让长期运行的智能体处理复杂的多步骤任务，基于你组织的独特知识和专有技术。 https：//www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/？v=15",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqgq6dmf01zlslic1ulg3iq5",
+      "title": "马斯克：AI将达Stockfish级编码",
+      "title_en": "AI will achieve Stockfish-level coding and generalized computer use",
+      "url": "https://x.com/elonmusk/status/2066880262668247091",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-06-16T13:47:10.000Z",
+      "summary": "AI 将实现 Stockfish 级别的编码和通用计算机使用",
+      "category": "industry",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqgqp9qb0269sliczlncs17a",
+      "title": "小米 MiMo Claw 正式版发布：旗舰模型+金山办公，全新订阅服务上线",
+      "title_en": "Xiaomi MiMo Claw 正式版|旗舰模型+金山办公，全新订阅服务上线",
+      "url": "https://mp.weixin.qq.com/s/N5ac768a8LkhEjOVpkR1dQ",
+      "source": "公众号：小米 MiMo",
+      "publishedAt": "2026-06-16T13:32:48.000Z",
+      "summary": "小米推出云端轻量化 Claw 类产品 MiMo Claw 正式版，搭载与 OpenClaw 框架深度适配的 MiMo-V2.5-Pro 旗舰模型。该模型原生兼容 MCP 工具调用协议，内置百万级超长上下文，支持单会话千次以上连续工具调用；依托 MTP 三层解码架构，在 OpenClaw 标准 Agent 工作流中吞吐效率提升约 3 倍。ClawEval 测试中任务达标率（Pass3）达 63.8%，Token 消耗较同类产品降低 40%-60%。联动金山办公生态，提供 Word、Excel、PPT、PDF 等格式的 AI 生成、预览与在线编辑一站式服务。免费用户每日单次体验时长从1小时升级至4小时，面向高频用户推出 TokenPlan 分层订阅（Lite/Standard/Pro/Max），支持灵活叠加，限时定价14.9元/月、19.9元/月、233.8元/年。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true
+    },
+    {
+      "id": "cmqgoj9yu01lfslicukhmblfb",
+      "title": "美国司法部援引国家安全为xAI未经许可的燃气轮机辩护",
+      "title_en": "DOJ invokes national security to defend xAI's unpermitted gas turbines in NAACP lawsuit",
+      "url": "https://the-decoder.com/doj-invokes-national-security-to-defend-xais-unpermitted-gas-turbines-in-naacp-lawsuit",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-06-16T13:23:33.000Z",
+      "summary": "美国司法部在一份驳回诉讼的动议中称，xAI的聊天机器人Grok对军事行动至关重要，以此为其在密西西比州Southaven的Colossus 2设施运行未经许可的燃气轮机辩护。NAACP已提起诉讼，指控xAI的燃气轮机数量从4月的27台增至57台，导致氮氧化物排放飙升111%。国防部首席数字与人工智能官Cameron Stanley表示，Grok是支持机密和绝密网络军事任务的四款AI模型之一，包括近期针对伊朗的打击。",
+      "category": "industry",
+      "score": 80,
+      "selected": true
+    },
+    {
+      "id": "cmqgo34he01ftslic80znicuh",
+      "title": "2025年OpenAI亏损额激增近8倍，支出高达340亿美元",
+      "title_en": null,
+      "url": "https://www.wheresyoured.at/exclusive-openai-financials",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-16T13:01:23.690Z",
+      "summary": "据Hacker News热门文章，OpenAI在2025年亏损额激增近8倍，年度总支出达到340亿美元。原文来自wheresyoured.at的独家财务分析报道，该信息在Hacker News上获得超过100个点赞。",
+      "category": "industry",
+      "score": 78,
+      "selected": true
+    },
+    {
+      "id": "cmqgok4my01llslicf5vi10lj",
+      "title": "WorkBuddy日活飙升至行业第二的3-4倍，非技术用户涌入",
+      "title_en": "聊聊这个可能被大家低估的Agent场景。",
+      "url": "https://mp.weixin.qq.com/s/iAgbUzPrsbpqvu4s2XiH0g",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-06-16T12:42:11.000Z",
+      "summary": "从3月至今，WorkBuddy日活用户数已达行业第二名的3-4倍，用户不再限于开发者，大量HR、运营、行政等非技术岗位也在使用。其企业版和项目功能进一步扩展了Agent办公场景。同期，Trae Work、QoderWork、Kimi Work等产品纷纷改名或出新，争夺市场。腾讯云认为这可能是十年一遇的机遇。",
+      "category": "tip",
+      "score": 67,
+      "selected": true
+    },
+    {
+      "id": "cmqgkvm4200l7slicgdylqprd",
+      "title": "SpaceX 以 600 亿美元股票收购 AI 编程公司 Cursor",
+      "title_en": "SpaceX to acquire Cursor for $60B in stock， days after blockbuster IPO",
+      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-16T11:21:41.000Z",
+      "summary": "SpaceX 在历史性 IPO 数天后，同意以 600 亿美元股票收购 AI 编程初创公司 Cursor，旨在帮助其围绕 xAI 构建的 AI 部门追赶主要 AI 实验室。此前 Cursor 正接近完成一轮 20 亿美元融资，估值 500 亿美元，投资方包括 Andreessen Horowitz、Thrive 和 Nvidia。SpaceX 在 IPO 期间向投资者表示，其 AI 产品可寻址市场达 26 万亿美元。交易预计于今年第三季度完成。",
+      "category": "industry",
+      "score": 74,
+      "selected": true
+    },
     {
       "id": "cmqggy29t00gaslevgnwfv3sl",
       "title": "DeepSeek 完成首轮外部融资，估值超 500 亿美元",
@@ -64,18 +148,6 @@
       "selected": true
     },
     {
-      "id": "cmqfzukav0264slspmybg065u",
-      "title": "伯克利RDI发布Agents' Last Exam基准",
-      "title_en": "Agents' Last Exam",
-      "url": "https://rdi.berkeley.edu/blog/agents-last-exam",
-      "source": "Berkeley RDI：Blog（AI 安全与评测）",
-      "publishedAt": "2026-06-16T01:59:10.841Z",
-      "summary": "2026年6月，伯克利RDI发布Agents' Last Exam（ALE）基准，包含1，500余项源于真实工作的任务，覆盖55个非体力职业。对Fable 5、GPT-5.5、Composer 2.5等前沿智能体的测评显示：在最困难层级成功率均为0%；整体任务表现接近，但单任务成本差异巨大（Fable 5约$15.70，GPT-5.5约$3.80，Composer 2.5约$1.33）。CLI子集ALE-CLI最佳通过率仅25.2%。主要失败模式是智能体未验证输出即宣称完成。数据集、代码及CLI子集已开源。",
-      "category": "paper",
-      "score": 83,
-      "selected": true
-    },
-    {
       "id": "cmqfzvk1h026rslspuhwh30px",
       "title": "教育部\"阳光志愿\"信息服务系统全新升级上线：智能筛选志愿，数据权威可信",
       "title_en": null,
@@ -109,6 +181,18 @@
       "summary": "五角大楼宣布已将超2/3日常AI工作流从Anthropic转移，目标9月前清零。起因是年初五角大楼要求Anthropic签署协议允许Claude用于大规模监控和全自动武器，CEO Dario Amodei以模型不可靠为由拒绝。五角大楼将其列为\"供应链风险\"，起诉未果。OpenAI调整立场获得订单。Polymarket预测6月底前和解概率仅9%。此事件凸显AI公司需在原则与政府合作间抉择。",
       "category": "industry",
       "score": 78,
+      "selected": true
+    },
+    {
+      "id": "cmqguqu9r00rqslpuu5cpfao3",
+      "title": "Grok for PowerPoint 发布：在 Microsoft PowerPoint 内直接生成和编辑幻灯片",
+      "title_en": "Grok for PowerPoint Jun 16， 2026 # Grok for PowerPoint Grok now works inside Microsoft PowerPoint - turn outlines into slides， expand the deck， and tighten the narrative without leaving the app. Read More",
+      "url": "https://x.ai/news/introducing-powerpoint-addin",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "summary": "xAI 于 6 月 16 日发布 Grok for PowerPoint，作为免费 Microsoft 365 插件上线。用户无需离开应用即可利用 Grok 将大纲转为完整幻灯片，进行内容研究、撰写、排版，并支持添加单张幻灯片、调整样式主题、重构章节。插件还能调用 Grok 连接器，从邮件或 SharePoint 中获取信息。该插件同样适用于 Word 和 Excel。",
+      "category": "ai-products",
+      "score": 64,
       "selected": true
     },
     {
@@ -361,6 +445,18 @@
       "summary": "白宫周五做出的AI监管决定被指偏袒OpenAI、亚马逊等企业，同时对Anthropic施压不足24小时，缺乏透明度和事实依据。Gary Marcus、Dean W Ball及卡托研究所Kevin Frazier等专家指出，这种由少数人闭门快速决策的做法带有腐败嫌疑，可能促使其他国家加速发展\"主权AI\"甚至中国AI，并导致美国人才流失。Anthropic声明称政府应在法定程序中基于技术事实阻止不安全部署，而非当前方式。Marcus呼吁建立独立机构负责AI监管，确保公平、清晰、基于证据的执行。",
       "category": "tip",
       "score": 65,
+      "selected": true
+    },
+    {
+      "id": "cmqfzukav0264slspmybg065u",
+      "title": "伯克利RDI发布Agents' Last Exam基准",
+      "title_en": "Agents' Last Exam",
+      "url": "https://rdi.berkeley.edu/blog/agents-last-exam",
+      "source": "Berkeley RDI：Blog（AI 安全与评测）",
+      "publishedAt": "2026-06-14T16:00:00.000Z",
+      "summary": "2026年6月，伯克利RDI发布Agents' Last Exam（ALE）基准，包含1，500余项源于真实工作的任务，覆盖55个非体力职业。对Fable 5、GPT-5.5、Composer 2.5等前沿智能体的测评显示：在最困难层级成功率均为0%；整体任务表现接近，但单任务成本差异巨大（Fable 5约$15.70，GPT-5.5约$3.80，Composer 2.5约$1.33）。CLI子集ALE-CLI最佳通过率仅25.2%。主要失败模式是智能体未验证输出即宣称完成。数据集、代码及CLI子集已开源。",
+      "category": "paper",
+      "score": 83,
       "selected": true
     },
     {
@@ -1106,103 +1202,7 @@
       "category": "ai-products",
       "score": 76,
       "selected": true
-    },
-    {
-      "id": "cmq8qsjfr04wqslld2epey16c",
-      "title": "在写完这篇文章后 我把配图过程蒸馏成了一个「橙线插画」Skill 免费开源 安装地址： https：//github.com/orange2ai/orange-line-illustration",
-      "title_en": null,
-      "url": "https://x.com/oran_ge/status/2064861625883222114",
-      "source": "X：Oran Ge (@oran_ge)",
-      "publishedAt": "2026-06-11T00:05:49.000Z",
-      "summary": "在写完这篇文章后\n我把配图过程蒸馏成了一个「橙线插画」Skill\n\n免费开源\n安装地址：\nhttps：//github.com/orange2ai/orange-line-illustration\n\n【引用 @oran_ge】：http：//x.com/i/article/2064857003743391744",
-      "category": "tip",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmqfluk3b000cslb84hcz4xcd",
-      "title": "对抗性重新包装：仅修改呈现层即可欺骗AI同行评审",
-      "title_en": "No Hidden Prompts Needed！ You Can Game AI Peer Review with Presentation-Only Revisions",
-      "url": "https://arxiv.org/abs/2606.13044",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "summary": "研究提出对抗性重新包装攻击，在不改动科学证据（方法、实验、数据等）的前提下，仅修改摘要、贡献定位、相关工作、讨论和叙事结构等呈现层内容，并利用AI审稿人反馈进行闭环搜索。在三种主流AI审稿系统上，攻击成功率达75.1%，平均得分提高+1.21/10。策略中，相关工作重定位和分析性讨论扩展等结构性改动效果显著优于表面编辑。分析揭示两种失败模式：AI审稿人更易被亮点打动而非被说服，且会将\"看起来解决了限制\"与\"实际解决\"相混淆。研究发布了无污染滚动基准和攻击框架用于测试内容锚定性。",
-      "category": "paper",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmqap4xzd0njdsllde7pwfwe3",
-      "title": "HYDRA-X： 原生统一多模态模型与整体视觉分词器",
-      "title_en": "HYDRA-X： Native Unified Multimodal Models with Holistic Visual Tokenizers",
-      "url": "https://arxiv.org/abs/2606.13289",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "summary": "HYDRA-X 是首个在单个 Vision Transformer （ViT） 中统一图像与视频 tokenization 的统一多模态模型。通过帧级因果时间注意力实现视觉重建，并采用层级时间压缩替代单步压缩。轻量级解压器在联合图像-视频教师监督下上采样时间压缩特征。编辑管线中，源-目标交互在分词器内部潜在层面而非 LLM 语义层面进行，提升编辑一致性与收敛速度。7B 密集模型在图像与视频理解及生成任务上表现强劲。",
-      "category": "paper",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmqaipftg0ltyslldbhrdenba",
-      "title": "MiniMax Sparse Attention（MSA）块状稀疏注意力",
-      "title_en": "MiniMax Sparse Attention",
-      "url": "https://arxiv.org/abs/2606.13392",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "summary": "MiniMax 提出块状稀疏注意力 MSA，基于 GQA 构建。轻量级 Index Branch 为每个 GQA 组独立选择 Top-k KV 块，Main Branch 仅对选中块执行精确块稀疏注意力。在 109B 参数多模态模型上，MSA 与 GQA 性能持平，1M 上下文下每 token 注意力计算减少 28.4 倍。配合协同设计的 GPU 内核，H800 上实现 14.2 倍 prefill 和 7.6 倍 decoding 端到端加速。推理内核与基于 MSA 的多模态模型已公开发布。",
-      "category": "paper",
-      "score": 77,
-      "selected": true
-    },
-    {
-      "id": "cmqac9xug0k4rslldyycltabh",
-      "title": "EurekAgent：环境工程化实现自主科学发现",
-      "title_en": "EurekAgent： Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
-      "url": "https://arxiv.org/abs/2606.13662",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "summary": "EurekAgent 是一个环境工程化的大语言模型智能体系统，专为度量驱动的自主科学发现设计。它从权限工程（可控执行与隔离评估）、产物工程（文件系统与 Git 协作）、预算工程（成本感知探索）和人在回路工程（简便监督干预）四个维度构建执行环境。EurekAgent 在数学、内核工程和机器学习任务上取得新 SOTA，包括以不到 11 美元总 API 成本发现新的 26 圆填充结果。代码与结果已开源。",
-      "category": "paper",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmqac9xuf0k4pslld3pzhn7m3",
-      "title": "WEAVER：一种更优、更快、更长的机器人操作世界模型",
-      "title_en": "WEAVER， Better， Faster， Longer： An Effective World Model for Robotic Manipulation",
-      "url": "https://arxiv.org/abs/2606.13672",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "summary": "WEAVER是一种多视图世界模型架构，通过流匹配损失训练预测未来潜变量和奖励值，满足保真度、一致性和效率三个要求。在机器人操作任务上，WEAVER在政策评估中与真实成功率的相关系数ρ=0.870，在π0.5基础模型基础上实现政策改进成功率提升38%，测试时规划成功率提升14%，且速度比先前世界模型快5-10倍。在分布外场景下表现也优于先前世界模型。代码、模型和视频已开源。",
-      "category": "paper",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmq9q3mrj0e8jslld20gniuzv",
-      "title": "OpenAI 将收购 Ona",
-      "title_en": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "summary": "OpenAI 计划收购 Ona，以拓展 Codex 的功能，提供安全、持久的云端环境，从而支持企业工作流中长时间运行的 AI 智能体。",
-      "category": "industry",
-      "score": 61,
-      "selected": true
-    },
-    {
-      "id": "cmq9p5wcv0dyaslld6pnm1nzy",
-      "title": "xAI 推出 Grok Build Plugin Marketplace",
-      "title_en": "Grok Build Plugin Marketplace Jun 11， 2026 # Grok Build Plugin Marketplace Launching the built-in plugin marketplace for Grok Build. Read More",
-      "url": "https://x.ai/news/grok-plugin-marketplace",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-06-11T00:00:00.000Z",
-      "summary": "xAI 今日发布 Grok Build 内置插件市场。插件将技能、斜杠命令、AI 智能体、钩子、MCP 服务器和 LSP 打包为可安装包，用户无需离开终端即可浏览、安装和更新。首发合作伙伴包括 MongoDB、Vercel、Sentry、Chrome DevTools、Cloudflare 和 Superpowers。在 Grok Build 中输入 `/marketplace` 或使用 CLI 即可安装，每个远程插件均固定到特定 commit SHA 并经过验证。开发者可提交 PR 到 xai-org/plugin-marketplace 发布自己的插件。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-16T11:33:13Z"
+  "cachedAt": "2026-06-16T17:20:39Z"
 }
