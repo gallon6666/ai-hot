@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMTE3NzAzMDAwLCJpIjoiY21xOGZ3N2U4MDIzeHNsbGRnaWZia2tjMiJ9",
+  "nextCursor": "eyJhIjoxNzgxMTM2MDAwMDAwLCJpIjoiY21xOXA1d2N2MGR5YXNsbGQ2cG5tMW56eSJ9",
   "items": [
+    {
+      "id": "cmqggy29t00gaslevgnwfv3sl",
+      "title": "DeepSeek 完成首轮外部融资，估值超 500 亿美元",
+      "title_en": "DeepSeek takes outside money for the first time at a $50 billion valuation",
+      "url": "https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-06-16T09:40:48.000Z",
+      "summary": "中国 AI 初创公司 DeepSeek 完成首轮外部融资，募资超 500 亿元人民币（约 74 亿美元），估值超 500 亿美元。投资结构特殊：多数投资者将资金投入 CEO 梁文锋管理的有限合伙企业，无投票权且锁定期五年；仅国资 AI 基金直接投资并保留投票权。创始人梁文锋个人投入约 200 亿元，腾讯和宁德时代为主要外部投资者。梁文锋表示优先基础 AI 研究与 AGI 开发，将继续开源。DeepSeek 去年初凭 V3、R1 模型获全球关注，今年 4 月发布运行于华为芯片的最大开源权重模型 V4，并将 V4 Pro 永久折扣 75%，输入价格约为 OpenAI GPT-5.5 的 1/11，输出价格约为 1/35。",
+      "category": "industry",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqge6m08007fslmsro38gcnl",
+      "title": "Google Cloud 推出 OKF v0.1：供应商中立的 Markdown 规范，为 AI 智能体提供结构化上下文",
+      "title_en": "Google Cloud Introduces Open Knowledge Format （OKF）： A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context",
+      "url": "https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-06-16T08:18:58.000Z",
+      "summary": "Google Cloud 发布 Open Knowledge Format （OKF） v0.1，一种供应商中立的 Markdown 规范，为 AI 智能体提供结构化上下文知识。OKF 将知识表示为带 YAML 前置元数据的 markdown 文件目录，每个概念对应一个文件，通过 `type`、`title`、`description` 等少量保留字段实现互操作。无需专有服务、SDK 或运行时，目录可托管在 GitHub、以 tarball 传输或挂载到任意文件系统。OKF 旨在解决组织内部知识碎片化问题--表结构、指标定义、runbook 等散落在不同 catalog 和 wiki 中，各厂商方案互不兼容。遵循最少意见原则，只强制 `type` 字段，生产者和消费者可独立实现。使用场景包括数据团队将 BigQuery 表定义导出为代码、为智能体存储 incident runbook、跨组织知识交换等。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmqgas9pf00yjsl9spz4fexrr",
+      "title": "Cartesia 发布 Sonic 3.5 与 Ink 2 实时语音模型",
+      "title_en": "Cartesia shipped Sonic 3.5 and Ink 2， two models built to run as a single real-time voice stack， wit…",
+      "url": "https://x.com/testingcatalog/status/2066773392527655252",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-06-16T06:42:30.000Z",
+      "summary": "Cartesia 推出 Sonic 3.5 和 Ink 2 两个模型，作为单一实时语音栈，分别负责文本转语音和语音转文本。Ink 2 在 Artificial Analysis 的流式语音转文字排行榜上排名第一。Sonic 3.5 在实时文本转语音中位列榜首，首音频延迟约 82ms。Cartesia 成为目前唯一同时拥有 #1 听与说模型的提供商。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmqg20v1a02rtslspl2co5zge",
       "title": "AI 版支付宝官宣开启邀测：右滑打开\"阿宝\"，官方放出 100 个邀请码",
@@ -169,6 +205,30 @@
       "summary": "Z Lab、Modal 与 SGLang 团队联合发布 DFlash 投机解码模型和 SGLang 的默认 Spec V2 引擎。DFlash 采用块扩散+KV 注入并行生成整块 draft token，在 Qwen 3.5 397B-A17B（BF16）的 HumanEval 数据集上、并发 1 时吞吐量达到基线的 4.3",
       "category": "ai-models",
       "score": 67,
+      "selected": true
+    },
+    {
+      "id": "cmqg8eidi00c8sl9syvs6mwbm",
+      "title": "免费LLM API比较：速率限制、模型与真实成本（2026）",
+      "title_en": "Free LLM APIs Compared： Rate Limits， Models， and Real Costs （2026）",
+      "url": "https://openrouter.ai/blog/tutorials/free-llm-apis-compared",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-15T17:00:00.000Z",
+      "summary": "13个平台提供免费LLM API，含永久免费层与试用额度。OpenRouter拥有20+免费模型，单密钥无需信用卡；Groq以约320 tokens/秒运行Llama 3.3 70B；Google AI Studio支持1M上下文；Mistral实验层约10亿token/月但需同意数据训练；Cerebras约1M token/天；GitHub Models提供GPT-4o、Claude 3.5 Sonnet等前沿模型。各免费层有速率限制、数据训练授权、上下文缩减等隐藏成本，建议早期测试2-3个方案并设置故障转移。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqg8eidi00c9sl9sb4cjwewg",
+      "title": "智能体AI治理：你的API密钥就是护栏",
+      "title_en": "Agentic AI Governance： Your API Key Is a Guardrail",
+      "url": "https://openrouter.ai/blog/insights/agentic-ai-governance",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-15T16:00:00.000Z",
+      "summary": "智能体AI使用量将在未来两年急剧上升，但治理滞后--仅五分之一企业拥有成熟治理模型。典型事故：销售智能体重试失败调用后自行升级到GPT-5.5，一夜消耗200美元。API路由层位于智能体与模型之间，是强制执行预算上限、模型白名单、提供方准入和请求日志的理想点。IBM报告指出97%遭遇AI安全事件的组织缺乏AI访问控制。最小可行治理方案：为每个智能体工作流分配独立API密钥，在API密钥层面实现预算控制、模型准入和审计追踪。",
+      "category": "tip",
+      "score": 68,
       "selected": true
     },
     {
@@ -400,18 +460,6 @@
       "selected": true
     },
     {
-      "id": "cmqca4a1900uxsl9izm7hb426",
-      "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
-      "title_en": "Global Capitalism Bets It All on AI Future That Alarms Voters",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-13T11:00:00.000Z",
-      "summary": "Anthropic，这家估值达 9650 亿美元的 AI 巨头、史上增长最快的初创公司之一，在秘密提交 IPO 申请后，再次投下重磅炸弹。",
-      "category": "industry",
-      "score": 77,
-      "selected": true
-    },
-    {
       "id": "cmqc5usi000cbslt49vfrpgge",
       "title": "谷歌Android安全负责人因反对军事AI合作辞职",
       "title_en": "谷歌抛弃\"不作恶\"承诺：Android 安全主管因军事 AI 合作愤而辞职，控诉公司丧失道德底线",
@@ -457,18 +505,6 @@
       "summary": "SemiAnalysis 购买了 Anthropic 和 OpenAI 的全部订阅方案，模拟高强度编码任务直至触及每周上限。月费 200 美元的 Claude Max 20x 方案，按 API 价格换算最高可消耗约值 8000 美元的 token；ChatGPT Pro 20x 方案对应最高约值 14000 美元的 token。用户通过订阅可获取 40 至 70 倍的 API 价值，该机构指出这种价格体系在重度用户持续榨满上限后可能难以长期维持。",
       "category": "tip",
       "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmqbnjbai034islame1d5jkaf",
-      "title": "OpenAI 遭多州总检察长联合调查",
-      "title_en": "OpenAI Probed by Coalition of State Attorneys General",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-13T00:27:02.000Z",
-      "summary": "OpenAI 正被一个由多州总检察长组成的联盟调查，该联盟已向这家人工智能公司索取涵盖广泛主题的信息。",
-      "category": "industry",
-      "score": 72,
       "selected": true
     },
     {
@@ -1024,18 +1060,6 @@
       "selected": true
     },
     {
-      "id": "cmq958epc08qasllddc5u86n8",
-      "title": "AI浪潮引发中国担忧：官媒呼吁保护劳动者权益",
-      "title_en": "AI Wave Sparks Alarm in China With Call to Protect Worker Rights",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-11/ai-wave-sparks-alarm-in-china-with-call-to-protect-worker-rights",
-      "source": "Bloomberg：Technology（RSS）",
-      "publishedAt": "2026-06-11T06:19:13.000Z",
-      "summary": "中国工作场所快速采用人工智能，引发官媒异常直白地呼吁保护劳工权利。北京正在考虑如何控制这项新技术带来的风险。",
-      "category": "industry",
-      "score": 71,
-      "selected": true
-    },
-    {
       "id": "cmq94c8iu08i6slld2kpggdra",
       "title": "Anthropic CEO 阿莫迪：AI 可能会造成大规模、长期性的岗位流失",
       "title_en": null,
@@ -1178,31 +1202,7 @@
       "category": "ai-products",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmq8gzpbb02egslld4b5zy63k",
-      "title": "MiniMax M3 上链 0G，限时免费运行",
-      "title_en": "M3 on-chain with @0G_labs . verifiable + private compute， and it's free to run June 15-18",
-      "url": "https://x.com/MiniMax_AI/status/2064791800884363286",
-      "source": "X：MiniMax (@MiniMax_AI)",
-      "publishedAt": "2026-06-10T19:28:21.000Z",
-      "summary": "M3 在 @0G_labs 上链。\n\n可验证 + 私有计算，6 月 15-18 日免费运行。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmq8fw7e8023xslldgifbkkc2",
-      "title": "Anthropic CEO Dario Amodei 发文呼吁缩小AI政策差距",
-      "title_en": "AI is advancing at a pace our policymaking institutions were never built for-and the gap between the…",
-      "url": "https://x.com/AnthropicAI/status/2064783418844762489",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-06-10T18:55:03.000Z",
-      "summary": "Anthropic CEO Dario Amodei 今日发布新文《Policy on the AI Exponential》，指出AI发展极快，远超现有政策制定流程的应对能力。文章阐述了当前技术所处阶段，并列举缩小这一差距所需的行动。Anthropic 同步宣布启动三项新举措，以支持其CEO提出的框架。",
-      "category": "tip",
-      "score": 81,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-16T05:30:56Z"
+  "cachedAt": "2026-06-16T11:33:13Z"
 }
