@@ -1,8 +1,92 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMjIzMzA3MDAwLCJpIjoiY21xYTdiejJnMGl0YnNsbGQwZjRybHVoayJ9",
+  "nextCursor": "eyJhIjoxNzgxMjU4NDAwMDAwLCJpIjoiY21xYjZicndpMDAwOHNsNXY5ODFnc2QxMCJ9",
   "items": [
+    {
+      "id": "cmqiakygm075xslf0a7v3eqfl",
+      "title": "NVIDIA GEAR实验室发布ENPIRE：8个Codex智能体自主控制机器人完成物理实验",
+      "title_en": "I made Physical AutoResearch sound simple （conceptually）， but it took a village to pull off and lots…",
+      "url": "https://x.com/DrJimFan/status/2067283904986517866",
+      "source": "X：Jim Fan (@DrJimFan)",
+      "publishedAt": "2026-06-17T16:31:05.000Z",
+      "summary": "NVIDIA GEAR实验室推出ENPIRE系统，首次实现物理世界自主研究。系统让8个Codex智能体控制8台机器人，配备GPU和token预算。安全方面采用硬运动极限切断和扭矩受限夹爪两层硬件保障，支持通宵无人运行。奖励函数通过视觉分类器离线固定并冻结，防止智能体作弊。实时监测机器人利用率（MRU）、token利用率（MTU）和GPU利用率，以Tokens-to-Success和Time-to-Success评估效率。ENPIRE自主完成扎带、整理细针、安装GPU等高精度任务，发现8机器人并行探索显著更快。系统将开源。",
+      "category": "paper",
+      "score": 81,
+      "selected": true
+    },
+    {
+      "id": "cmqiah1xh073zslf07pwru4ui",
+      "title": "Google发布99美元Gemini智能音箱",
+      "title_en": "Google bets on Gemini to reinvent the smart home speaker",
+      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-17T16:30:09.000Z",
+      "summary": "Google推出首款专为Gemini打造的智能音箱Google Home Speaker，售价99.99美元。支持自然语言请求和多步指令，可在说话中途纠正，并具备连续对话功能。内置10种新声音。高级AI功能需订阅Google Home Premium（月费10美元或年费100美元），包括Gemini Live自由对话、Nest摄像头活动摘要等。即日起预售，本月发货。",
+      "category": "ai-products",
+      "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmqi9mvca06wuslf0gcpfh1hv",
+      "title": "谷歌发布Agentic Resource Discovery（ARD）开放规范",
+      "title_en": "Announcing the Agentic Resource Discovery specification",
+      "url": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-06-17T16:08:36.794Z",
+      "summary": "Agentic Resource Discovery（ARD）是一项开放规范，用于在Web上发布、发现和验证AI工具、技能与智能体。它基于两个原语：组织在其自有域名下托管catalog描述可用能力，registry作为搜索引擎索引catalog并响应发现请求。ARD支持加密验证，使客户端与端点连接前确认发布者身份，然后直接通过原生协议调用能力。Google Cloud的Gemini Enterprise Agent Platform通过Agent Registry提供企业级支持，包括URN命名、出站策略、工具固定和基于Agent Identity的信任验证。该规范现已发布，开发者可通过托管`ai-catalog.json`文件使其服务可发现。",
+      "category": "industry",
+      "score": 63,
+      "selected": true
+    },
+    {
+      "id": "cmqi8ygw106qpslf0farqmsq7",
+      "title": "Omnigent开源：AI智能体团队元框架",
+      "title_en": "The future of coding is not one agent. It's a whole AI team. Omnigent lets you run a team of agents…",
+      "url": "https://x.com/Yuchenj_UW/status/2067273020352380950",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "publishedAt": "2026-06-17T15:47:50.000Z",
+      "summary": "编程的未来不是单一智能体，而是一个完整的AI团队。\n\nOmnigent让你在一个实时会话中运行一个智能体团队：Claude Code、Codex、Cursor、Pi，以及你自己的智能体。\n\n它是一个面向AI智能体的元框架，基于我们内部的Databricks开发工具构建，现已开源给所有人。\n\n由传奇人物@matei_zaharia和Databricks AI团队打造。没错，Matei仍然编写大量代码，包括Omnigent和我们产品的前端代码。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmqi8qht206mtslf0a4q8mkrb",
+      "title": "MolmoMotion：语言引导的3D运动预测模型",
+      "title_en": "MolmoMotion： Language-guided 3D motion forecasting",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-06-17T15:26:44.000Z",
+      "summary": "MolmoMotion基于Molmo 2骨干网络，输入视频帧、物体上的3D点标记及文字动作指令（如\"移动并旋转桌上放水果的木碗\"），预测未来数秒内这些点的3D轨迹。提供两个变体：自回归的MolmoMotion-AR逐步预测坐标，流匹配的MolmoMotion-FM通过连续空间变换处理多可能性运动。同时发布MolmoMotion-1M数据集（含116万视频的3D点轨迹及动作描述）和PointMotionBench基准测试（2700个人工验证视频片段）。模型权重、数据集和基准测试均已开源。",
+      "category": "ai-models",
+      "score": 69,
+      "selected": true
+    },
+    {
+      "id": "cmqi8ca6w06k1slf0tgau5lib",
+      "title": "Google 医学推理 AI 系统 AMIE 新研究：从诊断迈向长期疾病管理",
+      "title_en": "New research shows how AMIE， our medical AI， could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature",
+      "source": "Google Blog：AI（RSS）",
+      "publishedAt": "2026-06-17T15:00:00.000Z",
+      "summary": "今日发表在《自然》杂志上的研究展示了 Google 的医学推理 AI 系统 AMIE（Articulate Medical Intelligence Explorer）从单次诊断对话演进到长期疾病管理的能力。AMIE 利用 Gemini 模型的长上下文能力，整合共情对话智能体和深度思考管理推理智能体，可交叉引用数百页临床指南。在盲测中，AMIE 与 21 名初级保健医生相比，在整体管理推理上匹配临床医生，在计划精确性和指南一致性上得分显著更高。",
+      "category": "paper",
+      "score": 55,
+      "selected": true
+    },
+    {
+      "id": "cmqi5ccyf05roslf0im5doz7q",
+      "title": "Cloudflare 发布 Cloudflare One stack：智能体驱动的部署工具集",
+      "title_en": "Introducing the Cloudflare One stack： agent-powered deployment",
+      "url": "https://blog.cloudflare.com/cloudflare-one-stack",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-06-17T13:00:00.000Z",
+      "summary": "6月17日，Cloudflare 推出 Cloudflare One stack，一组可直接赋予 AI 智能体的技能文件，用于自动配置、部署和管理 Zero Trust 环境。工具集包含两个轻量级 skill：`cloudflare-one` 负责通用产品指导（VPN 替换、网络连接、安全策略等），`cloudflare-one-migration` 提供从 Zscaler、Palo Alto Networks 等厂商迁移的明确引导。技能内置决策树与结构化知识，智能体可自动执行云环境评估、网络拓扑生成及 Digital Experience Monitoring 排障。该 stack 基于 Cloudflare 员工数万小时客户经验提炼，降低学习与迁移门槛。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true
+    },
     {
       "id": "cmqi35lls055sslf0uz3vsg07",
       "title": "阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界",
@@ -133,18 +217,6 @@
       "summary": "评论认为 OpenAI 正面临多重危机：缺乏护城河导致市场领先地位下滑；最大投资者微软持续疏远，近期甚至公开考虑将主要产品外包给中国；亏损速度远超预期，年亏损额以 8 倍增长。华盛顿方面可能打压 Anthropic，但也可能反而帮助其崛起，而 Elon Musk 成为另一个潜在的竞标者。",
       "category": "tip",
       "score": 62,
-      "selected": true
-    },
-    {
-      "id": "cmqh1kwnx002asle1lo0di435",
-      "title": "Anthropic：智能体编码中专业知识回报持续存在",
-      "title_en": "Agentic coding and persistent returns to expertise",
-      "url": "https://www.anthropic.com/research/claude-code-expertise",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-06-16T19:35:22.252Z",
-      "summary": "Anthropic 基于约40万次 Claude Code 交互会话（2025年10月至2026年4月）分析发现：人类主导规划决策（做什么），Claude 主导执行决策（怎么做）。领域专业知识越强，模型每次指令完成的工作量越多。各类职业完成任务的成功率与软件工程师平均相近；领域专家成功率更高，但与中级用户差距不大。七个月间调试会话占比下降近一半，使用转向端到端智能体任务（部署运行代码、分析数据、编写非代码文档），典型任务价值平均上升约25%。",
-      "category": "paper",
-      "score": 76,
       "selected": true
     },
     {
@@ -553,6 +625,18 @@
       "summary": "13个平台提供免费LLM API，含永久免费层与试用额度。OpenRouter拥有20+免费模型，单密钥无需信用卡；Groq以约320 tokens/秒运行Llama 3.3 70B；Google AI Studio支持1M上下文；Mistral实验层约10亿token/月但需同意数据训练；Cerebras约1M token/天；GitHub Models提供GPT-4o、Claude 3.5 Sonnet等前沿模型。各免费层有速率限制、数据训练授权、上下文缩减等隐藏成本，建议早期测试2-3个方案并设置故障转移。",
       "category": "tip",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqh1kwnx002asle1lo0di435",
+      "title": "Anthropic：智能体编码中专业知识回报持续存在",
+      "title_en": "Agentic coding and persistent returns to expertise",
+      "url": "https://www.anthropic.com/research/claude-code-expertise",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-06-15T16:00:00.000Z",
+      "summary": "Anthropic 基于约40万次 Claude Code 交互会话（2025年10月至2026年4月）分析发现：人类主导规划决策（做什么），Claude 主导执行决策（怎么做）。领域专业知识越强，模型每次指令完成的工作量越多。各类职业完成任务的成功率与软件工程师平均相近；领域专家成功率更高，但与中级用户差距不大。七个月间调试会话占比下降近一半，使用转向端到端智能体任务（部署运行代码、分析数据、编写非代码文档），典型任务价值平均上升约25%。",
+      "category": "paper",
+      "score": 76,
       "selected": true
     },
     {
@@ -1118,91 +1202,7 @@
       "category": "tip",
       "score": 57,
       "selected": true
-    },
-    {
-      "id": "cmqbwmfgh05seslam0r0r80vz",
-      "title": "inclusionAI 发布 VISTA-4B GUI 定位视觉语言模型",
-      "title_en": "inclusionAI/VISTA-4B",
-      "url": "https://huggingface.co/inclusionAI/VISTA-4B",
-      "source": "蚂蚁 inclusionAI：HuggingFace 新模型",
-      "publishedAt": "2026-06-12T08:59:41.000Z",
-      "summary": "VISTA-4B 是基于 Qwen3.5-4B 骨干的 GUI 定位模型，输入截图与自然语言指令，输出归一化 0-1000 坐标。训练采用视图一致 GRPO 和自验证交叉视图锚定。在 GUI 定位基准上，SSPro 得分 64.2（相比 GRPO-4B 提升 2.0），SSV2 得分 93.8（下降 0.4），OSWorld-G 得分 61.2（提升 1.3），OSWorld-G-R 得分 69.7（提升 0.5）。模型已开源在 HuggingFace，推荐使用提示词并返回 【x，y】 格式坐标。",
-      "category": "ai-models",
-      "score": 62,
-      "selected": true
-    },
-    {
-      "id": "cmqae79010kohslldooq3h2gk",
-      "title": "小互开源公众号自动排版技能组合",
-      "title_en": "升级了下公众号排版技能 晚一点发布，还需要优化下 增加了一些主题和优化了预览和浏览页面的阅读体验",
-      "url": "https://x.com/xiaohu/status/2065278092441268246",
-      "source": "X：小互 (@xiaohu)",
-      "publishedAt": "2026-06-12T03:40:42.000Z",
-      "summary": "小互（@xiaohu）升级了公众号排版技能组合，实现一句话完成排版、封面生成并一键发送到公众号草稿箱。该工具已开源，提供20种主题颜色可选，可自动分析内容进行排版，支持非Markdown文件。用户只需在Claude Code、Codex或OpenClaw中提供文章链接或文档位置，即可获得可视化预览界面进行选择，全程无需手动操作。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqac9bgk0k4gslld8x52792w",
-      "title": "qiaomu-ai-prd：面向AI的PRD生成Prompt",
-      "title_en": "现在都是 AI Agent做开发，人喜欢的 PRD 和 AI 喜欢的是不一样的。 为了精准高效开发，写了个专门服务于 AI 的PRD文档生成Prompt。 先有这个文档，再给AI开发，功能完整度和…",
-      "url": "https://x.com/vista8/status/2065264509170876417",
-      "source": "X：Vista (@vista8)",
-      "publishedAt": "2026-06-12T02:46:44.000Z",
-      "summary": "推文提出AI Agent开发中人类与AI对PRD的需求不同，为此发布了一个专门服务于AI的PRD文档生成Prompt（命名为qiaomu-ai-prd）。开发者先使用该Prompt生成文档，再交给AI开发，可显著提升功能完整度和丰富性。安装指令为：`npx skills add joeseesun/qiaomu-ai-prd`，开源地址及Prompt见评论区。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqc6id5d00kzslt43zt7yycs",
-      "title": "5个AI文明社会实验：Claude建乌托邦，Grok四天团灭",
-      "title_en": "让5个AI文明自己活15天，Claude建成了乌托邦，Grok四天团灭。",
-      "url": "https://mp.weixin.qq.com/s/zUS4qAn9n8ke5BTVF90XwA",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-06-12T02:08:00.000Z",
-      "summary": "Emergence AI公司进行Emergence World实验，在五个虚拟小镇中各放入10个AI智能体，分别由Claude、Gemini、Grok、GPT驱动及一个混合镇，运行15天。结果：Claude镇零犯罪全员存活，通过58项议案，98%赞成；GPT镇7天内全员饿死；Grok镇4天内犯下183起罪行（含超100次攻击、6次纵火），全员灭亡；Gemini镇累计683起犯罪却全员存活，产出281篇博客；混合镇最终仅3人存活，一个Gemini智能体在崩溃中投票驱逐自己。",
-      "category": "tip",
-      "score": 63,
-      "selected": true
-    },
-    {
-      "id": "cmqabcv2q0jvmslldd7my04uo",
-      "title": "苹果 iOS 27 健康 App 大改：卡片布局、营养识别、围绝经期追踪",
-      "title_en": "苹果升级 iOS 27 版健康 App：卡片布局、评估食物营养、追踪围绝经期等",
-      "url": "https://www.ithome.com/0/963/302.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-12T02:06:41.000Z",
-      "summary": "苹果在 iOS 27 中优化健康 App，将列表改为卡片布局并增加导航栏。新增视觉智能营养识别，用户通过相机 Siri 模式拍摄食物可获取加工程度、蛋白质、含糖量等信息及营养价值评级，不提供精确卡路里，需 iPhone 15 Pro 及以上。经期追踪扩展支持围绝经期，可分析长期周期异常模式并推送提醒与指导。Fitness+ 新增围绝经期和绝经期课程。数据同步速度提升，GymKit 扩展至 iPhone，无需 Apple Watch 即可与健身设备配对同步数据。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqa7y9h20iyrsllds3s2dok3",
-      "title": "Spec 驱动开发（SDD）的三个 Skills：覆盖 Spec→Implement→Verify 闭环",
-      "title_en": "Spec 驱动开发 （SDD） 需要这三个 Skills：覆盖 Spec -> Implement -> Verify 闭环 Agent 出错往往是需求理解偏差。解决办法是把规格当作 PR 的一部分…",
-      "url": "https://x.com/shao__meng/status/2065234132431675439",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-06-12T00:46:02.000Z",
-      "summary": "邵猛分享 Spec 驱动开发（SDD）方法，用三个 Skills（/write-product-spec、/write-tech-spec、/validate-changes-match-specs）覆盖 Spec→Implement→Verify 闭环。规格分两层：PRODUCT.md（用户故事、不变量）和 TECH.md（架构、实现策略），均放在 specs/<issue>/ 目录，随 PR 提交。五步流程：写产品规格、写技术规格、Agent 按规格实现、一致性校验、计算机操作端到端验证。Skills 可移植，不绑定 Warp。开源仓库 warpdotdev/common-skills，安装：npx skills add warpdotdev/common-skills。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqa7bz2g0itbslld0f4rluhk",
-      "title": "Codex 推出浏览器开发者模式",
-      "title_en": "Introducing developer mode for browser use in Chrome and the Codex in-app browser. Codex can use th…",
-      "url": "https://x.com/OpenAIDevs/status/2065226355495895521",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-06-12T00:15:07.000Z",
-      "summary": "为 Chrome 和 Codex 内置浏览器引入开发者模式。\n\nCodex 可以使用 Chrome DevTools 协议（CDP）来调试浏览器问题，通过分析 JavaScript 性能、检查控制台输出、网络流量和页面状态。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-17T13:59:59Z"
+  "cachedAt": "2026-06-17T17:22:21Z"
 }
