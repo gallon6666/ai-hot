@@ -1,8 +1,32 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMjIyNDAwMDAwLCJpIjoiY21xY2s3M2UyMDAxZ3NsendodTJ4NWRjZyJ9",
+  "nextCursor": "eyJhIjoxNzgxMjIzMzA3MDAwLCJpIjoiY21xYTdiejJnMGl0YnNsbGQwZjRybHVoayJ9",
   "items": [
+    {
+      "id": "cmqi35lls055sslf0uz3vsg07",
+      "title": "阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界",
+      "title_en": "阿里发布世界模型 HappyOyster 快乐生蚝 1.0：一句话生成可实时交互的数字世界",
+      "url": "https://www.ithome.com/0/965/652.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-17T12:46:59.000Z",
+      "summary": "6月17日，阿里云发布开放式世界模型HappyOyster 1.0（快乐生蚝）。该产品基于原生多模态架构，支持多模态输入与音视频联合生成，可在生成过程中持续接收用户指令并实时响应画面。它深度学习物理世界状态转移规律，保持人物和环境长程一致性。官网开放\"实时导演\"与\"世界探索\"两种玩法：前者可随时叫停改写故事、与虚拟男友实时互动等；后者支持自由漫游、滑板冲刺、翼装滑翔、骑马奔驰、攻击打怪等交互。该产品已于今年4月16日开放内测，即日起至7月17日官网不定期掉落体验积分。",
+      "category": "ai-products",
+      "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmqhxv2m503qoslf0x9ls46ps",
+      "title": "Strands Robots SDK：用单一智能体打通 Hugging Face Hub 到物理机器人",
+      "title_en": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-06-17T10:18:05.000Z",
+      "summary": "AWS（Apache 2.0）开源的 Strands Robots SDK 将 LeRobot 栈封装为 AgentTools，构建统一智能体。默认用 MuJoCo 模拟（无需硬件），mode=\"real\" 切换至真实机器人。可记录演示数据为 LeRobotDataset 并推送 Hugging Face Hub，运行 GR00T 或 LerobotLocal 策略推理，经 Zenoh mesh 广播命令到多台机器人。模拟与硬件代码完全一致，只需改一个关键字参数。示例可在笔记本（Python 3.12+，Linux/macOS）无硬件、无 GPU 运行。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true
+    },
     {
       "id": "cmqhw4oqb039kslf0c4r3g3yd",
       "title": "Kickart 3.0发布，让广告视频创作更精准高效",
@@ -1178,31 +1202,7 @@
       "category": "ai-products",
       "score": 69,
       "selected": true
-    },
-    {
-      "id": "cmqa6vs2i0iodslldledhp882",
-      "title": "OpenAI Codex 推出速率重置攒存功能",
-      "title_en": "We heard you wanted to use Codex rate limit resets on your own time. Starting today， we're rolling …",
-      "url": "https://x.com/OpenAI/status/2065225362544726371",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-06-12T00:11:11.000Z",
-      "summary": "我们听说您希望能在自己方便的时候使用 Codex 速率限制重置。\n从今天起，我们开始推出将速率限制重置保留到以后使用的功能。\n我们从 Go、Plus、Pro 和 Business 用户开始，每人提供一次免费重置：",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmqck73e2001gslzwhu2x5dcg",
-      "title": "OpenRouter融合预算模型面板超越GPT-5.5和Claude Opus 4.8",
-      "title_en": "Surpassing Frontier Performance with Fusion",
-      "url": "https://openrouter.ai/blog/announcements/fusion-beats-frontier",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-12T00:00:00.000Z",
-      "summary": "通过OpenRouter融合的一组预算模型，在100个复杂研究任务上得分超过GPT-5.5和Claude Opus 4.8。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-17T10:04:24Z"
+  "cachedAt": "2026-06-17T13:59:59Z"
 }
