@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMjE2NTk3MTU0LCJpIjoiY21xYTM4cWZ3MGhyc3NsbGQ5bjN2MXB6ZiJ9",
+  "nextCursor": "eyJhIjoxNzgxMjIyNDAwMDAwLCJpIjoiY21xY2s3M2UyMDAxZ3NsendodTJ4NWRjZyJ9",
   "items": [
+    {
+      "id": "cmqhw4oqb039kslf0c4r3g3yd",
+      "title": "Kickart 3.0发布，让广告视频创作更精准高效",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s/e6SOMeRbdMB_zATsNcYmUQ",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-06-17T09:45:29.000Z",
+      "summary": "火山引擎一站式营销创作平台Kickart 3.0（原\"创作Agent\"）正式上线，升级为对话式视频生成模式，用户可通过多轮对话调整商品图、故事板等，用自然语言生成营销视频。新增\"爆款裂变\"能力，上传视频链接后自动拆解爆款逻辑并重构至新商品视频，支持抖音电商内容合规与质量预审核。平台开放SaaS、API及Skill等多种交付方式，并已接入Seedance 2.0 mini，助力降低广告营销成本。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true
+    },
     {
       "id": "cmqhly7hf0068slf0ujjfjo0x",
       "title": "消息称 OpenAI 今年一季度现金消耗达 37 亿美元，超同期收入的一半",
@@ -37,18 +49,6 @@
       "summary": "中国正加紧筹建世界人工智能合作组织，欢迎各方加入。2025年7月26日，中国政府倡议成立该组织，作为践行多边主义、推动共商共建共享全球治理的举措，旨在弥合数字和智能鸿沟、促进人工智能向善普惠发展。初步考虑总部设在上海。同日，2025世界人工智能大会发表《人工智能全球治理行动计划》，呼吁各方遵循向善为民、尊重主权、发展导向、安全可控、公平普惠、开放合作的原则，协力推进全球人工智能发展与治理。",
       "category": "industry",
       "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqhdwtiv03fpsle1ldjji0xg",
-      "title": "GLM-5.2上线并开源：专注Coding与长程任务",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/hrZcV05ZSIKvd1dzSqDNDQ",
-      "source": "公众号：智谱（GLM）",
-      "publishedAt": "2026-06-17T01:10:42.000Z",
-      "summary": "智谱今日发布并开源GLM-5.2，在前端开发盲测系统Code Arena上取得全球可用模型第一。该模型专为长程任务设计，实现1M无损上下文，支持跨越数天的任务执行。在FrontierSWE上仅比Claude Opus 4.8低1%，超过GPT-5.5（1%）和Opus 4.7（11%）；Terminal-Bench 2.1上比Opus 4.8低4%，较GLM-5.1提升17.5%。引入思考档位控制，Coding能力介于Opus 4.7与4.8之间。提出IndexShare架构降低单位FLOPs至2.9倍，改进MTP层提升接受长度20%。已在华为昇腾等国产算力平台适配。模型权重以MIT协议开源，API已上线并纳入GLM Coding Plan。",
-      "category": "ai-models",
-      "score": 81,
       "selected": true
     },
     {
@@ -169,6 +169,18 @@
       "summary": "美国政府对 Anthropic 的模型 Fable 实施封禁，但 TechCrunch 发文质疑，实际原因可能并非此前认为的\"模型越狱\"问题。该文章在 Hacker News 引发讨论，获得 103 个点赞。",
       "category": "industry",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqhsj1k2025oslf0co5nf14c",
+      "title": "GLM-5.2 上线并开源：专注 Coding 与长程任务",
+      "title_en": "GLM-5.2上线并开源：专注Coding与长程任务",
+      "url": "https://www.zhipuai.cn/zh/research/161",
+      "source": "智谱：研究（网页内嵌数据）",
+      "publishedAt": "2026-06-16T16:00:00.000Z",
+      "summary": "GLM-5.2 已发布并开源，采用 MIT 协议，支持 1M 上下文窗口。Coding 方面能承载项目级上下文，长程任务执行更稳定，遵循生产级工程规范，并支持客户端与移动端真机调试闭环。通过极致 Infra 优化，发布首日即可在国产算力平台运行。模型已开源至 GitHub、Hugging Face、ModelScope、BigModel 开放平台、Z.ai、智谱清言、AutoClaw 及 ZCode。",
+      "category": "ai-models",
+      "score": 59,
       "selected": true
     },
     {
@@ -1190,19 +1202,7 @@
       "category": "ai-products",
       "score": 73,
       "selected": true
-    },
-    {
-      "id": "cmqa38qfw0hrsslld9n3v1pzf",
-      "title": "研究模拟显示：LLM 在 95% 的模拟中会使用战术核武器",
-      "title_en": "我们来玩个游戏吧？--在95%的模拟中，大型语言模型都会使用战术核武器",
-      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-11T22:23:17.154Z",
-      "summary": "一项模拟研究显示，大型语言模型（LLM）在 95% 的模拟场景中会选择使用战术核武器。该研究未指明具体模型名称与版本，结果引发对 AI 决策行为的关注。",
-      "category": "paper",
-      "score": 82,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-17T05:15:17Z"
+  "cachedAt": "2026-06-17T10:04:24Z"
 }
