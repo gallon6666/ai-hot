@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMjgwMDAwMDAwLCJpIjoiY21xYnB4Ym83MDNzenNsYW1mMjl3ODYweiJ9",
+  "nextCursor": "eyJhIjoxNzgxMjg1MTY4MDAwLCJpIjoiY21xYjk5ZGt3MDBweXNscnVpaGw3cDRoNiJ9",
   "items": [
+    {
+      "id": "cmqikjgrp01sesl5wptxhpc6s",
+      "title": "Google 分享 A2UI 与 MCP Apps 三种集成架构模式",
+      "title_en": "A2UI + MCP Apps： Combining the best of declarative and custom agentic UIs",
+      "url": "https://developers.googleblog.com/a2ui-and-mcp-apps",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-06-17T21:13:53.385Z",
+      "summary": "Google 分享了三种集成 A2UI 与 MCP Apps 的架构模式，旨在结合两者优势。A2UI 采用声明式框架，通过 JSON payload 定义 UI，由宿主原生渲染，确保一致性与安全性，但受限于预定义组件库。MCP Apps 在 iframe 中使用标准 Web 技术提供自定义界面，但存在设计碎片化、性能与安全挑战。三种模式包括：通过 MCP 服务器提供 A2UI，利用 MCP Resources 或 Tool 调用传递 JSON，实现\"一次编写，原生渲染\"的跨平台能力；以及静态与动态交付方案。Google 正考虑扩展 MCP 以原生支持 A2UI。",
+      "category": "tip",
+      "score": 64,
+      "selected": true
+    },
+    {
+      "id": "cmqijhrqi01iosl5wt876piz9",
+      "title": "借助 Workload Identity Federation 安全访问 Claude Platform",
+      "title_en": "Secure access to the Claude Platform with Workload Identity Federation",
+      "url": "https://claude.com/blog/workload-identity-federation",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-17T20:44:36.833Z",
+      "summary": "Workload Identity Federation （WIF） 已在 Claude Platform 上全面可用。WIF 兼容任何 OIDC 身份提供者，覆盖所有 Claude API 端点（包括第一方 SDK 和 Claude Code）。WIF 用短生命期凭证替代静态 API 密钥，并引入服务账户，每个工作负载拥有独立身份、角色和审计日志。Claude Console 提供引导设置流程，支持 Admin API 进行组织管理。API 密钥可并行使用以便逐步迁移。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true
+    },
+    {
+      "id": "cmqijhrqi01insl5wwxvq9xc6",
+      "title": "Claude Design 更新：跨项目保持品牌一致，与Claude Code协同",
+      "title_en": "Claude Design now stays on brand for daily work",
+      "url": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-17T20:44:36.833Z",
+      "summary": "6月17日，Claude Design 更新，支持跨项目使用统一设计系统，并与Claude Code同步工作流。用户可直接拖拽、对齐和缩放画布元素，编辑器稳定性大幅提升。设计系统可从GitHub、设计文件或原始上传导入，团队管理员可锁定标准系统防止篡改。新增桌面端侧边栏入口及独立网页端claude.ai/design。使用限制与聊天、Claude Cowork、Claude Code共享，每次任务消耗更少token，错误率下降。支持导出PDF、PPT，集成Adobe、Canva、Gamma等工具。发布首周用户超一百万。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true
+    },
     {
       "id": "cmqiicjpx015ysl5wa4xk67zg",
       "title": "GitHub 发布 CC0-1.0 开源多语言仓库级数据集，覆盖 README、Issue 和 PR",
@@ -37,18 +73,6 @@
       "summary": "Matt Pocock（Total TypeScript 作者）开源了 skills v1，将技能描述的 Token 成本降低 63%。该工具包将技能分为模型可调用和用户可调用，新增 /codebase-design、/domain-modeling、/grilling 三项技能；重写 /writing-great-skills；将 /diagnose 更新为 /diagnosing-bugs 并改为模型可调用；新增 /ask-matt 路由技能，帮助 AI 自动判断时机触发合适工程流程。主推文评价其将 prompt 从咒语拆解为纪律性流程。",
       "category": "tip",
       "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmqiheyym00yisl5wrdcahfxn",
-      "title": "Claude Design 新特性：跨项目品牌统一、画布编辑、同步Code",
-      "title_en": "New in Claude Design： it stays on brand with your design system across projects， lets you edit direc…",
-      "url": "https://x.com/claudeai/status/2067325887909884315",
-      "source": "X：Claude (@claudeai)",
-      "publishedAt": "2026-06-17T19:17:55.000Z",
-      "summary": "Claude Design 新功能：它在跨项目时与你的设计系统保持品牌一致，支持直接在画布上编辑，与 Claude Code 同步，并连接到更多你已经在使用的工具。",
-      "category": "ai-products",
-      "score": 66,
       "selected": true
     },
     {
@@ -253,6 +277,18 @@
       "summary": "baoyu-design（本地运行 Claude Design 的 Skill）新增动画视频导出功能。其声明式动画引擎基于 f（t） 设计：任意时间点 t 可绝对确定画面状态。导出采用无头 Chromium 逐帧截图 + ffmpeg 编码，每帧等待两帧 requestAnimationFrame 确保渲染完成。截图以 2 倍 DPR（3840×2160）再缩回 1080p，保证细节清晰。95 秒 30fps 动画需 2850 次截图循环，帧帧精确。项目已开源（MIT），获 1.2K star。此前 baoyu-design 已支持 PPT 本地生成和导出可编辑 PPTX。",
       "category": "tip",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqijfbdz01grsl5wxf4rd7e6",
+      "title": "LifeSciBench 发布",
+      "title_en": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "summary": "2026 年 6 月，OpenAI 联合 173 位博士级生命科学家发布 LifeSciBench 评测基准，涵盖 750 个真实研究任务，覆盖证据处理、分析、设计优化等七个工作流及七个生物领域。每项任务配有约 25 条细化评分标准（共 19，020 条），评估模型的科学正确性与实用价值。79% 的任务需多步推理，53% 要求解读图表、PDF 等附件数据，旨在衡量 AI 在复杂、不确定的研究任务中的实际能力，而非仅回答结构化问题。",
+      "category": "paper",
+      "score": 58,
       "selected": true
     },
     {
@@ -1166,43 +1202,7 @@
       "category": "industry",
       "score": 74,
       "selected": true
-    },
-    {
-      "id": "cmqb7ichm009mslruda4cweq1",
-      "title": "今年价值1300亿美元的数据中心项目因抗议被叫停",
-      "title_en": "$130 billion in data center projects blocked by protests so far this year",
-      "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-06-12T17:18:49.000Z",
-      "summary": "截至今年，抗议活动已成功阻止价值约1300亿美元的AI数据中心项目。反对者通过组织行动阻碍了多地的开发计划，称这一胜利让参与者\"尝到了政治权力的滋味\"。抗议主要针对数据中心带来的能源消耗、水资源占用和环境影响，部分项目已被政府暂停或重新审查。",
-      "category": "industry",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqbpxbo703t0slam4t20lwok",
-      "title": "OpenRouter 模型路由工作原理",
-      "title_en": "How OpenRouter Model Routing Works",
-      "url": "https://openrouter.ai/blog/insights/model-routing",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-12T16:00:00.000Z",
-      "summary": "OpenRouter 将每个请求路由到 60 多家提供商，用户可自定义提供商顺序、价格上限和回退链，从而灵活控制路由策略。",
-      "category": "tip",
-      "score": 66,
-      "selected": true
-    },
-    {
-      "id": "cmqbpxbo703szslamf29w860z",
-      "title": "Hermes Agent 在 OpenRouter 上的使用指南：设置、模型与路由",
-      "title_en": "How to Use Hermes Agent with OpenRouter： Setup， Models & Routing",
-      "url": "https://openrouter.ai/blog/tutorials/hermes-agent",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-12T16:00:00.000Z",
-      "summary": "Hermes Agent 已通过 OpenRouter 处理超过 17 万亿 tokens。使用指南包括设置流程、选择支持 64K 上下文窗口的模型，以及调整路由策略以兼顾成本与可靠性。",
-      "category": "tip",
-      "score": 74,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-17T20:32:14Z"
+  "cachedAt": "2026-06-17T22:52:41Z"
 }
