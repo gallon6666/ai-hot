@@ -1,8 +1,92 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMjU4NDAwMDAwLCJpIjoiY21xYjZicndpMDAwOHNsNXY5ODFnc2QxMCJ9",
+  "nextCursor": "eyJhIjoxNzgxMjgwMDAwMDAwLCJpIjoiY21xYnB4Ym83MDNzenNsYW1mMjl3ODYweiJ9",
   "items": [
+    {
+      "id": "cmqiicjpx015ysl5wa4xk67zg",
+      "title": "GitHub 发布 CC0-1.0 开源多语言仓库级数据集，覆盖 README、Issue 和 PR",
+      "title_en": "Getting more from each token： How Copilot improves context handling and model routing",
+      "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-06-17T19:41:46.000Z",
+      "summary": "GitHub 推出一个新的仓库级数据集，采用 CC0-1.0 许可证，旨在帮助研究人员和开发者发现跨 README、Issue 和 Pull Request 的多语言开发者内容，加速多语言 AI 开发。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true
+    },
+    {
+      "id": "cmqihbkcr00xcsl5wavwez5ua",
+      "title": "Claude Design与Replit联动，设计变应用",
+      "title_en": "Design in Claude. Build in Replit You can now send your design from Claude Design to Replit to turn…",
+      "url": "https://x.com/Replit/status/2067328501003497684",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-06-17T19:28:18.000Z",
+      "summary": "在Claude中设计。在Replit中构建。\n\n你现在可以将Claude Design中的设计发送到Replit，将其变成一个可工作的应用。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true
+    },
+    {
+      "id": "cmqiie2vh018hsl5wbdaj9mz3",
+      "title": "Matt Pocock 开源 skills v1：将技能描述 Token 成本降低 63%",
+      "title_en": "被 vibe coding 反噬过的AI玩家和开发者们看过来，这个工具包把 Token 消耗砍掉了 63%，注意可不是单纯的砍功能，主要是砍废话。 @mattpocockuk Pocock（Tota…",
+      "url": "https://x.com/AYi_AInotes/status/2067327021005656135",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-06-17T19:22:25.000Z",
+      "summary": "Matt Pocock（Total TypeScript 作者）开源了 skills v1，将技能描述的 Token 成本降低 63%。该工具包将技能分为模型可调用和用户可调用，新增 /codebase-design、/domain-modeling、/grilling 三项技能；重写 /writing-great-skills；将 /diagnose 更新为 /diagnosing-bugs 并改为模型可调用；新增 /ask-matt 路由技能，帮助 AI 自动判断时机触发合适工程流程。主推文评价其将 prompt 从咒语拆解为纪律性流程。",
+      "category": "tip",
+      "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmqiheyym00yisl5wrdcahfxn",
+      "title": "Claude Design 新特性：跨项目品牌统一、画布编辑、同步Code",
+      "title_en": "New in Claude Design： it stays on brand with your design system across projects， lets you edit direc…",
+      "url": "https://x.com/claudeai/status/2067325887909884315",
+      "source": "X：Claude (@claudeai)",
+      "publishedAt": "2026-06-17T19:17:55.000Z",
+      "summary": "Claude Design 新功能：它在跨项目时与你的设计系统保持品牌一致，支持直接在画布上编辑，与 Claude Code 同步，并连接到更多你已经在使用的工具。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true
+    },
+    {
+      "id": "cmqiewg85009zsl5w0gbt6hbe",
+      "title": "Anthropic与DeepMind CEO呼吁G7组建AI联盟排除中国",
+      "title_en": "We are entering a new era of the Cold War. Dario Amodei and Demis Hassabis are calling for a \"U.S.-…",
+      "url": "https://x.com/kimmonismus/status/2067310431669223425",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-06-17T18:16:30.000Z",
+      "summary": "Dario Amodei（Anthropic）与Demis Hassabis（Google DeepMind）在G7闭门会议上呼吁组建美国主导的联盟，为人工智能制定全球规则和标准。Amodei指出，该联盟应以前沿模型和硬件（包括芯片及其他关键组件）的访问权限为手段，将中国排除在外。这一主张被评论为高技术新冷战的开端，竞争方将从根本上被剥夺参与权。",
+      "category": "industry",
+      "score": 79,
+      "selected": true
+    },
+    {
+      "id": "cmqiddvsx07xcslf0wcefjhm6",
+      "title": "用SGLang-JAX在TPU上优化Ling-2.6-1T：一个Pallas核将MoE数据移动隐藏在计算中",
+      "title_en": "Blog Optimizing Ling-2.6-1T on TPU with SGLang-JAX： Hiding MoE Data Movement Behind Compute with One Pallas Kernel SGLang-JAX now supports efficient serving of inclusionAI's Ling-2.6-1T on TPU v7x. With a working baseline in place， profiling pointed to the Mixture-of-Experts （MoE） path as the main bottleneck： each… Prayer， JamesBrianD， Haolin Fu， Haoguang Cai， Qinghan Chen",
+      "url": "https://www.lmsys.org/blog/2026-06-17-ling-2-6-tpu",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-06-17T17:53:38.527Z",
+      "summary": "SGLang-JAX现已支持inclusionAI的Ling-2.6-1T（1T稀疏MoE，63B激活参数，256路由专家，top-8路由加共享专家）在TPU v7x上高效推理。团队开发了Fused MoE V2--一个融合scatter、专家FFN和gather的Pallas核，通过将MoE数据移动隐藏在计算中，使MoE预填充延迟从5.16ms降至2.42ms（降幅53%），解码核延迟从0.249ms降至0.211ms（降幅约15%）。仅替换MoE核即提升预填充吞吐量24.8%，解码吞吐量18.5%-35.3%。在SGLang解码基准测试中，16块TPU v7x芯片输出吞吐量达16块H200 GPU的1.29倍（mc=128）至1.77倍（mc=512）。完整上线还包含混合KV/循环内存池、GLA线性注意力和单控制器数据并行支持。",
+      "category": "paper",
+      "score": 69,
+      "selected": true
+    },
+    {
+      "id": "cmqics21707rbslf0ydj558jy",
+      "title": "Vercel 发布开源 AI 智能体框架 Eve：每个智能体就是一个文件目录",
+      "title_en": "Vercel Releases Eve： An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities",
+      "url": "https://www.marktechpost.com/2026/06/17/vercel-releases-eve",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-06-17T17:22:51.000Z",
+      "summary": "Vercel 发布开源 AI 智能体框架 Eve（npm 包，Apache-2.0 许可）。Eve 采用文件系统优先设计：每个智能体对应一个磁盘目录，目录结构直接映射模型、指令、工具、技能、连接、子智能体等能力，无需额外注册代码。内置六大生产级能力：持久执行（每步检查点，崩溃后可恢复）、沙箱计算、人机审批、安全连接（支持 MCP 和 OpenAPI）、多通道（Slack、Discord、Teams 等）以及追踪与评估（OpenTelemetry）。Vercel 内部运行了上百个智能体，包括数据分析工具 d0（月处理超3万查询）、自动销售代理 Lead Agent（年费约5000美元、回报32倍）和支持智能体 Vertex（自主解决92%工单）。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true
+    },
     {
       "id": "cmqiakygm075xslf0a7v3eqfl",
       "title": "NVIDIA GEAR实验室发布ENPIRE：8个Codex智能体自主控制机器人完成物理实验",
@@ -169,6 +253,18 @@
       "summary": "baoyu-design（本地运行 Claude Design 的 Skill）新增动画视频导出功能。其声明式动画引擎基于 f（t） 设计：任意时间点 t 可绝对确定画面状态。导出采用无头 Chromium 逐帧截图 + ffmpeg 编码，每帧等待两帧 requestAnimationFrame 确保渲染完成。截图以 2 倍 DPR（3840×2160）再缩回 1080p，保证细节清晰。95 秒 30fps 动画需 2850 次截图循环，帧帧精确。项目已开源（MIT），获 1.2K star。此前 baoyu-design 已支持 PPT 本地生成和导出可编辑 PPTX。",
       "category": "tip",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqihhij5010ksl5w7mpblibe",
+      "title": "Grok 4.3 在 Amazon Bedrock 正式可用",
+      "title_en": "Grok on Amazon Bedrock Jun 17， 2026 # Grok on Amazon Bedrock Grok models are now available via Amazon Bedrock. Read More",
+      "url": "https://x.ai/news/grok-amazon-bedrock",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "summary": "6 月 17 日，xAI 宣布 Grok 4.3 在 Amazon Bedrock 上全面可用。该模型在前沿模型中达成最低幻觉率，支持 100 万 token 上下文窗口，并提供可配置推理努力（none/low/medium/high）。在 Artificial Analysis Omniscience 基准排名第一，在 Tau2 Telecom 基准评估客服智能体真实工具调用性能排名第一，在 Vals AI Case Law 和 Corporate Finance 基准的复杂文档理解任务排名第一。定价为输入每百万 token 1.25 美元、输出每百万 token 2.50 美元，每美元智能度是其他前沿模型的 2-10 倍。",
+      "category": "ai-models",
+      "score": 61,
       "selected": true
     },
     {
@@ -1106,103 +1202,7 @@
       "category": "tip",
       "score": 74,
       "selected": true
-    },
-    {
-      "id": "cmqbg9zu8017zslam3adnpkeb",
-      "title": "如何在OpenRouter上获得最低成本的LLM推理",
-      "title_en": "How to Get the Lowest-Cost LLM Inference on OpenRouter",
-      "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-12T16:00:00.000Z",
-      "summary": "在OpenRouter上追加`：floor`可获取最便宜提供商，通过`max_price`设定花费上限，并可免费使用20多个零成本模型。同时需注意避免计费陷阱。",
-      "category": "tip",
-      "score": 64,
-      "selected": true
-    },
-    {
-      "id": "cmqb4534400wqsl9znvhs39jk",
-      "title": "olmo-eval：面向模型开发循环的评估工作台",
-      "title_en": "olmo-eval： An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-12T15:56:10.000Z",
-      "summary": "olmo-eval 是基于 OLMES 标准构建的评估工作台，专为 LLM 持续开发中的反复评测场景设计。相比 OLMES，它减少了新增评测的实现工作量，支持 agentic 和多轮评测作为一等用例，并允许根据基准需求选择轻量直接运行或容器化隔离运行。采用模块化架构，模型、工具、容器环境、辅助模型均可独立替换。评测结果同时报告分数、标准误差和最小可检测效应。与 Harbor 侧重于发布不同，olmo-eval 聚焦开发阶段快速迭代，可逐问题对比检查点输出以区分真实改进与噪声。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmqb39p8x00o2sl9z85e1r79i",
-      "title": "字节豆包上线\"任务模式\"：支持定时执行与文件生成，\"思考模式\"升级为\"专家模式\"",
-      "title_en": "字节豆包上线\"任务模式\"：支持定时执行、代码运行与文件生成，\"思考模式\"已升级为\"专家模式\"",
-      "url": "https://www.ithome.com/0/963/725.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-12T15:33:19.000Z",
-      "summary": "6月12日，字节跳动旗下AI应用豆包大范围上线\"任务模式\"，支持定时执行、零代码网页生成、一键PPT生成、数据可视化分析等全链路Agent执行。原\"思考模式\"升级为\"专家模式\"，调用豆包大模型2.0 Pro版本，强化深度推理能力。App顶部模式切换改为\"快速、专家、任务\"。基础功能免费，高阶服务付费，专业版三档：标准版68元/月或688元/年，加强版200元/月或2048元/年，专业版500元/月或5088元/年。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmqaycjq400insl35zr0910mv",
-      "title": "Kimi K2.7-Code：具有更高模型 token 效率的开源编码模型",
-      "title_en": "Kimi K2.7-Code：一种具有更高令牌效率的开源编码模型",
-      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-12T13:08:02.126Z",
-      "summary": "Kimi K2.7-Code 是一个开源编码模型，相比同类模型拥有更高的模型 token 效率，能够用更少的 token 完成相同的代码生成任务。模型已在 HuggingFace 上发布。",
-      "category": "ai-models",
-      "score": 77,
-      "selected": true
-    },
-    {
-      "id": "cmqaumbha0oz5slldur6mcs8h",
-      "title": "Pokémon Go玩家无意中为军用无人机技术贡献数据，引发持续审视",
-      "title_en": "Pokémon Go players unwittingly contributed to tech with military drone uses",
-      "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-06-12T11:15:41.000Z",
-      "summary": "Pokémon Go玩家在游戏中收集的数据被重新用于AI训练，支持军用无人机技术。这一做法持续引发各方审视。",
-      "category": "industry",
-      "score": 77,
-      "selected": true
-    },
-    {
-      "id": "cmqatz4nc0otgslld30imx725",
-      "title": "DeepMind机器人加速器启动15家初创公司",
-      "title_en": "Our Robotics Accelerator has launched with 15 startups helping shape the future of physical AI in Eu…",
-      "url": "https://x.com/GoogleDeepMind/status/2065388989146628563",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
-      "publishedAt": "2026-06-12T11:01:22.000Z",
-      "summary": "我们的机器人加速器已启动，15家初创公司助力塑造欧洲的物理AI未来。🤖\n\n这个为期三个月的项目将为他们提供我们的AI堆栈、Gemini Robotics模型以及我们团队的实际支持。\n\n了解这些公司 → https：//goo.gle/4oeEk2K",
-      "category": "industry",
-      "score": 67,
-      "selected": true
-    },
-    {
-      "id": "cmqas4pf30obzslldpvkbrqde",
-      "title": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code",
-      "title_en": "🌘 Kimi-K2.7-Code， our latest coding model， is now released and open-sourced！ 🔷 Improved coding & …",
-      "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "publishedAt": "2026-06-12T10:16:02.000Z",
-      "summary": "Kimi 发布并开源最新代码模型 Kimi-K2.7-Code。相比 K2.6，其在 Kimi Code Bench v2 上提升 +21.8%，Program Bench 提升 +11.0%，MLS Bench Lite 提升 +31.5%。推理效率改进，推理 token 使用量降低 30%，长时编码任务中指令遵循和端到端成功率均提升。6x 高速模式即将推出，即日起可通过 Kimi API 和 Kimi Code 使用。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmqb6brwi0008sl5v981gsd10",
-      "title": "OpenAI 推出面向新时代工作的新 Academy 课程",
-      "title_en": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-12T10:00:00.000Z",
-      "summary": "OpenAI 发布三门 Academy 课程，帮助用户掌握实用 AI 技能、创建可重复工作流，并在日常工作中应用 AI 智能体。",
-      "category": "tip",
-      "score": 57,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-17T17:22:21Z"
+  "cachedAt": "2026-06-17T20:32:14Z"
 }
