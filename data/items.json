@@ -1,8 +1,56 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMzMxNTc2MDAwLCJpIjoiY21xYzZpYXVjMDBrbHNsdDQzNHg0b2Q4NiJ9",
+  "nextCursor": "eyJhIjoxNzgxMzc0OTc2MDAwLCJpIjoiY21xY295cmZvMDBpZXNsdHRqZDYwemkzYSJ9",
   "items": [
+    {
+      "id": "cmqj36zhf06vksl5w4wx2c0eo",
+      "title": "MOSS-TTS-Local-Transformer-v1.5 在 SGLang-Omni 上：原生流式 48 kHz 语音服务",
+      "title_en": "Blog MOSS-TTS Local Transformer v1.5 on SGLang-Omni： Serving Native-Streaming 48 kHz Speech Today we are announcing end-to-end serving for MOSS-TTS-Local-Transformer-v1.5 on SGLang-Omni， together with MOSI and the OpenMOSS Team. MOSS-TTS-Local-Transformer-v1.5 is an open TTS model for 48 kH… MOSI， OpenMOSS Team & SGLang-Omni Team",
+      "url": "https://www.lmsys.org/blog/2026-06-17-moss-tts-local-v15",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-06-18T05:56:08.548Z",
+      "summary": "MOSS-TTS-Local-Transformer-v1.5 是一款开源 TTS 模型，支持 48 kHz 立体声、零样本声音克隆、最长 10 分钟长文本合成、时长控制及 31 种语言。其核心采用 Qwen3-4B 骨干与约 2B 参数的 MOSS-Audio-Tokenizer-v2 音频编解码器，通过 12 个 RVQ 码本运行。SGLang-Omni 以三阶段流水线部署该模型。在 Seed-TTS-Eval 上词错误率 5.10%、语音相似度 69.23%，CV3-Eval 上 WER 7.48%、SIM 61.59%，MiniMax Multilingual 上 WER 6.37%、SIM 75.31%，X Voice 上 WER 20.48%、SIM 63.00%。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true
+    },
+    {
+      "id": "cmqixf0ar057msl5w132f09uc",
+      "title": "cuTile Rust：安全无数据竞争的 GPU 内核系统",
+      "title_en": "Show HN： cuTile Rust：用 Rust 编写的、安全且无数据竞争的 GPU 内核",
+      "url": "https://github.com/nvlabs/cutile-rs",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-18T03:09:11.275Z",
+      "summary": "cuTile Rust 是一个基于 tile 的 GPU 编程系统，允许用 Rust 编写内存安全、无数据竞争的内核。它通过 `#【cutile：：module】` 宏将内核 AST 嵌入主机二进制，在运行时经 CUDA Tile IR JIT 编译为 GPU cubin。可变张量在启动前分割，不可变张量共享，启动器在 GPU 工作期间保持所有权。在 NVIDIA B200 上，逐元素操作达 7 TB/s（约 91% 峰值带宽），GEMM 达 2 PFlop/s（约 92% 密集 f16 峰值）。基于 cuTile Rust 构建的 Grout 推理引擎在 RTX 5090 上解码 Qwen3-4B 达 171 tokens/s，在 B200 上解码 Qwen3-32B 达 82 tokens/s。项目处于早期研究阶段。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqiw7jw604v7sl5w10zed5s8",
+      "title": "首个统一科学大模型 LOGOS 正式开源",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s/50q5uY849FKnBzk1Q04MRg",
+      "source": "公众号：通义实验室（千问）",
+      "publishedAt": "2026-06-18T02:31:28.000Z",
+      "summary": "LOGOS 由 ATH-Token Foundry 联合中国人民大学高瓴人工智能学院开源，是首个基于统一\"科学语法\"的多领域科学生成基础模型。LOGOS-1B（1B参数）在六大科学任务上匹配或超越领域专用方法：口袋条件配体生成纯序列范式首次超越3D扩散模型，超越NatureLM（8×7B）；逆合成预测Top-1准确率74.8%；口袋位点识别仅靠序列达58.5% Top-n准确率；MOF材料生成NBB提升至17.78%。模型采用统一词汇表将蛋白质、小分子等编码为离散Token，通过空间交互离散化实现无需3D坐标的序列预测。预训练与下游任务形式与目标一致，跨领域知识迁移经实验验证有效。已完整开源模型权重、推理代码与技术报告。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqiu8fi704ddsl5w9tfb6f52",
+      "title": "深入解析 Midjourney Scanner 技术内幕",
+      "title_en": "A technical dive inside our new \"Midjourney Scanner\"",
+      "url": "https://x.com/midjourney/status/2067422898407837797",
+      "source": "X：Midjourney (@midjourney)",
+      "publishedAt": "2026-06-18T01:43:24.000Z",
+      "summary": "我们全新\"Midjourney Scanner\"的技术深潜。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true
+    },
     {
       "id": "cmqit4gtr040zsl5wam5ck48b",
       "title": "上交所发布指引：AI大模型企业可适用科创板第五套上市标准",
@@ -352,6 +400,18 @@
       "selected": true
     },
     {
+      "id": "cmqiygkr105h9sl5wy9xi09kx",
+      "title": "Sumi：从头训练的7B开源均匀扩散语言模型",
+      "title_en": "Sumi： Open Uniform Diffusion Language Model from Scratch",
+      "url": "https://arxiv.org/abs/2606.19005",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "summary": "Sumi（日语\"墨\"）是一个完全开源的7B参数均匀扩散语言模型，从零开始在1.5T模型token上预训练。它在知识、推理和编程评测中与同等token预算的自回归模型表现相当，但在常识推理benchmark上略逊，教育密集型数据混合可能是原因之一。Sumi开放模型权重、检查点及完整训练配方（含公开语料数据混合说明），为社区提供首个大规模均匀扩散模型的基准参考。",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true
+    },
+    {
       "id": "cmqijfbdz01grsl5wxf4rd7e6",
       "title": "LifeSciBench 发布",
       "title_en": "Introducing LifeSciBench",
@@ -685,6 +745,18 @@
       "summary": "五角大楼宣布已将超2/3日常AI工作流从Anthropic转移，目标9月前清零。起因是年初五角大楼要求Anthropic签署协议允许Claude用于大规模监控和全自动武器，CEO Dario Amodei以模型不可靠为由拒绝。五角大楼将其列为\"供应链风险\"，起诉未果。OpenAI调整立场获得订单。Polymarket预测6月底前和解概率仅9%。此事件凸显AI公司需在原则与政府合作间抉择。",
       "category": "industry",
       "score": 78,
+      "selected": true
+    },
+    {
+      "id": "cmqj0n3n60627sl5w3j8s8lx5",
+      "title": "SAE干预不可靠：干预后抑制行为的恢复",
+      "title_en": "SAE Interventions are Unreliable： Post-Intervention Recovery of Suppressed Behavior",
+      "url": "https://arxiv.org/abs/2606.18322",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "summary": "稀疏自编码器（SAE）将残差流激活分解为可解释特征，但干预特定特征后，通过优化残差扰动可恢复原有行为。研究发现这是一种可恢复失败模式：干预阻断一条可见行为路径，却未消除行为本身。即使干预在整个优化和生成期间保持激活，恢复依然可行。在TPP、遗忘、IOI和拒绝引导场景中均观察到可恢复行为。安全关键的拒绝引导场景下有效样本恢复率达95.8%，被防御特征的相对漂移仅0.131。归因分析将恢复路径定位到SAE重建残差，表明控制SAE特征并不能保证控制底层行为。",
+      "category": "paper",
+      "score": 70,
       "selected": true
     },
     {
@@ -1084,18 +1156,6 @@
       "selected": true
     },
     {
-      "id": "cmqdcj53706qpslttlp0b4n9p",
-      "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来",
-      "title_en": "As Anthropic suspends access to new models， India debates its AI future",
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-14T03:00:00.000Z",
-      "summary": "Anthropic 暂停了新模型的访问权限，印度科技领袖围绕这一事件展开辩论，探讨其是否是对该国 AI 雄心的警示。",
-      "category": "industry",
-      "score": 72,
-      "selected": true
-    },
-    {
       "id": "cmqd77jxy05cwslttn9jua0ur",
       "title": "Anthropic 上市前夕",
       "title_en": "Anthropic 上市前夕 彭博社采访了Anthropic 公司俩兄妹，在这次采访中（Fable 5 还没有被封杀）Dario Amodei极度的渲染了Mythos的威力和AI的威胁 当然这也是…",
@@ -1142,67 +1202,7 @@
       "category": "ai-products",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmqcopoix00f8slttxcyouu31",
-      "title": "Fusion API：半价达Fable级智能",
-      "title_en": "Introducing the Fusion API， the smartest compound model in the market. Fusion achieves Fable-level …",
-      "url": "https://x.com/OpenRouter/status/2065856853989270011",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-06-13T18:00:30.000Z",
-      "summary": "推出Fusion API，市场上最智能的复合模型。\n\nFusion以一半的价格实现Fable级别的智能。\n\n工作原理如下👇",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmqcoq94v00fxsltty2h9ohuh",
-      "title": "Paca：一款适用于人机协作的轻量级 Jira 替代方案",
-      "title_en": "Show HN： Paca--一款适用于人机协作的轻量级 Jira 替代方案",
-      "url": "https://github.com/Paca-AI/paca",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-13T17:50:09.601Z",
-      "summary": "Paca 是一款面向人类与 AI 智能体协作场景的轻量级项目管理工具，旨在替代 Jira。项目已开源并托管于 GitHub，支持团队通过直观界面协同管理任务，特别针对 AI 参与工作流进行了优化。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmqc5usi000cbslt49vfrpgge",
-      "title": "谷歌Android安全负责人因反对军事AI合作辞职",
-      "title_en": "谷歌抛弃\"不作恶\"承诺：Android 安全主管因军事 AI 合作愤而辞职，控诉公司丧失道德底线",
-      "url": "https://www.ithome.com/0/963/888.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-13T08:40:39.000Z",
-      "summary": "谷歌Android平台安全负责人René Mayrhofer辞职，他在5月18日内部告别信中指责公司\"丧失道德指针\"，批评谷歌悄悄放弃碳中和目标（因AI模型能耗），并与美国战争部签署允许AI用于\"任何合法目的\"的协议。今年4月下旬谷歌宣布向五角大楼提供AI用于机密工作，2025年2月更新AI原则时移除了不使用AI开发武器或监控工具的承诺。Mayrhofer担忧谷歌AI产品可能被用于针对公民的大规模监控，包括自己和家人。",
-      "category": "industry",
-      "score": 80,
-      "selected": true
-    },
-    {
-      "id": "cmqc1kg4p00ctsl9bfiuzkt6u",
-      "title": "扎克伯格承认 Meta AI 转型\"脱轨\"：裁员 10%、转岗 7000 人后组织调整过快",
-      "title_en": "Meta 裁员 10%、转岗约 7000 人后，扎克伯格坦言公司 AI 转型\"脱轨\"",
-      "url": "https://www.ithome.com/0/963/858.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-13T06:49:25.000Z",
-      "summary": "路透社披露的 Meta 内部备忘录显示，CEO 扎克伯格承认公司在 AI 转型中组织调整节奏过快，带来员工安置、管理跨度等问题，预计未来\"几乎肯定会犯更多错误\"。Meta 今年 5 月已裁减全球 10% 员工，并将 7000 人转入 AI 相关新项目。为缓解协作问题，公司将增加团队建设预算，7 月举办黑客松。新成立的应用 AI 工程部门个人贡献者与管理者比例最高达 50：1。扎克伯格重申今年不再全公司裁员。",
-      "category": "industry",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqc6iauc00klslt434x4od86",
-      "title": "智谱 GLM-5.2 全量开放，支持 1M 上下文且下周开源",
-      "title_en": "致开发者：GLM-5.2全量开放，前沿智能属于所有人",
-      "url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
-      "source": "公众号：智谱（GLM）",
-      "publishedAt": "2026-06-13T06:19:36.000Z",
-      "summary": "GLM-5.2 是智谱迄今能力最强的开源模型，支持真正可用的 1M 上下文，在长程任务中继续保持领先，并被智谱称为最强的国产 Coding 模型。今晚 5：21 起面向 GLM Coding Plan 全量用户开放（覆盖 Lite、Pro、Max、团队版）。API 将于下周上线，模型下周正式开源，遵循 MIT 协议。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-18T01:40:07Z"
+  "cachedAt": "2026-06-18T07:05:05Z"
 }
