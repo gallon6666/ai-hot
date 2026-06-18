@@ -1,8 +1,68 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxMzc0OTc2MDAwLCJpIjoiY21xY295cmZvMDBpZXNsdHRqZDYwemkzYSJ9",
+  "nextCursor": "eyJhIjoxNzgxNDUxMjA0MDAwLCJpIjoiY21xZHl0NHJvMDE5anNscmRlNnczamt4aCJ9",
   "items": [
+    {
+      "id": "cmqjdctxe02bfslmhz7m5hdlk",
+      "title": "火山引擎上线豆包实时语音模型3.0 API 服务，开启邀测",
+      "title_en": "豆包实时语音模型3.0 API 服务正式上线",
+      "url": "https://mp.weixin.qq.com/s/L4BJnexabQu5DAxDnwEGxw",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-06-18T10:36:31.000Z",
+      "summary": "火山引擎上线豆包实时语音模型3.0（Seeduplex）API 服务并开启邀测。该模型为原生全双工端到端语音大模型，具备精准遵循、抗干扰、动态判停三大优势。可在多人对话中安静待命，指定话题出现时主动加入；支持通过自定义工具在实时交互中完成预定日历、发送邮件等任务。抗干扰力提升，误回复率与误打断率大幅降低；判停延迟缩短约250ms，复杂场景抢话比例下降40%，用户主动打断延迟缩短约300ms。适用于汽车智能座舱、智能硬件、智能客服等场景。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqja53m201fgslmhigeqiqu6",
+      "title": "Kimi Work 新增目标模式与插件中心，6月推出额度消耗5折福利",
+      "title_en": "Kimi Work 上新：目标模式、插件中心和 6 月限时福利",
+      "url": "https://mp.weixin.qq.com/s/KJav-s9qlkzV9yN8r6-sNg",
+      "source": "公众号：月之暗面（Kimi）",
+      "publishedAt": "2026-06-18T09:06:57.000Z",
+      "summary": "月之暗面旗下 Kimi Work（Beta 版）新增「目标模式」，支持设定终点后由 Agent 自主循环推进任务，最长连续运行24小时，过程中人类可随时中断调整。同时上线「插件中心」，可选装百度网盘、Canva可画、钉钉、飞书、WPS、Notion、Cloudflare 等外部应用。6月限时福利期间，Kimi 电脑客户端 Work 模式所有任务会员额度消耗减半，即从0.02%降至0.01%。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqjaaffp01gcslmhhkxrobvo",
+      "title": "八部门：用好个人消费贷款财政贴息政策，支持消费者购买 AI 相关产品",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/966/154.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-18T09:03:28.000Z",
+      "summary": "商务部等八部门6月18日发布关于加快\"人工智能+消费\"发展的实施意见。其中提到加大财政资金支持，落实数码和智能产品购新政策，鼓励地方在消费品以旧换新框架内自主制定补贴，重点支持新一代智能终端消费。增加AI手机、智能电脑、智能电视、智能家居、AI眼镜、智能网联汽车、人形机器人等产品供给，培育智能穿戴消费市场。同时加快AI在居家服务、养老服务、文化旅游、住宿餐饮、教育教学等领域的应用，建设AI商品首发平台，举办\"人工智能进万家\"活动。",
+      "category": "industry",
+      "score": 82,
+      "selected": true
+    },
+    {
+      "id": "cmqj858gd00vvslmhbegt7ms5",
+      "title": "DeepSeek 识图模式正式上线 App 和网页端",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/966/066.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-18T07:48:11.000Z",
+      "summary": "DeepSeek 识图模式于6月18日在网页和 App 端正式上线，与快速模式、专家模式并列。开启后用户可直接上传图片让 DeepSeek 识别图像，能力超越简单文字提取。目前 App 端仍显示\"图片理解功能内测中\"，网页端无此提示。该模式背后的多模态模型技术细节于今年4月公开，核心框架为\"Thinking with Visual Primitives（以视觉原语思考）\"。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqj7f40n00tmslmhcbr93w6l",
+      "title": "免费开源乔木画布：AI生图+抠图，一键部署Vercel",
+      "title_en": "免费开源乔木画布，一键部署Vercel为网站，简化版 PS。 支持Seedream生图、GPT-image-2，图片模版存储分享。 支持一键抠图、2w图标和常见Emoji，甚至都能画PRD了。 …",
+      "url": "https://x.com/vista8/status/2067513484364140994",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-06-18T07:43:21.000Z",
+      "summary": "乔木画布推出免费开源在线图像编辑器，可一键部署Vercel为网站，功能类似简化版PS。支持Seedream和GPT-image-2生图、图片模板存储分享、一键抠图、2万图标和常见Emoji，甚至能绘制PRD。随时创建3：4/16：9/21：9等不同尺寸画布。原计划高级功能收费，庆祝端午节现全免费开源。在线体验：https：//ps.qiaomu.ai/，GitHub见评论区。",
+      "category": "ai-products",
+      "score": 79,
+      "selected": true
+    },
     {
       "id": "cmqj36zhf06vksl5w4wx2c0eo",
       "title": "MOSS-TTS-Local-Transformer-v1.5 在 SGLang-Omni 上：原生流式 48 kHz 语音服务",
@@ -1142,67 +1202,7 @@
       "category": "tip",
       "score": 65,
       "selected": true
-    },
-    {
-      "id": "cmqdwb2rj00kkslrd8g9upvtv",
-      "title": "乔木小说创作 Skill 开源发布",
-      "title_en": "想写职场、武侠、修仙等任意风格小说？ 可自己完全没有思路，能创作吗？必须可以！ 今天开源一个乔木小说创作 Skill。 你只需说：\"我想写一个小说\" 或 \"想写一个类似xxx的小说\"。 AI自…",
-      "url": "https://x.com/vista8/status/2066165703443726749",
-      "source": "X：Vista (@vista8)",
-      "publishedAt": "2026-06-14T14:27:45.000Z",
-      "summary": "开源乔木小说创作 Skill，用户只需说\"我想写一个小说\"或指定风格，AI 自动生成剧情梗概、人物设定、钩子、经典桥段、人物欲望、冲突升级和结尾。与 AI 讨论确认后，可生成完整、低 AI 味的小说。安装命令：npx skills add joeseesun/qiaomu-novel-generator，Github 开源地址见评论区。",
-      "category": "tip",
-      "score": 82,
-      "selected": true
-    },
-    {
-      "id": "cmqd77jxy05cwslttn9jua0ur",
-      "title": "Anthropic 上市前夕",
-      "title_en": "Anthropic 上市前夕 彭博社采访了Anthropic 公司俩兄妹，在这次采访中（Fable 5 还没有被封杀）Dario Amodei极度的渲染了Mythos的威力和AI的威胁 当然这也是…",
-      "url": "https://x.com/xiaohu/status/2065991805238497732",
-      "source": "X：小互 (@xiaohu)",
-      "publishedAt": "2026-06-14T02:56:45.000Z",
-      "summary": "Anthropic CEO Dario Amodei透露内部模型Mythos有上千漏洞，能黑银行、窃取国家机密；预言AI一到五年内砍掉一半入门级白领工作；称Claude已被美军用于对伊朗战争，涉及女校150人死亡拷问；解释离开OpenAI因信任崩塌；回怼黄仁勋末日营销指控；给出文明崩溃概率10%-25%。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqd1t7a003wgslttffgjyn8q",
-      "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
-      "title_en": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-14T00:03:49.000Z",
-      "summary": "据 TechCrunch 报道，Meta 已开始撤销对 Manus 的 20 亿美元收购交易，此前北京要求该交易必须反转。目前收购解除程序已启动。",
-      "category": "industry",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmqcqvtnc010psltt2q0d17fc",
-      "title": "GLM 5.2 发布",
-      "title_en": "GLM 5.2 已发布",
-      "url": "https://digg.com/tech/ii9xibgn",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-13T18:54:17.932Z",
-      "summary": "GLM 5.2 版本已正式发布。该消息来自 Hacker News 的一则热门讨论，帖子获得 111 个 HN 积分。页面包含一张发布图片，但未提供具体功能或更新内容。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqcoyrfo00ieslttjd60zi3a",
-      "title": "Suno 音轨分离：从零生成更纯净",
-      "title_en": "Major update： Stem separation on Suno just got a massive level up. 🚀 We're now regenerating stems …",
-      "url": "https://x.com/suno/status/2065862499765821916",
-      "source": "X：Suno (@suno)",
-      "publishedAt": "2026-06-13T18:22:56.000Z",
-      "summary": "重大更新：Suno 的音轨分离刚刚大幅升级。🚀\n\n我们现在从零重新生成音轨，而非仅仅隔离频率。结果如何？纯净无伪影的音轨，可直接拖入你的 DAW。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-18T07:05:05Z"
+  "cachedAt": "2026-06-18T11:17:00Z"
 }
