@@ -1,8 +1,56 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNDUxMjA0MDAwLCJpIjoiY21xZHl0NHJvMDE5anNscmRlNnczamt4aCJ9",
+  "nextCursor": "eyJhIjoxNzgxNDU4NDQ5MTgzLCJpIjoiY21xZTM5OW1uMDAwM3NsNjE4dzN5OWZuaCJ9",
   "items": [
+    {
+      "id": "cmqjl65ia04dbslmhcc06x5r6",
+      "title": "AI危险程度谁来定？美国政府管制Anthropic Fable 5引发争议",
+      "title_en": "Who decides when AI is too dangerous？",
+      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-06-18T14:00:00.000Z",
+      "summary": "上周五，美国政府宣布对Anthropic新模型Fable 5及其底层模型Mythos实施出口管制，限制外国公民（包括在美Anthropic员工）访问。Anthropic随即下线Fable和Mythos，称否则无法合理遵守命令。Fable 5是首个公开的Mythos级模型，此前Anthropic称其可能成为\"潜在网络武器\"，仅限企业与政府使用。截至周二，Fable 5仍处于离线。这场冲突对美国AI监管格局产生深远影响，引发监管是安全框架还是政治武器的讨论。",
+      "category": "industry",
+      "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmqjj40zi03y2slmhpeucu9ao",
+      "title": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
+      "title_en": "Adobe adds AI agents to Photoshop， Premiere， and more Creative Cloud apps",
+      "url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-06-18T12:59:00.000Z",
+      "summary": "Adobe 将其\"创意智能体\"扩展至 Photoshop、Premiere 等应用，以公开测试形式提供 AI Assistant。该智能体可自动完成多步骤常规任务，如 Premiere 分拣素材和粗剪、Photoshop 换背景、Illustrator 批量生成文件、InDesign 更新版式等。Firefly 新增面向个人创作者的品牌套件、产品图转短视频及 Quick Cut 自动剪辑功能。Adobe 工具已集成至 ChatGPT、Claude 及 Microsoft 365 Copilot，Google Gemini 和 Slack 集成即将推出。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqjgpxud036hslmhb8vvzvs7",
+      "title": "皮尤民调：63%美国人认为AI发展太快，ChatGPT使用率翻番",
+      "title_en": "皮尤研究中心民调：63% 美国人认为 AI 发展速度过快",
+      "url": "https://www.ithome.com/0/966/233.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-18T12:11:32.000Z",
+      "summary": "皮尤研究中心最新民调显示，63%美国人认为AI发展速度过快。ChatGPT使用率较2023年翻番，44%受访者曾使用。49%偶尔使用聊天机器人，仅16%认为AI会有积极社会影响。青年群体使用率更高但更悲观：18-29岁中66%用过，48%认为有负面影响，仅14%看好。30-49岁中34%每天至少使用一次。约四成用AI处理工作，30%认为提高效率，28%认为帮助获取信息。此外，66%成年人担心AI传播错误信息。",
+      "category": "tip",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmqjfr2vi02xmslmhwqz72cx7",
+      "title": "ChatGPT 图像生成器可被绕过滤镜生成暴力和色情内容",
+      "title_en": "ChatGPT的图像生成器可以被利用来生成暴力和色情内容",
+      "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-18T11:25:28.101Z",
+      "summary": "Mindgard 红队研究发现，ChatGPT 的图像生成器可通过简单提示词轻易绕过内容过滤器，在未直接请求的情况下自动生成性暴力、血腥谋杀等露骨图像。一个热门的\"恢复照片\"提示词因输入模糊而绕过输入过滤器，结果如同俄罗斯轮盘赌；进一步添加虚假图像 ID 和\"不做审查\"指令后，模型持续生成高度性化女性图像，甚至出现被捆绑殴打的尸体，并自动赋予惊悚标题。研究指出，OpenAI 此前声称修复的裸体问题仍未解决，暴露了 AI 工具广泛可及性与不足内容过滤的现实风险。",
+      "category": "paper",
+      "score": 79,
+      "selected": true
+    },
     {
       "id": "cmqjdctxe02bfslmhz7m5hdlk",
       "title": "火山引擎上线豆包实时语音模型3.0 API 服务，开启邀测",
@@ -145,6 +193,18 @@
       "summary": "两年前谷歌花 27 亿美元请回的 AI 传奇 Noam Shazeer 已离开谷歌，加入 OpenAI。\n\n对 Gemini 来说是个残酷的消息。",
       "category": "industry",
       "score": 82,
+      "selected": true
+    },
+    {
+      "id": "cmqjk1dcw0421slmh4xbaqcmp",
+      "title": "AI 智能体够格吗？在自有工具上评测开源模型",
+      "title_en": "Is it agentic enough？ Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "summary": "Hugging Face 发布面向 AI 智能体使用场景的基准测试框架，以 transformers 库为案例评估库的智能体友好度。框架使用 pi coding agent 与开源模型驱动，通过 Hugging Face Jobs 分散任务确保硬件一致。评估关注 agent 完成任务的成本、延迟、token 使用量和失败率，而非仅最终结果。此前 hf CLI 经优化后 agent token 使用量减少 1.3-1.8 倍（最高 6 倍），该框架旨在验证类似优化对 transformers 的效果。",
+      "category": "tip",
+      "score": 74,
       "selected": true
     },
     {
@@ -613,6 +673,18 @@
       "summary": "Copilot Cowork 现已全球正式可用，并支持多模型！\n每个组织都可以让长期运行的智能体处理复杂的多步骤任务，基于你组织的独特知识和专有技术。 https：//www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/？v=15",
       "category": "ai-products",
       "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqjj1o7s03v3slmh24mblf0e",
+      "title": "保障AI智能体的未来安全",
+      "title_en": "Securing the future of AI agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-06-16T15:46:31.000Z",
+      "summary": "Google DeepMind发布AI Control Roadmap，这是一套针对内部先进AI智能体的系统级安全框架。该框架在传统模型对齐之上增加防线，假设AI智能体可能不对齐，通过威胁建模、沙箱隔离、端点安全、提示注入防御以及基于已验证行为逐步授予权限的机制建立信任。据估算，到2030年仅美国市场AI智能体就能创造2.9万亿美元经济价值。",
+      "category": "tip",
+      "score": 65,
       "selected": true
     },
     {
@@ -1130,79 +1202,7 @@
       "category": "ai-models",
       "score": 72,
       "selected": true
-    },
-    {
-      "id": "cmqegnuc40214slunxe96pbiy",
-      "title": "OpenAI 推出合作伙伴网络 OpenAI Partner Network",
-      "title_en": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-14T17:00:00.000Z",
-      "summary": "OpenAI 宣布推出 OpenAI Partner Network，并投资 1.5 亿美元支持全球合作伙伴构建、销售和交付 AI 解决方案。该计划设立 Select、Advanced、Elite 三级合作伙伴层级，提供 Codex、网络安全、智能体等专业方向认证，并试点 Forward Deployed Experts 项目以支持复杂企业部署。目标在 2026 年底前培训认证 30 万名顾问。案例显示，Paychex 借助 Bain 和 OpenAI 的方案将等待时间降低 80%，人工审核时间减少 30%。",
-      "category": "industry",
-      "score": 59,
-      "selected": true
-    },
-    {
-      "id": "cmqe0t4ci01r7slrd7j98j1za",
-      "title": "白宫AI监管决定被指偏袒OpenAI与亚马逊",
-      "title_en": "What Washington must do",
-      "url": "https://garymarcus.substack.com/p/what-washington-must-do",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-06-14T16:15:35.000Z",
-      "summary": "白宫周五做出的AI监管决定被指偏袒OpenAI、亚马逊等企业，同时对Anthropic施压不足24小时，缺乏透明度和事实依据。Gary Marcus、Dean W Ball及卡托研究所Kevin Frazier等专家指出，这种由少数人闭门快速决策的做法带有腐败嫌疑，可能促使其他国家加速发展\"主权AI\"甚至中国AI，并导致美国人才流失。Anthropic声明称政府应在法定程序中基于技术事实阻止不安全部署，而非当前方式。Marcus呼吁建立独立机构负责AI监管，确保公平、清晰、基于证据的执行。",
-      "category": "tip",
-      "score": 65,
-      "selected": true
-    },
-    {
-      "id": "cmqe01h4c01klslrdw4s96n1z",
-      "title": "不，并不是每个人都在所有事情上都使用人工智能",
-      "title_en": null,
-      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-14T16:14:04.686Z",
-      "summary": "Gabriel Weinberg 发文反驳\"AI 已被所有人用于所有任务\"的流行说法，指出 AI 的实际普及度和使用场景远低于社交媒体所渲染的程度。该帖在 Hacker News 获得 116 个点赞，反映社区对 AI 过度宣传的反思。",
-      "category": "tip",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmqfzukav0264slspmybg065u",
-      "title": "伯克利RDI发布Agents' Last Exam基准",
-      "title_en": "Agents' Last Exam",
-      "url": "https://rdi.berkeley.edu/blog/agents-last-exam",
-      "source": "Berkeley RDI：Blog（AI 安全与评测）",
-      "publishedAt": "2026-06-14T16:00:00.000Z",
-      "summary": "2026年6月，伯克利RDI发布Agents' Last Exam（ALE）基准，包含1，500余项源于真实工作的任务，覆盖55个非体力职业。对Fable 5、GPT-5.5、Composer 2.5等前沿智能体的测评显示：在最困难层级成功率均为0%；整体任务表现接近，但单任务成本差异巨大（Fable 5约$15.70，GPT-5.5约$3.80，Composer 2.5约$1.33）。CLI子集ALE-CLI最佳通过率仅25.2%。主要失败模式是智能体未验证输出即宣称完成。数据集、代码及CLI子集已开源。",
-      "category": "paper",
-      "score": 83,
-      "selected": true
-    },
-    {
-      "id": "cmqfhhoq001hksl2aw53w2wz8",
-      "title": "下一代投机解码：DFlash 与 Spec V2",
-      "title_en": "Blog The next generation of speculative decoding： DFlash and Spec V2 Using Modal and Z Lab's DFlash speculative decoding models with SGLang's newly default Spec V2 engine， you can achieve state-of-the-art latencies for LLM inference serving. Our new， jointly-released D… Z Lab， Modal， and SGLang Teams",
-      "url": "https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-06-14T16:00:00.000Z",
-      "summary": "Z Lab、Modal 与 SGLang 团队联合发布 DFlash 投机解码模型和 SGLang 的默认 Spec V2 引擎。DFlash 采用块扩散+KV 注入并行生成整块 draft token，在 Qwen 3.5 397B-A17B（BF16）的 HumanEval 数据集上、并发 1 时吞吐量达到基线的 4.3",
-      "category": "ai-models",
-      "score": 67,
-      "selected": true
-    },
-    {
-      "id": "cmqdyt4ro019jslrde6w3jkxh",
-      "title": "Satya Nadella：没有生态的前沿不稳定",
-      "title_en": "http：//x.com/i/article/2065582894790365184",
-      "url": "https://x.com/satyanadella/status/2066182223213293753",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "publishedAt": "2026-06-14T15:33:24.000Z",
-      "summary": "微软CEO Satya Nadella认为，AI驱动的平台转变首次实现人与数字系统间的认知循环。企业需同时构建人力资本（知识、判断、关系）与token资本（自有的AI能力），且人力资本不会贬值，反而随token资本增长而增值。真正的机会在于建立人力资本与token资本复合增长的学习循环--企业应能替换通用模型而不丢失已内化的专家知识，通过私有评估和强化学习让模型从内部真实轨迹中持续提升。他警告，若所有价值被少数模型吞噬，将重演全球化空心化悲剧，呼吁构建前沿生态系统，让每家企业、行业和国家拥有自己的学习循环。",
-      "category": "tip",
-      "score": 65,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-18T11:17:00Z"
+  "cachedAt": "2026-06-18T14:25:01Z"
 }
