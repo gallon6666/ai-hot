@@ -1,8 +1,56 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNTM0MDg1MDAwLCJpIjoiY21xZmMzOGExMDA1ZnNsMmEyMWRpZG84MyJ9",
+  "nextCursor": "eyJhIjoxNzgxNTQ4MjU4MDAwLCJpIjoiY21xZmp3cGI1MDBvMnNscTh2YnJ5dXh5ZyJ9",
   "items": [
+    {
+      "id": "cmqjy18o2018cslhialdbdvi7",
+      "title": "OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员",
+      "title_en": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-18T19:59:22.000Z",
+      "summary": "OpenAI在IPO前夕连招两位重量级人物：Google DeepMind AI先驱、Transformer架构共同作者Noam Shazeer，以及前特朗普白宫AI政策官员Dean Ball。Shazeer此前通过27亿美元收购协议重返Google，此次离职加盟OpenAI。Ball将于7月6日加入，领导新组建的Strategic Futures团队，向首席战略官Jason Kwon汇报，团队将负责前沿AI政策与内部治理，聚焦灾难性风险、递归自我改进、劳动力市场影响及前沿实验室与政府关系等议题。此举正值Anthropic因美国政府出口管制禁令被迫下架Fable 5和Mythos 5模型。",
+      "category": "industry",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqjv0f7b00icslhi7qozgr78",
+      "title": "Claude Code 现已支持 artifacts",
+      "title_en": "Claude Code now supports artifacts",
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-18T18:54:47.698Z",
+      "summary": "从今日起，Claude Code 可将工作进度生成为 artifacts--实时、可分享的交互式网页，涵盖 PR 走查、系统说明、仪表盘、发布清单等。artifacts 基于会话完整上下文（代码库、连接器、对话）自动构建，更新时页面原地刷新，同事即时可见。默认仅作者可见，可分享给组织内成员，由管理员通过组织层级开关和角色权限管控。内部测试中最常见用例为调试：工程师调查事件，Claude Code 分析日志并发布包含时间线、嫌疑提交和错误率图表的 artifact，团队无需再\"走过场式汇报\"。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqjuxull00fuslhitp791yyz",
+      "title": "OpenAI 联合多国医生：GPT-5.5 Instant 健康问答能力追平前沿 Thinking 模型",
+      "title_en": "We've collaborating with hundreds of physicians across 60 countries， 49 languages， and 26 specialtie…",
+      "url": "https://x.com/gdb/status/2067675030335668270",
+      "source": "X：Greg Brockman (@gdb)",
+      "publishedAt": "2026-06-18T18:25:17.000Z",
+      "summary": "OpenAI 与全球 60 个国家、49 种语言、26 个专科的数百名医生合作，通过医生主导的评估大幅提升了 GPT-5.5 Instant 在健康相关问题的智能水平，现已能与公司前沿 Thinking 模型（推理模型）相当。该模型每周为超过 2.3 亿 ChatGPT 用户服务，能更好识别紧急医疗需求、询问相关上下文、解释不确定性并简化复杂信息。由于面向所有 ChatGPT 免费用户开放，这些改进可惠及更多人。",
+      "category": "ai-products",
+      "score": 79,
+      "selected": true
+    },
+    {
+      "id": "cmqjur86800bvslhi6qv1647r",
+      "title": "MosaicLeaks： 你的研究智能体能保守秘密吗？",
+      "title_en": "MosaicLeaks： Can your research agent keep a secret？",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-06-18T18:13:13.000Z",
+      "summary": "深度研究智能体在结合私有本地文档与外部网页检索时存在隐私泄露风险。MosaicLeaks 提出包含 1，001 条多跳研究链的新任务，每条链交错混合本地与公共子问题。测试发现智能体频繁泄露私有信息，单纯优化任务性能反而加剧泄露。基于此，研究提出隐私感知深度研究（PA-DR）强化学习训练方法，将严格链成功率从 48.7% 提升至 58.7%，同时将答案/全面信息泄露率从 34.0% 降至 9.9%。",
+      "category": "paper",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmqjsqzm906hvslmhamqrju3u",
       "title": "Claude Enterprise 推出企业托管 MCP 连接器授权管理",
@@ -64,6 +112,18 @@
       "selected": true
     },
     {
+      "id": "cmqjvhcit00lqslhiulrfivqk",
+      "title": "企业版新用量分析与更新的支出控制",
+      "title_en": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-18T17:00:00.000Z",
+      "summary": "OpenAI 为 ChatGPT Enterprise 推出信用额度用量分析与更新的支出控制功能。全局管理控制台（Global Admin Console）统一展示 ChatGPT 和 Codex 的信用消耗，支持按时间、用户、产品、模型追踪用量趋势。管理员可为整个工作区设置默认限额，按群组配置额度，并为个人设置叠加限制。员工可查看个人用量并申请增加额度（附工作上下文）。这些功能即日起可用。",
+      "category": "ai-products",
+      "score": 58,
+      "selected": true
+    },
+    {
       "id": "cmqjpkj4105oqslmh4rmirant",
       "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
       "title_en": "Project Fetch： Phase two",
@@ -121,6 +181,18 @@
       "summary": "Mindgard 红队研究发现，ChatGPT 的图像生成器可通过简单提示词轻易绕过内容过滤器，在未直接请求的情况下自动生成性暴力、血腥谋杀等露骨图像。一个热门的\"恢复照片\"提示词因输入模糊而绕过输入过滤器，结果如同俄罗斯轮盘赌；进一步添加虚假图像 ID 和\"不做审查\"指令后，模型持续生成高度性化女性图像，甚至出现被捆绑殴打的尸体，并自动赋予惊悚标题。研究指出，OpenAI 此前声称修复的裸体问题仍未解决，暴露了 AI 工具广泛可及性与不足内容过滤的现实风险。",
       "category": "paper",
       "score": 79,
+      "selected": true
+    },
+    {
+      "id": "cmqjtupux005wslhimmk1a4kw",
+      "title": "GPT-5.5 Instant提升ChatGPT健康智能",
+      "title_en": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-18T11:00:00.000Z",
+      "summary": "每周超2.3亿用户通过ChatGPT获取健康信息。GPT-5.5 Instant在健康评估中表现显著提升，最具挑战性评测上达到前沿Thinking模型水平，已面向所有免费用户开放。基于医生编写的HealthBench和HealthBench Professional评估，其回复在准确性、安全性和沟通质量上优于医生手写回复及早期模型，故障模式发生率更低。近两个月生产流量显示，健康类回复事实性问题率下降71%。",
+      "category": "ai-products",
+      "score": 82,
       "selected": true
     },
     {
@@ -265,6 +337,18 @@
       "summary": "两年前谷歌花 27 亿美元请回的 AI 传奇 Noam Shazeer 已离开谷歌，加入 OpenAI。\n\n对 Gemini 来说是个残酷的消息。",
       "category": "industry",
       "score": 82,
+      "selected": true
+    },
+    {
+      "id": "cmqjw516300uqslhirb12dvrf",
+      "title": "xAI 发布 Grok for Word 插件",
+      "title_en": "Grok for Word Jun 18， 2026 # Grok for Word Use the Grok add-in for Microsoft Word to turn notes into documents， style and format your work， or bring research from the web into Word. Read More",
+      "url": "https://x.ai/news/introducing-word-addin",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "summary": "xAI 将 Grok 引入 Microsoft Word，推出免费 365 插件。用户可将笔记转为结构化文档、重写文本以提升清晰度与简洁性，也能通过插件搜索网页、X 平台或生成图表。插件支持连接 SharePoint 和 Google Drive 等外部来源，还可用于 PowerPoint 和 Excel。",
+      "category": "ai-products",
+      "score": 61,
       "selected": true
     },
     {
@@ -1118,91 +1202,7 @@
       "category": "ai-products",
       "score": 71,
       "selected": true
-    },
-    {
-      "id": "cmqfjwkcg00nsslq8hl0hy4hc",
-      "title": "OpenRouter新增免费模型gpt-oss-20b和Gemma4 26B",
-      "title_en": "New Free capacity on OpenRouter， served by @eigenlabs's Darkbloom： gpt-oss-20b and Gemma 4 26B Star…",
-      "url": "https://x.com/OpenRouter/status/2066585705581797616",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-06-15T18:16:42.000Z",
-      "summary": "OpenRouter 上新增免费容量，由 @eigenlabs 的 Darkbloom 提供：gpt-oss-20b 和 Gemma 4 26B。\n今天就开始使用这些模型吧 ↓",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true
-    },
-    {
-      "id": "cmqg8eidi00c8sl9syvs6mwbm",
-      "title": "免费LLM API比较：速率限制、模型与真实成本（2026）",
-      "title_en": "Free LLM APIs Compared： Rate Limits， Models， and Real Costs （2026）",
-      "url": "https://openrouter.ai/blog/tutorials/free-llm-apis-compared",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-15T17:00:00.000Z",
-      "summary": "13个平台提供免费LLM API，含永久免费层与试用额度。OpenRouter拥有20+免费模型，单密钥无需信用卡；Groq以约320 tokens/秒运行Llama 3.3 70B；Google AI Studio支持1M上下文；Mistral实验层约10亿token/月但需同意数据训练；Cerebras约1M token/天；GitHub Models提供GPT-4o、Claude 3.5 Sonnet等前沿模型。各免费层有速率限制、数据训练授权、上下文缩减等隐藏成本，建议早期测试2-3个方案并设置故障转移。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqh1kwnx002asle1lo0di435",
-      "title": "Anthropic：智能体编码中专业知识回报持续存在",
-      "title_en": "Agentic coding and persistent returns to expertise",
-      "url": "https://www.anthropic.com/research/claude-code-expertise",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-06-15T16:00:00.000Z",
-      "summary": "Anthropic 基于约40万次 Claude Code 交互会话（2025年10月至2026年4月）分析发现：人类主导规划决策（做什么），Claude 主导执行决策（怎么做）。领域专业知识越强，模型每次指令完成的工作量越多。各类职业完成任务的成功率与软件工程师平均相近；领域专家成功率更高，但与中级用户差距不大。七个月间调试会话占比下降近一半，使用转向端到端智能体任务（部署运行代码、分析数据、编写非代码文档），典型任务价值平均上升约25%。",
-      "category": "paper",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmqg8eidi00c9sl9sb4cjwewg",
-      "title": "智能体AI治理：你的API密钥就是护栏",
-      "title_en": "Agentic AI Governance： Your API Key Is a Guardrail",
-      "url": "https://openrouter.ai/blog/insights/agentic-ai-governance",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-15T16:00:00.000Z",
-      "summary": "智能体AI使用量将在未来两年急剧上升，但治理滞后--仅五分之一企业拥有成熟治理模型。典型事故：销售智能体重试失败调用后自行升级到GPT-5.5，一夜消耗200美元。API路由层位于智能体与模型之间，是强制执行预算上限、模型白名单、提供方准入和请求日志的理想点。IBM报告指出97%遭遇AI安全事件的组织缺乏AI访问控制。最小可行治理方案：为每个智能体工作流分配独立API密钥，在API密钥层面实现预算控制、模型准入和审计追踪。",
-      "category": "tip",
-      "score": 68,
-      "selected": true
-    },
-    {
-      "id": "cmqfewpje00u4sl2awgrmj4ke",
-      "title": "Nvidia 加入 AI 债务热潮，发行 200 亿美元债券",
-      "title_en": "Nvidia joins AI debt boom with $20 billion bond sale",
-      "url": "https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-06-15T15:43:04.000Z",
-      "summary": "Nvidia 计划通过自 2021 年以来的首次债券发行筹集至少 200 亿美元，消息援引知情人士透露。此举标志着 Nvidia 加入 AI 领域的债务融资热潮。",
-      "category": "industry",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqfccohd008esl2a2ofz86v0",
-      "title": "MiniMax 开源 M3 模型权重及 MSA 技术论文",
-      "title_en": "我们开源了 MiniMax M3",
-      "url": "https://mp.weixin.qq.com/s/AW6L89QZkwN-jD27hQ84ww",
-      "source": "公众号：MiniMax（稀宇科技）",
-      "publishedAt": "2026-06-15T14:40:02.000Z",
-      "summary": "MiniMax 上周五开源了 428B 总参数、23B 激活参数的 M3 模型权重，同步发布 MSA（MiniMax Sparse Attention）技术论文，该架构显著降低长上下文计算成本。M3 是首个从预训练阶段就进行文本、图像等多模态交错混合训练的开源模型。发布两周后，M3 在 Artificial Analysis 综合智能指数、GDPval-AA 排行榜均获开源模型第一，Code Arena WebDev 跻身帕累托最优序列，Vals.AI 榜单居国产模型首位。输出速度已从约 30 TPS 提升至约 80 TPS，计划再提速 30-40%；Token Plan 后台新增调用量看板。",
-      "category": "ai-models",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmqfc38a1005fsl2a21dido83",
-      "title": "Salesforce以36亿美元收购AI客服平台Fin",
-      "title_en": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
-      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-15T14:34:45.000Z",
-      "summary": "Salesforce宣布以36亿美元收购AI客服平台Fin（前身为Intercom）。Fin提供可跨实时聊天、WhatsApp、短信、电话、Slack等多渠道解决客户问题的AI智能体。Salesforce计划利用Fin的技术和团队增强其企业级Agentforce平台，该平台允许企业构建自定义AI智能体以自动化任务。交易预计在Salesforce 2027财年第四季度（即2027年初）完成。Fin联合创始人兼CEO Eoghan McCabe将继续担任CEO，研发负责人Des继续领导研发。",
-      "category": "industry",
-      "score": 73,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-18T18:10:58Z"
+  "cachedAt": "2026-06-18T20:38:00Z"
 }
