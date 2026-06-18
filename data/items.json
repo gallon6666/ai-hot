@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNTQ4MjU4MDAwLCJpIjoiY21xZmp3cGI1MDBvMnNscTh2YnJ5dXh5ZyJ9",
+  "nextCursor": "eyJhIjoxNzgxNTU0NTMxMDAwLCJpIjoiY21xZnA1MHNmMDAwNHNsMDAybzhkY2M3dyJ9",
   "items": [
     {
       "id": "cmqjy18o2018cslhialdbdvi7",
@@ -49,6 +49,18 @@
       "summary": "深度研究智能体在结合私有本地文档与外部网页检索时存在隐私泄露风险。MosaicLeaks 提出包含 1，001 条多跳研究链的新任务，每条链交错混合本地与公共子问题。测试发现智能体频繁泄露私有信息，单纯优化任务性能反而加剧泄露。基于此，研究提出隐私感知深度研究（PA-DR）强化学习训练方法，将严格链成功率从 48.7% 提升至 58.7%，同时将答案/全面信息泄露率从 34.0% 降至 9.9%。",
       "category": "paper",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqk1gfya0283slhilhufijtu",
+      "title": "OpenAI 强化学习实现广泛且持久的有益模型",
+      "title_en": "Reinforcement learning towards broadly and persistently beneficial models",
+      "url": "https://alignment.openai.com/beneficial-rl",
+      "source": "OpenAI：Alignment 研究博客（RSS）",
+      "publishedAt": "2026-06-18T18:00:00.000Z",
+      "summary": "OpenAI 通过强化学习在真实对话场景中训练模型，使其展现诚实、认知谦逊、元认知透明、可纠正性、普遍公平性和对人类福祉的关心等有益特质。训练数据涵盖健康、教育、科学、法律、工程等多个领域。训练后模型在数十项独立对齐评测（包括奖励黑客、欺骗、有害建议、规范遵从等）上均表现提升，且这种改善泛化到未参与训练的领域、任务和评分设定。在对抗性提示或微调下，模型仍难以被导向有害行为，表明有益特质强化学习可产生广泛且持久的对齐泛化。",
+      "category": "paper",
+      "score": 64,
       "selected": true
     },
     {
@@ -1190,19 +1202,7 @@
       "category": "tip",
       "score": 59,
       "selected": true
-    },
-    {
-      "id": "cmqfjwpb500o2slq8vbryuxyg",
-      "title": "Meta 在 Facebook 上线\"AI Mode\"，基于平台公开信息合成答案",
-      "title_en": "Meta's new 'AI Mode' on Facebook pulls from public info across its platforms",
-      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-15T18:30:58.000Z",
-      "summary": "Meta 宣布在 Facebook 推出\"AI Mode\"搜索功能，利用 Meta AI 从公开帖子（含群组和 Reels）提取信息并合成答案，用户可用自然语言提问获得摘要。同时新增视频拼贴剪辑、过渡效果及 AI 照片预设（可更换服装、发型和配饰），体育迷可在 Stories 中点击\"AI Edit\"虚拟穿上队服。这些更新延续了此前动态头像、Marketplace 自动回复和创作者 AI 助手的部署节奏。此外，Meta 近期启动了 Facebook、Instagram 和 WhatsApp 的全球订阅计划（每月 3.99 美元起），更多 AI 订阅层级正在规划中。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-18T20:38:00Z"
+  "cachedAt": "2026-06-18T23:04:07Z"
 }
