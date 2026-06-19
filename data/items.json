@@ -1,8 +1,32 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNTU0NTMxMDAwLCJpIjoiY21xZnA1MHNmMDAwNHNsMDAybzhkY2M3dyJ9",
+  "nextCursor": "eyJhIjoxNzgxNTY4MDAwMDAwLCJpIjoiY21xZzVrdnEyMDA2aHNsbmN4N3g3bzFyMiJ9",
   "items": [
+    {
+      "id": "cmqka3v1f04hbslhi809820yr",
+      "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
+      "title_en": null,
+      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-19T01:33:10.751Z",
+      "summary": "美国政府对Anthropic最强大的AI模型Claude Mythos实施出口管制，导火索是该公司将访问权限授予韩国电信巨头SK Telecom，美方担忧SK Telecom与中国存在关联。随后亚马逊向白宫报告Mythos的公开版本Fable 5存在可被绕过的防护漏洞，加剧不信任。白宫命令Anthropic撤销所有外国国民（包括美国境内移民）对Mythos和Fable 5的访问权限，Anthropic因此完全禁用这两个模型。Mythos此前通过Project Glasswing向约150家组织开放，SK Telecom于本月早些时候获得访问权，其曾向Anthropic投资1亿美元。SK Telecom在2024年中国营收仅约190万美元，但其所属SK集团在华业务广泛，且与中国联通有过合资历史，引发审查。",
+      "category": "industry",
+      "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmqk5umoz03d0slhi4qnma1r3",
+      "title": "AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元",
+      "title_en": "Viktor grew a $20M annualized revenue run rate outside Microsoft Teams. Now it works inside Teams. …",
+      "url": "https://x.com/rohanpaul_ai/status/2067755504613613699",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-06-18T23:45:03.000Z",
+      "summary": "AI 员工 Viktor 在 Slack 上实现 2000 万美元年化收入（无销售团队、未大规模推广），现已正式进驻 Microsoft Teams。Viktor 定位为零门槛 AI：用户无需学习、无需提示词，像 @同事 一样提及即可获得完整工作成果，甚至无需主动 @ 也能自动完成。产品面向 Teams 的 3.2 亿用户，助力企业内部运营和管理人员零学习成本使用 AI。即日起免费试用，含 100 美元信用额度，无需绑定信用卡。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmqjy18o2018cslhialdbdvi7",
       "title": "OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员",
@@ -13,6 +37,18 @@
       "summary": "OpenAI在IPO前夕连招两位重量级人物：Google DeepMind AI先驱、Transformer架构共同作者Noam Shazeer，以及前特朗普白宫AI政策官员Dean Ball。Shazeer此前通过27亿美元收购协议重返Google，此次离职加盟OpenAI。Ball将于7月6日加入，领导新组建的Strategic Futures团队，向首席战略官Jason Kwon汇报，团队将负责前沿AI政策与内部治理，聚焦灾难性风险、递归自我改进、劳动力市场影响及前沿实验室与政府关系等议题。此举正值Anthropic因美国政府出口管制禁令被迫下架Fable 5和Mythos 5模型。",
       "category": "industry",
       "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqk90yo9047eslhiuppd7ed6",
+      "title": "OpenClaw 接入 OpenRouter",
+      "title_en": "Connect OpenClaw to OpenRouter",
+      "url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-18T19:00:00.000Z",
+      "summary": "OpenClaw 已内置 OpenRouter 支持，一条命令即可为 AI 智能体配置统一密钥、统一账单，并实现跨 300 多个模型的自动故障转移。同时提供具体设置步骤以及常见错误的修复方法。",
+      "category": "tip",
+      "score": 60,
       "selected": true
     },
     {
@@ -145,6 +181,18 @@
       "summary": "Anthropic 发布 Project Fetch 实验第二阶段结果。在2024年8月原始实验中，配备 Claude Opus 4.1 的人类团队在操控四足机器人时显著超越无 AI 团队。新实验中，Claude Opus 4.7 无需人类协助即完成所有任务，速度比最快人类团队快约20倍，比无 Claude 团队快37倍以上，编码量减少近10倍。模型在传感器连接、路径规划等环节表现出色，但在精确移动沙滩球等闭环控制任务上仍存在困难。这些进展源于通用模型规模化，而非针对机器人领域的专项优化。",
       "category": "paper",
       "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmqk90yo9047fslhiqzp4ut7u",
+      "title": "如何将 SillyTavern 连接到 OpenRouter（2026 指南）",
+      "title_en": "How to Connect SillyTavern to OpenRouter （2026 Guide）",
+      "url": "https://openrouter.ai/blog/tutorials/sillytavern-openrouter",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-18T15:00:00.000Z",
+      "summary": "一个 OpenRouter API 密钥即可在 SillyTavern 的下拉菜单中解锁 300 多个模型，其中许多免费。指南包含五步连接流程、推荐尝试的角色扮演模型以及常见错误的修复方法。",
+      "category": "tip",
+      "score": 55,
       "selected": true
     },
     {
@@ -1154,55 +1202,7 @@
       "category": "ai-models",
       "score": 72,
       "selected": true
-    },
-    {
-      "id": "cmqg5kvq2006gslnchk1ngslk",
-      "title": "Qwen-RobotWorld：具身智能体的无界世界",
-      "title_en": "Qwen-RobotWorld： Boundless Worlds for Embodied Agents",
-      "url": "https://qwen.ai/blog?id=qwen-robotworld",
-      "source": "Qwen：Blog Retrieval（API）",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "Qwen-RobotWorld以语言为统一动作接口，采用双流Multimodal Diffusion Transformer（MMDiT）架构，将Qwen2.5-VL作为动作编码器。在4个基准测试中取得顶尖成绩，统一20余种机器人形态，基于860万跨场景训练对和1300多项操作技能。语言接口标准化500多种动作类别，支持操作、自动驾驶、室内导航的联合训练。还支持Scene2Robot人类到机器人转移及2-4路多视角几何一致视频生成。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqg5kvq2006eslnc27k3juhc",
-      "title": "Qwen-RobotNav：面向智能体导航系统的可扩展导航模型",
-      "title_en": "Qwen-RobotNav： A Scalable Navigation Model Designed for an Agentic Navigation System",
-      "url": "https://qwen.ai/blog?id=qwen-robotnav",
-      "source": "Qwen：Blog Retrieval（API）",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "Qwen 发布 Qwen-RobotNav，基于 Qwen3-VL 在 15.6M 样本上训练，统一了视觉语言导航、目标导航、目标跟踪、自动驾驶和具身问答五个领域，无需修改架构即可在推理时切换任务模式和观察参数。模型在多项基准取得 SOTA：VLN-CE RxR 成功率 76.5%，HM3Dv2 目标导航 75.6%（仅 RGB），EVT-Bench 跟踪率 90.0%，NAVSIM PDMS 91.4，以及三项 EQA 新标杆。模型暴露四个可调轴（视觉 token 预算、时间衰减、相机权重、帧采样模式）。作为智能体系统的一部分，上层规划器 Qwen3.7-Plus 在 EXPRESS-Bench 上提升 15.4%，导航步数减少 77%。模型已零样本部署在 Unitree Go2 四足机器人上，无需环境微调。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmqfvl6p3010yslsptgi5885d",
-      "title": "项目负责人揭秘为何苹果 AI 版 Siri 姗姗来迟：推倒重来，彻底重构",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/964/620.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-15T23:16:58.000Z",
-      "summary": "苹果AI版Siri迟迟未上线，项目负责人迈克·罗克韦尔在WWDC技术分享会上透露，去年团队曾做出在原有Siri基础上小幅改良、新增工具调用的可运行版本，但因无法达到产品愿景，最终选择推倒重来，完整从零重构系统，依托全新大模型搭建。重构后的Siri拥有独立应用程序，原生支持多模态交互，隐私保护贯穿底层架构，并覆盖iPhone、iPad、Mac、Apple Watch、Vision Pro、CarPlay、AirPods等全平台，提供统一连贯体验。",
-      "category": "tip",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmqfp50sf0004sl002o8dcc7w",
-      "title": "GitHub Copilot CLI 初学者指南：常用斜杠命令概览",
-      "title_en": "GitHub Copilot CLI for Beginners： Overview of common slash commands",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-06-15T20:15:31.000Z",
-      "summary": "GitHub Copilot CLI 为初学者提供了常用斜杠命令的概述，帮助用户通过命令控制终端中的 AI 智能体。",
-      "category": "tip",
-      "score": 59,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-18T23:04:07Z"
+  "cachedAt": "2026-06-19T02:04:49Z"
 }
