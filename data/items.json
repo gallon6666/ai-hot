@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNTE0OTY5MDAwLCJpIjoiY21xZjB4bDE2MDF0N3Nsd2FmN2V3dzNobSJ9",
+  "nextCursor": "eyJhIjoxNzgxNTM0MDg1MDAwLCJpIjoiY21xZmMzOGExMDA1ZnNsMmEyMWRpZG84MyJ9",
   "items": [
+    {
+      "id": "cmqkzwabf008islcwjpwe10ii",
+      "title": "禁止开源AI将是一个错误",
+      "title_en": "Banning Open Source AI Would Be A Mistake",
+      "url": "https://www.interconnects.ai/p/banning-open-source-ai-would-be-a",
+      "source": "Nathan Lambert：Interconnects（RSS）",
+      "publishedAt": "2026-06-19T13:02:47.000Z",
+      "summary": "近期行政命令、国会提案及对Anthropic最先进模型的境外访问限制，可能开启新一轮AI监管。开源软件已支撑全球90%以上软件并创造8万亿美元经济价值，在教育、创新和竞争三方面持续赋能。Anthropic与OpenAI的封闭模型加剧市场集中，开源（尤其开放权重）是初创公司、教育机构和企业获得替代方案的唯一平衡力量。开源透明性使其更安全，更多工程师可剔除不需要的模型行为或修复漏洞。以中国竞争为由监管开源将适得其反，美国初创公司正依赖包括中国在内的开源模型提升效率。",
+      "category": "tip",
+      "score": 56,
+      "selected": true
+    },
+    {
+      "id": "cmqkzxdp0009eslcw0jlr6pvl",
+      "title": "Cloudflare 为 AI 智能体推出临时账户",
+      "title_en": "Temporary Cloudflare Accounts for AI agents",
+      "url": "https://blog.cloudflare.com/temporary-accounts",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-06-19T13:00:00.000Z",
+      "summary": "Cloudflare 在 Workers 上推出临时账户（Temporary Accounts），允许 AI 智能体直接运行 `wrangler deploy --temporary`，在数秒内获取一个可用的实时 Worker，无需绕开面向人类设计的部署流程。该功能旨在降低智能体部署门槛。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true
+    },
+    {
+      "id": "cmqkxgxrb003oslu7irf0vf59",
+      "title": "/youtube-notetaker：YT 视频转 Artifacts",
+      "title_en": "YT Videos -&gt； Aritfacts Watch how I use my new /youtube-notetaker skill to generate artifacts fro…",
+      "url": "https://x.com/omarsar0/status/2067952726282031411",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-06-19T12:48:45.000Z",
+      "summary": "YT 视频 -> Artifacts\n\n看看我如何使用新的 /youtube-notetaker 技能从 YT 视频生成 Artifacts。\n\n捕获幻灯片、笔记、转录内容……\n\n快去试试 ↓",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmqkrei4r006ssl4zm2006sdt",
       "title": "Humanize PPT v0.9：为演讲而生的开源PPT Skill",
@@ -724,6 +760,18 @@
       "selected": true
     },
     {
+      "id": "cmqh8r5nd020ysle1tvadx7vs",
+      "title": "Anthropic 5月企业AI订阅份额首超OpenAI，特朗普政府禁令反促采用量创新高",
+      "title_en": "Anthropic's latest feud with the Trump admin may actually help it， sales data suggests",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-16T22:34:17.000Z",
+      "summary": "Anthropic 5月企业AI订阅市场份额达41%，首次超越OpenAI（39.5%）。公司刚完成650亿美元融资、估值9650亿美元，并因首次盈利季度秘密提交IPO。特朗普政府以出口管制为由要求Anthropic禁止非美国人访问最新模型Mythos 5及Fable 5，导致两款模型下架。Ramp首席经济学家指出，类似争议（如3月被国防部列为供应链风险）反而推动Anthropic企业采用量创纪录。Ramp数据显示，企业支出主要流向Claude Opus模型（最新为Opus 4.8）。",
+      "category": "industry",
+      "score": 73,
+      "selected": true
+    },
+    {
       "id": "cmqh6wxfh01k6sle1y2xzcqjx",
       "title": "OpenAI 的领先优势正在快速缩小",
       "title_en": "OpenAI's lead is dwindling fast",
@@ -1154,55 +1202,7 @@
       "category": "industry",
       "score": 73,
       "selected": true
-    },
-    {
-      "id": "cmqfb02ix003tsl4r1htgwwqr",
-      "title": "Skydio CEO Adam Bry：硅谷不应为无人机使用画红线",
-      "title_en": "Skydio CEO Adam Bry on why Silicon Valley shouldn't draw red lines for drone use",
-      "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-06-15T14:00:00.000Z",
-      "summary": "Skydio是美国最大的无人机制造商，主攻公共安全、军事、能源、基建巡检等企业市场。CEO Adam Bry表示，特朗普政府去年底禁止中国产无人机后，廉价消费级无人机几乎消失，Skydio产品成为主要替代方案。公司认为无人机正从工具转向自主基础设施--通过机库、远程操控和软件整合实现规模化应用，AI在其中扮演关键角色。访谈还涉及Skydio与军方合作的态度，以及自主技术如何带动公司扩张。",
-      "category": "tip",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmqgyawhe01qhslpu4aoqe5a4",
-      "title": "OpenRouter Presets：当模型下线时保持 AI 智能体运行",
-      "title_en": "Keep Your Agent Running When Models Disappear",
-      "url": "https://openrouter.ai/blog/tutorials/keep-your-agent-running-when-models-disappear",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-15T12:00:00.000Z",
-      "summary": "Anthropic 在 Claude Fable 5 发布仅数天后便对其进行了限制。如果代码硬编码模型 slug，该限制也会导致服务中断。OpenRouter 的 Presets 功能将模型选择移至服务器端，使用户无需重新部署即可切换模型、设置回退策略并强制执行数据策略。",
-      "category": "tip",
-      "score": 62,
-      "selected": true
-    },
-    {
-      "id": "cmqf2oucs027eslwayb6fe3ro",
-      "title": "6倍速！Kimi K2.7 Code 高速版已上线",
-      "title_en": "6 倍速！Kimi K2.7 Code 高速版已上线",
-      "url": "https://mp.weixin.qq.com/s/p87ebkY1xqKtkGZ2N3DGSw",
-      "source": "公众号：月之暗面（Kimi）",
-      "publishedAt": "2026-06-15T10:26:06.000Z",
-      "summary": "Kimi K2.7 Code 高速版上线，与普通版为同一模型，输出速度约 5-6 倍，常规编程场景约 180 Token/s，短上下文可达 260 Token/s。API 定价为普通版 2 倍，模型 ID：kimi-k2.7-code-highspeed。Kimi Code Plan 用户可通过「抢先体验计划」使用，用量消耗为普通版 3 倍。使用须开启思考模式，关闭会报错或回退至 K2.6。庆祝发布，Kimi API 开放平台推出为期三周充赠活动，充值 500 元及以上享 20%-30% 代金券。相比 K2.6，K2.7 Code 在长上下文编程指令遵循、长程任务性能提升，平均 token 消耗减少 30%，内部基准测试显著提升。普通版输入 6.5 元/百万 token、输出 27 元，缓存输入 1.3 元。非编程任务推荐 K2.6。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true
-    },
-    {
-      "id": "cmqf0xl1601t7slwaf7eww3hm",
-      "title": "Flash-KMeans：IO感知的精确K-Means，在GPU上比FAISS快200倍以上",
-      "title_en": "Meet Flash-KMeans： An IO-Aware， Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs",
-      "url": "https://www.marktechpost.com/2026/06/15/meet-flash-kmeans-an-io-aware-exact-k-means-that-runs-over-200x-faster-than-faiss-on-gpus",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-06-15T09:16:09.000Z",
-      "summary": "UC Berkeley与UT Austin团队开源Flash-KMeans（Apache 2.0，`pip install flash-kmeans`），精确实现标准Lloyd's k-Means，通过重构GPU数据流而非改变数学或近似来提速。在NVIDIA H200上，端到端速度比最佳基线快17.9×，比cuML快33×，比FAISS快200×以上。其FlashAssign核避免物化完整N×K距离矩阵，将IO复杂度从O（NK）降至O（Nd+Kd），单核加速最高21.2×；Sort-Inverse Update核通过排序聚类ID减少原子争用，单核加速最高6.3×。支持out-of-core处理，在1B数据点、K=32768时单次迭代仅41.4s。适用于向量搜索索引、稀疏注意力路由、KV缓存压缩等在线场景。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-19T12:17:15Z"
+  "cachedAt": "2026-06-19T16:14:00Z"
 }
