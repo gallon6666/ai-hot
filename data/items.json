@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNTY4MDAwMDAwLCJpIjoiY21xaGxlOGhxMDAwanNscW9mZ3h5dDN3dyJ9",
+  "nextCursor": "eyJhIjoxNzgxNTE0OTY5MDAwLCJpIjoiY21xZjB4bDE2MDF0N3Nsd2FmN2V3dzNobSJ9",
   "items": [
+    {
+      "id": "cmqkrei4r006ssl4zm2006sdt",
+      "title": "Humanize PPT v0.9：为演讲而生的开源PPT Skill",
+      "title_en": "开源一个为演讲而生的PPT Skill，再不用跟观众大眼瞪小眼了",
+      "url": "https://mp.weixin.qq.com/s/rGoYnUcBRkfRKQPbIaawyg",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-06-19T09:48:28.000Z",
+      "summary": "Humanize PPT v0.9 是一款专为演讲场景设计的PPT Skill，核心通过AST（Audience， State， Transfer）逻辑重新编排大纲，将页面渲染外包给下游Skill。渲染前先输出4张真实预览页，并将图片、视频素材的占位与生成prompt写入大纲。新增质检环节自动修复常见渲染问题，并支持演讲模式：按S键在独立窗口显示演讲稿备注，按ESC键打开全局索引快速跳页。项目已开源至github.com/LearnPrompt/humanize-ppt，由卡尔 & yc星辰开发。",
+      "category": "tip",
+      "score": 77,
+      "selected": true
+    },
     {
       "id": "cmqkhoy7906goslhiji2e8rc4",
       "title": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89",
@@ -40,18 +52,6 @@
       "selected": true
     },
     {
-      "id": "cmqkf2fp305pcslhiws2ydp1j",
-      "title": "Fable模型被美国临时关闭，AI安全管控时代来临",
-      "title_en": "The Flat Curve Society",
-      "url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
-      "source": "Steve Yegge：Medium（RSS）",
-      "publishedAt": "2026-06-19T03:31:56.000Z",
-      "summary": "美国政府短暂关闭了Mythos类中的Fable模型，标志着AI模型已越过危险门槛。作者预测最多两三代模型后，超级智能将像核武器一样被管控，大多数Fortune 500企业无法访问或仅受控使用。开源模型落后前沿约七个月，且面临算力和政府锁定的双重壁垒。人类的\"辨别地平线\"使许多人感觉模型进步停止，但实际指数增长未停--只是用户缺少足够困难的问题。Fable类已能解决此前Opus 4.8无法完成的复杂任务（如React客户端），AI将彻底改变编程和知识工作，但多数人只能使用当前等级模型。",
-      "category": "tip",
-      "score": 74,
-      "selected": true
-    },
-    {
       "id": "cmqkc8a7h0515slhis4sq6oxb",
       "title": "Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）",
       "title_en": "Salesforce CodeGen Tutorial： Generate， Validate， and Rerank Python Functions With Unit Tests and Safety Checks",
@@ -64,13 +64,13 @@
       "selected": true
     },
     {
-      "id": "cmqka3v1f04hbslhi809820yr",
-      "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
+      "id": "cmqk6htvg03g1slhi1nagpabj",
+      "title": "八部门联合发文力推\"人工智能 + 消费\"，扩大 AI 手机电脑及智能网联汽车消费",
       "title_en": null,
-      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-19T01:33:10.751Z",
-      "summary": "美国政府对Anthropic最强大的AI模型Claude Mythos实施出口管制，导火索是该公司将访问权限授予韩国电信巨头SK Telecom，美方担忧SK Telecom与中国存在关联。随后亚马逊向白宫报告Mythos的公开版本Fable 5存在可被绕过的防护漏洞，加剧不信任。白宫命令Anthropic撤销所有外国国民（包括美国境内移民）对Mythos和Fable 5的访问权限，Anthropic因此完全禁用这两个模型。Mythos此前通过Project Glasswing向约150家组织开放，SK Telecom于本月早些时候获得访问权，其曾向Anthropic投资1亿美元。SK Telecom在2024年中国营收仅约190万美元，但其所属SK集团在华业务广泛，且与中国联通有过合资历史，引发审查。",
+      "url": "https://www.ithome.com/0/966/295.htm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-18T23:56:08.000Z",
+      "summary": "商务部等8部门近日印发《关于加快\"人工智能 + 消费\"发展的实施意见》，从5方面提出17条举措。重点包括：扩大AI手机电脑、智能家居、智能网联汽车、智能穿戴、AI机器人等供给；推动AI与居家、养老、文旅、餐饮、教育等融合；促进AI在批发零售、电商、物流领域应用；建设集聚区和体验中心，开展产品租赁、共享、试用等模式创新；完善基础设施、标准体系和监管，推动互联互通。商务部将协同落实，促进AI进千家万户。",
       "category": "industry",
       "score": 76,
       "selected": true
@@ -85,30 +85,6 @@
       "summary": "AI 员工 Viktor 在 Slack 上实现 2000 万美元年化收入（无销售团队、未大规模推广），现已正式进驻 Microsoft Teams。Viktor 定位为零门槛 AI：用户无需学习、无需提示词，像 @同事 一样提及即可获得完整工作成果，甚至无需主动 @ 也能自动完成。产品面向 Teams 的 3.2 亿用户，助力企业内部运营和管理人员零学习成本使用 AI。即日起免费试用，含 100 美元信用额度，无需绑定信用卡。",
       "category": "ai-products",
       "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqjzbnv501o3slhint0uoxat",
-      "title": "诺姆·沙齐尔加入OpenAI",
-      "title_en": null,
-      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-18T20:29:15.651Z",
-      "summary": "前Google研究员、Transformer架构共同作者诺姆·沙齐尔在X上宣布，他将加入OpenAI，并期待与那里的卓越团队合作。沙齐尔表示这是一个艰难的决定，同时对Google团队及其共同取得的成果感到无比自豪。",
-      "category": "industry",
-      "score": 86,
-      "selected": true
-    },
-    {
-      "id": "cmqjy18o2018cslhialdbdvi7",
-      "title": "OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员",
-      "title_en": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-18T19:59:22.000Z",
-      "summary": "OpenAI在IPO前夕连招两位重量级人物：Google DeepMind AI先驱、Transformer架构共同作者Noam Shazeer，以及前特朗普白宫AI政策官员Dean Ball。Shazeer此前通过27亿美元收购协议重返Google，此次离职加盟OpenAI。Ball将于7月6日加入，领导新组建的Strategic Futures团队，向首席战略官Jason Kwon汇报，团队将负责前沿AI政策与内部治理，聚焦灾难性风险、递归自我改进、劳动力市场影响及前沿实验室与政府关系等议题。此举正值Anthropic因美国政府出口管制禁令被迫下架Fable 5和Mythos 5模型。",
-      "category": "industry",
-      "score": 70,
       "selected": true
     },
     {
@@ -193,30 +169,6 @@
       "summary": "美国联邦能源监管委员会（FERC）命令六大电网运营商为数据中心等大型用户提供快速并网通道，数据中心需承担并网费用。FERC同时要求运营商考虑\"替代输电技术\"，并在30天内报告剩余发电容量、60天内审查本区域电价。指令并未解决发电容量短缺问题。数据中心电力需求预计到2035年增长近三倍，而电网运营商此前长期应对近乎零的需求增长。据Bloomberg，部分地区批发电价较五年前上涨了267%。",
       "category": "industry",
       "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmqjrpzbw069mslmheof3twe3",
-      "title": "伯尼·桑德斯提出7万亿美元AI计划：对大型AI公司征收50%股票税",
-      "title_en": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-      "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-06-18T17:02:49.000Z",
-      "summary": "伯尼·桑德斯提出立法，对年AI销售额超2亿美元的公司征收50%股票税，建立价值约7万亿美元的主权财富基金。基金每年向每位美国公民发放超1000美元股息（5%年股息），并资助医疗、教育、住房。同时成立由总统提名、参议院确认的两党\"民主AI独立委员会\"，通过投票权阻止公司损害公共利益。法案还要求AI公司剥离非AI业务。该计划面临共和党国会和特朗普政府阻力。",
-      "category": "industry",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqjro1l3067oslmhsb4z5web",
-      "title": "Grok TTS 盲测人类感得分96登顶",
-      "title_en": "Grok TTS delivers the most human-like speech",
-      "url": "https://x.com/xai/status/2067654108123910495",
-      "source": "X：xAI (@xai)",
-      "publishedAt": "2026-06-18T17:02:09.000Z",
-      "summary": "xAI 的 Grok TTS 模型在 @Vapi_AI 的 Humanness Index 盲测中以 96 分（真人 100 分）位居榜首。该指数选取同一声音和引文，经各模型克隆后由听众盲评。",
-      "category": "ai-models",
-      "score": 66,
       "selected": true
     },
     {
@@ -340,18 +292,6 @@
       "selected": true
     },
     {
-      "id": "cmqja53m201fgslmhigeqiqu6",
-      "title": "Kimi Work 新增目标模式与插件中心，6月推出额度消耗5折福利",
-      "title_en": "Kimi Work 上新：目标模式、插件中心和 6 月限时福利",
-      "url": "https://mp.weixin.qq.com/s/KJav-s9qlkzV9yN8r6-sNg",
-      "source": "公众号：月之暗面（Kimi）",
-      "publishedAt": "2026-06-18T09:06:57.000Z",
-      "summary": "月之暗面旗下 Kimi Work（Beta 版）新增「目标模式」，支持设定终点后由 Agent 自主循环推进任务，最长连续运行24小时，过程中人类可随时中断调整。同时上线「插件中心」，可选装百度网盘、Canva可画、钉钉、飞书、WPS、Notion、Cloudflare 等外部应用。6月限时福利期间，Kimi 电脑客户端 Work 模式所有任务会员额度消耗减半，即从0.02%降至0.01%。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true
-    },
-    {
       "id": "cmqjaaffp01gcslmhhkxrobvo",
       "title": "八部门：用好个人消费贷款财政贴息政策，支持消费者购买 AI 相关产品",
       "title_en": null,
@@ -448,18 +388,6 @@
       "selected": true
     },
     {
-      "id": "cmqit4gtr0410sl5w4ovwwmwa",
-      "title": "苹果 Xcode 27 核心首次深度集成 AI 智能体：支持自然语言修 Bug、构建 App",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/965/734.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-18T00:43:26.000Z",
-      "summary": "在 2026 年 WWDC 期间，苹果发布 Xcode 27，其核心组件首次整合 AI 智能体，能理解 Swift 语言并通过多轮自然语言对话辅助开发。AI 可跨多个文件修改整个代码库，也能根据提示与资源生成应用设计并独立构建完整应用，建成后仍可通过对话添加特效、动画等。Xcode 27 支持接入 Anthropic、OpenAI 和 Google 等第三方 AI 模型，同时引入 Core AI 框架提供现代 Swift API 调用端侧模型，并升级开源框架 MLX。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true
-    },
-    {
       "id": "cmqirdp5603n0sl5wjfnes2e3",
       "title": "Noam Shazeer 离开 Google 加入 OpenAI",
       "title_en": "Noam Shazeer， the AI legend Google paid $2.7B to bring back two years ago， has left Google， to join …",
@@ -469,6 +397,18 @@
       "summary": "两年前谷歌花 27 亿美元请回的 AI 传奇 Noam Shazeer 已离开谷歌，加入 OpenAI。\n\n对 Gemini 来说是个残酷的消息。",
       "category": "industry",
       "score": 82,
+      "selected": true
+    },
+    {
+      "id": "cmqkmvyxz00hxslh6sv4zzxc7",
+      "title": "HumanScale：自我中心人类视频在具身预训练中可超越真实机器人数据",
+      "title_en": "HumanScale： Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining",
+      "url": "https://arxiv.org/abs/2606.20521",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "summary": "HumanScale项目比较了自我中心人类视频与遥操作真实机器人轨迹作为具身基础模型预训练数据源。经精心设计的过滤与标注流程后，基于自我中心数据预训练的模型在真实机器人动作预测上验证损失降低24%，分布内任务成功率高52.5%，分布外任务成功率高90%。研究验证了一种可扩展范式：先以人类视频预训练学习多样世界表征，再以少量标注机器人数据微调对齐动作空间。",
+      "category": "paper",
+      "score": 75,
       "selected": true
     },
     {
@@ -553,18 +493,6 @@
       "summary": "Cloudflare Agents SDK 现已成为任何智能体框架均可构建的运行时。Cloudflare 开放了 Agents SDK 原语，Flue 成为首个针对该 SDK 的框架，同时仪表盘中已推出智能体功能。",
       "category": "ai-products",
       "score": 64,
-      "selected": true
-    },
-    {
-      "id": "cmqihbkcr00xcsl5wavwez5ua",
-      "title": "Claude Design与Replit联动，设计变应用",
-      "title_en": "Design in Claude. Build in Replit You can now send your design from Claude Design to Replit to turn…",
-      "url": "https://x.com/Replit/status/2067328501003497684",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-06-17T19:28:18.000Z",
-      "summary": "在Claude中设计。在Replit中构建。\n\n你现在可以将Claude Design中的设计发送到Replit，将其变成一个可工作的应用。",
-      "category": "ai-products",
-      "score": 69,
       "selected": true
     },
     {
@@ -712,18 +640,6 @@
       "selected": true
     },
     {
-      "id": "cmqhly7hf0068slf0ujjfjo0x",
-      "title": "消息称 OpenAI 今年一季度现金消耗达 37 亿美元，超同期收入的一半",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/965/335.htm",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-17T04:55:33.000Z",
-      "summary": "OpenAI 在 2026 年第一季度现金消耗达 37 亿美元，超过同期 57 亿美元收入的一半。数据来自一份向股东披露的文件，直观体现 AI 大模型研发与规模化落地的巨额成本。OpenAI 正筹备上市，已在美国保密递交 IPO 申请，最早或于 9 月完成，估值最高可达 1 万亿美元。头部 AI 企业持续重金投入算力、模型研发与人才招募以维持竞争优势。",
-      "category": "industry",
-      "score": 73,
-      "selected": true
-    },
-    {
       "id": "cmqhjhcgy04ybsle119py0l6t",
       "title": "Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能",
       "title_en": "Wolfram 语言和 Mathematica 15 版、AI 助手、符号音乐等",
@@ -808,30 +724,6 @@
       "selected": true
     },
     {
-      "id": "cmqh8r5nd020ysle1tvadx7vs",
-      "title": "Anthropic 5月企业AI订阅份额首超OpenAI，特朗普政府禁令反促采用量创新高",
-      "title_en": "Anthropic's latest feud with the Trump admin may actually help it， sales data suggests",
-      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-16T22:34:17.000Z",
-      "summary": "Anthropic 5月企业AI订阅市场份额达41%，首次超越OpenAI（39.5%）。公司刚完成650亿美元融资、估值9650亿美元，并因首次盈利季度秘密提交IPO。特朗普政府以出口管制为由要求Anthropic禁止非美国人访问最新模型Mythos 5及Fable 5，导致两款模型下架。Ramp首席经济学家指出，类似争议（如3月被国防部列为供应链风险）反而推动Anthropic企业采用量创纪录。Ramp数据显示，企业支出主要流向Claude Opus模型（最新为Opus 4.8）。",
-      "category": "industry",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmqh78bnl01mrsle11gmghtv0",
-      "title": "Midjourney V8.1 推出 Draft mode 草稿模式与新功能预览",
-      "title_en": "Draft mode for V8.1 and new feature previews",
-      "url": "https://updates.midjourney.com/draft-mode-for-v8-1-and-new-feature-previews",
-      "source": "Midjourney：Updates（RSS）",
-      "publishedAt": "2026-06-16T22:04:29.000Z",
-      "summary": "Midjourney V8.1 的 Draft mode 草稿模式每次生成24张低分辨率低质量图片。用户可对任意图片点击 \"Vary\"，将其渲染为全质量、全分辨率版本。草稿任务消耗的快速小时数减半。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true
-    },
-    {
       "id": "cmqh6wxfh01k6sle1y2xzcqjx",
       "title": "OpenAI 的领先优势正在快速缩小",
       "title_en": "OpenAI's lead is dwindling fast",
@@ -841,18 +733,6 @@
       "summary": "评论认为 OpenAI 正面临多重危机：缺乏护城河导致市场领先地位下滑；最大投资者微软持续疏远，近期甚至公开考虑将主要产品外包给中国；亏损速度远超预期，年亏损额以 8 倍增长。华盛顿方面可能打压 Anthropic，但也可能反而帮助其崛起，而 Elon Musk 成为另一个潜在的竞标者。",
       "category": "tip",
       "score": 62,
-      "selected": true
-    },
-    {
-      "id": "cmqh02ula025kslpus6x0agms",
-      "title": "Meta 解散工程部门引发热议",
-      "title_en": "Meta为什么要解散其工程部门？",
-      "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-16T18:37:24.744Z",
-      "summary": "6月16日，一篇标题为\"Why is Meta destroying its engineering organization？\"的博客文章出现在 Hacker News，获得110个点赞。文章指出 Meta 正在解散其工程组织，引发业界广泛讨论。具体原因和后续影响尚未明确。",
-      "category": "tip",
-      "score": 80,
       "selected": true
     },
     {
@@ -877,18 +757,6 @@
       "summary": "OpenAI利用WildChat公开数据集（2023年4月至2024年5月收集的100万条对话）模拟模型部署，预测GPT-5.1、GPT-5.2、GPT-5.4在真实生产环境中的不良行为率。与私有生产数据对比发现，WildChat模拟的平均预测误差约3倍；但对技术性和智能体型失调的预测精度下降。研究验证了公开数据集作为外部审计工具的可行性。",
       "category": "paper",
       "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmqgvsq1h010mslputkvvkz6o",
-      "title": "Qwen团队发布三个具身AI模型套件 Qwen-RobotSuite",
-      "title_en": "Meet Qwen-RobotSuite： Three Embodied AI Models for VLA Manipulation， Video World Modeling， and Navigation",
-      "url": "https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-06-16T16:51:19.000Z",
-      "summary": "Qwen团队发布三个具身AI模型组成的套件Qwen-RobotSuite：Qwen-RobotManip（基于Qwen3.5-4B的VLA模型，通过统一对齐框架和3800小时开源数据（含24708小时合成）实现跨本体操作，在LIBERO-Plus OOD基准上达91.4%，跨本体迁移性能为π0.5的3.2倍）、Qwen-RobotWorld（60层MMDiT+冻结Qwen2.5-VL编码器的语言条件视频世界模型，以自然语言为统一动作接口预测未来视频）和Qwen-RobotNav（基于Qwen3-VL的导航模型，2B/4B/8B，输出航点轨迹）。RobotManip与RobotNav已开源GitHub。",
-      "category": "ai-models",
-      "score": 76,
       "selected": true
     },
     {
@@ -1048,30 +916,6 @@
       "selected": true
     },
     {
-      "id": "cmqgo34he01ftslic80znicuh",
-      "title": "2025年OpenAI亏损额激增近8倍，支出高达340亿美元",
-      "title_en": null,
-      "url": "https://www.wheresyoured.at/exclusive-openai-financials",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-16T13:01:23.690Z",
-      "summary": "据Hacker News热门文章，OpenAI在2025年亏损额激增近8倍，年度总支出达到340亿美元。原文来自wheresyoured.at的独家财务分析报道，该信息在Hacker News上获得超过100个点赞。",
-      "category": "industry",
-      "score": 78,
-      "selected": true
-    },
-    {
-      "id": "cmqgok4my01llslicf5vi10lj",
-      "title": "WorkBuddy日活飙升至行业第二的3-4倍，非技术用户涌入",
-      "title_en": "聊聊这个可能被大家低估的Agent场景。",
-      "url": "https://mp.weixin.qq.com/s/iAgbUzPrsbpqvu4s2XiH0g",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-06-16T12:42:11.000Z",
-      "summary": "从3月至今，WorkBuddy日活用户数已达行业第二名的3-4倍，用户不再限于开发者，大量HR、运营、行政等非技术岗位也在使用。其企业版和项目功能进一步扩展了Agent办公场景。同期，Trae Work、QoderWork、Kimi Work等产品纷纷改名或出新，争夺市场。腾讯云认为这可能是十年一遇的机遇。",
-      "category": "tip",
-      "score": 67,
-      "selected": true
-    },
-    {
       "id": "cmqge6m08007fslmsro38gcnl",
       "title": "Google Cloud 推出 OKF v0.1：供应商中立的 Markdown 规范，为 AI 智能体提供结构化上下文",
       "title_en": "Google Cloud Introduces Open Knowledge Format （OKF）： A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context",
@@ -1117,18 +961,6 @@
       "summary": "支付宝今日开启 AI 版邀测，用户可右滑进入新版界面，在对话框或语音中输入指令，由\"阿宝\"助手代办事项。以查询公积金为例，阿宝自动匹配对应小程序和服务入口，用户点击确认即可完成，将多步跳转折叠为一句指令。所有涉及资金变动和支付的环节均需用户本人确认。首批放出 100 个邀请码。",
       "category": "ai-products",
       "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmqg1bu4n02o9slsp8813ls12",
-      "title": "蚂蚁百灵发布 Ling & Ring 2.6 技术报告",
-      "title_en": "百灵 Ling & Ring 2.6 技术报告发布：面向真实 Agent 工作流的高效万亿级模型",
-      "url": "https://mp.weixin.qq.com/s/j8ZXKvDZzMkSSiUyXecqGA",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "publishedAt": "2026-06-16T02:23:34.000Z",
-      "summary": "蚂蚁百灵发布 Ling & Ring 2.6 技术报告，系统公开 Ling-2.6-flash、Ling-2.6-1T 和 Ring-2.6-1T 的架构、预训练、后训练及 Agent 强化学习细节。三款模型采用 Hybrid Linear Attention 架构，将 Lightning Attention 与 MLA 以 7：1 比例结合。Ling-2.6-flash 在 4×H20 硬件上解码速度达 340 tokens/s，Ling-2.6-1T 在 Artificial Analysis Intelligence Index 上 token efficiency 较前代提升约 4 倍。Ring-2.6-1T high 在 PinchBench 得 87.60，ClawEval 得 63.82。三款模型均已开源。",
-      "category": "ai-models",
-      "score": 79,
       "selected": true
     },
     {
@@ -1202,7 +1034,175 @@
       "category": "tip",
       "score": 62,
       "selected": true
+    },
+    {
+      "id": "cmqh94zt2027qsle1vfbtzbjc",
+      "title": "Subagent：让模型把琐碎任务委托出去",
+      "title_en": "Subagent： Let Your Model Delegate the Busywork",
+      "url": "https://openrouter.ai/blog/announcements/subagent-server-tool",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "summary": "OpenRouter 推出 openrouter：subagent 服务器工具，允许前沿模型在生成过程中将独立的琐碎任务（如文档总结、结构化数据提取、文本重格式化）委托给更小、更便宜、更快的 worker 模型执行，从而节省前沿模型的 token 消耗。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true
+    },
+    {
+      "id": "cmqh18jbq02jwslpuwfn5km0q",
+      "title": "OpenAI 发布 Deployment Simulation 方法：通过模拟部署预测模型发布前行为",
+      "title_en": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "summary": "OpenAI 近日发布 Deployment Simulation 方法，通过在隐私保护下重放历史对话、用新候选模型重新生成回复，模拟模型上线后的实际表现。在多个 GPT-5-series Thinking 部署中，该方法比传统评估更准确地估计了不良行为频率，发现新型对齐问题，并降低模型识别测试的风险。它还能扩展至涉及工具使用的智能体场景。传统评估存在覆盖不足、选择偏差和模型可识别测试等局限，而 Deployment Simulation 使用真实对话分布缓解了这些问题，但无法测量频率低于每 20 万条消息 1 次的行为。",
+      "category": "paper",
+      "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmqguqu9r00rqslpuu5cpfao3",
+      "title": "Grok for PowerPoint 发布：在 Microsoft PowerPoint 内直接生成和编辑幻灯片",
+      "title_en": "Grok for PowerPoint Jun 16， 2026 # Grok for PowerPoint Grok now works inside Microsoft PowerPoint - turn outlines into slides， expand the deck， and tighten the narrative without leaving the app. Read More",
+      "url": "https://x.ai/news/introducing-powerpoint-addin",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "summary": "xAI 于 6 月 16 日发布 Grok for PowerPoint，作为免费 Microsoft 365 插件上线。用户无需离开应用即可利用 Grok 将大纲转为完整幻灯片，进行内容研究、撰写、排版，并支持添加单张幻灯片、调整样式主题、重构章节。插件还能调用 Grok 连接器，从邮件或 SharePoint 中获取信息。该插件同样适用于 Word 和 Excel。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true
+    },
+    {
+      "id": "cmqg5kvq2006gslnchk1ngslk",
+      "title": "Qwen-RobotWorld：具身智能体的无界世界",
+      "title_en": "Qwen-RobotWorld： Boundless Worlds for Embodied Agents",
+      "url": "https://qwen.ai/blog?id=qwen-robotworld",
+      "source": "Qwen：Blog Retrieval（API）",
+      "publishedAt": "2026-06-16T00:00:00.000Z",
+      "summary": "Qwen-RobotWorld以语言为统一动作接口，采用双流Multimodal Diffusion Transformer（MMDiT）架构，将Qwen2.5-VL作为动作编码器。在4个基准测试中取得顶尖成绩，统一20余种机器人形态，基于860万跨场景训练对和1300多项操作技能。语言接口标准化500多种动作类别，支持操作、自动驾驶、室内导航的联合训练。还支持Scene2Robot人类到机器人转移及2-4路多视角几何一致视频生成。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqfp50sf0004sl002o8dcc7w",
+      "title": "GitHub Copilot CLI 初学者指南：常用斜杠命令概览",
+      "title_en": "GitHub Copilot CLI for Beginners： Overview of common slash commands",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-06-15T20:15:31.000Z",
+      "summary": "GitHub Copilot CLI 为初学者提供了常用斜杠命令的概述，帮助用户通过命令控制终端中的 AI 智能体。",
+      "category": "tip",
+      "score": 59,
+      "selected": true
+    },
+    {
+      "id": "cmqfjwpb500o2slq8vbryuxyg",
+      "title": "Meta 在 Facebook 上线\"AI Mode\"，基于平台公开信息合成答案",
+      "title_en": "Meta's new 'AI Mode' on Facebook pulls from public info across its platforms",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-15T18:30:58.000Z",
+      "summary": "Meta 宣布在 Facebook 推出\"AI Mode\"搜索功能，利用 Meta AI 从公开帖子（含群组和 Reels）提取信息并合成答案，用户可用自然语言提问获得摘要。同时新增视频拼贴剪辑、过渡效果及 AI 照片预设（可更换服装、发型和配饰），体育迷可在 Stories 中点击\"AI Edit\"虚拟穿上队服。这些更新延续了此前动态头像、Marketplace 自动回复和创作者 AI 助手的部署节奏。此外，Meta 近期启动了 Facebook、Instagram 和 WhatsApp 的全球订阅计划（每月 3.99 美元起），更多 AI 订阅层级正在规划中。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmqg8eidi00c8sl9syvs6mwbm",
+      "title": "免费LLM API比较：速率限制、模型与真实成本（2026）",
+      "title_en": "Free LLM APIs Compared： Rate Limits， Models， and Real Costs （2026）",
+      "url": "https://openrouter.ai/blog/tutorials/free-llm-apis-compared",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-15T17:00:00.000Z",
+      "summary": "13个平台提供免费LLM API，含永久免费层与试用额度。OpenRouter拥有20+免费模型，单密钥无需信用卡；Groq以约320 tokens/秒运行Llama 3.3 70B；Google AI Studio支持1M上下文；Mistral实验层约10亿token/月但需同意数据训练；Cerebras约1M token/天；GitHub Models提供GPT-4o、Claude 3.5 Sonnet等前沿模型。各免费层有速率限制、数据训练授权、上下文缩减等隐藏成本，建议早期测试2-3个方案并设置故障转移。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqg8eidi00c9sl9sb4cjwewg",
+      "title": "智能体AI治理：你的API密钥就是护栏",
+      "title_en": "Agentic AI Governance： Your API Key Is a Guardrail",
+      "url": "https://openrouter.ai/blog/insights/agentic-ai-governance",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-15T16:00:00.000Z",
+      "summary": "智能体AI使用量将在未来两年急剧上升，但治理滞后--仅五分之一企业拥有成熟治理模型。典型事故：销售智能体重试失败调用后自行升级到GPT-5.5，一夜消耗200美元。API路由层位于智能体与模型之间，是强制执行预算上限、模型白名单、提供方准入和请求日志的理想点。IBM报告指出97%遭遇AI安全事件的组织缺乏AI访问控制。最小可行治理方案：为每个智能体工作流分配独立API密钥，在API密钥层面实现预算控制、模型准入和审计追踪。",
+      "category": "tip",
+      "score": 68,
+      "selected": true
+    },
+    {
+      "id": "cmqfewpje00u4sl2awgrmj4ke",
+      "title": "Nvidia 加入 AI 债务热潮，发行 200 亿美元债券",
+      "title_en": "Nvidia joins AI debt boom with $20 billion bond sale",
+      "url": "https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-06-15T15:43:04.000Z",
+      "summary": "Nvidia 计划通过自 2021 年以来的首次债券发行筹集至少 200 亿美元，消息援引知情人士透露。此举标志着 Nvidia 加入 AI 领域的债务融资热潮。",
+      "category": "industry",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqfc38a1005fsl2a21dido83",
+      "title": "Salesforce以36亿美元收购AI客服平台Fin",
+      "title_en": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-15T14:34:45.000Z",
+      "summary": "Salesforce宣布以36亿美元收购AI客服平台Fin（前身为Intercom）。Fin提供可跨实时聊天、WhatsApp、短信、电话、Slack等多渠道解决客户问题的AI智能体。Salesforce计划利用Fin的技术和团队增强其企业级Agentforce平台，该平台允许企业构建自定义AI智能体以自动化任务。交易预计在Salesforce 2027财年第四季度（即2027年初）完成。Fin联合创始人兼CEO Eoghan McCabe将继续担任CEO，研发负责人Des继续领导研发。",
+      "category": "industry",
+      "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmqfb02ix003tsl4r1htgwwqr",
+      "title": "Skydio CEO Adam Bry：硅谷不应为无人机使用画红线",
+      "title_en": "Skydio CEO Adam Bry on why Silicon Valley shouldn't draw red lines for drone use",
+      "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-06-15T14:00:00.000Z",
+      "summary": "Skydio是美国最大的无人机制造商，主攻公共安全、军事、能源、基建巡检等企业市场。CEO Adam Bry表示，特朗普政府去年底禁止中国产无人机后，廉价消费级无人机几乎消失，Skydio产品成为主要替代方案。公司认为无人机正从工具转向自主基础设施--通过机库、远程操控和软件整合实现规模化应用，AI在其中扮演关键角色。访谈还涉及Skydio与军方合作的态度，以及自主技术如何带动公司扩张。",
+      "category": "tip",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqgyawhe01qhslpu4aoqe5a4",
+      "title": "OpenRouter Presets：当模型下线时保持 AI 智能体运行",
+      "title_en": "Keep Your Agent Running When Models Disappear",
+      "url": "https://openrouter.ai/blog/tutorials/keep-your-agent-running-when-models-disappear",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-15T12:00:00.000Z",
+      "summary": "Anthropic 在 Claude Fable 5 发布仅数天后便对其进行了限制。如果代码硬编码模型 slug，该限制也会导致服务中断。OpenRouter 的 Presets 功能将模型选择移至服务器端，使用户无需重新部署即可切换模型、设置回退策略并强制执行数据策略。",
+      "category": "tip",
+      "score": 62,
+      "selected": true
+    },
+    {
+      "id": "cmqf2oucs027eslwayb6fe3ro",
+      "title": "6倍速！Kimi K2.7 Code 高速版已上线",
+      "title_en": "6 倍速！Kimi K2.7 Code 高速版已上线",
+      "url": "https://mp.weixin.qq.com/s/p87ebkY1xqKtkGZ2N3DGSw",
+      "source": "公众号：月之暗面（Kimi）",
+      "publishedAt": "2026-06-15T10:26:06.000Z",
+      "summary": "Kimi K2.7 Code 高速版上线，与普通版为同一模型，输出速度约 5-6 倍，常规编程场景约 180 Token/s，短上下文可达 260 Token/s。API 定价为普通版 2 倍，模型 ID：kimi-k2.7-code-highspeed。Kimi Code Plan 用户可通过「抢先体验计划」使用，用量消耗为普通版 3 倍。使用须开启思考模式，关闭会报错或回退至 K2.6。庆祝发布，Kimi API 开放平台推出为期三周充赠活动，充值 500 元及以上享 20%-30% 代金券。相比 K2.6，K2.7 Code 在长上下文编程指令遵循、长程任务性能提升，平均 token 消耗减少 30%，内部基准测试显著提升。普通版输入 6.5 元/百万 token、输出 27 元，缓存输入 1.3 元。非编程任务推荐 K2.6。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true
+    },
+    {
+      "id": "cmqf0xl1601t7slwaf7eww3hm",
+      "title": "Flash-KMeans：IO感知的精确K-Means，在GPU上比FAISS快200倍以上",
+      "title_en": "Meet Flash-KMeans： An IO-Aware， Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs",
+      "url": "https://www.marktechpost.com/2026/06/15/meet-flash-kmeans-an-io-aware-exact-k-means-that-runs-over-200x-faster-than-faiss-on-gpus",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-06-15T09:16:09.000Z",
+      "summary": "UC Berkeley与UT Austin团队开源Flash-KMeans（Apache 2.0，`pip install flash-kmeans`），精确实现标准Lloyd's k-Means，通过重构GPU数据流而非改变数学或近似来提速。在NVIDIA H200上，端到端速度比最佳基线快17.9×，比cuML快33×，比FAISS快200×以上。其FlashAssign核避免物化完整N×K距离矩阵，将IO复杂度从O（NK）降至O（Nd+Kd），单核加速最高21.2×；Sort-Inverse Update核通过排序聚类ID减少原子争用，单核加速最高6.3×。支持out-of-core处理，在1B数据点、K=32768时单次迭代仅41.4s。适用于向量搜索索引、稀疏注意力路由、KV缓存压缩等在线场景。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true
     }
   ],
-  "cachedAt": "2026-06-19T07:26:05Z"
+  "cachedAt": "2026-06-19T12:17:15Z"
 }
