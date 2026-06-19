@@ -1,8 +1,68 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNTY4MDAwMDAwLCJpIjoiY21xZzVrdnEyMDA2aHNsbmN4N3g3bzFyMiJ9",
+  "nextCursor": "eyJhIjoxNzgxNTY4MDAwMDAwLCJpIjoiY21xaGxlOGhxMDAwanNscW9mZ3h5dDN3dyJ9",
   "items": [
+    {
+      "id": "cmqkhoy7906goslhiji2e8rc4",
+      "title": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89",
+      "title_en": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为 0.89",
+      "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-19T05:01:18.006Z",
+      "summary": "Agent Builder 正式上市（GA）。基于 Elasticsearch 的持久化内存层将记忆分为情景、语义、程序三类，分别存入独立索引，各设不同写速率与过期规则。召回采用 BM25 与 Jina v5 稠密向量的 RRF 融合，再经交叉编码器重排序。在 168 道 QA 题评估中，R@10 平均 0.89，零跨租户泄漏。该层可通过支持 MCP 协议的客户端访问，不绑定特定运行时，已开源至 GitHub。",
+      "category": "tip",
+      "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmqkhbjf5069eslhiepqm55gr",
+      "title": "阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式",
+      "title_en": "卧槽，阿里把内部用了多年的向量数据库直接开源了，Pinecone每月70刀的能力，它pip一行免费就能用，十亿向量毫秒级还不用单独起服务🤯 以后做RAG和AI搜索的，不用再每月给Pinecone交…",
+      "url": "https://x.com/AYi_AInotes/status/2067832098816250346",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-06-19T04:49:25.000Z",
+      "summary": "阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果大模型，认为当前正站在第四代门口。其创立的Aether AI完成首轮融资，致力于从视频中自动抽取物理规律，探索下一代因果AI范式。",
+      "category": "ai-products",
+      "score": 79,
+      "selected": true
+    },
+    {
+      "id": "cmqkf6cny05q6slhidvc7xzf4",
+      "title": "DeepSeek研究员开源AutoResearch：AI自主跑通285B模型RL研究闭环",
+      "title_en": "这可能是我近期看到的最值得深入研究的一次skills开源和工程脚手架，最后总结的5个工程思路大家可以直接拿去用。 DeepSeek 研究员 Deli Chen 把他的 AutoResearch 协议…",
+      "url": "https://x.com/AYi_AInotes/status/2067819352926150953",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-06-19T03:58:46.000Z",
+      "summary": "DeepSeek研究员Deli Chen将AutoResearch协议开源，并发布Self-play综述论文。其AI智能体首次完全自主地在DeepSeek 285B模型上完成完整RL研究闭环--从实验设计、写代码、提交GPU任务、debug到结论总结，全程零人工干预。系统调用了GRPO工具，被视为持续学习研究的开端。",
+      "category": "tip",
+      "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmqkf2fp305pcslhiws2ydp1j",
+      "title": "Fable模型被美国临时关闭，AI安全管控时代来临",
+      "title_en": "The Flat Curve Society",
+      "url": "https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b",
+      "source": "Steve Yegge：Medium（RSS）",
+      "publishedAt": "2026-06-19T03:31:56.000Z",
+      "summary": "美国政府短暂关闭了Mythos类中的Fable模型，标志着AI模型已越过危险门槛。作者预测最多两三代模型后，超级智能将像核武器一样被管控，大多数Fortune 500企业无法访问或仅受控使用。开源模型落后前沿约七个月，且面临算力和政府锁定的双重壁垒。人类的\"辨别地平线\"使许多人感觉模型进步停止，但实际指数增长未停--只是用户缺少足够困难的问题。Fable类已能解决此前Opus 4.8无法完成的复杂任务（如React客户端），AI将彻底改变编程和知识工作，但多数人只能使用当前等级模型。",
+      "category": "tip",
+      "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmqkc8a7h0515slhis4sq6oxb",
+      "title": "Salesforce CodeGen教程：生成、验证并重排序Python函数（含单元测试与安全检查）",
+      "title_en": "Salesforce CodeGen Tutorial： Generate， Validate， and Rerank Python Functions With Unit Tests and Safety Checks",
+      "url": "https://www.marktechpost.com/2026/06/18/salesforce-codegen-tutorial-generate-validate-and-rerank-python-functions-with-unit-tests-and-safety-checks",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-06-19T02:44:12.000Z",
+      "summary": "本教程实现一个基于Salesforce CodeGen的端到端代码生成工作流。从HuggingFace加载CodeGen模型（支持350M、2B、codegen2-1B、codegen25-7b等版本），通过自然语言提示生成Python函数，随后进行函数提取、语法检查、静态安全检查、单元测试验证、best-of-N候选重排序、多步程序合成、提示词实验、基准可视化及导出。展示了CodeGen作为结构化代码生成流水线的能力，不仅完成代码补全，还能评估、筛选和组织生成结果。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmqka3v1f04hbslhi809820yr",
       "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
@@ -25,6 +85,18 @@
       "summary": "AI 员工 Viktor 在 Slack 上实现 2000 万美元年化收入（无销售团队、未大规模推广），现已正式进驻 Microsoft Teams。Viktor 定位为零门槛 AI：用户无需学习、无需提示词，像 @同事 一样提及即可获得完整工作成果，甚至无需主动 @ 也能自动完成。产品面向 Teams 的 3.2 亿用户，助力企业内部运营和管理人员零学习成本使用 AI。即日起免费试用，含 100 美元信用额度，无需绑定信用卡。",
       "category": "ai-products",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqjzbnv501o3slhint0uoxat",
+      "title": "诺姆·沙齐尔加入OpenAI",
+      "title_en": null,
+      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-18T20:29:15.651Z",
+      "summary": "前Google研究员、Transformer架构共同作者诺姆·沙齐尔在X上宣布，他将加入OpenAI，并期待与那里的卓越团队合作。沙齐尔表示这是一个艰难的决定，同时对Google团队及其共同取得的成果感到无比自豪。",
+      "category": "industry",
+      "score": 86,
       "selected": true
     },
     {
@@ -61,18 +133,6 @@
       "summary": "从今日起，Claude Code 可将工作进度生成为 artifacts--实时、可分享的交互式网页，涵盖 PR 走查、系统说明、仪表盘、发布清单等。artifacts 基于会话完整上下文（代码库、连接器、对话）自动构建，更新时页面原地刷新，同事即时可见。默认仅作者可见，可分享给组织内成员，由管理员通过组织层级开关和角色权限管控。内部测试中最常见用例为调试：工程师调查事件，Claude Code 分析日志并发布包含时间线、嫌疑提交和错误率图表的 artifact，团队无需再\"走过场式汇报\"。",
       "category": "ai-products",
       "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqjuxull00fuslhitp791yyz",
-      "title": "OpenAI 联合多国医生：GPT-5.5 Instant 健康问答能力追平前沿 Thinking 模型",
-      "title_en": "We've collaborating with hundreds of physicians across 60 countries， 49 languages， and 26 specialtie…",
-      "url": "https://x.com/gdb/status/2067675030335668270",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-06-18T18:25:17.000Z",
-      "summary": "OpenAI 与全球 60 个国家、49 种语言、26 个专科的数百名医生合作，通过医生主导的评估大幅提升了 GPT-5.5 Instant 在健康相关问题的智能水平，现已能与公司前沿 Thinking 模型（推理模型）相当。该模型每周为超过 2.3 亿 ChatGPT 用户服务，能更好识别紧急医疗需求、询问相关上下文、解释不确定性并简化复杂信息。由于面向所有 ChatGPT 免费用户开放，这些改进可惠及更多人。",
-      "category": "ai-products",
-      "score": 79,
       "selected": true
     },
     {
@@ -205,6 +265,18 @@
       "summary": "工信部6月16日就《智能网联汽车自动驾驶系统安全要求》等2项强制性国标公开征求意见，公示至6月24日，建议2027年7月1日起实施。该标准系我国首部针对L3/L4的强制性国标，要求系统安全水平至少达到\"合格且专注驾驶人\"，引入Safety Case机制。L3重点规范人机交接，L4强调自身风险处置、不得依赖远程协助。新申请车型实施日起执行，已获批车型有约一年过渡期。",
       "category": "industry",
       "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmqjmc80604sqslmhz4738b0k",
+      "title": "Nature两篇研究：MIRA和AMIE诊断与治疗计划媲美甚至超越医生",
+      "title_en": "AI systems rival doctors in new Nature studies， but one result suggests the tech won't age well",
+      "url": "https://the-decoder.com/ai-systems-rival-doctors-in-new-nature-studies-but-one-result-suggests-the-tech-wont-age-well",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-06-18T14:37:06.000Z",
+      "summary": "德国团队开发的MIRA智能体在模拟电子病历中操作85，000种选项，500余例急诊诊断准确率88.9%，对比测试（311例）得分87.8%，高于资深专科医生（78.1%）和混合团队（71.1%）。MIRA在阑尾炎（98.6%）和胰腺炎（92.3%）最佳，未发现危险药物交互或剂量错误，性能不受语言影响，代码已公开。谷歌AMIE采用双智能体架构，在100个多访视病例中治疗计划适切率95%（初级保健医生72%），并在药物知识基准RxQA上超过医生。两项研究均警告模拟环境与现实存在差距，实际性能可能更低。",
+      "category": "paper",
+      "score": 78,
       "selected": true
     },
     {
@@ -436,18 +508,6 @@
       "selected": true
     },
     {
-      "id": "cmqiot8mp02u5sl5w0n1vprt0",
-      "title": "泄露文件显示OpenAI年营收130亿但亏损远超收入",
-      "title_en": "泄露的财务文件显示，OpenAI每年亏损数十亿美元",
-      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-17T23:09:09.056Z",
-      "summary": "OpenAI 2025年营收130.7亿美元（2024年37亿），但研发成本达191.8亿（含向微软支付105.9亿），收入成本（推理计算）75亿，销售营销成本57.3亿，运营亏损209.2亿。2025年净亏损约390亿，扣除约300亿一次性会计费用后约80亿。2025年3月获1220亿融资（估值8520亿）。ChatGPT周活超9亿，付费约5000万。为控制成本已关闭Sora视频模型并削减非核心业务。",
-      "category": "industry",
-      "score": 78,
-      "selected": true
-    },
-    {
       "id": "cmqiotxxz02vfsl5wx32nujv2",
       "title": "库克：AI 浪潮引发存储芯片价格暴涨，iPhone 等苹果产品涨价已\"不可避免\"",
       "title_en": null,
@@ -481,6 +541,18 @@
       "summary": "GitHub 推出一个新的仓库级数据集，采用 CC0-1.0 许可证，旨在帮助研究人员和开发者发现跨 README、Issue 和 Pull Request 的多语言开发者内容，加速多语言 AI 开发。",
       "category": "ai-products",
       "score": 61,
+      "selected": true
+    },
+    {
+      "id": "cmqimp36k02crsl5w124pcg7q",
+      "title": "Cloudflare 将更多智能体框架引入平台，以 Flue 为首",
+      "title_en": "Bringing more agent harnesses and frameworks to Cloudflare， starting with Flue",
+      "url": "https://blog.cloudflare.com/agents-platform-flue-sdk",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-06-17T19:35:00.000Z",
+      "summary": "Cloudflare Agents SDK 现已成为任何智能体框架均可构建的运行时。Cloudflare 开放了 Agents SDK 原语，Flue 成为首个针对该 SDK 的框架，同时仪表盘中已推出智能体功能。",
+      "category": "ai-products",
+      "score": 64,
       "selected": true
     },
     {
@@ -808,15 +880,15 @@
       "selected": true
     },
     {
-      "id": "cmqgvsb7s00z8slpu7p31yn17",
-      "title": "Fable 遭美国政府封禁，TechCrunch 质疑真正原因并非模型越狱",
-      "title_en": "《Fable》的封禁从来就不是因为越狱吗？",
-      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-16T16:45:18.627Z",
-      "summary": "美国政府对 Anthropic 的模型 Fable 实施封禁，但 TechCrunch 发文质疑，实际原因可能并非此前认为的\"模型越狱\"问题。该文章在 Hacker News 引发讨论，获得 103 个点赞。",
-      "category": "industry",
-      "score": 75,
+      "id": "cmqgvsq1h010mslputkvvkz6o",
+      "title": "Qwen团队发布三个具身AI模型套件 Qwen-RobotSuite",
+      "title_en": "Meet Qwen-RobotSuite： Three Embodied AI Models for VLA Manipulation， Video World Modeling， and Navigation",
+      "url": "https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-06-16T16:51:19.000Z",
+      "summary": "Qwen团队发布三个具身AI模型组成的套件Qwen-RobotSuite：Qwen-RobotManip（基于Qwen3.5-4B的VLA模型，通过统一对齐框架和3800小时开源数据（含24708小时合成）实现跨本体操作，在LIBERO-Plus OOD基准上达91.4%，跨本体迁移性能为π0.5的3.2倍）、Qwen-RobotWorld（60层MMDiT+冻结Qwen2.5-VL编码器的语言条件视频世界模型，以自然语言为统一动作接口预测未来视频）和Qwen-RobotNav（基于Qwen3-VL的导航模型，2B/4B/8B，输出航点轨迹）。RobotManip与RobotNav已开源GitHub。",
+      "category": "ai-models",
+      "score": 76,
       "selected": true
     },
     {
@@ -976,6 +1048,18 @@
       "selected": true
     },
     {
+      "id": "cmqgo34he01ftslic80znicuh",
+      "title": "2025年OpenAI亏损额激增近8倍，支出高达340亿美元",
+      "title_en": null,
+      "url": "https://www.wheresyoured.at/exclusive-openai-financials",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-16T13:01:23.690Z",
+      "summary": "据Hacker News热门文章，OpenAI在2025年亏损额激增近8倍，年度总支出达到340亿美元。原文来自wheresyoured.at的独家财务分析报道，该信息在Hacker News上获得超过100个点赞。",
+      "category": "industry",
+      "score": 78,
+      "selected": true
+    },
+    {
       "id": "cmqgok4my01llslicf5vi10lj",
       "title": "WorkBuddy日活飙升至行业第二的3-4倍，非技术用户涌入",
       "title_en": "聊聊这个可能被大家低估的Agent场景。",
@@ -985,30 +1069,6 @@
       "summary": "从3月至今，WorkBuddy日活用户数已达行业第二名的3-4倍，用户不再限于开发者，大量HR、运营、行政等非技术岗位也在使用。其企业版和项目功能进一步扩展了Agent办公场景。同期，Trae Work、QoderWork、Kimi Work等产品纷纷改名或出新，争夺市场。腾讯云认为这可能是十年一遇的机遇。",
       "category": "tip",
       "score": 67,
-      "selected": true
-    },
-    {
-      "id": "cmqgkvm4200l7slicgdylqprd",
-      "title": "SpaceX 以 600 亿美元股票收购 AI 编程公司 Cursor",
-      "title_en": "SpaceX to acquire Cursor for $60B in stock， days after blockbuster IPO",
-      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-16T11:21:41.000Z",
-      "summary": "SpaceX 在历史性 IPO 数天后，同意以 600 亿美元股票收购 AI 编程初创公司 Cursor，旨在帮助其围绕 xAI 构建的 AI 部门追赶主要 AI 实验室。此前 Cursor 正接近完成一轮 20 亿美元融资，估值 500 亿美元，投资方包括 Andreessen Horowitz、Thrive 和 Nvidia。SpaceX 在 IPO 期间向投资者表示，其 AI 产品可寻址市场达 26 万亿美元。交易预计于今年第三季度完成。",
-      "category": "industry",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmqggy29t00gaslevgnwfv3sl",
-      "title": "DeepSeek 完成首轮外部融资，估值超 500 亿美元",
-      "title_en": "DeepSeek takes outside money for the first time at a $50 billion valuation",
-      "url": "https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-06-16T09:40:48.000Z",
-      "summary": "中国 AI 初创公司 DeepSeek 完成首轮外部融资，募资超 500 亿元人民币（约 74 亿美元），估值超 500 亿美元。投资结构特殊：多数投资者将资金投入 CEO 梁文锋管理的有限合伙企业，无投票权且锁定期五年；仅国资 AI 基金直接投资并保留投票权。创始人梁文锋个人投入约 200 亿元，腾讯和宁德时代为主要外部投资者。梁文锋表示优先基础 AI 研究与 AGI 开发，将继续开源。DeepSeek 去年初凭 V3、R1 模型获全球关注，今年 4 月发布运行于华为芯片的最大开源权重模型 V4，并将 V4 Pro 永久折扣 75%，输入价格约为 OpenAI GPT-5.5 的 1/11，输出价格约为 1/35。",
-      "category": "industry",
-      "score": 72,
       "selected": true
     },
     {
@@ -1142,67 +1202,7 @@
       "category": "tip",
       "score": 62,
       "selected": true
-    },
-    {
-      "id": "cmqhjt0sx052usle11gqmucdr",
-      "title": "xAI 发布 Grok Imagine Video 1.5",
-      "title_en": "Grok Imagine Video 1.5 Jun 16， 2026 # Grok Imagine Video 1.5 Improved quality at even faster speeds. Read More",
-      "url": "https://x.ai/news/grok-imagine-video-1-5",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "xAI 将 Grok Imagine Video 1.5 从预览转为全面可用，在 Imagine API 上提供 `grok-imagine-video-1.5`，并在 grok.com/imagine 及 iOS/Android 应用上推出 Video 1.5 Fast 版。相比前代，模型在音频与语音（更清晰、嘴型同步更好）、运动与物理（更连贯、重量感更真实）、生成速度（6 秒 720p 视频约 25 秒，此前超 40 秒）上全面提升。同时逐步推出 Projects、Multiple agents（并行运行多个生成任务）、Search 等新功能，以优化创作流程。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmqh94zt2027qsle1vfbtzbjc",
-      "title": "Subagent：让模型把琐碎任务委托出去",
-      "title_en": "Subagent： Let Your Model Delegate the Busywork",
-      "url": "https://openrouter.ai/blog/announcements/subagent-server-tool",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "OpenRouter 推出 openrouter：subagent 服务器工具，允许前沿模型在生成过程中将独立的琐碎任务（如文档总结、结构化数据提取、文本重格式化）委托给更小、更便宜、更快的 worker 模型执行，从而节省前沿模型的 token 消耗。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true
-    },
-    {
-      "id": "cmqh18jbq02jwslpuwfn5km0q",
-      "title": "OpenAI 发布 Deployment Simulation 方法：通过模拟部署预测模型发布前行为",
-      "title_en": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "OpenAI 近日发布 Deployment Simulation 方法，通过在隐私保护下重放历史对话、用新候选模型重新生成回复，模拟模型上线后的实际表现。在多个 GPT-5-series Thinking 部署中，该方法比传统评估更准确地估计了不良行为频率，发现新型对齐问题，并降低模型识别测试的风险。它还能扩展至涉及工具使用的智能体场景。传统评估存在覆盖不足、选择偏差和模型可识别测试等局限，而 Deployment Simulation 使用真实对话分布缓解了这些问题，但无法测量频率低于每 20 万条消息 1 次的行为。",
-      "category": "paper",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmqguqu9r00rqslpuu5cpfao3",
-      "title": "Grok for PowerPoint 发布：在 Microsoft PowerPoint 内直接生成和编辑幻灯片",
-      "title_en": "Grok for PowerPoint Jun 16， 2026 # Grok for PowerPoint Grok now works inside Microsoft PowerPoint - turn outlines into slides， expand the deck， and tighten the narrative without leaving the app. Read More",
-      "url": "https://x.ai/news/introducing-powerpoint-addin",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "xAI 于 6 月 16 日发布 Grok for PowerPoint，作为免费 Microsoft 365 插件上线。用户无需离开应用即可利用 Grok 将大纲转为完整幻灯片，进行内容研究、撰写、排版，并支持添加单张幻灯片、调整样式主题、重构章节。插件还能调用 Grok 连接器，从邮件或 SharePoint 中获取信息。该插件同样适用于 Word 和 Excel。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true
-    },
-    {
-      "id": "cmqg5kvq2006hslncx7x7o1r2",
-      "title": "Qwen-RobotManip：对齐解锁机器人操作基础模型的规模化能力",
-      "title_en": "Qwen-RobotManip： Alignment Unlocks Scale for Robotic Manipulation Foundation Models",
-      "url": "https://qwen.ai/blog?id=qwen-robotmanip",
-      "source": "Qwen：Blog Retrieval（API）",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "Qwen-RobotManip 是通义千问基于 Qwen-VL 的视觉-语言-动作（VLA）基础模型，引入覆盖表示、运动和行为三维度的统一对齐框架。仅使用开源机器人数据集和人演示视频，构建约 38，100 小时预训练语料，涵盖 15 种机器人形态。在 LIBERO-Plus 达 91.4%，RoboTwin-C2R Hard 达 69.4%，RoboCasa365 Composite-Unseen 达 14.9%，EBench 达 45.6%，RoboTwin-IF 达 72.0%，并在 RoboChallenge Table30 v1 generalist track 夺冠。模型采用 80 维状态-动作表示、人-机器人数据合成管道（1，933 小时第一人称视频转 24，808 小时数据）及上下文策略适配。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-19T02:04:49Z"
+  "cachedAt": "2026-06-19T07:26:05Z"
 }
