@@ -1,8 +1,32 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNTM5MjAwMDAwLCJpIjoiY21xZzhlaWRpMDBjOXNsOXNiNGNqd2V3ZyJ9",
+  "nextCursor": "eyJhIjoxNzgxNTQ4MjU4MDAwLCJpIjoiY21xZmp3cGI1MDBvMnNscTh2YnJ5dXh5ZyJ9",
   "items": [
+    {
+      "id": "cmqlclrpp01h9sl2s1c94el8x",
+      "title": "JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案",
+      "title_en": "一项新法案旨在打击政府为压制合法网络言论而施加的压力",
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-19T19:41:30.069Z",
+      "summary": "上周，参议员Ted Cruz和Ron Wyden提出两党法案JAWBONE Act，为受政府胁迫的广播商、互动计算机服务商及AI提供商创建针对政府官员的联邦诉讼权，并建立政府与中间方就用户表达问题沟通的透明度体系。法案旨在应对政府施压私营公司审查受第一修正案保护的言论。EFF支持该法案，并举证：2025年6月联邦高官威胁起诉ICEBlock创建者，同年10月司法部长要求苹果下架该应用。EFF还提起信息自由诉讼，要求披露政府与苹果、谷歌、Meta的沟通记录。",
+      "category": "industry",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqlaf27b00wusl2sfbraxwid",
+      "title": "baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX",
+      "title_en": "Skill 和软件一样，需要不断迭代的，而且你用户越多，遇到的各种问题就越多，就需要去解决各种边边角角的问题，才能越来越好用。 比如 @yangyi 昨天在他的牛马AI里面测试了这个Skill，说导…",
+      "url": "https://x.com/dotey/status/2068042001895809420",
+      "source": "X：宝玉 (@dotey)",
+      "publishedAt": "2026-06-19T18:43:30.000Z",
+      "summary": "宝玉分享 baoyu-design Skill 的迭代过程：用户测试发现导出问题（样式表未铺满整页、渐变色丢失），他在本地复现后让 Agent 分析原因、给出解决方案并添加测试覆盖，修复后效果改善。该 Skill 可在制作 PPT、动画视频或网站时调用 AI 生图配图，支持 Codex 内置画图或配合 baoyu-image-gen Skill 调用 Codex CLI 画图，并能连同图片一起导出为 PPTX，在 PowerPoint/Keynote 中二次编辑。迭代循环：自己用 → 发现问题 → 让 Agent 分析 → 出方案 → 确认 → 更新 Skill。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmql6vhtu01n0slluxpq3yvzh",
       "title": "AI中心的数据黑洞",
@@ -1178,31 +1202,7 @@
       "category": "ai-products",
       "score": 71,
       "selected": true
-    },
-    {
-      "id": "cmqg8eidi00c8sl9syvs6mwbm",
-      "title": "免费LLM API比较：速率限制、模型与真实成本（2026）",
-      "title_en": "Free LLM APIs Compared： Rate Limits， Models， and Real Costs （2026）",
-      "url": "https://openrouter.ai/blog/tutorials/free-llm-apis-compared",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-15T17:00:00.000Z",
-      "summary": "13个平台提供免费LLM API，含永久免费层与试用额度。OpenRouter拥有20+免费模型，单密钥无需信用卡；Groq以约320 tokens/秒运行Llama 3.3 70B；Google AI Studio支持1M上下文；Mistral实验层约10亿token/月但需同意数据训练；Cerebras约1M token/天；GitHub Models提供GPT-4o、Claude 3.5 Sonnet等前沿模型。各免费层有速率限制、数据训练授权、上下文缩减等隐藏成本，建议早期测试2-3个方案并设置故障转移。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqg8eidi00c9sl9sb4cjwewg",
-      "title": "智能体AI治理：你的API密钥就是护栏",
-      "title_en": "Agentic AI Governance： Your API Key Is a Guardrail",
-      "url": "https://openrouter.ai/blog/insights/agentic-ai-governance",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-15T16:00:00.000Z",
-      "summary": "智能体AI使用量将在未来两年急剧上升，但治理滞后--仅五分之一企业拥有成熟治理模型。典型事故：销售智能体重试失败调用后自行升级到GPT-5.5，一夜消耗200美元。API路由层位于智能体与模型之间，是强制执行预算上限、模型白名单、提供方准入和请求日志的理想点。IBM报告指出97%遭遇AI安全事件的组织缺乏AI访问控制。最小可行治理方案：为每个智能体工作流分配独立API密钥，在API密钥层面实现预算控制、模型准入和审计追踪。",
-      "category": "tip",
-      "score": 68,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-19T18:06:25Z"
+  "cachedAt": "2026-06-19T20:02:37Z"
 }
