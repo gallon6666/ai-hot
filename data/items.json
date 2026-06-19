@@ -1,8 +1,32 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNTM0MDg1MDAwLCJpIjoiY21xZmMzOGExMDA1ZnNsMmEyMWRpZG84MyJ9",
+  "nextCursor": "eyJhIjoxNzgxNTM5MjAwMDAwLCJpIjoiY21xZzhlaWRpMDBjOXNsOXNiNGNqd2V3ZyJ9",
   "items": [
+    {
+      "id": "cmql6vhtu01n0slluxpq3yvzh",
+      "title": "AI中心的数据黑洞",
+      "title_en": "The data black hole at the center of AI",
+      "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-06-19T16:45:03.000Z",
+      "summary": "智能的一种定义是样本效率，但近年AI进步主要靠扩充数据分布和增加算力。强化学习本质是合成数据生成--投入大量算力通过验证器筛选\"好\"数据，再训练模型预测正确输出。这一过程需要每个领域和技能的海量人类专家示例，数据行业年收入已达数十亿美元。近日Epoch报告，开源模型仅落后前沿闭源模型4个月，原因在于数据可从公开API蒸馏，而超参数等不易复制。人类一生接触约2亿token，前沿模型训练在数十到数百T token之间，相差近百万倍--机器人、自动驾驶等领域同样存在巨大效率差距。",
+      "category": "tip",
+      "score": 60,
+      "selected": true
+    },
+    {
+      "id": "cmql4yj5e014zsllucl69g3l6",
+      "title": "AlphaFold 负责人 John Jumper 离职 Google DeepMind，加入 Anthropic",
+      "title_en": "Thanks John for an extraordinary partnership and wonderful collaboration over the past 9 years！ What…",
+      "url": "https://x.com/demishassabis/status/2068002732250640603",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "publishedAt": "2026-06-19T16:07:27.000Z",
+      "summary": "AlphaFold 团队负责人 John Jumper 宣布，在 Google DeepMind 工作近 9 年后决定离职，将加入 Anthropic（先休整一段时间）。DeepMind CEO Demis Hassabis 表示，过去 9 年与 Jumper 的非凡合作改变了世界，AlphaFold 展示了 AI 在科学与医学领域的巨大潜力，并为 AI 造福人类指明了方向。Jumper 回忆，Hassabis 在他博士毕业仅 6 个月后就大胆让他领导 AlphaFold 团队，感谢团队教会他如何做伟大的科学。",
+      "category": "industry",
+      "score": 72,
+      "selected": true
+    },
     {
       "id": "cmqkzwabf008islcwjpwe10ii",
       "title": "禁止开源AI将是一个错误",
@@ -136,18 +160,6 @@
       "selected": true
     },
     {
-      "id": "cmqjv0f7b00icslhi7qozgr78",
-      "title": "Claude Code 现已支持 artifacts",
-      "title_en": "Claude Code now supports artifacts",
-      "url": "https://claude.com/blog/artifacts-in-claude-code",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-18T18:54:47.698Z",
-      "summary": "从今日起，Claude Code 可将工作进度生成为 artifacts--实时、可分享的交互式网页，涵盖 PR 走查、系统说明、仪表盘、发布清单等。artifacts 基于会话完整上下文（代码库、连接器、对话）自动构建，更新时页面原地刷新，同事即时可见。默认仅作者可见，可分享给组织内成员，由管理员通过组织层级开关和角色权限管控。内部测试中最常见用例为调试：工程师调查事件，Claude Code 分析日志并发布包含时间线、嫌疑提交和错误率图表的 artifact，团队无需再\"走过场式汇报\"。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true
-    },
-    {
       "id": "cmqjur86800bvslhi6qv1647r",
       "title": "MosaicLeaks： 你的研究智能体能保守秘密吗？",
       "title_en": "MosaicLeaks： Can your research agent keep a secret？",
@@ -172,30 +184,6 @@
       "selected": true
     },
     {
-      "id": "cmqjsqzm906hvslmhamqrju3u",
-      "title": "Claude Enterprise 推出企业托管 MCP 连接器授权管理",
-      "title_en": "Centrally manage authorization for MCP connectors",
-      "url": "https://claude.com/blog/enterprise-managed-auth",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-18T17:51:29.795Z",
-      "summary": "Claude Enterprise 推出企业托管授权功能，管理员可通过身份提供商（率先支持 Okta）为整个组织配置 MCP 连接器。用户首次登录 Claude 时自动获得授权，无需手动操作，实现零接触设置。该功能基于 Model Context Protocol 的 Enterprise-Managed Authorization 扩展构建，支持 Asana、Atlassian、Canva、Figma、Granola、Linear、Supabase 等 MCP 提供商，Slack 即将支持。授权管理集成到现有 IdP 工作流中，可按组限定范围、通过 IdP 快速撤销授权，并支持要求连接器仅通过 IdP 连接以隔离工作与个人使用。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true
-    },
-    {
-      "id": "cmqjsqzm906huslmhlsasckqc",
-      "title": "驾驭 Claude Code：CLAUDE.md、技能、钩子、规则、子智能体等",
-      "title_en": "Steering Claude Code： CLAUDE.md files， skills， hooks， rules， subagents and more",
-      "url": "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-18T17:51:29.795Z",
-      "summary": "Claude Code 提供七种自定义指令方式：CLAUDE.md（根目录始终加载，子目录按需加载）、规则（无范围或路径范围）、技能（按需调用，共享 token 预算）、子智能体（隔离上下文运行并返回最终消息）、钩子（生命周期事件触发，绕过压缩）、输出样式（注入系统提示，永不压缩）和附加系统提示（CLI 标志，仅单次有效）。每种方式在加载时机、压缩行为、上下文成本和适用场景上各有不同，例如 CLAUDE.md 适合存放构建命令与编码规范，路径范围规则避免无关上下文消耗，子智能体用于并行隔离任务，钩子用于确定性自动化（如运行 linter 或备份聊天记录）。",
-      "category": "tip",
-      "score": 72,
-      "selected": true
-    },
-    {
       "id": "cmqjsoas006duslmh9878irin",
       "title": "AI数据中心获政府强制电网快车道",
       "title_en": "AI data centers just got a government-mandated fast lane to the grid",
@@ -217,18 +205,6 @@
       "summary": "OpenAI 为 ChatGPT Enterprise 推出信用额度用量分析与更新的支出控制功能。全局管理控制台（Global Admin Console）统一展示 ChatGPT 和 Codex 的信用消耗，支持按时间、用户、产品、模型追踪用量趋势。管理员可为整个工作区设置默认限额，按群组配置额度，并为个人设置叠加限制。员工可查看个人用量并申请增加额度（附工作上下文）。这些功能即日起可用。",
       "category": "ai-products",
       "score": 58,
-      "selected": true
-    },
-    {
-      "id": "cmqjpkj4105oqslmh4rmirant",
-      "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
-      "title_en": "Project Fetch： Phase two",
-      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-06-18T16:22:33.561Z",
-      "summary": "Anthropic 发布 Project Fetch 实验第二阶段结果。在2024年8月原始实验中，配备 Claude Opus 4.1 的人类团队在操控四足机器人时显著超越无 AI 团队。新实验中，Claude Opus 4.7 无需人类协助即完成所有任务，速度比最快人类团队快约20倍，比无 Claude 团队快37倍以上，编码量减少近10倍。模型在传感器连接、路径规划等环节表现出色，但在精确移动沙滩球等闭环控制任务上仍存在困难。这些进展源于通用模型规模化，而非针对机器人领域的专项优化。",
-      "category": "paper",
-      "score": 77,
       "selected": true
     },
     {
@@ -589,6 +565,54 @@
       "summary": "Google推出首款专为Gemini打造的智能音箱Google Home Speaker，售价99.99美元。支持自然语言请求和多步指令，可在说话中途纠正，并具备连续对话功能。内置10种新声音。高级AI功能需订阅Google Home Premium（月费10美元或年费100美元），包括Gemini Live自由对话、Nest摄像头活动摘要等。即日起预售，本月发货。",
       "category": "ai-products",
       "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmqjv0f7b00icslhi7qozgr78",
+      "title": "Claude Code 现已支持 artifacts",
+      "title_en": "Claude Code now supports artifacts",
+      "url": "https://claude.com/blog/artifacts-in-claude-code",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-17T16:00:00.000Z",
+      "summary": "从今日起，Claude Code 可将工作进度生成为 artifacts--实时、可分享的交互式网页，涵盖 PR 走查、系统说明、仪表盘、发布清单等。artifacts 基于会话完整上下文（代码库、连接器、对话）自动构建，更新时页面原地刷新，同事即时可见。默认仅作者可见，可分享给组织内成员，由管理员通过组织层级开关和角色权限管控。内部测试中最常见用例为调试：工程师调查事件，Claude Code 分析日志并发布包含时间线、嫌疑提交和错误率图表的 artifact，团队无需再\"走过场式汇报\"。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqjsqzm906hvslmhamqrju3u",
+      "title": "Claude Enterprise 推出企业托管 MCP 连接器授权管理",
+      "title_en": "Centrally manage authorization for MCP connectors",
+      "url": "https://claude.com/blog/enterprise-managed-auth",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-17T16:00:00.000Z",
+      "summary": "Claude Enterprise 推出企业托管授权功能，管理员可通过身份提供商（率先支持 Okta）为整个组织配置 MCP 连接器。用户首次登录 Claude 时自动获得授权，无需手动操作，实现零接触设置。该功能基于 Model Context Protocol 的 Enterprise-Managed Authorization 扩展构建，支持 Asana、Atlassian、Canva、Figma、Granola、Linear、Supabase 等 MCP 提供商，Slack 即将支持。授权管理集成到现有 IdP 工作流中，可按组限定范围、通过 IdP 快速撤销授权，并支持要求连接器仅通过 IdP 连接以隔离工作与个人使用。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true
+    },
+    {
+      "id": "cmqjsqzm906huslmhlsasckqc",
+      "title": "驾驭 Claude Code：CLAUDE.md、技能、钩子、规则、子智能体等",
+      "title_en": "Steering Claude Code： CLAUDE.md files， skills， hooks， rules， subagents and more",
+      "url": "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-17T16:00:00.000Z",
+      "summary": "Claude Code 提供七种自定义指令方式：CLAUDE.md（根目录始终加载，子目录按需加载）、规则（无范围或路径范围）、技能（按需调用，共享 token 预算）、子智能体（隔离上下文运行并返回最终消息）、钩子（生命周期事件触发，绕过压缩）、输出样式（注入系统提示，永不压缩）和附加系统提示（CLI 标志，仅单次有效）。每种方式在加载时机、压缩行为、上下文成本和适用场景上各有不同，例如 CLAUDE.md 适合存放构建命令与编码规范，路径范围规则避免无关上下文消耗，子智能体用于并行隔离任务，钩子用于确定性自动化（如运行 linter 或备份聊天记录）。",
+      "category": "tip",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqjpkj4105oqslmh4rmirant",
+      "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
+      "title_en": "Project Fetch： Phase two",
+      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-06-17T16:00:00.000Z",
+      "summary": "Anthropic 发布 Project Fetch 实验第二阶段结果。在2024年8月原始实验中，配备 Claude Opus 4.1 的人类团队在操控四足机器人时显著超越无 AI 团队。新实验中，Claude Opus 4.7 无需人类协助即完成所有任务，速度比最快人类团队快约20倍，比无 Claude 团队快37倍以上，编码量减少近10倍。模型在传感器连接、路径规划等环节表现出色，但在精确移动沙滩球等闭环控制任务上仍存在困难。这些进展源于通用模型规模化，而非针对机器人领域的专项优化。",
+      "category": "paper",
+      "score": 77,
       "selected": true
     },
     {
@@ -1178,31 +1202,7 @@
       "category": "tip",
       "score": 68,
       "selected": true
-    },
-    {
-      "id": "cmqfewpje00u4sl2awgrmj4ke",
-      "title": "Nvidia 加入 AI 债务热潮，发行 200 亿美元债券",
-      "title_en": "Nvidia joins AI debt boom with $20 billion bond sale",
-      "url": "https://the-decoder.com/nvidia-joins-ai-debt-boom-with-20-billion-bond-sale",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-06-15T15:43:04.000Z",
-      "summary": "Nvidia 计划通过自 2021 年以来的首次债券发行筹集至少 200 亿美元，消息援引知情人士透露。此举标志着 Nvidia 加入 AI 领域的债务融资热潮。",
-      "category": "industry",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqfc38a1005fsl2a21dido83",
-      "title": "Salesforce以36亿美元收购AI客服平台Fin",
-      "title_en": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
-      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-15T14:34:45.000Z",
-      "summary": "Salesforce宣布以36亿美元收购AI客服平台Fin（前身为Intercom）。Fin提供可跨实时聊天、WhatsApp、短信、电话、Slack等多渠道解决客户问题的AI智能体。Salesforce计划利用Fin的技术和团队增强其企业级Agentforce平台，该平台允许企业构建自定义AI智能体以自动化任务。交易预计在Salesforce 2027财年第四季度（即2027年初）完成。Fin联合创始人兼CEO Eoghan McCabe将继续担任CEO，研发负责人Des继续领导研发。",
-      "category": "industry",
-      "score": 73,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-19T16:14:00Z"
+  "cachedAt": "2026-06-19T18:06:25Z"
 }
