@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNTQ4MjU4MDAwLCJpIjoiY21xZmp3cGI1MDBvMnNscTh2YnJ5dXh5ZyJ9",
+  "nextCursor": "eyJhIjoxNzgxNTY4MDAwMDAwLCJpIjoiY21xZzVrdnEyMDA2Z3NsbmNoazFuZ3NsayJ9",
   "items": [
     {
       "id": "cmqlclrpp01h9sl2s1c94el8x",
@@ -13,6 +13,18 @@
       "summary": "上周，参议员Ted Cruz和Ron Wyden提出两党法案JAWBONE Act，为受政府胁迫的广播商、互动计算机服务商及AI提供商创建针对政府官员的联邦诉讼权，并建立政府与中间方就用户表达问题沟通的透明度体系。法案旨在应对政府施压私营公司审查受第一修正案保护的言论。EFF支持该法案，并举证：2025年6月联邦高官威胁起诉ICEBlock创建者，同年10月司法部长要求苹果下架该应用。EFF还提起信息自由诉讼，要求披露政府与苹果、谷歌、Meta的沟通记录。",
       "category": "industry",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqldpkuw0011slf9a7n9u4pa",
+      "title": "OpenRouter vs Portkey：你的团队该选哪个LLM网关？",
+      "title_en": "OpenRouter vs Portkey： Which LLM Gateway for Your Team？",
+      "url": "https://openrouter.ai/blog/insights/openrouter-vs-portkey",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-19T19:00:00.000Z",
+      "summary": "OpenRouter是托管路由网络，买credits后通过一个API路由至70+供应商，自动故障转移，无需自有密钥；覆盖300+模型（含20+免费），按用量收费（零加成+5.5%平台费，首100万免费），支持零数据保留和欧盟路由。Portkey是AI控制平面（2026年被Palo Alto收购），置于用户密钥之上，增加治理、提示管理、护栏和可观测性；提供1600+ LLM统一API，按日志计费（Developer免费，Production $49/月），支持HIPAA、SSO、私有部署。两者均可组合使用。",
+      "category": "tip",
+      "score": 59,
       "selected": true
     },
     {
@@ -49,6 +61,18 @@
       "summary": "AlphaFold 团队负责人 John Jumper 宣布，在 Google DeepMind 工作近 9 年后决定离职，将加入 Anthropic（先休整一段时间）。DeepMind CEO Demis Hassabis 表示，过去 9 年与 Jumper 的非凡合作改变了世界，AlphaFold 展示了 AI 在科学与医学领域的巨大潜力，并为 AI 造福人类指明了方向。Jumper 回忆，Hassabis 在他博士毕业仅 6 个月后就大胆让他领导 AlphaFold 团队，感谢团队教会他如何做伟大的科学。",
       "category": "industry",
       "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqldpkuw0012slf9dif29msc",
+      "title": "OpenRouter vs LiteLLM：如何选择 LLM 网关",
+      "title_en": "OpenRouter vs LiteLLM： Which LLM Gateway Fits Your Stack？",
+      "url": "https://openrouter.ai/blog/insights/openrouter-vs-litellm",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-19T15:00:00.000Z",
+      "summary": "OpenRouter 是托管在 Cloudflare 边缘的 LLM 网关，无需管理基础设施，收取 5.5% 平台费（前 100 万次请求免费），支持 70+ 提供商和自动故障转移。LiteLLM 是自部署代理（Docker/PostgreSQL/Redis），数据不离开内网，免费开源，但需承担基础设施成本（生产部署约数百美元/月）。当模型月支出超过约 $3，600（基础设施 $200/月）或 $9，100（基础设施 $500/月）时自托管更划算。LiteLLM 提供六种路由策略和自定义 Python 路由；OpenRouter 具备 SOC 2、GDPR 认证和零数据保留选项。两者可串联使用。",
+      "category": "tip",
+      "score": 68,
       "selected": true
     },
     {
@@ -1178,31 +1202,7 @@
       "category": "ai-models",
       "score": 72,
       "selected": true
-    },
-    {
-      "id": "cmqfp50sf0004sl002o8dcc7w",
-      "title": "GitHub Copilot CLI 初学者指南：常用斜杠命令概览",
-      "title_en": "GitHub Copilot CLI for Beginners： Overview of common slash commands",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-06-15T20:15:31.000Z",
-      "summary": "GitHub Copilot CLI 为初学者提供了常用斜杠命令的概述，帮助用户通过命令控制终端中的 AI 智能体。",
-      "category": "tip",
-      "score": 59,
-      "selected": true
-    },
-    {
-      "id": "cmqfjwpb500o2slq8vbryuxyg",
-      "title": "Meta 在 Facebook 上线\"AI Mode\"，基于平台公开信息合成答案",
-      "title_en": "Meta's new 'AI Mode' on Facebook pulls from public info across its platforms",
-      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-15T18:30:58.000Z",
-      "summary": "Meta 宣布在 Facebook 推出\"AI Mode\"搜索功能，利用 Meta AI 从公开帖子（含群组和 Reels）提取信息并合成答案，用户可用自然语言提问获得摘要。同时新增视频拼贴剪辑、过渡效果及 AI 照片预设（可更换服装、发型和配饰），体育迷可在 Stories 中点击\"AI Edit\"虚拟穿上队服。这些更新延续了此前动态头像、Marketplace 自动回复和创作者 AI 助手的部署节奏。此外，Meta 近期启动了 Facebook、Instagram 和 WhatsApp 的全球订阅计划（每月 3.99 美元起），更多 AI 订阅层级正在规划中。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-19T20:02:37Z"
+  "cachedAt": "2026-06-19T21:21:26Z"
 }
