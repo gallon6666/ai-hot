@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNTY4MDAwMDAwLCJpIjoiY21xaGxlOGhxMDAwanNscW9mZ3h5dDN3dyJ9",
+  "nextCursor": "eyJhIjoxNzgxNTY4MDAwMDAwLCJpIjoiY21xajBuM242MDYyN3NsNXczajhzOGx4NSJ9",
   "items": [
+    {
+      "id": "cmqmbymfe00zisl4f3pa6jwmz",
+      "title": "开源教程《Deep Agents 实战》发布",
+      "title_en": "开源技术教程「Deep Agents 实战」，LangChain 官方认证大使 @zhanghaili0610 出品，他也是「LangChain 实战」「LangGraph 实战」的作者 https：…",
+      "url": "https://x.com/shao__meng/status/2068306942184034471",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-06-20T12:16:16.000Z",
+      "summary": "LangChain 官方认证大使 @zhanghaili0610 推出开源教程《Deep Agents 实战》，基于 LangChain / LangGraph 生态，讲解如何用 Deep Agents Harness 框架构建真实 Agent 应用。核心是\"三层架构\"：Runtime（LangGraph）、Framework（LangChain）、Harness（Deep Agents）。技术内核为上下文工程，通过虚拟文件系统实现按需读取、中间结果落盘、大文件局部读取。教程共 8 章 + 2 准备篇，覆盖虚拟文件系统（六大工具）、任务规划、子 Agent 委派（异步并行）及 Skills 复用（可在 Claude Code、Cursor 等 30+ 工具中通用）。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmqm0elho009fsliiybg230vu",
       "title": "微软双向转售GPT与DeepSeek成全球最大AI中间商",
@@ -1190,19 +1202,7 @@
       "category": "paper",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmqhle8hq000jslqofgxyt3ww",
-      "title": "5x for Free：本地编程栈",
-      "title_en": "5x for Free ： The Local Coding Stack",
-      "url": "https://www.tomtunguz.com/local-coding-models",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "Hacker News 讨论揭示：Qwen 3.6 35B-A3B 模型提及率 33% 领先，27B 变体以 20% 紧随其后，DeepSeek Pro 与 Gemma4 31B 位列前四。Agent 工具中 Pi （49%） 与 OpenCode （45%） 占主导。用户对比称，Claude Opus 可带来 15 倍加速，而本地离线 Qwen 提供 5 倍加速，且完全免费、保护隐私。SWE-bench Verified 基准测试显示，Qwen 3.6 27B 得分 77.2%，35B-A3B 得分 73.4%，接近 Claude Sonnet 4.6 的 79.6%。MoE 架构使大模型在消费级硬件上高效运行。",
-      "category": "tip",
-      "score": 62,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-20T12:07:48Z"
+  "cachedAt": "2026-06-20T14:28:57Z"
 }
