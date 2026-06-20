@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNTY4MDAwMDAwLCJpIjoiY21xaDk0enQyMDI3cXNsZTF2ZmJ0emJqYyJ9",
+  "nextCursor": "eyJhIjoxNzgxNTY4MDAwMDAwLCJpIjoiY21xaGxlOGhxMDAwanNscW9mZ3h5dDN3dyJ9",
   "items": [
+    {
+      "id": "cmqm0elho009fsliiybg230vu",
+      "title": "微软双向转售GPT与DeepSeek成全球最大AI中间商",
+      "title_en": "还得是微软会闷声发大财啊，它现在已经成为全球最大的 AI 中间商，oh no ，是最大的中转站， 不仅把ChatGPT卖给中国企业，也把DeepSeek 反向卖给西方客户😁 以上来自彭博社的最新报…",
+      "url": "https://x.com/AYi_AInotes/status/2068218661710512231",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-06-20T06:25:29.000Z",
+      "summary": "彭博社报道，微软已成为全球最大AI模型中转站，既将ChatGPT卖给中国企业，也反向将DeepSeek模型卖给西方客户。报道称微软正在测试DeepSeek-R1和DeepSeek-V4，计划向西方客户提供这些中国模型。这一模式构建起跨中美AI模型的双向贸易网络。",
+      "category": "industry",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmqlj0jn600pdsljggy6btum5",
       "title": "NVIDIA Research 发布 SpatialClaw：免训练空间推理框架",
@@ -1190,19 +1202,7 @@
       "category": "tip",
       "score": 62,
       "selected": true
-    },
-    {
-      "id": "cmqh94zt2027qsle1vfbtzbjc",
-      "title": "Subagent：让模型把琐碎任务委托出去",
-      "title_en": "Subagent： Let Your Model Delegate the Busywork",
-      "url": "https://openrouter.ai/blog/announcements/subagent-server-tool",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "OpenRouter 推出 openrouter：subagent 服务器工具，允许前沿模型在生成过程中将独立的琐碎任务（如文档总结、结构化数据提取、文本重格式化）委托给更小、更便宜、更快的 worker 模型执行，从而节省前沿模型的 token 消耗。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-20T05:43:15Z"
+  "cachedAt": "2026-06-20T09:38:01Z"
 }
