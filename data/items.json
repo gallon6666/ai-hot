@@ -1,8 +1,20 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNTY4MDAwMDAwLCJpIjoiY21xajBuM242MDYyN3NsNXczajhzOGx4NSJ9",
+  "nextCursor": "eyJhIjoxNzgxNTY5ODQ0MDAwLCJpIjoiY21xZnh0enVhMDFta3Nsc3A4bmU3NWZvaiJ9",
   "items": [
+    {
+      "id": "cmqnbj6i202ndsl8hb9fghqqf",
+      "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+      "title_en": "你好，20岁的老爸",
+      "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
+      "source": "公众号：腾讯元宝",
+      "publishedAt": "2026-06-21T04:51:10.000Z",
+      "summary": "腾讯元宝推出父亲节主题活动，用户可选择爸爸年轻时照片与自己的照片，输入提示词（如\"帮我生成一张和爸爸的合影，将图2的我融合到图1爸爸的照片中，我想穿越回__年前，和他一起_____；保留爸爸照片的背景、动作及五官；人物姿态自然协调，整体光线与色调保持一致\"），元宝即可生成合影。活动旨在让用户\"回到过去\"看到爸爸的青春模样。",
+      "category": "tip",
+      "score": 64,
+      "selected": true
+    },
     {
       "id": "cmqmbymfe00zisl4f3pa6jwmz",
       "title": "开源教程《Deep Agents 实战》发布",
@@ -1190,19 +1202,7 @@
       "category": "industry",
       "score": 78,
       "selected": true
-    },
-    {
-      "id": "cmqj0n3n60627sl5w3j8s8lx5",
-      "title": "SAE干预不可靠：干预后抑制行为的恢复",
-      "title_en": "SAE Interventions are Unreliable： Post-Intervention Recovery of Suppressed Behavior",
-      "url": "https://arxiv.org/abs/2606.18322",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-16T00:00:00.000Z",
-      "summary": "稀疏自编码器（SAE）将残差流激活分解为可解释特征，但干预特定特征后，通过优化残差扰动可恢复原有行为。研究发现这是一种可恢复失败模式：干预阻断一条可见行为路径，却未消除行为本身。即使干预在整个优化和生成期间保持激活，恢复依然可行。在TPP、遗忘、IOI和拒绝引导场景中均观察到可恢复行为。安全关键的拒绝引导场景下有效样本恢复率达95.8%，被防御特征的相对漂移仅0.131。归因分析将恢复路径定位到SAE重建残差，表明控制SAE特征并不能保证控制底层行为。",
-      "category": "paper",
-      "score": 70,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-21T00:20:59Z"
+  "cachedAt": "2026-06-21T06:17:37Z"
 }
