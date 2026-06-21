@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNTc0NTgwMDAwLCJpIjoiY21xZnp2azFoMDI2c3Nsc3B0NThuem1kZCJ9",
+  "nextCursor": "eyJhIjoxNzgxNTc1MDA5MDAwLCJpIjoiY21xZnp2azFoMDI2cnNsc3B1aHdoMzBweCJ9",
   "items": [
+    {
+      "id": "cmqny6q7v0288slhkbzc8ob3u",
+      "title": "NSA局长：Mythos数小时内攻破其几乎所有机密系统",
+      "title_en": "The head of the NSA （！） said Mythos \"broke into almost all of our classified systems， not in weeks， …",
+      "url": "https://x.com/AISafetyMemes/status/2068718552174252477",
+      "permalink": "https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "publishedAt": "2026-06-21T15:31:52.000Z",
+      "summary": "美国NSA局长称，Mythos在数小时内攻破了其几乎所有机密系统。此前Mythos已在5天内破解MacOS。而顶级漏洞团队Google Project Zero完成同等攻击需6个月，单个MacOS零日漏洞价值约200万美元。苹果原假设全球仅10-20个团队具备此能力，Mythos将使该数字增至数千。全球约20亿活跃苹果设备中，Mac用户多为记者、高管、政府官员等高价值目标，苹果曾是\"最安全\"的选择。",
+      "category": "industry",
+      "score": 80,
+      "selected": true
+    },
     {
       "id": "cmqnokdyn007jsl4nxazzzxp1",
       "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
@@ -1289,20 +1302,7 @@
       "category": "ai-products",
       "score": 73,
       "selected": true
-    },
-    {
-      "id": "cmqfzvk1h026sslspt58nzmdd",
-      "title": "成本砍半，字节跳动推出 Seedance 2.0 Mini 视频生成模型",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/964/672.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqfzvk1h026sslspt58nzmdd",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-16T01:49:40.000Z",
-      "summary": "字节跳动火山引擎旗下火山方舟体验中心于 6 月 15 日上线 Seedance 2.0 Mini 视频生成模型，计划近期开放 API。该模型比 Seedance 2.0 Fast 快 2 倍，输出质量相当。图生视频定价 0.023 元/千 tokens，视频生视频 0.014 元/千 tokens，720P 规格下单秒生成成本约 0.5 元，较 Seedance 2.0 标准版降低约一半。模型面向电商内容生产、营销素材批量生成、UGC 创作及特效玩法等高频率、大规模视频生成场景。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-21T13:17:42Z"
+  "cachedAt": "2026-06-21T16:09:51Z"
 }
