@@ -1,8 +1,34 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNjIyMDAwMDAwLCJpIjoiY21xaXRid3NoMDQ2NnNsNXdhc2tud3gzZiJ9",
+  "nextCursor": "eyJhIjoxNzgxNjI1MDUzMDAwLCJpIjoiY21xZ3Vvd3h4MDBudXNscHV1bGF5Z2xhdiJ9",
   "items": [
+    {
+      "id": "cmqppo7c402qnslp5p92n6y3b",
+      "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
+      "title_en": "Show HN： Oak--专为代理设计的 Git 替代方案",
+      "url": "https://oak.space/oak/oak",
+      "permalink": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-22T21:00:09.808Z",
+      "summary": "Oak 是开源版本控制系统，专为 AI 智能体（Claude Code、Codex、Cursor）设计。采用 BLAKE3 内容哈希、内容定义分块、diff/merge 及 Blob/Manifest/Commit/Tree 数据模型，可选 SQLite 和 git 后端。以分支-会话为基本工作单元，用分支描述替代逐次提交，通过内容寻址懒加载使智能体数秒内编辑任意仓库。速度远超 git。已发布公开测试版 v0.99.0，支持 macOS（Apple Silicon）、Linux（x86_64）及 Windows，可通过 curl 或 cargo 安装，Apache-2.0 开源。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqpl4smd01j1slp5npj3krmn",
+      "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
+      "title_en": "Google DeepMind bets $75M on AI's future in Hollywood with A24 deal",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal",
+      "permalink": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-06-22T18:49:44.000Z",
+      "summary": "Google DeepMind 宣布向独立电影制片厂 A24 投资 7500 万美元（据《华尔街日报》），双方将合作开发电影制作 AI 工具。A24 出品过《万事俱备》《后室》等影片。Google DeepMind CEO Demis Hassabis 称，希望通过与艺术家直接合作，打造支持创意表达的 AI 功能。此举是好莱坞最新一次科技公司与电影 AI 联手，此前 Netflix 已收购 Ben Affleck 的 AI 工具公司 Interpositive，亚马逊 MGM 工作室也在去年设立了影视 AI 部门。",
+      "category": "industry",
+      "score": 70,
+      "selected": true
+    },
     {
       "id": "cmqpgzgfq00hislp5hwlbgz0h",
       "title": "Google ADK 与 A2A 协议：跨语言多智能体团队构建实战",
@@ -1276,33 +1302,7 @@
       "category": "ai-products",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmqjj1o7s03v3slmh24mblf0e",
-      "title": "保障AI智能体的未来安全",
-      "title_en": "Securing the future of AI agents",
-      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents",
-      "permalink": "https://aihot.virxact.com/items/cmqjj1o7s03v3slmh24mblf0e",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-06-16T15:46:31.000Z",
-      "summary": "Google DeepMind发布AI Control Roadmap，这是一套针对内部先进AI智能体的系统级安全框架。该框架在传统模型对齐之上增加防线，假设AI智能体可能不对齐，通过威胁建模、沙箱隔离、端点安全、提示注入防御以及基于已验证行为逐步授予权限的机制建立信任。据估算，到2030年仅美国市场AI智能体就能创造2.9万亿美元经济价值。",
-      "category": "tip",
-      "score": 65,
-      "selected": true
-    },
-    {
-      "id": "cmqitbwsh0466sl5wasknwx3f",
-      "title": "如何用 OpenRouter 接入任意编码代理或 AI 工具",
-      "title_en": "How to Use OpenRouter With Any Coding Agent or AI Tool",
-      "url": "https://openrouter.ai/blog/tutorials/any-coding-agent",
-      "permalink": "https://aihot.virxact.com/items/cmqitbwsh0466sl5wasknwx3f",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-16T15:00:00.000Z",
-      "summary": "OpenRouter 提供统一 API 键（sk-or- 开头），兼容 OpenAI Chat API，可接入 300+ 模型和 60+ 供应商。用户只需将 base URL 改为 `https：//openrouter.ai/api/v1`，设置 API 键，并指定模型 slug（如 `openai/gpt-4o` 或 `anthropic/claude-sonnet-4`）即可。同一键可直接用于 Claude Code、Codex CLI、Cursor、Cline 等编码代理与工具。其路由机制在供应商故障时自动切换，代理无需感知失败即可继续多步骤任务。OpenRouter 也提供 Python 和 TypeScript 原生 SDK。",
-      "category": "tip",
-      "score": 65,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-22T17:48:19Z"
+  "cachedAt": "2026-06-22T21:13:03Z"
 }
