@@ -1,8 +1,60 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNjI1MDUzMDAwLCJpIjoiY21xZ3Vvd3h4MDBudXNscHV1bGF5Z2xhdiJ9",
+  "nextCursor": "eyJhIjoxNzgxNjI1NjAwMDAwLCJpIjoiY21xaWpocnFpMDFpbnNsNXd3eHZxOXhjNiJ9",
   "items": [
+    {
+      "id": "cmqpw6se704e7slp5z6jfjtpe",
+      "title": "GLM-5.2 开源模型发布：744B 参数，1M 上下文，可本地运行",
+      "title_en": "Unsloth GLM-5.2 - 如何在本地运行",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "permalink": "https://aihot.virxact.com/items/cmqpw6se704e7slp5z6jfjtpe",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-22T23:56:29.361Z",
+      "summary": "Z.ai 发布 GLM-5.2，开源 744B 参数（40B 活跃），1M 上下文窗口，性能与 Claude 4.8 Opus、GPT-5.5、Gemini 3.1 Pro 持平。通过 Unsloth 动态量化，2-bit GGUF 版本内存需求降至 239GB（-84%），1-bit 版降至 217GB（-86%），可运行于 256GB 统一内存 Mac 或 1×24GB GPU+256GB RAM。提供非思考、高、最大三种思考模式。评测显示动态 1-bit 准确率约 76.2%，2-bit 约 82%。",
+      "category": "tip",
+      "score": 84,
+      "selected": true
+    },
+    {
+      "id": "cmqpu6z9y03w3slp59okauzsw",
+      "title": "Aleph 2.0 现已集成到 Figma Weave",
+      "title_en": "Aleph 2.0 Is Now in Figma Weave",
+      "url": "https://runwayml.com/news/aleph-2-in-figma-weave",
+      "permalink": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-06-22T23:18:22.492Z",
+      "summary": "Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段，可跨多镜头序列应用编辑，无需逐镜头处理。",
+      "category": "ai-products",
+      "score": 59,
+      "selected": true
+    },
+    {
+      "id": "cmqpqqsrw030aslp5c0jt14yr",
+      "title": "美国警长利用Flock车牌系统跟踪前女友案频发，Flock法务官承认\"最常见滥用\"",
+      "title_en": "由\"群情\"驱使的警察局长们尾随女性，这说明了为何需要搜查令",
+      "url": "https://ipvm.com/reports/police-chiefs-track",
+      "permalink": "https://aihot.virxact.com/items/cmqpqqsrw030aslp5c0jt14yr",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-22T21:32:12.384Z",
+      "summary": "伊利诺伊州Holiday Hills警察局长于2026年6月18日被捕，被控两项渎职重罪。检方指控他利用Flock车牌读取系统及州警察数据库，跟踪6名认识的人，其中3人为前女友，并对其中一人的前男友车牌查询140次（86次脱岗），持续18个月。全美至少18起类似案例：佐治亚州Braselton警察局长、爱达荷州Jerome县警长（700余次查询其妻车牌）等均因此辞职或被捕。Flock首席法务官Dan Haley承认，滥用该系统\"最常见情况\"就是跟踪前女友。Flock称系统只跟踪车辆，但案例表明车辆是手段，人是目标。",
+      "category": "industry",
+      "score": 80,
+      "selected": true
+    },
+    {
+      "id": "cmqppyj5702txslp5d7ahupmr",
+      "title": "在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop",
+      "title_en": "The full Claude Desktop experience on AWS， Google Cloud， and Microsoft Foundry",
+      "url": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
+      "permalink": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-22T21:19:56.013Z",
+      "summary": "通过 AWS、Google Cloud 和 Microsoft Foundry 使用 Claude Desktop 的组织现已获得 Chat、Claude Cowork 和 Claude Code 集成的完整桌面体验。IT 团队可将推理保留在自己的云环境中，对话历史本地存储。支持 IAM Identity Center、Workforce Identity Federation、Microsoft Entra ID 或 Okta 登录；策略模板可导出至 Intune、GPO 或 Jamf；提供离线安装器。Chat、Claude Cowork 和 Claude Code 各有独立策略键，支持精细访问控制。M365 连接器通过 Entra 应用访问邮件和文档，并支持 GCC High/DoD 端点。",
+      "category": "ai-products",
+      "score": 55,
+      "selected": true
+    },
     {
       "id": "cmqppo7c402qnslp5p92n6y3b",
       "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
@@ -1250,59 +1302,7 @@
       "category": "ai-products",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmqiddvsx07xcslf0wcefjhm6",
-      "title": "用SGLang-JAX在TPU上优化Ling-2.6-1T：一个Pallas核将MoE数据移动隐藏在计算中",
-      "title_en": "Blog Optimizing Ling-2.6-1T on TPU with SGLang-JAX： Hiding MoE Data Movement Behind Compute with One Pallas Kernel SGLang-JAX now supports efficient serving of inclusionAI's Ling-2.6-1T on TPU v7x. With a working baseline in place， profiling pointed to the Mixture-of-Experts （MoE） path as the main bottleneck： each… Prayer， JamesBrianD， Haolin Fu， Haoguang Cai， Qinghan Chen",
-      "url": "https://www.lmsys.org/blog/2026-06-17-ling-2-6-tpu",
-      "permalink": "https://aihot.virxact.com/items/cmqiddvsx07xcslf0wcefjhm6",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-06-16T16:00:00.000Z",
-      "summary": "SGLang-JAX现已支持inclusionAI的Ling-2.6-1T（1T稀疏MoE，63B激活参数，256路由专家，top-8路由加共享专家）在TPU v7x上高效推理。团队开发了Fused MoE V2--一个融合scatter、专家FFN和gather的Pallas核，通过将MoE数据移动隐藏在计算中，使MoE预填充延迟从5.16ms降至2.42ms（降幅53%），解码核延迟从0.249ms降至0.211ms（降幅约15%）。仅替换MoE核即提升预填充吞吐量24.8%，解码吞吐量18.5%-35.3%。在SGLang解码基准测试中，16块TPU v7x芯片输出吞吐量达16块H200 GPU的1.29倍（mc=128）至1.77倍（mc=512）。完整上线还包含混合KV/循环内存池、GLA线性注意力和单控制器数据并行支持。",
-      "category": "paper",
-      "score": 69,
-      "selected": true
-    },
-    {
-      "id": "cmqi9mvca06wuslf0gcpfh1hv",
-      "title": "谷歌发布Agentic Resource Discovery（ARD）开放规范",
-      "title_en": "Announcing the Agentic Resource Discovery specification",
-      "url": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification",
-      "permalink": "https://aihot.virxact.com/items/cmqi9mvca06wuslf0gcpfh1hv",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-06-16T16:00:00.000Z",
-      "summary": "Agentic Resource Discovery（ARD）是一项开放规范，用于在Web上发布、发现和验证AI工具、技能与智能体。它基于两个原语：组织在其自有域名下托管catalog描述可用能力，registry作为搜索引擎索引catalog并响应发现请求。ARD支持加密验证，使客户端与端点连接前确认发布者身份，然后直接通过原生协议调用能力。Google Cloud的Gemini Enterprise Agent Platform通过Agent Registry提供企业级支持，包括URN命名、出站策略、工具固定和基于Agent Identity的信任验证。该规范现已发布，开发者可通过托管`ai-catalog.json`文件使其服务可发现。",
-      "category": "industry",
-      "score": 63,
-      "selected": true
-    },
-    {
-      "id": "cmqhsj1k2025oslf0co5nf14c",
-      "title": "GLM-5.2 上线并开源：专注 Coding 与长程任务",
-      "title_en": "GLM-5.2上线并开源：专注Coding与长程任务",
-      "url": "https://www.zhipuai.cn/zh/research/161",
-      "permalink": "https://aihot.virxact.com/items/cmqhsj1k2025oslf0co5nf14c",
-      "source": "智谱：研究（网页内嵌数据）",
-      "publishedAt": "2026-06-16T16:00:00.000Z",
-      "summary": "GLM-5.2 已发布并开源，采用 MIT 协议，支持 1M 上下文窗口。Coding 方面能承载项目级上下文，长程任务执行更稳定，遵循生产级工程规范，并支持客户端与移动端真机调试闭环。通过极致 Infra 优化，发布首日即可在国产算力平台运行。模型已开源至 GitHub、Hugging Face、ModelScope、BigModel 开放平台、Z.ai、智谱清言、AutoClaw 及 ZCode。",
-      "category": "ai-models",
-      "score": 59,
-      "selected": true
-    },
-    {
-      "id": "cmqguowxx00nuslpuulayglav",
-      "title": "Copilot Cowork 全球正式可用，支持多模型",
-      "title_en": "Copilot Cowork is now generally available worldwide， now with multi-model support！ Every organizati…",
-      "url": "https://x.com/satyanadella/status/2066911399494963335",
-      "permalink": "https://aihot.virxact.com/items/cmqguowxx00nuslpuulayglav",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "publishedAt": "2026-06-16T15:50:53.000Z",
-      "summary": "Copilot Cowork 现已全球正式可用，并支持多模型！\n每个组织都可以让长期运行的智能体处理复杂的多步骤任务，基于你组织的独特知识和专有技术。 https：//www.microsoft.com/en-us/microsoft-365/blog/2026/06/16/copilot-cowork-is-now-generally-available/？v=15",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-22T21:13:03Z"
+  "cachedAt": "2026-06-23T00:20:06Z"
 }
