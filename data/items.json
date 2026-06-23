@@ -1,8 +1,47 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNzExMjcwMDAwLCJpIjoiY21xaTh5Z3cxMDZxcHNsZjBmYXJxbXNxNyJ9",
+  "nextCursor": "eyJhIjoxNzgxNzEyMDAwMDAwLCJpIjoiY21xanNxem05MDZodnNsbWhhbXFyanUzdSJ9",
   "items": [
+    {
+      "id": "cmqr73j5g0h1nslp5g9y52k0v",
+      "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
+      "title_en": null,
+      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+      "permalink": "https://aihot.virxact.com/items/cmqr73j5g0h1nslp5g9y52k0v",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-23T21:48:25.964Z",
+      "summary": "一项覆盖340万人、400万份申请、150家雇主和1700个职位的大规模实地研究发现，AI招聘筛选工具存在显著的种族歧视：26%的黑人申请者和15%的亚裔申请者遭遇算法对其族群的系统性排斥；若AI按推荐率最高群体（通常为白人）标准执行，将有4万份额外申请进入下一轮。多数雇主依赖同一第三方供应商算法，形成\"算法单一文化\"，导致10%提交4份申请者被所有职位拒绝。对比同期未用AI的招聘数据（8.3万份申请、108家财富500强企业），未发现此类模式。研究呼吁对算法招聘进行独立监管。",
+      "category": "paper",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmqr6bnad0gw8slp5xmrffynm",
+      "title": "Runway推出Seedance 4K等三款新模型",
+      "title_en": "Seedance 4K. Seedance Mini. Kling 3.0 Turbo. Available now. The world's best models， in one place. …",
+      "url": "https://x.com/runwayml/status/2069535148450705517",
+      "permalink": "https://aihot.virxact.com/items/cmqr6bnad0gw8slp5xmrffynm",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-06-23T21:36:44.000Z",
+      "summary": "Seedance 4K。Seedance Mini。Kling 3.0 Turbo。现已推出。\n全球最佳模型，汇聚一处。\n\n使用优惠码 30RUNWAY，前三个月可享七折优惠。\n\n通过下方链接开始使用。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqr4zhkm0gidslp5x8ow892r",
+      "title": "Oracle因AI应用裁员21000人，债务驱动云基础设施投资",
+      "title_en": "Oracle's 21，000 layoffs help drive its debt-fueled AI investments",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments",
+      "permalink": "https://aihot.virxact.com/items/cmqr4zhkm0gidslp5x8ow892r",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-06-23T20:17:38.000Z",
+      "summary": "Oracle在截至5月31日的财年裁员21000人，员工总数降至141，000人，降幅12.9%。公司称AI技术的采用导致劳动力缩减，同时重组成本达18亿美元，同比增长481%。Oracle计划2026年通过债务和股权筹集450至500亿美元，扩建Oracle Cloud Infrastructure，服务OpenAI、xAI、AMD、Nvidia、Meta等客户。公司债务超1200亿美元。分析人士指出裁员有助于改善现金流，但Oracle也承认大规模裁员可能带来生产力下降、人才短缺和员工士气受损等风险。",
+      "category": "industry",
+      "score": 76,
+      "selected": true
+    },
     {
       "id": "cmqr15pz20fjzslp5eps5gotw",
       "title": "FastWan-QAD：单卡5090上1.8秒生成5秒视频",
@@ -1263,46 +1302,7 @@
       "category": "ai-products",
       "score": 68,
       "selected": true
-    },
-    {
-      "id": "cmqjsqzm906huslmhlsasckqc",
-      "title": "驾驭 Claude Code：CLAUDE.md、技能、钩子、规则、子智能体等",
-      "title_en": "Steering Claude Code： CLAUDE.md files， skills， hooks， rules， subagents and more",
-      "url": "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
-      "permalink": "https://aihot.virxact.com/items/cmqjsqzm906huslmhlsasckqc",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-17T16:00:00.000Z",
-      "summary": "Claude Code 提供七种自定义指令方式：CLAUDE.md（根目录始终加载，子目录按需加载）、规则（无范围或路径范围）、技能（按需调用，共享 token 预算）、子智能体（隔离上下文运行并返回最终消息）、钩子（生命周期事件触发，绕过压缩）、输出样式（注入系统提示，永不压缩）和附加系统提示（CLI 标志，仅单次有效）。每种方式在加载时机、压缩行为、上下文成本和适用场景上各有不同，例如 CLAUDE.md 适合存放构建命令与编码规范，路径范围规则避免无关上下文消耗，子智能体用于并行隔离任务，钩子用于确定性自动化（如运行 linter 或备份聊天记录）。",
-      "category": "tip",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqjpkj4105oqslmh4rmirant",
-      "title": "Anthropic Project Fetch 第二阶段：Claude Opus 4.7 自主完成任务，速度比人类团队快约20倍",
-      "title_en": "Project Fetch： Phase two",
-      "url": "https://www.anthropic.com/research/project-fetch-phase-two",
-      "permalink": "https://aihot.virxact.com/items/cmqjpkj4105oqslmh4rmirant",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-06-17T16:00:00.000Z",
-      "summary": "Anthropic 发布 Project Fetch 实验第二阶段结果。在2024年8月原始实验中，配备 Claude Opus 4.1 的人类团队在操控四足机器人时显著超越无 AI 团队。新实验中，Claude Opus 4.7 无需人类协助即完成所有任务，速度比最快人类团队快约20倍，比无 Claude 团队快37倍以上，编码量减少近10倍。模型在传感器连接、路径规划等环节表现出色，但在精确移动沙滩球等闭环控制任务上仍存在困难。这些进展源于通用模型规模化，而非针对机器人领域的专项优化。",
-      "category": "paper",
-      "score": 77,
-      "selected": true
-    },
-    {
-      "id": "cmqi8ygw106qpslf0farqmsq7",
-      "title": "Omnigent开源：AI智能体团队元框架",
-      "title_en": "The future of coding is not one agent. It's a whole AI team. Omnigent lets you run a team of agents…",
-      "url": "https://x.com/Yuchenj_UW/status/2067273020352380950",
-      "permalink": "https://aihot.virxact.com/items/cmqi8ygw106qpslf0farqmsq7",
-      "source": "X：Yuchen Jin (@Yuchenj_UW)",
-      "publishedAt": "2026-06-17T15:47:50.000Z",
-      "summary": "编程的未来不是单一智能体，而是一个完整的AI团队。\n\nOmnigent让你在一个实时会话中运行一个智能体团队：Claude Code、Codex、Cursor、Pi，以及你自己的智能体。\n\n它是一个面向AI智能体的元框架，基于我们内部的Databricks开发工具构建，现已开源给所有人。\n\n由传奇人物@matei_zaharia和Databricks AI团队打造。没错，Matei仍然编写大量代码，包括Omnigent和我们产品的前端代码。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-23T20:21:53Z"
+  "cachedAt": "2026-06-23T22:36:55Z"
 }
