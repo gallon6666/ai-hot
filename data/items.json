@@ -1,8 +1,47 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNjI1NjAwMDAwLCJpIjoiY21xaWtqZ3JwMDFzZXNsNXdwdHhocGM2cyJ9",
+  "nextCursor": "eyJhIjoxNzgxNjUxMzY5NzkzLCJpIjoiY21xaDl0cTQ2MDJidnNsZTF6b256bXJnOSJ9",
   "items": [
+    {
+      "id": "cmqqdbcno08taslp5yd9dbxjt",
+      "title": "五眼联盟警告：AI网络威胁数月内将影响普通用户",
+      "title_en": "Top spy agencies say AI cyber threats will impact you within months. Here's why",
+      "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats",
+      "permalink": "https://aihot.virxact.com/items/cmqqdbcno08taslp5yd9dbxjt",
+      "source": "Artificial Intelligence News（RSS）",
+      "publishedAt": "2026-06-23T08:00:00.000Z",
+      "summary": "2026年6月22日，五眼联盟（美、英、加、澳、新）网络安全部门联合警告，即将到来的AI模型（如OpenAI的GPT-5.5-Cyber、Anthropic的Mythos）将降低编写复杂攻击代码的门槛。自动化智能体可全天候扫描互联网漏洞，大幅缩短安全窗口期。AI驱动的超个性化钓鱼诈骗已在亚太蔓延，印度2026年初勒索软件事件激增165%。五眼联盟建议企业部署自动化防御AI，个人用户开启多因素认证、删除闲置账户。",
+      "category": "industry",
+      "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmqq8ww0e07m4slp5mk5snl0z",
+      "title": "京东全栈开源JoyAI-VL-Interaction，从\"一问一答\"走向\"边看边说\"",
+      "title_en": "京东全栈开源JoyAI-VL-Interaction，让大模型从\"一问一答\"走向\"边看边说\"",
+      "url": "https://mp.weixin.qq.com/s/IY6XGp4k6VgD9ZPH6YprCA",
+      "permalink": "https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z",
+      "source": "公众号：京东JoyAI",
+      "publishedAt": "2026-06-23T06:04:50.000Z",
+      "summary": "京东近日开源全球首个全栈交互模型JoyAI-VL-Interaction，获vLLM-Omni原生支持。该模型能持续观察视频流、主动判断关键事件并实时响应，支持将复杂任务委托后台Agent处理。在58个真人盲评中，对比豆包视频通话助手胜率77.6%，对比Gemini视频通话助手胜率87.9%，监控预警场景达100%胜率。开源内容包括模型权重、交互数据集、训练方案及完整可部署系统，支持摄像头、直播流等视频输入及语音交互、长期记忆、vLLM部署，适用于安防监控、老人看护、直播讲解等实时场景。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmqq876yf07gsslp5eix31xaq",
+      "title": "豆包音频生成模型1.0发布，重新定义AI音频创作",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s/iL0uyUjOMUEfudeuDP6wQQ",
+      "permalink": "https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-06-23T05:41:11.000Z",
+      "summary": "火山引擎正式发布豆包音频生成模型1.0（Doubao-Seed-Audio 1.0），支持文本与音频参考生成，端到端输出目标音频。单条Prompt可编排多角色对白、情绪语气、背景音乐及环境氛围，长时生成中保持多角色音色一致性，无需后期多轨混音。模型支持0样本多模态输入，无需额外训练即可生成；实现音色与风格解耦控制及\"一声多角\"能力。一次支持2分钟音频创作，多次延长保持音色统一。已开启火山方舟API邀测，个人用户享30分钟创作额度，即将上线剪映、即梦、番茄等产品。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": true
+    },
     {
       "id": "cmqq5ns6p06scslp5dlnxluux",
       "title": "Seed2.1 正式发布，深入 AI 生产力",
@@ -14,6 +53,19 @@
       "summary": "字节Seed发布Seed2.1系列，面向真实生产力场景的智能体，强化通用Agent能力、代码工程交付与多模态理解。Seed2.1 Pro在GDPval基准获最高分，Agents' Last Exam位列参评模型第一梯队；MobileWorld手机GUI任务最高分，CreativeWork多环境任务表现突出。多模态在CharXiv-RQ等多项基准取得SOTA。代码能力上，Seed2.1 Pro在NL2Repo-Bench表现良好，开发者评测相比Claude Opus 4.6获59.1%胜率。模型已在豆包、TRAE上线，API通过火山方舟提供。",
       "category": "ai-models",
       "score": 64,
+      "selected": true
+    },
+    {
+      "id": "cmqqd9e3008seslp5644lhzaa",
+      "title": "huggingface_hub 实现每周发布：AI、开源工具、人工审核闭环",
+      "title_en": "Shipping huggingface_hub every week with AI， open tools， and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "permalink": "https://aihot.virxact.com/items/cmqqd9e3008seslp5644lhzaa",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "summary": "Hugging Face 将 huggingface_hub 的发布周期从每 4-6 周缩短至每周，全部由单个 GitHub Actions 工作流自动完成。流程依赖开源工具和开权重模型（当前为 Z.ai 的 GLM-5.2）来起草发布说明和 Slack 公告，但保留人类在最终审核环节的决定权。自动步骤包括版本号更新、提交标签推送、PyPI 发布、下游测试分支创建、发布说明草稿、Slack 公告草稿、归档、后置版本提升以及对合入 PR 的评论。所有组件均基于开源生态构建，任何维护者都可直接复制使用。",
+      "category": "tip",
+      "score": 67,
       "selected": true
     },
     {
@@ -222,6 +274,32 @@
       "summary": "OpenAI 推出 Daybreak 系列工具，包括 Codex Security 和 GPT-5.5-Cyber，帮助组织大规模发现、验证并修补漏洞。",
       "category": "ai-products",
       "score": 57,
+      "selected": true
+    },
+    {
+      "id": "cmqqd9e3008sfslp53qupzvd1",
+      "title": "我们用免费本地模型对 OpenClaw 仓库进行实时分类",
+      "title_en": "We got local models to triage the OpenClaw repo for FREE！*",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "permalink": "https://aihot.virxact.com/items/cmqqd9e3008sfslp53qupzvd1",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-06-22T00:00:00.000Z",
+      "summary": "Hugging Face 在 OpenClaw 仓库上测试用 Gemma 和 Qwen 等本地模型实时分类 issue 和 PR。他们使用 Pi agent harness 驱动模型，配合 reposhell 只允许读操作防止提示词注入。测试的模型包括 gemma-4-26b-a4b 和 qwen3.6-35b-a3b，经性能优化后均可在本地生成数百 token/s。该方案运行在 NVIDIA GB10（128 GB 统一内存）上，相比每月 200 美元的 ChatGPT Pro 订阅，可实现近乎实时的通知且仅消耗电费。",
+      "category": "tip",
+      "score": 59,
+      "selected": true
+    },
+    {
+      "id": "cmqqb5ey4088oslp5vvpveegf",
+      "title": "HAKARI-Bench：统一条件下比较检索架构与效率设置的轻量级基准",
+      "title_en": "HAKARI-Bench： A Lightweight Benchmark for Comparing Retrieval Architectures and Efficiency Settings under Unified Conditions",
+      "url": "https://arxiv.org/abs/2606.22778",
+      "permalink": "https://aihot.virxact.com/items/cmqqb5ey4088oslp5vvpveegf",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-22T00:00:00.000Z",
+      "summary": "HAKARI-Bench 是一个轻量级检索基准，将现有检索套件重建为小型数据集（Nano-sets），涵盖 35 个基准、551 个任务和 43 种语言，采用统一格式实现模型无关比较。它支持 BM25、稠密、稀疏、晚交互和重排序五种检索家族及其效率变体（降维、量化等）在同一条件下对比。在 55 个模型上，整体排名与 MTEB retrieval v2、MMTEB v2 retrieval 及 English BEIR（完整版）的 Spearman 相关系数均高于 0.97。HAKARI-Bench 不取代全面评测，而是用于快速模型选择、回归检测和探索质量-效率帕累托前沿。代码、数据和排行榜以 MIT 许可证开源。",
+      "category": "paper",
+      "score": 75,
       "selected": true
     },
     {
@@ -1224,85 +1302,7 @@
       "category": "tip",
       "score": 71,
       "selected": true
-    },
-    {
-      "id": "cmqh8r5nd020ysle1tvadx7vs",
-      "title": "Anthropic 5月企业AI订阅份额首超OpenAI，特朗普政府禁令反促采用量创新高",
-      "title_en": "Anthropic's latest feud with the Trump admin may actually help it， sales data suggests",
-      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests",
-      "permalink": "https://aihot.virxact.com/items/cmqh8r5nd020ysle1tvadx7vs",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-16T22:34:17.000Z",
-      "summary": "Anthropic 5月企业AI订阅市场份额达41%，首次超越OpenAI（39.5%）。公司刚完成650亿美元融资、估值9650亿美元，并因首次盈利季度秘密提交IPO。特朗普政府以出口管制为由要求Anthropic禁止非美国人访问最新模型Mythos 5及Fable 5，导致两款模型下架。Ramp首席经济学家指出，类似争议（如3月被国防部列为供应链风险）反而推动Anthropic企业采用量创纪录。Ramp数据显示，企业支出主要流向Claude Opus模型（最新为Opus 4.8）。",
-      "category": "industry",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmqh6wxfh01k6sle1y2xzcqjx",
-      "title": "OpenAI 的领先优势正在快速缩小",
-      "title_en": "OpenAI's lead is dwindling fast",
-      "url": "https://garymarcus.substack.com/p/openais-lead-is-dwindling-fast",
-      "permalink": "https://aihot.virxact.com/items/cmqh6wxfh01k6sle1y2xzcqjx",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-06-16T21:54:47.000Z",
-      "summary": "评论认为 OpenAI 正面临多重危机：缺乏护城河导致市场领先地位下滑；最大投资者微软持续疏远，近期甚至公开考虑将主要产品外包给中国；亏损速度远超预期，年亏损额以 8 倍增长。华盛顿方面可能打压 Anthropic，但也可能反而帮助其崛起，而 Elon Musk 成为另一个潜在的竞标者。",
-      "category": "tip",
-      "score": 62,
-      "selected": true
-    },
-    {
-      "id": "cmqgz178201wfslpu25xb10dm",
-      "title": "微软考虑为 Copilot Cowork 集成 DeepSeek V4",
-      "title_en": "Axios reports that Microsoft is considering a Microsoft-hosted version of DeepSeek V4 as a cheaper m…",
-      "url": "https://x.com/kimmonismus/status/2066946013026263110",
-      "permalink": "https://aihot.virxact.com/items/cmqgz178201wfslpu25xb10dm",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-06-16T18:08:26.000Z",
-      "summary": "微软正考虑为 Copilot Cowork 提供微软托管的 DeepSeek V4 版本，作为更便宜的模型选项。Copilot Cowork 将放弃无限定价，转向按使用量计费，原因是成本过高（用户每周执行数百项任务导致费用激增）。若采用 DeepSeek，该模型将是可选的、经过微调与安全防护，并完全托管于 Azure。Axios 报道称微软已微调了一个可用模型，最终决定待定。",
-      "category": "industry",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqh269tl004esle1vztceb34",
-      "title": "公开聊天数据能否预测真实世界AI失调？",
-      "title_en": "Can public chat data predict real-world AI misalignments？",
-      "url": "https://alignment.openai.com/validating-public-evals",
-      "permalink": "https://aihot.virxact.com/items/cmqh269tl004esle1vztceb34",
-      "source": "OpenAI：Alignment 研究博客（RSS）",
-      "publishedAt": "2026-06-16T18:00:00.000Z",
-      "summary": "OpenAI利用WildChat公开数据集（2023年4月至2024年5月收集的100万条对话）模拟模型部署，预测GPT-5.1、GPT-5.2、GPT-5.4在真实生产环境中的不良行为率。与私有生产数据对比发现，WildChat模拟的平均预测误差约3倍；但对技术性和智能体型失调的预测精度下降。研究验证了公开数据集作为外部审计工具的可行性。",
-      "category": "paper",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmqj36zhf06vksl5w4wx2c0eo",
-      "title": "MOSS-TTS-Local-Transformer-v1.5 在 SGLang-Omni 上：原生流式 48 kHz 语音服务",
-      "title_en": "Blog MOSS-TTS Local Transformer v1.5 on SGLang-Omni： Serving Native-Streaming 48 kHz Speech Today we are announcing end-to-end serving for MOSS-TTS-Local-Transformer-v1.5 on SGLang-Omni， together with MOSI and the OpenMOSS Team. MOSS-TTS-Local-Transformer-v1.5 is an open TTS model for 48 kH… MOSI， OpenMOSS Team & SGLang-Omni Team",
-      "url": "https://www.lmsys.org/blog/2026-06-17-moss-tts-local-v15",
-      "permalink": "https://aihot.virxact.com/items/cmqj36zhf06vksl5w4wx2c0eo",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-06-16T16:00:00.000Z",
-      "summary": "MOSS-TTS-Local-Transformer-v1.5 是一款开源 TTS 模型，支持 48 kHz 立体声、零样本声音克隆、最长 10 分钟长文本合成、时长控制及 31 种语言。其核心采用 Qwen3-4B 骨干与约 2B 参数的 MOSS-Audio-Tokenizer-v2 音频编解码器，通过 12 个 RVQ 码本运行。SGLang-Omni 以三阶段流水线部署该模型。在 Seed-TTS-Eval 上词错误率 5.10%、语音相似度 69.23%，CV3-Eval 上 WER 7.48%、SIM 61.59%，MiniMax Multilingual 上 WER 6.37%、SIM 75.31%，X Voice 上 WER 20.48%、SIM 63.00%。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true
-    },
-    {
-      "id": "cmqikjgrp01sesl5wptxhpc6s",
-      "title": "Google 分享 A2UI 与 MCP Apps 三种集成架构模式",
-      "title_en": "A2UI + MCP Apps： Combining the best of declarative and custom agentic UIs",
-      "url": "https://developers.googleblog.com/a2ui-and-mcp-apps",
-      "permalink": "https://aihot.virxact.com/items/cmqikjgrp01sesl5wptxhpc6s",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-06-16T16:00:00.000Z",
-      "summary": "Google 分享了三种集成 A2UI 与 MCP Apps 的架构模式，旨在结合两者优势。A2UI 采用声明式框架，通过 JSON payload 定义 UI，由宿主原生渲染，确保一致性与安全性，但受限于预定义组件库。MCP Apps 在 iframe 中使用标准 Web 技术提供自定义界面，但存在设计碎片化、性能与安全挑战。三种模式包括：通过 MCP 服务器提供 A2UI，利用 MCP Resources 或 Tool 调用传递 JSON，实现\"一次编写，原生渲染\"的跨平台能力；以及静态与动态交付方案。Google 正考虑扩展 MCP 以原生支持 A2UI。",
-      "category": "tip",
-      "score": 64,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-23T05:13:54Z"
+  "cachedAt": "2026-06-23T08:38:12Z"
 }
