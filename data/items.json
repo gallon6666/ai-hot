@@ -1,8 +1,34 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNjUxMzY5NzkzLCJpIjoiY21xaDl0cTQ2MDJidnNsZTF6b256bXJnOSJ9",
+  "nextCursor": "eyJhIjoxNzgxNjU0NDAwMDAwLCJpIjoiY21xaWpmYmR6MDFncnNsNXd4ZjRyZDdlNiJ9",
   "items": [
+    {
+      "id": "cmqqjmnoj0af8slp5kb7ky21w",
+      "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
+      "title_en": "网易发布 Confucius4-TTS：业内首个支持 14 种语言跨语种无口音、且无需参考文本即可完成语音克隆的开源模型，3 秒音频即可克隆音色",
+      "url": "https://www.ithome.com/0/967/636.htm",
+      "permalink": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-23T11:00:00.000Z",
+      "summary": "网易有道推出\"子曰 4.0\"TTS 引擎 Confucius4-TTS，声称是业内首个支持 14 种语言跨语种无口音、且无需参考文本即可完成语音克隆的开源模型。用户仅需 3 秒音频即可实现零样本音色克隆，克隆音色与原声相似度超 85%，任务准确度达 97%。模型支持中文、英语等 14 种语言，首创音频 Prompt 情感克隆迁移。底层采用 GPT 式语义大模型、SSL 预训练特征与 ECAPA-TDNN 说话人编码器、Flow Matching 框架。已全量开源（Apache 协议），提供 54GB 资源包供本地部署。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqqjmqyn0afsslp5fgdp81yv",
+      "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s/oGHVP4MgGS1rbmT8s8St8Q",
+      "permalink": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
+      "source": "公众号：千问APP（阿里）",
+      "publishedAt": "2026-06-23T10:54:49.000Z",
+      "summary": "友松实验室发布国内首个高考志愿AI能力测评报告，测试千问高考志愿填报Agent四大模块。与53位平均从业4.6年的人类咨询师对照，千问表现更稳定精确：44道事实题全对；模拟10个志愿中6个可录取；100场匿名对比中专家58次倾向千问回答。使用千问辅助后，人类咨询师正确率提升，耗时减少约27%。该Agent基于千问高考志愿大模型和夸克8年高考数据，覆盖约3000所院校、2000多个专业。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": true
+    },
     {
       "id": "cmqqdbcno08taslp5yd9dbxjt",
       "title": "五眼联盟警告：AI网络威胁数月内将影响普通用户",
@@ -1276,33 +1302,7 @@
       "category": "paper",
       "score": 58,
       "selected": true
-    },
-    {
-      "id": "cmqihhij5010ksl5w7mpblibe",
-      "title": "Grok 4.3 在 Amazon Bedrock 正式可用",
-      "title_en": "Grok on Amazon Bedrock Jun 17， 2026 # Grok on Amazon Bedrock Grok models are now available via Amazon Bedrock. Read More",
-      "url": "https://x.ai/news/grok-amazon-bedrock",
-      "permalink": "https://aihot.virxact.com/items/cmqihhij5010ksl5w7mpblibe",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "summary": "6 月 17 日，xAI 宣布 Grok 4.3 在 Amazon Bedrock 上全面可用。该模型在前沿模型中达成最低幻觉率，支持 100 万 token 上下文窗口，并提供可配置推理努力（none/low/medium/high）。在 Artificial Analysis Omniscience 基准排名第一，在 Tau2 Telecom 基准评估客服智能体真实工具调用性能排名第一，在 Vals AI Case Law 和 Corporate Finance 基准的复杂文档理解任务排名第一。定价为输入每百万 token 1.25 美元、输出每百万 token 2.50 美元，每美元智能度是其他前沿模型的 2-10 倍。",
-      "category": "ai-models",
-      "score": 61,
-      "selected": true
-    },
-    {
-      "id": "cmqh9tq4602bvsle1zonzmrg9",
-      "title": "人工智能是否已经让自助类非虚构书籍销声匿迹了？",
-      "title_en": null,
-      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
-      "permalink": "https://aihot.virxact.com/items/cmqh9tq4602bvsle1zonzmrg9",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-16T23:09:29.793Z",
-      "summary": "2026年Q1美国成人非虚构书籍销量同比下降9%，自助类下跌26.3%，仅手工艺/爱好/古董/游戏和宗教两个子类别增长。一位出版了多本《纽约时报》畅销书的作者透露，其五本书的印刷版年销量从2022年基准连续下滑：2023年-5%，2024年-13%，2025年-46%，2026年年化跌幅达-57% vs 2025年；若持续，2026年销量将比2022年减少约80%。所有格式在2025年下半年环比上半年下降约45%。作者认为，Claude、ChatGPT等大语言模型能提供更快、更便宜、更个性化的建议，正在系统性取代自助类书籍的\"指令传递\"价值。头部自助类品牌同期销量也下滑约40-60%，唯一显著变化是AI加速普及。作者判断整个指令传递型内容（包括YouTube教程、播客、在线课程、newsletter）都将面临替代。",
-      "category": "tip",
-      "score": 71,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-23T08:38:12Z"
+  "cachedAt": "2026-06-23T12:15:02Z"
 }
