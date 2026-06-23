@@ -1,8 +1,47 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNjU0NDAwMDAwLCJpIjoiY21xaWpmYmR6MDFncnNsNXd4ZjRyZDdlNiJ9",
+  "nextCursor": "eyJhIjoxNzgxNjY2NzE0NDM5LCJpIjoiY21xaGpoY2d5MDR5YnNsZTExOXB5MGw2dCJ9",
   "items": [
+    {
+      "id": "cmqqqkqoh0chzslp5i6l20j5q",
+      "title": "Mistral OCR 4",
+      "title_en": null,
+      "url": "https://mistral.ai/news/ocr-4",
+      "permalink": "https://aihot.virxact.com/items/cmqqqkqoh0chzslp5i6l20j5q",
+      "source": "Mistral AI：News（网页）",
+      "publishedAt": "2026-06-23T14:24:55.949Z",
+      "summary": "Mistral AI 发布 OCR 4，新增边界框、块分类（标题、表格、方程式、签名等）及逐页逐词置信度分数。支持 170 种语言、10 个语系，可单容器全自托管部署。在 OlmOCRBench 上得分 85.20，独立标注者偏好率平均 72%。定价每 1000 页 $4，Batch API 享 50% 折扣。可通过 API 或 Mistral Studio 的 Document AI 调用。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true
+    },
+    {
+      "id": "cmqqpk6qr0c7cslp5tgwky5n0",
+      "title": "无限制OCR：单次长时域解析",
+      "title_en": null,
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "permalink": "https://aihot.virxact.com/items/cmqqpk6qr0c7cslp5tgwky5n0",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-23T13:32:22.612Z",
+      "summary": "Unlimited OCR 是一个托管在 GitHub 的项目，实现单次长时域解析（One-Shot Long-Horizon Parsing），旨在一次性处理长时间跨度的 OCR 任务。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqqo96e30bv9slp5ds265bki",
+      "title": "IBM 开源 CUGA：轻量级智能体框架，提供二十余个单文件示例应用",
+      "title_en": "Build real agentic apps using CUGA： two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "permalink": "https://aihot.virxact.com/items/cmqqo96e30bv9slp5ds265bki",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-06-23T12:51:55.000Z",
+      "summary": "IBM 开源了 CUGA（Configurable Generalist Agent），一个处理规划、执行循环、工具调用和状态管理的轻量级智能体框架。开发者只需提供工具列表和提示词即可构建 CugaAgent。内置计划-执行-反思循环，在 AppWorld（2025年7月-2026年2月）和 WebArena（2025年2月-9月）基准上排名第一。支持 Fast / Balanced / Accurate 三种推理模式，代码执行可在本地、Docker 或 E2B 沙箱中运行。可互换工具支持 OpenAPI、MCP 和 LangChain 函数，通过环境变量一键切换 OpenAI、watsonx、Ollama 等提供商。随框架发布二十余个单文件示例应用，涵盖电影推荐、IBM Cloud 架构顾问等场景，每个应用仅需一个 FastAPI 文件。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true
+    },
     {
       "id": "cmqqjmnoj0af8slp5kb7ky21w",
       "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
@@ -300,6 +339,19 @@
       "summary": "OpenAI 推出 Daybreak 系列工具，包括 Codex Security 和 GPT-5.5-Cyber，帮助组织大规模发现、验证并修补漏洞。",
       "category": "ai-products",
       "score": 57,
+      "selected": true
+    },
+    {
+      "id": "cmqqrfwu40cpwslp5zbjpmubs",
+      "title": "能力强但粗心：计算机使用智能体是否遵循情境完整性？",
+      "title_en": "Capable but Careless： Do Computer-Use Agents Follow Contextual Integrity？",
+      "url": "https://arxiv.org/abs/2606.23189",
+      "permalink": "https://aihot.virxact.com/items/cmqqrfwu40cpwslp5zbjpmubs",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-22T00:00:00.000Z",
+      "summary": "AgentCIBench评估计算机使用智能体（CUA）是否遵循情境完整性。它针对三种常见失败模式：视觉共置（智能体拉取任务目标旁边被禁止的项目）、任务模糊性过度分享（在提示不明确时泄露个人状态）以及收件人错配（向不适当的收件人发送内容）。对15个前沿CUA的评测显示平均泄漏率67.9%，其中11个在超过50%的场景中泄漏，这些失败在端到端任务中同样存在。AgentCIBench已发布，旨在推动开发更安全的计算机使用智能体。",
+      "category": "paper",
+      "score": 78,
       "selected": true
     },
     {
@@ -1250,59 +1302,7 @@
       "category": "ai-products",
       "score": 76,
       "selected": true
-    },
-    {
-      "id": "cmqhhkrpp04hksle1vu6mkikf",
-      "title": "中国加紧筹建世界人工智能合作组织",
-      "title_en": "中国正在加紧筹建世界人工智能合作组织",
-      "url": "https://www.ithome.com/0/965/248.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqhhkrpp04hksle1vu6mkikf",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-17T02:50:01.000Z",
-      "summary": "中国正加紧筹建世界人工智能合作组织，欢迎各方加入。2025年7月26日，中国政府倡议成立该组织，作为践行多边主义、推动共商共建共享全球治理的举措，旨在弥合数字和智能鸿沟、促进人工智能向善普惠发展。初步考虑总部设在上海。同日，2025世界人工智能大会发表《人工智能全球治理行动计划》，呼吁各方遵循向善为民、尊重主权、发展导向、安全可控、公平普惠、开放合作的原则，协力推进全球人工智能发展与治理。",
-      "category": "industry",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqhc0qfq02z5sle1wpedtx0m",
-      "title": "baoyu-design 本地动画视频导出功能更新",
-      "title_en": "baoyu-design skill 可以在本地生成动画视频，导出 mp4 格式，就像附件视频这个。 Claude Design 网页版可以用提示词创建动画视频，但你需要在网页上才能看到视频，无法下…",
-      "url": "https://x.com/dotey/status/2067039941960327204",
-      "permalink": "https://aihot.virxact.com/items/cmqhc0qfq02z5sle1wpedtx0m",
-      "source": "X：宝玉 (@dotey)",
-      "publishedAt": "2026-06-17T00:21:40.000Z",
-      "summary": "baoyu-design（本地运行 Claude Design 的 Skill）新增动画视频导出功能。其声明式动画引擎基于 f（t） 设计：任意时间点 t 可绝对确定画面状态。导出采用无头 Chromium 逐帧截图 + ffmpeg 编码，每帧等待两帧 requestAnimationFrame 确保渲染完成。截图以 2 倍 DPR（3840×2160）再缩回 1080p，保证细节清晰。95 秒 30fps 动画需 2850 次截图循环，帧帧精确。项目已开源（MIT），获 1.2K star。此前 baoyu-design 已支持 PPT 本地生成和导出可编辑 PPTX。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqiygkr105h9sl5wy9xi09kx",
-      "title": "Sumi：从头训练的7B开源均匀扩散语言模型",
-      "title_en": "Sumi： Open Uniform Diffusion Language Model from Scratch",
-      "url": "https://arxiv.org/abs/2606.19005",
-      "permalink": "https://aihot.virxact.com/items/cmqiygkr105h9sl5wy9xi09kx",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "summary": "Sumi（日语\"墨\"）是一个完全开源的7B参数均匀扩散语言模型，从零开始在1.5T模型token上预训练。它在知识、推理和编程评测中与同等token预算的自回归模型表现相当，但在常识推理benchmark上略逊，教育密集型数据混合可能是原因之一。Sumi开放模型权重、检查点及完整训练配方（含公开语料数据混合说明），为社区提供首个大规模均匀扩散模型的基准参考。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmqijfbdz01grsl5wxf4rd7e6",
-      "title": "LifeSciBench 发布",
-      "title_en": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "permalink": "https://aihot.virxact.com/items/cmqijfbdz01grsl5wxf4rd7e6",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "summary": "2026 年 6 月，OpenAI 联合 173 位博士级生命科学家发布 LifeSciBench 评测基准，涵盖 750 个真实研究任务，覆盖证据处理、分析、设计优化等七个工作流及七个生物领域。每项任务配有约 25 条细化评分标准（共 19，020 条），评估模型的科学正确性与实用价值。79% 的任务需多步推理，53% 要求解读图表、PDF 等附件数据，旨在衡量 AI 在复杂、不确定的研究任务中的实际能力，而非仅回答结构化问题。",
-      "category": "paper",
-      "score": 58,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-23T12:15:02Z"
+  "cachedAt": "2026-06-23T15:24:49Z"
 }
