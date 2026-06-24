@@ -1,8 +1,34 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNzI0OTAwMDAwLCJpIjoiY21xaW1wMzZrMDJjcnNsNXcxMjRwY2c3cSJ9",
+  "nextCursor": "eyJhIjoxNzgxNzM2MDc1MDAwLCJpIjoiY21xaW90eHh6MDJ2ZnNsNXd4MzJudWp2MiJ9",
   "items": [
+    {
+      "id": "cmqs65ogk008hslfuodhruc4w",
+      "title": "里德·霍夫曼称SpaceX\"不是一家人工智能公司\"，xAI则是\"彻底的灾难\"",
+      "title_en": null,
+      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake",
+      "permalink": "https://aihot.virxact.com/items/cmqs65ogk008hslfuodhruc4w",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-24T14:20:14.340Z",
+      "summary": "LinkedIn联合创始人、Anthropic和OpenAI投资者Reid Hoffman在播客中公开批评SpaceX和xAI。他指出SpaceX\"不是一家人工智能公司\"，6月12日上市后收购AI编程工具Cursor属于\"花钱买相关性\"；xAI则是\"彻底的灾难\"，所有11位联合创始人已离职，Grok模型在基准测试中落后于Anthropic和OpenAI。他还批评美国政府6月11日以出口管制为由强制Anthropic下架Fable和Mythos模型，理由仅为Amazon CEO报告Fable 5存在jailbreak漏洞，称此举\"专断随意\"。Hoffman认为Anthropic和OpenAI均有巨大发展空间，但Cursor可能已过巅峰。他建议年轻人不要抵制AI。",
+      "category": "tip",
+      "score": 78,
+      "selected": true
+    },
+    {
+      "id": "cmqs68cgx0090slfuumt36jny",
+      "title": "字节跳动技术副总裁洪定坤：AI Coding 的实践与探索",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s/mdmaAyUIvxE8WT_GEbF2wQ",
+      "permalink": "https://aihot.virxact.com/items/cmqs68cgx0090slfuumt36jny",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-06-24T14:02:42.000Z",
+      "summary": "在火山引擎Force大会，字节跳动技术副总裁洪定坤分享AI Coding实践。过去一年，字节AI代码贡献率增长6倍，tokens消耗增长5倍，但过度关注单一指标可能失真--TRAE团队代码超90%由AI生成，人均需求吞吐率仅提升60%。900次实验显示，主流Coding模型组合代码正确率超80%，但可交付性仅40-60分；结合Harness基建后提升至80分。AI降低编程门槛但需优化指标、治理、协作。字节探索原型驱动开发，能力沉淀至TRAE（日均Token消耗5.6万亿，增长50倍），并推出TRAE Work。",
+      "category": "tip",
+      "score": 74,
+      "selected": true
+    },
     {
       "id": "cmqrxnmqg0p2zslp51p8cc1ln",
       "title": "火山引擎推出Agent Ready基础设施，AgentKit与ArkClaw企业版升级",
@@ -40,6 +66,19 @@
       "summary": "🥳感谢分享，@MLBoy_DaisukeMajima 🚀\nMiniCPM-V 4.6 在设备上以这样的速度运行，实在令人印象深刻--尤其是在 Apple Core AI 上以不到 2B 参数跑出。\n干得漂亮，推动高效多模态 AI 向前发展。🫡",
       "category": "tip",
       "score": 65,
+      "selected": true
+    },
+    {
+      "id": "cmqs319vw0qkcslp52gzwr77q",
+      "title": "OpenAI 与 Broadcom 发布面向 LLM 推理的定制芯片 Jalapeño",
+      "title_en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "permalink": "https://aihot.virxact.com/items/cmqs319vw0qkcslp52gzwr77q",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-24T06:00:00.000Z",
+      "summary": "OpenAI 与 Broadcom 联合推出 Jalapeño，一款专为大语言模型（LLM）推理优化的定制 AI 芯片，旨在提升 AI 系统的性能、效率与规模。",
+      "category": "ai-products",
+      "score": 55,
       "selected": true
     },
     {
@@ -1263,46 +1302,7 @@
       "category": "industry",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmqio5ehw02r0sl5wdidvo2dc",
-      "title": "Claude Code v2.1.181 发布",
-      "title_en": "v2.1.181",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.181",
-      "permalink": "https://aihot.virxact.com/items/cmqio5ehw02r0sl5wdidvo2dc",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-06-17T22:07:41.000Z",
-      "summary": "Claude Code v2.1.181 发布，新增 `/config key=value` 语法允许在提示中直接设置任意配置项，新增 `sandbox.allowAppleEvents` 选项使沙盒命令支持 Apple Events，新增 `CLAUDE_CLIENT_PRESENCE_FILE` 环境变量用于抑制移动端推送通知。内置 Bun 运行时升级至 1.4，改进了长段落流式输出（逐行显示）和 API 连接中断后自动重试。子 agent 面板优化：空闲 agent 30 秒自动隐藏、列表最多 5 行。修复了提示缓存读取、Write/Edit 在网络驱动器产生 0 字节文件、启动性能回归（约 120ms）、启动阻塞（最长 15 秒）、macOS TUI 冻结、子 agent 时长显示错误、API 重试指示器残留、AWS 凭证刷新等问题。",
-      "category": "ai-products",
-      "score": 57,
-      "selected": true
-    },
-    {
-      "id": "cmqiicjpx015ysl5wa4xk67zg",
-      "title": "GitHub 发布 CC0-1.0 开源多语言仓库级数据集，覆盖 README、Issue 和 PR",
-      "title_en": "Getting more from each token： How Copilot improves context handling and model routing",
-      "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing",
-      "permalink": "https://aihot.virxact.com/items/cmqiicjpx015ysl5wa4xk67zg",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-06-17T19:41:46.000Z",
-      "summary": "GitHub 推出一个新的仓库级数据集，采用 CC0-1.0 许可证，旨在帮助研究人员和开发者发现跨 README、Issue 和 Pull Request 的多语言开发者内容，加速多语言 AI 开发。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true
-    },
-    {
-      "id": "cmqimp36k02crsl5w124pcg7q",
-      "title": "Cloudflare 将更多智能体框架引入平台，以 Flue 为首",
-      "title_en": "Bringing more agent harnesses and frameworks to Cloudflare， starting with Flue",
-      "url": "https://blog.cloudflare.com/agents-platform-flue-sdk",
-      "permalink": "https://aihot.virxact.com/items/cmqimp36k02crsl5w124pcg7q",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-06-17T19:35:00.000Z",
-      "summary": "Cloudflare Agents SDK 现已成为任何智能体框架均可构建的运行时。Cloudflare 开放了 Agents SDK 原语，Flue 成为首个针对该 SDK 的框架，同时仪表盘中已推出智能体功能。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-24T12:00:41Z"
+  "cachedAt": "2026-06-24T15:06:01Z"
 }
