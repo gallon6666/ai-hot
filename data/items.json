@@ -1,8 +1,34 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNzQzNzU2MDAwLCJpIjoiY21xaXQ0Z3RyMDQwenNsNXdhbTVjazQ4YiJ9",
+  "nextCursor": "eyJhIjoxNzgxNzUyMTUxMjc1LCJpIjoiY21xaXhmMGFyMDU3bXNsNXcxMzJmMDl1YyJ9",
   "items": [
+    {
+      "id": "cmqshf6dl0354slfug4vof984",
+      "title": "Perplexity推出Computer for Counsel",
+      "title_en": "Introducing Computer for Counsel. Computer now connects the research databases， document tools， and…",
+      "url": "https://x.com/perplexity_ai/status/2069866668671766804",
+      "permalink": "https://aihot.virxact.com/items/cmqshf6dl0354slfug4vof984",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "publishedAt": "2026-06-24T19:34:04.000Z",
+      "summary": "推出 Computer for Counsel。\n\nComputer 现在连接了律师日常使用的研究数据库、文档工具和案件管理系统。可从中提取可引用来源：@midpageAI、@LegalZoom、@Docusign、@netdocuments 等。\n\n所有 Pro 和 Max 订阅用户均可使用。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true
+    },
+    {
+      "id": "cmqsgw1tf0304slfurlccxlvs",
+      "title": "在与Anthropic的纠纷中，NSA失去了对Mythos的访问权限",
+      "title_en": null,
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "permalink": "https://aihot.virxact.com/items/cmqsgw1tf0304slfurlccxlvs",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-24T19:08:32.032Z",
+      "summary": "美国国家安全局（NSA）因与人工智能公司Anthropic的纠纷，失去了对Mythos系统的访问权限。",
+      "category": "industry",
+      "score": 71,
+      "selected": true
+    },
     {
       "id": "cmqsef9c302f0slfu6lvuhnu7",
       "title": "GPT-5.5 Instant 新版本，对话更有趣",
@@ -53,6 +79,19 @@
       "summary": "NVIDIA NeMo AutoModel 是基于 Transformers v5 的开源库，添加 Expert Parallelism、DeepEP 融合 all-to-all 调度和 TransformerEngine 内核。在 MoE 模型微调中，相比原生 v5，训练吞吐量提升 3.4-3.7 倍，GPU 内存减少 29-32%，仅需改动一行 import。在 16 节点 128 张 H100 上全微调 Nemotron 3 Ultra 550B A55B 时，v5 因内存不足无法运行，而 AutoModel 凭借 EP=64 专家并行使训练可行。单节点 30B MoE 模型（如 Qwen3-30B-A3B）同样获得可量化的性能优势。",
       "category": "tip",
       "score": 66,
+      "selected": true
+    },
+    {
+      "id": "cmqsi8c9303azslfuexk0h241",
+      "title": "OpenRouter 零数据留存（ZDR）实践：97 款新模型，流量占比近半",
+      "title_en": "When Zero Means Zero",
+      "url": "https://openrouter.ai/blog/insights/when-zero-means-zero",
+      "permalink": "https://aihot.virxact.com/items/cmqsi8c9303azslfuexk0h241",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-24T16:00:00.000Z",
+      "summary": "OpenRouter 的零数据留存（ZDR）保证用户提示词和模型响应不被存储，元数据一般安全。自 1 月以来新增 97 款支持 ZDR 的模型，月度 token 量增长 4.3 倍，约占全部路由流量一半。ZDR 在三个层面执行：账户级（整个供应商开启）、护栏级（按 API Key 或组织成员限定）、单次请求级（传参数仅路由至 ZDR 端点）。企业用户可灵活选择控制粒度，避免锁定单一供应商。",
+      "category": "tip",
+      "score": 68,
       "selected": true
     },
     {
@@ -1263,46 +1302,7 @@
       "category": "ai-products",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmqiw7jw604v7sl5w10zed5s8",
-      "title": "首个统一科学大模型 LOGOS 正式开源",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/50q5uY849FKnBzk1Q04MRg",
-      "permalink": "https://aihot.virxact.com/items/cmqiw7jw604v7sl5w10zed5s8",
-      "source": "公众号：通义实验室（千问）",
-      "publishedAt": "2026-06-18T02:31:28.000Z",
-      "summary": "LOGOS 由 ATH-Token Foundry 联合中国人民大学高瓴人工智能学院开源，是首个基于统一\"科学语法\"的多领域科学生成基础模型。LOGOS-1B（1B参数）在六大科学任务上匹配或超越领域专用方法：口袋条件配体生成纯序列范式首次超越3D扩散模型，超越NatureLM（8×7B）；逆合成预测Top-1准确率74.8%；口袋位点识别仅靠序列达58.5% Top-n准确率；MOF材料生成NBB提升至17.78%。模型采用统一词汇表将蛋白质、小分子等编码为离散Token，通过空间交互离散化实现无需3D坐标的序列预测。预训练与下游任务形式与目标一致，跨领域知识迁移经实验验证有效。已完整开源模型权重、推理代码与技术报告。",
-      "category": "ai-models",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqiu8fi704ddsl5w9tfb6f52",
-      "title": "深入解析 Midjourney Scanner 技术内幕",
-      "title_en": "A technical dive inside our new \"Midjourney Scanner\"",
-      "url": "https://x.com/midjourney/status/2067422898407837797",
-      "permalink": "https://aihot.virxact.com/items/cmqiu8fi704ddsl5w9tfb6f52",
-      "source": "X：Midjourney (@midjourney)",
-      "publishedAt": "2026-06-18T01:43:24.000Z",
-      "summary": "我们全新\"Midjourney Scanner\"的技术深潜。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmqit4gtr040zsl5wam5ck48b",
-      "title": "上交所发布指引：AI大模型企业可适用科创板第五套上市标准",
-      "title_en": "上交所：AI 大模型企业适用科创板第五套上市标准，在申报时至少有一个大模型产品已完成上线发布并实现规模化应用",
-      "url": "https://www.ithome.com/0/965/735.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqit4gtr040zsl5wam5ck48b",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-18T00:49:16.000Z",
-      "summary": "上海证券交易所6月17日发布指引，支持尚未形成稳定收入的优质人工智能大模型企业通过科创板第五套上市标准发行上市。申报企业需在行业地位、产业链优势、目标市场需求、研发进度及关键指标方面具备突出竞争力。指引明确，申报时至少有一个大模型产品已完成上线发布并实现规模化应用，以验证商业模式可行性。下一步，上交所将在中国证监会指导下推进符合标准的企业上市。",
-      "category": "industry",
-      "score": 72,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-24T19:01:08Z"
+  "cachedAt": "2026-06-24T20:54:57Z"
 }
