@@ -1,8 +1,47 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNzEzODA5MDAwLCJpIjoiY21xaWFoMXhoMDczenNsZjA3cHdydTR1aSJ9",
+  "nextCursor": "eyJhIjoxNzgxNzIwMTkwMDAwLCJpIjoiY21xaWV3Zzg1MDA5enNsNXcwZ2J0NmhiZSJ9",
   "items": [
+    {
+      "id": "cmqrrgnay0n08slp5phvdk394",
+      "title": "DFlash：块扩散草稿模型实现最高15倍吞吐量提升",
+      "title_en": "DFlash Speculative Decoding Drafts Whole Token Blocks in Parallel for Up to 15x Higher Throughput on NVIDIA Blackwell",
+      "url": "https://www.marktechpost.com/2026/06/24/dflash-speculative-decoding-drafts-whole-token-blocks-in-parallel-for-up-to-15x-higher-throughput-on-nvidia-blackwell",
+      "permalink": "https://aihot.virxact.com/items/cmqrrgnay0n08slp5phvdk394",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-06-24T07:21:10.000Z",
+      "summary": "DFlash 由 UC San Diego 团队提出，是一种用于投机解码的轻量块扩散草稿模型。它一次前向推理生成整块 token，再由目标模型并行验证，保证输出无损。相比 EAGLE-3，DFlash 实现最高 2.5 倍加速，在 Qwen3-8B 等多种模型上平均无损加速超过 6 倍（MATH-500 达 6.08×）。在 NVIDIA Blackwell 上（TensorRT-LLM），gpt-oss-120b 模型吞吐量提升最高 15 倍，约为 EAGLE-3 的 1.5 倍。核心创新是将目标模型多层隐藏特征注入草稿模型每一层的 Key-Value 投影，使接受长度随草稿深度增长。",
+      "category": "paper",
+      "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmqrqhlvx0mr7slp5atv7dptr",
+      "title": "MiniCPM-V 4.6 在 Apple Core AI 上高速运行",
+      "title_en": "🥳Thanks for sharing this， @MLBoy_DaisukeMajima 🚀 MiniCPM-V 4.6 running at this speed on-device is …",
+      "url": "https://x.com/OpenBMB/status/2069676334381728106",
+      "permalink": "https://aihot.virxact.com/items/cmqrqhlvx0mr7slp5atv7dptr",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-06-24T06:57:45.000Z",
+      "summary": "🥳感谢分享，@MLBoy_DaisukeMajima 🚀\nMiniCPM-V 4.6 在设备上以这样的速度运行，实在令人印象深刻--尤其是在 Apple Core AI 上以不到 2B 参数跑出。\n干得漂亮，推动高效多模态 AI 向前发展。🫡",
+      "category": "tip",
+      "score": 65,
+      "selected": true
+    },
+    {
+      "id": "cmqrl73460l9gslp5w33pryqi",
+      "title": "OpenAI ChatGPT 语音最大规模升级：双向AI语音模型 Bidi 1 已上线测试",
+      "title_en": "OpenAI ChatGPT 语音最大规模升级：双向 AI 语音模型 Bidi 1 已上线测试",
+      "url": "https://www.ithome.com/0/967/852.htm",
+      "permalink": "https://aihot.virxact.com/items/cmqrl73460l9gslp5w33pryqi",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-24T04:34:24.000Z",
+      "summary": "6月23日，部分用户反馈 ChatGPT 网页版和 App 版上线了双向 AI 语音模型 Bidi 1，位于设置模型选择器中，与标准语音和高级语音并列。该模型支持边说话边监听，用户可在对话中途打断并发出新指令，例如要求从1数到10时中途喊停倒数，模型会立即切换执行。OpenAI 尚未官宣，预计本周启动更大范围测试。",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true
+    },
     {
       "id": "cmqrizuey0kmcslp5zt7bajh0",
       "title": "Qwen-AgentWorld 开源：让 Agent 学会\"先预测，再行动\"",
@@ -1263,46 +1302,7 @@
       "category": "industry",
       "score": 79,
       "selected": true
-    },
-    {
-      "id": "cmqics21707rbslf0ydj558jy",
-      "title": "Vercel 发布开源 AI 智能体框架 Eve：每个智能体就是一个文件目录",
-      "title_en": "Vercel Releases Eve： An Open-Source AI Agent Framework Where Each Agent is a Directory of Files Mapped to Capabilities",
-      "url": "https://www.marktechpost.com/2026/06/17/vercel-releases-eve",
-      "permalink": "https://aihot.virxact.com/items/cmqics21707rbslf0ydj558jy",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-06-17T17:22:51.000Z",
-      "summary": "Vercel 发布开源 AI 智能体框架 Eve（npm 包，Apache-2.0 许可）。Eve 采用文件系统优先设计：每个智能体对应一个磁盘目录，目录结构直接映射模型、指令、工具、技能、连接、子智能体等能力，无需额外注册代码。内置六大生产级能力：持久执行（每步检查点，崩溃后可恢复）、沙箱计算、人机审批、安全连接（支持 MCP 和 OpenAPI）、多通道（Slack、Discord、Teams 等）以及追踪与评估（OpenTelemetry）。Vercel 内部运行了上百个智能体，包括数据分析工具 d0（月处理超3万查询）、自动销售代理 Lead Agent（年费约5000美元、回报32倍）和支持智能体 Vertex（自主解决92%工单）。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true
-    },
-    {
-      "id": "cmqiakygm075xslf0a7v3eqfl",
-      "title": "NVIDIA GEAR实验室发布ENPIRE：8个Codex智能体自主控制机器人完成物理实验",
-      "title_en": "I made Physical AutoResearch sound simple （conceptually）， but it took a village to pull off and lots…",
-      "url": "https://x.com/DrJimFan/status/2067283904986517866",
-      "permalink": "https://aihot.virxact.com/items/cmqiakygm075xslf0a7v3eqfl",
-      "source": "X：Jim Fan (@DrJimFan)",
-      "publishedAt": "2026-06-17T16:31:05.000Z",
-      "summary": "NVIDIA GEAR实验室推出ENPIRE系统，首次实现物理世界自主研究。系统让8个Codex智能体控制8台机器人，配备GPU和token预算。安全方面采用硬运动极限切断和扭矩受限夹爪两层硬件保障，支持通宵无人运行。奖励函数通过视觉分类器离线固定并冻结，防止智能体作弊。实时监测机器人利用率（MRU）、token利用率（MTU）和GPU利用率，以Tokens-to-Success和Time-to-Success评估效率。ENPIRE自主完成扎带、整理细针、安装GPU等高精度任务，发现8机器人并行探索显著更快。系统将开源。",
-      "category": "paper",
-      "score": 81,
-      "selected": true
-    },
-    {
-      "id": "cmqiah1xh073zslf07pwru4ui",
-      "title": "Google发布99美元Gemini智能音箱",
-      "title_en": "Google bets on Gemini to reinvent the smart home speaker",
-      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker",
-      "permalink": "https://aihot.virxact.com/items/cmqiah1xh073zslf07pwru4ui",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-17T16:30:09.000Z",
-      "summary": "Google推出首款专为Gemini打造的智能音箱Google Home Speaker，售价99.99美元。支持自然语言请求和多步指令，可在说话中途纠正，并具备连续对话功能。内置10种新声音。高级AI功能需订阅Google Home Premium（月费10美元或年费100美元），包括Gemini Live自由对话、Nest摄像头活动摘要等。即日起预售，本月发货。",
-      "category": "ai-products",
-      "score": 76,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-24T04:34:06Z"
+  "cachedAt": "2026-06-24T08:33:07Z"
 }
