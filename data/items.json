@@ -1,8 +1,60 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNzM2MDc1MDAwLCJpIjoiY21xaW90eHh6MDJ2ZnNsNXd4MzJudWp2MiJ9",
+  "nextCursor": "eyJhIjoxNzgxNzQxOTk2MDAwLCJpIjoiY21xaXJkcDU2MDNuMHNsNXdqZm5lczJlMyJ9",
   "items": [
+    {
+      "id": "cmqsbr8l701ndslfubzp0hnmi",
+      "title": "思考即回忆：推理如何解锁LLM中的参数化知识",
+      "title_en": "Thinking to recall： How reasoning unlocks parametric knowledge in LLMs",
+      "url": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms",
+      "permalink": "https://aihot.virxact.com/items/cmqsbr8l701ndslfubzp0hnmi",
+      "source": "Google Research：Blog（网页）",
+      "publishedAt": "2026-06-24T17:05:40.380Z",
+      "summary": "Google Research研究发现，推理（chain-of-thought）能帮助大语言模型（LLM）回忆简单事实，即使这些事实无需复杂推导。在Gemini-2.5 Flash和Pro以及Qwen3-32B上，启用推理后模型能够回答原本无法直接回答的简单问题，pass@k显示正确事实存在于输出分布中。该现象由两个机制驱动：一是生成的推理token充当计算缓冲，允许模型进行隐藏计算以提取参数化知识；二是推理过程中产生的相关事实起到启动效应（factual priming），帮助模型激活正确答案。",
+      "category": "paper",
+      "score": 69,
+      "selected": true
+    },
+    {
+      "id": "cmqsbrhhm01o1slfu2kei9qhy",
+      "title": "Figma在Config 2026押注人类判断，画布AI能力却来自第三方",
+      "title_en": "Figma bets on human judgment at Config 2026 while the AI powering its canvas belongs to someone else",
+      "url": "https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else",
+      "permalink": "https://aihot.virxact.com/items/cmqsbrhhm01o1slfu2kei9qhy",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-06-24T16:49:01.000Z",
+      "summary": "Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推理成本挤压利润率。同时，Anthropic等公司的竞争产品可直接生成界面，构成威胁。",
+      "category": "ai-products",
+      "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmqs9yjcy0187slfupnhipvhf",
+      "title": "NVIDIA NeMo AutoModel：一行代码加速Transformer MoE模型微调",
+      "title_en": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "permalink": "https://aihot.virxact.com/items/cmqs9yjcy0187slfupnhipvhf",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-06-24T16:00:13.000Z",
+      "summary": "NVIDIA NeMo AutoModel 是基于 Transformers v5 的开源库，添加 Expert Parallelism、DeepEP 融合 all-to-all 调度和 TransformerEngine 内核。在 MoE 模型微调中，相比原生 v5，训练吞吐量提升 3.4-3.7 倍，GPU 内存减少 29-32%，仅需改动一行 import。在 16 节点 128 张 H100 上全微调 Nemotron 3 Ultra 550B A55B 时，v5 因内存不足无法运行，而 AutoModel 凭借 EP=64 专家并行使训练可行。单节点 30B MoE 模型（如 Qwen3-30B-A3B）同样获得可量化的性能优势。",
+      "category": "tip",
+      "score": 66,
+      "selected": true
+    },
+    {
+      "id": "cmqs9eic7012cslfuu3w4io4c",
+      "title": "Mistral AI 为 Connectors 推出多项安全与可控新能力",
+      "title_en": "Bringing more control over your connectors June 24， 2026 Mistral AI",
+      "url": "https://mistral.ai/news/more-control-over-connectors",
+      "permalink": "https://aihot.virxact.com/items/cmqs9eic7012cslfuu3w4io4c",
+      "source": "Mistral AI：News（网页）",
+      "publishedAt": "2026-06-24T15:59:47.708Z",
+      "summary": "2026年6月24日，Mistral AI 发布 Connectors 多项新能力：Enriched admin controls（GA）支持按工作空间设置连接器访问权限并单独开关工具；API keys with connector scopes（GA）防止自动化 AI 工作负载中身份冒充；Multi-account connectors（GA）允许单个连接器绑定多个账户；Connectors Debugger（公开预览）对 MCP 连接器进行端到端根因分析；Connectors in Vibe Code（GA）和 Connectors in Workflows（公开预览）分别允许在开发者界面复用连接器及支持长时间运行任务不中断。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true
+    },
     {
       "id": "cmqs65ogk008hslfuodhruc4w",
       "title": "里德·霍夫曼称SpaceX\"不是一家人工智能公司\"，xAI则是\"彻底的灾难\"",
@@ -121,6 +173,19 @@
       "selected": true
     },
     {
+      "id": "cmqs9yjcy0188slfu7cf8old7",
+      "title": "FFASR 排行榜发布：真实远场条件下 ASR 评测",
+      "title_en": "Introducing the FFASR Leaderboard： Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "permalink": "https://aihot.virxact.com/items/cmqs9yjcy0188slfu7cf8old7",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-06-24T00:00:00.000Z",
+      "summary": "Treble Technologies 与 Hugging Face 联合推出 FFASR（Far-Field ASR）排行榜，这是首个开源社区驱动的真实远场声学条件 ASR 评测基准。传统近场评测无法反映混响、背景噪声和麦克风距离带来的性能下降。FFASR 使用混合波模拟引擎生成声学数据，涵盖 14 种房间（20-470 m3）和三个信噪比级别（远场高 SNR >14 dB、中 SNR 8-12 dB、低 SNR <6 dB），加上近场干燥条件，共四类条件决定主排名。另有实验室实测/模拟验证轨道和移动声源 beta 版。性能指标同时报告词错误率（WER）和实时因子（RTFx，在 NVIDIA L4 GPU 上评估）。未来将支持多说话人场景、麦克风阵列和回声消除。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true
+    },
+    {
       "id": "cmqr73j5g0h1nslp5g9y52k0v",
       "title": "AI招聘工具存在种族偏见和系统性排斥；黑人占比26%，亚裔占比15%",
       "title_en": null,
@@ -183,19 +248,6 @@
       "summary": "我们的技术报告已发布。\n\n深入解析创建 Krea 2 所用的数据、架构及训练技巧。\n\nhttps：//www.krea.ai/blog/krea-2-technical-report",
       "category": "ai-models",
       "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmqqwge4a0e6tslp50f3tli27",
-      "title": "Anthropic 推出 Claude Tag：在 Slack 中通过 @Claude 协作",
-      "title_en": "Introducing Claude Tag",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "permalink": "https://aihot.virxact.com/items/cmqqwge4a0e6tslp50f3tli27",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-06-23T17:09:41.902Z",
-      "summary": "Anthropic 推出 Claude Tag，一种在 Slack 频道中通过 @Claude 委托任务的新协作方式。Claude 可记住频道上下文，支持多用户交互，经授权后可自动学习其他频道和数据源。开启\"环境\"行为后，能主动更新未解决的线程或任务。支持异步工作，可自主推进项目数小时或数天。即日起面向 Claude Enterprise 和 Team 客户提供 beta 版。管理员可精细控制工具和渠道访问权限、设置 token 消耗限额，并查看所有操作日志。",
-      "category": "ai-products",
-      "score": 56,
       "selected": true
     },
     {
@@ -456,6 +508,19 @@
       "summary": "Sakana AI 是 2023 年成立于东京的 AI 公司，由前 Google Brain 的 David Ha（CEO）、Transformer 论文共同作者 Llion Jones（CTO）及前日本外交官 Ren Ito（主席）联合创立。其产品 Sakana Fugu 将多智能体系统封装成单个 API 调用，内部自动拆解任务、调度全球模型并验证结果。Fugu Ultra 在工程、科学、推理等基准上对标 Fable/Mythos，通过动态编排多模型天然绕开单一供应商出口管制风险，被视为将多智能体从复杂工程变为开箱即用的产品形态。",
       "category": "ai-products",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqqwge4a0e6tslp50f3tli27",
+      "title": "Anthropic 推出 Claude Tag：在 Slack 中通过 @Claude 协作",
+      "title_en": "Introducing Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "permalink": "https://aihot.virxact.com/items/cmqqwge4a0e6tslp50f3tli27",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-06-22T16:00:00.000Z",
+      "summary": "Anthropic 推出 Claude Tag，一种在 Slack 频道中通过 @Claude 委托任务的新协作方式。Claude 可记住频道上下文，支持多用户交互，经授权后可自动学习其他频道和数据源。开启\"环境\"行为后，能主动更新未解决的线程或任务。支持异步工作，可自主推进项目数小时或数天。即日起面向 Claude Enterprise 和 Team 客户提供 beta 版。管理员可精细控制工具和渠道访问权限、设置 token 消耗限额，并查看所有操作日志。",
+      "category": "ai-products",
+      "score": 56,
       "selected": true
     },
     {
@@ -1237,72 +1302,7 @@
       "category": "industry",
       "score": 82,
       "selected": true
-    },
-    {
-      "id": "cmqkmvyxz00hxslh6sv4zzxc7",
-      "title": "HumanScale：自我中心人类视频在具身预训练中可超越真实机器人数据",
-      "title_en": "HumanScale： Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining",
-      "url": "https://arxiv.org/abs/2606.20521",
-      "permalink": "https://aihot.virxact.com/items/cmqkmvyxz00hxslh6sv4zzxc7",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "HumanScale项目比较了自我中心人类视频与遥操作真实机器人轨迹作为具身基础模型预训练数据源。经精心设计的过滤与标注流程后，基于自我中心数据预训练的模型在真实机器人动作预测上验证损失降低24%，分布内任务成功率高52.5%，分布外任务成功率高90%。研究验证了一种可扩展范式：先以人类视频预训练学习多样世界表征，再以少量标注机器人数据微调对齐动作空间。",
-      "category": "paper",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqjw516300uqslhirb12dvrf",
-      "title": "xAI 发布 Grok for Word 插件",
-      "title_en": "Grok for Word Jun 18， 2026 # Grok for Word Use the Grok add-in for Microsoft Word to turn notes into documents， style and format your work， or bring research from the web into Word. Read More",
-      "url": "https://x.ai/news/introducing-word-addin",
-      "permalink": "https://aihot.virxact.com/items/cmqjw516300uqslhirb12dvrf",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "xAI 将 Grok 引入 Microsoft Word，推出免费 365 插件。用户可将笔记转为结构化文档、重写文本以提升清晰度与简洁性，也能通过插件搜索网页、X 平台或生成图表。插件支持连接 SharePoint 和 Google Drive 等外部来源，还可用于 PowerPoint 和 Excel。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true
-    },
-    {
-      "id": "cmqjobpjz0578slmh79n3kqie",
-      "title": "超越 LoRA：如何选择最佳参数高效微调技术？",
-      "title_en": "Beyond LoRA： Can you beat the most popular fine-tuning technique？",
-      "url": "https://huggingface.co/blog/peft-beyond-lora",
-      "permalink": "https://aihot.virxact.com/items/cmqjobpjz0578slmh79n3kqie",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "参数高效微调（PEFT）技术中，LoRA 占据绝对主导：Hugging Face Hub 上 20，834 张提及单一 PEFT 技术的模型卡中 20，509 张指向 LoRA（98.4%）；外部站点 10，000 个检查点中 95.0% 是 LoRA；GitHub 搜索 `from peft import` 代码片段的 71.3% 结果为 LoRA。但研究者宣称其他技术超越 LoRA 的论文结果具备偏向性--调整学习率即可让 LoRA 匹配更优技术。Hugging Face 的 PEFT 库提供统一 API 实现 40 余种 PEFT 技术，并开始建立基准测试：在数学数据集上对 LLM 进行思维链推理微调，以帮助用户做出更优选择。",
-      "category": "tip",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmqjk1dcw0421slmh4xbaqcmp",
-      "title": "AI 智能体够格吗？在自有工具上评测开源模型",
-      "title_en": "Is it agentic enough？ Benchmarking open models on your own tooling",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "permalink": "https://aihot.virxact.com/items/cmqjk1dcw0421slmh4xbaqcmp",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
-      "summary": "Hugging Face 发布面向 AI 智能体使用场景的基准测试框架，以 transformers 库为案例评估库的智能体友好度。框架使用 pi coding agent 与开源模型驱动，通过 Hugging Face Jobs 分散任务确保硬件一致。评估关注 agent 完成任务的成本、延迟、token 使用量和失败率，而非仅最终结果。此前 hf CLI 经优化后 agent token 使用量减少 1.3-1.8 倍（最高 6 倍），该框架旨在验证类似优化对 transformers 的效果。",
-      "category": "tip",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmqiotxxz02vfsl5wx32nujv2",
-      "title": "库克：AI 浪潮引发存储芯片价格暴涨，iPhone 等苹果产品涨价已\"不可避免\"",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/965/694.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqiotxxz02vfsl5wx32nujv2",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-17T22:41:15.000Z",
-      "summary": "苹果CEO库克确认，AI热潮导致存储芯片严重短缺和价格暴涨，苹果产品涨价已\"不可避免\"。库克未透露涨价具体细节。华尔街日报指出，全球AI巨头大幅增加资本开支，高带宽内存需求激增，挤压消费电子芯片供应。自2024年以来内存和存储芯片价格已翻四倍，涨势预计延续至2027年。研究机构估算，下一代iPhone 18 Pro售价或需增加约270美元。苹果已在上月提高Mac Mini起售价。摩根士丹利预测，今年美国智能手机和PC价格将上涨15%。",
-      "category": "industry",
-      "score": 70,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-24T15:06:01Z"
+  "cachedAt": "2026-06-24T17:16:59Z"
 }
