@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNzIwMTkwMDAwLCJpIjoiY21xaWV3Zzg1MDA5enNsNXcwZ2J0NmhiZSJ9",
+  "nextCursor": "eyJhIjoxNzgxNzI0OTAwMDAwLCJpIjoiY21xaW1wMzZrMDJjcnNsNXcxMjRwY2c3cSJ9",
   "items": [
+    {
+      "id": "cmqrxnmqg0p2zslp51p8cc1ln",
+      "title": "火山引擎推出Agent Ready基础设施，AgentKit与ArkClaw企业版升级",
+      "title_en": "火山引擎Agent Infra升级，让Agent真正进入企业工作流",
+      "url": "https://mp.weixin.qq.com/s/83mrPAPgQRKhxLkoSvRgBQ",
+      "permalink": "https://aihot.virxact.com/items/cmqrxnmqg0p2zslp51p8cc1ln",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-06-24T10:17:58.000Z",
+      "summary": "火山引擎在FORCE大会推出面向企业智能应用的Agent Ready基础设施，构建AI云与Agent三层架构。AgentKit升级提供Identity、Runtime、Sandbox、Evaluation等模块，实现Agent可靠、可控、可衡量。Identity已接入数千家身份体系，Runtime支持长程任务和分钟级12万沙箱并发。ArkClaw企业版集成Agent广场、技能中心与企业知识库，支持IDP/SSO/OAuth及飞书、钉钉等IM入口统一管控。实践案例：海底捞门店经营Agent将小时级工作压缩到分钟级，人工跟进时长缩减70%，巡检满意度提升50%；创维酷开借助ArkClaw终端版打造AIOS，Token消耗节省50%，支撑百万级终端。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true
+    },
     {
       "id": "cmqrrgnay0n08slp5phvdk394",
       "title": "DFlash：块扩散草稿模型实现最高15倍吞吐量提升",
@@ -274,6 +287,19 @@
       "summary": "字节Seed发布Seed2.1系列，面向真实生产力场景的智能体，强化通用Agent能力、代码工程交付与多模态理解。Seed2.1 Pro在GDPval基准获最高分，Agents' Last Exam位列参评模型第一梯队；MobileWorld手机GUI任务最高分，CreativeWork多环境任务表现突出。多模态在CharXiv-RQ等多项基准取得SOTA。代码能力上，Seed2.1 Pro在NL2Repo-Bench表现良好，开发者评测相比Claude Opus 4.6获59.1%胜率。模型已在豆包、TRAE上线，API通过火山方舟提供。",
       "category": "ai-models",
       "score": 64,
+      "selected": true
+    },
+    {
+      "id": "cmqrzsyiz0poxslp5pyonhkdy",
+      "title": "OpenRouter推出统一图像API",
+      "title_en": "Introducing the Unified Image API",
+      "url": "https://openrouter.ai/blog/announcements/image-api",
+      "permalink": "https://aihot.virxact.com/items/cmqrzsyiz0poxslp5pyonhkdy",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-23T00:00:00.000Z",
+      "summary": "OpenRouter推出统一图像API，整合Google、OpenAI、Black Forest Labs、Recraft、ByteDance、Sourceful、Microsoft、xAI等30+模型。新API提供标准化请求格式，通过`/api/v1/images/models`端点返回每个模型的分辨率、宽高比、输出数量、输入参考图数量、种子等能力描述；通过`/api/v1/images/models/{id}/endpoints`端点获取具体服务商的定价与参数支持（如Seedream 4.5每张$0.04、FLUX.2 Pro每百万像素$0.03、GPT-5.4 Image 2按token计费）。OpenAI的GPT 5系列图像模型支持SSE流式预览，启用`\"stream\"： true`即可边生成边返回预览。新图像模型将仅添加至专用API，建议现有用户切换。",
+      "category": "ai-products",
+      "score": 73,
       "selected": true
     },
     {
@@ -1276,33 +1302,7 @@
       "category": "ai-products",
       "score": 64,
       "selected": true
-    },
-    {
-      "id": "cmqiie2vh018hsl5wbdaj9mz3",
-      "title": "Matt Pocock 开源 skills v1：将技能描述 Token 成本降低 63%",
-      "title_en": "被 vibe coding 反噬过的AI玩家和开发者们看过来，这个工具包把 Token 消耗砍掉了 63%，注意可不是单纯的砍功能，主要是砍废话。 @mattpocockuk Pocock（Tota…",
-      "url": "https://x.com/AYi_AInotes/status/2067327021005656135",
-      "permalink": "https://aihot.virxact.com/items/cmqiie2vh018hsl5wbdaj9mz3",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-06-17T19:22:25.000Z",
-      "summary": "Matt Pocock（Total TypeScript 作者）开源了 skills v1，将技能描述的 Token 成本降低 63%。该工具包将技能分为模型可调用和用户可调用，新增 /codebase-design、/domain-modeling、/grilling 三项技能；重写 /writing-great-skills；将 /diagnose 更新为 /diagnosing-bugs 并改为模型可调用；新增 /ask-matt 路由技能，帮助 AI 自动判断时机触发合适工程流程。主推文评价其将 prompt 从咒语拆解为纪律性流程。",
-      "category": "tip",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmqiewg85009zsl5w0gbt6hbe",
-      "title": "Anthropic与DeepMind CEO呼吁G7组建AI联盟排除中国",
-      "title_en": "We are entering a new era of the Cold War. Dario Amodei and Demis Hassabis are calling for a \"U.S.-…",
-      "url": "https://x.com/kimmonismus/status/2067310431669223425",
-      "permalink": "https://aihot.virxact.com/items/cmqiewg85009zsl5w0gbt6hbe",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-06-17T18:16:30.000Z",
-      "summary": "Dario Amodei（Anthropic）与Demis Hassabis（Google DeepMind）在G7闭门会议上呼吁组建美国主导的联盟，为人工智能制定全球规则和标准。Amodei指出，该联盟应以前沿模型和硬件（包括芯片及其他关键组件）的访问权限为手段，将中国排除在外。这一主张被评论为高技术新冷战的开端，竞争方将从根本上被剥夺参与权。",
-      "category": "industry",
-      "score": 79,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-24T08:33:07Z"
+  "cachedAt": "2026-06-24T12:00:41Z"
 }
