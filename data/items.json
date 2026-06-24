@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNzQxOTk2MDAwLCJpIjoiY21xaXJkcDU2MDNuMHNsNXdqZm5lczJlMyJ9",
+  "nextCursor": "eyJhIjoxNzgxNzQzNzU2MDAwLCJpIjoiY21xaXQ0Z3RyMDQwenNsNXdhbTVjazQ4YiJ9",
   "items": [
+    {
+      "id": "cmqsef9c302f0slfu6lvuhnu7",
+      "title": "GPT-5.5 Instant 新版本，对话更有趣",
+      "title_en": "We have a new version of GPT-5.5 Instant for you， and it's much more fun to talk to. Our most-used …",
+      "url": "https://x.com/OpenAI/status/2069843083701915755",
+      "permalink": "https://aihot.virxact.com/items/cmqsef9c302f0slfu6lvuhnu7",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-06-24T18:00:21.000Z",
+      "summary": "我们为你带来了新版 GPT-5.5 Instant，它现在聊起天来有趣多了。\n\n我们最常用的模型现在能更好地理解问题背后的意图，并相应地调整回应。\n\n它也能更可靠地处理复杂约束，让购物和本地推荐更加实用和连贯。\n\n今天向付费用户推送，明天向免费用户推送。",
+      "category": "ai-models",
+      "score": 67,
+      "selected": true
+    },
     {
       "id": "cmqsbr8l701ndslfubzp0hnmi",
       "title": "思考即回忆：推理如何解锁LLM中的参数化知识",
@@ -1289,20 +1302,7 @@
       "category": "industry",
       "score": 72,
       "selected": true
-    },
-    {
-      "id": "cmqirdp5603n0sl5wjfnes2e3",
-      "title": "Noam Shazeer 离开 Google 加入 OpenAI",
-      "title_en": "Noam Shazeer， the AI legend Google paid $2.7B to bring back two years ago， has left Google， to join …",
-      "url": "https://x.com/Yuchenj_UW/status/2067401895178817999",
-      "permalink": "https://aihot.virxact.com/items/cmqirdp5603n0sl5wjfnes2e3",
-      "source": "X：Yuchen Jin (@Yuchenj_UW)",
-      "publishedAt": "2026-06-18T00:19:56.000Z",
-      "summary": "两年前谷歌花 27 亿美元请回的 AI 传奇 Noam Shazeer 已离开谷歌，加入 OpenAI。\n\n对 Gemini 来说是个残酷的消息。",
-      "category": "industry",
-      "score": 82,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-24T17:16:59Z"
+  "cachedAt": "2026-06-24T19:01:08Z"
 }
