@@ -1,19 +1,45 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxODQxNTI2MDAwLCJpIjoiY21xa2Y2Y255MDVxNnNsaGlkdmM3eHpmNCJ9",
+  "nextCursor": "eyJhIjoxNzgxODYyNTA4MDAwLCJpIjoiY21xa3JlaTRyMDA2c3NsNHptMjAwNnNkdCJ9",
   "items": [
     {
-      "id": "cmqty12o9008hslcvngust84f",
-      "title": "Claude Tag：下一代主动多玩家智能体",
-      "title_en": "Claude Tag is the next evolution of agents. It's a proactive， multiplayer agent with memory and ide…",
-      "url": "https://x.com/ClaudeDevs/status/2070235730295865661",
-      "permalink": "https://aihot.virxact.com/items/cmqty12o9008hslcvngust84f",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-06-25T20:00:35.000Z",
-      "summary": "Claude Tag 是智能体的下一代进化。它是一个主动的、多玩家智能体，具有记忆和身份，构建在 Claude Code 之上。了解更多关于 Claude Tag 的工作原理以及使用它的最佳实践，请看这篇深度解析。",
+      "id": "cmqu24x8v00lssl8065rajmsy",
+      "title": "Claude Code v2.1.193 发布",
+      "title_en": "v2.1.193",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
+      "permalink": "https://aihot.virxact.com/items/cmqu24x8v00lssl8065rajmsy",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-06-25T21:45:57.000Z",
+      "summary": "Claude Code v2.1.193 新增 `autoMode.classifyAllShell` 设置，将全部 Bash/PowerShell 命令经自动模式分类器处理。自动模式拒绝原因现加入转录、拒绝提示及 `/permissions` 页面。新增 `claude_code.assistant_response` OpenTelemetry 日志事件（默认不记录，需设置 `OTEL_LOG_ASSISTANT_RESPONSES=1`）。Bash 模式支持实时文件路径自动补全；MCP 服务器需认证时显示启动提示。新增空闲后台 shell 命令自动内存压力回收（可禁用）。修复 `/model` UI 状态滞后、后台任务误取消、子 agent 隐藏同级等问题，并改进了后台 agent 启动指令、MCP 认证重连、插件自动重命名等行为。",
       "category": "ai-products",
-      "score": 72,
+      "score": 61,
+      "selected": true
+    },
+    {
+      "id": "cmqu0cbyl006isl80rufd707u",
+      "title": "Codex 在 ChatGPT 移动 App 正式可用",
+      "title_en": "Codex in the ChatGPT mobile app is now generally available. Connect your phone and computer more se…",
+      "url": "https://x.com/OpenAIDevs/status/2070254532911882707",
+      "permalink": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-06-25T21:15:18.000Z",
+      "summary": "OpenAI 宣布 Codex 在 ChatGPT 移动应用中正式开放（GA），并新增一对一设备配对实现更安全的手机与电脑连接。移动端新增通知、目标、侧边聊天、文件预览及内联审阅评论功能。此前预览版已明确，用户可通过 ChatGPT 移动 App 启动新工作、审查输出、引导执行和批准下一步，而 Codex 实际继续在笔记本、Mac mini 或开发机上后台运行。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true
+    },
+    {
+      "id": "cmqu0e95l006ysl8097qhn8ny",
+      "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
+      "title_en": "The Information： The US government is asking OpenAI to slow GPT-5.6 into a controlled preview instea…",
+      "url": "https://x.com/rohanpaul_ai/status/2070252433109049466",
+      "permalink": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-06-25T21:06:58.000Z",
+      "summary": "The Information 报道，美国政府因安全顾虑要求 OpenAI 暂缓 GPT-5.6 的广泛发布，改为推出受控预览版。OpenAI 计划先向小部分合作伙伴提供早期访问，并由政府逐客户审批准入。这一非常规做法主要担忧模型在自动化高技能网络工作上的能力：既能帮防御者更快发现漏洞，也可能被攻击者用于加速测试漏洞利用。本周四，CEO Sam Altman 已向员工确认该审批流程。",
+      "category": "industry",
+      "score": 76,
       "selected": true
     },
     {
@@ -27,19 +53,6 @@
       "summary": "Midjourney 带来两项更新。一是加入 `--preview` 参数可提前体验 V8.2 的美学与个性化效果；二是此前在 V8.1 推出的大批量草稿模式（生成 24 张低分辨率图，价格仅为标准 4 张的一半，点击 \"Vary\" 可升级为全分辨率）现在支持搭配 `--sref random` 使用，探索风格空间的速度比之前快 24 倍。",
       "category": "ai-products",
       "score": 67,
-      "selected": true
-    },
-    {
-      "id": "cmqtw3tq007ensl0e5jarmydw",
-      "title": "OpenAI 内部论文：Codex 已占 99.8% 内部输出 tokens，智能体正向全部门扩散",
-      "title_en": "OpenAI just released a paper showing how they are now seeing the first version of office work where …",
-      "url": "https://x.com/rohanpaul_ai/status/2070221621676441642",
-      "permalink": "https://aihot.virxact.com/items/cmqtw3tq007ensl0e5jarmydw",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-25T19:04:32.000Z",
-      "summary": "OpenAI 发布内部论文，显示 Codex 已成为公司主力 AI，产出 99.8% 内部输出 tokens，而一年前这一比例低于 10%。除工程部门外，法务、财务、招聘、支持及业务团队使用量快速增长。自 Aug-25 以来，非开发者个人使用增长 137 倍，组织使用增长 189 倍。重度用户日均运行约 71 小时代理任务，28.6% 的用户管理 5 个以上并发 agent，25.6% 的个体提交过超过 8 小时人工等价的任务。OpenAI 称，Agent 正使工作更复杂、更长期、更跨职能。",
-      "category": "paper",
-      "score": 80,
       "selected": true
     },
     {
@@ -121,19 +134,6 @@
       "selected": true
     },
     {
-      "id": "cmqtpdugb05nnsl0e5e1zykrd",
-      "title": "Gemini 3.5 Flash 的 Computer Use 工具正式可用",
-      "title_en": "The Computer Use tool is now available for Gemini 3.5 Flash 🛠️ Build agents that see and take acti…",
-      "url": "https://x.com/googleaidevs/status/2070175289481576777",
-      "permalink": "https://aihot.virxact.com/items/cmqtpdugb05nnsl0e5e1zykrd",
-      "source": "X：Google AI for Developers (@googleaidevs)",
-      "publishedAt": "2026-06-25T16:00:25.000Z",
-      "summary": "Google AI 宣布 Gemini 3.5 Flash 的 Computer Use 工具正式可用，支持构建能观察并操作浏览器、移动端和桌面环境的 AI 智能体，可处理长期任务。新特性包括：内置移动与桌面操作系统支持；所有函数调用配备 intent arguments；可定制的客户端函数实现人工接管（HITL）；提示词注入检测及可配置的 action-level 安全策略。可用于自动化 QA 测试、业务流程等场景。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true
-    },
-    {
       "id": "cmqtq76j105ubsl0e8j4fy8se",
       "title": "General Intuition 完成 3.2 亿美元融资，用游戏数据训练通用 AI 智能体",
       "title_en": "General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
@@ -196,6 +196,19 @@
       "summary": "Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。",
       "category": "industry",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqta6kw701sasl0es975w0zc",
+      "title": "OpenAI内部报告：智能体Codex如何改变工作",
+      "title_en": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "permalink": "https://aihot.virxact.com/items/cmqta6kw701sasl0es975w0zc",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-25T02:00:00.000Z",
+      "summary": "OpenAI 在2025年8月至2026年6月间观察到，智能体产品 Codex 取代 ChatGPT 成为主要工作工具，各部门输出 token 中 Codex 占比从不足10%升至99.8%。80.6%个体用户曾发起预计等效人类工作时间超30分钟的请求，70.2%超1小时，25.6%超8小时；99百分位用户每日生成超60小时 agent turns。非开发者用户增长迅猛：个体用户增长137倍，组织用户增长189倍。Legal、Finance、Recruiting 部门在2026年4月前后跨过 Codex 使用过半拐点，平均每位律师或招聘人员超85%输出 token 来自 Codex。",
+      "category": "paper",
+      "score": 65,
       "selected": true
     },
     {
@@ -300,6 +313,19 @@
       "summary": "Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推理成本挤压利润率。同时，Anthropic等公司的竞争产品可直接生成界面，构成威胁。",
       "category": "ai-products",
       "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmqsbthp601p3slfuajayc4gr",
+      "title": "Gemini 3.5 Flash 引入 computer use 功能",
+      "title_en": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash",
+      "permalink": "https://aihot.virxact.com/items/cmqsbthp601p3slfuajayc4gr",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-06-24T16:30:01.000Z",
+      "summary": "Google DeepMind 宣布，computer use 现作为内置工具集成于 Gemini 3.5 Flash，开发者可构建跨浏览器、移动端和桌面的智能体，实现视觉感知、推理与操作。此前该功能仅以独立模型形式存在于 Gemini 2.5。3.5 Flash 已支持函数调用及 Search、Maps 等内置工具，新增的 computer use 可提升持续软件测试和跨专业应用知识工作等长周期企业自动化任务的性能。安全方面采用针对性对抗训练，并可选配两项企业防护系统：要求用户确认敏感操作，以及在检测到间接 prompt 注入时自动停止任务。可通过 Gemini API 和 Gemini Enterprise Agent Platform 使用。",
+      "category": "ai-products",
+      "score": 70,
       "selected": true
     },
     {
@@ -408,15 +434,15 @@
     },
     {
       "id": "cmqs319vw0qkcslp52gzwr77q",
-      "title": "OpenAI 与 Broadcom 发布面向 LLM 推理的定制芯片 Jalapeño",
+      "title": "OpenAI 与 Broadcom 联合发布 LLM 推理芯片 Jalapeño",
       "title_en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
       "permalink": "https://aihot.virxact.com/items/cmqs319vw0qkcslp52gzwr77q",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "publishedAt": "2026-06-24T06:00:00.000Z",
-      "summary": "OpenAI 与 Broadcom 联合推出 Jalapeño，一款专为大语言模型（LLM）推理优化的定制 AI 芯片，旨在提升 AI 系统的性能、效率与规模。",
+      "summary": "OpenAI 与 Broadcom 发布首款自研推理加速器 Jalapeño，专为当前及未来 LLM 从头设计。早期测试显示，其性能功耗比大幅优于现有 SOTA。工程样片已在实验室以目标频率和功耗运行 GPT-5.3-Codex-Spark 等负载。芯片从设计到流片仅用 9 个月，并利用 OpenAI 模型加速部分流程。OpenAI 计划从 2026 年起与 Microsoft 等合作伙伴部署千兆瓦级数据中心，推出多代计算平台。",
       "category": "ai-products",
-      "score": 55,
+      "score": 61,
       "selected": true
     },
     {
@@ -428,19 +454,6 @@
       "source": "IT之家（RSS）",
       "publishedAt": "2026-06-24T04:34:24.000Z",
       "summary": "6月23日，部分用户反馈 ChatGPT 网页版和 App 版上线了双向 AI 语音模型 Bidi 1，位于设置模型选择器中，与标准语音和高级语音并列。该模型支持边说话边监听，用户可在对话中途打断并发出新指令，例如要求从1数到10时中途喊停倒数，模型会立即切换执行。OpenAI 尚未官宣，预计本周启动更大范围测试。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmqrizuey0kmcslp5zt7bajh0",
-      "title": "Qwen-AgentWorld 开源：让 Agent 学会\"先预测，再行动\"",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/NV9WGpGsfFz35jww5agM9g",
-      "permalink": "https://aihot.virxact.com/items/cmqrizuey0kmcslp5zt7bajh0",
-      "source": "公众号：通义实验室（千问）",
-      "publishedAt": "2026-06-24T03:32:04.000Z",
-      "summary": "通义千问推出首个原生语言世界模型 Qwen-AgentWorld，覆盖 MCP、Search、Terminal、SWE、Web、OS、Android 七大领域。模型基于超 1000 万条真实交互轨迹，经 CPT→SFT→RL 三阶段训练，在 AgentWorldBench 上超越 GPT-5.4（58.25）和 Claude Opus 4.8，Qwen-AgentWorld-397B-A17B 取得 58.71 分。两种范式已验证其能力：作为解耦环境模拟器实现可控 Sim RL，在 WideSearch 上超越真实环境 RL（F1 50.3% vs 45.6%）；作为智能体基础模型，LWM 预热可迁移至七个基准（三个完全未出现在训练集中）。模型与评测基准已开源。",
       "category": "ai-models",
       "score": 74,
       "selected": true
@@ -677,6 +690,19 @@
       "summary": "火山引擎正式发布豆包音频生成模型1.0（Doubao-Seed-Audio 1.0），支持文本与音频参考生成，端到端输出目标音频。单条Prompt可编排多角色对白、情绪语气、背景音乐及环境氛围，长时生成中保持多角色音色一致性，无需后期多轨混音。模型支持0样本多模态输入，无需额外训练即可生成；实现音色与风格解耦控制及\"一声多角\"能力。一次支持2分钟音频创作，多次延长保持音色统一。已开启火山方舟API邀测，个人用户享30分钟创作额度，即将上线剪映、即梦、番茄等产品。",
       "category": "ai-models",
       "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmqrjhuo40kszslp5qsjmxdy7",
+      "title": "Qwen-AgentWorld：面向通用智能体的语言世界模型",
+      "title_en": "Qwen-AgentWorld： Language World Models for General Agents",
+      "url": "https://qwen.ai/blog?id=qwen-agentworld",
+      "permalink": "https://aihot.virxact.com/items/cmqrjhuo40kszslp5qsjmxdy7",
+      "source": "Qwen：Blog Retrieval（API）",
+      "publishedAt": "2026-06-23T03:30:30.000Z",
+      "summary": "Qwen 团队发布 Qwen-AgentWorld，一个以环境建模为训练目标的原生语言世界模型，在单个模型中模拟 MCP、Search、Terminal、SWE 及 GUI 域（Web、OS、Android）共七个域。模型使用超 1000 万条真实交互轨迹训练，在 AgentWorldBench 上以 Qwen-AgentWorld-397B-A17B 版本达最高模拟质量，超越 GPT-5.4、Claude Opus 4.8 和 Gemini 3.1 Pro。同时发布评测基准 AgentWorldBench。该模型可作为解耦环境模拟器用于智能体 RL 训练，也可作为统一智能体基础模型，经 LWM 预热后无需智能体 RL 微调即可迁移。模型和基准已开源在 Hugging Face 和 ModelScope。",
+      "category": "ai-models",
+      "score": 81,
       "selected": true
     },
     {
@@ -928,15 +954,15 @@
     },
     {
       "id": "cmqph7ap700n2slp5g4tfjs46",
-      "title": "OpenAI 发布 Daybreak 安全工具：Codex Security 与 GPT-5.5-Cyber",
+      "title": "OpenAI 扩展 Daybreak 计划：推出 GPT-5.5-Cyber 完整版与 Codex Security 更新",
       "title_en": "Daybreak： Tools for securing every organization in the world",
       "url": "https://openai.com/index/daybreak-securing-the-world",
       "permalink": "https://aihot.virxact.com/items/cmqph7ap700n2slp5g4tfjs46",
       "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
       "publishedAt": "2026-06-22T10:00:00.000Z",
-      "summary": "OpenAI 推出 Daybreak 系列工具，包括 Codex Security 和 GPT-5.5-Cyber，帮助组织大规模发现、验证并修补漏洞。",
-      "category": "ai-products",
-      "score": 57,
+      "summary": "OpenAI 于 2026 年 6 月 22 日宣布扩展 Daybreak 计划，发布 GPT-5.5-Cyber 完整版和 Codex Security 插件更新。GPT-5.5-Cyber 在 CyberGym 上达 85.6%，超越 GPT-5.5 的 81.8%。Codex Security 插件可深度扫描代码库、验证漏洞并自动生成补丁，支持导出至漏洞管理系统。自 3 月预览以来已扫描超 3000 万次提交，超 7 万项发现经人工确认已修复。同期启动 Patch the Planet 计划，联合 Trail of Bits、HackerOne 等，cURL、Go、Python、Sigstore、pyca/cryptography 等 30 多个开源项目已参与。",
+      "category": "ai-models",
+      "score": 63,
       "selected": true
     },
     {
@@ -976,6 +1002,19 @@
       "summary": "HAKARI-Bench 是一个轻量级检索基准，将现有检索套件重建为小型数据集（Nano-sets），涵盖 35 个基准、551 个任务和 43 种语言，采用统一格式实现模型无关比较。它支持 BM25、稠密、稀疏、晚交互和重排序五种检索家族及其效率变体（降维、量化等）在同一条件下对比。在 55 个模型上，整体排名与 MTEB retrieval v2、MMTEB v2 retrieval 及 English BEIR（完整版）的 Spearman 相关系数均高于 0.97。HAKARI-Bench 不取代全面评测，而是用于快速模型选择、回归检测和探索质量-效率帕累托前沿。代码、数据和排行榜以 MIT 许可证开源。",
       "category": "paper",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqpjf63g017lslp5ffjthz2c",
+      "title": "Codex 用于长期工作：最大化效能实践",
+      "title_en": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "permalink": "https://aihot.virxact.com/items/cmqpjf63g017lslp5ffjthz2c",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-22T00:00:00.000Z",
+      "summary": "OpenAI 发布白皮书，由 Jason Liu 介绍使用 Codex 作为持久工作空间的策略。Codex 可保留上下文、管理复杂工作流，并帮助在长期项目中维持进展。文中讲解了如何将宏大目标分解为可验证的步骤、保持工作流连续性，以及判断何时将执行委托给 Codex 何时需要人工监督。该指南旨在支撑超出单次提示词范围的持续工作。",
+      "category": "tip",
+      "score": 58,
       "selected": true
     },
     {
@@ -1263,46 +1302,7 @@
       "category": "tip",
       "score": 77,
       "selected": true
-    },
-    {
-      "id": "cmqkhoy7906goslhiji2e8rc4",
-      "title": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89",
-      "title_en": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为 0.89",
-      "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
-      "permalink": "https://aihot.virxact.com/items/cmqkhoy7906goslhiji2e8rc4",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-19T05:01:18.006Z",
-      "summary": "Agent Builder 正式上市（GA）。基于 Elasticsearch 的持久化内存层将记忆分为情景、语义、程序三类，分别存入独立索引，各设不同写速率与过期规则。召回采用 BM25 与 Jina v5 稠密向量的 RRF 融合，再经交叉编码器重排序。在 168 道 QA 题评估中，R@10 平均 0.89，零跨租户泄漏。该层可通过支持 MCP 协议的客户端访问，不绑定特定运行时，已开源至 GitHub。",
-      "category": "tip",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmqkhbjf5069eslhiepqm55gr",
-      "title": "阿里开源向量数据库Zvec，UCSD黄碧薇教授提出因果AI第四代范式",
-      "title_en": "卧槽，阿里把内部用了多年的向量数据库直接开源了，Pinecone每月70刀的能力，它pip一行免费就能用，十亿向量毫秒级还不用单独起服务🤯 以后做RAG和AI搜索的，不用再每月给Pinecone交…",
-      "url": "https://x.com/AYi_AInotes/status/2067832098816250346",
-      "permalink": "https://aihot.virxact.com/items/cmqkhbjf5069eslhiepqm55gr",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-06-19T04:49:25.000Z",
-      "summary": "阿里开源内部向量数据库Zvec，pip install zvec免费使用，对标Pinecone每月70美元能力。支持十亿向量毫秒级检索，无需单独起服务，全平台兼容；v0.5.0新增原生全文混合搜索。UCSD黄碧薇教授（causal-learn作者）提出AI四代范式：相关性小模型→因果小模型→相关性大模型（LLM）→因果大模型，认为当前正站在第四代门口。其创立的Aether AI完成首轮融资，致力于从视频中自动抽取物理规律，探索下一代因果AI范式。",
-      "category": "ai-products",
-      "score": 79,
-      "selected": true
-    },
-    {
-      "id": "cmqkf6cny05q6slhidvc7xzf4",
-      "title": "DeepSeek研究员开源AutoResearch：AI自主跑通285B模型RL研究闭环",
-      "title_en": "这可能是我近期看到的最值得深入研究的一次skills开源和工程脚手架，最后总结的5个工程思路大家可以直接拿去用。 DeepSeek 研究员 Deli Chen 把他的 AutoResearch 协议…",
-      "url": "https://x.com/AYi_AInotes/status/2067819352926150953",
-      "permalink": "https://aihot.virxact.com/items/cmqkf6cny05q6slhidvc7xzf4",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-06-19T03:58:46.000Z",
-      "summary": "DeepSeek研究员Deli Chen将AutoResearch协议开源，并发布Self-play综述论文。其AI智能体首次完全自主地在DeepSeek 285B模型上完成完整RL研究闭环--从实验设计、写代码、提交GPU任务、debug到结论总结，全程零人工干预。系统调用了GRPO工具，被视为持续学习研究的开端。",
-      "category": "tip",
-      "score": 76,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-25T20:21:43Z"
+  "cachedAt": "2026-06-25T22:44:44Z"
 }
