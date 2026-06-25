@@ -1,5 +1,5 @@
 {
-  "count": 99,
+  "count": 95,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -27,6 +27,19 @@
       "summary": "Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。",
       "category": "industry",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqtkuscr04g8sl0eoqzwkdm7",
+      "title": "OpenRouter MCP 服务器发布",
+      "title_en": "The OpenRouter MCP Server",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-mcp-server",
+      "permalink": "https://aihot.virxact.com/items/cmqtkuscr04g8sl0eoqzwkdm7",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-06-25T00:00:00.000Z",
+      "summary": "OpenRouter 推出 MCP 服务器，为编程智能体提供实时模型数据、基准排名、定价和文档查询。开发者通过一键安装（支持 Claude Code、Codex CLI、Cursor 等客户端），即可在编辑器内完成模型筛选、价格对比和测试推理，无需切换标签页。服务器整合 Artificial Analysis、Design Arena 及 OpenRouter 自身排名数据，例如推荐 GLM-5.2 作为性价比最佳的编码模型。工具集包括 models-list、model-get、model-endpoints、benchmarks 等，支持通过 chat-send 发送测试提示，比较不同模型（如 Claude Opus 4.8、GPT-5.5、DeepSeek V4 Pro）的响应、成本和延迟。API 密钥附带 7 天有效期和 10 美元消费上限，可随时撤销。",
+      "category": "ai-products",
+      "score": 71,
       "selected": true
     },
     {
@@ -1224,72 +1237,7 @@
       "category": "ai-products",
       "score": 58,
       "selected": true
-    },
-    {
-      "id": "cmqk90yo9047fslhiqzp4ut7u",
-      "title": "如何将 SillyTavern 连接到 OpenRouter（2026 指南）",
-      "title_en": "How to Connect SillyTavern to OpenRouter （2026 Guide）",
-      "url": "https://openrouter.ai/blog/tutorials/sillytavern-openrouter",
-      "permalink": "https://aihot.virxact.com/items/cmqk90yo9047fslhiqzp4ut7u",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-18T15:00:00.000Z",
-      "summary": "一个 OpenRouter API 密钥即可在 SillyTavern 的下拉菜单中解锁 300 多个模型，其中许多免费。指南包含五步连接流程、推荐尝试的角色扮演模型以及常见错误的修复方法。",
-      "category": "tip",
-      "score": 55,
-      "selected": true
-    },
-    {
-      "id": "cmqjn5l3e04weslmhr1vnj797",
-      "title": "我国首部L3/L4自动驾驶强制性国标公示：2027年7月起实施",
-      "title_en": "我国首部 L3/L4 自动驾驶强制性国标公示：2027 年 7 月起正式实施，车企靠模糊宣传抢市场的阶段结束",
-      "url": "https://www.ithome.com/0/966/272.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqjn5l3e04weslmhr1vnj797",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-18T14:57:30.000Z",
-      "summary": "工信部6月16日就《智能网联汽车自动驾驶系统安全要求》等2项强制性国标公开征求意见，公示至6月24日，建议2027年7月1日起实施。该标准系我国首部针对L3/L4的强制性国标，要求系统安全水平至少达到\"合格且专注驾驶人\"，引入Safety Case机制。L3重点规范人机交接，L4强调自身风险处置、不得依赖远程协助。新申请车型实施日起执行，已获批车型有约一年过渡期。",
-      "category": "industry",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmqjmc80604sqslmhz4738b0k",
-      "title": "Nature两篇研究：MIRA和AMIE诊断与治疗计划媲美甚至超越医生",
-      "title_en": "AI systems rival doctors in new Nature studies， but one result suggests the tech won't age well",
-      "url": "https://the-decoder.com/ai-systems-rival-doctors-in-new-nature-studies-but-one-result-suggests-the-tech-wont-age-well",
-      "permalink": "https://aihot.virxact.com/items/cmqjmc80604sqslmhz4738b0k",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-06-18T14:37:06.000Z",
-      "summary": "德国团队开发的MIRA智能体在模拟电子病历中操作85，000种选项，500余例急诊诊断准确率88.9%，对比测试（311例）得分87.8%，高于资深专科医生（78.1%）和混合团队（71.1%）。MIRA在阑尾炎（98.6%）和胰腺炎（92.3%）最佳，未发现危险药物交互或剂量错误，性能不受语言影响，代码已公开。谷歌AMIE采用双智能体架构，在100个多访视病例中治疗计划适切率95%（初级保健医生72%），并在药物知识基准RxQA上超过医生。两项研究均警告模拟环境与现实存在差距，实际性能可能更低。",
-      "category": "paper",
-      "score": 78,
-      "selected": true
-    },
-    {
-      "id": "cmqjj40zi03y2slmhpeucu9ao",
-      "title": "Adobe 为 Photoshop、Premiere 等多款 Creative Cloud 应用加入 AI 智能体",
-      "title_en": "Adobe adds AI agents to Photoshop， Premiere， and more Creative Cloud apps",
-      "url": "https://the-decoder.com/adobe-adds-ai-agents-to-photoshop-premiere-and-more-creative-cloud-apps",
-      "permalink": "https://aihot.virxact.com/items/cmqjj40zi03y2slmhpeucu9ao",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-06-18T12:59:00.000Z",
-      "summary": "Adobe 将其\"创意智能体\"扩展至 Photoshop、Premiere 等应用，以公开测试形式提供 AI Assistant。该智能体可自动完成多步骤常规任务，如 Premiere 分拣素材和粗剪、Photoshop 换背景、Illustrator 批量生成文件、InDesign 更新版式等。Firefly 新增面向个人创作者的品牌套件、产品图转短视频及 Quick Cut 自动剪辑功能。Adobe 工具已集成至 ChatGPT、Claude 及 Microsoft 365 Copilot，Google Gemini 和 Slack 集成即将推出。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqjgpxud036hslmhb8vvzvs7",
-      "title": "皮尤民调：63%美国人认为AI发展太快，ChatGPT使用率翻番",
-      "title_en": "皮尤研究中心民调：63% 美国人认为 AI 发展速度过快",
-      "url": "https://www.ithome.com/0/966/233.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqjgpxud036hslmhb8vvzvs7",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-18T12:11:32.000Z",
-      "summary": "皮尤研究中心最新民调显示，63%美国人认为AI发展速度过快。ChatGPT使用率较2023年翻番，44%受访者曾使用。49%偶尔使用聊天机器人，仅16%认为AI会有积极社会影响。青年群体使用率更高但更悲观：18-29岁中66%用过，48%认为有负面影响，仅14%看好。30-49岁中34%每天至少使用一次。约四成用AI处理工作，30%认为提高效率，28%认为帮助获取信息。此外，66%成年人担心AI传播错误信息。",
-      "category": "tip",
-      "score": 71,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-25T11:49:28Z"
+  "cachedAt": "2026-06-25T15:11:06Z"
 }
