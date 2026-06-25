@@ -1,8 +1,34 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxNzY5NjAwMDAwLCJpIjoiY21xam10d3ZpMDR2cXNsbWg1NXZicDdvaCJ9",
+  "nextCursor": "eyJhIjoxNzgxNzgwNDAwMDAwLCJpIjoiY21xanR1cHV4MDA1d3NsaGltbWsxYTRrdyJ9",
   "items": [
+    {
+      "id": "cmqsy1vs107c5slfu4fmksjzd",
+      "title": "Anthropic称阿里巴巴非法获取了Claude AI模型的功能",
+      "title_en": null,
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24",
+      "permalink": "https://aihot.virxact.com/items/cmqsy1vs107c5slfu4fmksjzd",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-25T03:07:48.942Z",
+      "summary": "Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。",
+      "category": "industry",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqst0js5060tslfu7s6uxjhf",
+      "title": "盈透证券（Interactive Brokers）与 Grok 集成：组合分析、情景建模与实时交易指令生成",
+      "title_en": "Explore the markets with Interactive Brokers and Grok",
+      "url": "https://x.ai/news/grok-interactive-brokers",
+      "permalink": "https://aihot.virxact.com/items/cmqst0js5060tslfu7s6uxjhf",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-06-25T00:00:00.000Z",
+      "summary": "盈透证券（Interactive Brokers）近日与 Grok 集成，用户可在几分钟内免费关联现有账户，无需注册新账户。通过自然语言与 Grok 对话，可完成组合收益分析（如股息与利息预测）、行业/地区/经济事件的风险敞口情景建模、市场趋势研究，并直接生成对冲订单等实时交易指令，实现从数据洞察到执行决策的一体化。",
+      "category": "ai-products",
+      "score": 55,
+      "selected": true
+    },
     {
       "id": "cmqsmijfz04cwslfuwufeuxwz",
       "title": "AI被认为会取代工程岗位，但新数据显示工程是2025年最具韧性的岗位",
@@ -261,6 +287,19 @@
       "summary": "豆包专业版基于豆包2.1系列大模型上线，面向复杂办公与生产力场景。办公任务模式接入可执行Agent任务的豆包2.1模型，支持操作本地电脑、浏览器、调用Skills技能、定时任务，内置Office办公套件，并可生成带后端数据库的在线应用。免费用户可体验豆包2.1 Turbo版办公任务模式，专业版接入豆包2.1 Pro模型。定价：标准套餐68元/月（连续包月），加强套餐200元/月，高级套餐500元/月。大学生认证后标准套餐38元/月，持续6个月。",
       "category": "ai-products",
       "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmqsxg0qe0764slfui5djtfyx",
+      "title": "Causal-rCM：自回归视频扩散蒸馏的统一教师强制与自强制开源方案",
+      "title_en": "Causal-rCM： A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models",
+      "url": "https://arxiv.org/abs/2606.25473",
+      "permalink": "https://aihot.virxact.com/items/cmqsxg0qe0764slfui5djtfyx",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-06-24T00:00:00.000Z",
+      "summary": "Causal-rCM将扩散蒸馏框架rCM扩展至自回归视频扩散，提出教师强制（TF）与自强制（SF）互补训练范式，并发布统一开源算法与基础设施。通过自定义掩码FlashAttention-2 JVP内核，首次实现基于教师强制的连续时间一致性模型（sCM/MeanFlow）用于自回归视频扩散，收敛速度比离散时间版本快10倍。蒸馏后的2步因果Wan2.1-1.3B模型在仅1或2步采样下取得VBench-T2V分数84.63，仅使用合成数据即达到帧级和块级流式视频生成SOTA。该方法还应用于Cosmos 3全模态世界基础模型，实现动作条件生成的交互式世界模型。",
+      "category": "paper",
+      "score": 70,
       "selected": true
     },
     {
@@ -1263,46 +1302,7 @@
       "category": "ai-products",
       "score": 82,
       "selected": true
-    },
-    {
-      "id": "cmqjdctxe02bfslmhz7m5hdlk",
-      "title": "火山引擎上线豆包实时语音模型3.0 API 服务，开启邀测",
-      "title_en": "豆包实时语音模型3.0 API 服务正式上线",
-      "url": "https://mp.weixin.qq.com/s/L4BJnexabQu5DAxDnwEGxw",
-      "permalink": "https://aihot.virxact.com/items/cmqjdctxe02bfslmhz7m5hdlk",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-06-18T10:36:31.000Z",
-      "summary": "火山引擎上线豆包实时语音模型3.0（Seeduplex）API 服务并开启邀测。该模型为原生全双工端到端语音大模型，具备精准遵循、抗干扰、动态判停三大优势。可在多人对话中安静待命，指定话题出现时主动加入；支持通过自定义工具在实时交互中完成预定日历、发送邮件等任务。抗干扰力提升，误回复率与误打断率大幅降低；判停延迟缩短约250ms，复杂场景抢话比例下降40%，用户主动打断延迟缩短约300ms。适用于汽车智能座舱、智能硬件、智能客服等场景。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqjaaffp01gcslmhhkxrobvo",
-      "title": "八部门：用好个人消费贷款财政贴息政策，支持消费者购买 AI 相关产品",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/966/154.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqjaaffp01gcslmhhkxrobvo",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-18T09:03:28.000Z",
-      "summary": "商务部等八部门6月18日发布关于加快\"人工智能+消费\"发展的实施意见。其中提到加大财政资金支持，落实数码和智能产品购新政策，鼓励地方在消费品以旧换新框架内自主制定补贴，重点支持新一代智能终端消费。增加AI手机、智能电脑、智能电视、智能家居、AI眼镜、智能网联汽车、人形机器人等产品供给，培育智能穿戴消费市场。同时加快AI在居家服务、养老服务、文化旅游、住宿餐饮、教育教学等领域的应用，建设AI商品首发平台，举办\"人工智能进万家\"活动。",
-      "category": "industry",
-      "score": 82,
-      "selected": true
-    },
-    {
-      "id": "cmqjmtwvi04vqslmh55vbp7oh",
-      "title": "OpenAI与哈佛等合作研究：o3 Deep Research模型辅助诊断儿童罕见病，额外诊断率4.8%",
-      "title_en": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "permalink": "https://aihot.virxact.com/items/cmqjmtwvi04vqslmh55vbp7oh",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-18T08:00:00.000Z",
-      "summary": "波士顿儿童医院、哈佛大学与OpenAI合作，在《NEJM AI》发表研究。团队使用OpenAI o3 Deep Research推理模型重新分析376例此前未确诊的罕见病案例，产出基于证据的候选解释。经专家评审、额外检测和临床确认，医生在18例中建立诊断，额外诊断率达4.8%。研究显示，AI辅助工作流可帮助专家在未解病例中生成可检验假设，使定期再分析更具可扩展性。模型不直接诊断或做临床决策，仅提供证据链供专家审查。",
-      "category": "paper",
-      "score": 72,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-25T00:21:02Z"
+  "cachedAt": "2026-06-25T05:14:57Z"
 }
