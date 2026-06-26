@@ -1,8 +1,34 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxODg3NTAzMDAwLCJpIjoiY21xbDZ2aHR1MDFuMHNsbHV4cHEzeXZ6aCJ9",
+  "nextCursor": "eyJhIjoxNzgxODk0NjEwMDAwLCJpIjoiY21xbGFmMjdiMDB3dXNsMnNmYnJheHdpZCJ9",
   "items": [
+    {
+      "id": "cmqv4vak40a1ssl805nqs76uk",
+      "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+      "title_en": "有人把网红峰哥做成了能实时打电话的 AI 分身， 连说话风格都一模一样。 这是开发者 Leaf 刚开源的项目， 把实时对话、音色克隆、人格注入三件事打通了， 工程延迟压到一秒以内。 最厉害的是拆…",
+      "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
+      "permalink": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-06-26T15:37:43.000Z",
+      "summary": "开发者 Leaf 开源项目，将网红峰哥做成能实时通话的 AI 分身，集成实时对话、音色克隆和人格注入，工程延迟压到 1 秒内。技术拆解：语音识别用 Cartesia ink-whisper 降噪防误触发；大模型选 MiniMax 高速版，首字响应 361ms；语音合成用 VoxCPM 开源克隆，15 秒素材即可复刻。整体从最初 8-20 秒优化至体感 2-3 秒。人格通过女娲 Skill 从直播语料蒸馏出口头禅和思维逻辑。普通人半小时可跑通：克隆项目后，用 Claude Code 或 Cursor 配置，填两个 API Key 即可使用。",
+      "category": "tip",
+      "score": 76,
+      "selected": true
+    },
+    {
+      "id": "cmqv2tn1509khsl80vpek6zqe",
+      "title": "Anthropic Economic Index 报告：使用节奏",
+      "title_en": "Anthropic Economic Index report： Cadences",
+      "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "permalink": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-06-26T15:18:56.294Z",
+      "summary": "Anthropic 发布 Economic Index 报告，基于隐私保护遥测数据分析了 Claude 的使用节奏。工作日个人对话占比约 35%，周末升至近 50%；高薪职业在工作日外的使用占比更高。日内模式显示：新闻请求集中在早上 7 点，食谱在下午 6 点达到 2.3 倍高频，睡眠建议凌晨 3 点最多。税收相关请求在 4 月 15 日美国报税截止日前激增。调查还发现：使用 Claude 最自动化的用户预计 AI 明年将承担更多任务，但对薪资、工作安全及工作意义的预期最为乐观。",
+      "category": "paper",
+      "score": 55,
+      "selected": true
+    },
     {
       "id": "cmquitk6o04qnsl805yictrvb",
       "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
@@ -352,19 +378,6 @@
       "summary": "推出 Computer for Counsel。\n\nComputer 现在连接了律师日常使用的研究数据库、文档工具和案件管理系统。可从中提取可引用来源：@midpageAI、@LegalZoom、@Docusign、@netdocuments 等。\n\n所有 Pro 和 Max 订阅用户均可使用。",
       "category": "ai-products",
       "score": 65,
-      "selected": true
-    },
-    {
-      "id": "cmqsgw1tf0304slfurlccxlvs",
-      "title": "在与Anthropic的纠纷中，NSA失去了对Mythos的访问权限",
-      "title_en": null,
-      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-      "permalink": "https://aihot.virxact.com/items/cmqsgw1tf0304slfurlccxlvs",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-24T19:08:32.032Z",
-      "summary": "美国国家安全局（NSA）因与人工智能公司Anthropic的纠纷，失去了对Mythos系统的访问权限。",
-      "category": "industry",
-      "score": 71,
       "selected": true
     },
     {
@@ -1289,20 +1302,7 @@
       "category": "tip",
       "score": 75,
       "selected": true
-    },
-    {
-      "id": "cmql6vhtu01n0slluxpq3yvzh",
-      "title": "AI中心的数据黑洞",
-      "title_en": "The data black hole at the center of AI",
-      "url": "https://www.dwarkesh.com/p/the-sample-efficiency-black-hole-2",
-      "permalink": "https://aihot.virxact.com/items/cmql6vhtu01n0slluxpq3yvzh",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "publishedAt": "2026-06-19T16:45:03.000Z",
-      "summary": "智能的一种定义是样本效率，但近年AI进步主要靠扩充数据分布和增加算力。强化学习本质是合成数据生成--投入大量算力通过验证器筛选\"好\"数据，再训练模型预测正确输出。这一过程需要每个领域和技能的海量人类专家示例，数据行业年收入已达数十亿美元。近日Epoch报告，开源模型仅落后前沿闭源模型4个月，原因在于数据可从公开API蒸馏，而超参数等不易复制。人类一生接触约2亿token，前沿模型训练在数十到数百T token之间，相差近百万倍--机器人、自动驾驶等领域同样存在巨大效率差距。",
-      "category": "tip",
-      "score": 60,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-26T13:19:17Z"
+  "cachedAt": "2026-06-26T16:27:44Z"
 }
