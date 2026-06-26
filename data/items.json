@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgxODk0NjEwMDAwLCJpIjoiY21xbGFmMjdiMDB3dXNsMnNmYnJheHdpZCJ9",
+  "nextCursor": "eyJhIjoxNzgxOTA1ODI0MDAwLCJpIjoiY21xbGd3aDNmMDA2bnNsamczZXhoMW5nZSJ9",
   "items": [
+    {
+      "id": "cmqv67led0aejsl80grsdthsq",
+      "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
+      "title_en": "AI chatbots show left-wing bias， Washington Post report finds， with ChatGPT giving left-leaning answ…",
+      "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
+      "permalink": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-06-26T16:51:17.000Z",
+      "summary": "《华盛顿邮报》报道，基于达特茅斯和斯坦福研究的测试显示，AI聊天机器人在约30项政策议题（税收、医保、移民等）上存在左翼偏见。GPT-5.5仅给出左倾立场占80%，双方立场17%，右倾3%；Gemini 3.1 Pro则93%给出双方立场，左倾仅7%；Claude Opus 4.8双方立场占57%；Grok 4.3是唯一右倾占33%的模型。文章指出，问题不在于答案倾向，而在于模型在展现权衡前已用单一道德框架压缩政治分歧，其行为更多受排序选择、拒绝规则、训练反馈和默认回答风格影响。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmqv4vak40a1ssl805nqs76uk",
       "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
@@ -27,6 +40,19 @@
       "summary": "Anthropic 发布 Economic Index 报告，基于隐私保护遥测数据分析了 Claude 的使用节奏。工作日个人对话占比约 35%，周末升至近 50%；高薪职业在工作日外的使用占比更高。日内模式显示：新闻请求集中在早上 7 点，食谱在下午 6 点达到 2.3 倍高频，睡眠建议凌晨 3 点最多。税收相关请求在 4 月 15 日美国报税截止日前激增。调查还发现：使用 Claude 最自动化的用户预计 AI 明年将承担更多任务，但对薪资、工作安全及工作意义的预期最为乐观。",
       "category": "paper",
       "score": 55,
+      "selected": true
+    },
+    {
+      "id": "cmqv6ikhu0ah8sl80m2p7v2m4",
+      "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+      "title_en": "Previewing GPT-5.6 Sol： a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "permalink": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-26T10:00:00.000Z",
+      "summary": "OpenAI 发布了新一代模型 GPT-5.6 Sol 的预览信息。该模型被定位为下一代模型，目前仅公开了预览消息和标题，尚未披露具体技术细节、性能参数或功能特性。",
+      "category": "ai-models",
+      "score": 78,
       "selected": true
     },
     {
@@ -1174,6 +1200,19 @@
       "selected": true
     },
     {
+      "id": "cmqny6q7v0288slhkbzc8ob3u",
+      "title": "NSA局长：Mythos数小时内攻破其几乎所有机密系统",
+      "title_en": "The head of the NSA （！） said Mythos \"broke into almost all of our classified systems， not in weeks， …",
+      "url": "https://x.com/AISafetyMemes/status/2068718552174252477",
+      "permalink": "https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "publishedAt": "2026-06-21T15:31:52.000Z",
+      "summary": "美国NSA局长称，Mythos在数小时内攻破了其几乎所有机密系统。此前Mythos已在5天内破解MacOS。而顶级漏洞团队Google Project Zero完成同等攻击需6个月，单个MacOS零日漏洞价值约200万美元。苹果原假设全球仅10-20个团队具备此能力，Mythos将使该数字增至数千。全球约20亿活跃苹果设备中，Mac用户多为记者、高管、政府官员等高价值目标，苹果曾是\"最安全\"的选择。",
+      "category": "industry",
+      "score": 80,
+      "selected": true
+    },
+    {
       "id": "cmqnokdyn007jsl4nxazzzxp1",
       "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
       "title_en": "我去，GPT 5.5， Claude Opus 4.8， Gemini 3.5flash，最新旗舰版全接入，完全免费不用单独开订阅！ 美团最近悄悄上了一个叫 tabbit 国际版的应用，里面接了好几…",
@@ -1263,46 +1302,7 @@
       "category": "industry",
       "score": 78,
       "selected": true
-    },
-    {
-      "id": "cmqlclrpp01h9sl2s1c94el8x",
-      "title": "JAWBONE Act：一项打击政府为压制合法网络言论而施压的新法案",
-      "title_en": "一项新法案旨在打击政府为压制合法网络言论而施加的压力",
-      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-      "permalink": "https://aihot.virxact.com/items/cmqlclrpp01h9sl2s1c94el8x",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-19T19:41:30.069Z",
-      "summary": "上周，参议员Ted Cruz和Ron Wyden提出两党法案JAWBONE Act，为受政府胁迫的广播商、互动计算机服务商及AI提供商创建针对政府官员的联邦诉讼权，并建立政府与中间方就用户表达问题沟通的透明度体系。法案旨在应对政府施压私营公司审查受第一修正案保护的言论。EFF支持该法案，并举证：2025年6月联邦高官威胁起诉ICEBlock创建者，同年10月司法部长要求苹果下架该应用。EFF还提起信息自由诉讼，要求披露政府与苹果、谷歌、Meta的沟通记录。",
-      "category": "industry",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqldpkuw0011slf9a7n9u4pa",
-      "title": "OpenRouter vs Portkey：你的团队该选哪个LLM网关？",
-      "title_en": "OpenRouter vs Portkey： Which LLM Gateway for Your Team？",
-      "url": "https://openrouter.ai/blog/insights/openrouter-vs-portkey",
-      "permalink": "https://aihot.virxact.com/items/cmqldpkuw0011slf9a7n9u4pa",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-19T19:00:00.000Z",
-      "summary": "OpenRouter是托管路由网络，买credits后通过一个API路由至70+供应商，自动故障转移，无需自有密钥；覆盖300+模型（含20+免费），按用量收费（零加成+5.5%平台费，首100万免费），支持零数据保留和欧盟路由。Portkey是AI控制平面（2026年被Palo Alto收购），置于用户密钥之上，增加治理、提示管理、护栏和可观测性；提供1600+ LLM统一API，按日志计费（Developer免费，Production $49/月），支持HIPAA、SSO、私有部署。两者均可组合使用。",
-      "category": "tip",
-      "score": 59,
-      "selected": true
-    },
-    {
-      "id": "cmqlaf27b00wusl2sfbraxwid",
-      "title": "baoyu-design Skill迭代：修复导出样式与渐变丢失问题，支持AI配图导出PPTX",
-      "title_en": "Skill 和软件一样，需要不断迭代的，而且你用户越多，遇到的各种问题就越多，就需要去解决各种边边角角的问题，才能越来越好用。 比如 @yangyi 昨天在他的牛马AI里面测试了这个Skill，说导…",
-      "url": "https://x.com/dotey/status/2068042001895809420",
-      "permalink": "https://aihot.virxact.com/items/cmqlaf27b00wusl2sfbraxwid",
-      "source": "X：宝玉 (@dotey)",
-      "publishedAt": "2026-06-19T18:43:30.000Z",
-      "summary": "宝玉分享 baoyu-design Skill 的迭代过程：用户测试发现导出问题（样式表未铺满整页、渐变色丢失），他在本地复现后让 Agent 分析原因、给出解决方案并添加测试覆盖，修复后效果改善。该 Skill 可在制作 PPT、动画视频或网站时调用 AI 生图配图，支持 Codex 内置画图或配合 baoyu-image-gen Skill 调用 Codex CLI 画图，并能连同图片一起导出为 PPTX，在 PowerPoint/Keynote 中二次编辑。迭代循环：自己用 → 发现问题 → 让 Agent 分析 → 出方案 → 确认 → 更新 Skill。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-26T16:27:44Z"
+  "cachedAt": "2026-06-26T19:02:37Z"
 }
