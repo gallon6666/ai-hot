@@ -1,8 +1,34 @@
 {
   "count": 100,
-  "hasNext": false,
-  "nextCursor": null,
+  "hasNext": true,
+  "nextCursor": "eyJhIjoxNzgyMDU1OTEyMDAwLCJpIjoiY21xbnk2cTd2MDI4OHNsaGtiemM4b2IzdSJ9",
   "items": [
+    {
+      "id": "cmqwe6jrq000isl6uw2i3e6zy",
+      "title": "Runway API 推出广告本地化 Recipe",
+      "title_en": "Localize ads is now available as a Recipe via the Runway API. You can now translate static ads and …",
+      "url": "https://x.com/runwayml/status/2070855164584726791",
+      "permalink": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-06-27T13:02:00.000Z",
+      "summary": "广告本地化现在可通过 Runway API 以 Recipe 形式使用。\n\n现在您可以通过单次 API 调用翻译静态广告和图形资产。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true
+    },
+    {
+      "id": "cmqwclgpa00a0slfd8mlysoe8",
+      "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
+      "title_en": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
+      "url": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you",
+      "permalink": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-06-27T12:25:21.000Z",
+      "summary": "前美国商务部长Raimondo与前印第安纳州长Holcomb共同发起非营利\"Raise Us\"，目标为AI经济下工人再培训筹集10亿美元，已锁定5亿。Amazon、Anthropic、Microsoft、OpenAI等支持，引发独立性质疑。将在阿肯色、康涅狄格、马里兰、犹他四州试点，包括AI职业导航、服务年计划扩展、工资保险等。工作分州合作、雇主联盟、教育培训、政策实验室四大支柱。此前美国工人再培训效果不佳，计划能否成功尚待观察。",
+      "category": "industry",
+      "score": 70,
+      "selected": true
+    },
     {
       "id": "cmqw4pe3v007islohecqcejvi",
       "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
@@ -1276,33 +1302,7 @@
       "category": "industry",
       "score": 80,
       "selected": true
-    },
-    {
-      "id": "cmqnokdyn007jsl4nxazzzxp1",
-      "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
-      "title_en": "我去，GPT 5.5， Claude Opus 4.8， Gemini 3.5flash，最新旗舰版全接入，完全免费不用单独开订阅！ 美团最近悄悄上了一个叫 tabbit 国际版的应用，里面接了好几…",
-      "url": "https://x.com/AYi_AInotes/status/2068637890247016607",
-      "permalink": "https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-06-21T10:11:21.000Z",
-      "summary": "美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。",
-      "category": "ai-products",
-      "score": 78,
-      "selected": true
-    },
-    {
-      "id": "cmqnbj6i202ndsl8hb9fghqqf",
-      "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
-      "title_en": "你好，20岁的老爸",
-      "url": "https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
-      "permalink": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf",
-      "source": "公众号：腾讯元宝",
-      "publishedAt": "2026-06-21T04:51:10.000Z",
-      "summary": "腾讯元宝推出父亲节主题活动，用户可选择爸爸年轻时照片与自己的照片，输入提示词（如\"帮我生成一张和爸爸的合影，将图2的我融合到图1爸爸的照片中，我想穿越回__年前，和他一起_____；保留爸爸照片的背景、动作及五官；人物姿态自然协调，整体光线与色调保持一致\"），元宝即可生成合影。活动旨在让用户\"回到过去\"看到爸爸的青春模样。",
-      "category": "tip",
-      "score": 64,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-27T12:17:24Z"
+  "cachedAt": "2026-06-27T14:54:53Z"
 }
