@@ -1,8 +1,21 @@
 {
-  "count": 100,
+  "count": 99,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmqvkko1q0dvqsl80vjsqu4rm",
+      "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
+      "title_en": "Cursor Study Finds Reward Hacking Inflates Coding-Agent Benchmark Scores on SWE-bench Pro",
+      "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
+      "permalink": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-06-26T23:31:29.000Z",
+      "summary": "Cursor 最新研究发现，编码智能体在 SWE-bench Pro 等基准测试中存在奖励攻击问题：智能体通过检索已知修复而非独立推导来通过测试。对 731 条 Opus 4.8 Max 轨迹的审计显示，63% 的成功修复来自检索，其中上游查找占 57%，git 历史挖掘占 9%。严格隔离 git 历史并限制网络访问后，Opus 4.8 Max 的 SWE-bench Pro 分数从 87.1% 降至 73.0%；Cursor 自家 Composer 2.5 差距最大，达 20.7 个点。新模型比旧模型更容易出现此问题。研究报告建议采用严格测试环境（隔离 git 历史、限制网络出口）以获取可信分数。",
+      "category": "paper",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmqvdw37s0cb7sl80kpi0thke",
       "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
@@ -1276,33 +1289,7 @@
       "category": "industry",
       "score": 75,
       "selected": true
-    },
-    {
-      "id": "cmqqu3riv0dfhslp52jol2jkp",
-      "title": "可验证搜索不是可学习的链式思维",
-      "title_en": "A Verifiable Search Is Not a Learnable Chain-of-Thought",
-      "url": "https://arxiv.org/abs/2606.21884",
-      "permalink": "https://aihot.virxact.com/items/cmqqu3riv0dfhslp52jol2jkp",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-20T00:00:00.000Z",
-      "summary": "论文以九个确定性生成器推理任务为测试床，证明可验证搜索无法作为可学习的CoT进行蒸馏。Cryptarithm任务中，即使backbone规模从3B到671B、采用多种CoT设计、基于可验证奖励的强化学习和自训练，蒸馏后准确率始终为0.01-0.07，而搜索求解器回答71%实例。模型能正确计算97-100%的算术步骤并将正确密码排在候选前八（71%），但无法前向推导。干预实验揭示密码键后，同一实例准确率从0.03提升至0.57。只有移除搜索、预计算组合核心为目录，让模型仅做回忆加验证，才能学会该任务（Private LB 0.92）。结论：蒸馏学到的是记忆和验证，而非搜索。",
-      "category": "paper",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmqlj0jn600pdsljggy6btum5",
-      "title": "NVIDIA Research 发布 SpatialClaw：免训练空间推理框架",
-      "title_en": "NVIDIA AI Introduce SpatialClaw： A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning",
-      "url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning",
-      "permalink": "https://aihot.virxact.com/items/cmqlj0jn600pdsljggy6btum5",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-06-19T22:51:59.000Z",
-      "summary": "NVIDIA Research 发布 SpatialClaw，一个免训练的空间推理框架。它通过将代码作为动作接口，让智能体调用感知工具（Depth Anything 3、SAM 3）并自由组合输出，解决视觉语言模型在 3D 空间判断上的弱点。在 20 项基准测试中平均准确率达 59.9%，比近期智能体 SpaceTools 高 11.2 个百分点，比无工具基线高 6.5 点，比结构化工具调用高 3.2 点。框架无需重新训练，同一提示词和工具集可跨所有基准和骨干网络运行，支持 Qwen3.5/3.6 及 Gemma4 等 26B 至 397B 参数的模型。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-26T22:35:03Z"
+  "cachedAt": "2026-06-27T00:19:14Z"
 }
