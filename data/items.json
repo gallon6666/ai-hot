@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMDU3NjAwMDAwLCJpIjoiY21xcHB5ajU3MDJ0eHNscDVkN2FodXBtciJ9",
+  "nextCursor": "eyJhIjoxNzgyMDU3NjAwMDAwLCJpIjoiY21xcHU2ejl5MDN3M3NscDU5b2thdXpzdyJ9",
   "items": [
     {
       "id": "cmqwmotnk01tasly021bf38i5",
@@ -235,6 +235,19 @@
       "summary": "博主小互开源个人IP配图技能\"小互IP Studio\"，包含31个原创角色（15个手绘线稿角色+16个谐音梗meme形象）及一套配图方法论。该Agent可自动读取文章、规划配图类型（情绪图/示意图/四格漫画）、生成并自查返工。默认画风为手绘线稿淡彩，另备5种皮肤（3D盲盒、黑白线稿等）可切换。安装仅需Python3，支持Claude Code、Codex等工具，需自备OpenAI兼容的图像API key（默认GPT-image-2）；也可只输出提示词手动生图。",
       "category": "tip",
       "score": 81,
+      "selected": true
+    },
+    {
+      "id": "cmqwr2hi6008msliky22llevm",
+      "title": "一条命令在HF Jobs上启动vLLM服务器",
+      "title_en": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "permalink": "https://aihot.virxact.com/items/cmqwr2hi6008msliky22llevm",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-06-26T00:00:00.000Z",
+      "summary": "HuggingFace Jobs 支持一条命令启动 vLLM 服务器，用于测试、评估或批量生成。使用 `hf jobs run` 命令，指定官方 `vllm/vllm-openai` 镜像、GPU flavor（如 `a10g-large`）、暴露端口 8000 并设置超时。服务器启动后可通过 OpenAI 兼容 API 访问，每次请求需携带 HF token 作为 bearer token（仅限有读权限的用户）。示例部署了 Qwen/Qwen3-4B（多 GPU 需 `--tensor-parallel-size`）。`a10g-large` 价格为 $1.50/小时，按分钟计费，可通过 `hf jobs cancel` 停止。",
+      "category": "tip",
+      "score": 62,
       "selected": true
     },
     {
@@ -1289,20 +1302,7 @@
       "category": "ai-products",
       "score": 59,
       "selected": true
-    },
-    {
-      "id": "cmqppyj5702txslp5d7ahupmr",
-      "title": "在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop",
-      "title_en": "The full Claude Desktop experience on AWS， Google Cloud， and Microsoft Foundry",
-      "url": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
-      "permalink": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-21T16:00:00.000Z",
-      "summary": "通过 AWS、Google Cloud 和 Microsoft Foundry 使用 Claude Desktop 的组织现已获得 Chat、Claude Cowork 和 Claude Code 集成的完整桌面体验。IT 团队可将推理保留在自己的云环境中，对话历史本地存储。支持 IAM Identity Center、Workforce Identity Federation、Microsoft Entra ID 或 Okta 登录；策略模板可导出至 Intune、GPO 或 Jamf；提供离线安装器。Chat、Claude Cowork 和 Claude Code 各有独立策略键，支持精细访问控制。M365 连接器通过 Entra 应用访问邮件和文档，并支持 GCC High/DoD 端点。",
-      "category": "ai-products",
-      "score": 55,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-27T18:17:14Z"
+  "cachedAt": "2026-06-27T20:19:10Z"
 }
