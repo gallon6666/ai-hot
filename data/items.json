@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMDU1OTEyMDAwLCJpIjoiY21xbnk2cTd2MDI4OHNsaGtiemM4b2IzdSJ9",
+  "nextCursor": "eyJhIjoxNzgyMDU3NjAwMDAwLCJpIjoiY21xcGV1OTA2MDBsNHNsZGtzZXBjNDlsdCJ9",
   "items": [
+    {
+      "id": "cmqwju303014msly0vp9nlrjv",
+      "title": "一次失败的（民族国家？）攻击的剖析",
+      "title_en": null,
+      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack",
+      "permalink": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-27T15:39:53.429Z",
+      "summary": "作者收到伪装成新加坡VC Lua Ventures的虚假面试邮件，要求完成一个TypeScript仓库的\"测试\"。作者将仓库交给Claude扫描，在`typescript+5.9.2.patch`中发现base64混淆载荷，该载荷在`patch-package`安装时触发，向`~/.cache-`等目录写入`payload.js`和`mutex.js`，构成后门（命名PinpinRAT）。攻击者使用虚构身份和空洞LinkedIn资料，目标是作者在crates.io上的Rust包。相关信息已报告加拿大CCCS等机构。",
+      "category": "tip",
+      "score": 81,
+      "selected": true
+    },
     {
       "id": "cmqwe6jrq000isl6uw2i3e6zy",
       "title": "Runway API 推出广告本地化 Recipe",
@@ -1289,20 +1302,7 @@
       "category": "paper",
       "score": 61,
       "selected": true
-    },
-    {
-      "id": "cmqny6q7v0288slhkbzc8ob3u",
-      "title": "NSA局长：Mythos数小时内攻破其几乎所有机密系统",
-      "title_en": "The head of the NSA （！） said Mythos \"broke into almost all of our classified systems， not in weeks， …",
-      "url": "https://x.com/AISafetyMemes/status/2068718552174252477",
-      "permalink": "https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
-      "publishedAt": "2026-06-21T15:31:52.000Z",
-      "summary": "美国NSA局长称，Mythos在数小时内攻破了其几乎所有机密系统。此前Mythos已在5天内破解MacOS。而顶级漏洞团队Google Project Zero完成同等攻击需6个月，单个MacOS零日漏洞价值约200万美元。苹果原假设全球仅10-20个团队具备此能力，Mythos将使该数字增至数千。全球约20亿活跃苹果设备中，Mac用户多为记者、高管、政府官员等高价值目标，苹果曾是\"最安全\"的选择。",
-      "category": "industry",
-      "score": 80,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-27T14:54:53Z"
+  "cachedAt": "2026-06-27T16:18:53Z"
 }
