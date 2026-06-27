@@ -1,8 +1,21 @@
 {
   "count": 100,
-  "hasNext": false,
-  "nextCursor": null,
+  "hasNext": true,
+  "nextCursor": "eyJhIjoxNzgyMDE3NDcwMDAwLCJpIjoiY21xbmJqNmkyMDJuZHNsOGhiOWZnaHFxZiJ9",
   "items": [
+    {
+      "id": "cmqw4pe3v007islohecqcejvi",
+      "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/969/400.htm",
+      "permalink": "https://aihot.virxact.com/items/cmqw4pe3v007islohecqcejvi",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-27T08:16:09.000Z",
+      "summary": "美国企业面临 AI 账单失控，开始转向 Token 最小化策略。旧金山公司 Lindy 此前主要调用 Anthropic 的 Claude 模型，每月 AI 账单超支甚至超过员工工资。该公司 CEO 弗洛·克里维洛表示，本月初已将 100% 流量切换到 DeepSeek，预计未来几个月可节省数百万美元。企业开始采用按任务匹配模型的\"模型路由\"，不再将最贵的前沿模型用于所有场景。部分客户已决定暂停 AI 投入，待证明投资回报率后再继续。",
+      "category": "industry",
+      "score": 70,
+      "selected": true
+    },
     {
       "id": "cmqvtzehe0g65sl800jrc1x17",
       "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
@@ -1289,20 +1302,7 @@
       "category": "tip",
       "score": 64,
       "selected": true
-    },
-    {
-      "id": "cmqmbymfe00zisl4f3pa6jwmz",
-      "title": "开源教程《Deep Agents 实战》发布",
-      "title_en": "开源技术教程「Deep Agents 实战」，LangChain 官方认证大使 @zhanghaili0610 出品，他也是「LangChain 实战」「LangGraph 实战」的作者 https：…",
-      "url": "https://x.com/shao__meng/status/2068306942184034471",
-      "permalink": "https://aihot.virxact.com/items/cmqmbymfe00zisl4f3pa6jwmz",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-06-20T12:16:16.000Z",
-      "summary": "LangChain 官方认证大使 @zhanghaili0610 推出开源教程《Deep Agents 实战》，基于 LangChain / LangGraph 生态，讲解如何用 Deep Agents Harness 框架构建真实 Agent 应用。核心是\"三层架构\"：Runtime（LangGraph）、Framework（LangChain）、Harness（Deep Agents）。技术内核为上下文工程，通过虚拟文件系统实现按需读取、中间结果落盘、大文件局部读取。教程共 8 章 + 2 准备篇，覆盖虚拟文件系统（六大工具）、任务规划、子 Agent 委派（异步并行）及 Skills 复用（可在 Claude Code、Cursor 等 30+ 工具中通用）。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-27T08:05:39Z"
+  "cachedAt": "2026-06-27T10:22:12Z"
 }
