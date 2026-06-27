@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMDU3NjAwMDAwLCJpIjoiY21xcHU2ejl5MDN3M3NscDU5b2thdXpzdyJ9",
+  "nextCursor": "eyJhIjoxNzgyMDg2NDAwMDAwLCJpIjoiY21xcXJmd3U0MGNwd3NscDV6YmpwbXVicyJ9",
   "items": [
+    {
+      "id": "cmqwub84n008jslp0ael13807",
+      "title": "SpaceX 注册 SpaceXAI 商标，将合并 xAI",
+      "title_en": "NEWS： SpaceX just trademarked \"SpaceXAI\" Elon Musk says xAI will be dissolved as a separate company…",
+      "url": "https://x.com/cb_doge/status/2070973276562530507",
+      "permalink": "https://aihot.virxact.com/items/cmqwub84n008jslp0ael13807",
+      "source": "X：cb_doge (@cb_doge)",
+      "publishedAt": "2026-06-27T20:51:20.000Z",
+      "summary": "消息：SpaceX 刚刚注册了\"SpaceXAI\"商标。\n\n埃隆·马斯克表示 xAI 将解散，不再作为独立公司，因此它将只是 SpaceXAI，SpaceX 的 AI 产品。",
+      "category": "industry",
+      "score": 76,
+      "selected": true
+    },
     {
       "id": "cmqwmotnk01tasly021bf38i5",
       "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
@@ -144,6 +157,19 @@
       "summary": "《华盛顿邮报》报道，基于达特茅斯和斯坦福研究的测试显示，AI聊天机器人在约30项政策议题（税收、医保、移民等）上存在左翼偏见。GPT-5.5仅给出左倾立场占80%，双方立场17%，右倾3%；Gemini 3.1 Pro则93%给出双方立场，左倾仅7%；Claude Opus 4.8双方立场占57%；Grok 4.3是唯一右倾占33%的模型。文章指出，问题不在于答案倾向，而在于模型在展现权衡前已用单一道德框架压缩政治分歧，其行为更多受排序选择、拒绝规则、训练反馈和默认回答风格影响。",
       "category": "tip",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqwticse001aslp07j2fbwv8",
+      "title": "Weave 推出智能模型路由工具，可直接接入 Claude Code、Codex 和 Cursor",
+      "title_en": "Show HN： Smart model routing directly in Claude， Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "permalink": "https://aihot.virxact.com/items/cmqwticse001aslp07j2fbwv8",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-06-26T16:40:11.000Z",
+      "summary": "Weave 发布智能模型路由工具，通过 `npx @workweave/router` 安装，作为本地代理运行在 localhost：8080。它采用基于 Avengers-Pro 1 的集群评分器，每个请求自动选择最佳模型。支持 Anthropic、OpenAI、Gemini 原生 API，并通过 OpenRouter 接入 DeepSeek、Kimi、GLM、Qwen、Llama、Mistral 等开源模型。用户自行保管提供商密钥，数据本地加密存储。工具兼容 Claude Code、Codex、Cursor 等客户端，并提供 OTLP 追踪，支持自托管部署。",
+      "category": "ai-products",
+      "score": 72,
       "selected": true
     },
     {
@@ -342,19 +368,6 @@
       "selected": true
     },
     {
-      "id": "cmqtun7jv06zvsl0ejc2rnrpp",
-      "title": "Runway发布Agent 2.0",
-      "title_en": "Introducing Agent 2.0",
-      "url": "https://runwayml.com/news/introducing-agent-2",
-      "permalink": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-06-25T18:41:58.502Z",
-      "summary": "Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true
-    },
-    {
       "id": "cmqtu9a7r06x3sl0exw2blt0o",
       "title": "赫库兰尼姆古卷首次被完整虚拟解读",
       "title_en": "赫库兰尼姆的一卷古卷首次被解读",
@@ -381,6 +394,19 @@
       "selected": true
     },
     {
+      "id": "cmqwticse001bslp0tye275nx",
+      "title": "OpenKnowledge：开源、AI 优先的 Obsidian/Notion 替代品",
+      "title_en": "Show HN： OpenKnowledge - open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "permalink": "https://aihot.virxact.com/items/cmqwticse001bslp0tye275nx",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-06-25T16:04:46.000Z",
+      "summary": "OpenKnowledge 是一款开源、本地优先的 Markdown 编辑器，私密免费，提供完整的所见即所得编辑体验。支持 macOS 桌面应用和 Web UI，内置文件导航、搜索、标签和图谱 wiki 链接查看器。可与 Claude、Codex、Cursor 等桌面应用协同实现 AI 编辑，并通过 MCP/CLI 兼容任意 AI 智能体框架。自带 MCP、技能和智能搜索，支持 LLM Wiki 和知识图谱。团队协作基于 Git/GitHub 实现无代码共享与自动同步。支持嵌入 HTML 及富文本组件。桌面应用内建 TUI，Linux/Windows/Intel Mac 用户可通过 CLI（Node.js 24+）以本地 Web 应用运行。可直接打开任何包含 Markdown/MDX 文件的文件夹。开源协议 GPL-3.0-or-later。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true
+    },
+    {
       "id": "cmqtp5syl05k5sl0ec5cvuedt",
       "title": "多数主流AI聊天机器人政治立场偏左，\"反觉醒\"模型也不例外",
       "title_en": "Most major AI chatbots still lean left on political questions， even \"anti-woke\" models are no exception",
@@ -391,6 +417,32 @@
       "summary": "华盛顿邮报调查显示，多数主流AI聊天机器人在政治问题上明显偏左。OpenAI GPT-5.5在80%回答中仅呈现左派论据；DeepSeek V4 Pro为70%；Anthropic Claude Opus 4.8有43%纯左、57%给出双方观点。xAI的Grok 4.3左倾回答仍多于右倾。右翼平台Gab的Arya左倾回答是右倾的12倍。Google Gemini 3.1 Pro是例外，93%回答同时呈现双方立场。特朗普推动的\"反觉醒\"AI未能改变这一格局。",
       "category": "tip",
       "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmqwtvowe0035slp023899gx2",
+      "title": "冻结多token预测加速Pixel上的Gemini Nano模型",
+      "title_en": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction",
+      "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction",
+      "permalink": "https://aihot.virxact.com/items/cmqwtvowe0035slp023899gx2",
+      "source": "Google Research：Blog（网页）",
+      "publishedAt": "2026-06-25T16:00:00.000Z",
+      "summary": "Google Research提出一种新架构，在已冻结的Gemini Nano v3模型上改造Multi-Token Prediction（MTP），以加速Pixel 9和10系列上的设备端推理。该方法基于EAGLE框架和CALM，无需单独训练占用内存的草稿模型，通过\"晚期退出\"策略实现加速。AI通知摘要和校对功能因此生成文本速度显著提升、能耗降低，开发者无需为每个新任务微调独立模型。",
+      "category": "paper",
+      "score": 55,
+      "selected": true
+    },
+    {
+      "id": "cmqwtlsg0001nslp0zt3eyzhr",
+      "title": "SGLang 引入 Waterfill 与 LPLB 提升 DeepEP MoE 负载均衡",
+      "title_en": "Blog Improving DeepEP MoE Load Balance in SGLang with Waterfill and LPLB Mixture-of-Experts （MoE） models rely on Expert Parallelism （EP） to scale inference across multiple GPUs. In SGLang， DeepEP and EPLB provide high-performance serving under EP， but the workload seen by … NVIDIA Team",
+      "url": "https://www.lmsys.org/blog/2026-06-26-waterfill-lplb",
+      "permalink": "https://aihot.virxact.com/items/cmqwtlsg0001nslp0zt3eyzhr",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-06-25T16:00:00.000Z",
+      "summary": "SGLang 为 DeepEP MoE 推理新增两种调度时负载均衡方法：Waterfill 将共享专家分配给负载更低的 rank，在 DeepSeek-V3/R1 服务负载下使总吞吐量提升 1.48% 至 4.66%，在 DeepSeek V4 上最佳点从 49，253 tok/s 提升至 51，677 tok/s（+4.92%）；LPLB 基于线性规划优化冗余专家副本的 token 路由，配合 EPLB 在相同集群上实现吞吐量提升 0.84% 至 7.34%。",
+      "category": "ai-products",
+      "score": 58,
       "selected": true
     },
     {
@@ -599,6 +651,19 @@
       "summary": "NVIDIA NeMo AutoModel 是基于 Transformers v5 的开源库，添加 Expert Parallelism、DeepEP 融合 all-to-all 调度和 TransformerEngine 内核。在 MoE 模型微调中，相比原生 v5，训练吞吐量提升 3.4-3.7 倍，GPU 内存减少 29-32%，仅需改动一行 import。在 16 节点 128 张 H100 上全微调 Nemotron 3 Ultra 550B A55B 时，v5 因内存不足无法运行，而 AutoModel 凭借 EP=64 专家并行使训练可行。单节点 30B MoE 模型（如 Qwen3-30B-A3B）同样获得可量化的性能优势。",
       "category": "tip",
       "score": 66,
+      "selected": true
+    },
+    {
+      "id": "cmqtun7jv06zvsl0ejc2rnrpp",
+      "title": "Runway发布Agent 2.0",
+      "title_en": "Introducing Agent 2.0",
+      "url": "https://runwayml.com/news/introducing-agent-2",
+      "permalink": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-06-24T16:00:00.000Z",
+      "summary": "Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9：16、16：9、1：1等格式；产品营销人员可借助Agent确定定位角度并构建活动资产。Agent 2.0面向所有用户开放。",
+      "category": "ai-products",
+      "score": 65,
       "selected": true
     },
     {
@@ -1237,72 +1302,7 @@
       "category": "paper",
       "score": 78,
       "selected": true
-    },
-    {
-      "id": "cmqqd9e3008sfslp53qupzvd1",
-      "title": "我们用免费本地模型对 OpenClaw 仓库进行实时分类",
-      "title_en": "We got local models to triage the OpenClaw repo for FREE！*",
-      "url": "https://huggingface.co/blog/local-models-pr-triage",
-      "permalink": "https://aihot.virxact.com/items/cmqqd9e3008sfslp53qupzvd1",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-22T00:00:00.000Z",
-      "summary": "Hugging Face 在 OpenClaw 仓库上测试用 Gemma 和 Qwen 等本地模型实时分类 issue 和 PR。他们使用 Pi agent harness 驱动模型，配合 reposhell 只允许读操作防止提示词注入。测试的模型包括 gemma-4-26b-a4b 和 qwen3.6-35b-a3b，经性能优化后均可在本地生成数百 token/s。该方案运行在 NVIDIA GB10（128 GB 统一内存）上，相比每月 200 美元的 ChatGPT Pro 订阅，可实现近乎实时的通知且仅消耗电费。",
-      "category": "tip",
-      "score": 59,
-      "selected": true
-    },
-    {
-      "id": "cmqqb5ey4088oslp5vvpveegf",
-      "title": "HAKARI-Bench：统一条件下比较检索架构与效率设置的轻量级基准",
-      "title_en": "HAKARI-Bench： A Lightweight Benchmark for Comparing Retrieval Architectures and Efficiency Settings under Unified Conditions",
-      "url": "https://arxiv.org/abs/2606.22778",
-      "permalink": "https://aihot.virxact.com/items/cmqqb5ey4088oslp5vvpveegf",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-22T00:00:00.000Z",
-      "summary": "HAKARI-Bench 是一个轻量级检索基准，将现有检索套件重建为小型数据集（Nano-sets），涵盖 35 个基准、551 个任务和 43 种语言，采用统一格式实现模型无关比较。它支持 BM25、稠密、稀疏、晚交互和重排序五种检索家族及其效率变体（降维、量化等）在同一条件下对比。在 55 个模型上，整体排名与 MTEB retrieval v2、MMTEB v2 retrieval 及 English BEIR（完整版）的 Spearman 相关系数均高于 0.97。HAKARI-Bench 不取代全面评测，而是用于快速模型选择、回归检测和探索质量-效率帕累托前沿。代码、数据和排行榜以 MIT 许可证开源。",
-      "category": "paper",
-      "score": 75,
-      "selected": true
-    },
-    {
-      "id": "cmqpjf63g017lslp5ffjthz2c",
-      "title": "Codex 用于长期工作：最大化效能实践",
-      "title_en": "Codex-maxxing for long-running work",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "permalink": "https://aihot.virxact.com/items/cmqpjf63g017lslp5ffjthz2c",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-22T00:00:00.000Z",
-      "summary": "OpenAI 发布白皮书，由 Jason Liu 介绍使用 Codex 作为持久工作空间的策略。Codex 可保留上下文、管理复杂工作流，并帮助在长期项目中维持进展。文中讲解了如何将宏大目标分解为可验证的步骤、保持工作流连续性，以及判断何时将执行委托给 Codex 何时需要人工监督。该指南旨在支撑超出单次提示词范围的持续工作。",
-      "category": "tip",
-      "score": 58,
-      "selected": true
-    },
-    {
-      "id": "cmqpeyj07000gslp57sfgt1iu",
-      "title": "Grok Build 推出 /goal 模式，支持长时间自主任务执行",
-      "title_en": "Introducing /goal Jun 22， 2026 # Introducing /goal Use /goal for long-running autonomous task execution in Grok Build. Read More",
-      "url": "https://x.ai/news/introducing-goal",
-      "permalink": "https://aihot.virxact.com/items/cmqpeyj07000gslp57sfgt1iu",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-06-22T00:00:00.000Z",
-      "summary": "xAI 在 Grok Build 中引入 `/goal` 新模式。用户只需用一行命令设定目标，agent 便会自动规划方案、分解任务为进度清单并持续执行，直至目标完成且通过验证，期间可额外下达指令。该模式支持监控与引导命令，任务完成时清单全部勾选。即日起可用，用户可通过 `curl -fsSL | bash` 安装 CLI 并登录账号即可使用。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true
-    },
-    {
-      "id": "cmqpu6z9y03w3slp59okauzsw",
-      "title": "Aleph 2.0 现已集成到 Figma Weave",
-      "title_en": "Aleph 2.0 Is Now in Figma Weave",
-      "url": "https://runwayml.com/news/aleph-2-in-figma-weave",
-      "permalink": "https://aihot.virxact.com/items/cmqpu6z9y03w3slp59okauzsw",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-06-21T16:00:00.000Z",
-      "summary": "Aleph 2.0 是 Runway 的旗舰视频编辑模型，现已在 Figma Weave 中上线。它是一个基于上下文的视频编辑模型，通过关键帧工作：从视频中提取一帧，重新设计风格并附上时间戳连接回 Aleph 2.0 节点，即可将该编辑传递到主体出现的每一帧，同时保持其他内容不变。支持最长 30 秒、1080p 的片段，可跨多镜头序列应用编辑，无需逐镜头处理。",
-      "category": "ai-products",
-      "score": 59,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-27T20:19:10Z"
+  "cachedAt": "2026-06-27T22:15:26Z"
 }
