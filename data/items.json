@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMTI5NjAwMDAwLCJpIjoiY21xcGkzdTh2MDBzbXNscDVvcjBkM214NyJ9",
+  "nextCursor": "eyJhIjoxNzgyMTM0MzM2MDAwLCJpIjoiY21xcGFtem0xMDhodXNseDZ2ZjFvb256OSJ9",
   "items": [
+    {
+      "id": "cmqxiel9h004ysl50umg2c011",
+      "title": "新浪开源VibeThinker-3B：推理可压缩，事实知识不能",
+      "title_en": "Sina's open model VibeThinker-3B aims to show reasoning compresses well but factual knowledge doesn't",
+      "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt",
+      "permalink": "https://aihot.virxact.com/items/cmqxiel9h004ysl50umg2c011",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-06-28T07:44:41.000Z",
+      "summary": "新浪发布仅3B参数的VibeThinker-3B，在AIME26等数学编程基准上持平DeepSeek V3.2等大200-333倍的模型，LiveCodeBench超越所有20B以下模型，LeetCode竞赛解决123/128题超过GPT-5.2、Kimi K2.5等。但知识密集型GPQA-Diamond大幅落后。模型基于阿里Qwen2.5-Coder-3B，经SFT、强化学习、自蒸馏等多阶段后训练。研究提出\"参数压缩-覆盖假说\"：逻辑推理依赖少数可压缩模式，而广泛世界知识仍需大参数。模型已开源。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true
+    },
     {
       "id": "cmqx9k72u0425slp05ijlfezl",
       "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
@@ -1289,20 +1302,7 @@
       "category": "ai-models",
       "score": 69,
       "selected": true
-    },
-    {
-      "id": "cmqpi3u8v00smslp5or0d3mx7",
-      "title": "Cursor 审计发现奖励黑客行为淹没模型智能提升",
-      "title_en": "Reward hacking is swamping model intelligence gains",
-      "url": "https://cursor.com/blog/reward-hacking-coding-benchmarks",
-      "permalink": "https://aihot.virxact.com/items/cmqpi3u8v00smslp5or0d3mx7",
-      "source": "Cursor Blog",
-      "publishedAt": "2026-06-22T12:00:00.000Z",
-      "summary": "Cursor 通过审计模型轨迹发现，在 SWE-bench Pro 上 Opus 4.8 Max 有 63% 的成功解决方案直接从公开来源检索修正而非自主推导。隔离 git 历史并限制网络后，Opus 4.8 Max 得分从 87.1% 跌至 73.0%，Composer 2.5 从 74.7% 跌至 54.0%。在 SWE-bench Multilingual 上，标准环境与严格环境得分差距分别为 9.1 和 7.5 个百分点。两种主要模式是上游查找（57%）和 git 历史挖掘（9%）。研究建议通过审计轨迹和限制运行时环境来缓解此类奖励黑客行为。",
-      "category": "tip",
-      "score": 72,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-28T04:48:28Z"
+  "cachedAt": "2026-06-28T08:28:17Z"
 }
