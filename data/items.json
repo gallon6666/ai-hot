@@ -1,8 +1,34 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMDg2NDAwMDAwLCJpIjoiY21xcXJmd3U0MGNwd3NscDV6YmpwbXVicyJ9",
+  "nextCursor": "eyJhIjoxNzgyMTI5NjAwMDAwLCJpIjoiY21xcGkzdTh2MDBzbXNscDVvcjBkM214NyJ9",
   "items": [
+    {
+      "id": "cmqx9k72u0425slp05ijlfezl",
+      "title": "阿德拉菲尼尔：仅在AI agent工作时阻止Mac睡眠的菜单栏工具",
+      "title_en": "Show HN： 阿德拉菲尼尔--仅在药物起效期间保持\"盖子紧闭的Mac\"处于清醒状态",
+      "url": "https://github.com/kageroumado/adrafinil",
+      "permalink": "https://aihot.virxact.com/items/cmqx9k72u0425slp05ijlfezl",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-28T03:55:17.096Z",
+      "summary": "Adrafinil 是一款 macOS 菜单栏应用，仅在 Claude Code、Codex、Cursor、Gemini CLI、Aider、Hermes、OpenCode、Cline、Pi 等 9 种 AI coding agent 持有活跃会话时阻止系统睡眠（包括合盖睡眠）。无 agent 工作时，合盖后 Mac 正常睡眠。它通过各 agent 的钩子系统调用 CLI，往返延迟低于 50ms，支持引用计数断言、热切出（温度阈值强制释放）、空闲释放及进程嗅探。需要 macOS Tahoe 26.4，Xcode 26+ 构建，以签名公证的磁盘映像提供。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqx7behn03g3slp0pzrofqz9",
+      "title": "四大顶级AI对决《文明VI》：Claude核平法国仍输，暴露感知与执行短板",
+      "title_en": "四大顶级 AI 对决《文明 VI》！Claude「核平」法国，结果还是输了",
+      "url": "https://www.ithome.com/0/969/570.htm",
+      "permalink": "https://aihot.virxact.com/items/cmqx7behn03g3slp0pzrofqz9",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-06-28T02:45:16.000Z",
+      "summary": "英国前首相府数据科学家Liam Wilkinson搭建76个MCP工具，将Claude Opus 4.6、GPT-5.4、Gemini 3.1 Pro等四个模型放入《文明VI》进行23场对局。Claude扮演葡萄牙时，因法国文化胜利逼近，花50回合研发核弹核平图卢兹，但法国最终以外交胜利获胜。Wilkinson发现：AI主动检查全局状态仅占1-2%（感知盲区），计划后10回合内执行率仅48-66%（知行差距）。结论是智商非瓶颈，感知与执行才是关键。",
+      "category": "tip",
+      "score": 76,
+      "selected": true
+    },
     {
       "id": "cmqwub84n008jslp0ael13807",
       "title": "SpaceX 注册 SpaceXAI 商标，将合并 xAI",
@@ -1276,33 +1302,7 @@
       "category": "tip",
       "score": 72,
       "selected": true
-    },
-    {
-      "id": "cmqph7ap700n2slp5g4tfjs46",
-      "title": "OpenAI 扩展 Daybreak 计划：推出 GPT-5.5-Cyber 完整版与 Codex Security 更新",
-      "title_en": "Daybreak： Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "permalink": "https://aihot.virxact.com/items/cmqph7ap700n2slp5g4tfjs46",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-22T10:00:00.000Z",
-      "summary": "OpenAI 于 2026 年 6 月 22 日宣布扩展 Daybreak 计划，发布 GPT-5.5-Cyber 完整版和 Codex Security 插件更新。GPT-5.5-Cyber 在 CyberGym 上达 85.6%，超越 GPT-5.5 的 81.8%。Codex Security 插件可深度扫描代码库、验证漏洞并自动生成补丁，支持导出至漏洞管理系统。自 3 月预览以来已扫描超 3000 万次提交，超 7 万项发现经人工确认已修复。同期启动 Patch the Planet 计划，联合 Trail of Bits、HackerOne 等，cURL、Go、Python、Sigstore、pyca/cryptography 等 30 多个开源项目已参与。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": true
-    },
-    {
-      "id": "cmqqrfwu40cpwslp5zbjpmubs",
-      "title": "能力强但粗心：计算机使用智能体是否遵循情境完整性？",
-      "title_en": "Capable but Careless： Do Computer-Use Agents Follow Contextual Integrity？",
-      "url": "https://arxiv.org/abs/2606.23189",
-      "permalink": "https://aihot.virxact.com/items/cmqqrfwu40cpwslp5zbjpmubs",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-22T00:00:00.000Z",
-      "summary": "AgentCIBench评估计算机使用智能体（CUA）是否遵循情境完整性。它针对三种常见失败模式：视觉共置（智能体拉取任务目标旁边被禁止的项目）、任务模糊性过度分享（在提示不明确时泄露个人状态）以及收件人错配（向不适当的收件人发送内容）。对15个前沿CUA的评测显示平均泄漏率67.9%，其中11个在超过50%的场景中泄漏，这些失败在端到端任务中同样存在。AgentCIBench已发布，旨在推动开发更安全的计算机使用智能体。",
-      "category": "paper",
-      "score": 78,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-27T23:17:23Z"
+  "cachedAt": "2026-06-28T04:48:28Z"
 }
