@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMTQxMjA5MDAwLCJpIjoiY21xcGVweW81MDBqMXNsZGtmajVleGdqOCJ9",
+  "nextCursor": "eyJhIjoxNzgyMTQ0MDAwMDAwLCJpIjoiY21xcXdnZTRhMGU2dHNscDUwZjN0bGkyNyJ9",
   "items": [
     {
       "id": "cmqy28vh30050slr1uzaev9nk",
@@ -261,6 +261,19 @@
       "summary": "Weave 发布智能模型路由工具，通过 `npx @workweave/router` 安装，作为本地代理运行在 localhost：8080。它采用基于 Avengers-Pro 1 的集群评分器，每个请求自动选择最佳模型。支持 Anthropic、OpenAI、Gemini 原生 API，并通过 OpenRouter 接入 DeepSeek、Kimi、GLM、Qwen、Llama、Mistral 等开源模型。用户自行保管提供商密钥，数据本地加密存储。工具兼容 Claude Code、Codex、Cursor 等客户端，并提供 OTLP 追踪，支持自托管部署。",
       "category": "ai-products",
       "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmqy4ykbx0046slrr88vjxpf9",
+      "title": "下一个重大突破：AI在工作中学习",
+      "title_en": "The next big breakthrough will be AIs learning on the job",
+      "url": "https://www.dwarkesh.com/p/the-next-paradigm",
+      "permalink": "https://aihot.virxact.com/items/cmqy4ykbx0046slrr88vjxpf9",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-06-26T15:51:34.000Z",
+      "summary": "AI实验室的研究赌注是：在数千个多样化RL环境中训练模型完成数百万可验证任务，就能构建AGI。这种训练会培养出能连续数周处理开放任务、应对错误和歧义的问题解决技能。虽然模型训练时的样本效率仅为人类的百万分之一，但训练成本是一次性的，可摊销到数十亿次用户会话中；真正重要的是模型在单个会话内的智能和样本效率，而这随着RL训练正在提升。持续学习或许不再必要--如果上下文内的学习能力足够强、时间跨度足够长，就无需将经验蒸馏回权重。Transformer架构创新已能大幅扩展上下文存储，未来可能实现任意大的上下文窗口。论文还指出，一个领域不仅需要可验证性，还需要可碾压性--能在确定性、可重播的模拟器中并行运行大量rollout。",
+      "category": "tip",
+      "score": 61,
       "selected": true
     },
     {
@@ -1289,20 +1302,7 @@
       "category": "ai-products",
       "score": 56,
       "selected": true
-    },
-    {
-      "id": "cmqpepyo500j1sldkfj5exgj8",
-      "title": "开辟新赛道：小米 YU7 GT 创全球首个纽北自动驾驶圈速纪录，官方圈速榜新增\"自动驾驶\"分类",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/967/234.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqpepyo500j1sldkfj5exgj8",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-22T15:13:29.000Z",
-      "summary": "小米 YU7 GT（选配赛道专业套装）在纽博格林北环赛道以自动驾驶系统完成全程无人计时圈，成绩 10 分 29 秒 483，成为全球首个纽北自动驾驶圈速纪录。纽北官方圈速榜因此新增\"自动驾驶\"分类。小米汽车表示，在极限赛道中锤炼的动态模型、高频扭矩分配和毫秒级救车能力，将逐步下放至量产车，以提升用户在暴雨、冰雪等极端工况下的底盘与智驾安全。",
-      "category": "industry",
-      "score": 85,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-28T18:16:56Z"
+  "cachedAt": "2026-06-28T19:47:51Z"
 }
