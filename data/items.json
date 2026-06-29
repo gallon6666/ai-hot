@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMTQ0MDAwMDAwLCJpIjoiY21xcXdnZTRhMGU2dHNscDUwZjN0bGkyNyJ9",
+  "nextCursor": "eyJhIjoxNzgyMTQ0NzAxMDAwLCJpIjoiY21xcGV6MXV1MDAxZ3NscDVqNGgyM21paCJ9",
   "items": [
+    {
+      "id": "cmqykzeht02shslivflwhgdbx",
+      "title": "分享两个Vibe Coding必备的实用Prompt：第一性原理与对抗式审查",
+      "title_en": "分享2个Vibe Coding必备的超实用Prompt。",
+      "url": "https://mp.weixin.qq.com/s/umPqTD_-IubbhXIgiS47eQ",
+      "permalink": "https://aihot.virxact.com/items/cmqykzeht02shslivflwhgdbx",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-06-29T02:08:00.000Z",
+      "summary": "作者分享Vibe Coding中两个关键Prompt：一是\"从第一性原理出发\"，强制AI跳出类比推理，从基本事实重新推导本质，曾帮作者发现AIHOT抓取海外信源的底层流量路由隐患并彻底重构；二是\"对抗式审查\"，让AI站在恶意用户角度攻防式审查代码，检出OOM死循环、未来时间污染等手工难发现的BUG。两个Prompt形成生成与验证闭环，使纯Vibe Coding项目AIHOT最近一周请求量超千万次。",
+      "category": "tip",
+      "score": 70,
+      "selected": true
+    },
     {
       "id": "cmqy28vh30050slr1uzaev9nk",
       "title": "Artifacts 22：Zyphra、Cohere 和 Poolside 正在扩展生态系统广度",
@@ -1289,20 +1302,7 @@
       "category": "ai-products",
       "score": 75,
       "selected": true
-    },
-    {
-      "id": "cmqqwge4a0e6tslp50f3tli27",
-      "title": "Anthropic 推出 Claude Tag：在 Slack 中通过 @Claude 协作",
-      "title_en": "Introducing Claude Tag",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "permalink": "https://aihot.virxact.com/items/cmqqwge4a0e6tslp50f3tli27",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-06-22T16:00:00.000Z",
-      "summary": "Anthropic 推出 Claude Tag，一种在 Slack 频道中通过 @Claude 委托任务的新协作方式。Claude 可记住频道上下文，支持多用户交互，经授权后可自动学习其他频道和数据源。开启\"环境\"行为后，能主动更新未解决的线程或任务。支持异步工作，可自主推进项目数小时或数天。即日起面向 Claude Enterprise 和 Team 客户提供 beta 版。管理员可精细控制工具和渠道访问权限、设置 token 消耗限额，并查看所有操作日志。",
-      "category": "ai-products",
-      "score": 56,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-28T23:17:25Z"
+  "cachedAt": "2026-06-29T04:58:29Z"
 }
