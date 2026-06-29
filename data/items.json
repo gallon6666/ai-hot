@@ -1,8 +1,34 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMTcyOTYyMDAwLCJpIjoiY21xcTVuczZwMDZzY3NscDVkbG54bHV1eCJ9",
+  "nextCursor": "eyJhIjoxNzgyMTk0NjkwMDAwLCJpIjoiY21xcTh3dzBlMDdtNHNscDVtazVzbmwweiJ9",
   "items": [
+    {
+      "id": "cmqzjpce1006aslqvqo2kpjo6",
+      "title": "Claude 在 Microsoft Foundry 正式可用",
+      "title_en": "Claude in Microsoft Foundry is now generally available",
+      "url": "https://claude.com/blog/claude-in-microsoft-foundry",
+      "permalink": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-29T18:22:20.720Z",
+      "summary": "从今天起，Claude 模型在 Microsoft Foundry 上正式可用，托管于 Azure 环境，运行在 NVIDIA GB300 GPU 上。首批提供 Claude Opus 4.8 和 Claude Haiku 4.5，通过 Messages API 调用，支持提示缓存和扩展思考。用户可选择推理处理位置，包括美国数据区域，由 Anthropic 负责推理运营。Azure 用户可使用现有身份验证、计费与治理控制，并获得统一账单；符合条件的 Enterprise Agreement 客户可将 Claude 用量计入 Azure 承诺消费。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true
+    },
+    {
+      "id": "cmqzk693n002zslksfkrr5w2w",
+      "title": "Qwen 3.6 27B 是本地开发的理想选择",
+      "title_en": null,
+      "url": "https://quesma.com/blog/qwen-36-is-awesome",
+      "permalink": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-06-29T18:03:02.582Z",
+      "summary": "Qwen 3.6 27B 是一款密集参数本地大语言模型，原生支持 256k 上下文。在 Macbook Max M5 上运行 llama.cpp Q8_0 量化版（含多 token 预测）可达 30 tokens/s；用户反馈在 RTX 5090 上 Q6_K 量化可达 50 tokens/s。它可通过单个提示完成创意诗歌、用 pnpm 生成六边形扫雷游戏等任务，作者称其为首个真正具备通用智能的本地模型。另有一个 MoE 变体 35B A3B，但作者推荐 27B 版本。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmqzdby9m00o8sltjugcnx002",
       "title": "Anthropic工程师Margot Van Laar：提示词工程实战--调试生产提示词为主，评估是唯一严谨方式",
@@ -53,6 +79,19 @@
       "summary": "Meta公布Brain2Qwerty v2，这是非侵入式脑电信号解码研究的最新里程碑。基于当天发表在《Nature》的v1，v2是性能最高的端到端管道，能从原始脑信号实时解码句子。其从字符级性能提升至解码单词和语义，提高整体沟通准确性。该研究有望帮助数百万因脑损伤或疾病无法沟通的人群。",
       "category": "paper",
       "score": 79,
+      "selected": true
+    },
+    {
+      "id": "cmqzisfra009asl8hojqmr1k2",
+      "title": "从任何地点构建--Cursor for iOS 公测版发布",
+      "title_en": "Build from anywhere with Cursor for iOS",
+      "url": "https://cursor.com/blog/ios-mobile-app",
+      "permalink": "https://aihot.virxact.com/items/cmqzisfra009asl8hojqmr1k2",
+      "source": "Cursor Blog",
+      "publishedAt": "2026-06-29T12:00:00.000Z",
+      "summary": "Cursor 推出 iOS 原生公测版，所有付费计划可用。开发者可在手机上启动始终在线的云端智能体，或远程操控电脑端智能体。支持语音输入、斜杠命令和选择前沿模型。智能体运行后，锁屏 Live Activities 和推送通知实时更新状态，完成或需要输入时提醒。云端智能体在隔离虚拟机中运行，可自动迭代生成合并就绪的 PR，并输出演示、截图和日志。本地与云端智能体支持双向切换。移动端 Composer 2.5 享受 75% 折扣，优惠至 2026 年 7 月 5 日。",
+      "category": "ai-products",
+      "score": 75,
       "selected": true
     },
     {
@@ -1263,46 +1302,7 @@
       "category": "ai-models",
       "score": 73,
       "selected": true
-    },
-    {
-      "id": "cmqq876yf07gsslp5eix31xaq",
-      "title": "豆包音频生成模型1.0发布，重新定义AI音频创作",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/iL0uyUjOMUEfudeuDP6wQQ",
-      "permalink": "https://aihot.virxact.com/items/cmqq876yf07gsslp5eix31xaq",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-06-23T05:41:11.000Z",
-      "summary": "火山引擎正式发布豆包音频生成模型1.0（Doubao-Seed-Audio 1.0），支持文本与音频参考生成，端到端输出目标音频。单条Prompt可编排多角色对白、情绪语气、背景音乐及环境氛围，长时生成中保持多角色音色一致性，无需后期多轨混音。模型支持0样本多模态输入，无需额外训练即可生成；实现音色与风格解耦控制及\"一声多角\"能力。一次支持2分钟音频创作，多次延长保持音色统一。已开启火山方舟API邀测，个人用户享30分钟创作额度，即将上线剪映、即梦、番茄等产品。",
-      "category": "ai-models",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmqrjhuo40kszslp5qsjmxdy7",
-      "title": "Qwen-AgentWorld：面向通用智能体的语言世界模型",
-      "title_en": "Qwen-AgentWorld： Language World Models for General Agents",
-      "url": "https://qwen.ai/blog?id=qwen-agentworld",
-      "permalink": "https://aihot.virxact.com/items/cmqrjhuo40kszslp5qsjmxdy7",
-      "source": "Qwen：Blog Retrieval（API）",
-      "publishedAt": "2026-06-23T03:30:30.000Z",
-      "summary": "Qwen 团队发布 Qwen-AgentWorld，一个以环境建模为训练目标的原生语言世界模型，在单个模型中模拟 MCP、Search、Terminal、SWE 及 GUI 域（Web、OS、Android）共七个域。模型使用超 1000 万条真实交互轨迹训练，在 AgentWorldBench 上以 Qwen-AgentWorld-397B-A17B 版本达最高模拟质量，超越 GPT-5.4、Claude Opus 4.8 和 Gemini 3.1 Pro。同时发布评测基准 AgentWorldBench。该模型可作为解耦环境模拟器用于智能体 RL 训练，也可作为统一智能体基础模型，经 LWM 预热后无需智能体 RL 微调即可迁移。模型和基准已开源在 Hugging Face 和 ModelScope。",
-      "category": "ai-models",
-      "score": 81,
-      "selected": true
-    },
-    {
-      "id": "cmqq5ns6p06scslp5dlnxluux",
-      "title": "Seed2.1 正式发布，深入 AI 生产力",
-      "title_en": "Seed2.1 正式发布，深入 AI 生产力",
-      "url": "https://seed.bytedance.com/zh/blog/seed2-1-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83-%E6%B7%B1%E5%85%A5-ai-%E7%94%9F%E4%BA%A7%E5%8A%9B",
-      "permalink": "https://aihot.virxact.com/items/cmqq5ns6p06scslp5dlnxluux",
-      "source": "字节 Seed：Research Feed（网页内嵌数据）",
-      "publishedAt": "2026-06-23T00:02:42.000Z",
-      "summary": "字节Seed发布Seed2.1系列，面向真实生产力场景的智能体，强化通用Agent能力、代码工程交付与多模态理解。Seed2.1 Pro在GDPval基准获最高分，Agents' Last Exam位列参评模型第一梯队；MobileWorld手机GUI任务最高分，CreativeWork多环境任务表现突出。多模态在CharXiv-RQ等多项基准取得SOTA。代码能力上，Seed2.1 Pro在NL2Repo-Bench表现良好，开发者评测相比Claude Opus 4.6获59.1%胜率。模型已在豆包、TRAE上线，API通过火山方舟提供。",
-      "category": "ai-models",
-      "score": 64,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-29T17:47:26Z"
+  "cachedAt": "2026-06-29T20:14:21Z"
 }
