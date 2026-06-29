@@ -1,8 +1,60 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMTk0NjkwMDAwLCJpIjoiY21xcTh3dzBlMDdtNHNscDVtazVzbmwweiJ9",
+  "nextCursor": "eyJhIjoxNzgyMjIxNTQyNjEyLCJpIjoiY21xcXBrNnFyMGM3Y3NscDV0Z3dreTVuMCJ9",
   "items": [
+    {
+      "id": "cmqzq4so7002zslki45ad5xtq",
+      "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
+      "title_en": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
+      "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+      "permalink": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-29T21:22:33.048Z",
+      "summary": "Anthropic 今日推出 Claude apps gateway，一个自托管控制平面，让企业能在 Amazon Bedrock 和 Google Cloud 上运行 Claude Code。它作为单个无状态容器部署于 Linux，后端使用 PostgreSQL，提供企业级 SSO 登录（通过 OIDC 对接 Google Workspace、Microsoft Entra ID、Okta 等）、集中策略管理、角色权限、路由（支持故障转移）以及按日/周/月、按组织/群组/用户的消费上限。遥测数据通过 OTLP 发送至用户配置的收集器。gateway 不会向 Anthropic 发送推理流量或使用数据（除非配置使用 Claude API）。即日起可用。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true
+    },
+    {
+      "id": "cmqzqabkh0069slkildw65dhy",
+      "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
+      "title_en": "Most popular model on @OpenRouter （10tr tokens） turns out to be a 1.6tr MoE by @Meituan_LongCat （sup…",
+      "url": "https://x.com/EMostaque/status/2071701921241448574",
+      "permalink": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
+      "source": "X：Emad Mostaque (@EMostaque)",
+      "publishedAt": "2026-06-29T21:06:43.000Z",
+      "summary": "美团LongCat的1.6万亿参数MoE模型Owl Alpha成为OpenRouter上最流行模型，累计消耗10万亿tokens，性能达Gemini/Opus 4.6级别。该模型使用35万亿tokens训练，完全在5万块国产ASIC上完成。据官方推文，Owl Alpha上线后每日调用量全球Top3，在Hermes Agent排名#1，Claude Code排名#2，OpenClaw排名#3。该模型即将退役，后续版本待公布。",
+      "category": "ai-models",
+      "score": 79,
+      "selected": true
+    },
+    {
+      "id": "cmqzpe7kz003xslznxpw78tx5",
+      "title": "Rubin Ultra取消，新版尺寸性能减半",
+      "title_en": "INTERESTING： Only 3 months after Rubin Ultra was announced at GTC 2026， the original 4-die Rubin Ult…",
+      "url": "https://x.com/SemiAnalysis_/status/2071700428249596290",
+      "permalink": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "publishedAt": "2026-06-29T21:00:47.000Z",
+      "summary": "有意思：在GTC 2026宣布Rubin Ultra仅3个月后，原4-die Rubin Ultra因制造执行问题被取消。新的\"Rubin Ultra\"尺寸减半，实际性能约为原版的一半。1/4🧵",
+      "category": "industry",
+      "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmqzo4q2o005oslkhjl7jdtoc",
+      "title": "OpenClaw 发布原生 iOS 与 Android 应用",
+      "title_en": "OpenClaw is now on iOS + Android 🦞 📱 Native mobile apps， finally 💬 Agents in your pocket 🔔 Chan…",
+      "url": "https://x.com/openclaw/status/2071688039114342592",
+      "permalink": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
+      "source": "X：OpenClaw (@openclaw)",
+      "publishedAt": "2026-06-29T20:11:33.000Z",
+      "summary": "OpenClaw 现已登陆 iOS 和 Android 🦞\n\n📱 原生移动应用，终于来了\n💬 智能体装进口袋\n🔔 频道、任务、回复，随时处理\n\n用你的大拇指，在任何地方运行智能体。\n\niOS： https：//apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132\nAndroid： https：//play.google.com/store/apps/details？id=ai.openclaw.app",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true
+    },
     {
       "id": "cmqzjpce1006aslqvqo2kpjo6",
       "title": "Claude 在 Microsoft Foundry 正式可用",
@@ -196,6 +248,19 @@
       "summary": "作者分享Vibe Coding中两个关键Prompt：一是\"从第一性原理出发\"，强制AI跳出类比推理，从基本事实重新推导本质，曾帮作者发现AIHOT抓取海外信源的底层流量路由隐患并彻底重构；二是\"对抗式审查\"，让AI站在恶意用户角度攻防式审查代码，检出OOM死循环、未来时间污染等手工难发现的BUG。两个Prompt形成生成与验证闭环，使纯Vibe Coding项目AIHOT最近一周请求量超千万次。",
       "category": "tip",
       "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmqzoeyal000psl42yjcez2oc",
+      "title": "Anthropic：当AI成本超过工程师薪酬",
+      "title_en": "When AI Costs More Than the Engineer",
+      "url": "https://www.tomtunguz.com/ai-spend-breakeven-2029",
+      "permalink": "https://aihot.virxact.com/items/cmqzoeyal000psl42yjcez2oc",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-06-29T00:00:00.000Z",
+      "summary": "Anthropic在算力上的支出达到每位工程师每年51.5万美元，是其完全薪资（22.4万美元）的2.3倍。相比之下，顶尖1%软件公司的算力支出为8.9万美元，中位数仅为1.37万美元。三个2029年情景预测了这一差距的缩小路径。",
+      "category": "tip",
+      "score": 58,
       "selected": true
     },
     {
@@ -1237,72 +1302,7 @@
       "category": "ai-products",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmqqo96e30bv9slp5ds265bki",
-      "title": "IBM 开源 CUGA：轻量级智能体框架，提供二十余个单文件示例应用",
-      "title_en": "Build real agentic apps using CUGA： two dozen working examples on a lightweight harness",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "permalink": "https://aihot.virxact.com/items/cmqqo96e30bv9slp5ds265bki",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-23T12:51:55.000Z",
-      "summary": "IBM 开源了 CUGA（Configurable Generalist Agent），一个处理规划、执行循环、工具调用和状态管理的轻量级智能体框架。开发者只需提供工具列表和提示词即可构建 CugaAgent。内置计划-执行-反思循环，在 AppWorld（2025年7月-2026年2月）和 WebArena（2025年2月-9月）基准上排名第一。支持 Fast / Balanced / Accurate 三种推理模式，代码执行可在本地、Docker 或 E2B 沙箱中运行。可互换工具支持 OpenAPI、MCP 和 LangChain 函数，通过环境变量一键切换 OpenAI、watsonx、Ollama 等提供商。随框架发布二十余个单文件示例应用，涵盖电影推荐、IBM Cloud 架构顾问等场景，每个应用仅需一个 FastAPI 文件。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmqqjmnoj0af8slp5kb7ky21w",
-      "title": "网易有道发布 Confucius4-TTS：14 语种跨语种无口音语音克隆开源模型",
-      "title_en": "网易发布 Confucius4-TTS：业内首个支持 14 种语言跨语种无口音、且无需参考文本即可完成语音克隆的开源模型，3 秒音频即可克隆音色",
-      "url": "https://www.ithome.com/0/967/636.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqqjmnoj0af8slp5kb7ky21w",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-23T11:00:00.000Z",
-      "summary": "网易有道推出\"子曰 4.0\"TTS 引擎 Confucius4-TTS，声称是业内首个支持 14 种语言跨语种无口音、且无需参考文本即可完成语音克隆的开源模型。用户仅需 3 秒音频即可实现零样本音色克隆，克隆音色与原声相似度超 85%，任务准确度达 97%。模型支持中文、英语等 14 种语言，首创音频 Prompt 情感克隆迁移。底层采用 GPT 式语义大模型、SSL 预训练特征与 ECAPA-TDNN 说话人编码器、Flow Matching 框架。已全量开源（Apache 协议），提供 54GB 资源包供本地部署。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqqjmqyn0afsslp5fgdp81yv",
-      "title": "国内首个高考志愿AI测评出炉，千问多项表现超过资深咨询师",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/oGHVP4MgGS1rbmT8s8St8Q",
-      "permalink": "https://aihot.virxact.com/items/cmqqjmqyn0afsslp5fgdp81yv",
-      "source": "公众号：千问APP（阿里）",
-      "publishedAt": "2026-06-23T10:54:49.000Z",
-      "summary": "友松实验室发布国内首个高考志愿AI能力测评报告，测试千问高考志愿填报Agent四大模块。与53位平均从业4.6年的人类咨询师对照，千问表现更稳定精确：44道事实题全对；模拟10个志愿中6个可录取；100场匿名对比中专家58次倾向千问回答。使用千问辅助后，人类咨询师正确率提升，耗时减少约27%。该Agent基于千问高考志愿大模型和夸克8年高考数据，覆盖约3000所院校、2000多个专业。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true
-    },
-    {
-      "id": "cmqqdbcno08taslp5yd9dbxjt",
-      "title": "五眼联盟警告：AI网络威胁数月内将影响普通用户",
-      "title_en": "Top spy agencies say AI cyber threats will impact you within months. Here's why",
-      "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats",
-      "permalink": "https://aihot.virxact.com/items/cmqqdbcno08taslp5yd9dbxjt",
-      "source": "Artificial Intelligence News（RSS）",
-      "publishedAt": "2026-06-23T08:00:00.000Z",
-      "summary": "2026年6月22日，五眼联盟（美、英、加、澳、新）网络安全部门联合警告，即将到来的AI模型（如OpenAI的GPT-5.5-Cyber、Anthropic的Mythos）将降低编写复杂攻击代码的门槛。自动化智能体可全天候扫描互联网漏洞，大幅缩短安全窗口期。AI驱动的超个性化钓鱼诈骗已在亚太蔓延，印度2026年初勒索软件事件激增165%。五眼联盟建议企业部署自动化防御AI，个人用户开启多因素认证、删除闲置账户。",
-      "category": "industry",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmqq8ww0e07m4slp5mk5snl0z",
-      "title": "京东全栈开源JoyAI-VL-Interaction，从\"一问一答\"走向\"边看边说\"",
-      "title_en": "京东全栈开源JoyAI-VL-Interaction，让大模型从\"一问一答\"走向\"边看边说\"",
-      "url": "https://mp.weixin.qq.com/s/IY6XGp4k6VgD9ZPH6YprCA",
-      "permalink": "https://aihot.virxact.com/items/cmqq8ww0e07m4slp5mk5snl0z",
-      "source": "公众号：京东JoyAI",
-      "publishedAt": "2026-06-23T06:04:50.000Z",
-      "summary": "京东近日开源全球首个全栈交互模型JoyAI-VL-Interaction，获vLLM-Omni原生支持。该模型能持续观察视频流、主动判断关键事件并实时响应，支持将复杂任务委托后台Agent处理。在58个真人盲评中，对比豆包视频通话助手胜率77.6%，对比Gemini视频通话助手胜率87.9%，监控预警场景达100%胜率。开源内容包括模型权重、交互数据集、训练方案及完整可部署系统，支持摄像头、直播流等视频输入及语音交互、长期记忆、vLLM部署，适用于安防监控、老人看护、直播讲解等实时场景。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-29T20:14:21Z"
+  "cachedAt": "2026-06-29T21:44:04Z"
 }
