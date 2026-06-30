@@ -1,8 +1,47 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMjU5MjAwMDAwLCJpIjoiY21xc3hnMHFlMDc2NHNsZnVpNWRqdGZ5eCJ9",
+  "nextCursor": "eyJhIjoxNzgyMjg1NjcwMDAwLCJpIjoiY21xcnJnbmF5MG4wOHNscDVwaHZkazM5NCJ9",
   "items": [
+    {
+      "id": "cmr0v1pn7009kslatrt4gncmj",
+      "title": "Claude Desktop 推出 Linux 公测版",
+      "title_en": "Claude Desktop is now available on Linux （Ubuntu and Debian） in beta. Alongside the browser and ter…",
+      "url": "https://x.com/ClaudeDevs/status/2071988881717871065",
+      "permalink": "https://aihot.virxact.com/items/cmr0v1pn7009kslatrt4gncmj",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-06-30T16:06:59.000Z",
+      "summary": "Claude Desktop 现已在 Linux（Ubuntu 和 Debian）上推出测试版。\n\n除了浏览器和终端，你现在可以在所有付费计划中获得一流的桌面体验，包括 Claude Code、Claude Cowork 和聊天。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true
+    },
+    {
+      "id": "cmr0ucc880030slatw1gfkq2h",
+      "title": "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash",
+      "title_en": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash",
+      "permalink": "https://aihot.virxact.com/items/cmr0ucc880030slatw1gfkq2h",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-06-30T16:02:40.000Z",
+      "summary": "Google DeepMind 推出 Nano Banana 2 Lite（gemini-3.1-flash-lite-image），为 Nano Banana 系列速度最快、成本最低的图像模型，文本到图像输出仅需 4 秒，每 1K 分辨率图像成本 $0.034，已上线 Google AI Studio、Gemini API 及消费者产品（AI Mode in Search、Gemini app 等）。同时推出 Gemini Omni Flash（gemini-omni-flash-preview），支持高画质视频生成与对话式编辑，视频输出定价 $0.10/秒，面向开发者开放 API。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmr0vkch300f5slate2n251dm",
+      "title": "Grant Sanderson 谈 AI 与数学的未来",
+      "title_en": "Grant Sanderson - AI and the future of math",
+      "url": "https://www.dwarkesh.com/p/grant-sanderson-2",
+      "permalink": "https://aihot.virxact.com/items/cmr0vkch300f5slate2n251dm",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-06-30T15:53:19.000Z",
+      "summary": "3Blue1Brown 创办人 Grant Sanderson 正在制作记录 AI 在数学领域进展的新项目。他在与 Dwarkesh Patel 的对谈中指出，AI 在 IMO 获金牌并不等于 AGI，只是又一个被攻克的基准。即使 AI 未来解决千禧年大奖难题，仍可能存在大量人类任务无法被自动化。对话还探讨了概念突破验证周期可长达一个世纪、Riemann 假设的 AI 证明能否被人类理解、AI 能否在已有文献间发现隐藏联系，以及现实经济任务难以套用强化学习环境等话题。",
+      "category": "tip",
+      "score": 61,
+      "selected": true
+    },
     {
       "id": "cmr0kov5302qnslolcwg00yqd",
       "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
@@ -14,6 +53,19 @@
       "summary": "Meta通过承包商Covelen发起代号\"Cannes\"的项目，雇佣数百人假扮未成年人，向ChatGPT、Gemini和Character.AI发送关于自杀、自残、饮食障碍和毒品的敏感提示，并将回复录入表格。2025年8月一轮测试中发送了超过4.5万条提示。Meta称这是行业标准安全测试，未将数据用于训练自家模型。被测试公司不知情--Character.AI表示违反其服务条款，OpenAI已调查，Google称未批准。青少年使用AI聊天机器人引发的担忧持续，此前已有用户自杀事件。",
       "category": "industry",
       "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmr0uio0g003vslatqnaiw1pu",
+      "title": "OpenAI Signals 数据揭示 ChatGPT 全球采用趋势",
+      "title_en": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "permalink": "https://aihot.virxact.com/items/cmr0uio0g003vslatqnaiw1pu",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-30T09:00:00.000Z",
+      "summary": "OpenAI Signals 数据显示，用户注册六个月后日均消息量增加50%，尝试任务种类翻倍。自2023年7月以来，各大洲活跃用户均大幅增长，非洲和亚洲增速最快，低人类发展指数国家增长尤为显著。用户群体更加多元化，女性名字用户已占全球多数，巴西、哥伦比亚、波兰和纳米比亚等国女性用户显著多于男性。非英语用户占活跃用户半数以上，领先语言为西班牙语、葡萄牙语和阿拉伯语；乌兹别克语、哈萨克语和缅甸语用户占比增长百分比最大。",
+      "category": "tip",
+      "score": 62,
       "selected": true
     },
     {
@@ -121,16 +173,16 @@
       "selected": true
     },
     {
-      "id": "cmqzq4so7002zslki45ad5xtq",
-      "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
-      "title_en": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
-      "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
-      "permalink": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-29T21:22:33.048Z",
-      "summary": "Anthropic 今日推出 Claude apps gateway，一个自托管控制平面，让企业能在 Amazon Bedrock 和 Google Cloud 上运行 Claude Code。它作为单个无状态容器部署于 Linux，后端使用 PostgreSQL，提供企业级 SSO 登录（通过 OIDC 对接 Google Workspace、Microsoft Entra ID、Okta 等）、集中策略管理、角色权限、路由（支持故障转移）以及按日/周/月、按组织/群组/用户的消费上限。遥测数据通过 OTLP 发送至用户配置的收集器。gateway 不会向 Anthropic 发送推理流量或使用数据（除非配置使用 Claude API）。即日起可用。",
-      "category": "ai-products",
-      "score": 66,
+      "id": "cmr0wblyn0050sl40bngva2bq",
+      "title": "OpenAI 发布 GeneBench-Pro：计算生物学研究级基准测试",
+      "title_en": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "permalink": "https://aihot.virxact.com/items/cmr0wblyn0050sl40bngva2bq",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "summary": "OpenAI 发布 GeneBench-Pro，用于评估 AI 智能体在计算生物学中处理模糊性和做出判断性分析的能力。该基准包含 129 个问题，覆盖统计遗传学、群体遗传学等 10 个领域 21 个子领域。每个问题提供真实混乱的数据集和实验背景，要求模型探索数据、选择分析路径并迭代实验。采用合成数据构建，已知完整因果结构。82 个问题已由外部领域专家审核确认其现实性。",
+      "category": "paper",
+      "score": 70,
       "selected": true
     },
     {
@@ -157,19 +209,6 @@
       "summary": "OpenClaw 现已登陆 iOS 和 Android 🦞\n\n📱 原生移动应用，终于来了\n💬 智能体装进口袋\n🔔 频道、任务、回复，随时处理\n\n用你的大拇指，在任何地方运行智能体。\n\niOS： https：//apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132\nAndroid： https：//play.google.com/store/apps/details？id=ai.openclaw.app",
       "category": "ai-products",
       "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmqzjpce1006aslqvqo2kpjo6",
-      "title": "Claude 在 Microsoft Foundry 正式可用",
-      "title_en": "Claude in Microsoft Foundry is now generally available",
-      "url": "https://claude.com/blog/claude-in-microsoft-foundry",
-      "permalink": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-29T18:22:20.720Z",
-      "summary": "从今天起，Claude 模型在 Microsoft Foundry 上正式可用，托管于 Azure 环境，运行在 NVIDIA GB300 GPU 上。首批提供 Claude Opus 4.8 和 Claude Haiku 4.5，通过 Messages API 调用，支持提示缓存和扩展思考。用户可选择推理处理位置，包括美国数据区域，由 Anthropic 负责推理运营。Azure 用户可使用现有身份验证、计费与治理控制，并获得统一账单；符合条件的 Enterprise Agreement 客户可将 Claude 用量计入 Azure 承诺消费。",
-      "category": "ai-products",
-      "score": 64,
       "selected": true
     },
     {
@@ -404,6 +443,32 @@
       "summary": "Wayfinder Router 通过分析提示词的结构（长度、标题、列表、代码）和措辞（证明、数学、硬约束），在微秒级完成路由决策，完全离线且无需调用其他模型。默认仅使用结构特征，词汇线索因盲测未泛化而默认为关闭。对比依赖模型调用的路由器（如 RouteLLM、NotDiamond），它避免了延迟、成本和随机性。用户可在自有数据上校准评分阈值。支持任何 OpenAI 兼容 API（含 Ollama、Anthropic、Groq、vLLM 等），可自托管。提供终端和网页演示（--dry-run 无需密钥），以及基准测试和 FAQ。",
       "category": "ai-products",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmqzq4so7002zslki45ad5xtq",
+      "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
+      "title_en": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
+      "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+      "permalink": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-28T16:00:00.000Z",
+      "summary": "Anthropic 今日推出 Claude apps gateway，一个自托管控制平面，让企业能在 Amazon Bedrock 和 Google Cloud 上运行 Claude Code。它作为单个无状态容器部署于 Linux，后端使用 PostgreSQL，提供企业级 SSO 登录（通过 OIDC 对接 Google Workspace、Microsoft Entra ID、Okta 等）、集中策略管理、角色权限、路由（支持故障转移）以及按日/周/月、按组织/群组/用户的消费上限。遥测数据通过 OTLP 发送至用户配置的收集器。gateway 不会向 Anthropic 发送推理流量或使用数据（除非配置使用 Claude API）。即日起可用。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true
+    },
+    {
+      "id": "cmqzjpce1006aslqvqo2kpjo6",
+      "title": "Claude 在 Microsoft Foundry 正式可用",
+      "title_en": "Claude in Microsoft Foundry is now generally available",
+      "url": "https://claude.com/blog/claude-in-microsoft-foundry",
+      "permalink": "https://aihot.virxact.com/items/cmqzjpce1006aslqvqo2kpjo6",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-28T16:00:00.000Z",
+      "summary": "从今天起，Claude 模型在 Microsoft Foundry 上正式可用，托管于 Azure 环境，运行在 NVIDIA GB300 GPU 上。首批提供 Claude Opus 4.8 和 Claude Haiku 4.5，通过 Messages API 调用，支持提示缓存和扩展思考。用户可选择推理处理位置，包括美国数据区域，由 Anthropic 负责推理运营。Azure 用户可使用现有身份验证、计费与治理控制，并获得统一账单；符合条件的 Enterprise Agreement 客户可将 Claude 用量计入 Azure 承诺消费。",
+      "category": "ai-products",
+      "score": 64,
       "selected": true
     },
     {
@@ -1237,72 +1302,7 @@
       "category": "paper",
       "score": 74,
       "selected": true
-    },
-    {
-      "id": "cmqrqhlvx0mr7slp5atv7dptr",
-      "title": "MiniCPM-V 4.6 在 Apple Core AI 上高速运行",
-      "title_en": "🥳Thanks for sharing this， @MLBoy_DaisukeMajima 🚀 MiniCPM-V 4.6 running at this speed on-device is …",
-      "url": "https://x.com/OpenBMB/status/2069676334381728106",
-      "permalink": "https://aihot.virxact.com/items/cmqrqhlvx0mr7slp5atv7dptr",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "publishedAt": "2026-06-24T06:57:45.000Z",
-      "summary": "🥳感谢分享，@MLBoy_DaisukeMajima 🚀\nMiniCPM-V 4.6 在设备上以这样的速度运行，实在令人印象深刻--尤其是在 Apple Core AI 上以不到 2B 参数跑出。\n干得漂亮，推动高效多模态 AI 向前发展。🫡",
-      "category": "tip",
-      "score": 65,
-      "selected": true
-    },
-    {
-      "id": "cmqs319vw0qkcslp52gzwr77q",
-      "title": "OpenAI 与 Broadcom 联合发布 LLM 推理芯片 Jalapeño",
-      "title_en": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "permalink": "https://aihot.virxact.com/items/cmqs319vw0qkcslp52gzwr77q",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-24T06:00:00.000Z",
-      "summary": "OpenAI 与 Broadcom 发布首款自研推理加速器 Jalapeño，专为当前及未来 LLM 从头设计。早期测试显示，其性能功耗比大幅优于现有 SOTA。工程样片已在实验室以目标频率和功耗运行 GPT-5.3-Codex-Spark 等负载。芯片从设计到流片仅用 9 个月，并利用 OpenAI 模型加速部分流程。OpenAI 计划从 2026 年起与 Microsoft 等合作伙伴部署千兆瓦级数据中心，推出多代计算平台。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true
-    },
-    {
-      "id": "cmqrl73460l9gslp5w33pryqi",
-      "title": "OpenAI ChatGPT 语音最大规模升级：双向AI语音模型 Bidi 1 已上线测试",
-      "title_en": "OpenAI ChatGPT 语音最大规模升级：双向 AI 语音模型 Bidi 1 已上线测试",
-      "url": "https://www.ithome.com/0/967/852.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqrl73460l9gslp5w33pryqi",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-24T04:34:24.000Z",
-      "summary": "6月23日，部分用户反馈 ChatGPT 网页版和 App 版上线了双向 AI 语音模型 Bidi 1，位于设置模型选择器中，与标准语音和高级语音并列。该模型支持边说话边监听，用户可在对话中途打断并发出新指令，例如要求从1数到10时中途喊停倒数，模型会立即切换执行。OpenAI 尚未官宣，预计本周启动更大范围测试。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true
-    },
-    {
-      "id": "cmqrdmylf0iyeslp50lteppvq",
-      "title": "今天，豆包正式推出专业版",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/Sb-NMXTrWFQES1EDO_Gr2g",
-      "permalink": "https://aihot.virxact.com/items/cmqrdmylf0iyeslp50lteppvq",
-      "source": "公众号：豆包（字节）",
-      "publishedAt": "2026-06-24T01:00:00.000Z",
-      "summary": "豆包专业版基于豆包2.1系列大模型上线，面向复杂办公与生产力场景。办公任务模式接入可执行Agent任务的豆包2.1模型，支持操作本地电脑、浏览器、调用Skills技能、定时任务，内置Office办公套件，并可生成带后端数据库的在线应用。免费用户可体验豆包2.1 Turbo版办公任务模式，专业版接入豆包2.1 Pro模型。定价：标准套餐68元/月（连续包月），加强套餐200元/月，高级套餐500元/月。大学生认证后标准套餐38元/月，持续6个月。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true
-    },
-    {
-      "id": "cmqsxg0qe0764slfui5djtfyx",
-      "title": "Causal-rCM：自回归视频扩散蒸馏的统一教师强制与自强制开源方案",
-      "title_en": "Causal-rCM： A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models",
-      "url": "https://arxiv.org/abs/2606.25473",
-      "permalink": "https://aihot.virxact.com/items/cmqsxg0qe0764slfui5djtfyx",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-24T00:00:00.000Z",
-      "summary": "Causal-rCM将扩散蒸馏框架rCM扩展至自回归视频扩散，提出教师强制（TF）与自强制（SF）互补训练范式，并发布统一开源算法与基础设施。通过自定义掩码FlashAttention-2 JVP内核，首次实现基于教师强制的连续时间一致性模型（sCM/MeanFlow）用于自回归视频扩散，收敛速度比离散时间版本快10倍。蒸馏后的2步因果Wan2.1-1.3B模型在仅1或2步采样下取得VBench-T2V分数84.63，仅使用合成数据即达到帧级和块级流式视频生成SOTA。该方法还应用于Cosmos 3全模态世界基础模型，实现动作条件生成的交互式世界模型。",
-      "category": "paper",
-      "score": 70,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-30T14:42:46Z"
+  "cachedAt": "2026-06-30T17:14:55Z"
 }
