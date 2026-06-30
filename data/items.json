@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMzE2ODEzMDAwLCJpIjoiY21xczl5amN5MDE4N3NsZnVwbmhpcHZoZiJ9",
+  "nextCursor": "eyJhIjoxNzgyMzE4NjAxMDAwLCJpIjoiY21xc2J0aHA2MDFwM3NsZnVhamF5YzRnciJ9",
   "items": [
+    {
+      "id": "cmr12g90k00zlsldxyyr0fmt3",
+      "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
+      "title_en": "There seems to be a *lot* of discourse about our new Short Video Overviews. Want to join in on the f…",
+      "url": "https://x.com/NotebookLM/status/2072043680442245276",
+      "permalink": "https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3",
+      "source": "X：NotebookLM (@NotebookLM)",
+      "publishedAt": "2026-06-30T19:44:44.000Z",
+      "summary": "NotebookLM 正式向 Web 英文用户全量推出 Short Video Overviews（短视频概览）功能。该功能可将复杂资料自动转化为 60 秒竖屏视频，深入讲解任意概念。此前，这一功能已面向 Google AI Ultra 和 Pro 订阅者（移动端及 Web）推出，免费用户即将可用。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true
+    },
     {
       "id": "cmr0yev3s005cslw8omm20ml6",
       "title": "Claude Sonnet 5 发布",
@@ -1289,20 +1302,7 @@
       "category": "ai-products",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmqs9yjcy0187slfupnhipvhf",
-      "title": "NVIDIA NeMo AutoModel：一行代码加速Transformer MoE模型微调",
-      "title_en": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "permalink": "https://aihot.virxact.com/items/cmqs9yjcy0187slfupnhipvhf",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-24T16:00:13.000Z",
-      "summary": "NVIDIA NeMo AutoModel 是基于 Transformers v5 的开源库，添加 Expert Parallelism、DeepEP 融合 all-to-all 调度和 TransformerEngine 内核。在 MoE 模型微调中，相比原生 v5，训练吞吐量提升 3.4-3.7 倍，GPU 内存减少 29-32%，仅需改动一行 import。在 16 节点 128 张 H100 上全微调 Nemotron 3 Ultra 550B A55B 时，v5 因内存不足无法运行，而 AutoModel 凭借 EP=64 专家并行使训练可行。单节点 30B MoE 模型（如 Qwen3-30B-A3B）同样获得可量化的性能优势。",
-      "category": "tip",
-      "score": 66,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-30T19:05:39Z"
+  "cachedAt": "2026-06-30T21:03:57Z"
 }
