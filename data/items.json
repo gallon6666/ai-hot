@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMjU5MjAwMDAwLCJpIjoiY21xczl5amN5MDE4OHNsZnU3Y2Y4b2xkNyJ9",
+  "nextCursor": "eyJhIjoxNzgyMjU5MjAwMDAwLCJpIjoiY21xc3hnMHFlMDc2NHNsZnVpNWRqdGZ5eCJ9",
   "items": [
+    {
+      "id": "cmr0kov5302qnslolcwg00yqd",
+      "title": "Meta秘密测试ChatGPT等竞品：承包商假扮未成年发送数万条危机提示",
+      "title_en": "Meta secretly tested ChatGPT， Gemini， and Character.AI with thousands of minor-perspective crisis prompts",
+      "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts",
+      "permalink": "https://aihot.virxact.com/items/cmr0kov5302qnslolcwg00yqd",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-06-30T11:14:52.000Z",
+      "summary": "Meta通过承包商Covelen发起代号\"Cannes\"的项目，雇佣数百人假扮未成年人，向ChatGPT、Gemini和Character.AI发送关于自杀、自残、饮食障碍和毒品的敏感提示，并将回复录入表格。2025年8月一轮测试中发送了超过4.5万条提示。Meta称这是行业标准安全测试，未将数据用于训练自家模型。被测试公司不知情--Character.AI表示违反其服务条款，OpenAI已调查，Google称未批准。青少年使用AI聊天机器人引发的担忧持续，此前已有用户自杀事件。",
+      "category": "industry",
+      "score": 70,
+      "selected": true
+    },
     {
       "id": "cmr0czddc00pyslole7byaugu",
       "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
@@ -1289,20 +1302,7 @@
       "category": "paper",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmqs9yjcy0188slfu7cf8old7",
-      "title": "FFASR 排行榜发布：真实远场条件下 ASR 评测",
-      "title_en": "Introducing the FFASR Leaderboard： Benchmarking ASR in the Real World",
-      "url": "https://huggingface.co/blog/ffasr-leaderboard",
-      "permalink": "https://aihot.virxact.com/items/cmqs9yjcy0188slfu7cf8old7",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-24T00:00:00.000Z",
-      "summary": "Treble Technologies 与 Hugging Face 联合推出 FFASR（Far-Field ASR）排行榜，这是首个开源社区驱动的真实远场声学条件 ASR 评测基准。传统近场评测无法反映混响、背景噪声和麦克风距离带来的性能下降。FFASR 使用混合波模拟引擎生成声学数据，涵盖 14 种房间（20-470 m3）和三个信噪比级别（远场高 SNR >14 dB、中 SNR 8-12 dB、低 SNR <6 dB），加上近场干燥条件，共四类条件决定主排名。另有实验室实测/模拟验证轨道和移动声源 beta 版。性能指标同时报告词错误率（WER）和实时因子（RTFx，在 NVIDIA L4 GPU 上评估）。未来将支持多说话人场景、麦克风阵列和回声消除。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-06-30T08:38:38Z"
+  "cachedAt": "2026-06-30T11:50:06Z"
 }
