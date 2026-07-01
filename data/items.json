@@ -1,8 +1,34 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMzQ1NjAwMDAwLCJpIjoiY21xdGt1c2NyMDRnOHNsMGVvcXp3a2RtNyJ9",
+  "nextCursor": "eyJhIjoxNzgyMzU2ODY4OTQyLCJpIjoiY21xc3kxdnMxMDdjNXNsZnU0Zm1rc2p6ZCJ9",
   "items": [
+    {
+      "id": "cmr259c3104wjsl8z81g6p5op",
+      "title": "Meta效仿SpaceX，将过剩AI算力变现",
+      "title_en": "Meta， like SpaceX， looks to turn excess AI compute into cash",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
+      "permalink": "https://aihot.virxact.com/items/cmr259c3104wjsl8z81g6p5op",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-01T13:43:07.000Z",
+      "summary": "据Bloomberg报道，Meta正计划推出云基础设施业务Meta Compute，对外出售AI计算能力和模型访问权限，直接与AWS、Google Cloud及Azure竞争。Meta已承诺未来几年投入1829亿美元建设AI基础设施，其中俄亥俄州数据中心（规模如曼哈顿）将于今年上线。新业务由基础设施主管Santosh Janardhan、Meta超级智能实验室负责人Daniel Gross和总裁Dina Powell McCormick领导。Meta可能效仿CoreWeave出售裸计算能力，并像AWS一样托管AI模型（包括近期发布的闭源模型Muse Spark）。扎克伯格此前已表示云业务\"definitely on the table\"。",
+      "category": "industry",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmr25x2x2051tsl8ze3nntrkd",
+      "title": "Cloudflare 推出全新AI流量管理选项：区分搜索、智能体与训练爬虫，保护广告页面",
+      "title_en": "Your site， your rules： new AI traffic options for all customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
+      "permalink": "https://aihot.virxact.com/items/cmr25x2x2051tsl8ze3nntrkd",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-07-01T13:00:00.000Z",
+      "summary": "Cloudflare 为所有网站所有者提供更精细的AI流量管控选项，取代一刀切的屏蔽方式。用户可轻松区分并管理搜索爬虫、AI智能体爬虫和训练爬虫，同时新增保护广告变现页面的能力。",
+      "category": "ai-products",
+      "score": 58,
+      "selected": true
+    },
     {
       "id": "cmr1wzzsm02uosl8zop6s0sly",
       "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
@@ -1276,33 +1302,7 @@
       "category": "industry",
       "score": 75,
       "selected": true
-    },
-    {
-      "id": "cmqta6kw701sasl0es975w0zc",
-      "title": "OpenAI内部报告：智能体Codex如何改变工作",
-      "title_en": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "permalink": "https://aihot.virxact.com/items/cmqta6kw701sasl0es975w0zc",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-25T02:00:00.000Z",
-      "summary": "OpenAI 在2025年8月至2026年6月间观察到，智能体产品 Codex 取代 ChatGPT 成为主要工作工具，各部门输出 token 中 Codex 占比从不足10%升至99.8%。80.6%个体用户曾发起预计等效人类工作时间超30分钟的请求，70.2%超1小时，25.6%超8小时；99百分位用户每日生成超60小时 agent turns。非开发者用户增长迅猛：个体用户增长137倍，组织用户增长189倍。Legal、Finance、Recruiting 部门在2026年4月前后跨过 Codex 使用过半拐点，平均每位律师或招聘人员超85%输出 token 来自 Codex。",
-      "category": "paper",
-      "score": 65,
-      "selected": true
-    },
-    {
-      "id": "cmqtkuscr04g8sl0eoqzwkdm7",
-      "title": "OpenRouter MCP 服务器发布",
-      "title_en": "The OpenRouter MCP Server",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-mcp-server",
-      "permalink": "https://aihot.virxact.com/items/cmqtkuscr04g8sl0eoqzwkdm7",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-06-25T00:00:00.000Z",
-      "summary": "OpenRouter 推出 MCP 服务器，为编程智能体提供实时模型数据、基准排名、定价和文档查询。开发者通过一键安装（支持 Claude Code、Codex CLI、Cursor 等客户端），即可在编辑器内完成模型筛选、价格对比和测试推理，无需切换标签页。服务器整合 Artificial Analysis、Design Arena 及 OpenRouter 自身排名数据，例如推荐 GLM-5.2 作为性价比最佳的编码模型。工具集包括 models-list、model-get、model-endpoints、benchmarks 等，支持通过 chat-send 发送测试提示，比较不同模型（如 Claude Opus 4.8、GPT-5.5、DeepSeek V4 Pro）的响应、成本和延迟。API 密钥附带 7 天有效期和 10 美元消费上限，可随时撤销。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-01T12:46:35Z"
+  "cachedAt": "2026-07-01T15:49:10Z"
 }
