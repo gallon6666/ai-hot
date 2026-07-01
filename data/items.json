@@ -1,8 +1,47 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMzI0MDIxMDAwLCJpIjoiY21xc2VmOWMzMDJmMHNsZnU2bHZ1aG51NyJ9",
+  "nextCursor": "eyJhIjoxNzgyMzM0NTE5Nzk5LCJpIjoiY21xc2p5ZHl5MDNzMnNsZnUwYWtlaDg2OCJ9",
   "items": [
+    {
+      "id": "cmr1js18u03imslnld2yrjboo",
+      "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
+      "title_en": "美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型",
+      "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
+      "permalink": "https://aihot.virxact.com/items/cmr1js18u03imslnld2yrjboo",
+      "source": "公众号：龙猫LongCat（美团）",
+      "publishedAt": "2026-07-01T02:24:00.000Z",
+      "summary": "美团于6月30日发布新一代万亿参数大模型LongCat-2.0并开源。总参数1.6T，平均激活约48B，原生支持1M超长上下文，在五万卡国产算力集群上完成全流程训练与推理。采用LSA稀疏注意力、零计算专家、ScMoE及MOPD多专家融合（Agent/Reasoning/Interaction三组专家）架构。评测中SWE-bench Pro获59.5，SWE-bench Multilingual获77.3。预览版已通过OpenRouter和longcat.ai开放，月调用量跻身OpenRouter全球前三。",
+      "category": "ai-models",
+      "score": 82,
+      "selected": true
+    },
+    {
+      "id": "cmr1eiq770260slnlxguii7jy",
+      "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
+      "title_en": "/writing-great-skills https：//github.com/mattpocock/skills/tree/main/skills/productivity/writing-gre…",
+      "url": "https://x.com/shao__meng/status/2072126769986220157",
+      "permalink": "https://aihot.virxact.com/items/cmr1eiq770260slnlxguii7jy",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-01T01:14:54.000Z",
+      "summary": "mattpocockuk 的 /writing-great-skills 成为其最常调用的 Skill，指导如何编写稳定可预测的 AI Skill。核心：以过程可预测为目标；区分 model-invoked（自动触发）与 user-invoked（用户调用），description 应作触发器；采用三层信息结构（主步骤、参考、外部文件）实现渐进式披露；每步骤需明确完成标准；拆分 Skill 是为了控制模型注意力；利用 leading word 压缩行为要求。同时诊断五种失败模式：Premature completion、Duplication、Sediment、Sprawl、No-op，并提供 No-op 测试作为判断句子是否有效的标准。",
+      "category": "tip",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmr1bxokg01eoslnlem278yfq",
+      "title": "Anthropic在Claude Code中植入隐写术代码识别中国用户",
+      "title_en": "Anthropic偷偷在Claude Code中植入了隐形代码，只为识别中国用户。",
+      "url": "https://mp.weixin.qq.com/s/yLb4T2UC16ebKHApdBbgWw",
+      "permalink": "https://aihot.virxact.com/items/cmr1bxokg01eoslnlem278yfq",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-07-01T00:11:00.000Z",
+      "summary": "Anthropic在Claude Code中植入隐写术：读取本地时区（Asia/Shanghai或Asia/Urumqi）和ANTHROPIC_BASE_URL环境变量，与一份经base64+XOR（密钥91）加密的147个域名列表（含美团、字节跳动、月之暗面等）比对，识别中国用户。识别后，在请求发送前将系统提示词中日期字符串的单引号（U+0027）替换为其他Unicode字符，连字符改为斜杠，作为2-3比特分类标记传回服务器。该隐蔽行为被社区逆向发现后引发争议，被认为破坏用户信任。",
+      "category": "industry",
+      "score": 84,
+      "selected": true
+    },
     {
       "id": "cmr1bb1gr01adslnlt43fwfff",
       "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
@@ -222,19 +261,6 @@
       "summary": "2026年6月30日，特斯拉在奥斯汀公共道路启动首批量产版Cybercab工程测试。车辆无方向盘与脚踏板，配有安全监督员，马斯克发布实拍视频。从2024年10月概念车首秀到实车上路约20个月。目前不对外开放乘客，投入34台Cybercab在市中心验证硬件可靠性。Cybercab为双座车型，完全围绕无人驾驶打造，无后期改装。此前奥斯汀已有无安全员Model Y无人驾驶出租于1月启用、6月22日开放付费服务。",
       "category": "industry",
       "score": 79,
-      "selected": true
-    },
-    {
-      "id": "cmr08dev204qjslkit52gdrur",
-      "title": "美团 LongCat 发布旗舰模型 LongCat-2.0",
-      "title_en": "The full model behind \"Owl Alpha\" on @OpenRouter is here🦉 Let's meet @Meituan_LongCat 's latest fla…",
-      "url": "https://x.com/SiliconFlowAI/status/2071831773076746715",
-      "permalink": "https://aihot.virxact.com/items/cmr08dev204qjslkit52gdrur",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "publishedAt": "2026-06-30T05:42:42.000Z",
-      "summary": "美团 LongCat 推出旗舰模型 LongCat-2.0，采用 1.6T 参数 MoE 架构（约 48B 活跃参数），原生支持 1M 上下文窗口。定价为 Input Cache $0.015/1M tokens、Input $0.75/1M tokens、Output $2.95/1M tokens。模型专为 Agentic Coding 设计，包含三大技术：LSA 稀疏注意力实现高效 1M 扩展；Zero-Compute Experts 动态激活 33B-56B 参数/token，无算力浪费；MOPD 将专家分为 Agent / Reasoning / Interaction 三组，按任务门控路由。在 SWE-bench Pro 上取得 59.5 分，性能接近主流闭源模型。现已上线 SiliconFlow Day 0 服务。",
-      "category": "ai-models",
-      "score": 67,
       "selected": true
     },
     {
@@ -1276,33 +1302,7 @@
       "category": "ai-products",
       "score": 65,
       "selected": true
-    },
-    {
-      "id": "cmqshf6dl0354slfug4vof984",
-      "title": "Perplexity推出Computer for Counsel",
-      "title_en": "Introducing Computer for Counsel. Computer now connects the research databases， document tools， and…",
-      "url": "https://x.com/perplexity_ai/status/2069866668671766804",
-      "permalink": "https://aihot.virxact.com/items/cmqshf6dl0354slfug4vof984",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "publishedAt": "2026-06-24T19:34:04.000Z",
-      "summary": "推出 Computer for Counsel。\n\nComputer 现在连接了律师日常使用的研究数据库、文档工具和案件管理系统。可从中提取可引用来源：@midpageAI、@LegalZoom、@Docusign、@netdocuments 等。\n\n所有 Pro 和 Max 订阅用户均可使用。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true
-    },
-    {
-      "id": "cmqsef9c302f0slfu6lvuhnu7",
-      "title": "GPT-5.5 Instant 新版本，对话更有趣",
-      "title_en": "We have a new version of GPT-5.5 Instant for you， and it's much more fun to talk to. Our most-used …",
-      "url": "https://x.com/OpenAI/status/2069843083701915755",
-      "permalink": "https://aihot.virxact.com/items/cmqsef9c302f0slfu6lvuhnu7",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-06-24T18:00:21.000Z",
-      "summary": "我们为你带来了新版 GPT-5.5 Instant，它现在聊起天来有趣多了。\n\n我们最常用的模型现在能更好地理解问题背后的意图，并相应地调整回应。\n\n它也能更可靠地处理复杂约束，让购物和本地推荐更加实用和连贯。\n\n今天向付费用户推送，明天向免费用户推送。",
-      "category": "ai-models",
-      "score": 67,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-01T00:20:30Z"
+  "cachedAt": "2026-07-01T05:53:39Z"
 }
