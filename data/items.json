@@ -1,8 +1,47 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMzM0NTE5Nzk5LCJpIjoiY21xc2p5ZHl5MDNzMnNsZnUwYWtlaDg2OCJ9",
+  "nextCursor": "eyJhIjoxNzgyMzQ1NjAwMDAwLCJpIjoiY21xdGt1c2NyMDRnOHNsMGVvcXp3a2RtNyJ9",
   "items": [
+    {
+      "id": "cmr1wzzsm02uosl8zop6s0sly",
+      "title": "OpenAI论文揭示GPT-5.6三个Pro变体，打破单一顶级策略",
+      "title_en": "OpenAI paper reveals three GPT-5.6 Pro models， breaking with single top-tier strategy",
+      "url": "https://the-decoder.com/openai-paper-reveals-three-gpt-5-6-pro-models-breaking-with-single-top-tier-strategy",
+      "permalink": "https://aihot.virxact.com/items/cmr1wzzsm02uosl8zop6s0sly",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-01T10:03:41.000Z",
+      "summary": "OpenAI论文首次列出GPT-5.6的三个Pro变体：Luna Pro、Terra Pro和Sol Pro，取代以往单一Pro模式。在基因组学基准中，Sol Pro通过率31.5%居60个测试模型之首，领先标准Sol（28.7%）和Claude Opus 4.8（16.0%）。Pro相比标准版本提升逐级递减：Luna Pro提升7.1个百分点（16.5%→23.6%），Terra Pro提升5.2（23.3%→28.5%），Sol Pro仅提升2.8（28.7%→31.5%）。Terra Pro（28.5%）几乎与标准Sol（28.7%）持平。论文未披露Pro运行的token用量，也不清楚该分层是否会在ChatGPT中实际推出。",
+      "category": "industry",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmr1ti4v001xlsl8zovi1yoqa",
+      "title": "NVIDIA 发布 Nemotron-Labs-TwoTower 开放权重扩散语言模型",
+      "title_en": "NVIDIA Releases Nemotron-Labs-TwoTower： an Open-Weight Diffusion Language Model Built on a Frozen Autoregressive Nemotron-3-Nano-30B-A3B Backbone",
+      "url": "https://www.marktechpost.com/2026/07/01/nvidia-releases-nemotron-labs-twotower",
+      "permalink": "https://aihot.virxact.com/items/cmr1ti4v001xlsl8zovi1yoqa",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-01T08:10:17.000Z",
+      "summary": "NVIDIA 发布 Nemotron-Labs-TwoTower，基于冻结的自回归骨干 Nemotron-3-Nano-30B-A3B 的扩散语言模型。采用双塔架构：上下文塔冻结，降噪器塔训练，通过层对齐交叉注意力和状态播种协作。在 2×H100 上 BF16 评估，保留 98.7% 的 AR 基线质量，生成吞吐量提升 2.42 倍（γ=0.8，块大小 S=16）。降噪器在约 2.1T token 上训练，骨干使用 25T token 预训练。总参数约 60B，每 token 活跃参数约 3B/塔。支持扩散、模拟 AR 和 AR 三种解码模式。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true
+    },
+    {
+      "id": "cmr1qbf1w012isl8zibrcgm2h",
+      "title": "亚马逊 AWS 砸 10 亿美元，派遣工程师进驻客户公司",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/971/071.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr1qbf1w012isl8zibrcgm2h",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-01T06:57:42.000Z",
+      "summary": "亚马逊 AWS 宣布设立新部门，组建前置驻场工程师团队，先期投入 10 亿美元（约 67.97 亿元人民币）。团队分批派驻客户企业，每批 5-6 组工程师，驻场周期 45 天，协助客户落地人工智能软件与智能体应用。该模式在 Palantir、Salesforce、Anthropic、谷歌云等企业已有先例，领英数据显示 2023 至 2025 年间同类岗位需求增长 42 倍。新部门员工规模将达数千人，首批客户包括 NBA 与理光。",
+      "category": "industry",
+      "score": 70,
+      "selected": true
+    },
     {
       "id": "cmr1js18u03imslnld2yrjboo",
       "title": "美团 LongCat-2.0 正式发布：国产算力集群训练的万亿参数大模型",
@@ -1263,46 +1302,7 @@
       "category": "ai-products",
       "score": 71,
       "selected": true
-    },
-    {
-      "id": "cmqst0js5060tslfu7s6uxjhf",
-      "title": "盈透证券（Interactive Brokers）与 Grok 集成：组合分析、情景建模与实时交易指令生成",
-      "title_en": "Explore the markets with Interactive Brokers and Grok",
-      "url": "https://x.ai/news/grok-interactive-brokers",
-      "permalink": "https://aihot.virxact.com/items/cmqst0js5060tslfu7s6uxjhf",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-06-25T00:00:00.000Z",
-      "summary": "盈透证券（Interactive Brokers）近日与 Grok 集成，用户可在几分钟内免费关联现有账户，无需注册新账户。通过自然语言与 Grok 对话，可完成组合收益分析（如股息与利息预测）、行业/地区/经济事件的风险敞口情景建模、市场趋势研究，并直接生成对冲订单等实时交易指令，实现从数据洞察到执行决策的一体化。",
-      "category": "ai-products",
-      "score": 55,
-      "selected": true
-    },
-    {
-      "id": "cmqsmijfz04cwslfuwufeuxwz",
-      "title": "AI被认为会取代工程岗位，但新数据显示工程是2025年最具韧性的岗位",
-      "title_en": "AI was supposed to kill engineering jobs， but new data suggests they're the most resilient",
-      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient",
-      "permalink": "https://aihot.virxact.com/items/cmqsmijfz04cwslfuwufeuxwz",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-24T21:56:41.000Z",
-      "summary": "风投机构SignalFire追踪8000万家公司数百万员工数据发现，工程是2025年最具韧性的岗位。大型科技公司总招聘较2019年下降25%，工程岗仅降11%；工程岗占Alphabet、Meta等12家\"Tech Majors\"新招员工的55%（2019年为46%）。早期初创公司2025年工程师招聘比2019年增长7%。Anthropic CEO警告AI可能消灭一半入门级白领，但该公司经济主管称尚未看到显著影响。NVIDIA CEO黄仁勋表示AI让工程师更忙碌，是杰文斯悖论的典型例证。",
-      "category": "tip",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmqsjydyy03s2slfu0akeh868",
-      "title": "Notion 使用 Cursor SDK 嵌入编码智能体",
-      "title_en": "How Notion used the Cursor SDK to embed coding agents",
-      "url": "https://cursor.com/blog/notion",
-      "permalink": "https://aihot.virxact.com/items/cmqsjydyy03s2slfu0akeh868",
-      "source": "Cursor Blog",
-      "publishedAt": "2026-06-24T20:55:19.799Z",
-      "summary": "Notion 通过 Cursor SDK 在数周内将编码智能体嵌入产品。用户可在文档中@Cursor、在讨论串中提及或向数据库指派任务，Cursor 即可端到端完成规划、构建、测试、验证并自动创建 PR。集成基于一套 Provider 无关的智能体框架，Notion 的讨论串对应一个 Cursor 智能体，每条消息对应一次智能体运行；结果通过 SSE 流式传输，支持断连恢复。Cursor SDK 提供与生产环境相同的模型、运行时和远程 MCP 支持，让 Notion 无需自建智能体基础设施即可获得完整栈编码能力。用户还可自定义模板、MCP 服务器、技能和子智能体，并设置自动触发规则。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-01T05:53:39Z"
+  "cachedAt": "2026-07-01T10:11:54Z"
 }
