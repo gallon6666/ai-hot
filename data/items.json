@@ -1,8 +1,47 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyMzU2ODY4OTQyLCJpIjoiY21xc3kxdnMxMDdjNXNsZnU0Zm1rc2p6ZCJ9",
+  "nextCursor": "eyJhIjoxNzgyNDAzMjAwMDAwLCJpIjoiY21xdHA3eWN3MDVsYnNsMGVpN2Rwc3YxOSJ9",
   "items": [
+    {
+      "id": "cmr2cbj7s06qgsl8zt4giih2x",
+      "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
+      "title_en": "ML Development in VS Code with Google Cloud Power： Workbench Extension Now Available",
+      "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available",
+      "permalink": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-07-01T17:17:56.374Z",
+      "summary": "Google Cloud Workbench Notebooks 扩展正式上线，开发者可在 VS Code 中直接连接可扩展的云端 Jupyter 环境，无需切换上下文即可利用高性能 Google Cloud 基础设施完成机器学习全流程。该扩展已完全开源，可在 GitHub 和 VS Code Marketplace 获取。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true
+    },
+    {
+      "id": "cmr2d1lf706zpsl8zwbf3dmd9",
+      "title": "Meta 大规模 AI 存储蓝图",
+      "title_en": "Meta's AI Storage Blueprint at Scale",
+      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
+      "permalink": "https://aihot.virxact.com/items/cmr2d1lf706zpsl8zwbf3dmd9",
+      "source": "Meta Engineering Blog（RSS）",
+      "publishedAt": "2026-07-01T16:00:36.000Z",
+      "summary": "Meta 运营数百 EB 级存储集群，基于 Tectonic 分层存储层构建 BLOB 存储架构，以应对两大挑战：最大化 GPU 利用率与研究迭代速度。传统 BLOB 架构的多层元数据查询可导致数百毫秒延迟，使 GPU 因 I/O 等待停顿。新架构将训练栈逐步迁移到 BLOB 存储接口上，利用闪存提供可预测的低 pMax 延迟，避免单 GPU 慢速拖慢整批任务。同时，统一的数据湖访问支持地理分布 GPU 间的数据高速注入与跨区移动，提升研究效率。",
+      "category": "tip",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmr29qmtz064gsl8zqzza1stv",
+      "title": "智谱推出GLM-5.2官方开发环境ZCode",
+      "title_en": "Introducing ZCode， the official development environment for GLM-5.2 - GLM Coding Plan subscribers： …",
+      "url": "https://x.com/Zai_org/status/2072349453361557898",
+      "permalink": "https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv",
+      "source": "X：智谱 Z.ai (@Zai_org)",
+      "publishedAt": "2026-07-01T15:59:46.000Z",
+      "summary": "推出 ZCode，GLM-5.2 的官方开发环境\n\n- GLM Coding Plan 订阅用户：现可在 ZCode 获得 1.5 倍使用配额\n- 支持 BYOK：可与您现有的订阅和 API 配合使用\n- 适用于 macOS、Windows 和 Linux\n\n立即下载：http：//zcode.z.ai/en",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true
+    },
     {
       "id": "cmr259c3104wjsl8z81g6p5op",
       "title": "Meta效仿SpaceX，将过剩AI算力变现",
@@ -108,6 +147,19 @@
       "selected": true
     },
     {
+      "id": "cmr2a81sq066ssl8z8vo7so2x",
+      "title": "xAI 发布 Voice Agent Builder 测试版",
+      "title_en": "Introducing the Voice Agent Builder Jul 1， 2026 # Introducing the Voice Agent Builder Create a personalized voice agent in under 2 minutes without a single line of code. Read More",
+      "url": "https://x.ai/news/grok-voice-agent-builder",
+      "permalink": "https://aihot.virxact.com/items/cmr2a81sq066ssl8z8vo7so2x",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-07-01T00:00:00.000Z",
+      "summary": "xAI 推出 Voice Agent Builder 测试版，这是一个基于 Grok Voice 的无代码平台，可在两分钟内创建生产级语音智能体。它集成电话、知识检索、工具、MCP、Guardrails 及可观测性，支持连接现有 SIP 号码、API 和 WebSocket，采用语音到语音路径。在 τ-voice Bench 上，Grok Voice Think Fast 1.0 得分 67.3%，领先 Gemini 3.1 Flash Live（43.8%）和 GPT Realtime 1.5（35.3%）。定价为每分钟音频 0.05 美元、电话费 0.01 美元，提供 80+ 种语音及声音克隆，每个账户附赠一个免费电话号码。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true
+    },
+    {
       "id": "cmr1bb1gr01adslnlt43fwfff",
       "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
       "title_en": "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开\"建设性\"会谈",
@@ -147,19 +199,6 @@
       "selected": true
     },
     {
-      "id": "cmr0yev3s005cslw8omm20ml6",
-      "title": "Claude Sonnet 5 发布",
-      "title_en": "Introducing Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "permalink": "https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-06-30T18:02:06.984Z",
-      "summary": "Claude Sonnet 5 是 Anthropic 推出的最新 Sonnet 模型，具备计划、浏览器和终端工具使用能力，可自主运行。性能接近 Opus 4.8，定价更低：即日起至 2026 年 8 月 31 日，输入 token $2/百万，输出 $10/百万，之后恢复为 $3/百万输入和 $15/百万输出。相比 Sonnet 4.6，在推理、工具使用、编程和知识工作等智能体能力上大幅提升。在 BrowseComp 和 OSWorld-Verified 评测中严格优于 Sonnet 4.6。安全评估显示不良行为率更低，幻觉和谄媚减少，但网络安全能力弱于 Opus 4.8。即日起在所有套餐及 Claude Code、Claude API 中可用。",
-      "category": "ai-models",
-      "score": 81,
-      "selected": true
-    },
-    {
       "id": "cmr0yab2e003oslw8uw5zghrc",
       "title": "Acti 将 AI 智能体直接放入手机键盘",
       "title_en": "Acti puts AI agents directly into your smartphone keyboard",
@@ -169,32 +208,6 @@
       "publishedAt": "2026-06-30T17:52:46.000Z",
       "summary": "新加坡初创公司 Acti 发布基于 Google Gemini 的智能体键盘，可代替用户在应用中执行操作。核心功能 Skills 允许用自然语言创建快捷方式，如长按 T 键翻译消息、C 键发送会议链接。早期测试者两周内创建超 1000 个 Skills。采用本地优先架构，默认不访问私人消息。公司获 530 万美元种子轮融资，由 BITKRAFT Ventures 领投，现已开放下载。",
       "category": "ai-products",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmr0xc7sg0040slb3yenz5k02",
-      "title": "Claude Science 科研工作台正式上线",
-      "title_en": "Claude Science， an AI workbench for scientists， is now available",
-      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "permalink": "https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-06-30T17:32:06.724Z",
-      "summary": "Anthropic 推出 AI 科研工作台 Claude Science，整合常用工具与计算资源，支持从文献分析到多步骤研究的全流程。提供超 60 项预配置技能与连接器，覆盖基因组学、单细胞、蛋白质组学、结构生物学、化学信息学等领域；可在macOS/Linux本地运行，或通过SSH/HPC远程使用。生成含代码和环境的可审计成果（3D蛋白质结构、基因组浏览器轨迹等），内置reviewer agent自动检查引用与计算错误。通过NVIDIA BioNeMo接入Evo 2、Boltz-2等模型，也支持连接自有模型与管道。今日以beta版面向Claude Pro、Max、Team和Enterprise用户开放。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true
-    },
-    {
-      "id": "cmr0x7y97001yslb3tyb8w4ce",
-      "title": "Claude Code 入门：智能体循环",
-      "title_en": "Getting started with loops",
-      "url": "https://claude.com/blog/getting-started-with-loops",
-      "permalink": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-06-30T17:28:28.530Z",
-      "summary": "Claude Code 团队将智能体循环定义为 agent 重复工作直到满足停止条件的过程，并划分出四种主要类型：turn-based 循环（用户提示触发，Claude 自行判断完成或需更多上下文）、goal-based 循环（通过 `/goal` 命令设定可验证完成标准与最大轮次）、time-based 循环（通过 `/loop` 按时间间隔重复执行，可用 `/schedule` 移至云端）、以及 proactive 循环（基于事件或计划自动运行，无人实时参与）。文章还介绍了如何编写 SKILL.md 文件将人工验证步骤编码，让 Claude 进行端到端自检，减少 turn-based 循环中的手动操作。",
-      "category": "tip",
       "score": 72,
       "selected": true
     },
@@ -443,6 +456,45 @@
       "summary": "Qwen 3.6 27B 是一款密集参数本地大语言模型，原生支持 256k 上下文。在 Macbook Max M5 上运行 llama.cpp Q8_0 量化版（含多 token 预测）可达 30 tokens/s；用户反馈在 RTX 5090 上 Q6_K 量化可达 50 tokens/s。它可通过单个提示完成创意诗歌、用 pnpm 生成六边形扫雷游戏等任务，作者称其为首个真正具备通用智能的本地模型。另有一个 MoE 变体 35B A3B，但作者推荐 27B 版本。",
       "category": "tip",
       "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmr0yev3s005cslw8omm20ml6",
+      "title": "Claude Sonnet 5 发布",
+      "title_en": "Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "permalink": "https://aihot.virxact.com/items/cmr0yev3s005cslw8omm20ml6",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-06-29T16:00:00.000Z",
+      "summary": "Claude Sonnet 5 是 Anthropic 推出的最新 Sonnet 模型，具备计划、浏览器和终端工具使用能力，可自主运行。性能接近 Opus 4.8，定价更低：即日起至 2026 年 8 月 31 日，输入 token $2/百万，输出 $10/百万，之后恢复为 $3/百万输入和 $15/百万输出。相比 Sonnet 4.6，在推理、工具使用、编程和知识工作等智能体能力上大幅提升。在 BrowseComp 和 OSWorld-Verified 评测中严格优于 Sonnet 4.6。安全评估显示不良行为率更低，幻觉和谄媚减少，但网络安全能力弱于 Opus 4.8。即日起在所有套餐及 Claude Code、Claude API 中可用。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true
+    },
+    {
+      "id": "cmr0xc7sg0040slb3yenz5k02",
+      "title": "Claude Science 科研工作台正式上线",
+      "title_en": "Claude Science， an AI workbench for scientists， is now available",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "permalink": "https://aihot.virxact.com/items/cmr0xc7sg0040slb3yenz5k02",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-06-29T16:00:00.000Z",
+      "summary": "Anthropic 推出 AI 科研工作台 Claude Science，整合常用工具与计算资源，支持从文献分析到多步骤研究的全流程。提供超 60 项预配置技能与连接器，覆盖基因组学、单细胞、蛋白质组学、结构生物学、化学信息学等领域；可在macOS/Linux本地运行，或通过SSH/HPC远程使用。生成含代码和环境的可审计成果（3D蛋白质结构、基因组浏览器轨迹等），内置reviewer agent自动检查引用与计算错误。通过NVIDIA BioNeMo接入Evo 2、Boltz-2等模型，也支持连接自有模型与管道。今日以beta版面向Claude Pro、Max、Team和Enterprise用户开放。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true
+    },
+    {
+      "id": "cmr0x7y97001yslb3tyb8w4ce",
+      "title": "Claude Code 入门：智能体循环",
+      "title_en": "Getting started with loops",
+      "url": "https://claude.com/blog/getting-started-with-loops",
+      "permalink": "https://aihot.virxact.com/items/cmr0x7y97001yslb3tyb8w4ce",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-06-29T16:00:00.000Z",
+      "summary": "Claude Code 团队将智能体循环定义为 agent 重复工作直到满足停止条件的过程，并划分出四种主要类型：turn-based 循环（用户提示触发，Claude 自行判断完成或需更多上下文）、goal-based 循环（通过 `/goal` 命令设定可验证完成标准与最大轮次）、time-based 循环（通过 `/loop` 按时间间隔重复执行，可用 `/schedule` 移至云端）、以及 proactive 循环（基于事件或计划自动运行，无人实时参与）。文章还介绍了如何编写 SKILL.md 文件将人工验证步骤编码，让 Claude 进行端到端自检，减少 turn-based 循环中的手动操作。",
+      "category": "tip",
+      "score": 72,
       "selected": true
     },
     {
@@ -1250,59 +1302,7 @@
       "category": "ai-products",
       "score": 57,
       "selected": true
-    },
-    {
-      "id": "cmqtpj36o05pusl0e9ingyoye",
-      "title": "Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模",
-      "title_en": "卧槽！最近开源大模型太卷了啊！ 这不又一个专注agentic coding的开源模型家族来了，叫Ornith-1.0。 它覆盖了从9B到397B MoE的全尺寸，在Terminal-Bench、S…",
-      "url": "https://x.com/berryxia/status/2070167806700908957",
-      "permalink": "https://aihot.virxact.com/items/cmqtpj36o05pusl0e9ingyoye",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-06-25T15:30:41.000Z",
-      "summary": "Ornith-1.0 开源模型家族发布，专注智能体编程（Agentic Coding），覆盖 9B Dense、31B Dense、35B MoE 及 397B MoE 全参数规模。在 Agent Coding 基准上达开源顶尖：SWE-Bench Verified 82.4、SWE-Bench Pro 62.2、Terminal-Bench 2.1 77.5、NL2Repo 48.2、SWE Atlas 41.2 QnA、ClawEval 77.1。基于 gemma4 和 qwen3.5 后训练，采用强化学习联合优化任务脚手架（scaffold）与最终解决方案，让模型自主改进执行框架。全系列 MIT 开源，提供 GGUF 版本，支持 Ollama、Unsloth 等本地运行。",
-      "category": "ai-models",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmquellij03q2sl80f5fm292j",
-      "title": "美团 LongCat 开源 VitaBench 2.0：长期动态智能体基准新标杆",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/HoiUxYnyJuh2_xdxmg8s8Q",
-      "permalink": "https://aihot.virxact.com/items/cmquellij03q2sl80f5fm292j",
-      "source": "公众号：龙猫LongCat（美团）",
-      "publishedAt": "2026-06-25T11:58:00.000Z",
-      "summary": "美团 LongCat 团队推出 VitaBench 2.0，首个真实生活场景下针对长期动态用户建模的智能体评测基准。包含56名拟真用户、819个复杂任务、超2000个动态偏好及66个可执行工具，每位用户平均2093个交互事件，时间跨度平均1580天。同时支持长文本上下文学习和智能体记忆策略评测。测试显示，最强模型 Claude-Opus-4.6 在\"开卷\"模式下平均分刚过0.5；开启思考模式并不总能提升个性化任务表现；所有模型在需要主动提问的任务上得分断崖式下跌。VitaBench 2.0 已开源。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true
-    },
-    {
-      "id": "cmqtc9nw602azsl0e4dvg4t64",
-      "title": "Meta员工警告AI内容审核部署过快",
-      "title_en": "Meta employees warn AI moderation rollout is too fast",
-      "url": "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast",
-      "permalink": "https://aihot.virxact.com/items/cmqtc9nw602azsl0e4dvg4t64",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-06-25T10:07:19.000Z",
-      "summary": "Meta在2025年已用大语言模型替换约一半人工审核请求，计划年底前将部分内容类型的AI审核比例提升至90%以上，每年节省数十亿美元。Meta否认成本动机，称自3月测试显示其模型错误率比人类低13%，且多捕捉10%违规。但员工指出模型仍会移除或限流无害内容，缺乏足够监督，快速部署已导致外包裁员。此外，Meta已从使用Google Gemini转向自家新基础模型Muse Spark，该模型基于人工审核员的历史决策训练。",
-      "category": "industry",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmqsy1vs107c5slfu4fmksjzd",
-      "title": "Anthropic称阿里巴巴非法获取了Claude AI模型的功能",
-      "title_en": null,
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24",
-      "permalink": "https://aihot.virxact.com/items/cmqsy1vs107c5slfu4fmksjzd",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-06-25T03:07:48.942Z",
-      "summary": "Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。",
-      "category": "industry",
-      "score": 75,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-01T15:49:10Z"
+  "cachedAt": "2026-07-01T18:15:30Z"
 }
