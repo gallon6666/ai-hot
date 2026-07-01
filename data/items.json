@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNDAzMjAwMDAwLCJpIjoiY21xdHA3eWN3MDVsYnNsMGVpN2Rwc3YxOSJ9",
+  "nextCursor": "eyJhIjoxNzgyNDAzMjAwMDAwLCJpIjoiY21xd3Rsc2cwMDAxbnNscDB6dDNleXpociJ9",
   "items": [
+    {
+      "id": "cmr2jtg2z08nvsl8zt9pagjoe",
+      "title": "Claude Code v2.1.198 发布",
+      "title_en": "v2.1.198",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
+      "permalink": "https://aihot.virxact.com/items/cmr2jtg2z08nvsl8zt9pagjoe",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-07-01T20:45:36.000Z",
+      "summary": "Claude Code v2.1.198 更新。Claude in Chrome 现已全面可用。为 claude agents 新增后台智能体通知（agent_needs_input / agent_completed）。新增 /dataviz 技能，提供图表与仪表盘设计指导及配色验证器。Gateway 增加 AWS 上的 Claude Platform 作为上游提供商。后台智能体在 worktree 中完成代码后自动提交、推送并创建草稿 PR。内置 Explore 智能体现继承主会话模型（上限 opus）。修复网络短暂断开导致响应中断、后台任务卡在\"Running\"状态、智能体团队队友因 API 错误失败等问题。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true
+    },
     {
       "id": "cmr2cbj7s06qgsl8zt4giih2x",
       "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
@@ -144,6 +157,19 @@
       "summary": "Anthropic在Claude Code中植入隐写术：读取本地时区（Asia/Shanghai或Asia/Urumqi）和ANTHROPIC_BASE_URL环境变量，与一份经base64+XOR（密钥91）加密的147个域名列表（含美团、字节跳动、月之暗面等）比对，识别中国用户。识别后，在请求发送前将系统提示词中日期字符串的单引号（U+0027）替换为其他Unicode字符，连字符改为斜杠，作为2-3比特分类标记传回服务器。该隐蔽行为被社区逆向发现后引发争议，被认为破坏用户信任。",
       "category": "industry",
       "score": 84,
+      "selected": true
+    },
+    {
+      "id": "cmr2jc03c08kssl8zf2bmdjlj",
+      "title": "构建AI智能体应优先设计路由",
+      "title_en": "Most AI Work Can Wait",
+      "url": "https://www.tomtunguz.com/ai-execution-routing",
+      "permalink": "https://aihot.virxact.com/items/cmr2jc03c08kssl8zf2bmdjlj",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-07-01T00:00:00.000Z",
+      "summary": "构建AI智能体时，应优先设计路由（router）而非选择模型。路由决定每个请求由哪层模型处理。正确路由可使70-80%流量运行在免费本地模型或异步推理上，将AI开销降低90%+。Brian Armstrong指出Coinbase通过更好的默认设置、路由和缓存，在token使用量增长的同时将AI支出减半。路由分三层：技能分类器、路由器、模型选择器。本地计算近乎零成本，异步批量推理比实时推理便宜两个数量级。大多数工作无需秒级返回。同步预测器标记复杂任务，夜间批量评估器更新路由权重。技能蒸馏后，非编码类任务中70-80%智能体流量可由本地模型处理。",
+      "category": "tip",
+      "score": 60,
       "selected": true
     },
     {
@@ -1276,33 +1302,7 @@
       "category": "ai-products",
       "score": 58,
       "selected": true
-    },
-    {
-      "id": "cmqtq76j105ubsl0e8j4fy8se",
-      "title": "General Intuition 完成 3.2 亿美元融资，用游戏数据训练通用 AI 智能体",
-      "title_en": "General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
-      "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world",
-      "permalink": "https://aihot.virxact.com/items/cmqtq76j105ubsl0e8j4fy8se",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-25T16:00:00.000Z",
-      "summary": "General Intuition 以 23 亿美元估值完成 3.2 亿美元融资，累计披露融资 4.54 亿美元。公司从旗下游戏剪辑平台 Medal 获取数亿小时含精确按键动作标签的游戏操作数据，训练单一模型同时驾驭 Fortnite 等虚拟环境和四足机器人。演示中，AI 智能体在游戏中连续运行 100 小时，机器人仅靠 8 分钟真实街道数据微调即可自主探索办公室。本轮由 Khosla Ventures 领投，General Catalyst、Jeff Bezos、Eric Schmidt 等参投。资金将用于通过 CoreWeave 扩大计算规模、预训练下一代模型，计划夏末前开放 API。",
-      "category": "industry",
-      "score": 71,
-      "selected": true
-    },
-    {
-      "id": "cmqtp7ycw05lbsl0ei7dpsv19",
-      "title": "Google Finance 全新 Android 应用与投资组合功能上线",
-      "title_en": "Our latest Google Finance upgrades， including a new app",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026",
-      "permalink": "https://aihot.virxact.com/items/cmqtp7ycw05lbsl0ei7dpsv19",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-06-25T16:00:00.000Z",
-      "summary": "本周，Google Finance 推出正式版 Android 应用，同步上线全球投资组合跟踪功能。用户可通过截图、CSV/PDF 上传或文字描述创建组合，并利用 AI 研究工具提问资产配置、固定收益影响等问题。新增市场情报简报功能：用户设定任务（如每日盘前简报），后台自动生成并推送至 Google 应用（Android/iOS）及网页端。Android 应用包含 watchlist、实时数据、金融新闻 feed、AI 研究工具及 AI 驱动的\"关键时刻\"解释股价波动。未来数月将把更多 web 功能（如财报电话、投资组合与任务）迁移至移动端，今年晚些推出 iOS 应用。",
-      "category": "ai-products",
-      "score": 57,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-01T20:15:29Z"
+  "cachedAt": "2026-07-01T21:48:56Z"
 }
