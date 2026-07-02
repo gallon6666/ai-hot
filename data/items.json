@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNDkyNjc3MDAwLCJpIjoiY21xdjY3bGVkMGFlanNsODBncnNkdGhzcSJ9",
+  "nextCursor": "eyJhIjoxNzgyNTA0Mjk1MDAwLCJpIjoiY21xdmR3MzdzMGNiN3NsODBrcGkwdGhrZSJ9",
   "items": [
+    {
+      "id": "cmr3zye9z00qfslw2sg1izmks",
+      "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+      "title_en": "Meet Alibaba's Page Agent： A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
+      "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+      "permalink": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-02T20:51:39.000Z",
+      "summary": "阿里巴巴发布 Page Agent，一个开源的 JavaScript 客户端库，嵌入网页后可通过自然语言指令直接操作 DOM 元素。与 Playwright、Puppeteer 等外部浏览器自动化工具不同，Page Agent 不依赖截图或多模态模型，而是将实时 DOM 脱水压缩为 FlatDomTree 文本映射，让纯文本模型精准执行点击、表单填写等操作。它继承用户 cookies 和会话，无需独立后端，并支持任意 OpenAI 兼容端点的模型（示例使用 `qwen3.5-plus`）。项目采用 MIT 许可证，适合在自有应用内构建 AI 副驾、智能表单填充或无障碍控制等场景，但限于单页面范围，风险操作仍需服务端验证。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true
+    },
     {
       "id": "cmr3yrwnf00e1slw21f16oh2d",
       "title": "关于Mythos和网络安全的讨论并非炒作",
@@ -1289,20 +1302,7 @@
       "category": "industry",
       "score": 84,
       "selected": true
-    },
-    {
-      "id": "cmqv67led0aejsl80grsdthsq",
-      "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
-      "title_en": "AI chatbots show left-wing bias， Washington Post report finds， with ChatGPT giving left-leaning answ…",
-      "url": "https://x.com/rohanpaul_ai/status/2070550479621488896",
-      "permalink": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-26T16:51:17.000Z",
-      "summary": "《华盛顿邮报》报道，基于达特茅斯和斯坦福研究的测试显示，AI聊天机器人在约30项政策议题（税收、医保、移民等）上存在左翼偏见。GPT-5.5仅给出左倾立场占80%，双方立场17%，右倾3%；Gemini 3.1 Pro则93%给出双方立场，左倾仅7%；Claude Opus 4.8双方立场占57%；Grok 4.3是唯一右倾占33%的模型。文章指出，问题不在于答案倾向，而在于模型在展现权衡前已用单一道德框架压缩政治分歧，其行为更多受排序选择、拒绝规则、训练反馈和默认回答风格影响。",
-      "category": "tip",
-      "score": 75,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-02T20:36:40Z"
+  "cachedAt": "2026-07-02T22:17:38Z"
 }
