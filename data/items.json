@@ -1,8 +1,34 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNDg5MDk0MDAwLCJpIjoiY21xeTR5a2J4MDA0NnNscnI4OHZqeHBmOSJ9",
+  "nextCursor": "eyJhIjoxNzgyNDkyNjc3MDAwLCJpIjoiY21xdjY3bGVkMGFlanNsODBncnNkdGhzcSJ9",
   "items": [
+    {
+      "id": "cmr3yrwnf00e1slw21f16oh2d",
+      "title": "关于Mythos和网络安全的讨论并非炒作",
+      "title_en": "The talk about Mythos and cybersecurity was not， in fact， hype. （As anyone using Fable to do autonom…",
+      "url": "https://x.com/emollick/status/2072778376494895139",
+      "permalink": "https://aihot.virxact.com/items/cmr3yrwnf00e1slw21f16oh2d",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-07-02T20:24:09.000Z",
+      "summary": "关于Mythos和网络安全的讨论并非炒作。\n（正如任何使用Fable进行自主工作的人可能已经认识到的那样。）",
+      "category": "paper",
+      "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmr3wzycy008tslnxrw3opnfn",
+      "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
+      "title_en": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6，000 AI engineers inside enterprise clients",
+      "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
+      "permalink": "https://aihot.virxact.com/items/cmr3wzycy008tslnxrw3opnfn",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-02T19:18:29.000Z",
+      "summary": "Microsoft 新设业务部门\"Frontier Company\"，拨款 25 亿美元，将 6000 名行业与工程专家派驻企业客户现场，\"共同设计、共同创新、部署并持续改进 AI 系统\"。该部门由 Rodrigo Kede Lima 领导，旨在超越\"前部署工程\"模式，成为\"最大、以结果为导向的工程组织\"。Microsoft 将自己定位为 OpenAI 和 Anthropic 的\"平台中立\"替代方案，后两者也已设立专门部署公司。Microsoft 将借助埃森哲、凯捷、安永等系统集成商扩大覆盖范围。",
+      "category": "industry",
+      "score": 78,
+      "selected": true
+    },
     {
       "id": "cmr3uklx8008dslbrcmev44qb",
       "title": "Agent辅助的SGLang开发：初步探索",
@@ -1276,33 +1302,7 @@
       "category": "tip",
       "score": 75,
       "selected": true
-    },
-    {
-      "id": "cmqwticse001aslp07j2fbwv8",
-      "title": "Weave 推出智能模型路由工具，可直接接入 Claude Code、Codex 和 Cursor",
-      "title_en": "Show HN： Smart model routing directly in Claude， Codex and Cursor",
-      "url": "https://github.com/workweave/router",
-      "permalink": "https://aihot.virxact.com/items/cmqwticse001aslp07j2fbwv8",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-06-26T16:40:11.000Z",
-      "summary": "Weave 发布智能模型路由工具，通过 `npx @workweave/router` 安装，作为本地代理运行在 localhost：8080。它采用基于 Avengers-Pro 1 的集群评分器，每个请求自动选择最佳模型。支持 Anthropic、OpenAI、Gemini 原生 API，并通过 OpenRouter 接入 DeepSeek、Kimi、GLM、Qwen、Llama、Mistral 等开源模型。用户自行保管提供商密钥，数据本地加密存储。工具兼容 Claude Code、Codex、Cursor 等客户端，并提供 OTLP 追踪，支持自托管部署。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true
-    },
-    {
-      "id": "cmqy4ykbx0046slrr88vjxpf9",
-      "title": "下一个重大突破：AI在工作中学习",
-      "title_en": "The next big breakthrough will be AIs learning on the job",
-      "url": "https://www.dwarkesh.com/p/the-next-paradigm",
-      "permalink": "https://aihot.virxact.com/items/cmqy4ykbx0046slrr88vjxpf9",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "publishedAt": "2026-06-26T15:51:34.000Z",
-      "summary": "AI实验室的研究赌注是：在数千个多样化RL环境中训练模型完成数百万可验证任务，就能构建AGI。这种训练会培养出能连续数周处理开放任务、应对错误和歧义的问题解决技能。虽然模型训练时的样本效率仅为人类的百万分之一，但训练成本是一次性的，可摊销到数十亿次用户会话中；真正重要的是模型在单个会话内的智能和样本效率，而这随着RL训练正在提升。持续学习或许不再必要--如果上下文内的学习能力足够强、时间跨度足够长，就无需将经验蒸馏回权重。Transformer架构创新已能大幅扩展上下文存储，未来可能实现任意大的上下文窗口。论文还指出，一个领域不仅需要可验证性，还需要可碾压性--能在确定性、可重播的模拟器中并行运行大量rollout。",
-      "category": "tip",
-      "score": 61,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-02T18:47:08Z"
+  "cachedAt": "2026-07-02T20:36:40Z"
 }
