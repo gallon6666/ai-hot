@@ -1,8 +1,47 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNDAzMjAwMDAwLCJpIjoiY21xd3Rsc2cwMDAxbnNscDB6dDNleXpociJ9",
+  "nextCursor": "eyJhIjoxNzgyNDAzNDg2MDAwLCJpIjoiY21xd3RpY3NlMDAxYnNscDB0eWUyNzVueCJ9",
   "items": [
+    {
+      "id": "cmr2x3a7n0c0tsl8zxytx1kfx",
+      "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
+      "title_en": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
+      "url": "https://mp.weixin.qq.com/s/OqL6ID-mAel8XN-slYgXOA",
+      "permalink": "https://aihot.virxact.com/items/cmr2x3a7n0c0tsl8zxytx1kfx",
+      "source": "公众号：昆仑万维（天工）",
+      "publishedAt": "2026-07-02T02:53:26.000Z",
+      "summary": "昆仑万维天工3.2发布Skywork Tags，将AI智能体以团队成员身份接入Slack、飞书、钉钉、Discord、Telegram等即时通讯工具。团队可在原有工作群中@Skywork参与讨论，无需切换窗口或迁移数据。共享版Agent持续吸收多样上下文后表现反超精心调教的个人版，团队最终完全改用共享版。Skywork Tags不要求改变工作方式，让AI积累团队上下文并越用越强。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true
+    },
+    {
+      "id": "cmr2x7ii20c2jsl8zygz5iw9n",
+      "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/971/469.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr2x7ii20c2jsl8zygz5iw9n",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-02T02:51:10.000Z",
+      "summary": "支付宝阿宝 AI 助手今日正式开放公测，iOS 和安卓用户可在应用商店或支付宝 App 搜索\"阿宝\"或\"蚂蚁阿宝\"直接体验。开通后右滑进入新版，以对话方式安排办事，例如说出\"查公积金\"，阿宝会自动匹配对应小程序和服务入口，用户点击确认即可完成。支付宝承诺所有资金变动与支付环节均需用户本人确认，扫码、转账等功能已预留入口。",
+      "category": "ai-products",
+      "score": 80,
+      "selected": true
+    },
+    {
+      "id": "cmr2t1n9h0b18sl8zqxn9r5nu",
+      "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+      "title_en": "Skills for Design Engineers 作者 @emilkowalski 是知名设计工程师，曾在 Vercel、Linear 工作，也是 Sonner、Vaul 等流行组件的创建者。…",
+      "url": "https://x.com/shao__meng/status/2072484635955900792",
+      "permalink": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
+      "source": "X：邵猛 (@shao__meng)",
+      "publishedAt": "2026-07-02T00:56:56.000Z",
+      "summary": "Emil Kowalski 将多年 UI/动画原则沉淀为三个 Skill，使 Codex、Claude Code、Cursor 等 Coding Agents 具备资深设计工程师的审美判断。核心规则：动画必须有理由；每天 100+ 次的高频操作禁用动画；UI 动画控制在 300ms 内；只动画 transform 和 opacity；入口从 scale（0.95）+opacity：0 开始；尊重 prefers-reduced-motion（仅移除位移动画）。review-animations 以严格标准审查动画代码，输出 Before/After/Why 表格。animation-vocabulary 将模糊描述（如\"弹一下的效果\"）转为专业动效术语。",
+      "category": "tip",
+      "score": 77,
+      "selected": true
+    },
     {
       "id": "cmr2jtg2z08nvsl8zt9pagjoe",
       "title": "Claude Code v2.1.198 发布",
@@ -1263,46 +1302,7 @@
       "category": "ai-products",
       "score": 71,
       "selected": true
-    },
-    {
-      "id": "cmqtp5syl05k5sl0ec5cvuedt",
-      "title": "多数主流AI聊天机器人政治立场偏左，\"反觉醒\"模型也不例外",
-      "title_en": "Most major AI chatbots still lean left on political questions， even \"anti-woke\" models are no exception",
-      "url": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception",
-      "permalink": "https://aihot.virxact.com/items/cmqtp5syl05k5sl0ec5cvuedt",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-06-25T16:04:32.000Z",
-      "summary": "华盛顿邮报调查显示，多数主流AI聊天机器人在政治问题上明显偏左。OpenAI GPT-5.5在80%回答中仅呈现左派论据；DeepSeek V4 Pro为70%；Anthropic Claude Opus 4.8有43%纯左、57%给出双方观点。xAI的Grok 4.3左倾回答仍多于右倾。右翼平台Gab的Arya左倾回答是右倾的12倍。Google Gemini 3.1 Pro是例外，93%回答同时呈现双方立场。特朗普推动的\"反觉醒\"AI未能改变这一格局。",
-      "category": "tip",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmqwtvowe0035slp023899gx2",
-      "title": "冻结多token预测加速Pixel上的Gemini Nano模型",
-      "title_en": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction",
-      "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction",
-      "permalink": "https://aihot.virxact.com/items/cmqwtvowe0035slp023899gx2",
-      "source": "Google Research：Blog（网页）",
-      "publishedAt": "2026-06-25T16:00:00.000Z",
-      "summary": "Google Research提出一种新架构，在已冻结的Gemini Nano v3模型上改造Multi-Token Prediction（MTP），以加速Pixel 9和10系列上的设备端推理。该方法基于EAGLE框架和CALM，无需单独训练占用内存的草稿模型，通过\"晚期退出\"策略实现加速。AI通知摘要和校对功能因此生成文本速度显著提升、能耗降低，开发者无需为每个新任务微调独立模型。",
-      "category": "paper",
-      "score": 55,
-      "selected": true
-    },
-    {
-      "id": "cmqwtlsg0001nslp0zt3eyzhr",
-      "title": "SGLang 引入 Waterfill 与 LPLB 提升 DeepEP MoE 负载均衡",
-      "title_en": "Blog Improving DeepEP MoE Load Balance in SGLang with Waterfill and LPLB Mixture-of-Experts （MoE） models rely on Expert Parallelism （EP） to scale inference across multiple GPUs. In SGLang， DeepEP and EPLB provide high-performance serving under EP， but the workload seen by … NVIDIA Team",
-      "url": "https://www.lmsys.org/blog/2026-06-26-waterfill-lplb",
-      "permalink": "https://aihot.virxact.com/items/cmqwtlsg0001nslp0zt3eyzhr",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-06-25T16:00:00.000Z",
-      "summary": "SGLang 为 DeepEP MoE 推理新增两种调度时负载均衡方法：Waterfill 将共享专家分配给负载更低的 rank，在 DeepSeek-V3/R1 服务负载下使总吞吐量提升 1.48% 至 4.66%，在 DeepSeek V4 上最佳点从 49，253 tok/s 提升至 51，677 tok/s（+4.92%）；LPLB 基于线性规划优化冗余专家副本的 token 路由，配合 EPLB 在相同集群上实现吞吐量提升 0.84% 至 7.34%。",
-      "category": "ai-products",
-      "score": 58,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-01T23:41:59Z"
+  "cachedAt": "2026-07-02T04:20:15Z"
 }
