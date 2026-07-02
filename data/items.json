@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNDAzNDg2MDAwLCJpIjoiY21xd3RpY3NlMDAxYnNscDB0eWUyNzVueCJ9",
+  "nextCursor": "eyJhIjoxNzgyNDAzOTAyMDAwLCJpIjoiY21xdHBmOHc0MDVvcHNsMGUybGRrZDFxMSJ9",
   "items": [
+    {
+      "id": "cmr37v68e01d8sly0hdur3j7r",
+      "title": "OpenAI提议美国政府持股5%估值426亿美元",
+      "title_en": "OPENAI 🔥： US government may get a 5% stake in OpenAI worth $42.6 billion， according to Financial Ti…",
+      "url": "https://x.com/testingcatalog/status/2072585845542969583",
+      "permalink": "https://aihot.virxact.com/items/cmr37v68e01d8sly0hdur3j7r",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-07-02T07:39:07.000Z",
+      "summary": "据Financial Times和CNBC报道，OpenAI提议向美国政府提供公司5%的股份，按近期8520亿美元估值计算，价值约426亿美元。OpenAI CEO Sam Altman表示，此举是与公众分享AI发展红利的最佳方式。",
+      "category": "industry",
+      "score": 75,
+      "selected": true
+    },
     {
       "id": "cmr2x3a7n0c0tsl8zxytx1kfx",
       "title": "昆仑万维天工3.2发布Skywork Tags，AI智能体加入工作群聊",
@@ -89,7 +102,7 @@
       "permalink": "https://aihot.virxact.com/items/cmr29qmtz064gsl8zqzza1stv",
       "source": "X：智谱 Z.ai (@Zai_org)",
       "publishedAt": "2026-07-01T15:59:46.000Z",
-      "summary": "推出 ZCode，GLM-5.2 的官方开发环境\n\n- GLM Coding Plan 订阅用户：现可在 ZCode 获得 1.5 倍使用配额\n- 支持 BYOK：可与您现有的订阅和 API 配合使用\n- 适用于 macOS、Windows 和 Linux\n\n立即下载：http：//zcode.z.ai/en",
+      "summary": "推出 ZCode，GLM-5.2 的官方开发环境\n\n- GLM Coding Plan 订阅用户：现可在 ZCode 获得 1.5 倍使用配额\n- 支持 BYOK：可与您现有的订阅和 API 配合使用\n- 适用于 macOS、Windows 和 Linux\n\n立即下载：http://zcode.z.ai/en",
       "category": "ai-products",
       "score": 67,
       "selected": true
@@ -175,7 +188,7 @@
     {
       "id": "cmr1eiq770260slnlxguii7jy",
       "title": "mattpocockuk 的 /writing-great-skills：编写可预测 AI Skill 的指南",
-      "title_en": "/writing-great-skills https：//github.com/mattpocock/skills/tree/main/skills/productivity/writing-gre…",
+      "title_en": "/writing-great-skills https://github.com/mattpocock/skills/tree/main/skills/productivity/writing-gre...",
       "url": "https://x.com/shao__meng/status/2072126769986220157",
       "permalink": "https://aihot.virxact.com/items/cmr1eiq770260slnlxguii7jy",
       "source": "X：邵猛 (@shao__meng)",
@@ -435,7 +448,7 @@
     {
       "id": "cmr03h5tq03jjslki3a281zet",
       "title": "一个人管理5款产品，80%时间不写代码？Every的复利工程",
-      "title_en": "http：//x.com/i/article/2071795831028826112",
+      "title_en": "http://x.com/i/article/2071795831028826112",
       "url": "https://x.com/xiaohu/status/2071796715162857477",
       "permalink": "https://aihot.virxact.com/items/cmr03h5tq03jjslki3a281zet",
       "source": "X：小互 (@xiaohu)",
@@ -505,7 +518,7 @@
       "permalink": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
       "source": "X：OpenClaw (@openclaw)",
       "publishedAt": "2026-06-29T20:11:33.000Z",
-      "summary": "OpenClaw 现已登陆 iOS 和 Android 🦞\n\n📱 原生移动应用，终于来了\n💬 智能体装进口袋\n🔔 频道、任务、回复，随时处理\n\n用你的大拇指，在任何地方运行智能体。\n\niOS： https：//apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132\nAndroid： https：//play.google.com/store/apps/details？id=ai.openclaw.app",
+      "summary": "OpenClaw 现已登陆 iOS 和 Android 🦞\n\n📱 原生移动应用，终于来了\n💬 智能体装进口袋\n🔔 频道、任务、回复，随时处理\n\n用你的大拇指，在任何地方运行智能体。\n\niOS： https://apps.apple.com/us/app/openclaw-ai-that-does-things/id6780396132\nAndroid： https://play.google.com/store/apps/details?id=ai.openclaw.app",
       "category": "ai-products",
       "score": 71,
       "selected": true
@@ -1150,7 +1163,7 @@
     {
       "id": "cmqu93tek02e2sl80iom0bica",
       "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-      "title_en": "http：//x.com/i/article/2070315221424787456",
+      "title_en": "http://x.com/i/article/2070315221424787456",
       "url": "https://x.com/xiaohu/status/2070317717811540149",
       "permalink": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
       "source": "X：小互 (@xiaohu)",
@@ -1289,20 +1302,7 @@
       "category": "tip",
       "score": 65,
       "selected": true
-    },
-    {
-      "id": "cmqwticse001bslp0tye275nx",
-      "title": "OpenKnowledge：开源、AI 优先的 Obsidian/Notion 替代品",
-      "title_en": "Show HN： OpenKnowledge - open source AI-first alternative to Obsidian/Notion",
-      "url": "https://github.com/inkeep/open-knowledge",
-      "permalink": "https://aihot.virxact.com/items/cmqwticse001bslp0tye275nx",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-06-25T16:04:46.000Z",
-      "summary": "OpenKnowledge 是一款开源、本地优先的 Markdown 编辑器，私密免费，提供完整的所见即所得编辑体验。支持 macOS 桌面应用和 Web UI，内置文件导航、搜索、标签和图谱 wiki 链接查看器。可与 Claude、Codex、Cursor 等桌面应用协同实现 AI 编辑，并通过 MCP/CLI 兼容任意 AI 智能体框架。自带 MCP、技能和智能搜索，支持 LLM Wiki 和知识图谱。团队协作基于 Git/GitHub 实现无代码共享与自动同步。支持嵌入 HTML 及富文本组件。桌面应用内建 TUI，Linux/Windows/Intel Mac 用户可通过 CLI（Node.js 24+）以本地 Web 应用运行。可直接打开任何包含 Markdown/MDX 文件的文件夹。开源协议 GPL-3.0-or-later。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-02T04:20:15Z"
+  "cachedAt": "2026-07-02T08:24:19Z"
 }
