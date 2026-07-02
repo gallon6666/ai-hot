@@ -1,8 +1,47 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNDMwMTkyMDAwLCJpIjoiY21xdTVyN2FsMDFqN3NsODBtZWcwbGplMyJ9",
+  "nextCursor": "eyJhIjoxNzgyNDM5MzIwMDAwLCJpIjoiY21xdWFudXJvMDJwcnNsODA1M3JiaGZqbCJ9",
   "items": [
+    {
+      "id": "cmr3pz3hx00w5sl7lk3qk71x5",
+      "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+      "title_en": "Anthropic's Pentagon fight was less about access to Claude than control over how the military can us…",
+      "url": "https://x.com/kimmonismus/status/2072718147279335507",
+      "permalink": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-07-02T16:24:50.000Z",
+      "summary": "WSJ法庭文件显示，Anthropic CEO Dario Amodei与五角大楼副部长Emil Michael数月邮件往来，核心分歧在于Claude的军事用途护栏。Anthropic要求禁止全自主武器及某些监控用途，五角大楼则希望Claude可用于所有合法国家安全场景。Michael称若分歧太大不愿\"强行推动\"。随后五角大楼将Anthropic列为供应链风险，阻止合作伙伴在国防部项目中使用其模型。法官暂停部分措施，政府正在上诉。Michael称原先采用Anthropic的操作中已有三分之二切换至其他AI工具。",
+      "category": "industry",
+      "score": 75,
+      "selected": true
+    },
+    {
+      "id": "cmr3p5u0c00qwsl7lyxbee0nd",
+      "title": "快手可灵AI获初始投资者20.28亿美元注资，投后估值180亿美元",
+      "title_en": "快手：初始投资者同意向北京可灵注资 20.28 亿美元",
+      "url": "https://www.ithome.com/0/971/954.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-02T15:36:38.000Z",
+      "summary": "快手在港交所公告，21名初始投资者同意以138.24亿元人民币（20.28亿美元）现金注资北京可灵，后者将持有可灵AI相关资产。同日15名额外投资者追加出资52.235亿元人民币（7.6639亿美元），认购总上限为204.471亿元（30亿美元），对应北京可灵扩大后注册资本的16.67%。投后估值180亿美元。快手预计未来12个月内启动可灵AI赴港上市，募资用于扩充算力、建设数据中心及人才引进。",
+      "category": "industry",
+      "score": 71,
+      "selected": true
+    },
+    {
+      "id": "cmr3n0nvi006usl7l9bxrmouw",
+      "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+      "title_en": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
+      "url": "https://www.ithome.com/0/971/937.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-02T14:22:49.000Z",
+      "summary": "据404 Media获取的内部资料，Atlassian、Adobe、亚马逊等六家企业正限制员工使用AI工具，要求改用能力较低的大模型避免成本失控。至少一家企业月度AI开销增至三倍，超1500万美元。花旗银行因GitHub改为按量计费，于6月24日禁用Claude Opus 4.6、4.7及GPT-5.5等旗舰模型。Adobe于6月30日终止Claude无限制使用协议。Atlassian数据显示其AI月支出从500万美元飙升至1500万美元，本财年预计超1.2亿美元。GitHub计划改用开源模型并测试单人按量计费模式。",
+      "category": "industry",
+      "score": 74,
+      "selected": true
+    },
     {
       "id": "cmr3hyp3j0139sllxjjc2fk8h",
       "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
@@ -1263,46 +1302,7 @@
       "category": "tip",
       "score": 71,
       "selected": true
-    },
-    {
-      "id": "cmqu93tek02e2sl80iom0bica",
-      "title": "小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色",
-      "title_en": "http://x.com/i/article/2070315221424787456",
-      "url": "https://x.com/xiaohu/status/2070317717811540149",
-      "permalink": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-      "source": "X：小互 (@xiaohu)",
-      "publishedAt": "2026-06-26T01:26:23.000Z",
-      "summary": "博主小互开源个人IP配图技能\"小互IP Studio\"，包含31个原创角色（15个手绘线稿角色+16个谐音梗meme形象）及一套配图方法论。该Agent可自动读取文章、规划配图类型（情绪图/示意图/四格漫画）、生成并自查返工。默认画风为手绘线稿淡彩，另备5种皮肤（3D盲盒、黑白线稿等）可切换。安装仅需Python3，支持Claude Code、Codex等工具，需自备OpenAI兼容的图像API key（默认GPT-image-2）；也可只输出提示词手动生图。",
-      "category": "tip",
-      "score": 81,
-      "selected": true
-    },
-    {
-      "id": "cmqwr2hi6008msliky22llevm",
-      "title": "一条命令在HF Jobs上启动vLLM服务器",
-      "title_en": "Run a vLLM Server on HF Jobs in One Command",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "permalink": "https://aihot.virxact.com/items/cmqwr2hi6008msliky22llevm",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-06-26T00:00:00.000Z",
-      "summary": "HuggingFace Jobs 支持一条命令启动 vLLM 服务器，用于测试、评估或批量生成。使用 `hf jobs run` 命令，指定官方 `vllm/vllm-openai` 镜像、GPU flavor（如 `a10g-large`）、暴露端口 8000 并设置超时。服务器启动后可通过 OpenAI 兼容 API 访问，每次请求需携带 HF token 作为 bearer token（仅限有读权限的用户）。示例部署了 Qwen/Qwen3-4B（多 GPU 需 `--tensor-parallel-size`）。`a10g-large` 价格为 $1.50/小时，按分钟计费，可通过 `hf jobs cancel` 停止。",
-      "category": "tip",
-      "score": 62,
-      "selected": true
-    },
-    {
-      "id": "cmqu5r7al01j7sl80meg0lje3",
-      "title": "@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元",
-      "title_en": "This is a brilliant report. The State of the AI Economy by @exponentialview - $110B real AI revenue…",
-      "url": "https://x.com/rohanpaul_ai/status/2070288396644491317",
-      "permalink": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-06-25T23:29:52.000Z",
-      "summary": "报告基于去重后的消费端AI支出统计，过去12个月实际AI营收达1100亿美元，年化运行率超1750亿美元，增长速度约为移动/互联网普及浪潮的3倍。营收形成速度急剧加快：2023年新增10亿美元收入需180天，现缩短至不足2天。企业AI已脱离试点阶段，但全面推广仍处早期。31%的标普500公司在财报电话会提及AI，仅20%量化影响。Token降价每10%刺激12-18%用量增长，需求价格弹性强。超大规模云厂商AI收入目前大致覆盖基础设施折旧，GPU经济效益依赖6年计算寿命假设。电力供应和数据中心成本仍是未来扩展主要瓶颈。",
-      "category": "tip",
-      "score": 82,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-02T14:27:27Z"
+  "cachedAt": "2026-07-02T17:00:49Z"
 }
