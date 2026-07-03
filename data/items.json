@@ -1,8 +1,34 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNTI0NTk4MDAwLCJpIjoiY21xdnBwMXppMGY1N3NsODB6eGNibm1xeiJ9",
+  "nextCursor": "eyJhIjoxNzgyNTY1MzIwMDAwLCJpIjoiY21xd2U2anJxMDAwaXNsNnV3MmkzZTZ6eSJ9",
   "items": [
+    {
+      "id": "cmr4ewvnu016msll54kwma7sx",
+      "title": "阿里达摩院发布超导材料发现AI智能体Elements Claw",
+      "title_en": "阿里达摩院：AI 智能体发现 4 种全新超导材料，已获实验验证",
+      "url": "https://www.ithome.com/0/972/089.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr4ewvnu016msll54kwma7sx",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-03T03:27:15.000Z",
+      "summary": "7月3日，阿里达摩院联合中国人民大学、中国科学院大学发布首个超导材料发现AI智能体Elements Claw。该智能体采用\"专通融合\"架构，基于1.25亿分子/晶体结构预训练的1B参数原子基础模型Elements，判断超导性AUC达0.996，预测临界温度平均误差小于1K。AI仅用28个GPU小时筛选240万晶体结构，预测出6.8万个候选材料，其中4种（Hf21Re25、Zr4VRe7、HfZrRe4、Zr3ScRe8）已合成并验证超导性，临界温度最高6.5K。全部240万稳定晶体数据库已开放。",
+      "category": "paper",
+      "score": 80,
+      "selected": true
+    },
+    {
+      "id": "cmr4768yq013qsl3g29wasjnp",
+      "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
+      "title_en": "记一个我被Claude Fable 5震撼的瞬间。",
+      "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
+      "permalink": "https://aihot.virxact.com/items/cmr4768yq013qsl3g29wasjnp",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-07-03T00:16:00.000Z",
+      "summary": "作者用 Claude Fable 5 优化 AIHOT 网站的 SEO 与 GEO。模型自主启动 22 个 Agent 调研 40 分钟，发现豆包 App 每天六千多次访问未被统计等异常。规划境外加速时，否定 Claude Opus 4.8 的 Cloudflare 方案（无法国内直连/国外分流，且 2025 年起默认拦截 AI 爬虫），改用火山引擎 CDN。因需白名单，模型自行找到工单入口提交专业工单，22 分钟开通；发现工程师漏答回源 IP 网段问题，礼貌追问并补充备选方案；发现官方方案有安全漏洞，自行加暗号验证。23：30 切换域名解析，10 分钟后 616 个海外请求走新线路。最终生成运维文档，提醒边缘证书 10 月 2 日到期并附续期步骤。",
+      "category": "tip",
+      "score": 62,
+      "selected": true
+    },
     {
       "id": "cmr46bm6n00xesl3gigy5su8z",
       "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
@@ -300,6 +326,32 @@
       "summary": "Emil Kowalski 将多年 UI/动画原则沉淀为三个 Skill，使 Codex、Claude Code、Cursor 等 Coding Agents 具备资深设计工程师的审美判断。核心规则：动画必须有理由；每天 100+ 次的高频操作禁用动画；UI 动画控制在 300ms 内；只动画 transform 和 opacity；入口从 scale（0.95）+opacity：0 开始；尊重 prefers-reduced-motion（仅移除位移动画）。review-animations 以严格标准审查动画代码，输出 Before/After/Why 表格。animation-vocabulary 将模糊描述（如\"弹一下的效果\"）转为专业动效术语。",
       "category": "tip",
       "score": 77,
+      "selected": true
+    },
+    {
+      "id": "cmr4dqzbq00uksll5xkxyo3nw",
+      "title": "表示分布匹配（RDM）用于一步视觉生成",
+      "title_en": "Representation Distribution Matching for One-Step Visual Generation",
+      "url": "https://arxiv.org/abs/2607.02375",
+      "permalink": "https://aihot.virxact.com/items/cmr4dqzbq00uksll5xkxyo3nw",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "summary": "表示分布匹配（RDM）通过匹配冻结预训练编码器下的生成与参考特征分布来训练一步图像生成器。三个发现：经典MMD正确估计后成为可扩展目标；生成批次大小最优超过2048；单一表示可被欺骗，需匹配平衡编码器组合并采用独立于训练损失的SW_r14评估。改进的iRDM在ImageNet上以SW_r14 1.30达一步生成SOTA，PickScore在71.2%样本上偏好iRDM。该方法将四步FLUX.2后训练为一步生成器，在GenEval（0.826对0.794）和PickScore（22.76对22.58）上超越原版，仅需90 H200 GPU小时。",
+      "category": "paper",
+      "score": 74,
+      "selected": true
+    },
+    {
+      "id": "cmr4blm3e00amsll5l19jk6ce",
+      "title": "Program-as-Weights：一种面向模糊函数的编程范式",
+      "title_en": "Program-as-Weights： A Programming Paradigm for Fuzzy Functions",
+      "url": "https://arxiv.org/abs/2607.02512",
+      "permalink": "https://aihot.virxact.com/items/cmr4blm3e00amsll5l19jk6ce",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-02T00:00:00.000Z",
+      "summary": "Program-as-Weights （PAW） 提出模糊函数编程范式，将自然语言描述的函数编译为紧凑、可本地执行的神经制品。PAW 使用在 10M 示例数据集 FuzzyBench 上训练的 4B 编译器，为冻结的轻量级解释器输出参数高效适配器。0.6B 的 Qwen3 解释器执行 PAW 程序性能匹敌直接提示 Qwen3-32B，推理内存仅约五十分之一，在 MacBook M3 上达 30 tokens/s。该方法将基础模型从每次输入的求解器重新定义为工具构建器，一次函数定义后生成的制品可离线廉价复用。",
+      "category": "paper",
+      "score": 74,
       "selected": true
     },
     {
@@ -1250,59 +1302,7 @@
       "category": "ai-products",
       "score": 66,
       "selected": true
-    },
-    {
-      "id": "cmqwclgpa00a0slfd8mlysoe8",
-      "title": "\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击",
-      "title_en": "The companies most likely to automate your job are now funding a $1 billion program to retrain you",
-      "url": "https://the-decoder.com/the-companies-most-likely-to-automate-your-job-are-now-funding-a-1-billion-program-to-retrain-you",
-      "permalink": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-06-27T12:25:21.000Z",
-      "summary": "前美国商务部长Raimondo与前印第安纳州长Holcomb共同发起非营利\"Raise Us\"，目标为AI经济下工人再培训筹集10亿美元，已锁定5亿。Amazon、Anthropic、Microsoft、OpenAI等支持，引发独立性质疑。将在阿肯色、康涅狄格、马里兰、犹他四州试点，包括AI职业导航、服务年计划扩展、工资保险等。工作分州合作、雇主联盟、教育培训、政策实验室四大支柱。此前美国工人再培训效果不佳，计划能否成功尚待观察。",
-      "category": "industry",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmqw4pe3v007islohecqcejvi",
-      "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/969/400.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqw4pe3v007islohecqcejvi",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-27T08:16:09.000Z",
-      "summary": "美国企业面临 AI 账单失控，开始转向 Token 最小化策略。旧金山公司 Lindy 此前主要调用 Anthropic 的 Claude 模型，每月 AI 账单超支甚至超过员工工资。该公司 CEO 弗洛·克里维洛表示，本月初已将 100% 流量切换到 DeepSeek，预计未来几个月可节省数百万美元。企业开始采用按任务匹配模型的\"模型路由\"，不再将最贵的前沿模型用于所有场景。部分客户已决定暂停 AI 投入，待证明投资回报率后再继续。",
-      "category": "industry",
-      "score": 70,
-      "selected": true
-    },
-    {
-      "id": "cmqvtzehe0g65sl800jrc1x17",
-      "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
-      "title_en": "阿里千问输入法上线 macOS 版：最快 300 字 / 分，AI 自动润色",
-      "url": "https://www.ithome.com/0/969/334.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-27T03:39:06.000Z",
-      "summary": "阿里千问输入法 macOS 版今日上线官网，支持最快 300 字/分的 AI 语音输入，可自动润色、将口语转为工整文字，并支持 9 种方言，纯净无广告。官方预告 iOS、Android、Windows 版将于近日发布。此前千问团队已于今年 5 月推出千问语音输入法（千问 App 内的组件），具备去语气词、纠错、格式化整理及基于上下文的智能回复等能力，而本次上线的输入法则定位为独立 App，填补千问在移动端 AI 输入法赛道的空白。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true
-    },
-    {
-      "id": "cmqvpp1zi0f57sl80zxcbnmqz",
-      "title": "国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%",
-      "title_en": "国家统计局：电子行业利润 1-5 月增长 103.9%，AI 驱动高端算力 / 存储芯片需求爆发",
-      "url": "https://www.ithome.com/0/969/311.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqvpp1zi0f57sl80zxcbnmqz",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-27T01:43:18.000Z",
-      "summary": "1-5月全国规上工业企业利润同比增18.8%。电子行业利润增103.9%，贡献率43.1%，主因全球AI技术变革推动高端算力芯片和存储芯片需求爆发。原材料制造业利润增83.1%，其中有色增117.1%、化工增71.6%。高技术制造业利润增44.7%，电子专用材料制造增665.4%。企业每百元营收成本降0.59元，营收利润率5.56%，为2024年以来累计最高。",
-      "category": "industry",
-      "score": 71,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-03T00:18:04Z"
+  "cachedAt": "2026-07-03T04:55:43Z"
 }
