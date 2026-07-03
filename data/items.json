@@ -1,8 +1,60 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNTc5NTk4MDAwLCJpIjoiY21xd200NWY5MDFuNnNseTBncGw2YjZsNSJ9",
+  "nextCursor": "eyJhIjoxNzgyNjE0NzE2MDAwLCJpIjoiY21xeDdiZWhuMDNnM3NscDBwenJvZnF6OSJ9",
   "items": [
+    {
+      "id": "cmr4s179804l5sll5u47j7031",
+      "title": "面向 Web 开发者的 Safari MCP 服务器",
+      "title_en": null,
+      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers",
+      "permalink": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-03T09:59:42.679Z",
+      "summary": "Safari Technology Preview 247 推出 Safari MCP 服务器，基于 Model Context Protocol，允许任何 MCP 兼容客户端连接 Safari 浏览器窗口。智能体可获取 DOM、网络请求、截图、控制台输出等信息，自主完成调试、性能分析、可访问性检查等任务。内置 `browser_console_messages`、`screenshot`、`evaluate_javascript`、`list_network_requests` 等工具。开发者安装后启用\"远程自动化与外部智能体\"选项，即可通过命令接入，减少窗口切换。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true
+    },
+    {
+      "id": "cmr4rs02404h6sll50myozvz0",
+      "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
+      "title_en": "AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理",
+      "url": "https://www.ithome.com/0/972/341.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr4rs02404h6sll50myozvz0",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-03T09:15:08.000Z",
+      "summary": "7月3日，国家互联网信息办公室就《互联网信息服务管理办法（修订草案征求意见稿）》再次公开征求意见。草案新增\"智能信息服务\"专章，要求AI服务提供者公示技术基本原理、训练数据来源，对生成合成内容进行标识，禁止强制用户使用智能服务或利用算法扰乱网络舆论。草案还强化用户账号管理，明确对超过6个月不登录账号可依约注销；要求平台建立网络暴力信息特征库，提供屏蔽、禁止转载等防护选项。意见反馈截止8月2日。",
+      "category": "industry",
+      "score": 79,
+      "selected": true
+    },
+    {
+      "id": "cmr4righa04d8sll54465w8z3",
+      "title": "面壁智能发布AI全自动预训练框架ForgeTrain，8小时追平Megatron-LM",
+      "title_en": "AI4AI 技术分享：面壁智能 ForgeTrain 如何 8 小时追平、2 天反超英伟达 Megatron-LM？",
+      "url": "https://mp.weixin.qq.com/s/JVBbqU1O967ktzfEPuDERQ",
+      "permalink": "https://aihot.virxact.com/items/cmr4righa04d8sll54465w8z3",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "publishedAt": "2026-07-03T09:12:17.000Z",
+      "summary": "面壁智能发布全球首个完全由AI编写、无人类干预的生产级大模型预训练框架ForgeTrain。该框架针对特定模型和硬件从零自动\"锻造\"专用训练代码。基准测试显示，ForgeTrain在8小时内追平Megatron-LM，1.5至2天内实现稳定反超，模型FLOPS利用率提升约8%~10%，且可迁移至不同模型（MiniCPM4-0.5B/8B）和硬件（H100及昇腾NPU）。其采用四阶段Harness优化流程，全程自动判定。面壁智能将其工程思想概括为Forge Engineering。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true
+    },
+    {
+      "id": "cmr4psupf03zwsll57yggswsf",
+      "title": "Wan Video 推出\"音乐伴舞\"新功能",
+      "title_en": "New feature on Wan Video： **Music to Dance** 💃 Upload a character， add a song， and let Wan Video ge…",
+      "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
+      "permalink": "https://aihot.virxact.com/items/cmr4psupf03zwsll57yggswsf",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "publishedAt": "2026-07-03T08:55:57.000Z",
+      "summary": "Wan Video 新功能：**音乐伴舞** 💃\n上传一个角色，添加一首歌曲，让 Wan Video 生成与节奏同步的舞蹈视频。\n可用舞种：\n• 街舞\n• 踢踏舞\n• 拉丁舞\n• K-Pop\n• 中国古典舞\n从节拍至动作，你的角色随音乐起舞。\n\n前往 wan.video 体验音乐伴舞 👉 https://int.alibabacloud.com/m/1000412428/",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true
+    },
     {
       "id": "cmr4kiyka02nhsll5t8kmi285",
       "title": "《Fable》通关指南：短绳AI编程法",
@@ -1250,59 +1302,7 @@
       "category": "tip",
       "score": 76,
       "selected": true
-    },
-    {
-      "id": "cmr059nvo0402slkikkryczay",
-      "title": "OSWorld2.0：长时域真实世界计算机使用工作流基准",
-      "title_en": "OSWorld2.0： Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
-      "url": "https://arxiv.org/abs/2606.29537",
-      "permalink": "https://aihot.virxact.com/items/cmr059nvo0402slkikkryczay",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-28T00:00:00.000Z",
-      "summary": "OSWorld2.0 发布，包含108个长时域计算机使用工作流，覆盖日常与专业任务。每项任务用户中位数约1.6小时完成，Claude Opus 4.7（最大思考）平均需318次工具调用（OSWorld 1.0约30次）。基准聚焦流交互、动态环境、跨源推理、隐式状态推断、视觉空间精度等真实挑战。任务基于真实输入工件和状态化用户档案，附安全报告。500步二元完成指标下，Claude Opus 4.8（最大思考+批量调用）得分最高仅20.6%（部分54.8%）；GPT-5.5更省token但约13%。结果表明当前智能体远未达专业级：瓶颈不在基本GUI控制或编码，而是丢失约束、错过中途信息、猜测而非询问、跳过验证，尤其依赖隐藏状态时最差。",
-      "category": "paper",
-      "score": 82,
-      "selected": true
-    },
-    {
-      "id": "cmqwub84n008jslp0ael13807",
-      "title": "SpaceX 注册 SpaceXAI 商标，将合并 xAI",
-      "title_en": "NEWS： SpaceX just trademarked \"SpaceXAI\" Elon Musk says xAI will be dissolved as a separate company…",
-      "url": "https://x.com/cb_doge/status/2070973276562530507",
-      "permalink": "https://aihot.virxact.com/items/cmqwub84n008jslp0ael13807",
-      "source": "X：cb_doge (@cb_doge)",
-      "publishedAt": "2026-06-27T20:51:20.000Z",
-      "summary": "消息：SpaceX 刚刚注册了\"SpaceXAI\"商标。\n\n埃隆·马斯克表示 xAI 将解散，不再作为独立公司，因此它将只是 SpaceXAI，SpaceX 的 AI 产品。",
-      "category": "industry",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmqwmotnk01tasly021bf38i5",
-      "title": "苹果Vision负责人跳槽OpenAI，触控OLED MacBook用M5芯片",
-      "title_en": "刚刚！苹果VisionPro 眼镜负责大神跳槽OpenAI！AI 硬件大战，库克最担心的事儿发生了！ Apple 这几天也是亏麻了！ 宣布涨价以来，市值直接蒸发2300 多e美金！ 2026年6月…",
-      "url": "https://x.com/berryxia/status/2070916520822321292",
-      "permalink": "https://aihot.virxact.com/items/cmqwmotnk01tasly021bf38i5",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-06-27T17:05:48.000Z",
-      "summary": "2026年6月26日，Mark Gurman称苹果Vision产品组副总裁Paul Meade下周离职加入OpenAI硬件部门。他负责Vision Pro、无屏幕AI智能眼镜及AR眼镜研发。苹果计划首款触控OLED MacBook使用M5 Pro/Max芯片，2026年底到2027年初发布；M7 Pro/Max版本2027年底跟进。苹果此前因涨价市值蒸发2300多亿美元。核心高管流失至OpenAI凸显AI硬件竞争加速。",
-      "category": "industry",
-      "score": 76,
-      "selected": true
-    },
-    {
-      "id": "cmqwm45f901n6sly0gpl6b6l5",
-      "title": "DeepSeek 开源 DSpark 投机解码框架，加速 DeepSeek-V4 生成速度 60-85%",
-      "title_en": "DeepSeek Releases DSpark， a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60-85% Over MTP-1",
-      "url": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1",
-      "permalink": "https://aihot.virxact.com/items/cmqwm45f901n6sly0gpl6b6l5",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-06-27T16:59:58.000Z",
-      "summary": "DeepSeek 发布 DSpark 投机解码框架并开源检查点与训练代码。该框架不是新模型，而是在 DeepSeek-V4 权重上附加草稿模块，通过半自回归生成（并行骨干 + 轻量级顺序头）实现无损加速。生产环境下，DeepSeek-V4-Flash 和 V4-Pro 每用户生成速度较 MTP-1 基线分别提升 60-85% 和 57-78%。离线测试中，接受长度比 Eagle3 高 26-31%，比 DFlash 高 16-18%。配套 DeepSpec 训练代码库采用 MIT 许可证。",
-      "category": "paper",
-      "score": 79,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-03T08:26:27Z"
+  "cachedAt": "2026-07-03T11:41:10Z"
 }
