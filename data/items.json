@@ -1,8 +1,34 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNjkxMjAwMDAwLCJpIjoiY21xem9leWFsMDAwcHNsNDJ5amNlejJvYyJ9",
+  "nextCursor": "eyJhIjoxNzgyNjk4ODgwMDAwLCJpIjoiY21xeWt6ZWh0MDJzaHNsaXZmbHdoZ2RieCJ9",
   "items": [
+    {
+      "id": "cmr5zuihg0739slc7nv4mlc5r",
+      "title": "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
+      "title_en": "NVIDIA AI Introduces ASPIRE： A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Long Tasks",
+      "url": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks",
+      "permalink": "https://aihot.virxact.com/items/cmr5zuihg0739slc7nv4mlc5r",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-04T06:32:47.000Z",
+      "summary": "NVIDIA 联合密歇根大学、UIUC、UC Berkeley 等提出 ASPIRE，一个持续学习机器人框架。它通过协调器-执行器架构、闭环执行引擎、技能库和进化搜索，编写并优化机器人控制程序。编程智能体使用 Claude Code（Claude Opus 4.6，1M token 上下文窗口）。在 LIBERO-Pro 上最高比最强基线提升 77 分；Robosuite 双手交接成功率从 20% 提升至 92%；BEHAVIOR-1K 收音机拾取任务从 56% 提升至 88%。利用 LIBERO-90 积累的技能，ASPIRE 在零样本条件下对 LIBERO-Pro Long 任务达到约 31% 成功率，此前方法饱和在 4% 附近。",
+      "category": "paper",
+      "score": 70,
+      "selected": true
+    },
+    {
+      "id": "cmr5wizx2067eslc7xynzcf9y",
+      "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
+      "title_en": "我国研制全球首款神经动力学芯片，首次将单步运算时延压缩至 2.12 毫秒",
+      "url": "https://www.ithome.com/0/972/526.htm",
+      "permalink": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-04T05:01:02.000Z",
+      "summary": "北京大学集成电路学院联合中科院上海微系统所，发布全球首款基于可控存内计算的忆阻器神经动力学芯片，首次将单步运算时延压缩至2.12毫秒。芯片采用40纳米工艺，存内计算阵列与外围电路总面积0.28平方毫米，运行频率50 MHz，单步积分仅需9级流水。在脑皮层重建等任务中较当前GPU提速50至478倍，突破神经动力学实时计算瓶颈。相关成果7月3日发表于《科学》。",
+      "category": "paper",
+      "score": 74,
+      "selected": true
+    },
     {
       "id": "cmr5cef1q017islc779xjrcy6",
       "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
@@ -1276,33 +1302,7 @@
       "category": "tip",
       "score": 70,
       "selected": true
-    },
-    {
-      "id": "cmr034hsc03fdslki184emljf",
-      "title": "Agents-A1：35B MoE 智能体模型通过扩展 horizon 达到万亿参数级性能",
-      "title_en": "Scaling the Horizon， Not the Parameters： Reaching Trillion-Parameter Performance with a 35B Agent",
-      "url": "https://arxiv.org/abs/2606.30616",
-      "permalink": "https://aihot.virxact.com/items/cmr034hsc03fdslki184emljf",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-06-29T00:00:00.000Z",
-      "summary": "研究人员提出 Agents-A1，一个 35B 参数的 Mixture-of-Experts 智能体模型，通过扩展智能体 horizon（长轨迹与异构能力两个视角）达到万亿参数模型性能。团队构建了长 horizon 知识-行动基础设施，生成平均 45K token 的智能体轨迹，并采用三阶段训练：全领域监督微调、领域级教师模型训练、多教师领域路由在线蒸馏（含显著词汇对齐）。对比万亿参数模型 Kimi-K2.6 和 DeepSeek-V4-pro，Agents-A1 在 SEAL-0（56.4）、IFBench（80.6）、HiPhO（46.4）、FrontierScience-Olympiad（79.0）和 MolBench-Bind（56.8）上领先，并在 SciCode（44.3）、HLE（47.6）和 BrowseComp（75.5）上保持强竞争力。",
-      "category": "paper",
-      "score": 77,
-      "selected": true
-    },
-    {
-      "id": "cmqzoeyal000psl42yjcez2oc",
-      "title": "Anthropic：当AI成本超过工程师薪酬",
-      "title_en": "When AI Costs More Than the Engineer",
-      "url": "https://www.tomtunguz.com/ai-spend-breakeven-2029",
-      "permalink": "https://aihot.virxact.com/items/cmqzoeyal000psl42yjcez2oc",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-06-29T00:00:00.000Z",
-      "summary": "Anthropic在算力上的支出达到每位工程师每年51.5万美元，是其完全薪资（22.4万美元）的2.3倍。相比之下，顶尖1%软件公司的算力支出为8.9万美元，中位数仅为1.37万美元。三个2029年情景预测了这一差距的缩小路径。",
-      "category": "tip",
-      "score": 58,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-03T20:32:18Z"
+  "cachedAt": "2026-07-04T07:13:13Z"
 }
