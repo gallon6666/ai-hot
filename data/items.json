@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNjk4ODgwMDAwLCJpIjoiY21xeWt6ZWh0MDJzaHNsaXZmbHdoZ2RieCJ9",
+  "nextCursor": "eyJhIjoxNzgyNzE1NDU1MDAwLCJpIjoiY21xeXZka29rMDAwcXNsZjFjdHlrYXZlOSJ9",
   "items": [
+    {
+      "id": "cmr65ieko002tslf0xiomac0c",
+      "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
+      "title_en": "A 26，000-student study shows AI's hidden learning cost takes two full years to surface",
+      "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface",
+      "permalink": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-04T09:08:41.000Z",
+      "summary": "一项追踪26000名7-12年级中学生30个月的面板数据研究发现：使用AI后作业分数提升18%，完成时间从64分钟降至45分钟，但闭卷考试分数下降20%，升学考试成绩下降18%至24%，且完全影响约两年才显现。81%长期用户作业完成时间低于50分钟（外包迹象）。社会学科下降27%，STEM下降22%，英语下降17%，语文下降9%。每周使用AI一小时损失约5%，五小时损失30%。早期损失从约25%降至16%但未消失。",
+      "category": "tip",
+      "score": 73,
+      "selected": true
+    },
     {
       "id": "cmr5zuihg0739slc7nv4mlc5r",
       "title": "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
@@ -1289,20 +1302,7 @@
       "category": "industry",
       "score": 71,
       "selected": true
-    },
-    {
-      "id": "cmqykzeht02shslivflwhgdbx",
-      "title": "分享两个Vibe Coding必备的实用Prompt：第一性原理与对抗式审查",
-      "title_en": "分享2个Vibe Coding必备的超实用Prompt。",
-      "url": "https://mp.weixin.qq.com/s/umPqTD_-IubbhXIgiS47eQ",
-      "permalink": "https://aihot.virxact.com/items/cmqykzeht02shslivflwhgdbx",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-06-29T02:08:00.000Z",
-      "summary": "作者分享Vibe Coding中两个关键Prompt：一是\"从第一性原理出发\"，强制AI跳出类比推理，从基本事实重新推导本质，曾帮作者发现AIHOT抓取海外信源的底层流量路由隐患并彻底重构；二是\"对抗式审查\"，让AI站在恶意用户角度攻防式审查代码，检出OOM死循环、未来时间污染等手工难发现的BUG。两个Prompt形成生成与验证闭环，使纯Vibe Coding项目AIHOT最近一周请求量超千万次。",
-      "category": "tip",
-      "score": 70,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-04T07:13:13Z"
+  "cachedAt": "2026-07-04T11:45:12Z"
 }
