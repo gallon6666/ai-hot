@@ -1,8 +1,21 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNzE1NDU1MDAwLCJpIjoiY21xeXZka29rMDAwcXNsZjFjdHlrYXZlOSJ9",
+  "nextCursor": "eyJhIjoxNzgyNzE2NDAwMDAwLCJpIjoiY21xejMxZHNuMDAzdXNsZHlpNjFmMGNnZiJ9",
   "items": [
+    {
+      "id": "cmr7ita5g00reslxdrprk52b0",
+      "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
+      "title_en": "LlamaIndex 'legal-kb'： Agentic Retrieval over Index v2 with retrieve， find， read， and grep Tools",
+      "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
+      "permalink": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-05T07:50:19.000Z",
+      "summary": "LlamaIndex 发布 legal-kb，一个基于 Index v2（LlamaParse Platform）的法律文档知识库参考应用。采用 Retrieval Harness 模式，赋予 Agent 四个文件系统风格工具：retrieve（混合语义检索，支持 rerank 和引用）、findFiles（精确/模糊文件名搜索）、readFile（带偏移量的原始内容读取）和 grepFile（正则匹配并返回字符位置）。Agent 需先调用 findFiles 确定文件清单，再依次使用其他工具定位内容。底层基于 Vercel AI SDK 6 的 ToolLoopAgent，可选用 OpenAI 或 Anthropic 模型，支持用户自带 API key。项目以 TanStack Start web app 形式运行，上传文件自动解析索引，同一文件名重复上传可产生版本，检索时通过版本元数据字段过滤。",
+      "category": "tip",
+      "score": 72,
+      "selected": true
+    },
     {
       "id": "cmr65ieko002tslf0xiomac0c",
       "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
@@ -1289,20 +1302,7 @@
       "category": "paper",
       "score": 62,
       "selected": true
-    },
-    {
-      "id": "cmqyvdkok000qslf1ctykave9",
-      "title": "SK 集团会长崔泰源：到 2035 年建设 15GW AI 数据中心，总投资达 1000 万亿韩元",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/969/953.htm",
-      "permalink": "https://aihot.virxact.com/items/cmqyvdkok000qslf1ctykave9",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-29T06:44:15.000Z",
-      "summary": "SK 集团会长崔泰源 6 月 29 日宣布，计划到 2035 年建成 15GW AI 数据中心容量，作为韩国国家级基础设施和实体 AI 时代核心底座。项目总投资 1000 万亿韩元（约 4.4 万亿元人民币），未来 10 年保持年均 100 万亿韩元以上国内投资，旨在实现从出口传统商品向智能服务的转变，构建韩国智能市场。此外，SK 海力士将向韩国西南部投资 400 万亿韩元，半导体供应项目总投资达 1100 万亿韩元（约 4.84 万亿元人民币）。",
-      "category": "industry",
-      "score": 71,
-      "selected": true
     }
   ],
-  "cachedAt": "2026-07-05T08:14:56Z"
+  "cachedAt": "2026-07-05T10:27:54Z"
 }
