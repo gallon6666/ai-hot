@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNzE2NDAwMDAwLCJpIjoiY21xejMxZHNuMDAzdXNsZHlpNjFmMGNnZiJ9",
+  "nextCursor": "eyJhIjoxNzgyNzIxMDYxMDAwLCJpIjoiY21xeXlzaWJ4MDBsOHNseHNjcTRjcnM4ayJ9",
   "items": [
+    {
+      "id": "cmr7z00up0065sl0472bil7hs",
+      "title": "Anthropic Claude Design 反向工程提示词开源更新",
+      "title_en": "Claude 设计系统提示词",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "permalink": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-05T15:35:42.919Z",
+      "summary": "Anthropic 旗下 Claude Design 的反向工程系统提示词在 GitHub 以 MIT 许可证开源，包含 20 章提示词和 14 项技能，覆盖内容纪律、美学、无障碍（WCAG、语义 HTML、键盘导航）、交互状态、系统思维等。近日针对 Fable 5/Opus 4.7+ 系列校准，新增自主决策条款：小决定直接执行记录而不询问。项目支持 Claude Code/Claude.ai 及 Codex 两种变体。",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs"
+      }
+    },
     {
       "id": "cmr7ita5g00reslxdrprk52b0",
       "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmqyysibx00l8slxscq4crs8k"
       }
-    },
-    {
-      "id": "cmqz31dsn003usldyi61f0cgf",
-      "title": "OpenAI 报告：绘制欧洲 AI 劳动力机遇版图",
-      "title_en": "Mapping Europe's AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "permalink": "https://aihot.virxact.com/items/cmqz31dsn003usldyi61f0cgf",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-06-29T07:00:00.000Z",
-      "summary": "OpenAI 发布新报告，分析 AI 对欧盟就业的影响，划定哪些职业面临自动化、增长或工作流程变化。",
-      "category": "paper",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmqz31dsn003usldyi61f0cgf"
-      }
     }
   ],
-  "cachedAt": "2026-07-05T14:52:16Z"
+  "cachedAt": "2026-07-05T16:17:46Z"
 }
