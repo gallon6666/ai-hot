@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNzI3NDcyMDAwLCJpIjoiY21xejIwYTBhMDAwZHNseTRndzA5dTl4dCJ9",
+  "nextCursor": "eyJhIjoxNzgyNzMwODA3MDAwLCJpIjoiY21xejQ5djc0MDBlNHNsZHlyMTI2enVwYyJ9",
   "items": [
+    {
+      "id": "cmr84d4v901hssl04oav0ki73",
+      "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+      "title_en": "\"We're building this Prometheus cluster， the first gigawatt-plus single cluster…We're talking abou…",
+      "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+      "permalink": "https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-05T18:19:42.000Z",
+      "summary": "\"我们正在建设这个 Prometheus 集群，首个千兆瓦以上的单一集群……我们是在谈论数千亿美元的资本投入。\"\n\nMark Zuckerberg 表示，他的职责就是集中精英人才、资本和基础设施。",
+      "category": "industry",
+      "score": 84,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73"
+      }
+    },
     {
       "id": "cmr83ashr0189sl04hhietwtx",
       "title": "三周前，我不小心创办了一家小公司",
@@ -52,6 +69,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs"
+      }
+    },
+    {
+      "id": "cmr7vpphy007oslgnz4aotpx4",
+      "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
+      "title_en": "🐱 LongCat-2.0 is now fully open-source - MIT licensed， no restrictions. Since our launch a few day…",
+      "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
+      "permalink": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
+      "source": "X：美团 LongCat (@Meituan_LongCat)",
+      "publishedAt": "2026-07-05T14:00:18.000Z",
+      "summary": "美团今日宣布 LongCat-2.0 完全开源（MIT 许可），公开模型权重与推理代码。该模型为 MoE 架构，总参数量 1.6T，每 token 激活约 48B，支持 1M token 上下文。技术亮点包括 LongCat Sparse Attention 高效处理长文本、Zero-Compute Experts 动态激活 33B-56B 零浪费计算、MOPD 按任务路由 Agent/Reasoning/Interaction 三组专家。Benchmark 成绩：Terminal-Bench 2.1 70.8；SWE-bench Pro 59.5（超越 GPT-5.5 的 58.6）；SWE-bench Multilingual 77.3；FORTE 73.2；RWSearch 78.8；BrowseComp 79.9。原生集成 Claude Code、OpenClaw、Hermes Agent 等工具，支持 GPU 与 NPU 部署，已在大规模国内集群验证。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4"
       }
     },
     {
@@ -1668,41 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmqz49v7400e4sldyr126zupc"
       }
-    },
-    {
-      "id": "cmqz3upwc00axsldytm3kw949",
-      "title": "EverOS：开源Markdown优先智能体记忆运行时，支持混合检索与自进化技能",
-      "title_en": "Meet EverOS： An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills",
-      "url": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills",
-      "permalink": "https://aihot.virxact.com/items/cmqz3upwc00axsldytm3kw949",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-06-29T10:42:47.000Z",
-      "summary": "EverMind 推出开源智能体记忆运行时 EverOS（Apache 2.0 许可）。它以可编辑的 Markdown 文件为记忆主体，经 SQLite 管理状态、LanceDB 实现混合检索（BM25 关键词 + 向量搜索 + 标量过滤）。每个完成的任务记录为 Case，离线提炼为可复用的 Skill，使记忆随使用自我进化。v1.1.0 新增 Knowledge APIs（支持分类与话题搜索的 Markdown 页面）和 Reflection（跨会话优化 Profile 和 Skill）。据 EverMind 报告，LoCoMo 得分 93.05%，LongMemEval 83.00%，HaluMem 93.04%，p95 检索延迟低于 500ms。运行时可本地优先部署，也提供 EverOS Cloud 托管选项，兼容 OpenAI 协议端点。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmqz3upwc00axsldytm3kw949"
-      }
-    },
-    {
-      "id": "cmqz20a0a000dsly4gw09u9xt",
-      "title": "Claude Code 打开 GitHub 仓库即执行隐藏恶意代码，攻击者可获完全控制",
-      "title_en": "Claude Code runs a GitHub repo's hidden malware without verification， giving attackers full control",
-      "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control",
-      "permalink": "https://aihot.virxact.com/items/cmqz20a0a000dsly4gw09u9xt",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-06-29T10:04:32.000Z",
-      "summary": "安全研究人员在 Mozilla 的 GenAI 漏洞赏金平台 0DIN 发现新攻击向量。一个看似正常的 GitHub 仓库包含 setup 脚本，该脚本运行时从 DNS 条目拉取命令并执行，恶意代码从未存在于仓库中，对扫描器、代码审查和 AI 智能体不可见。开发者使用 Claude Code 等 AI 编码工具打开该仓库时，Claude Code 在设置过程中遇到常规错误消息后自动运行该脚本，打开反向 shell，攻击者可窃取 API 密钥和登录凭据并维持持久访问。研究人员建议 AI 智能体应在运行前显示 setup 脚本内容，开发者应将第三方仓库的 setup 说明视为不受信任代码。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmqz20a0a000dsly4gw09u9xt"
-      }
     }
   ],
-  "cachedAt": "2026-07-05T18:14:29Z"
+  "cachedAt": "2026-07-05T19:42:02Z"
 }
