@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNzMwODA3MDAwLCJpIjoiY21xejQ5djc0MDBlNHNsZHlyMTI2enVwYyJ9",
+  "nextCursor": "eyJhIjoxNzgyNzM0NDAwMDAwLCJpIjoiY21xemlzZnJhMDA5YXNsOGhvanFtcjFrMiJ9",
   "items": [
+    {
+      "id": "cmr8ajv5h00e0sl0d7rzs38ei",
+      "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
+      "title_en": "MASSIVE DELAY： Just 3 months after Jensen demoed Kyber NVL144 at GTC， it has faced major setbacks an…",
+      "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
+      "permalink": "https://aihot.virxact.com/items/cmr8ajv5h00e0sl0d7rzs38ei",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
+      "publishedAt": "2026-07-05T21:00:27.000Z",
+      "summary": "重大延迟：Jensen 在 GTC 上展示 Kyber NVL144 仅 3 个月后，该项目遭遇重大挫折，已推迟超过 12 个月，延至 2028 年。下文我们将解释 Kyber 为何面临大幅延迟，以及 NVIDIA 的 NVL72x2 背靠背机架架构为何也被取消，导致 Rubin Ultra 的扩展域受限。👇️ 1/6🧵",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr8ajv5h00e0sl0d7rzs38ei"
+      }
+    },
     {
       "id": "cmr84d4v901hssl04oav0ki73",
       "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmqzisfra009asl8hojqmr1k2"
       }
-    },
-    {
-      "id": "cmqz49v7400e4sldyr126zupc",
-      "title": "小红书 RedKnot 推理引擎：将 KV Cache 按注意力头拆解实现长文本加速",
-      "title_en": "让 KV Cache「按头分家」：小红书 RedKnot 如何重做长文本推理新引擎",
-      "url": "https://mp.weixin.qq.com/s/qRrZvL0aZzYI82djFSrLug",
-      "permalink": "https://aihot.virxact.com/items/cmqz49v7400e4sldyr126zupc",
-      "source": "公众号：小红书技术（dots.llm）",
-      "publishedAt": "2026-06-29T11:00:07.000Z",
-      "summary": "RedKnot 将 KV Cache 沿注意力头维度拆解，通过头分类稀疏（局部头占 83.4%-96.8%）、稀疏 FFN 和 SegPagedAttention 三个机制统一算法与存储粒度。在 8 卡 H800 上，TTFT 最高加速 1.6-3.54×，单卡并发提升 4.7-7.8×，预填充 FLOPs 削减 67%-79.5%。DeepSeek-V4-Flash 上 128K 上下文 TTFT 加速达 5.16×，KV 传输最多省 6.3×。精度通常不低于稠密 F1 的 95%。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmqz49v7400e4sldyr126zupc"
-      }
     }
   ],
-  "cachedAt": "2026-07-05T19:42:02Z"
+  "cachedAt": "2026-07-05T21:18:30Z"
 }
