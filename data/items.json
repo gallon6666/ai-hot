@@ -1,8 +1,42 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyNzQ4ODAwMDAwLCJpIjoiY21yNWJxeHRuMDB6MHNsYzdkZGF5a2swOSJ9",
+  "nextCursor": "eyJhIjoxNzgyNzU2MTgyNTgyLCJpIjoiY21xems2OTNuMDAyenNsa3Nma3JyNXcydyJ9",
   "items": [
+    {
+      "id": "cmr9apy0u02hxslsmxllfd51t",
+      "title": "免费开源API中转站监测网站tokhub.me上线",
+      "title_en": "到底哪个中转站靠谱？ 和姚老师 @yaojingang 讨论，做了个监测网站，并免费开源给大家。 区别于一般速度评测，我们给每个站点充值，用真实 API 调用模型监控。 代码完全开源免费，一键 …",
+      "url": "https://x.com/vista8/status/2074130700421456089",
+      "permalink": "https://aihot.virxact.com/items/cmr9apy0u02hxslsmxllfd51t",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-06T13:57:49.000Z",
+      "summary": "作者与姚老师合作开发中转站评测网站tokhub.me，通过真实充值调用API进行模型监控，区别于单纯速度评测。代码完全开源，支持一键Docker部署，还可作为公司内部Token和网关管理系统，省去繁杂的API Key和Base URL管理。开源代码见Github评论区。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr9apy0u02hxslsmxllfd51t"
+      }
+    },
+    {
+      "id": "cmr96dq8400pdslsmu56r8muy",
+      "title": "AI颠覆初级程序员就业市场：斯坦福数据揭示年轻开发者就业锐减19%",
+      "title_en": "人工智能彻底颠覆了初级程序员的就业市场",
+      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers",
+      "permalink": "https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-06T11:51:40.808Z",
+      "summary": "斯坦福数字经济实验室基于ADP薪资数据发现，美国22-25岁软件开发人员就业较2022年峰值下降19%，而41-49岁增长14%。入门级岗位招聘减少28%，计算机科学毕业生失业率达6.1%，高于文科专业。核心推手是2024-2025年兴起的智能体编程（Agentic programming）。总程序员就业增长4.4%，但全部来自年长群体。GitHub一年新增3600万账号，80%新用户一周内使用Copilot。编程工作未消失，但\"初级程序员\"头衔正在消亡。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr96dq8400pdslsmu56r8muy"
+      }
+    },
     {
       "id": "cmr91yrn100noslmpusn7u7q0",
       "title": "Meta 被曝让外包人员伪装未成年人，诱导竞争对手 AI 聊敏感话题",
@@ -1668,41 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmqzk693n002zslksfkrr5w2w"
       }
-    },
-    {
-      "id": "cmr5bqxtn00z1slc77gvm7ybl",
-      "title": "Google Research 推出 TabFM：用于表格数据的零样本基础模型",
-      "title_en": "Introducing TabFM： A zero-shot foundation model for tabular data",
-      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
-      "permalink": "https://aihot.virxact.com/items/cmr5bqxtn00z1slc77gvm7ybl",
-      "source": "Google Research：Blog（网页）",
-      "publishedAt": "2026-06-29T16:00:00.000Z",
-      "summary": "Google Research 发布 TabFM，一种基于上下文学习（ICL）的零样本基础模型，专为表格数据的分类与回归任务设计。TabFM 将整个数据集（包含训练样本与待预测行）作为统一提示输入，在推理时直接从上下文中学习行列关系，无需模型训练、超参数调优或特征工程。与需大量人工调优的传统方法（如 XGBoost）不同，TabFM 通过单次前向传播即可在新表格上生成高质量预测。该模型已在 Hugging Face 和 GitHub 上开源。",
-      "category": "ai-models",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr5bqxtn00z1slc77gvm7ybl"
-      }
-    },
-    {
-      "id": "cmr5bqxtn00z0slc7ddaykk09",
-      "title": "Google Research 将建筑屋顶反射率数据集扩展至全球 50+ 城市",
-      "title_en": "Expanding our Heat Resilience data to 50+ global cities",
-      "url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities",
-      "permalink": "https://aihot.virxact.com/items/cmr5bqxtn00z0slc7ddaykk09",
-      "source": "Google Research：Blog（网页）",
-      "publishedAt": "2026-06-29T16:00:00.000Z",
-      "summary": "Google Research 发布扩展的建筑屋顶反射率数据集，覆盖全球 50 多个城市，旨在帮助城市规划者优先部署冷屋顶方案以缓解极端高温。该数据集融合 Sentinel-2 卫星数据与 30 厘米分辨率的 Airbus Pléiades Neo 卫星图像生成，可通过新的高分辨率 Heat Resilience Earth Engine App 开放获取。相关方法论发表于《Nature Communications》。此前 2024 年的试点已覆盖 14 个城市，其数据曾指导制定冷屋顶条例与适应计划。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr5bqxtn00z0slc7ddaykk09"
-      }
     }
   ],
-  "cachedAt": "2026-07-06T11:01:00Z"
+  "cachedAt": "2026-07-06T14:35:53Z"
 }
