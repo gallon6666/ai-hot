@@ -1,8 +1,76 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyOTI2Mjc2Mzc0LCJpIjoiY21yMmNiajdzMDZxZ3NsOHp0NGdpaWgyeCJ9",
+  "nextCursor": "eyJhIjoxNzgyOTUwNDAwMDAwLCJpIjoiY21yNGRxemJxMDB1a3NsbDV4a3h5bzNudyJ9",
   "items": [
+    {
+      "id": "cmrb2mxmc0072ihl1mx0aw1bz",
+      "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+      "title_en": "Introducing Muse Image and Muse Video， the first media generation models developed by Meta Superinte…",
+      "url": "https://x.com/AIatMeta/status/2074577662840832382",
+      "permalink": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "publishedAt": "2026-07-07T19:33:53.000Z",
+      "summary": "Meta Superintelligence Labs 发布首个媒体生成模型 Muse Image 和 Muse Video。Muse Image 是目前最先进的图像生成模型，能精确遵循指令、精准编辑、多参考构图，并利用 Instagram 社交上下文。它还具备智能体工具使用能力并集成 Muse Spark。用户可通过 Meta AI 应用、网页、Instagram Stories 和 WhatsApp 试用，初始限于部分国家。Muse Video 基于相同预训练基础，实现高视觉保真度并原生支持音频。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz"
+      }
+    },
+    {
+      "id": "cmrb0u6pv02qtihogovduu795",
+      "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+      "title_en": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+      "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
+      "permalink": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-07T18:35:58.000Z",
+      "summary": "微软正用自研MAI模型替换Copilot产品中的OpenAI和Anthropic模型以降低支出。MAI模型已在Excel和Outlook中每周处理数万次请求，但占比仍小。Build大会上发布推理模型MAI-Thinking 1，声称编码媲美Sonnet 4.6和Opus 4.6，但基准测试大幅落后，仅与DeepSeek V3.2相当。AI负责人承认目标是削减并消除对Anthropic的支出。CEO暗示未来可能按用量计费，MAI为默认，第三方模型付费附加。微软称MAI使用干净商业许可数据，实际基于Common Crawl。",
+      "category": "industry",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795"
+      }
+    },
+    {
+      "id": "cmrayv5ja0293ihog3rixaqua",
+      "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
+      "title_en": "YC首席执行官称自己每天交付3.7万行LoC的AI代码。一位开发者深入探究了其实现原理",
+      "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+      "permalink": "https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-07T17:52:12.864Z",
+      "summary": "Y Combinator CEO Garry Tan在X上宣称，他与AI编码代理每天在五个项目中部署37000行代码，并保持连续72天发布记录。波兰开发者Gregorein深入审查Tan网站前端代码，发现大量臃肿与低效问题：页面加载169次请求、总计6.42MB数据（对比Hacker News仅7次12KB）；包含28个测试文件、78个未使用的JavaScript控制器、八种格式Logo（含空文件）、未压缩的旧PNG等。Gregorein指出，AI虽能快速生成代码，但质量仍应优先于数量。",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua"
+      }
+    },
+    {
+      "id": "cmray36fg021nihogfo205417",
+      "title": "NotebookLM短视频概览正式上线",
+      "title_en": "Short Video Overviews are officially 💯 rolled out on mobile and web across all users in English！ A…",
+      "url": "https://x.com/NotebookLM/status/2074551227594264799",
+      "permalink": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
+      "source": "X：NotebookLM (@NotebookLM)",
+      "publishedAt": "2026-07-07T17:48:50.000Z",
+      "summary": "短视频概览功能已正式在移动端和网页端面向所有英语用户全面上线！\n\n一如既往，您的意见对我们至关重要。请在下方分享您最喜欢的作品，并告诉我们接下来需要添加哪些功能！❤️",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417"
+      }
+    },
     {
       "id": "cmraw21y401jhihog3tcrfsp4",
       "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
@@ -222,6 +290,40 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc"
+      }
+    },
+    {
+      "id": "cmrb18k7802uuihogxse92jx2",
+      "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储",
+      "title_en": "Run AI workloads on any cloud， store on Hugging Face： zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "permalink": "https://aihot.virxact.com/items/cmrb18k7802uuihogxse92jx2",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-07-07T00:00:00.000Z",
+      "summary": "Hugging Face Storage 现为 SkyPilot 的一级后端。用户通过 `hf：//` URL 和现有 HFTOKEN 即可将 Hugging Face Bucket（读写）或模型/数据集/Space 仓库（只读）挂载到 SkyPilot 任务中，支持 MOUNT（FUSE 懒加载）或 COPY 模式。SkyPilot 可将任务调度到 20+ 云、Kubernetes、Slurm 及本地集群的任意可用 GPU 上。Hugging Face 不收取出站及 CDN 费用，故跨云读取数据无额外成本。存储价格 $12-18/TB/月，低于 AWS S3 加出站费。Bucket 基于 Xet，增量检查点和模型变体仅存储和传输改动部分。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrb18k7802uuihogxse92jx2"
+      }
+    },
+    {
+      "id": "cmraxmzfq01y0ihog3h7t344t",
+      "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
+      "title_en": "The $10B FDE Boom",
+      "url": "https://www.tomtunguz.com/the-10b-fde-boom",
+      "permalink": "https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-07-07T00:00:00.000Z",
+      "summary": "AI公司在12个月内合计承诺97.5亿美元用于建设前部署工程（FDE）团队。三种结构模型浮现：资产负债模型（微软、亚马逊从现有编制调配，Salesforce承诺1000个FDE岗位）；独立实体模型（OpenAI Deployment Company融资40亿美元，投后估值140亿；Anthropic从黑石等融资15亿美元）；合作伙伴生态系统模型（Google Cloud承诺7.5亿美元合作伙伴基金）。瓶颈从模型能力转向部署--GPT-4、Claude、Gemini已足够强大，但多数企业无法自行安装配置。FDE投资构成护城河：嵌入式工程师教育客户、获取专有工作流与数据反馈模型调优，切换成本为制度性而非技术性。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t"
       }
     },
     {
@@ -1600,109 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr4dqzbq00uksll5xkxyo3nw"
       }
-    },
-    {
-      "id": "cmr4blm3e00amsll5l19jk6ce",
-      "title": "Program-as-Weights：一种面向模糊函数的编程范式",
-      "title_en": "Program-as-Weights： A Programming Paradigm for Fuzzy Functions",
-      "url": "https://arxiv.org/abs/2607.02512",
-      "permalink": "https://aihot.virxact.com/items/cmr4blm3e00amsll5l19jk6ce",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-02T00:00:00.000Z",
-      "summary": "Program-as-Weights （PAW） 提出模糊函数编程范式，将自然语言描述的函数编译为紧凑、可本地执行的神经制品。PAW 使用在 10M 示例数据集 FuzzyBench 上训练的 4B 编译器，为冻结的轻量级解释器输出参数高效适配器。0.6B 的 Qwen3 解释器执行 PAW 程序性能匹敌直接提示 Qwen3-32B，推理内存仅约五十分之一，在 MacBook M3 上达 30 tokens/s。该方法将基础模型从每次输入的求解器重新定义为工具构建器，一次函数定义后生成的制品可离线廉价复用。",
-      "category": "paper",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4blm3e00amsll5l19jk6ce"
-      }
-    },
-    {
-      "id": "cmr3rd0l901bwsl7ld54ejrgb",
-      "title": "RL微调VLM的鲁棒性与思维链一致性研究",
-      "title_en": "On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs",
-      "url": "https://machinelearning.apple.com/research/robustness-chain-thought-consistency",
-      "permalink": "https://aihot.virxact.com/items/cmr3rd0l901bwsl7ld54ejrgb",
-      "source": "Apple Machine Learning Research（RSS）",
-      "publishedAt": "2026-07-02T00:00:00.000Z",
-      "summary": "强化学习（RL）微调被扩展至视觉语言模型（VLM）。研究发现，简单的文本扰动--误导性标题或错误思维链（CoT）--会显著降低模型鲁棒性和置信度，且开源模型衰退更明显。闭源模型呈现类似失败模式，但鲁棒性和推理一致性更强。进一步分析揭示准确性与忠实性的权衡：微调提升基准准确率，但同时侵蚀CoT的可靠性及对上下文变化的鲁棒性；对抗性增强可改善鲁棒性，却无法阻止忠实性漂移。引入忠实性感知奖励能恢复答案与推理的对齐，但与增强结合时训练易崩溃到捷径策略。这些发现强调需联合关注正确性、鲁棒性与视觉推理的忠实性。",
-      "category": "paper",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr3rd0l901bwsl7ld54ejrgb"
-      }
-    },
-    {
-      "id": "cmr3rd0l901busl7l11krygj3",
-      "title": "VideoFlexTok：可变长度粗到细视频分词",
-      "title_en": "VideoFlexTok： Flexible-Length Coarse-to-Fine Video Tokenization",
-      "url": "https://machinelearning.apple.com/research/videoflextok",
-      "permalink": "https://aihot.virxact.com/items/cmr3rd0l901busl7l11krygj3",
-      "source": "Apple Machine Learning Research（RSS）",
-      "publishedAt": "2026-07-02T00:00:00.000Z",
-      "summary": "VideoFlexTok提出一种可变长度token序列的视频表示方法，采用粗到细结构--首个token捕捉语义和运动等抽象信息，后续token添加精细细节，生成流解码器支持任意token数量的视频重建。相比传统3D网格分词，该结构允许根据下游需求调整token数，在相同预算下编码更长视频。在类别和文本到视频生成任务中，VideoFlexTok以1.1B参数（5.2B的1/5）达到可比生成质量（gFVD和ViCLIP Score）。训练一个处理10秒81帧视频的文本到视频模型仅需672个token，比同等3D网格分词器少8倍。",
-      "category": "paper",
-      "score": 56,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr3rd0l901busl7l11krygj3"
-      }
-    },
-    {
-      "id": "cmr3rd0l901btsl7lars7am9q",
-      "title": "多智能体团队阻碍专家发挥",
-      "title_en": "Multi-Agent Teams Hold Experts Back",
-      "url": "https://machinelearning.apple.com/research/multi-agent-teams-experts",
-      "permalink": "https://aihot.virxact.com/items/cmr3rd0l901btsl7lars7am9q",
-      "source": "Apple Machine Learning Research（RSS）",
-      "publishedAt": "2026-07-02T00:00:00.000Z",
-      "summary": "在自我组织的多智能体LLM系统中，团队无法有效利用专家成员的专业知识。在多个基准测试中，即使明确告知专家身份，团队表现仍落后于最佳成员（专家智能体）的独立能力，性能损失最高达41.1%。失败主因是未能有效利用专家意见，而非识别专家。对话分析显示，团队倾向于\"整合性妥协\"--平均化专家与非专家观点，随团队规模增大而加剧，且与表现负相关。这种寻求共识的行为同时提升了对抗恶意智能体的鲁棒性，揭示了协同对齐与专业利用之间的根本性权衡。",
-      "category": "paper",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr3rd0l901btsl7lars7am9q"
-      }
-    },
-    {
-      "id": "cmr2jtg2z08nvsl8zt9pagjoe",
-      "title": "Claude Code v2.1.198 发布",
-      "title_en": "v2.1.198",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
-      "permalink": "https://aihot.virxact.com/items/cmr2jtg2z08nvsl8zt9pagjoe",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-07-01T20:45:36.000Z",
-      "summary": "Claude Code v2.1.198 更新。Claude in Chrome 现已全面可用。为 claude agents 新增后台智能体通知（agent_needs_input / agent_completed）。新增 /dataviz 技能，提供图表与仪表盘设计指导及配色验证器。Gateway 增加 AWS 上的 Claude Platform 作为上游提供商。后台智能体在 worktree 中完成代码后自动提交、推送并创建草稿 PR。内置 Explore 智能体现继承主会话模型（上限 opus）。修复网络短暂断开导致响应中断、后台任务卡在\"Running\"状态、智能体团队队友因 API 错误失败等问题。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr2jtg2z08nvsl8zt9pagjoe"
-      }
-    },
-    {
-      "id": "cmr2cbj7s06qgsl8zt4giih2x",
-      "title": "Google Cloud Workbench Notebooks 扩展发布：在 VS Code 中连接云端 Jupyter 环境",
-      "title_en": "ML Development in VS Code with Google Cloud Power： Workbench Extension Now Available",
-      "url": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available",
-      "permalink": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-07-01T17:17:56.374Z",
-      "summary": "Google Cloud Workbench Notebooks 扩展正式上线，开发者可在 VS Code 中直接连接可扩展的云端 Jupyter 环境，无需切换上下文即可利用高性能 Google Cloud 基础设施完成机器学习全流程。该扩展已完全开源，可在 GitHub 和 VS Code Marketplace 获取。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr2cbj7s06qgsl8zt4giih2x"
-      }
     }
   ],
-  "cachedAt": "2026-07-07T17:33:56Z"
+  "cachedAt": "2026-07-07T20:22:25Z"
 }
