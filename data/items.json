@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyOTUwNDAwMDAwLCJpIjoiY21yNGRxemJxMDB1a3NsbDV4a3h5bzNudyJ9",
+  "nextCursor": "eyJhIjoxNzgyOTUzODE2MDAwLCJpIjoiY21yMnQxbjloMGIxOHNsOHpxeG45cjVudSJ9",
   "items": [
+    {
+      "id": "cmrb4j2zx00n4ihl14u6xv7kz",
+      "title": "Krea 2 身份保留功能上线",
+      "title_en": "ID preservation for Krea 2 🔥",
+      "url": "https://x.com/krea_ai/status/2074589965653303321",
+      "permalink": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+      "source": "X：Krea AI (@krea_ai)",
+      "publishedAt": "2026-07-07T20:22:46.000Z",
+      "summary": "Krea 2 的身份保留功能已发布，配套模型和 ComfyUI 节点也已上线。🔥",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz"
+      }
+    },
     {
       "id": "cmrb2mxmc0072ihl1mx0aw1bz",
       "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu"
       }
-    },
-    {
-      "id": "cmr4dqzbq00uksll5xkxyo3nw",
-      "title": "表示分布匹配（RDM）用于一步视觉生成",
-      "title_en": "Representation Distribution Matching for One-Step Visual Generation",
-      "url": "https://arxiv.org/abs/2607.02375",
-      "permalink": "https://aihot.virxact.com/items/cmr4dqzbq00uksll5xkxyo3nw",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-02T00:00:00.000Z",
-      "summary": "表示分布匹配（RDM）通过匹配冻结预训练编码器下的生成与参考特征分布来训练一步图像生成器。三个发现：经典MMD正确估计后成为可扩展目标；生成批次大小最优超过2048；单一表示可被欺骗，需匹配平衡编码器组合并采用独立于训练损失的SW_r14评估。改进的iRDM在ImageNet上以SW_r14 1.30达一步生成SOTA，PickScore在71.2%样本上偏好iRDM。该方法将四步FLUX.2后训练为一步生成器，在GenEval（0.826对0.794）和PickScore（22.76对22.58）上超越原版，仅需90 H200 GPU小时。",
-      "category": "paper",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4dqzbq00uksll5xkxyo3nw"
-      }
     }
   ],
-  "cachedAt": "2026-07-07T20:22:25Z"
+  "cachedAt": "2026-07-07T21:44:45Z"
 }
