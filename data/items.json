@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyOTUzODE2MDAwLCJpIjoiY21yMnQxbjloMGIxOHNsOHpxeG45cjVudSJ9",
+  "nextCursor": "eyJhIjoxNzgyOTU5NTI4MDAwLCJpIjoiY21yOHZvZW55MDExYnNsbHNsdnQwOWF6cSJ9",
   "items": [
     {
       "id": "cmrb4j2zx00n4ihl14u6xv7kz",
@@ -137,6 +137,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6"
+      }
+    },
+    {
+      "id": "cmrb7dzge01d6ihl1bthomtam",
+      "title": "Rowboat：开源、本地优先的桌面AI助手",
+      "title_en": "Show HN： Rowboat - Open-source， local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "permalink": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-07-07T16:10:44.000Z",
+      "summary": "Rowboat 是一个开源、本地优先的桌面 AI 助手，将邮件、会议、Slack 等数据索引为 Obsidian 风格的知识图谱，提供持久上下文记忆。内置邮件客户端、浏览器、会议记录器、代码模式（可调用 Claude Code 或 Codex 代理），并支持按事件或定时运行的背景代理。用户可通过 MCP 协议接入 Exa 搜索、GitHub 等外部工具。所有数据以纯 Markdown 格式本地存储，无供应商锁定，支持 Ollama/LM Studio 本地模型或使用 API 密钥的托管模型。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam"
       }
     },
     {
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr8voeny011bsllslvt09azq"
       }
-    },
-    {
-      "id": "cmr2t1n9h0b18sl8zqxn9r5nu",
-      "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-      "title_en": "Skills for Design Engineers 作者 @emilkowalski 是知名设计工程师，曾在 Vercel、Linear 工作，也是 Sonner、Vaul 等流行组件的创建者。…",
-      "url": "https://x.com/shao__meng/status/2072484635955900792",
-      "permalink": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-07-02T00:56:56.000Z",
-      "summary": "Emil Kowalski 将多年 UI/动画原则沉淀为三个 Skill，使 Codex、Claude Code、Cursor 等 Coding Agents 具备资深设计工程师的审美判断。核心规则：动画必须有理由；每天 100+ 次的高频操作禁用动画；UI 动画控制在 300ms 内；只动画 transform 和 opacity；入口从 scale（0.95）+opacity：0 开始；尊重 prefers-reduced-motion（仅移除位移动画）。review-animations 以严格标准审查动画代码，输出 Before/After/Why 表格。animation-vocabulary 将模糊描述（如\"弹一下的效果\"）转为专业动效术语。",
-      "category": "tip",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr2t1n9h0b18sl8zqxn9r5nu"
-      }
     }
   ],
-  "cachedAt": "2026-07-07T21:44:45Z"
+  "cachedAt": "2026-07-07T23:28:32Z"
 }
