@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyODY0MDAwMDAwLCJpIjoiY21yMmE4MXNxMDY2c3NsOHo4dm83c28yeCJ9",
+  "nextCursor": "eyJhIjoxNzgyODY0MDAwMDAwLCJpIjoiY21yMmpjMDNjMDhrc3NsOHpmMmJtZGpsaiJ9",
   "items": [
+    {
+      "id": "cmrafv8m40090ihuamebn107w",
+      "title": "美国首批自主地面车辆在乌克兰参战",
+      "title_en": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
+      "permalink": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-07T09:00:00.000Z",
+      "summary": "美国自动驾驶车辆公司 Forterra 宣布，过去九个月已向乌克兰战场部署超过 100 辆基于 Polaris ATV 的 Lancer 自主地面车辆。这些汽油动力车辆可携带 750 公斤货物，加装 Starlink 天线实现远程操控，已执行 1100 多次任务，行驶 2500 英里，运送 777，440 磅物资，完成 52 次伤员撤离。目前车辆主要采用远程操作，因自主系统尚无法实时识别并应对敌方威胁。Forterra 已融资超 5 亿美元，正将经典机器人方法与生成式 AI 结合以提升自主能力。美军专家认为地面自主技术已具实战价值。",
+      "category": "industry",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w"
+      }
+    },
     {
       "id": "cmrab8cy800w3ihl38ohuxzih",
       "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr2jc03c08kssl8zf2bmdjlj"
       }
-    },
-    {
-      "id": "cmr2a81sq066ssl8z8vo7so2x",
-      "title": "xAI 发布 Voice Agent Builder 测试版",
-      "title_en": "Introducing the Voice Agent Builder Jul 1， 2026 # Introducing the Voice Agent Builder Create a personalized voice agent in under 2 minutes without a single line of code. Read More",
-      "url": "https://x.ai/news/grok-voice-agent-builder",
-      "permalink": "https://aihot.virxact.com/items/cmr2a81sq066ssl8z8vo7so2x",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-07-01T00:00:00.000Z",
-      "summary": "xAI 推出 Voice Agent Builder 测试版，这是一个基于 Grok Voice 的无代码平台，可在两分钟内创建生产级语音智能体。它集成电话、知识检索、工具、MCP、Guardrails 及可观测性，支持连接现有 SIP 号码、API 和 WebSocket，采用语音到语音路径。在 τ-voice Bench 上，Grok Voice Think Fast 1.0 得分 67.3%，领先 Gemini 3.1 Flash Live（43.8%）和 GPT Realtime 1.5（35.3%）。定价为每分钟音频 0.05 美元、电话费 0.01 美元，提供 80+ 种语音及声音克隆，每个账户附赠一个免费电话号码。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr2a81sq066ssl8z8vo7so2x"
-      }
     }
   ],
-  "cachedAt": "2026-07-07T07:56:50Z"
+  "cachedAt": "2026-07-07T11:28:20Z"
 }
