@@ -1,8 +1,59 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgyODQxOTY2MDAwLCJpIjoiY21yMHlhYjJlMDAzb3Nsdzh1dzV6Z2hyYyJ9",
+  "nextCursor": "eyJhIjoxNzgyODY0MDAwMDAwLCJpIjoiY21yMmE4MXNxMDY2c3NsOHo4dm83c28yeCJ9",
   "items": [
+    {
+      "id": "cmrab8cy800w3ihl38ohuxzih",
+      "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
+      "title_en": null,
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "permalink": "https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-07T06:45:06.341Z",
+      "summary": "2019年，Adebayo Alonge因服务器远在美国致RxScanner单次扫描超5分钟，工程师2小时内将AI模型缩小至可在Android手机本地运行，此后RxScanner能在无宽带、缺电地区验药。小AI模型参数通常至多几十亿，可在手机或Raspberry Pi上运行，功耗仅数瓦。类似案例包括印度腰果病害检测无人机、乌拉圭蚂蚁入侵识别、疟蚊检测及巴西基于Arduino的心电图设备。世界银行报告显示，全球最穷国家仅0.7%互联网用户用过ChatGPT，发达国家达四分之一；行长认为小AI是为缺乏算力与电力的地区提供生命救助服务的关键。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih"
+      }
+    },
+    {
+      "id": "cmraai9ic00q4ihl3ozf3ki9s",
+      "title": "Grok Imagine 更新：支持 15 秒视频",
+      "title_en": "Grok Imagine update",
+      "url": "https://x.com/elonmusk/status/2074378653501128833",
+      "permalink": "https://aihot.virxact.com/items/cmraai9ic00q4ihl3ozf3ki9s",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-07-07T06:23:05.000Z",
+      "summary": "Grok Imagine 更新。请更新你的 Grok 应用！15 秒 Imagine 视频现已可用，质量令人难以置信。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmraai9ic00q4ihl3ozf3ki9s"
+      }
+    },
+    {
+      "id": "cmra67abw003vihup3mg75wsc",
+      "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
+      "title_en": "I have been playing these world models/games since the first diffusion DOOM， and multiplayer at 20 F…",
+      "url": "https://x.com/emollick/status/2074348274136346871",
+      "permalink": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-07-07T04:22:22.000Z",
+      "summary": "MIRA是一个可玩、多人的世界模型，被形容为\"火箭联盟的梦\"。它基于10k小时公开机器人收集的数据训练，学习四玩家游戏动态，根据按键实时生成画面，帧率达20 FPS。模型由General Intuition与Kyutai Labs联合构建，Epic Games提供协作。Ethan Mollick称从最早的扩散DOOM玩过来，多人20 FPS效果出色。演示、技术报告及开源代码已公开，在ICML Booth 111现场展示。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc"
+      }
+    },
     {
       "id": "cmr9wjj3g00jhih9kuibhf720",
       "title": "Sysdig 澄清首例\"智能体勒索软件\"JadePuffer：AI 执行攻击但人类仍负责设置与选目标",
@@ -358,6 +409,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv"
+      }
+    },
+    {
+      "id": "cmra76mxz00buihupmesig9k5",
+      "title": "LLM-as-a-Verifier：一种通用验证框架",
+      "title_en": "LLM-as-a-Verifier： A General-Purpose Verification Framework",
+      "url": "https://arxiv.org/abs/2607.05391",
+      "permalink": "https://aihot.virxact.com/items/cmra76mxz00buihupmesig9k5",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "summary": "LLM-as-a-Verifier 是一种无需额外训练的通用验证框架，通过计算评分 token logits 分布的期望生成连续分数，实现细粒度反馈。该框架在 Terminal-Bench V2（86.5%）、SWE-Bench Verified（78.2%）、RoboRewardBench（87.4%）和 MedAgentBench（73.3%）上取得 SOTA 性能。其细粒度信号可用于 Claude Code 扩展，帮助开发者监控和改进智能体系统，也可为强化学习（如 SAC、GRPO）提供密集反馈，提升机器人学和数学推理基准的样本效率。",
+      "category": "paper",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmra76mxz00buihupmesig9k5"
       }
     },
     {
@@ -1634,75 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr2a81sq066ssl8z8vo7so2x"
       }
-    },
-    {
-      "id": "cmr1bb1gr01adslnlt43fwfff",
-      "title": "库克与欧盟科技主管就新版Siri AI举行建设性会谈",
-      "title_en": "苹果 CEO 库克与欧盟科技主管就 Siri AI 展开\"建设性\"会谈",
-      "url": "https://www.ithome.com/0/970/810.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-06-30T23:43:32.000Z",
-      "summary": "苹果CEO库克与欧盟科技事务负责人维尔库宁就新版Siri AI在欧推出举行建设性视频会议。新版Siri将转为可调用用户个人数据的聊天机器人，但因《数字市场法》互操作义务苹果拒绝向竞争对手开放同等数据权限，暂不在欧盟iPhone和iPad上推出。苹果提出\"可信系统代理\"方案，拟在设备与第三方AI模型间增加软件层，但未开发，并要求18个月监管宽限期，遭欧盟拒绝。欧盟收到数百封消费者邮件及死亡威胁。",
-      "category": "industry",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr1bb1gr01adslnlt43fwfff"
-      }
-    },
-    {
-      "id": "cmr190seo00nsslnlxmfddenz",
-      "title": "AI 用 prover-verifier LLM 循环攻克 9 个未解数学难题",
-      "title_en": "AI just solved not one， but ***9*** unsolved math problems. Once again， instead of this being a glo…",
-      "url": "https://x.com/AISafetyMemes/status/2072085914558558402",
-      "permalink": "https://aihot.virxact.com/items/cmr190seo00nsslnlxmfddenz",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
-      "publishedAt": "2026-06-30T22:32:34.000Z",
-      "summary": "AI Safety Memes 推文指出，AI 刚刚解决了 9 个未解决的数学问题，但全球没有记者报道。引用 @WeinsteinOmri 的推文称，采用\"prover-verifier\"LLM 循环的方法，成功解决了理论计算机科学中 9 个重大开放问题，其中包括一个困扰其长达 2 年的难题。该研究由哥伦比亚大学合作者完成，并计划将这一方法扩展到所有科学领域。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr190seo00nsslnlxmfddenz"
-      }
-    },
-    {
-      "id": "cmr12g90k00zlsldxyyr0fmt3",
-      "title": "NotebookLM Short Video Overviews 全量上线 Web 英文版",
-      "title_en": "There seems to be a *lot* of discourse about our new Short Video Overviews. Want to join in on the f…",
-      "url": "https://x.com/NotebookLM/status/2072043680442245276",
-      "permalink": "https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3",
-      "source": "X：NotebookLM (@NotebookLM)",
-      "publishedAt": "2026-06-30T19:44:44.000Z",
-      "summary": "NotebookLM 正式向 Web 英文用户全量推出 Short Video Overviews（短视频概览）功能。该功能可将复杂资料自动转化为 60 秒竖屏视频，深入讲解任意概念。此前，这一功能已面向 Google AI Ultra 和 Pro 订阅者（移动端及 Web）推出，免费用户即将可用。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr12g90k00zlsldxyyr0fmt3"
-      }
-    },
-    {
-      "id": "cmr0yab2e003oslw8uw5zghrc",
-      "title": "Acti 将 AI 智能体直接放入手机键盘",
-      "title_en": "Acti puts AI agents directly into your smartphone keyboard",
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard",
-      "permalink": "https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-06-30T17:52:46.000Z",
-      "summary": "新加坡初创公司 Acti 发布基于 Google Gemini 的智能体键盘，可代替用户在应用中执行操作。核心功能 Skills 允许用自然语言创建快捷方式，如长按 T 键翻译消息、C 键发送会议链接。早期测试者两周内创建超 1000 个 Skills。采用本地优先架构，默认不访问私人消息。公司获 530 万美元种子轮融资，由 BITKRAFT Ventures 领投，现已开放下载。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr0yab2e003oslw8uw5zghrc"
-      }
     }
   ],
-  "cachedAt": "2026-07-07T04:35:35Z"
+  "cachedAt": "2026-07-07T07:56:50Z"
 }
