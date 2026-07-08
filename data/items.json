@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMDA5NDkwMDAwLCJpIjoiY21yM3B6M2h4MDB3NXNsN2xrM3FrNzF4NSJ9",
+  "nextCursor": "eyJhIjoxNzgzMDE5OTA5MDAwLCJpIjoiY21yM3d6eWN5MDA4dHNsbnhydzNvcG5mbiJ9",
   "items": [
+    {
+      "id": "cmrc1iygj00twihyfe1hkvycv",
+      "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
+      "title_en": "现在的年轻小伙子一个比一个生猛啊！ 执行力和学习能力真的是拉满~ Kunkun 还是一位在校读研的学生！ 分享了自己管理大量互相调用的Skill的实用方法，已经开源在GitHub。 他建了一个H…",
+      "url": "https://x.com/berryxia/status/2074827915779580055",
+      "permalink": "https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv",
+      "source": "X：Berry Xia (@berryxia)",
+      "publishedAt": "2026-07-08T12:08:18.000Z",
+      "summary": "在校研究生Kunkun开源了一套管理大量互相调用Skill的方法。核心方案包括：1）搭建HTML后台，按运行模式（手动/自动）、链路位置、专业领域三类标签筛选Skill；2）将连环调用的Skill绘制成Mermaid流程图，根据debug、新功能、合PR、改设计等阶段定位对应技能组；3）仿照Matt的ask Matt技能开发\"ask me\"技能，将调用决策浓缩成上下文喂给模型。该方法避免将所有调用交给模型自行判断，保持工程复杂场景下的人机对齐与可控性。项目已开源至GitHub。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv"
+      }
+    },
     {
       "id": "cmrbxa3ll003yihgens8d2sqg",
       "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
@@ -341,6 +358,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam"
+      }
+    },
+    {
+      "id": "cmrc3xicn01grihyf9z6t1b4b",
+      "title": "Seedream 5.0 Pro 发布：不止\"生成\"，更懂\"设计\"",
+      "title_en": "不止\"生成\"，更懂\"设计\" | Seedream 5.0 Pro 发布",
+      "url": "https://seed.bytedance.com/zh/blog/%E4%B8%8D%E6%AD%A2-%E7%94%9F%E6%88%90-%E6%9B%B4%E6%87%82-%E8%AE%BE%E8%AE%A1-seedream-5-0-pro-%E5%8F%91%E5%B8%83",
+      "permalink": "https://aihot.virxact.com/items/cmrc3xicn01grihyf9z6t1b4b",
+      "source": "字节 Seed：Research Feed（网页内嵌数据）",
+      "publishedAt": "2026-07-07T16:00:00.000Z",
+      "summary": "字节 Seed 今日发布多模态图像创作模型 Seedream 5.0 Pro，在图文匹配、结构合理性、文字渲染与画面美感上全面升级。四大核心突破：复杂信息可视化，可生成高密度信息图；交互式精准编辑，支持点选、圈选、草图渲染、色彩与材质替换、图层分离及多图融合，实现像素级编辑；真实的影像与人像质感，还原光影、材质与皮肤肌理；原生多语种输入与生成，支持十余种语言及本地化视觉特征。已陆续在豆包、即梦、火山方舟等平台上线。",
+      "category": "ai-models",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrc3xicn01grihyf9z6t1b4b"
       }
     },
     {
@@ -1668,41 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr3wzycy008tslnxrw3opnfn"
       }
-    },
-    {
-      "id": "cmr3tdz1t01t0sl7lztwzlcaj",
-      "title": "Fable 5 仅 4.44 美元搭建 Rube Goldberg 机器",
-      "title_en": "Rube Goldberg machine built with Fable 5， for $4.44 👀 Prompt available here： https://www.reddit.co...",
-      "url": "https://x.com/OpenRouter/status/2072738704922439689",
-      "permalink": "https://aihot.virxact.com/items/cmr3tdz1t01t0sl7lztwzlcaj",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-07-02T17:46:31.000Z",
-      "summary": "用 Fable 5 构建的鲁布·戈德堡机械，仅需 4.44 美元 👀\n提示词在此：https://www.reddit.com/r/openrouter/comments/1ulkilz/i_asked_claude_fable_5_to_build_a_rube_goldberg/",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr3tdz1t01t0sl7lztwzlcaj"
-      }
-    },
-    {
-      "id": "cmr3pz3hx00w5sl7lk3qk71x5",
-      "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-      "title_en": "Anthropic's Pentagon fight was less about access to Claude than control over how the military can us…",
-      "url": "https://x.com/kimmonismus/status/2072718147279335507",
-      "permalink": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-07-02T16:24:50.000Z",
-      "summary": "WSJ法庭文件显示，Anthropic CEO Dario Amodei与五角大楼副部长Emil Michael数月邮件往来，核心分歧在于Claude的军事用途护栏。Anthropic要求禁止全自主武器及某些监控用途，五角大楼则希望Claude可用于所有合法国家安全场景。Michael称若分歧太大不愿\"强行推动\"。随后五角大楼将Anthropic列为供应链风险，阻止合作伙伴在国防部项目中使用其模型。法官暂停部分措施，政府正在上诉。Michael称原先采用Anthropic的操作中已有三分之二切换至其他AI工具。",
-      "category": "industry",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5"
-      }
     }
   ],
-  "cachedAt": "2026-07-08T11:56:41Z"
+  "cachedAt": "2026-07-08T14:39:18Z"
 }
