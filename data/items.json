@@ -1,23 +1,23 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMDU0NTY2ODE0LCJpIjoiY21yNGhiNngwMDF0eHNsbDVqZmlpeTl1MyJ9",
+  "nextCursor": "eyJhIjoxNzgzMDU5MzcxMzc3LCJpIjoiY21yNGtpeWthMDJuaHNsbDV0OGttaTI4NSJ9",
   "items": [
     {
-      "id": "cmrcf8vix00jqihx5elnccllx",
-      "title": "OpenAI 推出 GPT-Live：全双工语音模型，可同时听与说",
-      "title_en": "ChatGPT can now listen and talk at the same time， making AI conversations seem more human",
-      "url": "https://the-decoder.com/chatgpt-can-now-listen-and-talk-at-the-same-time-making-ai-conversations-seem-more-human",
-      "permalink": "https://aihot.virxact.com/items/cmrcf8vix00jqihx5elnccllx",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-08T18:18:55.000Z",
-      "summary": "OpenAI 发布 GPT-Live 语音模型，采用全双工架构，支持同时听和说、用户打断以及\"mhmm\"等填充词，对话更自然。两个版本：GPT-Live-1 面向 Go、Plus、Pro 付费用户，GPT-Live-1 mini 面向免费用户，覆盖 iOS、Android 和网页。复杂任务（网页搜索、推理）委托给后台 GPT-5.5，用户可选 Instant、Medium、High 三个推理级别。用户偏好度测试中，GPT-Live-1 达 75.7%，GPT-Live-1 mini 达 69.2%。在 GPQA 科学推理测试中，高推理级别达 84.2%（Advanced Voice Mode 为 45.3%）；在 BrowseComp 智能体搜索基准上得 75.2%（Advanced Voice Mode 为 0.7%）。新增视觉卡片与九种语音，内置危机热线、年龄适配及家长控制等安全措施。",
-      "category": "ai-models",
-      "score": 83,
+      "id": "cmrcit2bg01f9ihx5cps026s8",
+      "title": "诉讼：男子使用Grok制作7000张继女色情图像后自杀",
+      "title_en": "Lawsuit： Man used Grok to make 7K sex images of stepdaughter， then shot himself",
+      "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt",
+      "permalink": "https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-07-08T19:56:37.000Z",
+      "summary": "一男子使用Grok生成7000张继女儿童性虐待材料（CSAM）后自杀。更多年轻女孩起诉X平台，指控其涉及Grok生成CSAM，并包庇儿童性犯罪者。",
+      "category": "industry",
+      "score": 72,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcf8vix00jqihx5elnccllx"
+        "canonical": "https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8"
       }
     },
     {
@@ -69,6 +69,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrc8c7rq00imihqcg5rp1u13"
+      }
+    },
+    {
+      "id": "cmrcigf5k01bqihx54i8oph9u",
+      "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
+      "title_en": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "permalink": "https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-07-08T13:00:00.000Z",
+      "summary": "OpenAI 对编码评测基准 SWE-Bench Pro 进行详细审计，发现约 30% 的任务存在缺陷。在 731 个任务的公开子集中，前沿模型通过率在八个月内从 23.3% 提升至 80.3%，但数据质量检查显示大量任务存在测试过于严格、提示词描述不足、测试覆盖不全或误导性提示等问题。OpenAI 建议模型开发者仔细审视评测结果，并指出 AI 智能体在规模化数据质量检查中日益增长的实用性。",
+      "category": "paper",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u"
       }
     },
     {
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr4kiyka02nhsll5t8kmi285"
       }
-    },
-    {
-      "id": "cmr4hb6x001txsll5jfiiy9u3",
-      "title": "claude-real-video ─ 让任何大语言模型（LLM）都能观看视频",
-      "title_en": "Claude-real-video - 任何大型语言模型（LLM）都能观看视频",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
-      "permalink": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-03T04:56:06.814Z",
-      "summary": "claude-real-video 是一个开源工具，让大语言模型基于视频画面而非字幕进行理解。它通过场景变化检测提取关键帧、滑动窗口去重并转录音频，生成干净的本地文件夹供模型读取。支持 YouTube 链接或本地文件，依赖 ffmpeg 和 Whisper，通过 pip 安装。全部处理在本地完成，不上传云端。",
-      "category": "tip",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr4hb6x001txsll5jfiiy9u3"
-      }
     }
   ],
-  "cachedAt": "2026-07-08T18:42:54Z"
+  "cachedAt": "2026-07-08T20:36:48Z"
 }
