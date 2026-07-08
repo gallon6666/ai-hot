@@ -1,8 +1,76 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMDE5OTA5MDAwLCJpIjoiY21yM3d6eWN5MDA4dHNsbnhydzNvcG5mbiJ9",
+  "nextCursor": "eyJhIjoxNzgzMDM2ODAwMDAwLCJpIjoiY21yYmc4NHlmMDNtYWlobDE1azNvbjkydyJ9",
   "items": [
+    {
+      "id": "cmrc9es9y00rpihqckxdynyjh",
+      "title": "OpenRouter 自动升级至 Grok 4.5",
+      "title_en": "Use Grok 4.5 from @SpaceXAI the moment it goes live， with no code change. ~x-ai/grok-latest always …",
+      "url": "https://x.com/OpenRouter/status/2074881863030812832",
+      "permalink": "https://aihot.virxact.com/items/cmrc9es9y00rpihqckxdynyjh",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-07-08T15:42:40.000Z",
+      "summary": "使用来自 @SpaceXAI 的 Grok 4.5，一旦它上线，无需更改代码。\n\n~x-ai/grok-latest 始终路由到最新的 Grok。现在指向它（今天为 Grok 4.3），当 4.5 发布时它会自动升级到 4.5。\n\n尝试：https://openrouter.ai/~x-ai/grok-latest",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrc9es9y00rpihqckxdynyjh"
+      }
+    },
+    {
+      "id": "cmrc8ppgh00l4ihqcft9anype",
+      "title": "Runway Dev 发布",
+      "title_en": "Introducing Runway Dev",
+      "url": "https://runwayml.com/news/introducing-runway-dev",
+      "permalink": "https://aihot.virxact.com/items/cmrc8ppgh00l4ihqcft9anype",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-07-08T15:35:51.878Z",
+      "summary": "Runway 官网以 Cookie 设置页面代替了产品介绍，未提供 Runway Dev 的功能、参数、可用性等任何具体信息。",
+      "category": "ai-products",
+      "score": 58,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrc8ppgh00l4ihqcft9anype"
+      }
+    },
+    {
+      "id": "cmrc8cfhc00jeihqc0r5wx6qz",
+      "title": "Replit 推出社区档案与力量排名",
+      "title_en": "New this week 🚀 Replit Community Profiles - Proof of Work for vibe coders. Your profile， your flex…",
+      "url": "https://x.com/Replit/status/2074871322220339515",
+      "permalink": "https://aihot.virxact.com/items/cmrc8cfhc00jeihqc0r5wx6qz",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-07-08T15:00:47.000Z",
+      "summary": "本周新功能 🚀 Replit 社区档案--vibe coders 的工作证明。\n\n你的档案，你的展示。获取你的智能体使用和检查点的活跃度图表，外加面向专业用户的 Replit 力量排名。\n\n登录，认领你的档案，挑选你最棒的项目，与朋友分享你的数据。\n\n立即查看 → http://replit.com/community",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrc8cfhc00jeihqc0r5wx6qz"
+      }
+    },
+    {
+      "id": "cmrc8c7rq00imihqcg5rp1u13",
+      "title": "OpenRouter聊天室推出一键零数据保留",
+      "title_en": "New： one-click ZDR （zero-data retention） in the Chatroom Compare models side-by-side with full priv…",
+      "url": "https://x.com/OpenRouter/status/2074870468394250461",
+      "permalink": "https://aihot.virxact.com/items/cmrc8c7rq00imihqcg5rp1u13",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-07-08T14:57:23.000Z",
+      "summary": "新功能：聊天室一键ZDR（零数据保留）\n在完全隐私保护下横向对比模型：https://openrouter.ai/chat",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrc8c7rq00imihqcg5rp1u13"
+      }
+    },
     {
       "id": "cmrc1iygj00twihyfe1hkvycv",
       "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
@@ -307,40 +375,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmraw21y401jhihog3tcrfsp4"
-      }
-    },
-    {
-      "id": "cmrav068k01b7ihogl498wk0x",
-      "title": "人们如何使用Claude Cowork",
-      "title_en": "How people are using Claude Cowork",
-      "url": "https://claude.com/blog/how-people-are-using-claude-cowork",
-      "permalink": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-07T16:24:13.051Z",
-      "summary": "基于2026年5月11-31日120万次匿名会话样本，Claude Cowork最大用途为业务流程与运营（33.4%），如整理报告、核对表格；其次为内容创作与文案（16.4%），如起草稿件、制作幻灯片；软件开发仅占8.7%。用户多用它处理跨团队衔接性任务，例如律师处理文档格式、招聘经理汇总面试反馈。Claude Cowork面向所有Claude用户开放。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x"
-      }
-    },
-    {
-      "id": "cmrav068k01b6ihogth8k26f6",
-      "title": "Claude Cowork 向移动端和网页端开放",
-      "title_en": "Claude Cowork is coming to mobile and web",
-      "url": "https://claude.com/blog/cowork-web-mobile",
-      "permalink": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-07T16:24:13.051Z",
-      "summary": "Claude Cowork 正在向移动端和网页端开放，让会话和文件跨设备同步。Beta 版将在未来几周内首先面向 Max 用户推出。Cowork 可让 Claude 跨文件、日历、邮件、即时通讯等工具完成复杂任务，其中超过 90% 的使用场景并非软件开发，而是日常知识工作（业务运营和内容创作）。工作可跨设备跟随用户：在桌面端开始任务，从手机查看进度；关闭笔记本后 Claude 可继续后台运行，支持定时任务（如周一 6 点自动准备客户简报）。当需要用户决策时，Claude 会将问题推送到手机。桌面端保留完整 Cowork 体验，支持无法安装桌面应用的用户。聊天和 Cowork 已在网页端和桌面端合并。为庆祝上线，双倍 Cowork 使用额度延长至 8 月 5 日。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6"
       }
     },
     {
@@ -817,6 +851,57 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr9hhq6k04anslsmg761vie9"
+      }
+    },
+    {
+      "id": "cmrc6hfeq002nih5mhc7h2btk",
+      "title": "Robostral Navigate：Mistral AI 首个具身导航模型",
+      "title_en": "Introducing Robostral Navigate Robostral Navigate， our first model built for embodied navigation. July 7， 2026 Mistral AI",
+      "url": "https://mistral.ai/news/robostral-navigate",
+      "permalink": "https://aihot.virxact.com/items/cmrc6hfeq002nih5mhc7h2btk",
+      "source": "Mistral AI：News（网页）",
+      "publishedAt": "2026-07-06T16:00:00.000Z",
+      "summary": "Robostral Navigate 是 Mistral AI 首个具身导航模型（8B 参数），仅用单 RGB 摄像头，在 R2R-CE 验证集上取得 76.6%（unseen）和 79.4%（seen）的成功率，超越最佳单摄像头方法 9.7 个百分点，超越使用深度或多摄像头的系统 4.5 个百分点。模型通过 pointing 预测目标坐标并结合强化学习持续改进，全部在模拟中训练（约 40 万轨迹、6000 场景），采用 prefix-caching 实现高效训练。通用适配轮式、腿式和飞行机器人，能适应真实环境中未训练的障碍。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrc6hfeq002nih5mhc7h2btk"
+      }
+    },
+    {
+      "id": "cmrav068k01b7ihogl498wk0x",
+      "title": "人们如何使用Claude Cowork",
+      "title_en": "How people are using Claude Cowork",
+      "url": "https://claude.com/blog/how-people-are-using-claude-cowork",
+      "permalink": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-07-06T16:00:00.000Z",
+      "summary": "基于2026年5月11-31日120万次匿名会话样本，Claude Cowork最大用途为业务流程与运营（33.4%），如整理报告、核对表格；其次为内容创作与文案（16.4%），如起草稿件、制作幻灯片；软件开发仅占8.7%。用户多用它处理跨团队衔接性任务，例如律师处理文档格式、招聘经理汇总面试反馈。Claude Cowork面向所有Claude用户开放。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x"
+      }
+    },
+    {
+      "id": "cmrav068k01b6ihogth8k26f6",
+      "title": "Claude Cowork 向移动端和网页端开放",
+      "title_en": "Claude Cowork is coming to mobile and web",
+      "url": "https://claude.com/blog/cowork-web-mobile",
+      "permalink": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-07-06T16:00:00.000Z",
+      "summary": "Claude Cowork 正在向移动端和网页端开放，让会话和文件跨设备同步。Beta 版将在未来几周内首先面向 Max 用户推出。Cowork 可让 Claude 跨文件、日历、邮件、即时通讯等工具完成复杂任务，其中超过 90% 的使用场景并非软件开发，而是日常知识工作（业务运营和内容创作）。工作可跨设备跟随用户：在桌面端开始任务，从手机查看进度；关闭笔记本后 Claude 可继续后台运行，支持定时任务（如周一 6 点自动准备客户简报）。当需要用户决策时，Claude 会将问题推送到手机。桌面端保留完整 Cowork 体验，支持无法安装桌面应用的用户。聊天和 Cowork 已在网页端和桌面端合并。为庆祝上线，双倍 Cowork 使用额度延长至 8 月 5 日。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6"
       }
     },
     {
@@ -1617,92 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrbg84yf03maihl15k3on92w"
       }
-    },
-    {
-      "id": "cmr46bm6n00xesl3gigy5su8z",
-      "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
-      "title_en": "得克萨斯州特斯拉致命车祸肇事司机被控过失杀人，警方发现其曾嫌 FSD\"太保守\"",
-      "url": "https://www.ithome.com/0/971/971.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr46bm6n00xesl3gigy5su8z",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-02T23:43:15.000Z",
-      "summary": "44岁的迈克尔·巴特勒驾驶特斯拉Model 3冲入得州住宅，致76岁玛莎·阿维拉死亡，现被控过失杀人。警方从其手机发现2026年5月多次搜索\"FSD不够激进\"\"特斯拉FSD过于保守\"等记录。特斯拉AI负责人称驾驶员将加速踏板踩到底（100%），手动操作覆盖了FSD。车辆数据显示，约6秒内加速踏板被完全踩下，时速升至117公里（超限速两倍），制动踏板始终未踩。阿维拉家属已起诉特斯拉和巴特勒，美国NHTSA和NTSB已介入调查。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr46bm6n00xesl3gigy5su8z"
-      }
-    },
-    {
-      "id": "cmr46bjmz00x0sl3g5rj6sp46",
-      "title": "扎克伯格称AI智能体开发速度未如预期",
-      "title_en": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
-      "permalink": "https://aihot.virxact.com/items/cmr46bjmz00x0sl3g5rj6sp46",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-02T23:38:10.000Z",
-      "summary": "Meta CEO 扎克伯格在本周内部全体会议上表示，AI 智能体的开发速度并未像高管们此前预期的那样加速。今年早些时候Meta裁减约8000名员工（约占10%），并将另外7000人调至多个AI团队，包括Agent Transformation小组。扎克伯格称裁员不够\"干净\"，原因是高管担心公司无法足够快地适应技术行业变化。他还指出以AI为中心的新公司结构所预期的好处尚未实现，但相信未来三到六个月将开始看到AI投资的改善。路透社报道，Meta今年预计在AI基础设施上投入高达1450亿美元。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr46bjmz00x0sl3g5rj6sp46"
-      }
-    },
-    {
-      "id": "cmr3zye9z00qfslw2sg1izmks",
-      "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-      "title_en": "Meet Alibaba's Page Agent： A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
-      "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-      "permalink": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-02T20:51:39.000Z",
-      "summary": "阿里巴巴发布 Page Agent，一个开源的 JavaScript 客户端库，嵌入网页后可通过自然语言指令直接操作 DOM 元素。与 Playwright、Puppeteer 等外部浏览器自动化工具不同，Page Agent 不依赖截图或多模态模型，而是将实时 DOM 脱水压缩为 FlatDomTree 文本映射，让纯文本模型精准执行点击、表单填写等操作。它继承用户 cookies 和会话，无需独立后端，并支持任意 OpenAI 兼容端点的模型（示例使用 `qwen3.5-plus`）。项目采用 MIT 许可证，适合在自有应用内构建 AI 副驾、智能表单填充或无障碍控制等场景，但限于单页面范围，风险操作仍需服务端验证。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks"
-      }
-    },
-    {
-      "id": "cmr3yrwnf00e1slw21f16oh2d",
-      "title": "关于Mythos和网络安全的讨论并非炒作",
-      "title_en": "The talk about Mythos and cybersecurity was not， in fact， hype. （As anyone using Fable to do autonom…",
-      "url": "https://x.com/emollick/status/2072778376494895139",
-      "permalink": "https://aihot.virxact.com/items/cmr3yrwnf00e1slw21f16oh2d",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-07-02T20:24:09.000Z",
-      "summary": "关于Mythos和网络安全的讨论并非炒作。\n（正如任何使用Fable进行自主工作的人可能已经认识到的那样。）",
-      "category": "paper",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr3yrwnf00e1slw21f16oh2d"
-      }
-    },
-    {
-      "id": "cmr3wzycy008tslnxrw3opnfn",
-      "title": "Microsoft 成立\"Frontier Company\"，斥资 25 亿美元派驻 6000 名 AI 工程师到企业客户现场",
-      "title_en": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6，000 AI engineers inside enterprise clients",
-      "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
-      "permalink": "https://aihot.virxact.com/items/cmr3wzycy008tslnxrw3opnfn",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-02T19:18:29.000Z",
-      "summary": "Microsoft 新设业务部门\"Frontier Company\"，拨款 25 亿美元，将 6000 名行业与工程专家派驻企业客户现场，\"共同设计、共同创新、部署并持续改进 AI 系统\"。该部门由 Rodrigo Kede Lima 领导，旨在超越\"前部署工程\"模式，成为\"最大、以结果为导向的工程组织\"。Microsoft 将自己定位为 OpenAI 和 Anthropic 的\"平台中立\"替代方案，后两者也已设立专门部署公司。Microsoft 将借助埃森哲、凯捷、安永等系统集成商扩大覆盖范围。",
-      "category": "industry",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr3wzycy008tslnxrw3opnfn"
-      }
     }
   ],
-  "cachedAt": "2026-07-08T14:39:18Z"
+  "cachedAt": "2026-07-08T16:48:21Z"
 }
