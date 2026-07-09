@@ -1,8 +1,212 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMjYwMDE4MDAwLCJpIjoiY21yN3ZwcGh5MDA3b3NsZ256NGFvdHB4NCJ9",
+  "nextCursor": "eyJhIjoxNzgzMzAwMTY5MDAwLCJpIjoiY21yOGo4Mnc0MDJrMHNsMGRkZmU2Zjd6diJ9",
   "items": [
+    {
+      "id": "cmre2ypj7000wihraseiy4168",
+      "title": "OpenAI推出GPT-5.6系列模型，含三个变体及ChatGPT Work工具",
+      "title_en": "OpenAI launches its new family of models with GPT-5.6",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6",
+      "permalink": "https://aihot.virxact.com/items/cmre2ypj7000wihraseiy4168",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-09T22:24:24.000Z",
+      "summary": "OpenAI发布GPT-5.6系列，包括Sol（主力）、Terra（中级）和Luna（经济型）。CEO Sam Altman称Sol在AI编码任务中token效率提升54%。该系列被定位为最强网络安全模型，支持威胁建模、代码审查、补丁和蓝队演练。同时推出面向企业团队的桌面、网页和移动端办公助手ChatGPT Work。定价每百万token：Sol输入$5/输出$30，Terra $2.50/$15，Luna $1/$6。在Artificial Analysis Coding Agent Index基准上，Sol得分80，高出Anthropic Fable 5的2.8分，且输出token和耗时均不到一半，成本低约三分之一。Terra略超Fable 5，Luna优于Opus 4.8。现可通过ChatGPT、Codex和API使用。",
+      "category": "ai-models",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre2ypj7000wihraseiy4168"
+      }
+    },
+    {
+      "id": "cmre2t4cr00sdihwk98gtemqp",
+      "title": "OpenAI 发布 ChatGPT Work 新型 AI Agent",
+      "title_en": "OPANAI 👀： ChatGPT Work arrived as a new AI Agent， along with a completely new app based on Codex De…",
+      "url": "https://x.com/testingcatalog/status/2075340652011819353",
+      "permalink": "https://aihot.virxact.com/items/cmre2t4cr00sdihwk98gtemqp",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-07-09T22:05:44.000Z",
+      "summary": "OpenAI 推出 ChatGPT Work，一款由 Codex 和 GPT-5.6 驱动的新型 AI Agent，可在应用和文件中执行操作，长时间跟踪项目直至完成。今日起面向 Pro、Enterprise、Edu 计划在网页和移动端推送，未来几天扩展至 Plus 和 Business。在 ChatGPT 桌面应用（支持 Windows 和 Mac）中，Chat、Work、Codex 在所有计划（含免费）可用。原 Codex 应用用户更新后将变为新版 ChatGPT 桌面应用。此举标志着 ChatGPT 向超级应用融合完成。",
+      "category": "ai-products",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre2t4cr00sdihwk98gtemqp"
+      }
+    },
+    {
+      "id": "cmre1vdj600h8ihwk2g9d8r99",
+      "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
+      "title_en": "Elon Musk praises Mythos/Fable， promises not to 'cut off' Anthropic",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
+      "permalink": "https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-09T21:57:42.000Z",
+      "summary": "Elon Musk近日在X上承认此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"，盛赞Mythos/Fable模型\"目前最好\"，并承诺不会恶意切断其计算资源。2026年7月起，Anthropic成为SpaceX最大客户之一--双方5月签署协议，Anthropic以每月12.5亿美元（至2029年5月，总计约400亿美元）购买xAI旗下Colossus 1数据中心300兆瓦全部算力。Musk以特斯拉开放专利、超充网络等先例佐证其\"不挤压竞争对手\"的风格，合同条款也提供了保障。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99"
+      }
+    },
+    {
+      "id": "cmre1vdj600h9ihwkt35yib2l",
+      "title": "AI 能否回答 3 万亿美元的问题？",
+      "title_en": "Can AI answer the $3 trillion question？",
+      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
+      "permalink": "https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-09T21:47:50.000Z",
+      "summary": "Sequoia 合伙人 David Cahn 更新 AI 基础设施支出估算：2026 年全球投入达 1.5 万亿美元，行业需产生 3 万亿美元收入才能回本。Anthropic 年化收入（ARR）达 600 亿美元，OpenAI 2025 年收入 130 亿美元（11 月称 ARR 200 亿美元），但缺口仍大。Apollo 首席经济学家指出，谷歌、Meta、微软、亚马逊均预测 2028 年自由现金流加速，但风险在于更多组织转向更便宜的开放权重模型（尤其中国模型），且 OpenAI 最新模型编码任务 token 效率提升 54%，导致 token 价格持续下降。若超大规模厂商现金流目标落空，可能引发经济衰退和标普 500 回调。",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l"
+      }
+    },
+    {
+      "id": "cmre2mjan00mqihwk1mxaz52s",
+      "title": "GPT-5.6 系列模型发布",
+      "title_en": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6",
+      "permalink": "https://aihot.virxact.com/items/cmre2mjan00mqihwk1mxaz52s",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-09T21:46:30.443Z",
+      "summary": "OpenAI 发布 GPT-5.6 系列，包括旗舰 Sol、日常平衡 Terra 和最高性价比 Luna。Sol 在 Agents' Last Exam 上取得 53.6 分，超 Claude Fable 5（自适应推理）13.1 分；在 Coding Agent Index 上 80 分，超 Fable 5 2.8 分，同时输出 token 减少一半以上、时间缩短一半以上、成本降低约三分之一。Terra 和 Luna 以约十六分之一成本超越 Fable 5。模型支持 Programmatic Tool Calling 和 ultra 模式（协调多个智能体并行工作），配备多层安全防护。现已正式可用。",
+      "category": "ai-models",
+      "score": 91,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre2mjan00mqihwk1mxaz52s"
+      }
+    },
+    {
+      "id": "cmre2mjan00mrihwkqd7qp4vj",
+      "title": "OpenAI 推出 ChatGPT Work 智能体",
+      "title_en": "ChatGPT Work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "permalink": "https://aihot.virxact.com/items/cmre2mjan00mrihwkqd7qp4vj",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-09T21:46:30.429Z",
+      "summary": "OpenAI 于 7 月 9 日推出 ChatGPT Work，这是一款能跨应用和文件执行操作的智能体，基于最新前沿模型 GPT-5.6。ChatGPT Work 可将复杂项目拆解为小步骤自主完成，生成表格、幻灯片、文档和网页应用，并支持 Scheduled Tasks 在用户离线时推进工作。内置 Codex 技术，每周超 500 万人使用 Codex，其中超 100 万人用于非软件开发场景。即日起向 Pro、Enterprise、Edu 用户开放，未来几天覆盖 Plus 和 Business 计划；桌面端免费用户也可使用 Chat、Work 和 Codex。",
+      "category": "ai-products",
+      "score": 84,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre2mjan00mrihwkqd7qp4vj"
+      }
+    },
+    {
+      "id": "cmre2mjan00msihwkpuxq0462",
+      "title": "社交媒体AI生成内容泛滥：LinkedIn超过40%长文为AI写作",
+      "title_en": "社交媒体上随处可见AI生成的内容，尤其是LinkedIn上",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "permalink": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-09T21:46:29.789Z",
+      "summary": "安全公司Pangram通过Chrome扩展收集超100万条帖子，分析发现社交媒体AI生成内容泛滥。整体AI检测率13.8%，长文（超250词）中25.72%完全由AI生成。LinkedIn最为严重，超40%长文帖子被标记为完全AI生成，占全部AI内容的62%；X/Twitter近一半文章（23.9%完全AI+22.9%混合）为AI写作。Reddit整体AI率仅4.4%，但顶层帖子AI率达11.6%。分析使用Pangram 3.3模型，假阳性率0.01%。Substack上长文AI率反而略低。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre2mjan00msihwkpuxq0462"
+      }
+    },
+    {
+      "id": "cmre2mjao00ncihwk7foifcuk",
+      "title": "Bun 被 Anthropic 收购后用 Rust 重写，月下载超 2200 万",
+      "title_en": "重写《Rust 中的 Bun》",
+      "url": "https://bun.com/blog/bun-in-rust",
+      "permalink": "https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-09T21:46:21.422Z",
+      "summary": "Bun 于 2025 年 12 月被 Anthropic 收购，作者使用预发布版 Claude Fable 5 进行了大量 Rust 重写。Bun 最初用 Zig 在一年内构建，如今 CLI 月下载超 2200 万，被 Claude Code 等采用。广泛功能带来稳定性挑战，v1.3.14 修复了多项 use-after-free、内存泄漏等 bug。团队通过 ASAN、Fuzzilli 模糊测试等系统性预防，并借助 Rust 的内存安全特性减少此类缺陷。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre2mjao00ncihwk7foifcuk"
+      }
+    },
+    {
+      "id": "cmre2mjao00nmihwkz4nz0e46",
+      "title": "微软发布Flint：面向AI智能体的可视化语言",
+      "title_en": "Show HN： 微软发布了Flint，一种用于人工智能代理的可视化语言",
+      "url": "https://microsoft.github.io/flint-chart",
+      "permalink": "https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-09T21:46:19.253Z",
+      "summary": "微软研究院推出Flint，一种可视化中间语言，让AI智能体通过简洁的人类可编辑spec自动生成美观图表。用户只需提供数据、语义类型和图表类型，Flint编译器即可推导坐标轴、配色、布局等底层参数。支持46种图表类型，可渲染到Vega-Lite、ECharts和Chart.js三个后端。项目通过npm安装（TypeScript/JavaScript），并提供MCP服务器用于智能体工作流集成。采用弹性布局模型自动优化图表尺寸与间距，已开源。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre2mjao00nmihwkz4nz0e46"
+      }
+    },
+    {
+      "id": "cmre2mjao00nrihwkhnv9ahqj",
+      "title": "title",
+      "title_en": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "permalink": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-09T21:46:17.901Z",
+      "summary": null,
+      "category": "ai-models",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj"
+      }
+    },
+    {
+      "id": "cmre1bxqr00bhihwk8z3bz5qs",
+      "title": "ChatGPT Sites将创意变可发布网站",
+      "title_en": "Turn an idea into a live Site you can publish and share Here's what some of the team at OpenAI buil…",
+      "url": "https://x.com/OpenAIDevs/status/2075331020090687666",
+      "permalink": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-07-09T21:27:27.000Z",
+      "summary": "将一个想法变成可发布和分享的实时网站\n\n以下是OpenAI团队的一些成员用Sites构建的示例👇\n\n@prd_008 用Sites将一个想法变成了个人专注应用：",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre1bxqr00bhihwk8z3bz5qs"
+      }
+    },
+    {
+      "id": "cmre0j0vj002sihwk71qvktk7",
+      "title": "Google 推出 LiteRT.js：高性能 Web AI 推理运行时",
+      "title_en": "LiteRT.js， Google's high performance Web AI Inference",
+      "url": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference",
+      "permalink": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-07-09T21:21:08.292Z",
+      "summary": "Google 发布 LiteRT.js，这是 LiteRT 跨平台边缘 AI 运行时的最新成员，专为 JavaScript 开发者设计，可直接在浏览器中运行机器学习模型。LiteRT.js 基于 WebGPU 和即将推出的 WebNN 实现 SOTA 推理性能，同时支持回退到 WebAssembly CPU 方案。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7"
+      }
+    },
     {
       "id": "cmrdslwmv06tcih4bzp5l7ivy",
       "title": "Anthropic发起\"硬问题\"倡议，邀请公众提出AI相关尖锐问题",
@@ -174,6 +378,23 @@
       }
     },
     {
+      "id": "cmrdrlair06hoih4b5vgl9oc2",
+      "title": "GPT-5.6 系列模型发布：Sol、Terra、Luna",
+      "title_en": "GPT-5.6： Frontier intelligence that scales with your ambition",
+      "url": "https://openai.com/index/gpt-5-6",
+      "permalink": "https://aihot.virxact.com/items/cmrdrlair06hoih4b5vgl9oc2",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-07-09T10:00:00.000Z",
+      "summary": "OpenAI 推出 GPT-5.6 系列，包括旗舰 Sol、平衡型 Terra 和成本最优 Luna。在 Agents' Last Exam 上，Sol 以 53.6 分超越 Claude Fable 5（自适应推理）13.1 分；中等推理时以约四分之一成本领先 11.4 分。Terra 和 Luna 以约十六分之一成本超越 Fable 5。在 Artificial Analysis Coding Agent Index 上，Sol 以 80 分创 SOTA，高于 Fable 5 的 2.8 分，使用不到一半输出 token、一半时间，成本低约三分之一。引入 Programmatic Tool Calling 减少中间数据往返，ultra 模式协调多个智能体加速复杂任务。模型配备迄今最强安全防护，经人类红队和自动化测试验证。",
+      "category": "ai-models",
+      "score": 85,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdrlair06hoih4b5vgl9oc2"
+      }
+    },
+    {
       "id": "cmrd9x7xz01wzih4bch5uoywh",
       "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
       "title_en": "NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B： A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput",
@@ -239,6 +460,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrcsrok60407ihx5jvrp15a1"
+      }
+    },
+    {
+      "id": "cmrdxl060007rihsah5dvadei",
+      "title": "GPT-5.6 成为 Microsoft 365 Copilot 首选模型",
+      "title_en": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "permalink": "https://aihot.virxact.com/items/cmrdxl060007rihsah5dvadei",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "summary": "OpenAI 宣布 GPT-5.6 将作为 Microsoft 365 Copilot 的首选模型，覆盖 Word、Excel、PowerPoint、Chat 和 Cowork。该集成使用户能在日常工具中以更少提示轮次创建更高质量文档、进行更深入数据分析、生成更精美演示，并完成跨职能协作。GPT-5.6 在每个 token 上提供更实用的工作产出，性价比更强，并支持按需处理最复杂任务。微软通过 OpenAI API 直接调用该模型服务 Microsoft 365 客户。",
+      "category": "ai-models",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdxl060007rihsah5dvadei"
       }
     },
     {
@@ -1464,245 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv"
       }
-    },
-    {
-      "id": "cmraoctt6001mihvtza6yc7it",
-      "title": "统一音频智能模型 Nemotron-Labs-Audex-30B-A3B 发布",
-      "title_en": "Unified Audio Intelligence Without Regressing on Text Intelligence",
-      "url": "https://arxiv.org/abs/2607.05196",
-      "permalink": "https://aihot.virxact.com/items/cmraoctt6001mihvtza6yc7it",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "summary": "Nemotron-Labs-Audex-30B-A3B（Audex）是基于Nemotron-Cascade-2-30B-A3B的MoE大语言模型，采用单一Transformer解码器统一处理文本与量化音频token。训练使用157.4B音频token和320.5B文本token，经多阶段监督训练、文本Cascade RL和多域on-policy蒸馏优化。在音频理解、语音识别/翻译、文本转语音、音频生成及语音到语音生成任务上达SOTA，同时保持原文本LLM的推理、对齐等能力几乎无退化。模型权重已开源。",
-      "category": "paper",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmraoctt6001mihvtza6yc7it"
-      }
-    },
-    {
-      "id": "cmra76mxz00buihupmesig9k5",
-      "title": "LLM-as-a-Verifier：一种通用验证框架",
-      "title_en": "LLM-as-a-Verifier： A General-Purpose Verification Framework",
-      "url": "https://arxiv.org/abs/2607.05391",
-      "permalink": "https://aihot.virxact.com/items/cmra76mxz00buihupmesig9k5",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "summary": "LLM-as-a-Verifier 是一种无需额外训练的通用验证框架，通过计算评分 token logits 分布的期望生成连续分数，实现细粒度反馈。该框架在 Terminal-Bench V2（86.5%）、SWE-Bench Verified（78.2%）、RoboRewardBench（87.4%）和 MedAgentBench（73.3%）上取得 SOTA 性能。其细粒度信号可用于 Claude Code 扩展，帮助开发者监控和改进智能体系统，也可为强化学习（如 SAC、GRPO）提供密集反馈，提升机器人学和数学推理基准的样本效率。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmra76mxz00buihupmesig9k5"
-      }
-    },
-    {
-      "id": "cmr9t47l20004iha5fuyk3h7z",
-      "title": "xAI 为 Grok Voice 新增 21 个旗舰语音",
-      "title_en": "21 New Flagship Grok Voices Jul 6， 2026 # 21 New Flagship Grok Voices New multilingual voices for Grok Voice， plus improved naturalness for the original five. Read More",
-      "url": "https://x.ai/news/new-flagship-voices",
-      "permalink": "https://aihot.virxact.com/items/cmr9t47l20004iha5fuyk3h7z",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "summary": "xAI 发布 21 个新旗舰语音，加入原有的 5 个语音。所有新语音均支持多语言，已在实时 Voice Agent API、Text to Speech API 及新推出的 Grok Voice Agent Builder 中可用。每个语音针对客服、角色、解说、广告、教育等场景定制，支持通过 `【pause】` 等语音标签控制表达。原始 5 个语音（Ara、Eve、Leo、Rex、Sal）经重训练后，节奏、措辞和重音的自然度提升。所有语音原生支持 Grok Voice 的 25 种以上语言。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9t47l20004iha5fuyk3h7z"
-      }
-    },
-    {
-      "id": "cmr9jb1wn007eihe8jhd6zhrj",
-      "title": "用可解释性理解标注者安全策略",
-      "title_en": "Understanding Annotator Safety Policy with Interpretability",
-      "url": "https://machinelearning.apple.com/research/annotator-safety-policy-interpretability",
-      "permalink": "https://aihot.virxact.com/items/cmr9jb1wn007eihe8jhd6zhrj",
-      "source": "Apple Machine Learning Research（RSS）",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "summary": "标注分歧可源于操作失败、政策模糊或价值多元。Annotator Policy Models（APMs）是一种可解释模型，仅从标注行为学习标注者内在的安全策略，无需额外负担。验证表明模型准确率超过80%，能忠实预测反事实编辑并恢复已知差异。将APMs应用于LLM和人类标注者，可揭示不同标注者对安全指令解释的差异（政策模糊）以及不同人口群体在安全优先级上的系统性差异（价值多元），支持更具针对性、透明和包容的安全策略设计。",
-      "category": "paper",
-      "score": 56,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9jb1wn007eihe8jhd6zhrj"
-      }
-    },
-    {
-      "id": "cmr9i6qjv04faslsmhd1wkgma",
-      "title": "AI 世界观",
-      "title_en": "AI Worldviews",
-      "url": "https://www.tomtunguz.com/godless-hippies-ai-models-values",
-      "permalink": "https://aihot.virxact.com/items/cmr9i6qjv04faslsmhd1wkgma",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "summary": "《经济学人》以世界价值观调查评测 25 个前沿 AI 模型。实验室来源对世界观的预测力弱于训练与对齐选择：Gemini 与 Qwen 立场接近，GPT-4o 与 DeepSeek R1 近乎相同，而 DeepSeek R1 与 DeepSeek V4 Flash 则截然不同。模型的世界观在代码生成中不可见，但在商业分析、预测、招聘与政策工作中是活跃的输入变量。",
-      "category": "tip",
-      "score": 56,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9i6qjv04faslsmhd1wkgma"
-      }
-    },
-    {
-      "id": "cmr8ajv5h00e0sl0d7rzs38ei",
-      "title": "NVIDIA Kyber NVL144 延迟超 12 个月至 2028",
-      "title_en": "MASSIVE DELAY： Just 3 months after Jensen demoed Kyber NVL144 at GTC， it has faced major setbacks an…",
-      "url": "https://x.com/SemiAnalysis_/status/2073874671498387899",
-      "permalink": "https://aihot.virxact.com/items/cmr8ajv5h00e0sl0d7rzs38ei",
-      "source": "X：SemiAnalysis (@SemiAnalysis_)",
-      "publishedAt": "2026-07-05T21:00:27.000Z",
-      "summary": "重大延迟：Jensen 在 GTC 上展示 Kyber NVL144 仅 3 个月后，该项目遭遇重大挫折，已推迟超过 12 个月，延至 2028 年。下文我们将解释 Kyber 为何面临大幅延迟，以及 NVIDIA 的 NVL72x2 背靠背机架架构为何也被取消，导致 Rubin Ultra 的扩展域受限。👇️ 1/6🧵",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr8ajv5h00e0sl0d7rzs38ei"
-      }
-    },
-    {
-      "id": "cmr84d4v901hssl04oav0ki73",
-      "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
-      "title_en": "\"We're building this Prometheus cluster， the first gigawatt-plus single cluster…We're talking abou…",
-      "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
-      "permalink": "https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-05T18:19:42.000Z",
-      "summary": "\"我们正在建设这个 Prometheus 集群，首个千兆瓦以上的单一集群……我们是在谈论数千亿美元的资本投入。\"\n\nMark Zuckerberg 表示，他的职责就是集中精英人才、资本和基础设施。",
-      "category": "industry",
-      "score": 84,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr84d4v901hssl04oav0ki73"
-      }
-    },
-    {
-      "id": "cmr83ashr0189sl04hhietwtx",
-      "title": "三周前，我不小心创办了一家小公司",
-      "title_en": null,
-      "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
-      "permalink": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-05T17:43:57.442Z",
-      "summary": "一位父亲为患有自闭症的非语言儿子开发了一款沟通应用，在言语治疗室的等候区展示时，所有非语言儿童的母亲看到后都忍不住流泪，言语治疗师也啜泣了五分钟。他意外发现产品市场匹配，决定腾出时间让更多孩子能用上，即使这意味着几周睡眠不足。应用本身是专为理解语言困难的儿童设计的，与传统的AAC设备不同--后者主要面向身体障碍但语言理解正常的成人。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr83ashr0189sl04hhietwtx"
-      }
-    },
-    {
-      "id": "cmr815l2z00pgsl04wayrv4tr",
-      "title": "欧盟理事会通过快速通道强制推行\"聊天管控\"（Chat Control 2.0）",
-      "title_en": "欧盟理事会通过快速通道强制推行\"聊天管控\"",
-      "url": "https://www.heise.de/en/news/Chat-Control-1-0-EU-Council-forces-messenger-scans-via-fast-track-11353659.html",
-      "permalink": "https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-05T16:23:44.440Z",
-      "summary": "欧盟理事会通过书面程序快速通过一项新法规，强制要求科技集团对加密通信进行无差别扫描（Chat Control 2.0），以填补过渡性规定4月3日到期后的法律漏洞，并向欧洲议会施压。批评者指责该做法试图绕过民主监督。草案将在夏季休会前以紧急程序提交议会表决，多数议员可能已离会，反对需绝对多数，几乎无法阻止。理事会称扫描限于必要范围，处理的数据须在检测后12个月内不可撤销地删除。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr815l2z00pgsl04wayrv4tr"
-      }
-    },
-    {
-      "id": "cmr9jp8hl00fdihe850djojos",
-      "title": "Claude Fable实地指南：发现你的未知",
-      "title_en": "A Field Guide to Claude Fable： Finding Your Unknowns",
-      "url": "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns",
-      "permalink": "https://aihot.virxact.com/items/cmr9jp8hl00fdihe850djojos",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-05T16:00:00.000Z",
-      "summary": "Claude Fable是第一款要求用户主动澄清未知才能获得高质量工作的模型。与Claude Fable协作是一个在实现前后迭代发现未知的过程。通过将问题分解为已知的已知、已知的未知、未知的已知和未知的未知四类，用户可以借助Claude Fable和Claude Code进行盲点检查、头脑风暴、原型设计、实现笔记记录以及答辩解释，从而高效挖掘并解决深藏于代码库和设计与实现中的潜在问题。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9jp8hl00fdihe850djojos"
-      }
-    },
-    {
-      "id": "cmr9hdvnk049yslsmggdh1n33",
-      "title": "语言模型中的全局工作空间",
-      "title_en": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "permalink": "https://aihot.virxact.com/items/cmr9hdvnk049yslsmggdh1n33",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-07-05T16:00:00.000Z",
-      "summary": "Anthropic在Claude中发现一组名为J-space的内部神经模式，类似神经科学的全局工作空间。每个模式关联特定词汇，但模型不必说出该词即可激活。Claude能报告J-space中的表征，并可应要求调节（如\"在脑中思考\"时点亮对应模式）。J-space还用于多步推理的中间步骤，且灵活支持多种任务（如从\"法国\"联想首都、货币等）。去除J-space后Claude仍能正常对话，但丧失高阶认知功能。该发现可用于监测模型私下察觉测试、生成虚假数据或执行隐藏目标。",
-      "category": "paper",
-      "score": 90,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9hdvnk049yslsmggdh1n33"
-      }
-    },
-    {
-      "id": "cmr9h98co0470slsmqqc2ilv1",
-      "title": "SGLang 集成 DSpark 推测解码：置信度驱动的可变长度验证",
-      "title_en": "Blog DSpark in SGLang： Speculative Decoding with Confidence-Driven， Variable-Length Verification Speculative decoding trades extra compute for fewer decode steps， and the trade sours as load grows： at batch size B with K speculative tokens the target verifies B K tokens every step， and past a po… SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-07-06-dspark-sglang",
-      "permalink": "https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-07-05T16:00:00.000Z",
-      "summary": "SGLang 团队将 DSpark 推测解码算法集成到开源推理引擎中。该算法采用半自回归块起草器一次生成一组 token，并利用置信度头与顺序温度缩放（STS）为每个请求动态分配可变验证长度，从而在高负载下裁剪无效验证成本。SGLang 支持密集模型（如 Qwen3）和稀疏模型（如 DeepSeek-V4），通过全 CUDA 图处理不规则的每请求验证长度。提供三种验证模式：`static`（全长）、`compact`（生产路径）和 `cap-accept`（接受上限测量）。还引入了零开销调度、基于离线成本表的在线调度器、融合 Triton 核等优化。在 H200 上使用 DeepSeek-V4-Flash 的测试中，DSpark 在整个并发扫描范围内比 MTP 和非推测基线实现了更优的吞吐量-延迟权衡。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9h98co0470slsmqqc2ilv1"
-      }
-    },
-    {
-      "id": "cmr7z00up0065sl0472bil7hs",
-      "title": "Anthropic Claude Design 反向工程提示词开源更新",
-      "title_en": "Claude 设计系统提示词",
-      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-      "permalink": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-05T15:35:42.919Z",
-      "summary": "Anthropic 旗下 Claude Design 的反向工程系统提示词在 GitHub 以 MIT 许可证开源，包含 20 章提示词和 14 项技能，覆盖内容纪律、美学、无障碍（WCAG、语义 HTML、键盘导航）、交互状态、系统思维等。近日针对 Fable 5/Opus 4.7+ 系列校准，新增自主决策条款：小决定直接执行记录而不询问。项目支持 Claude Code/Claude.ai 及 Codex 两种变体。",
-      "category": "tip",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr7z00up0065sl0472bil7hs"
-      }
-    },
-    {
-      "id": "cmr7vpphy007oslgnz4aotpx4",
-      "title": "美团 LongCat-2.0 完全开源（MIT 许可），1.6T MoE 模型开放权重与推理代码",
-      "title_en": "🐱 LongCat-2.0 is now fully open-source - MIT licensed， no restrictions. Since our launch a few day…",
-      "url": "https://x.com/Meituan_LongCat/status/2073768940078317713",
-      "permalink": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4",
-      "source": "X：美团 LongCat (@Meituan_LongCat)",
-      "publishedAt": "2026-07-05T14:00:18.000Z",
-      "summary": "美团今日宣布 LongCat-2.0 完全开源（MIT 许可），公开模型权重与推理代码。该模型为 MoE 架构，总参数量 1.6T，每 token 激活约 48B，支持 1M token 上下文。技术亮点包括 LongCat Sparse Attention 高效处理长文本、Zero-Compute Experts 动态激活 33B-56B 零浪费计算、MOPD 按任务路由 Agent/Reasoning/Interaction 三组专家。Benchmark 成绩：Terminal-Bench 2.1 70.8；SWE-bench Pro 59.5（超越 GPT-5.5 的 58.6）；SWE-bench Multilingual 77.3；FORTE 73.2；RWSearch 78.8；BrowseComp 79.9。原生集成 Claude Code、OpenClaw、Hermes Agent 等工具，支持 GPU 与 NPU 部署，已在大规模国内集群验证。",
-      "category": "ai-models",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4"
-      }
     }
   ],
-  "cachedAt": "2026-07-09T20:55:39Z"
+  "cachedAt": "2026-07-09T22:42:12Z"
 }
