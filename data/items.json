@@ -1,8 +1,59 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMTU2MTIxMDAwLCJpIjoiY21yNjVpZWtvMDAydHNsZjB4aW9tYWMwYyJ9",
+  "nextCursor": "eyJhIjoxNzgzMjYwMDE4MDAwLCJpIjoiY21yN3ZwcGh5MDA3b3NsZ256NGFvdHB4NCJ9",
   "items": [
+    {
+      "id": "cmrdslwmv06tcih4bzp5l7ivy",
+      "title": "Anthropic发起\"硬问题\"倡议，邀请公众提出AI相关尖锐问题",
+      "title_en": "Inviting hard questions",
+      "url": "https://www.anthropic.com/news/hard-questions",
+      "permalink": "https://aihot.virxact.com/items/cmrdslwmv06tcih4bzp5l7ivy",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-07-09T17:40:42.612Z",
+      "summary": "Anthropic作为公益公司，发起\"硬问题\"倡议，邀请公众就AI对就业、社会、家庭、科学医学等领域的影响提出最尖锐的问题。此前已通过多种方式收集看法：首轮调查询问5.2万美国人；通过Anthropic Interviewer调查了159个国家70种语言的8.1万Claude用户；开展数十场线下焦点小组；并基于匿名真实数据研究Claude使用情况。公司还设立了Anthropic Institute和Long-Term Benefit Trust以监督公益使命进展。Anthropic承诺将公开追踪并报告针对这些问题的具体行动及成效。",
+      "category": "industry",
+      "score": 56,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdslwmv06tcih4bzp5l7ivy"
+      }
+    },
+    {
+      "id": "cmrds7pdr06qiih4b6f0yienf",
+      "title": "OpenAI 发布最强模型与最佳博文",
+      "title_en": "obviously the best model we have ever produced， but also one of the best blog posts we have ever pro…",
+      "url": "https://x.com/sama/status/2075266471316615436",
+      "permalink": "https://aihot.virxact.com/items/cmrds7pdr06qiih4b6f0yienf",
+      "source": "X：Sam Altman (@sama)",
+      "publishedAt": "2026-07-09T17:10:58.000Z",
+      "summary": "显然是我们有史以来最好的模型，也是我们写得最好的博文之一：\n\nhttps://openai.com/index/gpt-5-6/",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrds7pdr06qiih4b6f0yienf"
+      }
+    },
+    {
+      "id": "cmrdqgmkj067pih4b2dbg61ml",
+      "title": "Anthropic长期利益信托任命本·伯南克为受托人",
+      "title_en": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "permalink": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-07-09T16:40:37.929Z",
+      "summary": "Anthropic的长期利益信托（LTBT）任命前美联储主席、2022年诺贝尔经济学奖得主本·伯南克为最新受托人。他将与另外三位受托人共同监督公司以对社会长期有益的方式负责任开发先进AI的使命。LTBT独立于管理团队和投资者，受托人不持股、不分红，仅按服务时间获酬。该信托有权向Anthropic董事会任命成员，并就AI风险与社会影响等关键决策提供建议。伯南克将参与公司的经济研究，帮助理解AI对全球劳动力与经济的影响。",
+      "category": "industry",
+      "score": 56,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml"
+      }
+    },
     {
       "id": "cmrdpmgpg05zcih4bmwttzqaq",
       "title": "消息称特斯拉三代擎天柱人形机器人初步定型，马斯克放话达不成产能目标就开掉整个采购团队",
@@ -103,6 +154,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrdj6s6604a6ih4bekz9h8il"
+      }
+    },
+    {
+      "id": "cmrdrlair06hpih4bxerobguv",
+      "title": "OpenAI 推出 ChatGPT Work：可跨应用自主工作的 AI 智能体",
+      "title_en": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "permalink": "https://aihot.virxact.com/items/cmrdrlair06hpih4bxerobguv",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-07-09T10:00:00.000Z",
+      "summary": "OpenAI 发布 ChatGPT Work，一个能跨应用和文件收集信息、将复杂项目分解为小步骤独立完成并持续工作数小时的 AI 智能体。它内置 Codex 技术，目前每周超 500 万用户使用 Codex，其中超 100 万用于非软件开发场景。ChatGPT Work 由今天同步推出的最新前沿模型 GPT-5.6 驱动，具备多步骤推理和按模板生成材料的能力。该功能今天起面向 Pro、Enterprise 和 Edu 计划推出，未来几天扩展至 Plus 和 Business 计划。桌面版 ChatGPT 在所有计划（含免费版）中提供 Chat、Work 和 Codex 模式，且 Codex 应用已合并至新的桌面应用。",
+      "category": "ai-models",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdrlair06hpih4bxerobguv"
       }
     },
     {
@@ -409,23 +477,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo"
-      }
-    },
-    {
-      "id": "cmrbkf2e804qlihl1e8qe5q4a",
-      "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
-      "title_en": "结束管制：美国政府批准 OpenAI 大规模推广 GPT-5.6，Sol 明日亮相",
-      "url": "https://www.ithome.com/0/973/922.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrbkf2e804qlihl1e8qe5q4a",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-08T03:30:52.000Z",
-      "summary": "美国商务部正式批准OpenAI大规模发布GPT-5.6。OpenAI宣布GPT-5.6 Sol将于本周四完成最后准备后，与Terra和Luna一同面向公众推出。此前因国家安全考量，美国政府要求分阶段发布，仅允许向经批准的有限实体开放。此次全面放行标志着临时管控结束。获批前，美国商务部下属AI标准与创新中心执行了测试，OpenAI技术团队驻扎华盛顿配合沟通。美国最新AI行政令即将出台，旨在为先进AI模型发布建立正式评估框架。",
-      "category": "industry",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrbkf2e804qlihl1e8qe5q4a"
       }
     },
     {
@@ -1651,58 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr7vpphy007oslgnz4aotpx4"
       }
-    },
-    {
-      "id": "cmr7ita5g00reslxdrprk52b0",
-      "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
-      "title_en": "LlamaIndex 'legal-kb'： Agentic Retrieval over Index v2 with retrieve， find， read， and grep Tools",
-      "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
-      "permalink": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-05T07:50:19.000Z",
-      "summary": "LlamaIndex 发布 legal-kb，一个基于 Index v2（LlamaParse Platform）的法律文档知识库参考应用。采用 Retrieval Harness 模式，赋予 Agent 四个文件系统风格工具：retrieve（混合语义检索，支持 rerank 和引用）、findFiles（精确/模糊文件名搜索）、readFile（带偏移量的原始内容读取）和 grepFile（正则匹配并返回字符位置）。Agent 需先调用 findFiles 确定文件清单，再依次使用其他工具定位内容。底层基于 Vercel AI SDK 6 的 ToolLoopAgent，可选用 OpenAI 或 Anthropic 模型，支持用户自带 API key。项目以 TanStack Start web app 形式运行，上传文件自动解析索引，同一文件名重复上传可产生版本，检索时通过版本元数据字段过滤。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr7ita5g00reslxdrprk52b0"
-      }
-    },
-    {
-      "id": "cmra2w89f00esihx80bjzdjlf",
-      "title": "ResearchStudio-Reel：从论文到海报、视频和博客的自动化系统",
-      "title_en": "ResearchStudio-Reel： Automate the Last Mile of Research from Paper to Poster， Video， and Blog",
-      "url": "https://arxiv.org/abs/2607.04438",
-      "permalink": "https://aihot.virxact.com/items/cmra2w89f00esihx80bjzdjlf",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-05T00:00:00.000Z",
-      "summary": "ResearchStudio-Reel 由五个 Claude Code 和 Codex 技能组成，包含共享提取器 Paper2Assets，三个可编辑生成器 Paper2Poster、Paper2Video、Paper2Blog 以及交互式汇聚层 Paper2Reel。它一次性从论文中提取资产，生成打印级海报、同步讲解视频和双语博客，并支持在 PowerPoint 或 Word 中二次编辑。在 Paper2Poster 基准上，其海报在美学和信息指标上均优于先前自动化系统和单次调用前沿 LLM。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmra2w89f00esihx80bjzdjlf"
-      }
-    },
-    {
-      "id": "cmr65ieko002tslf0xiomac0c",
-      "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
-      "title_en": "A 26，000-student study shows AI's hidden learning cost takes two full years to surface",
-      "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface",
-      "permalink": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-04T09:08:41.000Z",
-      "summary": "一项追踪26000名7-12年级中学生30个月的面板数据研究发现：使用AI后作业分数提升18%，完成时间从64分钟降至45分钟，但闭卷考试分数下降20%，升学考试成绩下降18%至24%，且完全影响约两年才显现。81%长期用户作业完成时间低于50分钟（外包迹象）。社会学科下降27%，STEM下降22%，英语下降17%，语文下降9%。每周使用AI一小时损失约5%，五小时损失30%。早期损失从约25%降至16%但未消失。",
-      "category": "tip",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c"
-      }
     }
   ],
-  "cachedAt": "2026-07-09T16:39:30Z"
+  "cachedAt": "2026-07-09T18:59:26Z"
 }
