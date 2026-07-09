@@ -1,8 +1,76 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMTA2Mzg1NzI2LCJpIjoiY21yNWNlZjFxMDE3aXNsYzc3OXhqcmN5NiJ9",
+  "nextCursor": "eyJhIjoxNzgzMTU2MTIxMDAwLCJpIjoiY21yNjVpZWtvMDAydHNsZjB4aW9tYWMwYyJ9",
   "items": [
+    {
+      "id": "cmrdpmgpg05zcih4bmwttzqaq",
+      "title": "消息称特斯拉三代擎天柱人形机器人初步定型，马斯克放话达不成产能目标就开掉整个采购团队",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/974/782.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrdpmgpg05zcih4bmwttzqaq",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-09T15:48:31.000Z",
+      "summary": "据晚点LatePost报道，特斯拉Optimus Gen 3经马斯克评审通过，即将量产。供应链要求供应商9月产能达1000台/周，年底升至2000-2500台/周，届时年产能可达10万台。马斯克六月底高管会上要求年底前实现产能目标，否则开除整个Optimus采购团队。弗里蒙特工厂已改造为Optimus生产线，Model S/X于5月停产。马斯克表示初期生产极其缓慢，低产量夏季启动，高产量2027年展开。",
+      "category": "industry",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdpmgpg05zcih4bmwttzqaq"
+      }
+    },
+    {
+      "id": "cmrdlxidv0522ih4b6xv8iolk",
+      "title": "Mistral 推出 Studio，为 AI 提示词和技能提供系统记录",
+      "title_en": "Your Prompts and Skills need a system of record. Studio gives AI prompts & skills a system of record-versioned， owned， and traceable. July 9， 2026 By Mistral",
+      "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
+      "permalink": "https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk",
+      "source": "Mistral AI：News（网页）",
+      "publishedAt": "2026-07-09T14:33:44.761Z",
+      "summary": "Mistral 今日推出 Studio，为 AI 提示词和技能提供集中式系统记录。平台将 prompts 和 skills 视为生产资产，支持不可变版本、回滚、明确所有权、分类标签和审计日志，保证变更可追溯。非开发者可直接编辑测试，通过标签将变更推送至生产，保留原有 CI/CD 流程。可观测性让生产输出回溯到对应资产版本，形成闭环治理。现面向 Mistral Studio 客户开放。",
+      "category": "ai-products",
+      "score": 55,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdlxidv0522ih4b6xv8iolk"
+      }
+    },
+    {
+      "id": "cmrdl9o8g04twih4b0sqb2p2d",
+      "title": "TeXada：基于MiniCPM的本地数学Agent发布",
+      "title_en": "What can lightweight AI models do on your local device？ Meet TeXada， a local-first Math Agent power…",
+      "url": "https://x.com/OpenBMB/status/2075218678027850154",
+      "permalink": "https://aihot.virxact.com/items/cmrdl9o8g04twih4b0sqb2p2d",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-07-09T14:01:03.000Z",
+      "summary": "社区开发者基于MiniCPM5-1B和MiniCPM-V 4.6构建了本地优先的数学智能体TeXada。该Agent支持自然语言直接转LaTeX、手写/图像公式OCR转可编辑LaTeX、LaTeX补全与错误修复等核心功能。所有推理在本地完成，无需依赖云服务，保障隐私安全，适用于学生、研究人员和开发者随时随地处理数学表达式。已开源至GitHub，并提供HuggingFace模型下载。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdl9o8g04twih4b0sqb2p2d"
+      }
+    },
+    {
+      "id": "cmrdltu5h051cih4bum094j2e",
+      "title": "Meta 发布 Muse Spark 1.1 模型",
+      "title_en": "Straight from @finkd - Muse Spark 1.1 is live.",
+      "url": "https://x.com/AIatMeta/status/2075218647359111460",
+      "permalink": "https://aihot.virxact.com/items/cmrdltu5h051cih4bum094j2e",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "publishedAt": "2026-07-09T14:00:55.000Z",
+      "summary": "来自 @finkd 的消息 - Muse Spark 1.1 已上线。",
+      "category": "ai-models",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrdltu5h051cih4bum094j2e"
+      }
+    },
     {
       "id": "cmrdk0zfw04ixih4b84colsmb",
       "title": "Claude 推出反思功能（Beta）",
@@ -106,20 +174,20 @@
       }
     },
     {
-      "id": "cmrcpjgf00373ihx5mtyo2fsy",
-      "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
-      "title_en": "An off switch for dual use knowledge in AI models",
-      "url": "https://www.anthropic.com/research/off-switch-dual-use",
-      "permalink": "https://aihot.virxact.com/items/cmrcpjgf00373ihx5mtyo2fsy",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-07-08T23:27:02.554Z",
-      "summary": "Anthropic与AE Studio联合提出梯度路由辅助模块（GRAM）方法，通过在Transformer每层添加可移除的神经元模块，使模型在训练时将病毒学、网络安全、核物理、专业编程语言等双重用途知识仅路由到对应模块，而非扩散至全局。训练后删除模块即可消除该能力，保留则供可信部署使用。实验在合成数据、真实数据及50M到5B参数模型上测试，GRAM效果与数据过滤相当，移除模块不降低通用性能，且比事后\"遗忘\"技术更难恢复。该研究为平衡双重用途知识的安全访问与有益使用提供了更鲁棒的方案。",
-      "category": "paper",
-      "score": 68,
+      "id": "cmrdm3exj052mih4bnm4k525b",
+      "title": "Ollama 开发者数达890万，B轮融资由Theory领投",
+      "title_en": "8.9 Million AI Users",
+      "url": "https://www.tomtunguz.com/ollama-series-b",
+      "permalink": "https://aihot.virxact.com/items/cmrdm3exj052mih4bnm4k525b",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "summary": "Ollama 让开源模型在本地或云端轻松运行，保持体验一致。目前拥有890万开发者、6.7万集成，并与各大模型实验室及硬件供应商建立合作。B轮融资由Theory领投。",
+      "category": "industry",
+      "score": 62,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcpjgf00373ihx5mtyo2fsy"
+        "canonical": "https://aihot.virxact.com/items/cmrdm3exj052mih4bnm4k525b"
       }
     },
     {
@@ -630,6 +698,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam"
+      }
+    },
+    {
+      "id": "cmrcpjgf00373ihx5mtyo2fsy",
+      "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
+      "title_en": "An off switch for dual use knowledge in AI models",
+      "url": "https://www.anthropic.com/research/off-switch-dual-use",
+      "permalink": "https://aihot.virxact.com/items/cmrcpjgf00373ihx5mtyo2fsy",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-07-07T16:00:00.000Z",
+      "summary": "Anthropic与AE Studio联合提出梯度路由辅助模块（GRAM）方法，通过在Transformer每层添加可移除的神经元模块，使模型在训练时将病毒学、网络安全、核物理、专业编程语言等双重用途知识仅路由到对应模块，而非扩散至全局。训练后删除模块即可消除该能力，保留则供可信部署使用。实验在合成数据、真实数据及50M到5B参数模型上测试，GRAM效果与数据过滤相当，移除模块不降低通用性能，且比事后\"遗忘\"技术更难恢复。该研究为平衡双重用途知识的安全访问与有益使用提供了更鲁棒的方案。",
+      "category": "paper",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrcpjgf00373ihx5mtyo2fsy"
       }
     },
     {
@@ -1617,92 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c"
       }
-    },
-    {
-      "id": "cmr5zuihg0739slc7nv4mlc5r",
-      "title": "NVIDIA 联合多所大学提出 ASPIRE：自我改进机器人框架，零样本成功率最高提升 77 分",
-      "title_en": "NVIDIA AI Introduces ASPIRE： A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Long Tasks",
-      "url": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks",
-      "permalink": "https://aihot.virxact.com/items/cmr5zuihg0739slc7nv4mlc5r",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-04T06:32:47.000Z",
-      "summary": "NVIDIA 联合密歇根大学、UIUC、UC Berkeley 等提出 ASPIRE，一个持续学习机器人框架。它通过协调器-执行器架构、闭环执行引擎、技能库和进化搜索，编写并优化机器人控制程序。编程智能体使用 Claude Code（Claude Opus 4.6，1M token 上下文窗口）。在 LIBERO-Pro 上最高比最强基线提升 77 分；Robosuite 双手交接成功率从 20% 提升至 92%；BEHAVIOR-1K 收音机拾取任务从 56% 提升至 88%。利用 LIBERO-90 积累的技能，ASPIRE 在零样本条件下对 LIBERO-Pro Long 任务达到约 31% 成功率，此前方法饱和在 4% 附近。",
-      "category": "paper",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr5zuihg0739slc7nv4mlc5r"
-      }
-    },
-    {
-      "id": "cmr5wizx2067eslc7xynzcf9y",
-      "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-      "title_en": "我国研制全球首款神经动力学芯片，首次将单步运算时延压缩至 2.12 毫秒",
-      "url": "https://www.ithome.com/0/972/526.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-04T05:01:02.000Z",
-      "summary": "北京大学集成电路学院联合中科院上海微系统所，发布全球首款基于可控存内计算的忆阻器神经动力学芯片，首次将单步运算时延压缩至2.12毫秒。芯片采用40纳米工艺，存内计算阵列与外围电路总面积0.28平方毫米，运行频率50 MHz，单步积分仅需9级流水。在脑皮层重建等任务中较当前GPU提速50至478倍，突破神经动力学实时计算瓶颈。相关成果7月3日发表于《科学》。",
-      "category": "paper",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr5wizx2067eslc7xynzcf9y"
-      }
-    },
-    {
-      "id": "cmra2w89f00etihx86n1ot96l",
-      "title": "Vera：大规模LLM智能体安全测试框架",
-      "title_en": "Safety Testing LLM Agents at Scale： From Risk Discovery to Evidence-Grounded Verification",
-      "url": "https://arxiv.org/abs/2607.01793",
-      "permalink": "https://aihot.virxact.com/items/cmra2w89f00etihx86n1ot96l",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-04T00:00:00.000Z",
-      "summary": "Vera是一个端到端自动化安全测试框架，通过三阶段自增强流水线对LLM智能体进行规模化的安全检验：文献驱动探索持续发现新兴风险；组合生成跨维度构造可执行安全用例；自适应执行在隔离沙箱中运行异构agent并基于环境状态与工具调用证据验证结果。在OpenClaw、Hermes、Codex、Claude Code四个生产级agent框架上测试，多通道攻击下平均攻击成功率达93.9%。同步发布Vera-Bench，包含1600个可执行安全用例，覆盖124个风险类别。代码已公开。",
-      "category": "paper",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmra2w89f00etihx86n1ot96l"
-      }
-    },
-    {
-      "id": "cmra2qezn00ckihx830er3mic",
-      "title": "Harness Engineering for Self-Improvement：AI装备层设计模式与自改进",
-      "title_en": "Harness Engineering for Self-Improvement",
-      "url": "https://lilianweng.github.io/posts/2026-07-04-harness",
-      "permalink": "https://aihot.virxact.com/items/cmra2qezn00ckihx830er3mic",
-      "source": "Lilian Weng：Lil'Log（RSS）",
-      "publishedAt": "2026-07-04T00:00:00.000Z",
-      "summary": "Lilian Weng 近日系统探讨了 AI 的\"装备层\"（Harness）--位于基础模型与现实世界之间的系统层，负责编排执行、控制模型思考与规划。文章归纳三种核心设计模式：1）工作流自动化，采用\"计划-执行-观察-改进\"循环；2）将文件系统作为持久化内存，解决长程任务上下文窗口与状态持久化问题；3）子智能体与后台任务，实现并行执行与隔离管理。案例聚焦于 Claude Code、Codex 等编程智能体的装备层设计。未来方向包括上下文工程、工作流优化以及通过进化搜索联合优化模型权重。",
-      "category": "tip",
-      "score": 57,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmra2qezn00ckihx830er3mic"
-      }
-    },
-    {
-      "id": "cmr5cef1q017islc779xjrcy6",
-      "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
-      "title_en": "通过将代码转换为图像并由模型进行OCR识别，将《Fable》的开发成本降低了60%",
-      "url": "https://github.com/teamchong/pxpipe",
-      "permalink": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-03T19:19:45.726Z",
-      "summary": "pxpipe是一个本地代理，将系统提示、工具文档和历史记录等密集文本渲染为PNG图像，利用图像token成本取决于像素尺寸的特性压缩输入token。在Fable 5模型上，约25k文本token压缩为约2.7k图像token，端到端账单降低59-70%。SWE-bench Lite 10个实例全部通过，成本从$54降至$27；SWE-bench Pro 19对测试中18对判定一致，单次请求成本降低约60%。该方法有损（精确ID等需保持文本），默认仅处理`claude-fable-5`请求，可通过`PXPIPE_MODELS`变量控制。",
-      "category": "tip",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr5cef1q017islc779xjrcy6"
-      }
     }
   ],
-  "cachedAt": "2026-07-09T13:59:09Z"
+  "cachedAt": "2026-07-09T16:39:30Z"
 }
