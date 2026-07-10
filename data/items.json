@@ -4,37 +4,37 @@
   "nextCursor": "eyJhIjoxNzgzMzUzNjAwMDAwLCJpIjoiY21yYzZoZmVxMDAybmloNW1oYzdoMmJ0ayJ9",
   "items": [
     {
-      "id": "cmrfho0gy029pihxbkai7gkpg",
-      "title": "苹果起诉OpenAI窃取商业机密，涉前高管",
-      "title_en": "wtf： Apple has sued OpenAI for trade secret theft， alleging a coordinated campaign to obtain confide…",
-      "url": "https://x.com/kimmonismus/status/2075701430304850086",
-      "permalink": "https://aihot.virxact.com/items/cmrfho0gy029pihxbkai7gkpg",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-07-10T21:59:20.000Z",
-      "summary": "苹果起诉OpenAI，指控其策划协调行动，窃取苹果未发布产品的机密信息用于自身AI硬件。诉讼点名OpenAI硬件主管Tang Tan（前苹果产品设计副总裁）和前苹果工程师Chang Liu。苹果称Liu下载了数十份机密硬件文件，OpenAI鼓励离职员工分享材料、图纸和产品信息。诉状指出，超过400名前苹果员工现任职于OpenAI。苹果要求OpenAI销毁相关材料并重新设计使用其技术的设备。",
+      "id": "cmrfjqxss00c3ihjlzr4wy8gq",
+      "title": "苹果起诉OpenAI，指控其窃取公司机密",
+      "title_en": null,
+      "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+      "permalink": "https://aihot.virxact.com/items/cmrfjqxss00c3ihjlzr4wy8gq",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-10T22:39:09.137Z",
+      "summary": "苹果公司对OpenAI提起诉讼，指控其窃取苹果的商业机密。该诉讼已提交至法院，苹果方面声称OpenAI未经授权获取并使用了其专有信息。目前OpenAI尚未对此作出公开回应。案件细节有待进一步披露。",
       "category": "industry",
-      "score": 75,
+      "score": 73,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrfho0gy029pihxbkai7gkpg"
+        "canonical": "https://aihot.virxact.com/items/cmrfjqxss00c3ihjlzr4wy8gq"
       }
     },
     {
-      "id": "cmrfhopfa029zihxb2kh0pv5v",
-      "title": "Apple 起诉 OpenAI 窃取硬件商业机密",
-      "title_en": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "permalink": "https://aihot.virxact.com/items/cmrfhopfa029zihxb2kh0pv5v",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-07-10T21:36:51.000Z",
-      "summary": "Apple 对 OpenAI 提起诉讼，指控其前员工为 OpenAI 窃取 Apple 的商业机密。诉状称发现\"OpenAI 员工（原 Apple 员工）系统性窃取 Apple 商业机密的模式\"，并将 IO Products（Jony Ive 的硬件初创公司，2025 年被 OpenAI 收购）、OpenAI 硬件主管 Tang Tan 以及 1 月从 Apple 加入 OpenAI 的 Chang Liu 列为被告。",
-      "category": "industry",
+      "id": "cmrfiocpi0035ihjlcm4qu8af",
+      "title": "博科圣地如何利用前沿AI技术",
+      "title_en": "恐怖组织\"博科圣地\"如何利用前沿人工智能技术",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "permalink": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-10T22:07:19.177Z",
+      "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。",
+      "category": "paper",
       "score": 77,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrfhopfa029zihxb2kh0pv5v"
+        "canonical": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af"
       }
     },
     {
@@ -1704,5 +1704,5 @@
       }
     }
   ],
-  "cachedAt": "2026-07-10T22:14:29Z"
+  "cachedAt": "2026-07-10T23:12:42Z"
 }
