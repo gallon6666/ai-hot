@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMzAwNzQ5MDAwLCJpIjoiY21yOGo5d2VoMDJreHNsMGR5MDg2ODNvZSJ9",
+  "nextCursor": "eyJhIjoxNzgzMzA5OTc0MDAwLCJpIjoiY21yYTUzbWZkMDEyYmloeDhtZXhkNDZ1OCJ9",
   "items": [
+    {
+      "id": "cmrf0774z04wyih8e0snjs2g2",
+      "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
+      "title_en": "日均提问暴涨20倍！百度搭子又双叒叕连放大招",
+      "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
+      "permalink": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2",
+      "source": "公众号：百度智能云（文心）",
+      "publishedAt": "2026-07-10T13:58:07.000Z",
+      "summary": "百度搭子在成都百度AI Day上发布四项更新。个人版新增浏览器调用、智能路由（平均任务耗时降20%，Token利用率提升25%）、多端共享记忆及强化PPT生成，并上架\"一镜\"数字人制作、\"灵医\"报告解读等Skill。行业首个自媒体专业套件支持选题到复盘全链路。企业版支持团队协作与权限管理。搭子联盟启动，中国联通等已加入。上线三个月，日均提问量增长20倍。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2"
+      }
+    },
     {
       "id": "cmrerlfrs0046ihm87smc2el4",
       "title": "小红书发布大模型新架构 PIPO",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmra53mfd012bihx8mexd46u8"
       }
-    },
-    {
-      "id": "cmr8j9weh02kxsl0dy08683oe",
-      "title": "分享8个Claude Fable 5下线前必跑的超实用Prompt",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/ZkMsdeTK6wmgkaER0iPT8w",
-      "permalink": "https://aihot.virxact.com/items/cmr8j9weh02kxsl0dy08683oe",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-07-06T01:19:09.000Z",
-      "summary": "Claude Fable 5即将下线，作者整理了8个经实战验证的提示词：/goal提示语让模型自主跑25次实验（花费165美元，构建速度提高50%、token开销降60%）；工作模式提示语将用户习惯转化为可复用Skills；行动规范提示语约束subagent行为；subagent分配提示语智能分配任务；25个定时循环工作流（含Shadow prompt loop做A/B测试）；自治运行+自动暂停提示语；记忆系统提示语保留错题本；反向面试提示语确保95%把握再执行。这些提示词可迁移至API计费后继续使用，核心是让模型研究用户而非限制能力。",
-      "category": "tip",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr8j9weh02kxsl0dy08683oe"
-      }
     }
   ],
-  "cachedAt": "2026-07-10T12:07:54Z"
+  "cachedAt": "2026-07-10T14:50:05Z"
 }
