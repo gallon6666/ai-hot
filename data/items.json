@@ -1,25 +1,8 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMzUzNjAwMDAwLCJpIjoiY21yYXYwNjhrMDFiNmlob2d0aDhrMjZmNiJ9",
+  "nextCursor": "eyJhIjoxNzgzMzUzNjAwMDAwLCJpIjoiY21yYTN6eTUyMDBwMGloeDg4emloOGliOCJ9",
   "items": [
-    {
-      "id": "cmrfa6nkt00eqihxboipnqnr8",
-      "title": "GPT-5.6 Sol Ultra 一小时证明50年数学猜想",
-      "title_en": "GPT-5.6 Sol Ultra produced a proof of a 50 year old math conjecture. Unlike the Erdős Unit Distance …",
-      "url": "https://x.com/polynoamial/status/2075646048425431469",
-      "permalink": "https://aihot.virxact.com/items/cmrfa6nkt00eqihxboipnqnr8",
-      "source": "X：Noam Brown (@polynoamial)",
-      "publishedAt": "2026-07-10T18:19:16.000Z",
-      "summary": "OpenAI 的 GPT-5.6 Sol Ultra 模型成功证明了存在50年之久的 Cycle Double Cover Conjecture（圈双覆盖猜想）。该模型已于昨日全面开放，在不到一小时内使用64个子智能体（subagents）完成证明。Noam Brown 强调，与之前需要特殊条件的埃尔德什单位距离问题不同，此次成果基于当前可公开获取的模型，并已公开提示词和证明过程。",
-      "category": "paper",
-      "score": 86,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrfa6nkt00eqihxboipnqnr8"
-      }
-    },
     {
       "id": "cmrf93thr003iihxbrnllhiyd",
       "title": "宇树G1人形机器人完成首例活体微创手术",
@@ -1702,7 +1685,24 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6"
       }
+    },
+    {
+      "id": "cmra3zy5200p0ihx88zih8ib8",
+      "title": "字节 Seed 发布 EdgeBench：衡量真实世界环境学习，发现新 Scaling Law",
+      "title_en": "EdgeBench：衡量真实世界环境学习，发现新 Scaling Law",
+      "url": "https://seed.bytedance.com/zh/blog/edgebench-%E8%A1%A1%E9%87%8F%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C%E7%8E%AF%E5%A2%83%E5%AD%A6%E4%B9%A0-%E5%8F%91%E7%8E%B0%E6%96%B0-scaling-law",
+      "permalink": "https://aihot.virxact.com/items/cmra3zy5200p0ihx88zih8ib8",
+      "source": "字节 Seed：Research Feed（网页内嵌数据）",
+      "publishedAt": "2026-07-06T16:00:00.000Z",
+      "summary": "字节 Seed 发布超长程评测集 EdgeBench，含 134 个真实任务（覆盖六大领域），每个任务支持 Agent 持续工作至少 12 小时。基于约 38000 小时交互数据，发现 Agent 环境学习表现遵循高精度 log-sigmoid 曲线（平均 R2=0.998）；自 2025 年 9 月至 2026 年 5 月，前沿模型学习速度约每三个月翻一倍。EdgeBench 已开源 51 个任务及完整评测框架。",
+      "category": "paper",
+      "score": 55,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmra3zy5200p0ihx88zih8ib8"
+      }
     }
   ],
-  "cachedAt": "2026-07-10T18:43:49Z"
+  "cachedAt": "2026-07-10T20:41:31Z"
 }
