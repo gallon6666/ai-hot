@@ -1,8 +1,59 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMjk2MDAwMDAwLCJpIjoiY21yOWk2cWp2MDRmYXNsc21oZDF3a2dtYSJ9",
+  "nextCursor": "eyJhIjoxNzgzMjk2MDAwMDAwLCJpIjoiY21yYW9jdHQ2MDAxbWlodnR6YTZ5YzdpdCJ9",
   "items": [
+    {
+      "id": "cmregujhj0122ihgv9a4q8ork",
+      "title": "OpenAI 发布 5.6 模型系列：Sol、Terra、Luna 及 Ultra 模式",
+      "title_en": "http://x.com/i/article/2075435927011491840",
+      "url": "https://x.com/jxnlco/status/2075437278596669799",
+      "permalink": "https://aihot.virxact.com/items/cmregujhj0122ihgv9a4q8ork",
+      "source": "X：Jason Liu (@jxnlco)",
+      "publishedAt": "2026-07-10T04:29:41.000Z",
+      "summary": "OpenAI 发布 5.6 模型系列，包括旗舰 Sol、日常 Terra 和快速低价 Luna。研究团队使用 Sol 在数小时内自动完成 Luna 的配置创建、训练任务启动与监控，而人类仅需授权。所有模型新增 Ultra 模式，通过子智能体提升性能：在 SEC-Bench Pro 上多智能体设置以更低模拟延迟达到更强结果。Sol 在 DeepSWE v1.1 达 72.7%，估计 API 成本比 Fable 5 低 36.2%；在 Artificial Analysis Intelligence Index 上，Sol 以 61% 更少时间和约一半成本接近 Fable 5。计算机使用性能提升，3 倍速度、1/2 成本，OpenAI 财务团队将月末结算从数天缩短至数小时。插件支持 Slack、Google Drive、Microsoft 365 等，应用内浏览器新增认证登录、多标签页和桌面端浏览器操作。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmregujhj0122ihgv9a4q8ork"
+      }
+    },
+    {
+      "id": "cmreax6su01ozihyy4xtirms5",
+      "title": "Claude Code v2.1.206 发布",
+      "title_en": "v2.1.206",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
+      "permalink": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-07-10T01:45:26.000Z",
+      "summary": "Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `request_timeout_ms` 配置、OAuth MCP 服务器需手动重新认证、`/model` 选择器价格显示错误、桌面会话卡在\"运行中\"状态、Windows 上键盘输入被忽略等多项问题。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5"
+      }
+    },
+    {
+      "id": "cmre6wsva00lzihyym47wp98b",
+      "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+      "title_en": "SensorFM： Towards a general intelligence and interface for wearable health data",
+      "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+      "permalink": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
+      "source": "Google Research：Blog（网页）",
+      "publishedAt": "2026-07-10T00:20:20.110Z",
+      "summary": "Google Research 发布 SensorFM，一个在超过 100 万亿分钟多模态传感器数据上预训练的大规模基础模型，数据来自 500 万同意参与者，涵盖 100 多个国家及 20 余款 Fitbit 和 Pixel Watch 设备。SensorFM 学习通用的人体生理表征，可迁移至心血管、代谢、睡眠、心理健康及生活方式等 35 项健康预测任务，支持标签高效适配与数据填充，并可作为个人健康智能体的基础工具。该模型旨在解决传统可穿戴健康模型针对单一终点、难以泛化的问题。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b"
+      }
+    },
     {
       "id": "cmre3p4ne005fihrad1xjqjru",
       "title": "Show HN： 如何在我的低配置电脑上运行 GLM-5.2",
@@ -107,13 +158,13 @@
     },
     {
       "id": "cmre2mjao00nrihwkhnv9ahqj",
-      "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
-      "title_en": null,
+      "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
+      "title_en": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
       "url": "https://cognition.com/blog/swe-1-7",
       "permalink": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "publishedAt": "2026-07-09T21:46:17.901Z",
-      "summary": null,
+      "summary": "Cognition 发布迄今最强模型 SWE-1.7，基于 Kimi K2.7 基座训练，通过强化学习管线改进（基础设施、训练稳定性、数据质量、长程任务技术）实现前沿智能水平并大幅降低成本。在 FrontierCode 1.1 Main 基准上达 42.3%（Kimi K2.7 Code 为 30.1%，GPT-5.5 为 43.0%，Opus 4.8 为 46.5%），Terminal-Bench 2.1 达 81.5%，SWE-Bench Multilingual 达 77.8%。模型针对长周期异步任务优化，现已在 Devin（Web、桌面、CLI）通过 Cerebras 以 1000 TPS 提供。",
       "category": "ai-models",
       "score": 71,
       "selected": true,
@@ -307,6 +358,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrdj6s6604a6ih4bekz9h8il"
+      }
+    },
+    {
+      "id": "cmrees13p006wihgvrokrpgpy",
+      "title": "美团 LongCat-2.0 正式开源，同步开放国产卡推理代码",
+      "title_en": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+      "url": "https://mp.weixin.qq.com/s/iCq4jVlTdKOt74zAMYIIdw",
+      "permalink": "https://aihot.virxact.com/items/cmrees13p006wihgvrokrpgpy",
+      "source": "公众号：龙猫LongCat（美团）",
+      "publishedAt": "2026-07-09T11:58:00.000Z",
+      "summary": "美团万亿参数大模型 LongCat-2.0 正式开源，总参数 1.6T，平均激活约 48B，专为真实 Agentic Coding 任务设计。模型引入 LongCat 稀疏注意力机制与 N-gram Embedding，提升长上下文处理效率与 Token 级表示能力。LongCat-2.0 是业界首个在五万卡国产算力集群上完成推理的万亿参数模型，从模型架构、芯片适配到部署策略进行深度协同优化，支持百万上下文高效推理。开源同步提供 BF16、FP8、INT8 等多精度版本及针对国产算力极致优化的推理代码。",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrees13p006wihgvrokrpgpy"
       }
     },
     {
@@ -1634,75 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmraoctt6001mihvtza6yc7it"
       }
-    },
-    {
-      "id": "cmra76mxz00buihupmesig9k5",
-      "title": "LLM-as-a-Verifier：一种通用验证框架",
-      "title_en": "LLM-as-a-Verifier： A General-Purpose Verification Framework",
-      "url": "https://arxiv.org/abs/2607.05391",
-      "permalink": "https://aihot.virxact.com/items/cmra76mxz00buihupmesig9k5",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "summary": "LLM-as-a-Verifier 是一种无需额外训练的通用验证框架，通过计算评分 token logits 分布的期望生成连续分数，实现细粒度反馈。该框架在 Terminal-Bench V2（86.5%）、SWE-Bench Verified（78.2%）、RoboRewardBench（87.4%）和 MedAgentBench（73.3%）上取得 SOTA 性能。其细粒度信号可用于 Claude Code 扩展，帮助开发者监控和改进智能体系统，也可为强化学习（如 SAC、GRPO）提供密集反馈，提升机器人学和数学推理基准的样本效率。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmra76mxz00buihupmesig9k5"
-      }
-    },
-    {
-      "id": "cmr9t47l20004iha5fuyk3h7z",
-      "title": "xAI 为 Grok Voice 新增 21 个旗舰语音",
-      "title_en": "21 New Flagship Grok Voices Jul 6， 2026 # 21 New Flagship Grok Voices New multilingual voices for Grok Voice， plus improved naturalness for the original five. Read More",
-      "url": "https://x.ai/news/new-flagship-voices",
-      "permalink": "https://aihot.virxact.com/items/cmr9t47l20004iha5fuyk3h7z",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "summary": "xAI 发布 21 个新旗舰语音，加入原有的 5 个语音。所有新语音均支持多语言，已在实时 Voice Agent API、Text to Speech API 及新推出的 Grok Voice Agent Builder 中可用。每个语音针对客服、角色、解说、广告、教育等场景定制，支持通过 `【pause】` 等语音标签控制表达。原始 5 个语音（Ara、Eve、Leo、Rex、Sal）经重训练后，节奏、措辞和重音的自然度提升。所有语音原生支持 Grok Voice 的 25 种以上语言。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9t47l20004iha5fuyk3h7z"
-      }
-    },
-    {
-      "id": "cmr9jb1wn007eihe8jhd6zhrj",
-      "title": "用可解释性理解标注者安全策略",
-      "title_en": "Understanding Annotator Safety Policy with Interpretability",
-      "url": "https://machinelearning.apple.com/research/annotator-safety-policy-interpretability",
-      "permalink": "https://aihot.virxact.com/items/cmr9jb1wn007eihe8jhd6zhrj",
-      "source": "Apple Machine Learning Research（RSS）",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "summary": "标注分歧可源于操作失败、政策模糊或价值多元。Annotator Policy Models（APMs）是一种可解释模型，仅从标注行为学习标注者内在的安全策略，无需额外负担。验证表明模型准确率超过80%，能忠实预测反事实编辑并恢复已知差异。将APMs应用于LLM和人类标注者，可揭示不同标注者对安全指令解释的差异（政策模糊）以及不同人口群体在安全优先级上的系统性差异（价值多元），支持更具针对性、透明和包容的安全策略设计。",
-      "category": "paper",
-      "score": 56,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9jb1wn007eihe8jhd6zhrj"
-      }
-    },
-    {
-      "id": "cmr9i6qjv04faslsmhd1wkgma",
-      "title": "AI 世界观",
-      "title_en": "AI Worldviews",
-      "url": "https://www.tomtunguz.com/godless-hippies-ai-models-values",
-      "permalink": "https://aihot.virxact.com/items/cmr9i6qjv04faslsmhd1wkgma",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "summary": "《经济学人》以世界价值观调查评测 25 个前沿 AI 模型。实验室来源对世界观的预测力弱于训练与对齐选择：Gemini 与 Qwen 立场接近，GPT-4o 与 DeepSeek R1 近乎相同，而 DeepSeek R1 与 DeepSeek V4 Flash 则截然不同。模型的世界观在代码生成中不可见，但在商业分析、预测、招聘与政策工作中是活跃的输入变量。",
-      "category": "tip",
-      "score": 56,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr9i6qjv04faslsmhd1wkgma"
-      }
     }
   ],
-  "cachedAt": "2026-07-10T00:17:57Z"
+  "cachedAt": "2026-07-10T05:06:27Z"
 }
