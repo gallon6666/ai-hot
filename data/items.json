@@ -1,40 +1,23 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMzAwMTY5MDAwLCJpIjoiY21yOGo4Mnc0MDJrMHNsMGRkZmU2Zjd6diJ9",
+  "nextCursor": "eyJhIjoxNzgzMjk2MDAwMDAwLCJpIjoiY21yOWk2cWp2MDRmYXNsc21oZDF3a2dtYSJ9",
   "items": [
     {
-      "id": "cmre2ypj7000wihraseiy4168",
-      "title": "OpenAI推出GPT-5.6系列模型，含三个变体及ChatGPT Work工具",
-      "title_en": "OpenAI launches its new family of models with GPT-5.6",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6",
-      "permalink": "https://aihot.virxact.com/items/cmre2ypj7000wihraseiy4168",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-09T22:24:24.000Z",
-      "summary": "OpenAI发布GPT-5.6系列，包括Sol（主力）、Terra（中级）和Luna（经济型）。CEO Sam Altman称Sol在AI编码任务中token效率提升54%。该系列被定位为最强网络安全模型，支持威胁建模、代码审查、补丁和蓝队演练。同时推出面向企业团队的桌面、网页和移动端办公助手ChatGPT Work。定价每百万token：Sol输入$5/输出$30，Terra $2.50/$15，Luna $1/$6。在Artificial Analysis Coding Agent Index基准上，Sol得分80，高出Anthropic Fable 5的2.8分，且输出token和耗时均不到一半，成本低约三分之一。Terra略超Fable 5，Luna优于Opus 4.8。现可通过ChatGPT、Codex和API使用。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmre2ypj7000wihraseiy4168"
-      }
-    },
-    {
-      "id": "cmre2t4cr00sdihwk98gtemqp",
-      "title": "OpenAI 发布 ChatGPT Work 新型 AI Agent",
-      "title_en": "OPANAI 👀： ChatGPT Work arrived as a new AI Agent， along with a completely new app based on Codex De…",
-      "url": "https://x.com/testingcatalog/status/2075340652011819353",
-      "permalink": "https://aihot.virxact.com/items/cmre2t4cr00sdihwk98gtemqp",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-07-09T22:05:44.000Z",
-      "summary": "OpenAI 推出 ChatGPT Work，一款由 Codex 和 GPT-5.6 驱动的新型 AI Agent，可在应用和文件中执行操作，长时间跟踪项目直至完成。今日起面向 Pro、Enterprise、Edu 计划在网页和移动端推送，未来几天扩展至 Plus 和 Business。在 ChatGPT 桌面应用（支持 Windows 和 Mac）中，Chat、Work、Codex 在所有计划（含免费）可用。原 Codex 应用用户更新后将变为新版 ChatGPT 桌面应用。此举标志着 ChatGPT 向超级应用融合完成。",
+      "id": "cmre3p4ne005fihrad1xjqjru",
+      "title": "Show HN： 如何在我的低配置电脑上运行 GLM-5.2",
+      "title_en": "Show HN： Show HN：如何在我的低配置电脑上运行 GLM 5.2",
+      "url": "https://github.com/JustVugg/colibri",
+      "permalink": "https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-09T22:18:12.902Z",
+      "summary": "colibrì v1.0 引擎以纯 C 实现、零运行时依赖，可在约 25 GB RAM 的消费级电脑上运行 744B 参数的 GLM-5.2 MoE 模型。模型经 int4 量化后磁盘占用约 370 GB，常驻内存仅 9.9 GB，通过流式加载磁盘专家实现推理。冷解码速度约",
       "category": "ai-products",
-      "score": 78,
+      "score": 70,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmre2t4cr00sdihwk98gtemqp"
+        "canonical": "https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru"
       }
     },
     {
@@ -69,40 +52,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l"
-      }
-    },
-    {
-      "id": "cmre2mjan00mqihwk1mxaz52s",
-      "title": "GPT-5.6 系列模型发布",
-      "title_en": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6",
-      "permalink": "https://aihot.virxact.com/items/cmre2mjan00mqihwk1mxaz52s",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-09T21:46:30.443Z",
-      "summary": "OpenAI 发布 GPT-5.6 系列，包括旗舰 Sol、日常平衡 Terra 和最高性价比 Luna。Sol 在 Agents' Last Exam 上取得 53.6 分，超 Claude Fable 5（自适应推理）13.1 分；在 Coding Agent Index 上 80 分，超 Fable 5 2.8 分，同时输出 token 减少一半以上、时间缩短一半以上、成本降低约三分之一。Terra 和 Luna 以约十六分之一成本超越 Fable 5。模型支持 Programmatic Tool Calling 和 ultra 模式（协调多个智能体并行工作），配备多层安全防护。现已正式可用。",
-      "category": "ai-models",
-      "score": 91,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmre2mjan00mqihwk1mxaz52s"
-      }
-    },
-    {
-      "id": "cmre2mjan00mrihwkqd7qp4vj",
-      "title": "OpenAI 推出 ChatGPT Work 智能体",
-      "title_en": "ChatGPT Work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "permalink": "https://aihot.virxact.com/items/cmre2mjan00mrihwkqd7qp4vj",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-09T21:46:30.429Z",
-      "summary": "OpenAI 于 7 月 9 日推出 ChatGPT Work，这是一款能跨应用和文件执行操作的智能体，基于最新前沿模型 GPT-5.6。ChatGPT Work 可将复杂项目拆解为小步骤自主完成，生成表格、幻灯片、文档和网页应用，并支持 Scheduled Tasks 在用户离线时推进工作。内置 Codex 技术，每周超 500 万人使用 Codex，其中超 100 万人用于非软件开发场景。即日起向 Pro、Enterprise、Edu 用户开放，未来几天覆盖 Plus 和 Business 计划；桌面端免费用户也可使用 Chat、Work 和 Codex。",
-      "category": "ai-products",
-      "score": 84,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmre2mjan00mrihwkqd7qp4vj"
       }
     },
     {
@@ -158,8 +107,8 @@
     },
     {
       "id": "cmre2mjao00nrihwkhnv9ahqj",
-      "title": "title",
-      "title_en": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
+      "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
+      "title_en": null,
       "url": "https://cognition.com/blog/swe-1-7",
       "permalink": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
@@ -378,23 +327,6 @@
       }
     },
     {
-      "id": "cmrdrlair06hoih4b5vgl9oc2",
-      "title": "GPT-5.6 系列模型发布：Sol、Terra、Luna",
-      "title_en": "GPT-5.6： Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "permalink": "https://aihot.virxact.com/items/cmrdrlair06hoih4b5vgl9oc2",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-09T10:00:00.000Z",
-      "summary": "OpenAI 推出 GPT-5.6 系列，包括旗舰 Sol、平衡型 Terra 和成本最优 Luna。在 Agents' Last Exam 上，Sol 以 53.6 分超越 Claude Fable 5（自适应推理）13.1 分；中等推理时以约四分之一成本领先 11.4 分。Terra 和 Luna 以约十六分之一成本超越 Fable 5。在 Artificial Analysis Coding Agent Index 上，Sol 以 80 分创 SOTA，高于 Fable 5 的 2.8 分，使用不到一半输出 token、一半时间，成本低约三分之一。引入 Programmatic Tool Calling 减少中间数据往返，ultra 模式协调多个智能体加速复杂任务。模型配备迄今最强安全防护，经人类红队和自动化测试验证。",
-      "category": "ai-models",
-      "score": 85,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrdrlair06hoih4b5vgl9oc2"
-      }
-    },
-    {
       "id": "cmrd9x7xz01wzih4bch5uoywh",
       "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
       "title_en": "NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B： A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput",
@@ -460,23 +392,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrcsrok60407ihx5jvrp15a1"
-      }
-    },
-    {
-      "id": "cmrdxl060007rihsah5dvadei",
-      "title": "GPT-5.6 成为 Microsoft 365 Copilot 首选模型",
-      "title_en": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "permalink": "https://aihot.virxact.com/items/cmrdxl060007rihsah5dvadei",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
-      "summary": "OpenAI 宣布 GPT-5.6 将作为 Microsoft 365 Copilot 的首选模型，覆盖 Word、Excel、PowerPoint、Chat 和 Cowork。该集成使用户能在日常工具中以更少提示轮次创建更高质量文档、进行更深入数据分析、生成更精美演示，并完成跨职能协作。GPT-5.6 在每个 token 上提供更实用的工作产出，性价比更强，并支持按需处理最复杂任务。微软通过 OpenAI API 直接调用该模型服务 Microsoft 365 客户。",
-      "category": "ai-models",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrdxl060007rihsah5dvadei"
       }
     },
     {
@@ -1702,7 +1617,92 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv"
       }
+    },
+    {
+      "id": "cmraoctt6001mihvtza6yc7it",
+      "title": "统一音频智能模型 Nemotron-Labs-Audex-30B-A3B 发布",
+      "title_en": "Unified Audio Intelligence Without Regressing on Text Intelligence",
+      "url": "https://arxiv.org/abs/2607.05196",
+      "permalink": "https://aihot.virxact.com/items/cmraoctt6001mihvtza6yc7it",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "summary": "Nemotron-Labs-Audex-30B-A3B（Audex）是基于Nemotron-Cascade-2-30B-A3B的MoE大语言模型，采用单一Transformer解码器统一处理文本与量化音频token。训练使用157.4B音频token和320.5B文本token，经多阶段监督训练、文本Cascade RL和多域on-policy蒸馏优化。在音频理解、语音识别/翻译、文本转语音、音频生成及语音到语音生成任务上达SOTA，同时保持原文本LLM的推理、对齐等能力几乎无退化。模型权重已开源。",
+      "category": "paper",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmraoctt6001mihvtza6yc7it"
+      }
+    },
+    {
+      "id": "cmra76mxz00buihupmesig9k5",
+      "title": "LLM-as-a-Verifier：一种通用验证框架",
+      "title_en": "LLM-as-a-Verifier： A General-Purpose Verification Framework",
+      "url": "https://arxiv.org/abs/2607.05391",
+      "permalink": "https://aihot.virxact.com/items/cmra76mxz00buihupmesig9k5",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "summary": "LLM-as-a-Verifier 是一种无需额外训练的通用验证框架，通过计算评分 token logits 分布的期望生成连续分数，实现细粒度反馈。该框架在 Terminal-Bench V2（86.5%）、SWE-Bench Verified（78.2%）、RoboRewardBench（87.4%）和 MedAgentBench（73.3%）上取得 SOTA 性能。其细粒度信号可用于 Claude Code 扩展，帮助开发者监控和改进智能体系统，也可为强化学习（如 SAC、GRPO）提供密集反馈，提升机器人学和数学推理基准的样本效率。",
+      "category": "paper",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmra76mxz00buihupmesig9k5"
+      }
+    },
+    {
+      "id": "cmr9t47l20004iha5fuyk3h7z",
+      "title": "xAI 为 Grok Voice 新增 21 个旗舰语音",
+      "title_en": "21 New Flagship Grok Voices Jul 6， 2026 # 21 New Flagship Grok Voices New multilingual voices for Grok Voice， plus improved naturalness for the original five. Read More",
+      "url": "https://x.ai/news/new-flagship-voices",
+      "permalink": "https://aihot.virxact.com/items/cmr9t47l20004iha5fuyk3h7z",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "summary": "xAI 发布 21 个新旗舰语音，加入原有的 5 个语音。所有新语音均支持多语言，已在实时 Voice Agent API、Text to Speech API 及新推出的 Grok Voice Agent Builder 中可用。每个语音针对客服、角色、解说、广告、教育等场景定制，支持通过 `【pause】` 等语音标签控制表达。原始 5 个语音（Ara、Eve、Leo、Rex、Sal）经重训练后，节奏、措辞和重音的自然度提升。所有语音原生支持 Grok Voice 的 25 种以上语言。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr9t47l20004iha5fuyk3h7z"
+      }
+    },
+    {
+      "id": "cmr9jb1wn007eihe8jhd6zhrj",
+      "title": "用可解释性理解标注者安全策略",
+      "title_en": "Understanding Annotator Safety Policy with Interpretability",
+      "url": "https://machinelearning.apple.com/research/annotator-safety-policy-interpretability",
+      "permalink": "https://aihot.virxact.com/items/cmr9jb1wn007eihe8jhd6zhrj",
+      "source": "Apple Machine Learning Research（RSS）",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "summary": "标注分歧可源于操作失败、政策模糊或价值多元。Annotator Policy Models（APMs）是一种可解释模型，仅从标注行为学习标注者内在的安全策略，无需额外负担。验证表明模型准确率超过80%，能忠实预测反事实编辑并恢复已知差异。将APMs应用于LLM和人类标注者，可揭示不同标注者对安全指令解释的差异（政策模糊）以及不同人口群体在安全优先级上的系统性差异（价值多元），支持更具针对性、透明和包容的安全策略设计。",
+      "category": "paper",
+      "score": 56,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr9jb1wn007eihe8jhd6zhrj"
+      }
+    },
+    {
+      "id": "cmr9i6qjv04faslsmhd1wkgma",
+      "title": "AI 世界观",
+      "title_en": "AI Worldviews",
+      "url": "https://www.tomtunguz.com/godless-hippies-ai-models-values",
+      "permalink": "https://aihot.virxact.com/items/cmr9i6qjv04faslsmhd1wkgma",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
+      "summary": "《经济学人》以世界价值观调查评测 25 个前沿 AI 模型。实验室来源对世界观的预测力弱于训练与对齐选择：Gemini 与 Qwen 立场接近，GPT-4o 与 DeepSeek R1 近乎相同，而 DeepSeek R1 与 DeepSeek V4 Flash 则截然不同。模型的世界观在代码生成中不可见，但在商业分析、预测、招聘与政策工作中是活跃的输入变量。",
+      "category": "tip",
+      "score": 56,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmr9i6qjv04faslsmhd1wkgma"
+      }
     }
   ],
-  "cachedAt": "2026-07-09T22:42:12Z"
+  "cachedAt": "2026-07-10T00:17:57Z"
 }
