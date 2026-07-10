@@ -1,8 +1,59 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMzUzNjAwMDAwLCJpIjoiY21yYTN6eTUyMDBwMGloeDg4emloOGliOCJ9",
+  "nextCursor": "eyJhIjoxNzgzMzUzNjAwMDAwLCJpIjoiY21yYzZoZmVxMDAybmloNW1oYzdoMmJ0ayJ9",
   "items": [
+    {
+      "id": "cmrfho0gy029pihxbkai7gkpg",
+      "title": "苹果起诉OpenAI窃取商业机密，涉前高管",
+      "title_en": "wtf： Apple has sued OpenAI for trade secret theft， alleging a coordinated campaign to obtain confide…",
+      "url": "https://x.com/kimmonismus/status/2075701430304850086",
+      "permalink": "https://aihot.virxact.com/items/cmrfho0gy029pihxbkai7gkpg",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-07-10T21:59:20.000Z",
+      "summary": "苹果起诉OpenAI，指控其策划协调行动，窃取苹果未发布产品的机密信息用于自身AI硬件。诉讼点名OpenAI硬件主管Tang Tan（前苹果产品设计副总裁）和前苹果工程师Chang Liu。苹果称Liu下载了数十份机密硬件文件，OpenAI鼓励离职员工分享材料、图纸和产品信息。诉状指出，超过400名前苹果员工现任职于OpenAI。苹果要求OpenAI销毁相关材料并重新设计使用其技术的设备。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrfho0gy029pihxbkai7gkpg"
+      }
+    },
+    {
+      "id": "cmrfhopfa029zihxb2kh0pv5v",
+      "title": "Apple 起诉 OpenAI 窃取硬件商业机密",
+      "title_en": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "permalink": "https://aihot.virxact.com/items/cmrfhopfa029zihxb2kh0pv5v",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-07-10T21:36:51.000Z",
+      "summary": "Apple 对 OpenAI 提起诉讼，指控其前员工为 OpenAI 窃取 Apple 的商业机密。诉状称发现\"OpenAI 员工（原 Apple 员工）系统性窃取 Apple 商业机密的模式\"，并将 IO Products（Jony Ive 的硬件初创公司，2025 年被 OpenAI 收购）、OpenAI 硬件主管 Tang Tan 以及 1 月从 Apple 加入 OpenAI 的 Chang Liu 列为被告。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrfhopfa029zihxb2kh0pv5v"
+      }
+    },
+    {
+      "id": "cmrfep0gs01ljihxb6uazy2jn",
+      "title": "Apple 起诉 OpenAI 窃取商业机密",
+      "title_en": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
+      "permalink": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-10T20:32:00.000Z",
+      "summary": "Apple 于周五向美国加州北区联邦法院提起诉讼，指控 OpenAI 窃取商业机密并违反合同。诉状称，OpenAI 高级领导层（包括首席硬件官 Tang Tan）指使前 Apple 员工在招聘过程中窃取机密，包括使用未发布产品的项目代号、要求应聘者携带硬件组件参加面试。Apple 还指控前高级系统电气工程师 Chang Liu 在 2026 年离职加入 OpenAI 后未归还公司笔记本电脑，并用其下载机密技术文档。Apple 称其机密信息已被 OpenAI 用于开发自有硬件产品，例如一项专有金属精加工技术。Apple 要求法院禁止 OpenAI 使用或披露其商业机密，并归还相关材料。",
+      "category": "industry",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn"
+      }
+    },
     {
       "id": "cmrf93thr003iihxbrnllhiyd",
       "title": "宇树G1人形机器人完成首例活体微创手术",
@@ -1651,58 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrc6hfeq002nih5mhc7h2btk"
       }
-    },
-    {
-      "id": "cmrav068k01b7ihogl498wk0x",
-      "title": "人们如何使用Claude Cowork",
-      "title_en": "How people are using Claude Cowork",
-      "url": "https://claude.com/blog/how-people-are-using-claude-cowork",
-      "permalink": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-06T16:00:00.000Z",
-      "summary": "基于2026年5月11-31日120万次匿名会话样本，Claude Cowork最大用途为业务流程与运营（33.4%），如整理报告、核对表格；其次为内容创作与文案（16.4%），如起草稿件、制作幻灯片；软件开发仅占8.7%。用户多用它处理跨团队衔接性任务，例如律师处理文档格式、招聘经理汇总面试反馈。Claude Cowork面向所有Claude用户开放。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x"
-      }
-    },
-    {
-      "id": "cmrav068k01b6ihogth8k26f6",
-      "title": "Claude Cowork 向移动端和网页端开放",
-      "title_en": "Claude Cowork is coming to mobile and web",
-      "url": "https://claude.com/blog/cowork-web-mobile",
-      "permalink": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-06T16:00:00.000Z",
-      "summary": "Claude Cowork 正在向移动端和网页端开放，让会话和文件跨设备同步。Beta 版将在未来几周内首先面向 Max 用户推出。Cowork 可让 Claude 跨文件、日历、邮件、即时通讯等工具完成复杂任务，其中超过 90% 的使用场景并非软件开发，而是日常知识工作（业务运营和内容创作）。工作可跨设备跟随用户：在桌面端开始任务，从手机查看进度；关闭笔记本后 Claude 可继续后台运行，支持定时任务（如周一 6 点自动准备客户简报）。当需要用户决策时，Claude 会将问题推送到手机。桌面端保留完整 Cowork 体验，支持无法安装桌面应用的用户。聊天和 Cowork 已在网页端和桌面端合并。为庆祝上线，双倍 Cowork 使用额度延长至 8 月 5 日。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6"
-      }
-    },
-    {
-      "id": "cmra3zy5200p0ihx88zih8ib8",
-      "title": "字节 Seed 发布 EdgeBench：衡量真实世界环境学习，发现新 Scaling Law",
-      "title_en": "EdgeBench：衡量真实世界环境学习，发现新 Scaling Law",
-      "url": "https://seed.bytedance.com/zh/blog/edgebench-%E8%A1%A1%E9%87%8F%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C%E7%8E%AF%E5%A2%83%E5%AD%A6%E4%B9%A0-%E5%8F%91%E7%8E%B0%E6%96%B0-scaling-law",
-      "permalink": "https://aihot.virxact.com/items/cmra3zy5200p0ihx88zih8ib8",
-      "source": "字节 Seed：Research Feed（网页内嵌数据）",
-      "publishedAt": "2026-07-06T16:00:00.000Z",
-      "summary": "字节 Seed 发布超长程评测集 EdgeBench，含 134 个真实任务（覆盖六大领域），每个任务支持 Agent 持续工作至少 12 小时。基于约 38000 小时交互数据，发现 Agent 环境学习表现遵循高精度 log-sigmoid 曲线（平均 R2=0.998）；自 2025 年 9 月至 2026 年 5 月，前沿模型学习速度约每三个月翻一倍。EdgeBench 已开源 51 个任务及完整评测框架。",
-      "category": "paper",
-      "score": 55,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmra3zy5200p0ihx88zih8ib8"
-      }
     }
   ],
-  "cachedAt": "2026-07-10T20:41:31Z"
+  "cachedAt": "2026-07-10T22:14:29Z"
 }
