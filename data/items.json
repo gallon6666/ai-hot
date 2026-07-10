@@ -1,23 +1,57 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMjk2MDAwMDAwLCJpIjoiY21yYW9jdHQ2MDAxbWlodnR6YTZ5YzdpdCJ9",
+  "nextCursor": "eyJhIjoxNzgzMzAwMTY5MDAwLCJpIjoiY21yOGo4Mnc0MDJrMHNsMGRkZmU2Zjd6diJ9",
   "items": [
     {
-      "id": "cmregujhj0122ihgv9a4q8ork",
-      "title": "OpenAI 发布 5.6 模型系列：Sol、Terra、Luna 及 Ultra 模式",
-      "title_en": "http://x.com/i/article/2075435927011491840",
-      "url": "https://x.com/jxnlco/status/2075437278596669799",
-      "permalink": "https://aihot.virxact.com/items/cmregujhj0122ihgv9a4q8ork",
-      "source": "X：Jason Liu (@jxnlco)",
-      "publishedAt": "2026-07-10T04:29:41.000Z",
-      "summary": "OpenAI 发布 5.6 模型系列，包括旗舰 Sol、日常 Terra 和快速低价 Luna。研究团队使用 Sol 在数小时内自动完成 Luna 的配置创建、训练任务启动与监控，而人类仅需授权。所有模型新增 Ultra 模式，通过子智能体提升性能：在 SEC-Bench Pro 上多智能体设置以更低模拟延迟达到更强结果。Sol 在 DeepSWE v1.1 达 72.7%，估计 API 成本比 Fable 5 低 36.2%；在 Artificial Analysis Intelligence Index 上，Sol 以 61% 更少时间和约一半成本接近 Fable 5。计算机使用性能提升，3 倍速度、1/2 成本，OpenAI 财务团队将月末结算从数天缩短至数小时。插件支持 Slack、Google Drive、Microsoft 365 等，应用内浏览器新增认证登录、多标签页和桌面端浏览器操作。",
-      "category": "tip",
-      "score": 76,
+      "id": "cmrem518401w2ihcl3vs3c152",
+      "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/975/078.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-10T07:26:10.000Z",
+      "summary": "Meta CEO 扎克伯格首次正面回应公司筹划云基础设施业务一事，否认\"算力过剩\"猜测，称内部算力需求依然旺盛、满负荷运转。但他同时表示，当前市场对算力出价极高，将部分 AI 基础设施对外出租在财务上更划算。Meta 正制定代号\"Meta Compute\"的云计算计划，包括开放模型访问权限和直接出租裸算力两条路线。扎克伯格还提及 SpaceX 以每月 12.5 亿美元将数据中心租给 Anthropic 的模式。Meta 2026 年资本支出指引达 1250 亿至 1450 亿美元，计划 2026 年 9 月量产自研 AI 芯片，目标 2027 年部署算力提升至 14 吉瓦。",
+      "category": "industry",
+      "score": 75,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmregujhj0122ihgv9a4q8ork"
+        "canonical": "https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152"
+      }
+    },
+    {
+      "id": "cmremehbx0246ihclothaz1km",
+      "title": "马斯克承认Anthropic是当前AI领导者",
+      "title_en": "This is Anthropic's strongest flex",
+      "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
+      "permalink": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-07-10T07:20:46.000Z",
+      "summary": "马斯克在X上发文承认自己此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"。他表示，没有公司发布过像Mythos/Fable这样优秀的模型，并相信Anthropic很快会推出Mythos 2。他还强调，即使作为竞争对手，也不会以伤害对方的方式切断合作，并列举了特斯拉开源专利、开放超级充电网络等先例。该推文被Rohan Paul转发，称这是Anthropic\"最强有力的炫耀\"。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km"
+      }
+    },
+    {
+      "id": "cmrema2b4022bihcleaow4j8v",
+      "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
+      "title_en": "Grok Build gets better every day and we love hearing user feedback for improvements",
+      "url": "https://x.com/elonmusk/status/2075478792273842370",
+      "permalink": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-07-10T07:14:39.000Z",
+      "summary": "Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v"
       }
     },
     {
@@ -69,23 +103,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru"
-      }
-    },
-    {
-      "id": "cmre1vdj600h8ihwk2g9d8r99",
-      "title": "Elon Musk称赞Anthropic并承诺不切断其算力",
-      "title_en": "Elon Musk praises Mythos/Fable， promises not to 'cut off' Anthropic",
-      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
-      "permalink": "https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-09T21:57:42.000Z",
-      "summary": "Elon Musk近日在X上承认此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"，盛赞Mythos/Fable模型\"目前最好\"，并承诺不会恶意切断其计算资源。2026年7月起，Anthropic成为SpaceX最大客户之一--双方5月签署协议，Anthropic以每月12.5亿美元（至2029年5月，总计约400亿美元）购买xAI旗下Colossus 1数据中心300兆瓦全部算力。Musk以特斯拉开放专利、超充网络等先例佐证其\"不挤压竞争对手\"的风格，合同条款也提供了保障。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmre1vdj600h8ihwk2g9d8r99"
       }
     },
     {
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv"
       }
-    },
-    {
-      "id": "cmraoctt6001mihvtza6yc7it",
-      "title": "统一音频智能模型 Nemotron-Labs-Audex-30B-A3B 发布",
-      "title_en": "Unified Audio Intelligence Without Regressing on Text Intelligence",
-      "url": "https://arxiv.org/abs/2607.05196",
-      "permalink": "https://aihot.virxact.com/items/cmraoctt6001mihvtza6yc7it",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-06T00:00:00.000Z",
-      "summary": "Nemotron-Labs-Audex-30B-A3B（Audex）是基于Nemotron-Cascade-2-30B-A3B的MoE大语言模型，采用单一Transformer解码器统一处理文本与量化音频token。训练使用157.4B音频token和320.5B文本token，经多阶段监督训练、文本Cascade RL和多域on-policy蒸馏优化。在音频理解、语音识别/翻译、文本转语音、音频生成及语音到语音生成任务上达SOTA，同时保持原文本LLM的推理、对齐等能力几乎无退化。模型权重已开源。",
-      "category": "paper",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmraoctt6001mihvtza6yc7it"
-      }
     }
   ],
-  "cachedAt": "2026-07-10T05:06:27Z"
+  "cachedAt": "2026-07-10T08:39:26Z"
 }
