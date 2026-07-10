@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMzAwMTY5MDAwLCJpIjoiY21yOGo4Mnc0MDJrMHNsMGRkZmU2Zjd6diJ9",
+  "nextCursor": "eyJhIjoxNzgzMzAwNzQ5MDAwLCJpIjoiY21yOGo5d2VoMDJreHNsMGR5MDg2ODNvZSJ9",
   "items": [
+    {
+      "id": "cmrerlfrs0046ihm87smc2el4",
+      "title": "小红书发布大模型新架构 PIPO",
+      "title_en": "小红书发布大模型新架构 PIPO ，让模型一次「吞两个、吐两个」",
+      "url": "https://mp.weixin.qq.com/s/1eo7rrCAH-OA0TnXwwqJEg",
+      "permalink": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
+      "source": "公众号：小红书技术（dots.llm）",
+      "publishedAt": "2026-07-10T09:59:00.000Z",
+      "summary": "小红书提出 PIPO 架构，通过输入侧压缩器将两个 token 折叠为一个 latent，输出侧 MTP head 将隐藏状态展开为额外 token，实现输入长度减半、每步输出翻倍。基于 Qwen3.5-4B/9B backbone，在 AIME 2025 等基准上最高带来 +7.15 pass@4 提升。部署测评中，TTFT 加速约 1.23×，TPOT 加速约 1.86×。训练采用 SFT 和 On-Policy Distillation 两阶段，将 verifier 校验能力蒸馏进轻量 confidence head。",
+      "category": "paper",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4"
+      }
+    },
     {
       "id": "cmrem518401w2ihcl3vs3c152",
       "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmr8j9weh02kxsl0dy08683oe"
       }
-    },
-    {
-      "id": "cmr8j82w402k0sl0ddfe6f7zv",
-      "title": "SK 海力士将启动 280 亿美元美股上市，有望成史上第二大 IPO",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/972/896.htm",
-      "permalink": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-06T01:09:29.000Z",
-      "summary": "SK 海力士于本周一启动规模约 280 亿美元的美股上市计划，将在纳斯达克通过存托凭证发行 1779 万股新股，每 10 份存托凭证对应 1 股普通股。发行价区间周一公布，最终发行价周四敲定，股票周五挂牌交易。受益于全球人工智能热潮，该股年内涨幅超 270%。本次募资规模预计为史上第二大新股发行，仅次于上月 SpaceX 的 857 亿美元 IPO。SK 海力士是高带宽内存芯片核心供应商，产品用于英伟达、谷歌等 AI 设备。",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmr8j82w402k0sl0ddfe6f7zv"
-      }
     }
   ],
-  "cachedAt": "2026-07-10T08:39:26Z"
+  "cachedAt": "2026-07-10T12:07:54Z"
 }
