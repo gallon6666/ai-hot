@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMzUzNjAwMDAwLCJpIjoiY21yYXYwNjhrMDFiN2lob2dsNDk4d2sweCJ9",
+  "nextCursor": "eyJhIjoxNzgzMzUzNjAwMDAwLCJpIjoiY21yYzZoZmVxMDAybmloNW1oYzdoMmJ0ayJ9",
   "items": [
+    {
+      "id": "cmrfr2xvi02brihjlp1tlzg1n",
+      "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
+      "title_en": "真是能力越强，破坏力越大啊！ 这个老哥Mac上的文件被OpenAI最顶的GPT-5.6-Sol删光了，估计所有跑本地AI Agent的人看到这个都得吓出一身冷汗🤯整个事件详细拆解，以及怎么避免类似悲…",
+      "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
+      "permalink": "https://aihot.virxact.com/items/cmrfr2xvi02brihjlp1tlzg1n",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-11T01:56:54.000Z",
+      "summary": "知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示\"1000x 更信任 Anthropic 的 Fable\"。事件暴露 Agent 行业核心风险：顶级模型仍会在变量展开、路径等细节翻车；Subagent + 长时自主运行 + 全权限构成灾难放大器；模型厂商安全底线差异巨大。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrfr2xvi02brihjlp1tlzg1n"
+      }
+    },
     {
       "id": "cmrfiocpi0035ihjlcm4qu8af",
       "title": "博科圣地如何利用前沿AI技术",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrc6hfeq002nih5mhc7h2btk"
       }
-    },
-    {
-      "id": "cmrav068k01b7ihogl498wk0x",
-      "title": "人们如何使用Claude Cowork",
-      "title_en": "How people are using Claude Cowork",
-      "url": "https://claude.com/blog/how-people-are-using-claude-cowork",
-      "permalink": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-06T16:00:00.000Z",
-      "summary": "基于2026年5月11-31日120万次匿名会话样本，Claude Cowork最大用途为业务流程与运营（33.4%），如整理报告、核对表格；其次为内容创作与文案（16.4%），如起草稿件、制作幻灯片；软件开发仅占8.7%。用户多用它处理跨团队衔接性任务，例如律师处理文档格式、招聘经理汇总面试反馈。Claude Cowork面向所有Claude用户开放。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x"
-      }
     }
   ],
-  "cachedAt": "2026-07-11T00:08:33Z"
+  "cachedAt": "2026-07-11T03:40:12Z"
 }
