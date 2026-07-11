@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMzgyNDAwMDAwLCJpIjoiY21yYXNkNnIzMDBoeGlob2c5aHhtdGVveiJ9",
+  "nextCursor": "eyJhIjoxNzgzMzgyNDAwMDAwLCJpIjoiY21yYXNkNnIzMDBpMGlob2c4eHh3ZXp5ZSJ9",
   "items": [
+    {
+      "id": "cmrgmylg702eaih2e1e9hhfe4",
+      "title": "研究：博科圣地已使用ChatGPT、Claude等主流AI聊天机器人用于袭击策划与武器开发",
+      "title_en": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+      "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
+      "permalink": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-11T17:04:28.000Z",
+      "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrgmylg702eaih2e1e9hhfe4"
+      }
+    },
     {
       "id": "cmrglvcki024uih2edvsk7pef",
       "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
@@ -205,23 +222,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn"
-      }
-    },
-    {
-      "id": "cmrf7a5kg000wihpr80vvnaxn",
-      "title": "DeepSeek-V4 Flash 强化学习训练登陆 AMD Instinct MI355X GPU，由 Miles 框架支持",
-      "title_en": "News Bringing DeepSeek-V4 Flash RL Training to AMD Instinct MI355X GPUs with Miles DeepSeek-V4 RL is now supported in Miles on AMD InstinctTM MI355X GPUs with ROCmTM！ RL requires SGLang rollout and Megatron training to implement the same policy closely enough that token probabilities … AMD & Miles Team",
-      "url": "https://www.lmsys.org/blog/2026-07-10-rocm-miles-dsv4",
-      "permalink": "https://aihot.virxact.com/items/cmrf7a5kg000wihpr80vvnaxn",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-07-10T17:19:11.037Z",
-      "summary": "DeepSeek-V4 Flash 的强化学习训练现已在 AMD Instinct MI355X GPU 上通过 Miles 框架获得支持，基于 ROCm 软件栈运行。该 2840 亿参数 MoE 模型（每 token 激活 130 亿参数）需 SGLang 进行 rollout 生成、Megatron 进行策略更新，Miles 负责异步循环与权重同步。团队解决了 SGLang 与 Megatron 间模型对齐、量化状态在线更新及多节点并行稳定性三大挑战，最终在四个八 GPU 节点上完成端到端验证：超过 100 个优化器步骤中训练-rollout 对数概率差可控，在线奖励持续提升，离线 AIME-2024 基准分数同步上涨。",
-      "category": "paper",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrf7a5kg000wihpr80vvnaxn"
       }
     },
     {
@@ -494,6 +494,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmre0j0vj002sihwk71qvktk7"
+      }
+    },
+    {
+      "id": "cmrf7a5kg000wihpr80vvnaxn",
+      "title": "DeepSeek-V4 Flash 强化学习训练登陆 AMD Instinct MI355X GPU，由 Miles 框架支持",
+      "title_en": "News Bringing DeepSeek-V4 Flash RL Training to AMD Instinct MI355X GPUs with Miles DeepSeek-V4 RL is now supported in Miles on AMD InstinctTM MI355X GPUs with ROCmTM！ RL requires SGLang rollout and Megatron training to implement the same policy closely enough that token probabilities … AMD & Miles Team",
+      "url": "https://www.lmsys.org/blog/2026-07-10-rocm-miles-dsv4",
+      "permalink": "https://aihot.virxact.com/items/cmrf7a5kg000wihpr80vvnaxn",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-07-09T16:00:00.000Z",
+      "summary": "DeepSeek-V4 Flash 的强化学习训练现已在 AMD Instinct MI355X GPU 上通过 Miles 框架获得支持，基于 ROCm 软件栈运行。该 2840 亿参数 MoE 模型（每 token 激活 130 亿参数）需 SGLang 进行 rollout 生成、Megatron 进行策略更新，Miles 负责异步循环与权重同步。团队解决了 SGLang 与 Megatron 间模型对齐、量化状态在线更新及多节点并行稳定性三大挑战，最终在四个八 GPU 节点上完成端到端验证：超过 100 个优化器步骤中训练-rollout 对数概率差可控，在线奖励持续提升，离线 AIME-2024 基准分数同步上涨。",
+      "category": "paper",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrf7a5kg000wihpr80vvnaxn"
       }
     },
     {
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrasd6r300i0ihog8xxwezye"
       }
-    },
-    {
-      "id": "cmrasd6r300hxihog9hxmteoz",
-      "title": "DynaMiCS：带性能约束的大语言模型动态混合微调",
-      "title_en": "DynaMiCS： Fine-Tuning LLMs with Performance Constraints Using Dynamic Mixtures",
-      "url": "https://machinelearning.apple.com/research/dynamics-fine-tuning-llms",
-      "permalink": "https://aihot.virxact.com/items/cmrasd6r300hxihog9hxmteoz",
-      "source": "Apple Machine Learning Research（RSS）",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
-      "summary": "DynaMiCS是一种动态混合优化器，将多领域微调建模为带性能约束的优化问题。它通过短领域特定探测运行估计跨领域效应斜率矩阵，再基于概率单纯形优化计算混合权重，在提升目标领域性能的同时将约束领域损失维持在参考水平以下。实验表明，DynaMiCS相比固定混合基线取得更强的目标领域提升和约束满足，且计算成本更低，无需参考模型、逐样本评分或手动调节混合权重。",
-      "category": "paper",
-      "score": 55,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrasd6r300hxihog9hxmteoz"
-      }
     }
   ],
-  "cachedAt": "2026-07-11T17:14:26Z"
+  "cachedAt": "2026-07-11T18:06:39Z"
 }
