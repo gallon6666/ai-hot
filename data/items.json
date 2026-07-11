@@ -1,25 +1,8 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMzUzNjAwMDAwLCJpIjoiY21yYzZoZmVxMDAybmloNW1oYzdoMmJ0ayJ9",
+  "nextCursor": "eyJhIjoxNzgzMzUzNjAwMDAwLCJpIjoiY21yYXYwNjhrMDFiN2lob2dsNDk4d2sweCJ9",
   "items": [
-    {
-      "id": "cmrfjqxss00c3ihjlzr4wy8gq",
-      "title": "苹果起诉OpenAI，指控其窃取公司机密",
-      "title_en": null,
-      "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-      "permalink": "https://aihot.virxact.com/items/cmrfjqxss00c3ihjlzr4wy8gq",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-10T22:39:09.137Z",
-      "summary": "苹果公司对OpenAI提起诉讼，指控其窃取苹果的商业机密。该诉讼已提交至法院，苹果方面声称OpenAI未经授权获取并使用了其专有信息。目前OpenAI尚未对此作出公开回应。案件细节有待进一步披露。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrfjqxss00c3ihjlzr4wy8gq"
-      }
-    },
     {
       "id": "cmrfiocpi0035ihjlcm4qu8af",
       "title": "博科圣地如何利用前沿AI技术",
@@ -1702,7 +1685,24 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrc6hfeq002nih5mhc7h2btk"
       }
+    },
+    {
+      "id": "cmrav068k01b7ihogl498wk0x",
+      "title": "人们如何使用Claude Cowork",
+      "title_en": "How people are using Claude Cowork",
+      "url": "https://claude.com/blog/how-people-are-using-claude-cowork",
+      "permalink": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-07-06T16:00:00.000Z",
+      "summary": "基于2026年5月11-31日120万次匿名会话样本，Claude Cowork最大用途为业务流程与运营（33.4%），如整理报告、核对表格；其次为内容创作与文案（16.4%），如起草稿件、制作幻灯片；软件开发仅占8.7%。用户多用它处理跨团队衔接性任务，例如律师处理文档格式、招聘经理汇总面试反馈。Claude Cowork面向所有Claude用户开放。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrav068k01b7ihogl498wk0x"
+      }
     }
   ],
-  "cachedAt": "2026-07-10T23:12:42Z"
+  "cachedAt": "2026-07-11T00:08:33Z"
 }
