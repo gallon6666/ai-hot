@@ -1,8 +1,76 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMzgyNDAwMDAwLCJpIjoiY21yYXNkNnIzMDBpMmlob2c4aWZ3cnFzNSJ9",
+  "nextCursor": "eyJhIjoxNzgzMzgyNDAwMDAwLCJpIjoiY21yYmc4NHlmMDNtYmlobDFnZmJiZ2V1eiJ9",
   "items": [
+    {
+      "id": "cmrh8o88501e4bir7wzxmfpfm",
+      "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
+      "title_en": "分析师：即使窃密指控未获证实，苹果诉讼仍可能重创 OpenAI 硬件计划",
+      "url": "https://www.ithome.com/0/975/666.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-12T02:37:22.000Z",
+      "summary": "苹果在美国起诉OpenAI，指控其挖角400名员工、窃取工程机和机密文件。分析师Paolo Pescatore认为，即使指控最终无法证实，OpenAI的硬件计划仍可能受拖累，双方本就脆弱的合作关系将进一步削弱。斯坦福大学教授Mark Lemley指出，若前苹果员工确实带走机密文件并在OpenAI使用，问题将变得严重。该案涉及消费级硬件产品，预计未来将有更多信息曝光。",
+      "category": "industry",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrh8o88501e4bir7wzxmfpfm"
+      }
+    },
+    {
+      "id": "cmrh78s5t00w5bir7mozf8oyb",
+      "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
+      "title_en": null,
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "permalink": "https://aihot.virxact.com/items/cmrh78s5t00w5bir7mozf8oyb",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-12T02:23:05.249Z",
+      "summary": "Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称\"Skippy\"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrh78s5t00w5bir7mozf8oyb"
+      }
+    },
+    {
+      "id": "cmrh57xvj00gvbir7awab8dgb",
+      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+      "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+      "url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "permalink": "https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb",
+      "source": "X：Tibo (@thsottiaux)",
+      "publishedAt": "2026-07-12T01:40:04.000Z",
+      "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrh57xvj00gvbir7awab8dgb"
+      }
+    },
+    {
+      "id": "cmrh4d5cj009ubir7yazlez7q",
+      "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
+      "title_en": "仅用一小时，OpenAI GPT-5.6 Sol Ultra 证明了一个已有 50 年历史的数学猜想",
+      "url": "https://www.ithome.com/0/975/646.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-12T00:44:43.000Z",
+      "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
+      "category": "paper",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q"
+      }
+    },
     {
       "id": "cmrgzykqg00jabid4acp6zpjm",
       "title": "彭博社揭秘苹果起诉 OpenAI 内幕：前员工一句\"哈哈\"成窃密关键",
@@ -1634,75 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrbg84yf03mbihl1gfbbgeuz"
       }
-    },
-    {
-      "id": "cmrb18k7802uuihogxse92jx2",
-      "title": "Hugging Face Storage 成为 SkyPilot 一级后端：零出站费跨云存储",
-      "title_en": "Run AI workloads on any cloud， store on Hugging Face： zero-egress storage with SkyPilot",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "permalink": "https://aihot.virxact.com/items/cmrb18k7802uuihogxse92jx2",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
-      "summary": "Hugging Face Storage 现为 SkyPilot 的一级后端。用户通过 `hf：//` URL 和现有 HFTOKEN 即可将 Hugging Face Bucket（读写）或模型/数据集/Space 仓库（只读）挂载到 SkyPilot 任务中，支持 MOUNT（FUSE 懒加载）或 COPY 模式。SkyPilot 可将任务调度到 20+ 云、Kubernetes、Slurm 及本地集群的任意可用 GPU 上。Hugging Face 不收取出站及 CDN 费用，故跨云读取数据无额外成本。存储价格 $12-18/TB/月，低于 AWS S3 加出站费。Bucket 基于 Xet，增量检查点和模型变体仅存储和传输改动部分。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb18k7802uuihogxse92jx2"
-      }
-    },
-    {
-      "id": "cmraxmzfq01y0ihog3h7t344t",
-      "title": "FDE爆发：AI公司12个月承诺97.5亿美元部署工程",
-      "title_en": "The $10B FDE Boom",
-      "url": "https://www.tomtunguz.com/the-10b-fde-boom",
-      "permalink": "https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
-      "summary": "AI公司在12个月内合计承诺97.5亿美元用于建设前部署工程（FDE）团队。三种结构模型浮现：资产负债模型（微软、亚马逊从现有编制调配，Salesforce承诺1000个FDE岗位）；独立实体模型（OpenAI Deployment Company融资40亿美元，投后估值140亿；Anthropic从黑石等融资15亿美元）；合作伙伴生态系统模型（Google Cloud承诺7.5亿美元合作伙伴基金）。瓶颈从模型能力转向部署--GPT-4、Claude、Gemini已足够强大，但多数企业无法自行安装配置。FDE投资构成护城河：嵌入式工程师教育客户、获取专有工作流与数据反馈模型调优，切换成本为制度性而非技术性。",
-      "category": "tip",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmraxmzfq01y0ihog3h7t344t"
-      }
-    },
-    {
-      "id": "cmrauzt0c01b2ihogk1sosfm5",
-      "title": "在LLM中选择最佳图像输入细节级别",
-      "title_en": "Choosing the Optimal Image Input Detail Level in LLMs",
-      "url": "https://openrouter.ai/blog/insights/image-detail-low-cost",
-      "permalink": "https://aihot.virxact.com/items/cmrauzt0c01b2ihogk1sosfm5",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
-      "summary": "在5个模型上测试了1730道视觉推理题，发现将图像细节降至\"low\"会损失准确率，且在gpt-5.5上费用反而上升。真正可靠降低成本的手段是调节推理努力（reasoning effort）。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrauzt0c01b2ihogk1sosfm5"
-      }
-    },
-    {
-      "id": "cmrasd6r300i2ihog8ifwrqs5",
-      "title": "苹果研究：单个神经元即可绕过大型语言模型的安全对齐",
-      "title_en": "A Single Neuron Is Sufficient to Bypass Safety Alignment in Large Language Models",
-      "url": "https://machinelearning.apple.com/research/single-neuron-safety-alignment",
-      "permalink": "https://aihot.virxact.com/items/cmrasd6r300i2ihog8ifwrqs5",
-      "source": "Apple Machine Learning Research（RSS）",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
-      "summary": "苹果研究人员发现，安全对齐由两类神经元调控：拒绝神经元控制有害知识是否表达，概念神经元编码有害知识本身。在七个模型（1.7B至70B参数）中，仅需抑制单个拒绝神经元即可绕过安全对齐，回答有害请求；或放大单个概念神经元，从无害提示诱导出有害内容。整个过程无需训练或提示工程。结果表明安全对齐由个别神经元因果控制。",
-      "category": "paper",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrasd6r300i2ihog8ifwrqs5"
-      }
     }
   ],
-  "cachedAt": "2026-07-12T00:09:18Z"
+  "cachedAt": "2026-07-12T03:54:45Z"
 }
