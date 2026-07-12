@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNDE0NDQwMDAwLCJpIjoiY21yYXcyMnI3MDFqamlob2doMWs4aGJ1NiJ9",
+  "nextCursor": "eyJhIjoxNzgzNDE0ODAwMDAwLCJpIjoiY21yYWZ2OG00MDA5MGlodWFtZWJuMTA3dyJ9",
   "items": [
     {
       "id": "cmri4o4kx00qcbi3hqxj8rxqd",
@@ -888,6 +888,23 @@
       }
     },
     {
+      "id": "cmrd6bmv300xuih4b1pvracmx",
+      "title": "官方支招两种AI方案：Claude Fable 5搭配Sonnet 5省token",
+      "title_en": "官方支招教你省 Token：两种 AI 方案让 Claude Fable 5 和 Sonnet 5 搭配干活",
+      "url": "https://www.ithome.com/0/974/511.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrd6bmv300xuih4b1pvracmx",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-09T06:56:55.000Z",
+      "summary": "Anthropic官方建议将Claude Fable 5用作规划层、Sonnet 5执行任务以降低成本。顾问模式下，Sonnet 5主执行，仅需额外指导时调用Fable 5；SWE-bench Pro测试显示相比完全用Fable 5可达92%性能，成本仅63%。协调者模式下，Fable 5充当规划者，将子任务分派给多个Sonnet 5工作智能体；BrowseComp基准上达到Fable 5单独运行96%表现，成本为46%。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrd6bmv300xuih4b1pvracmx"
+      }
+    },
+    {
       "id": "cmrd6bmv300xxih4byg33dbws",
       "title": "蚂蚁灵波开源实时交互世界模型 LingBot-World 2.0",
       "title_en": "无限世界、实时交互，蚂蚁灵波开源 LingBot-World 2.0 世界模型",
@@ -902,23 +919,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrd6bmv300xxih4byg33dbws"
-      }
-    },
-    {
-      "id": "cmrcwhjxe04zgihx52g0xrzaz",
-      "title": "蚂蚁灵波LingBot-Vision实测：1B参数越级打平DINOv3",
-      "title_en": "运行视频中的脚本在这里 https://gist.github.com/karminski/4c761893ddbd88fe14a92bdcf962918c",
-      "url": "https://x.com/karminski3/status/2075045139970760921",
-      "permalink": "https://aihot.virxact.com/items/cmrcwhjxe04zgihx52g0xrzaz",
-      "source": "X：karminski (@karminski3)",
-      "publishedAt": "2026-07-09T02:31:28.000Z",
-      "summary": "蚂蚁灵波LingBot-Vision实测：仅1B参数量下展现极强空间几何与边界感知能力，越级打平甚至超越7B参数的DINOv3。适合作为具身智能视觉主干、机器人导航、机械臂抓取等场景，本地算力需求低。演示免微调视频目标追踪，随便画一笔即可锁定目标。硬件级深度补全可识别透明玻璃、反光物体。全局图像分类能力中规中矩。推荐30系显卡本地运行。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcwhjxe04zgihx52g0xrzaz"
       }
     },
     {
@@ -1296,6 +1296,23 @@
       }
     },
     {
+      "id": "cmrbikwbz04b5ihl16qfp5ntw",
+      "title": "蚂蚁集团旗下Robbyant开源LingBot-Vision：1B参数边界中心视觉基础模型，用于密集空间感知",
+      "title_en": "Ant Group's Robbyant Open-Sources LingBot-Vision： A 1B Boundary-Centric Vision Foundation Model for Dense Spatial Perception",
+      "url": "https://www.marktechpost.com/2026/07/07/ant-groups-robbyant-open-sources-lingbot-vision-a-1b-boundary-centric-vision-foundation-model-for-dense-spatial-perception",
+      "permalink": "https://aihot.virxact.com/items/cmrbikwbz04b5ihl16qfp5ntw",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-08T03:03:22.000Z",
+      "summary": "蚂蚁集团旗下具身智能公司Robbyant开源LingBot-Vision，一套自监督视觉Transformer家族，专为密集空间感知设计。旗舰ViT-g/16参数约1.1B，采用掩膜边界建模训练，将边界作为原生预训练信号。在密集空间任务中，该1B模型匹配或超越参数规模高达7倍的大模型（如7B DINOv3）。模型以Apache-2.0许可证在Hugging Face开源，提供ViT-g、ViT-L（300M）、ViT-B（86M）、ViT-S四个规模。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrbikwbz04b5ihl16qfp5ntw"
+      }
+    },
+    {
       "id": "cmrbez8y903b9ihl133b5wr18",
       "title": "Pulpie：用于清理网络的Pareto最优模型",
       "title_en": "Show HN： Pulpie--用于清理网络的模型",
@@ -1310,23 +1327,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18"
-      }
-    },
-    {
-      "id": "cmrbdqlcv02y4ihl11xbxx9xs",
-      "title": "Claude开发者分享两种多智能体模式：Advisor和Orchestrator",
-      "title_en": "Claude 开发者官方分享：团队内部高频使用这两种经典多智能体模式「Advisor」和「Orchestrator」来发挥 Fable 5 最高价值、同时把成本降到最低！ # 模式一：Advisor…",
-      "url": "https://x.com/shao__meng/status/2074661249804366310",
-      "permalink": "https://aihot.virxact.com/items/cmrbdqlcv02y4ihl11xbxx9xs",
-      "source": "X：邵猛 (@shao__meng)",
-      "publishedAt": "2026-07-08T01:06:01.000Z",
-      "summary": "Claude开发者官方分享团队高频使用的两种多智能体模式。Advisor模式：Sonnet 5作为执行者，通过tool call调用Fable 5获取指导。SWE-bench Pro（482题）上，Sonnet 5单独75.5%/$0.75，加顾问达84%/$1.40，Fable 5单独91.5%/$2.25；组合方案约92%性能、63%成本。Orchestrator模式：Fable 5作为编排者规划并向多个Sonnet 5 worker扇出任务。BrowseComp上，全Sonnet 5 77.8%/$16.01，编排方案86.8%/$18.53，全Fable 5 90.8%/$40.56；编排方案约96%性能、46%成本。",
-      "category": "tip",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrbdqlcv02y4ihl11xbxx9xs"
       }
     },
     {
@@ -1412,6 +1412,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrcabmvj00ymihqce96ilbfi"
+      }
+    },
+    {
+      "id": "cmrb6mpkx015sihl1mtakoto3",
+      "title": "Fable 5 作为顾问与执行者调用模式",
+      "title_en": "A few patterns we frequently use with Fable 5： Use Fable 5 as an \"advisor.\" An executor （Sonnet…",
+      "url": "https://x.com/ClaudeDevs/status/2074606058128224365",
+      "permalink": "https://aihot.virxact.com/items/cmrb6mpkx015sihl1mtakoto3",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-07-07T21:26:43.000Z",
+      "summary": "我们常与 Fable 5 一起使用的几个模式：\n\n将 Fable 5 作为\"顾问\"。\n\n一个执行者（Sonnet 5）调用 Fable 5 寻求指导。\n\n大多数 token 按较低的执行者费率计费。",
+      "category": "tip",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrb6mpkx015sihl1mtakoto3"
       }
     },
     {
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w"
       }
-    },
-    {
-      "id": "cmraw22r701jjihogh1k8hbu6",
-      "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力",
-      "title_en": "Expanding Managed Agents in Gemini API： background tasks， remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "permalink": "https://aihot.virxact.com/items/cmraw22r701jjihogh1k8hbu6",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-07-07T08:54:00.000Z",
-      "summary": "Google 为 Gemini API 的 Managed Agents 新增后台执行、远程 MCP 服务器集成、自定义函数调用与凭证刷新功能。后台执行通过传入 `background： true` 异步运行任务，立即返回 ID 供轮询状态或流式获取进度。Managed Agents 可直接连接远程 MCP 服务器，无需自定义代理中间件，并能与内置沙箱工具（如 Google 搜索、代码执行）混合使用。自定义函数调用支持本地执行业务逻辑，内置工具自动在服务端运行。凭证刷新通过传递现有环境 ID 和新网络配置完成，沙箱内文件系统、已安装包和仓库保持不变。这些更新旨在帮助开发者构建可靠的生产级 AI 智能体。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmraw22r701jjihogh1k8hbu6"
-      }
     }
   ],
-  "cachedAt": "2026-07-12T22:05:59Z"
+  "cachedAt": "2026-07-12T23:08:10Z"
 }
