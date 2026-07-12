@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMzgyNDAwMDAwLCJpIjoiY21yYmc4NHlmMDNtY2lobDFyZWl2Y2licSJ9",
+  "nextCursor": "eyJhIjoxNzgzMzkzMjQ3MDAwLCJpIjoiY21yYTJsZ3AwMDBheWloeDhlYWN5bHBvMyJ9",
   "items": [
+    {
+      "id": "cmrhlbx2v01a4bimnlcgw5m7y",
+      "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
+      "title_en": "OpenAI CEO Altman is now \"pretty sure\" AI is net job-creating， which is quite the pivot from predicting mass layoffs",
+      "url": "https://the-decoder.com/openai-ceo-altman-is-now-pretty-sure-ai-is-net-job-creating-which-is-quite-the-pivot-from-predicting-mass-layoffs",
+      "permalink": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-12T09:15:49.000Z",
+      "summary": "OpenAI CEO Sam Altman 表示，他\"相当确信\"AI 迄今为止净创造了就业，并承认\"这并非我预期\"。此前他曾警告 AI 影响可能快得\"有点吓人\"。Anthropic CEO Dario Amodei 也修正了早期言论，将自动化描述为生产力倍增器而非岗位杀手。然而，多项研究未发现 AI 对整体生产力或劳动力市场产生显著影响。一项多校联合研究指出，程序员和文案的就业危机始于 2022 年初，早于 ChatGPT 发布。耶鲁预算实验室也未发现与 AI 相关的就业市场变化。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y"
+      }
+    },
     {
       "id": "cmrhagju201pqbir7t0tnsgfy",
       "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmra2lgp000ayihx8eacylpo3"
       }
-    },
-    {
-      "id": "cmrbg84yf03mcihl1reivcibq",
-      "title": "Nemotron-Labs-Diffusion：统一自回归、扩散与自我推测解码的三模式语言模型",
-      "title_en": "Nemotron-Labs-Diffusion： A Tri-Mode Language Model Unifying Autoregressive， Diffusion， and Self-Speculation Decoding",
-      "url": "https://arxiv.org/abs/2607.05722",
-      "permalink": "https://aihot.virxact.com/items/cmrbg84yf03mcihl1reivcibq",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
-      "summary": "Nemotron-Labs-Diffusion 是一种三模式语言模型，通过联合自回归（AR）和扩散损失训练，在单一架构中统一了 AR、扩散和自我推测解码。研究显示 AR 与扩散目标互补：扩散增强前瞻规划，AR 提供从左至右的语言先验。自我推测模式下，扩散充当草稿模型、AR 负责验证，其接受率和实际设备效率均优于多 token 预测（MTP）。在最优化采样器下，单次前向传播产出 token 数比自我推测最多高 76.5%。该系列包含 3B、8B、14B 参数的基础、指令和视觉语言模型，在准确率和速度上均超越现有开源 AR 和扩散 LM。例如 8B 模型单次前向解码 token 数是 Qwen3-8B 的 6 倍，在 GB200 GPU 上使用 SGLang 运行 SPEED-Bench 时吞吐量提升 4 倍。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrbg84yf03mcihl1reivcibq"
-      }
     }
   ],
-  "cachedAt": "2026-07-12T09:14:41Z"
+  "cachedAt": "2026-07-12T10:42:24Z"
 }
