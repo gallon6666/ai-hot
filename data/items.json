@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMzk4MTQyMDAwLCJpIjoiY21yYTY3YWJ3MDAzdmlodXAzbWc3NXdzYyJ9",
+  "nextCursor": "eyJhIjoxNzgzNDA1Mzg1MDAwLCJpIjoiY21yYWFpOWljMDBxNGlobDNvemYza2k5cyJ9",
   "items": [
+    {
+      "id": "cmrhyer8a01q3biidlr8xr6rm",
+      "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+      "title_en": "http://x.com/i/article/2076319195718090753",
+      "url": "https://x.com/satyanadella/status/2076323181154230284",
+      "permalink": "https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "publishedAt": "2026-07-12T15:09:57.000Z",
+      "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm"
+      }
+    },
     {
       "id": "cmrhvwe6k00y7biidjabepmem",
       "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmraai9ic00q4ihl3ozf3ki9s"
       }
-    },
-    {
-      "id": "cmra67abw003vihup3mg75wsc",
-      "title": "MIRA：可玩多人世界模型，20 FPS实时生成\"火箭联盟的梦\"",
-      "title_en": "I have been playing these world models/games since the first diffusion DOOM， and multiplayer at 20 F…",
-      "url": "https://x.com/emollick/status/2074348274136346871",
-      "permalink": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-07-07T04:22:22.000Z",
-      "summary": "MIRA是一个可玩、多人的世界模型，被形容为\"火箭联盟的梦\"。它基于10k小时公开机器人收集的数据训练，学习四玩家游戏动态，根据按键实时生成画面，帧率达20 FPS。模型由General Intuition与Kyutai Labs联合构建，Epic Games提供协作。Ethan Mollick称从最早的扩散DOOM玩过来，多人20 FPS效果出色。演示、技术报告及开源代码已公开，在ICML Booth 111现场展示。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmra67abw003vihup3mg75wsc"
-      }
     }
   ],
-  "cachedAt": "2026-07-12T15:14:21Z"
+  "cachedAt": "2026-07-12T16:12:02Z"
 }
