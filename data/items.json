@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzMzgyNDAwMDAwLCJpIjoiY21yYmc4NHlmMDNtYmlobDFnZmJiZ2V1eiJ9",
+  "nextCursor": "eyJhIjoxNzgzMzgyNDAwMDAwLCJpIjoiY21yYmc4NHlmMDNtY2lobDFyZWl2Y2licSJ9",
   "items": [
+    {
+      "id": "cmrhagju201pqbir7t0tnsgfy",
+      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+      "title_en": "xAI 的 Grok Build CLI 实际上向 xAI 发送了什么",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "permalink": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-12T03:59:09.632Z",
+      "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy"
+      }
+    },
     {
       "id": "cmrh8o88501e4bir7wzxmfpfm",
       "title": "苹果起诉OpenAI挖角窃密，分析师称即使指控未证实也可能重创其硬件计划",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrbg84yf03mcihl1reivcibq"
       }
-    },
-    {
-      "id": "cmrbg84yf03mbihl1gfbbgeuz",
-      "title": "AlayaWorld：长程可玩视频世界生成",
-      "title_en": "AlayaWorld： Long-Horizon and Playable Video World Generation",
-      "url": "https://arxiv.org/abs/2607.06291",
-      "permalink": "https://aihot.virxact.com/items/cmrbg84yf03mbihl1gfbbgeuz",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-07T00:00:00.000Z",
-      "summary": "AlayaWorld 是一个全栈开源框架，用于构建交互式生成世界。该框架支持开放式实时交互，用户可自由导航并执行战斗、施法、召唤怪物等多种动作。AlayaWorld 将数据准备、模型架构、训练、推理加速和部署统一在模块化可扩展的架构中，并发布了可复现流程、参考实现、评估工具和完整文档，为生成世界模型的未来研究与实时应用奠定基础。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrbg84yf03mbihl1gfbbgeuz"
-      }
     }
   ],
-  "cachedAt": "2026-07-12T03:54:45Z"
+  "cachedAt": "2026-07-12T06:47:45Z"
 }
