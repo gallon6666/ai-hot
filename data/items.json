@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNDA2NzA2MzQxLCJpIjoiY21yYWI4Y3k4MDB3M2lobDM4b2h1eHppaCJ9",
+  "nextCursor": "eyJhIjoxNzgzNDE0NDQwMDAwLCJpIjoiY21yYXcyMnI3MDFqamlob2doMWs4aGJ1NiJ9",
   "items": [
+    {
+      "id": "cmri4sa9p00r9bi3hn0yjz7jx",
+      "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+      "title_en": "给 Codex 点赞👍 暂时移除5小时使用限制，GPT 5.6 Sol更省token，下一小时内进行使用量重置",
+      "url": "https://x.com/dotey/status/2076372677577576864",
+      "permalink": "https://aihot.virxact.com/items/cmri4sa9p00r9bi3hn0yjz7jx",
+      "source": "X：宝玉 (@dotey)",
+      "publishedAt": "2026-07-12T18:26:38.000Z",
+      "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmri4sa9p00r9bi3hn0yjz7jx"
+      }
+    },
     {
       "id": "cmri0lo1e00irbixecx7cj2f5",
       "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmraw22r701jjihogh1k8hbu6"
       }
-    },
-    {
-      "id": "cmrab8cy800w3ihl38ohuxzih",
-      "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
-      "title_en": null,
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "permalink": "https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-07T06:45:06.341Z",
-      "summary": "2019年，Adebayo Alonge因服务器远在美国致RxScanner单次扫描超5分钟，工程师2小时内将AI模型缩小至可在Android手机本地运行，此后RxScanner能在无宽带、缺电地区验药。小AI模型参数通常至多几十亿，可在手机或Raspberry Pi上运行，功耗仅数瓦。类似案例包括印度腰果病害检测无人机、乌拉圭蚂蚁入侵识别、疟蚊检测及巴西基于Arduino的心电图设备。世界银行报告显示，全球最穷国家仅0.7%互联网用户用过ChatGPT，发达国家达四分之一；行长认为小AI是为缺乏算力与电力的地区提供生命救助服务的关键。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrab8cy800w3ihl38ohuxzih"
-      }
     }
   ],
-  "cachedAt": "2026-07-12T18:09:14Z"
+  "cachedAt": "2026-07-12T19:29:13Z"
 }
