@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNDQwNjQ0MDAwLCJpIjoiY21yYjdkemdlMDFkNmlobDFidGhvbXRhbSJ9",
+  "nextCursor": "eyJhIjoxNzgzNDQxMDUxMDE1LCJpIjoiY21yYXZuZHpjMDFmMmlob2d1YzN5ZXV1ZyJ9",
   "items": [
+    {
+      "id": "cmrjj6scy03ghbi03olyygged",
+      "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
+      "title_en": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
+      "url": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result",
+      "permalink": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-13T17:47:39.000Z",
+      "summary": "OpenAI 整合了一份面向普通用户的提示词指南，涵盖目标、上下文、输出格式和边界四个可选模块。指南建议以结果而非步骤开头，用一两条硬性规则替代逐步骤脚本。Chat 处理快速任务，基于 Codex 技术和 GPT-5.6 模型的 ChatGPT Work 负责多源、多步骤的复杂项目。Codex 新增 Steer（重定向当前运行）、Queue（排队下一条消息）和沙盒模式，支持 `/plan`、`/goal` 和 `/review` 等斜杠命令。用户无需一次性写对提示词，后续追问是预期调整方式。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged"
+      }
+    },
     {
       "id": "cmrj6actv0651bilkm5pfz6ub",
       "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmravndzc01f2ihoguc3yeuug"
       }
-    },
-    {
-      "id": "cmrb7dzge01d6ihl1bthomtam",
-      "title": "Rowboat：开源、本地优先的桌面AI助手",
-      "title_en": "Show HN： Rowboat - Open-source， local-first alternative to Claude Desktop",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "permalink": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-07-07T16:10:44.000Z",
-      "summary": "Rowboat 是一个开源、本地优先的桌面 AI 助手，将邮件、会议、Slack 等数据索引为 Obsidian 风格的知识图谱，提供持久上下文记忆。内置邮件客户端、浏览器、会议记录器、代码模式（可调用 Claude Code 或 Codex 代理），并支持按事件或定时运行的背景代理。用户可通过 MCP 协议接入 Exa 搜索、GitHub 等外部工具。所有数据以纯 Markdown 格式本地存储，无供应商锁定，支持 Ollama/LM Studio 本地模型或使用 API 密钥的托管模型。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam"
-      }
     }
   ],
-  "cachedAt": "2026-07-13T17:21:53Z"
+  "cachedAt": "2026-07-13T19:46:56Z"
 }
