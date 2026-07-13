@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNDE0ODAwMDAwLCJpIjoiY21yYWZ2OG00MDA5MGlodWFtZWJuMTA3dyJ9",
+  "nextCursor": "eyJhIjoxNzgzNDE0ODAwMDAwLCJpIjoiY21yYXduZTk2MDFuZmlob2d0a3h3eTBicyJ9",
   "items": [
+    {
+      "id": "cmrig9mkx0024bijp9pr04hss",
+      "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
+      "title_en": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27%",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "permalink": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-12T23:41:11.951Z",
+      "summary": "Ploy 将其 AI 智能体默认模型从 Claude Opus 4.8 切换至 OpenAI 今晨发布的 GPT-5.6 Sol。在真实营销网站构建测试中，GPT-5.6 Sol 完成页面平均耗时 3 分 42 秒，较 Opus 4.8 的 8 分钟快 2.2 倍；每次构建成本从 3.06 美元降至 2.22 美元，降低 27%；输出 token 从 33.0K 降至 17.1K，视觉评分从 0.936 提升至 0.970。迁移过程发现，GPT-5.6 会为所有 25 个工具参数填充默认值，导致 52%-64% 的文件读取返回空结果；提示词指令和 OpenAI strict 模式均无法修复此行为。此外，评估框架中约三分之一的原始失败源于针对旧模型的假设，而非模型本身问题。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss"
+      }
+    },
     {
       "id": "cmri4o4kx00qcbi3hqxj8rxqd",
       "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs"
       }
-    },
-    {
-      "id": "cmrafv8m40090ihuamebn107w",
-      "title": "美国首批自主地面车辆在乌克兰参战",
-      "title_en": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine",
-      "permalink": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-07T09:00:00.000Z",
-      "summary": "美国自动驾驶车辆公司 Forterra 宣布，过去九个月已向乌克兰战场部署超过 100 辆基于 Polaris ATV 的 Lancer 自主地面车辆。这些汽油动力车辆可携带 750 公斤货物，加装 Starlink 天线实现远程操控，已执行 1100 多次任务，行驶 2500 英里，运送 777，440 磅物资，完成 52 次伤员撤离。目前车辆主要采用远程操作，因自主系统尚无法实时识别并应对敌方威胁。Forterra 已融资超 5 亿美元，正将经典机器人方法与生成式 AI 结合以提升自主能力。美军专家认为地面自主技术已具实战价值。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w"
-      }
     }
   ],
-  "cachedAt": "2026-07-12T23:08:10Z"
+  "cachedAt": "2026-07-13T00:09:21Z"
 }
