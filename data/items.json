@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNDQwMDAwMDAwLCJpIjoiY21yY3BqZ2YwMDM3M2loeDVtdHlvMmZzeSJ9",
+  "nextCursor": "eyJhIjoxNzgzNDQwNjQ0MDAwLCJpIjoiY21yYjdkemdlMDFkNmlobDFidGhvbXRhbSJ9",
   "items": [
+    {
+      "id": "cmrj6actv0651bilkm5pfz6ub",
+      "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+      "title_en": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+      "permalink": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-13T11:41:01.000Z",
+      "summary": "德国AI协会协调的研究联盟发布开源大语言模型Soofi S 30B-A3B。该模型总参数量316亿，每个token仅激活约32亿参数，采用Mamba-2与标准注意力层混合的MoE架构。模型完全在德国电信慕尼黑工业AI云上训练，训练数据中德语占比从第一阶段的7.2%提升至第二阶段的15.3%。在基准测试中，Soofi S在所有完全开源模型中取得英语和德语综合最高分，超越OLMo 3 32B和Apertus 70B。在HumanEval上得分73.8%，MBPP得分70.2，德语版MBPP得分84.2。上下文窗口支持最高100万token，在4万token长度下，生成吞吐量约为同规模稠密模型的8倍。模型权重已开源。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub"
+      }
+    },
     {
       "id": "cmrj4s89p05nhbilkljqel2d5",
       "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrb7dzge01d6ihl1bthomtam"
       }
-    },
-    {
-      "id": "cmrcpjgf00373ihx5mtyo2fsy",
-      "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
-      "title_en": "An off switch for dual use knowledge in AI models",
-      "url": "https://www.anthropic.com/research/off-switch-dual-use",
-      "permalink": "https://aihot.virxact.com/items/cmrcpjgf00373ihx5mtyo2fsy",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-07-07T16:00:00.000Z",
-      "summary": "Anthropic与AE Studio联合提出梯度路由辅助模块（GRAM）方法，通过在Transformer每层添加可移除的神经元模块，使模型在训练时将病毒学、网络安全、核物理、专业编程语言等双重用途知识仅路由到对应模块，而非扩散至全局。训练后删除模块即可消除该能力，保留则供可信部署使用。实验在合成数据、真实数据及50M到5B参数模型上测试，GRAM效果与数据过滤相当，移除模块不降低通用性能，且比事后\"遗忘\"技术更难恢复。该研究为平衡双重用途知识的安全访问与有益使用提供了更鲁棒的方案。",
-      "category": "paper",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcpjgf00373ihx5mtyo2fsy"
-      }
     }
   ],
-  "cachedAt": "2026-07-13T11:27:45Z"
+  "cachedAt": "2026-07-13T15:09:48Z"
 }
