@@ -1,8 +1,59 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNDM3MjcwMDAwLCJpIjoiY21yYXN1ZXU1MDBxbWlob2czZDh1cDExdCJ9",
+  "nextCursor": "eyJhIjoxNzgzNDQwMDAwMDAwLCJpIjoiY21yY3BqZ2YwMDM3M2loeDVtdHlvMmZzeSJ9",
   "items": [
+    {
+      "id": "cmrj4s89p05nhbilkljqel2d5",
+      "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+      "title_en": "训推全开源：HyOCR-1.5 让端到端 OCR 大模型跑得更快、看得更准、功能更全",
+      "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+      "permalink": "https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5",
+      "source": "公众号：腾讯混元",
+      "publishedAt": "2026-07-13T11:12:59.000Z",
+      "summary": "腾讯混元发布 HyOCR-1.5，这是端到端 OCR 大模型领域首个将训练、推理、模型权重完整开源的专家模型。仅 1B 参数，覆盖 8 种以上 text-centric 任务。引入 DFlash 投机解码框架，在 Transformers 下实现 6.37× 加速，vLLM 下 2.14× 加速，端到端推理达每页 1.408s。支持 4K 分辨率与 128K 上下文窗口，通过 Agentic Data Flow 扩展低资源 OCR（331 种语言）、古文字识别与多图问答能力。在 OmniDocBench v1.6 上以 94.74 分居端到端第一。",
+      "category": "ai-models",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5"
+      }
+    },
+    {
+      "id": "cmrj36yri059qbilk1n6jhqn1",
+      "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+      "title_en": "总投资超 500 亿美元，Meta 宣布扩建路易斯安那州数据中心至 5GW 规模",
+      "url": "https://www.ithome.com/0/976/149.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrj36yri059qbilk1n6jhqn1",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-13T09:58:56.000Z",
+      "summary": "Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrj36yri059qbilk1n6jhqn1"
+      }
+    },
+    {
+      "id": "cmrj2yiav054pbilkyf6ufbw2",
+      "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
+      "title_en": "http://x.com/i/article/2076599995600621568",
+      "url": "https://x.com/op7418/status/2076604797202161800",
+      "permalink": "https://aihot.virxact.com/items/cmrj2yiav054pbilkyf6ufbw2",
+      "source": "X：歸藏 (@op7418)",
+      "publishedAt": "2026-07-13T09:48:59.000Z",
+      "summary": "字节跳动发布 Seedream 5.0 Pro，图像质量与提示词理解追平 GPT-Image 2.0，综合能力仅次于后者。核心亮点是\"可编辑\"交互：用户可在图上打点、画框、涂鸦，提示词中直接 @ 标记，实现精准局部编辑（如换沙发、改墙面颜色），其他区域不变。实测案例涵盖家装改造（一次替换六件家具）、商品图制作（键盘爆炸拆解图、标注卖点）、海报排版（框定位置生成文字）等场景，支持色卡配色和 SKU 换色。火山引擎已全量上线 API，即梦、豆包、Lumina 可体验。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrj2yiav054pbilkyf6ufbw2"
+      }
+    },
     {
       "id": "cmrijw1sy00j6bi0jshweyv4l",
       "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
@@ -1651,58 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrcpjgf00373ihx5mtyo2fsy"
       }
-    },
-    {
-      "id": "cmrcfo6cf00lwihx5z6xn4s83",
-      "title": "xAI 发布 Grok 4.5",
-      "title_en": "Introducing Grok 4.5 Jul 8， 2026 # Introducing Grok 4.5 Grok 4.5 is SpaceXAI's smartest model built for coding， agentic tasks， and knowledge work. Read More",
-      "url": "https://x.ai/news/grok-4-5",
-      "permalink": "https://aihot.virxact.com/items/cmrcfo6cf00lwihx5z6xn4s83",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-07-07T16:00:00.000Z",
-      "summary": "xAI 今日推出 Grok 4.5，为其最强模型，专为编程、智能体任务和知识工作打造。模型训练于数万块 NVIDIA GB300 GPU，DeepSWE 1.0 得分 62.0%，DeepSWE 1.1 得分 53%，Terminal Bench 2.1 得分 83.3%，SWE Bench Pro 解决率 64.7%。服务速度 80 TPS，token 效率约为 Opus 4.8 （max） 的 4.2 倍，在 Harvey Legal Agent Benchmark 排名第一。定价 $2/百万输入 token、$6/百万输出 token。即日起在 Grok Build、Cursor 和 SpaceXAI API 可用，欧盟地区预计 7 月中旬上线。",
-      "category": "ai-models",
-      "score": 85,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcfo6cf00lwihx5z6xn4s83"
-      }
-    },
-    {
-      "id": "cmrc3xicn01grihyf9z6t1b4b",
-      "title": "Seedream 5.0 Pro 发布：不止\"生成\"，更懂\"设计\"",
-      "title_en": "不止\"生成\"，更懂\"设计\" | Seedream 5.0 Pro 发布",
-      "url": "https://seed.bytedance.com/zh/blog/%E4%B8%8D%E6%AD%A2-%E7%94%9F%E6%88%90-%E6%9B%B4%E6%87%82-%E8%AE%BE%E8%AE%A1-seedream-5-0-pro-%E5%8F%91%E5%B8%83",
-      "permalink": "https://aihot.virxact.com/items/cmrc3xicn01grihyf9z6t1b4b",
-      "source": "字节 Seed：Research Feed（网页内嵌数据）",
-      "publishedAt": "2026-07-07T16:00:00.000Z",
-      "summary": "字节 Seed 今日发布多模态图像创作模型 Seedream 5.0 Pro，在图文匹配、结构合理性、文字渲染与画面美感上全面升级。四大核心突破：复杂信息可视化，可生成高密度信息图；交互式精准编辑，支持点选、圈选、草图渲染、色彩与材质替换、图层分离及多图融合，实现像素级编辑；真实的影像与人像质感，还原光影、材质与皮肤肌理；原生多语种输入与生成，支持十余种语言及本地化视觉特征。已陆续在豆包、即梦、火山方舟等平台上线。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc3xicn01grihyf9z6t1b4b"
-      }
-    },
-    {
-      "id": "cmrasueu500qmihog3d8up11t",
-      "title": "中国拟限制外国访问最强AI模型",
-      "title_en": "🇨🇳This is bad news. Now， frontier open source access also will probably no more be available for a…",
-      "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
-      "permalink": "https://aihot.virxact.com/items/cmrasueu500qmihog3d8up11t",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-07T15:14:30.000Z",
-      "summary": "中国计划限制外国访问其最强AI模型，近期与阿里巴巴、字节跳动、Z.ai等企业会谈，拟将先进模型（含未发布）留在中国国内。商务部主导、国家发改委参与，表明此举属出口管制而非平台监管。目标涵盖闭源和开源模型，不仅限API访问，还包括可下载权重。同时讨论将模型泄漏视为国家安全犯罪，并限制外国资本投资中国AI初创。若实施，外国公司将失去低成本模型访问权。此前华盛顿已限制美国先进模型出口，此举可能进一步分裂全球AI市场。",
-      "category": "industry",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrasueu500qmihog3d8up11t"
-      }
     }
   ],
-  "cachedAt": "2026-07-13T07:35:30Z"
+  "cachedAt": "2026-07-13T11:27:45Z"
 }
