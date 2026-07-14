@@ -1,8 +1,42 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNDQ2NTMwMDAwLCJpIjoiY21yYXkzNmZnMDIxbmlob2dmbzIwNTQxNyJ9",
+  "nextCursor": "eyJhIjoxNzgzNDQ5MzU4MDAwLCJpIjoiY21yYjB1NnB2MDJxdGlob2dvdmR1dTc5NSJ9",
   "items": [
+    {
+      "id": "cmrk1airt02fybiw2ou71j8uf",
+      "title": "面壁智能CTO曾国洋专访：端侧模型是AI落地关键路径",
+      "title_en": "专访面壁智能CTO曾国洋：「Her」成为现实，还有几道坎",
+      "url": "https://mp.weixin.qq.com/s/s75qDGt5iNqLXyMbjpwxeQ",
+      "permalink": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "publishedAt": "2026-07-14T02:29:00.000Z",
+      "summary": "面壁智能CTO曾国洋指出，端侧模型是AI落地的关键路径。其原创方法论\"模型风洞\"可在小规模实验中预测完整训练效果，并基于\"知识密度\"提出\"面壁定律\"：知识密度每3.5个月翻一番。2B参数的MiniCPM表现优于同期8B竞品。面壁已完成高通、联发科、英特尔、英伟达、AMD等芯片适配，新发布的BitCPM-CANN模型系列可在华为昇腾芯片上让同一内存多装约6倍模型。全双工全模态模型MiniCPM-o4.5支持实时打断与情绪调整。团队开发了全球首个完全由AI编写的生产级训练框架ForgeTrain，并引入行为模式库实现无需开口的\"默契系统\"。",
+      "category": "tip",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf"
+      }
+    },
+    {
+      "id": "cmrjy99kt01nvbiw22bwjsvnv",
+      "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
+      "title_en": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
+      "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
+      "permalink": "https://aihot.virxact.com/items/cmrjy99kt01nvbiw22bwjsvnv",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "publishedAt": "2026-07-14T00:38:32.000Z",
+      "summary": "商汤发布并完全开源 SenseNova-Vision-7B-MoT，一个统一处理检测、OCR、GUI、深度与法线估计、分割、多视图等主要视觉任务的模型。该模型支持通过自然语言定义新的视觉任务变体，跨传统任务边界重组视觉能力。开源内容包括模型权重及 SenseNova-Vision Corpus（含 5000 万示例子集及复现剩余公开数据的完整工具包）。",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrjy99kt01nvbiw22bwjsvnv"
+      }
+    },
     {
       "id": "cmrjw1gyj011bbiw2epuuumva",
       "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
@@ -1668,41 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795"
       }
-    },
-    {
-      "id": "cmrayv5ja0293ihog3rixaqua",
-      "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
-      "title_en": "YC首席执行官称自己每天交付3.7万行LoC的AI代码。一位开发者深入探究了其实现原理",
-      "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
-      "permalink": "https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-07T17:52:12.864Z",
-      "summary": "Y Combinator CEO Garry Tan在X上宣称，他与AI编码代理每天在五个项目中部署37000行代码，并保持连续72天发布记录。波兰开发者Gregorein深入审查Tan网站前端代码，发现大量臃肿与低效问题：页面加载169次请求、总计6.42MB数据（对比Hacker News仅7次12KB）；包含28个测试文件、78个未使用的JavaScript控制器、八种格式Logo（含空文件）、未压缩的旧PNG等。Gregorein指出，AI虽能快速生成代码，但质量仍应优先于数量。",
-      "category": "tip",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrayv5ja0293ihog3rixaqua"
-      }
-    },
-    {
-      "id": "cmray36fg021nihogfo205417",
-      "title": "NotebookLM短视频概览正式上线",
-      "title_en": "Short Video Overviews are officially 💯 rolled out on mobile and web across all users in English！ A…",
-      "url": "https://x.com/NotebookLM/status/2074551227594264799",
-      "permalink": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-      "source": "X：NotebookLM (@NotebookLM)",
-      "publishedAt": "2026-07-07T17:48:50.000Z",
-      "summary": "短视频概览功能已正式在移动端和网页端面向所有英语用户全面上线！\n\n一如既往，您的意见对我们至关重要。请在下方分享您最喜欢的作品，并告诉我们接下来需要添加哪些功能！❤️",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417"
-      }
     }
   ],
-  "cachedAt": "2026-07-14T00:05:47Z"
+  "cachedAt": "2026-07-14T03:31:08Z"
 }
