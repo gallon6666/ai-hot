@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNDg0OTczNjA5LCJpIjoiY21yYmxmYjhhMDUwc2lobDE0ODRwYTN3byJ9",
+  "nextCursor": "eyJhIjoxNzgzNDkwNzMyMDAwLCJpIjoiY21yYm9jaTIxMDVyM2lobDF6bWk2d2dwZiJ9",
   "items": [
+    {
+      "id": "cmrkzr5aw004ubinxdglyy7rn",
+      "title": "Google 因 AI 训练再遭出版商集体诉讼",
+      "title_en": "Google faces another AI training lawsuit from major publishers",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+      "permalink": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-14T18:33:31.000Z",
+      "summary": "包括 Hachette、Cengage、Elsevier 及作家 Scott Turow 在内的出版商与作者团体对 Google 提起集体诉讼，指控其未经授权使用受版权保护的作品训练 Gemini 模型，并故意移除或篡改版权信息以掩盖这一行为。原告称 Google 将原本仅用于 Google Books 搜索片段展示的书籍副本，以及 Google Play 商店上传的图书，非法用于 AI 训练。诉讼援引 Google 内部文件，其中指出此举可能带来\"100 亿至 1000 亿美元的潜在罚款\"。该案在纽约南区联邦地区法院提起。",
+      "category": "industry",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn"
+      }
+    },
     {
       "id": "cmrkw3h0101xtbi5qs4nj3sxa",
       "title": "Google 在 I/O Connect India 展示由 Tensor SoC 和 TPU 驱动的 Pixel 10 端侧 AI 未来",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf"
       }
-    },
-    {
-      "id": "cmrblfb8a050sihl1484pa3wo",
-      "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
-      "title_en": "人工智能与密码学（1）：人工智能在Cloudflare的Circl中发现了什么",
-      "url": "https://blog.zksecurity.xyz/posts/circl-bugs",
-      "permalink": "https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-08T04:29:33.609Z",
-      "summary": "zkSecurity 的 AI 审计代理 zkao 持续扫描 Cloudflare 的 CIRCL 密码学库，使用 Opus 4.6 + skills 和 GPT-5.3 + skills 等模型发现并确认了 7 个真实漏洞。其中包括阈值 RSA 中 float64 精度丢失（AI 自评 Critical）和属性基加密（CP-ABE）访问控制完全失效（Critical，由 zkao 自行发现）。所有漏洞已在上游修复，多数在 HackerOne 上获得确认和奖励。AI 生成的候选发现仍需人工验证，但 zkao 已能自动完成大部分验证工作。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo"
-      }
     }
   ],
-  "cachedAt": "2026-07-14T18:15:45Z"
+  "cachedAt": "2026-07-14T19:44:24Z"
 }
