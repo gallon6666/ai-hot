@@ -1,8 +1,110 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNDQ5MzU4MDAwLCJpIjoiY21yYjB1NnB2MDJxdGlob2dvdmR1dTc5NSJ9",
+  "nextCursor": "eyJhIjoxNzgzNDY4ODAwMDAwLCJpIjoiY21yY3B4eWFyMDNhMGloeDVoY3hkcno3OCJ9",
   "items": [
+    {
+      "id": "cmrkfkw2x01hnbizsa1eat1ib",
+      "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+      "title_en": "实测LibTV Agent，把100个AI视频工作流重组成Skills后我创意自由了",
+      "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
+      "permalink": "https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-07-14T09:04:00.000Z",
+      "summary": "LibTV推出Agent功能并内置Skill Hub，提供100多个覆盖武侠电影、皮克斯动画广告、电商口播等类型的视频Skill。用户输入想法后，Agent会分析需求并询问方向，自动生成视频分镜并串联成完整节点工作流，每个节点可查看和修改提示语。生成后LibTV会启动自查机制，自动检测并返修有问题的镜头。故事板视图提供图片与视频资产总览，支持在成片中直接打开剪辑时间线进行精细调整。用户还可自行创建Skill，上传三个文件即可，无需编程。实测中，Agent能输出剧情连贯、带粤语配音的成片，并支持双语字幕生成。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib"
+      }
+    },
+    {
+      "id": "cmrkf8gun01a4bizsthjytx6c",
+      "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+      "title_en": "极致量化，近三千亿参数 Hy3 单卡即可部署",
+      "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+      "permalink": "https://aihot.virxact.com/items/cmrkf8gun01a4bizsthjytx6c",
+      "source": "公众号：腾讯混元",
+      "publishedAt": "2026-07-14T08:56:07.000Z",
+      "summary": "腾讯混元团队为旗舰模型 Hy3（295B 参数）推出量化版本。1bit 版本（IQ1_M）将权重从 598 GB 压缩至 85.5 GiB，缩小 6.7 倍，单张 96GB 推理显卡即可部署；4bit 版本（Q4_K_M）体积 169.9 GiB，两张显卡可承载。量化版在 Agent、多语言代码、工具调用、长文理解等任务上表现接近满血模型。团队还提供 GPTQ Int4 版本，支持 vLLM 部署。配合 MTP 投机解码，1bit 版本解码速度提升约 50%，4bit 版本提升近 60%。所有版本已开源并打包为 GGUF 格式，适配 llama.cpp 生态。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrkf8gun01a4bizsthjytx6c"
+      }
+    },
+    {
+      "id": "cmrkfkwum01hvbizs4ggn4u38",
+      "title": "腾讯混元发布 Hy3 模型 1-bit/4-bit 量化版，单 GPU 可运行",
+      "title_en": "We've just released the 1-bit & 4-bit version of Hy3， a flagship-scale 295B model that can be served…",
+      "url": "https://x.com/TencentHunyuan/status/2076953120765280284",
+      "permalink": "https://aihot.virxact.com/items/cmrkfkwum01hvbizs4ggn4u38",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "publishedAt": "2026-07-14T08:53:06.000Z",
+      "summary": "腾讯混元发布旗舰级 295B MoE 模型 Hy3 的 1-bit 与 4-bit 量化版本。Hy3 在同类规模中表现最佳，可媲美万亿参数级旗舰模型，适用于多数智能体场景。量化版可通过 llama.cpp 运行并启用 MTP，大幅降低硬件门槛，实现单 GPU 部署。模型采用 Apache 2.0 开源协议，支持商用，并提供 2 周免费 API（通过 OpenRouter）。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrkfkwum01hvbizs4ggn4u38"
+      }
+    },
+    {
+      "id": "cmrkedwpc013nbizssg3olzs7",
+      "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+      "title_en": "内置\"任意门\"，高德发布通用世界模型工坊 ABot-WorldStudio",
+      "url": "https://www.ithome.com/0/976/538.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrkedwpc013nbizssg3olzs7",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-14T07:46:46.000Z",
+      "summary": "阿里巴巴旗下高德发布通用世界模型工坊 ABot-WorldStudio，并开放测试。该产品将交互式视频生成与 3DGS 场景生成统一，用户输入文字或图片即可生成可实时交互、可分享的 AI 世界。工坊内置\"时空任意门\"，穿越后可跃迁至另一完整 3D 世界。官方实测单次连续推理稳定运行超1小时，无崩溃、无质量衰减。底层模型 ABot-World0 与 ABot-3DWorld0 均可在单张 5090 上本地部署，已全面开源。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrkedwpc013nbizssg3olzs7"
+      }
+    },
+    {
+      "id": "cmrkbtf5p0090bizscsgmhctc",
+      "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+      "title_en": "那我们还能做些什么呢？",
+      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+      "permalink": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-14T07:07:34.621Z",
+      "summary": "普林斯顿大学教授 Arvind Narayanan 在首尔 ICML 2026 上发表主旨演讲，提出三个核心论点：第一，\"AI 作为正常技术\"框架是思考 AI 影响的正确方式；第二，即使应认真对待递归自我改进，实验室中没有任何里程碑会突然让所有人失业；第三，未来工作将发生根本性变化，需要大量适应。他呼吁 AI 社区不应接受工作被取代，而应主动建立与 AI 互补的技能（如判断力、品味），并展望了人类与 AI 的\"共超智能\"愿景。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc"
+      }
+    },
+    {
+      "id": "cmrka3jld050tbiw29heoy5nl",
+      "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
+      "title_en": "马斯克亲口承认 Grok Build 上传用户代码，SpaceXAI 承诺将彻底删除",
+      "url": "https://www.ithome.com/0/976/453.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrka3jld050tbiw29heoy5nl",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-14T05:43:25.000Z",
+      "summary": "独立安全研究者 @cereblab 通过钓鱼仓库证实，SpaceXAI 旗下 AI 编程 agent Grok Build 在用户关闭\"帮助改进模型\"开关后仍将整个代码仓库上传至 Google Cloud 存储桶。一个 12GB 测试仓库被拆成 73 个数据包共传输 5.1GB，而正常对话仅用 192KB。另一研究者复现发现日志记录 339 次自动上传，其中一次涉及整个电脑主目录。事件曝光后，Elon Musk 亲自回应承认属实，承诺彻底删除所有此前上传的用户数据。Grok Build 已上线 `/privacy` 命令供用户一键关闭数据留存并追溯删除已上传数据。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrka3jld050tbiw29heoy5nl"
+      }
+    },
     {
       "id": "cmrk1airt02fybiw2ou71j8uf",
       "title": "面壁智能CTO曾国洋专访：端侧模型是AI落地关键路径",
@@ -1600,109 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrcpxyar03a0ihx5hcxdrz78"
       }
-    },
-    {
-      "id": "cmrcc072t01eqihqcf5kht18y",
-      "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型",
-      "title_en": "Introducing GPT-Live",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "permalink": "https://aihot.virxact.com/items/cmrcc072t01eqihqcf5kht18y",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-08T00:00:00.000Z",
-      "summary": "OpenAI 今日推出 GPT-Live，基于全双工架构实现同时听与说，支持自然打断与实时回馈。该模型每秒多次判断是否说话、倾听、打断或调用工具，并将搜索、推理等复杂任务委托给后台 GPT-5.5，保持对话流畅。即日起向全球 ChatGPT 用户提供 GPT-Live-1 和 GPT-Live-1 mini 两个版本。人类评估显示，在 5-10 分钟对话中，GPT-Live-1 系列在自然度、轮流、打断等方面显著优于 Advanced Voice Mode；在 GPQA、BrowseComp 和 τ3-Voice Telecom 基准测试中也表现更强。未来将开放 API。",
-      "category": "ai-models",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcc072t01eqihqcf5kht18y"
-      }
-    },
-    {
-      "id": "cmrcabmvj00ymihqce96ilbfi",
-      "title": "原生速度的 vLLM transformers 建模后端",
-      "title_en": "Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "permalink": "https://aihot.virxact.com/items/cmrcabmvj00ymihqce96ilbfi",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-07-08T00:00:00.000Z",
-      "summary": "Hugging Face 宣布 transformers vLLM 后端现与手写原生 vLLM 实现速度相当甚至更快。模型作者无需移植代码，即可自动利用 transformers 获得超快推理。测试使用 Qwen3-4B（单 GPU）、Qwen3-32B（张量并行）和 Qwen3-235B-A22B-FP8 MoE（数据+专家并行）三种配置，吞吐量均达到或超过原生。该后端通过 torch.fx 静态分析图、AST 重写代码实现动态层融合，支持张量/管道/专家并行及 torch.compile。用户仅需添加 `--model-impl transformers` 标志。目前不支持线性注意力模型但即将支持。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcabmvj00ymihqce96ilbfi"
-      }
-    },
-    {
-      "id": "cmrb6mpkx015sihl1mtakoto3",
-      "title": "Fable 5 作为顾问与执行者调用模式",
-      "title_en": "A few patterns we frequently use with Fable 5： Use Fable 5 as an \"advisor.\" An executor （Sonnet…",
-      "url": "https://x.com/ClaudeDevs/status/2074606058128224365",
-      "permalink": "https://aihot.virxact.com/items/cmrb6mpkx015sihl1mtakoto3",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-07-07T21:26:43.000Z",
-      "summary": "我们常与 Fable 5 一起使用的几个模式：\n\n将 Fable 5 作为\"顾问\"。\n\n一个执行者（Sonnet 5）调用 Fable 5 寻求指导。\n\n大多数 token 按较低的执行者费率计费。",
-      "category": "tip",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb6mpkx015sihl1mtakoto3"
-      }
-    },
-    {
-      "id": "cmrb4j2zx00n4ihl14u6xv7kz",
-      "title": "Krea 2 身份保留功能上线",
-      "title_en": "ID preservation for Krea 2 🔥",
-      "url": "https://x.com/krea_ai/status/2074589965653303321",
-      "permalink": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
-      "source": "X：Krea AI (@krea_ai)",
-      "publishedAt": "2026-07-07T20:22:46.000Z",
-      "summary": "Krea 2 的身份保留功能已发布，配套模型和 ComfyUI 节点也已上线。🔥",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz"
-      }
-    },
-    {
-      "id": "cmrb2mxmc0072ihl1mx0aw1bz",
-      "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
-      "title_en": "Introducing Muse Image and Muse Video， the first media generation models developed by Meta Superinte…",
-      "url": "https://x.com/AIatMeta/status/2074577662840832382",
-      "permalink": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "publishedAt": "2026-07-07T19:33:53.000Z",
-      "summary": "Meta Superintelligence Labs 发布首个媒体生成模型 Muse Image 和 Muse Video。Muse Image 是目前最先进的图像生成模型，能精确遵循指令、精准编辑、多参考构图，并利用 Instagram 社交上下文。它还具备智能体工具使用能力并集成 Muse Spark。用户可通过 Meta AI 应用、网页、Instagram Stories 和 WhatsApp 试用，初始限于部分国家。Muse Video 基于相同预训练基础，实现高视觉保真度并原生支持音频。",
-      "category": "ai-models",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz"
-      }
-    },
-    {
-      "id": "cmrb0u6pv02qtihogovduu795",
-      "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-      "title_en": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
-      "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs",
-      "permalink": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-07T18:35:58.000Z",
-      "summary": "微软正用自研MAI模型替换Copilot产品中的OpenAI和Anthropic模型以降低支出。MAI模型已在Excel和Outlook中每周处理数万次请求，但占比仍小。Build大会上发布推理模型MAI-Thinking 1，声称编码媲美Sonnet 4.6和Opus 4.6，但基准测试大幅落后，仅与DeepSeek V3.2相当。AI负责人承认目标是削减并消除对Anthropic的支出。CEO暗示未来可能按用量计费，MAI为默认，第三方模型付费附加。微软称MAI使用干净商业许可数据，实际基于Common Crawl。",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795"
-      }
     }
   ],
-  "cachedAt": "2026-07-14T06:22:56Z"
+  "cachedAt": "2026-07-14T09:16:00Z"
 }
