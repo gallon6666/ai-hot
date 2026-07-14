@@ -4,6 +4,23 @@
   "nextCursor": "eyJhIjoxNzgzNDY4ODAwMDAwLCJpIjoiY21yY3B4eWFyMDNhMGloeDVoY3hkcno3OCJ9",
   "items": [
     {
+      "id": "cmrkgddme01mnbizsugjsv32k",
+      "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+      "title_en": "http://x.com/i/article/2076946210397552640",
+      "url": "https://x.com/demishassabis/status/2076957440109625718",
+      "permalink": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "publishedAt": "2026-07-14T09:10:16.000Z",
+      "summary": "Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数年即可实现，其影响将达工业革命的10倍且速度更快。他指出，前沿模型在网络安全、核与生物风险方面已构成挑战，未来需对日益智能体化、递归自我改进的系统建立稳健防护。Hassabis 呼吁美国率先建立类似 FINRA 的前沿AI标准机构，采用联邦监督下的公私合作或自律组织模式，由独立技术专家和开源代表组成董事会，资金主要来自行业以吸引顶尖人才和算力。他强调，当前商业与地缘竞赛导致技术进步快于理解，需以谨慎乐观态度推进公共政策，兼顾创新与安全。",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k"
+      }
+    },
+    {
       "id": "cmrkfkw2x01hnbizsa1eat1ib",
       "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
       "title_en": "实测LibTV Agent，把100个AI视频工作流重组成Skills后我创意自由了",
@@ -35,23 +52,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrkf8gun01a4bizsthjytx6c"
-      }
-    },
-    {
-      "id": "cmrkfkwum01hvbizs4ggn4u38",
-      "title": "腾讯混元发布 Hy3 模型 1-bit/4-bit 量化版，单 GPU 可运行",
-      "title_en": "We've just released the 1-bit & 4-bit version of Hy3， a flagship-scale 295B model that can be served…",
-      "url": "https://x.com/TencentHunyuan/status/2076953120765280284",
-      "permalink": "https://aihot.virxact.com/items/cmrkfkwum01hvbizs4ggn4u38",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "publishedAt": "2026-07-14T08:53:06.000Z",
-      "summary": "腾讯混元发布旗舰级 295B MoE 模型 Hy3 的 1-bit 与 4-bit 量化版本。Hy3 在同类规模中表现最佳，可媲美万亿参数级旗舰模型，适用于多数智能体场景。量化版可通过 llama.cpp 运行并启用 MTP，大幅降低硬件门槛，实现单 GPU 部署。模型采用 Apache 2.0 开源协议，支持商用，并提供 2 周免费 API（通过 OpenRouter）。",
-      "category": "ai-models",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrkfkwum01hvbizs4ggn4u38"
       }
     },
     {
@@ -1704,5 +1704,5 @@
       }
     }
   ],
-  "cachedAt": "2026-07-14T09:16:00Z"
+  "cachedAt": "2026-07-14T10:56:33Z"
 }
