@@ -4,6 +4,23 @@
   "nextCursor": "eyJhIjoxNzgzNDY4ODAwMDAwLCJpIjoiY21yY3B4eWFyMDNhMGloeDVoY3hkcno3OCJ9",
   "items": [
     {
+      "id": "cmrko155e005ubixirangezv8",
+      "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+      "title_en": "How Canada uses Claude： Findings from the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "permalink": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-07-14T13:06:56.913Z",
+      "summary": "基于2026年2月Claude.ai对话样本，加拿大占全球流量的2.6%，人均使用量是预期的4.4倍，在总使用量前十国家中仅次于美国。加拿大内部采用率高度集中：安大略省占43.9%对话，不列颠哥伦比亚省人均使用量达预期的1.4倍，而纽芬兰与拉布拉多省仅为0.2倍。省级人均使用量与收入无关，而与专业、科学和技术服务业的就业占比高度相关。各省使用场景稳定：工作占34-40%，课程作业占13-18%，个人用途占44-51%。翻译请求与公共管理就业份额正相关，反映加拿大联邦双语政策；文档翻译是加拿大相对于其他英语国家最独特的使用场景。加拿大整体使用偏向学术和早期职业场景。",
+      "category": "paper",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8"
+      }
+    },
+    {
       "id": "cmrkgddme01mnbizsugjsv32k",
       "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
       "title_en": "http://x.com/i/article/2076946210397552640",
@@ -1534,23 +1551,6 @@
       }
     },
     {
-      "id": "cmrbspnw906wlihl1bo8bu63i",
-      "title": "OpenAI GPT-5.6 周四发布，此前因美国政府强制延迟",
-      "title_en": "OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government",
-      "url": "https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government",
-      "permalink": "https://aihot.virxact.com/items/cmrbspnw906wlihl1bo8bu63i",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-08T08:00:30.000Z",
-      "summary": "OpenAI GPT-5.6 模型于周四发布。该模型6月底亮相，最初因美国政府限制仅向部分合作伙伴提供，商务部在AI标准与创新中心完成额外测试后批准公开。OpenAI公开批评延迟，称将最佳工具与开发者及企业隔离。新模型Sol在TerminalBench 2.1得分88.8%，Sol Ultra达91.9%，高于Anthropic的Claude Mythos 5（88%）。在网络安全任务中，Sol与Mythos 5水平相当但仅用三分之一的token。Sol定价$5/$30每百万输入/输出token，Anthropic的Fable 5为$10/$50。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrbspnw906wlihl1bo8bu63i"
-      }
-    },
-    {
       "id": "cmrbqwsid06g2ihl1iiwufnz5",
       "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
       "title_en": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
@@ -1704,5 +1704,5 @@
       }
     }
   ],
-  "cachedAt": "2026-07-14T12:38:48Z"
+  "cachedAt": "2026-07-14T15:02:18Z"
 }
