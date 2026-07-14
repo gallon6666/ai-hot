@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNDkwNzMyMDAwLCJpIjoiY21yYm9jaTIxMDVyM2lobDF6bWk2d2dwZiJ9",
+  "nextCursor": "eyJhIjoxNzgzNDk0MDUxMDAwLCJpIjoiY21yYnF3c2lkMDZnMmlobDFpaXd1Zm56NSJ9",
   "items": [
+    {
+      "id": "cmrl2m4yg00awbicqo2arojvd",
+      "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
+      "title_en": "Bonsai 27B：首款可在手机上运行的27B级模型",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "permalink": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-14T19:51:19.560Z",
+      "summary": "Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线 95% 的性能，1-bit 变体保留 90%，数学和编码能力几乎无损。采用 Apache 2.0 许可证开源。",
+      "category": "ai-models",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd"
+      }
+    },
     {
       "id": "cmrkzr5aw004ubinxdglyy7rn",
       "title": "Google 因 AI 训练再遭出版商集体诉讼",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrbqwsid06g2ihl1iiwufnz5"
       }
-    },
-    {
-      "id": "cmrboci2105r3ihl1zmi6wgpf",
-      "title": "工信部发布Claude Code后门安全风险提示",
-      "title_en": "愈演愈烈了 中国工信部发布关于防范Claude Code安全后门隐患的风险提示 公告称：Claude Code2.1.91至2.1.196版本内置了监控机制，未经用户同意即可向远程服务器回传用户地…",
-      "url": "https://x.com/xiaohu/status/2074736623284256881",
-      "permalink": "https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf",
-      "source": "X：小互 (@xiaohu)",
-      "publishedAt": "2026-07-08T06:05:32.000Z",
-      "summary": "中国工信部发布风险提示，指出 Claude Code 2.1.91 至 2.1.196 版本内置监控机制，未经用户同意即向远程服务器回传用户地域、身份标识等敏感信息。建议相关单位立即全面排查，对受影响版本卸载或升级至已清除后门代码的最新安全版本，并加强开发工具外联权限管控与流量监测，防止敏感数据违规外传。",
-      "category": "industry",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf"
-      }
     }
   ],
-  "cachedAt": "2026-07-14T19:44:24Z"
+  "cachedAt": "2026-07-14T21:13:41Z"
 }
