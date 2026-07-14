@@ -1,8 +1,59 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNDY4ODAwMDAwLCJpIjoiY21yY3B4eWFyMDNhMGloeDVoY3hkcno3OCJ9",
+  "nextCursor": "eyJhIjoxNzgzNDc5ODAyMDAwLCJpIjoiY21yYmlrd2J6MDRiNWlobDE2cWZwNW50dyJ9",
   "items": [
+    {
+      "id": "cmrktb1e1012vbi5qxknvxyxp",
+      "title": "纽约州暂停所有新建大型数据中心项目",
+      "title_en": "New York State halts construction of all new data centers",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+      "permalink": "https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-14T15:17:59.000Z",
+      "summary": "纽约州成为全美首个暂停数据中心建设的州。州长Kathy Hochul签署行政令，暂时禁止州政府批准50兆瓦及以上大型数据中心的新建许可，可能影响十余个项目。Hochul表示数据中心不应带来更高的电费、水资源消耗或噪音污染，且不能豁免地方区划和审批。禁令将在州政府完成数据中心环境审查流程后解除，预计耗时约一年。Hochul还考虑要求数据中心为州电网提供资金支持，并阻止超大规模数据中心享受税收优惠。此举正值纽约州立法机构推进更严格措施之际，上月一项法案已推进暂停20兆瓦以上数据中心建设一年。",
+      "category": "industry",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp"
+      }
+    },
+    {
+      "id": "cmrkta2fv011vbi5qe7hdwh0s",
+      "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+      "title_en": "http://x.com/i/article/2067347903761485824",
+      "url": "https://x.com/googleaidevs/status/2077049898059354565",
+      "permalink": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
+      "source": "X：Google AI for Developers (@googleaidevs)",
+      "publishedAt": "2026-07-14T15:17:40.000Z",
+      "summary": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言、近实时延迟的语音到语音翻译。该模型直接处理原始音频流，保留说话者语调、节奏和音高。东南亚超级应用 Grab 正探索将其用于司机与乘客间的跨语言沟通，其用户每月发起超 1000 万次语音通话。开发者可通过 Gemini Live API 集成 LiveKit、Fishjam、Pipecat 或 Vision Agents 构建应用。LiveKit 已实现虚拟会议室多语言即时理解；Software Mansion 结合 MoQ 协议突破流媒体瓶颈；VisionAgents AI 展示了动态多语言切换能力。开发者可在 Google AI Studio 试用并获取 Cookbook 示例代码。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s"
+      }
+    },
+    {
+      "id": "cmrksgyym00utbi5qx5x6v42u",
+      "title": "Anthropic 推出 Claude for Teachers",
+      "title_en": "Introducing Claude for Teachers",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "permalink": "https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-07-14T15:11:11.440Z",
+      "summary": "Anthropic 发布 Claude for Teachers，为美国认证的 K-12 教师免费提供高级 Claude 功能、教学技能库及对接全美 50 州学术标准的课程资源。该工具连接 Learning Commons，可调用 OpenSciEd、IM v.360 等课程资源，并集成 ASSISTments、Brisk Teaching、Canva Education 等第三方工具。教师可基于高质量教材规划课程、为不同水平学生差异化教学，还能通过 Claude Code 和 Cowork 自动分析班级数据、安排重复任务。教师数据不用于模型训练，学生信息受 FERPA 合规的 K-12 数据处理附录保护。Anthropic 同时发布与 Teach for America 及美国教师联合会共创的 AI 素养课程。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u"
+      }
+    },
     {
       "id": "cmrko155e005ubixirangezv8",
       "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
@@ -205,6 +256,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged"
+      }
+    },
+    {
+      "id": "cmrkswubg00wabi5qrgj8jc2l",
+      "title": "小米发布Xiaomi-Robotics-U0：380亿参数多模态自回归模型统一具身合成",
+      "title_en": "Xiaomi-Robotics-U0： Unified Embodied Synthesis with World Foundation Model",
+      "url": "https://arxiv.org/abs/2607.11643",
+      "permalink": "https://aihot.virxact.com/items/cmrkswubg00wabi5qrgj8jc2l",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-13T14:57:58.000Z",
+      "summary": "小米推出Xiaomi-Robotics-U0，一个380亿参数的多模态自回归模型，用于统一具身合成。该模型将具身生成视为基础图像与视频生成的延伸，联合优化文生图、图像编辑、具身场景生成、具身迁移及具身视频生成。它是首个支持跨多种机器人形态的高质量多视角场景生成模型，并引入结构化可控具身迁移。该模型在单步与序列生成任务上达到SOTA，在具身场景生成与迁移的人类评估中超越GPT-Image-2.0，在World Arena具身视频生成排名第一，并将pi_0.5在真实世界操控任务上的分布外成功率从36.9%提升至63.2%。代码与检查点已开源。",
+      "category": "paper",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrkswubg00wabi5qrgj8jc2l"
       }
     },
     {
@@ -1634,75 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrbikwbz04b5ihl16qfp5ntw"
       }
-    },
-    {
-      "id": "cmrbez8y903b9ihl133b5wr18",
-      "title": "Pulpie：用于清理网络的Pareto最优模型",
-      "title_en": "Show HN： Pulpie--用于清理网络的模型",
-      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web",
-      "permalink": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-08T01:33:24.910Z",
-      "summary": "Pulpie是一族Pareto最优模型，用于从HTML页面提取主要内容。其最小模型pulpie-orange-small（210M参数）在WebMainBench上取得0.862的ROUGE-5 F1分数，接近600M参数的Dripper（0.864），但成本仅1/20。在NVIDIA L4 GPU上，Pulpie处理速度13.7页/秒，Dripper仅0.68页/秒。清理10亿页HTML，Pulpie成本约$7，900，Dripper需$159，000。模型采用编码器架构，单次前向传播即可标记每个HTML块为内容或模板，已在HuggingFace开源。",
-      "category": "ai-models",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18"
-      }
-    },
-    {
-      "id": "cmrbdsefa02yjihl17gg7mhx3",
-      "title": "蚂蚁集团周俊AICon演讲：从Token数量到Token密度，万亿参数模型效率优先",
-      "title_en": "演讲实录 | 从 Token 数量到 Token 密度：万亿参数规模下的高效智能体智能",
-      "url": "https://mp.weixin.qq.com/s/dsIfi4C-T5Q4emmIh-7yzg",
-      "permalink": "https://aihot.virxact.com/items/cmrbdsefa02yjihl17gg7mhx3",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "publishedAt": "2026-07-08T01:00:00.000Z",
-      "summary": "蚂蚁集团副总裁周俊在AICon演讲指出，万亿参数模型每运行15分钟算力成本约等于一辆特斯拉，效率是智能体时代最需解决的问题。团队提出从\"更多Token\"转向\"更高Token密度\"策略，采用7份Lightning Attention加1份MLA的混合线性注意力架构，使256K长上下文成本从指数级降至线性级，算力更多用于思考。通过Kpop算法区分工具调用与自然语言Token，结合思维链剪枝、自蒸馏等，Token输出减少约4倍而能力不降。在LongBench、BFCL等基准上提升显著，千亿参数模型在Agent任务中超越部分更大模型；小模型flash吞吐达2.4倍，五轮对话成本下降10倍以上。",
-      "category": "tip",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrbdsefa02yjihl17gg7mhx3"
-      }
-    },
-    {
-      "id": "cmrbc048n02j2ihl1all0ymge",
-      "title": "《人生设计课》Prompt实测：用Claude设计人生的四个阶段",
-      "title_en": "我把斯坦福最火的一门课，做成了Prompt来帮我设计人生。",
-      "url": "https://mp.weixin.qq.com/s/VDlBdkspV0SQNFJYLxOogQ",
-      "permalink": "https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-08T00:12:06.000Z",
-      "summary": "作者将斯坦福《人生设计课》理论体系制成Prompt，通过Claude逐步提问、追问和分析。Prompt融合设计思维、心流理论和积极心理学，分为看清现状、找到指南针、寻路、制定奥德赛计划四阶段，主线问题控制在6到9个。AI引导用户给健康、工作、娱乐、爱打分，区分重力问题与可设计的真问题，生成三个五年人生版本，最终输出8000至12000字的《个人人生设计蓝图》。作者实测效果超预期。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrbc048n02j2ihl1all0ymge"
-      }
-    },
-    {
-      "id": "cmrcpxyar03a0ihx5hcxdrz78",
-      "title": "AI预检检查：智能体工作记忆架构",
-      "title_en": "The AI Preflight Check",
-      "url": "https://www.tomtunguz.com/the-ai-preflight-check",
-      "permalink": "https://aihot.virxact.com/items/cmrcpxyar03a0ihx5hcxdrz78",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-07-08T00:00:00.000Z",
-      "summary": "一种为AI智能体设计的预检工作记忆架构：查询到来时，系统从磁盘上约90个索引化的技能库中检索最相关技能，仅加载到上下文窗口。本地开源模型Ornith 35B（350亿参数，通过Ollama在Apple Silicon上运行）执行任务，约80%常规任务由本地模型完成，困难任务路由至前沿模型。看门狗记录每次预检决策和技能调用，夜间通过异步推理处理全天轨迹，自动决定哪些技能需新增或固化（如日历排期转为确定性Rust代码），实现自我改进循环。昨天，看门狗首次未提出任何改进建议，系统或接近性能平台期。",
-      "category": "tip",
-      "score": 57,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcpxyar03a0ihx5hcxdrz78"
-      }
     }
   ],
-  "cachedAt": "2026-07-14T15:02:18Z"
+  "cachedAt": "2026-07-14T16:37:36Z"
 }
