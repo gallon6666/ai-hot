@@ -1,5 +1,5 @@
 {
-  "count": 99,
+  "count": 97,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1651,41 +1651,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrdm3exj052mih4bnm4k525b"
       }
-    },
-    {
-      "id": "cmrcp5by2031uihx57fypdkfo",
-      "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
-      "title_en": "利润超 10 亿美元、ARR 剑指千亿，Anthropic 抢先 OpenAI 冲击 IPO",
-      "url": "https://www.ithome.com/0/974/275.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrcp5by2031uihx57fypdkfo",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-08T22:30:38.000Z",
-      "summary": "Anthropic今年第三季度利润预计超10亿美元，已于6月1日秘密提交IPO申请，若成功将成为规模最大AI实验室IPO。其与OpenAI的年度经常性收入合计接近1000亿美元。凭借Claude Code在软件开发领域的快速普及，Anthropic在2026年实现AI模型盈利变现，成为B2B市场领跑者。SemiAnalysis报告认为其商业模式优越，若持续良好执行，市值可能触及6万亿美元。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcp5by2031uihx57fypdkfo"
-      }
-    },
-    {
-      "id": "cmrcn8mlw02k5ihx5risshcr3",
-      "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
-      "title_en": "Seedream 5.0 Pro is now in Runway. Generate highly detailed images from a prompt or reference， with …",
-      "url": "https://x.com/runwayml/status/2074982268175630814",
-      "permalink": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-07-08T22:21:38.000Z",
-      "summary": "Seedream 5.0 Pro 现已登陆 Runway。可通过提示词或参考图生成高细节图像，图像内文字清晰可读，支持多达14种语言。立即点击下方链接尝试。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcn8mlw02k5ihx5risshcr3"
-      }
     }
   ],
-  "cachedAt": "2026-07-15T22:12:17Z"
+  "cachedAt": "2026-07-15T23:11:12Z"
 }
