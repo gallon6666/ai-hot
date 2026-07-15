@@ -1,25 +1,8 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNTQwNTk3MDAwLCJpIjoiY21yY2l0MmJnMDFmOWloeDVjcHMwMjZzOCJ9",
+  "nextCursor": "eyJhIjoxNzgzNTI2NDAwMDAwLCJpIjoiY21yZTZ3c3ZhMDBsemloeXltNDd3cDk4YiJ9",
   "items": [
-    {
-      "id": "cmrm0hy3001yybi5k199al03v",
-      "title": "阿里千问将集成至苹果智能，服务中国用户",
-      "title_en": "【独家|阿里千问将作为AI能力集成至苹果智能】 《科创板日报》15日讯，《科创板日报》独家获悉，阿里千问将作为AI能力集成至Apple智能，为 iOS、iPadOS、macOS和visionOS的中…",
-      "url": "https://x.com/berryxia/status/2077357348293939259",
-      "permalink": "https://aihot.virxact.com/items/cmrm0hy3001yybi5k199al03v",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-15T11:39:21.000Z",
-      "summary": "阿里千问将作为AI能力集成至Apple智能，为iOS、iPadOS、macOS和visionOS的中国用户提供文本与图像理解、内容生成等功能，用户无需在应用间切换即可使用。网信办同日发布7款手机端侧生成式AI服务备案信息，包括苹果智能、华为小艺大模型、OPPO AndesGPT大模型等。",
-      "category": "industry",
-      "score": 84,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrm0hy3001yybi5k199al03v"
-      }
-    },
     {
       "id": "cmrlz5b6r01kabi5ksc1pj878",
       "title": "阿里Qwen将集成至Apple Intelligence服务中国用户",
@@ -1702,7 +1685,24 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrcit2bg01f9ihx5cps026s8"
       }
+    },
+    {
+      "id": "cmre6wsva00lzihyym47wp98b",
+      "title": "Google Research 推出 SensorFM：面向可穿戴健康数据的通用基础模型",
+      "title_en": "SensorFM： Towards a general intelligence and interface for wearable health data",
+      "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+      "permalink": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b",
+      "source": "Google Research：Blog（网页）",
+      "publishedAt": "2026-07-08T16:00:00.000Z",
+      "summary": "Google Research 发布 SensorFM，一个在超过 100 万亿分钟多模态传感器数据上预训练的大规模基础模型，数据来自 500 万同意参与者，涵盖 100 多个国家及 20 余款 Fitbit 和 Pixel Watch 设备。SensorFM 学习通用的人体生理表征，可迁移至心血管、代谢、睡眠、心理健康及生活方式等 35 项健康预测任务，支持标签高效适配与数据填充，并可作为个人健康智能体的基础工具。该模型旨在解决传统可穿戴健康模型针对单一终点、难以泛化的问题。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmre6wsva00lzihyym47wp98b"
+      }
     }
   ],
-  "cachedAt": "2026-07-15T11:46:55Z"
+  "cachedAt": "2026-07-15T14:07:18Z"
 }
