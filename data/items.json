@@ -1,8 +1,76 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNTEyNDk4MDAwLCJpIjoiY21yYzFpeWdqMDB0d2loeWZlMWhrdnljdiJ9",
+  "nextCursor": "eyJhIjoxNzgzNTIyODQ3MDAwLCJpIjoiY21yYzhjZmhjMDBqZWlocWMwcjV3eDZxeiJ9",
   "items": [
+    {
+      "id": "cmrlh3k0009h8bi2bwjpgkauw",
+      "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
+      "title_en": "Qwen-Audio-3.0-Realtime 如何让语音交互\"懂倾听，更聪明\"？",
+      "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
+      "permalink": "https://aihot.virxact.com/items/cmrlh3k0009h8bi2bwjpgkauw",
+      "source": "公众号：通义实验室（千问）",
+      "publishedAt": "2026-07-15T02:30:26.000Z",
+      "summary": "阿里通义实验室发布实时语音交互模型 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 的 Speech Reasoning 子项中综合排名第一，超越 OpenAI GPT-Realtime-2。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrlh3k0009h8bi2bwjpgkauw"
+      }
+    },
+    {
+      "id": "cmrlh600d09kzbi2bnol6i2xu",
+      "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
+      "title_en": "刚演示完帮我刷 TikTok，转头就跑通了星巴克点单，AI真的无感的刚我点好了一杯美式，感觉Airtap 这步迈得比预想的狠啊。 你不用装 TikTok，也不用装星巴克 App，甚至不用开任何新软件…",
+      "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
+      "permalink": "https://aihot.virxact.com/items/cmrlh600d09kzbi2bnol6i2xu",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-15T02:22:50.000Z",
+      "summary": "Airtap 推出 iMessage 新功能，用户只需给美国号码发一条 iMessage，其云手机上的 AI Agent 就能通过视觉模拟点击，替用户完成 TikTok 刷视频、星巴克点单等操作，无需安装对应 App。其架构分为三层：大脑（理解指令）、AutoPilot（视觉操控屏幕）、云手机（24小时在线）。但支付等敏感操作仍需用户手动完成，信任与授权仍是所有 Agent 厂商的难题。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrlh600d09kzbi2bnol6i2xu"
+      }
+    },
+    {
+      "id": "cmrlg0ucc080qbi2bb8hn7nj3",
+      "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
+      "title_en": "开源TODO Skill，我这三年用AI做知识管理和代办的经验都在这了",
+      "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
+      "permalink": "https://aihot.virxact.com/items/cmrlg0ucc080qbi2bb8hn7nj3",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-07-15T01:52:00.000Z",
+      "summary": "作者基于 API 版 Fable5 和 Codex 开发了开源 TODO Skill\"阿福\"，用于将收件箱中的待办资料自动转为 Markdown 任务卡，识别信息不完整项（如视频链接需通过 yt-dlp 和本地 Whisper 提取字幕），并支持批量排期、AI 分组合并、拖拽调整周视图及同步到 Mac 日历或飞书日历。项目已开源在 GitHub，安装仅需一条命令。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrlg0ucc080qbi2bb8hn7nj3"
+      }
+    },
+    {
+      "id": "cmrlbqrmp02hubi2bvj72j1hx",
+      "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
+      "title_en": "平均每天Vibe Coding 16小时后，这是我觉得Fable 5和GPT-5.6时代最好用的AI开发流程。",
+      "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
+      "permalink": "https://aihot.virxact.com/items/cmrlbqrmp02hubi2bvj72j1hx",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-07-15T00:02:00.000Z",
+      "summary": "作者每天Vibe Coding约16小时，认为Claude Fable 5在大型方案初版设计上\"当世独一档\"，GPT-5.6 Sol能有效纠错并优化方案。核心流程为：Fable 5出方案初版 → GPT-5.6 Sol审查纠错 → 在Codex中开启\"目标模式\"全自动化执行，最长曾连续运行17小时。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrlbqrmp02hubi2bvj72j1hx"
+      }
+    },
     {
       "id": "cmrl9plh50014bi2b56tar61d",
       "title": "Codex 周活超700万，两月更新150+项",
@@ -1634,75 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrc8cfhc00jeihqc0r5wx6qz"
       }
-    },
-    {
-      "id": "cmrc8c7rq00imihqcg5rp1u13",
-      "title": "OpenRouter聊天室推出一键零数据保留",
-      "title_en": "New： one-click ZDR （zero-data retention） in the Chatroom Compare models side-by-side with full priv…",
-      "url": "https://x.com/OpenRouter/status/2074870468394250461",
-      "permalink": "https://aihot.virxact.com/items/cmrc8c7rq00imihqcg5rp1u13",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-07-08T14:57:23.000Z",
-      "summary": "新功能：聊天室一键ZDR（零数据保留）\n在完全隐私保护下横向对比模型：https://openrouter.ai/chat",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc8c7rq00imihqcg5rp1u13"
-      }
-    },
-    {
-      "id": "cmrcjj0xz01mqihx5zwai9t6j",
-      "title": "OpenAI发布政府与国家安全合作伙伴关系方针",
-      "title_en": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "permalink": "https://aihot.virxact.com/items/cmrcjj0xz01mqihx5zwai9t6j",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-08T13:30:00.000Z",
-      "summary": "OpenAI近日公布国家安全原则，阐明在政府及国家安全领域部署前沿AI系统的方针。原则强调在保护公民、防御关键基础设施、提供公共服务及应对新兴威胁（网络防御和生物安全）中发挥AI优势，同时确保民主问责、人类判断和法治。过去一个月，OpenAI通过Daybreak网络防御计划与澳大利亚、加拿大、日本、韩国、法国、德国、波兰、荷兰及欧盟ENISA等机构建立网络安全信任访问合作，并与英国政府开展网络安全测试评估。上月，OpenAI向部分美国政府及盟友合作伙伴开放GPT-Rosalind模型用于公共卫生和生物防御。原则适用于现有及未来合作，包括与Department of War的协议，明确禁止大规模国内监控、自主武器系统及高风险自动化决策。OpenAI支持立法对高风险军事用途（如国内监控、自主武器）建立保障措施。",
-      "category": "industry",
-      "score": 58,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcjj0xz01mqihx5zwai9t6j"
-      }
-    },
-    {
-      "id": "cmrcigf5k01bqihx54i8oph9u",
-      "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
-      "title_en": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "permalink": "https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-08T13:00:00.000Z",
-      "summary": "OpenAI 对编码评测基准 SWE-Bench Pro 进行详细审计，发现约 30% 的任务存在缺陷。在 731 个任务的公开子集中，前沿模型通过率在八个月内从 23.3% 提升至 80.3%，但数据质量检查显示大量任务存在测试过于严格、提示词描述不足、测试覆盖不全或误导性提示等问题。OpenAI 建议模型开发者仔细审视评测结果，并指出 AI 智能体在规模化数据质量检查中日益增长的实用性。",
-      "category": "paper",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrcigf5k01bqihx54i8oph9u"
-      }
-    },
-    {
-      "id": "cmrc1iygj00twihyfe1hkvycv",
-      "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-      "title_en": "现在的年轻小伙子一个比一个生猛啊！ 执行力和学习能力真的是拉满~ Kunkun 还是一位在校读研的学生！ 分享了自己管理大量互相调用的Skill的实用方法，已经开源在GitHub。 他建了一个H…",
-      "url": "https://x.com/berryxia/status/2074827915779580055",
-      "permalink": "https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv",
-      "source": "X：Berry Xia (@berryxia)",
-      "publishedAt": "2026-07-08T12:08:18.000Z",
-      "summary": "在校研究生Kunkun开源了一套管理大量互相调用Skill的方法。核心方案包括：1）搭建HTML后台，按运行模式（手动/自动）、链路位置、专业领域三类标签筛选Skill；2）将连环调用的Skill绘制成Mermaid流程图，根据debug、新功能、合PR、改设计等阶段定位对应技能组；3）仿照Matt的ask Matt技能开发\"ask me\"技能，将调用决策浓缩成上下文喂给模型。该方法避免将所有调用交给模型自行判断，保持工程复杂场景下的人机对齐与可控性。项目已开源至GitHub。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc1iygj00twihyfe1hkvycv"
-      }
     }
   ],
-  "cachedAt": "2026-07-15T00:03:39Z"
+  "cachedAt": "2026-07-15T03:31:27Z"
 }
