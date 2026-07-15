@@ -1,8 +1,42 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNTI1MzYwMDAwLCJpIjoiY21yYzllczl5MDBycGlocWNreGR5bnlqaCJ9",
+  "nextCursor": "eyJhIjoxNzgzNTI2NDAwMDAwLCJpIjoiY21yZHNsd212MDZ0Y2loNGJ6cDVsN2l2eSJ9",
   "items": [
+    {
+      "id": "cmrltzprt0013bi5ku0th9q9q",
+      "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+      "title_en": "国行苹果 AI 功能完成备案，消息称阿里千问将作为 AI 能力集成至\"Apple 智能\"",
+      "url": "https://www.ithome.com/0/977/109.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrltzprt0013bi5ku0th9q9q",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-15T08:41:23.000Z",
+      "summary": "苹果技术开发（上海）有限公司的\"Apple 智能\"大模型已于 2026 年 7 月 8 日完成备案，适用场景为苹果手机。阿里千问将作为 AI 能力集成至 Apple 智能，为 iOS、iPadOS、macOS 和 visionOS 的中国用户提供文本与图像理解、内容生成等功能，用户无需在应用间切换即可直接体验。",
+      "category": "industry",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrltzprt0013bi5ku0th9q9q"
+      }
+    },
+    {
+      "id": "cmrltzprt0014bi5k7mp2uwpy",
+      "title": "金山办公推出 WPS Comate AI 办公客户端",
+      "title_en": "金山办公推出 WPS Comate AI 办公客户端，支持 Skill 技能生态、自动化任务、Wiki 知识库等",
+      "url": "https://www.ithome.com/0/977/105.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrltzprt0014bi5k7mp2uwpy",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-15T08:39:58.000Z",
+      "summary": "金山办公在2026 AI生产力大会上推出面向员工的AI办公客户端WPS Comate，可连接组织数据与流程。该产品提供AI岗位专家、Skill技能生态、自动化任务等六大模块，并支持云端与本地双任务模式，个人用户可直接下载体验。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrltzprt0014bi5k7mp2uwpy"
+      }
+    },
     {
       "id": "cmrljx6d90bx6bi2bpkubslio",
       "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
@@ -1668,41 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrdslwmv06tcih4bzp5l7ivy"
       }
-    },
-    {
-      "id": "cmrdqgmkj067pih4b2dbg61ml",
-      "title": "Anthropic长期利益信托任命本·伯南克为受托人",
-      "title_en": "Ben Bernanke appointed to Anthropic's Long-Term Benefit Trust",
-      "url": "https://www.anthropic.com/news/ben-bernanke",
-      "permalink": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-07-08T16:00:00.000Z",
-      "summary": "Anthropic的长期利益信托（LTBT）任命前美联储主席、2022年诺贝尔经济学奖得主本·伯南克为最新受托人。他将与另外三位受托人共同监督公司以对社会长期有益的方式负责任开发先进AI的使命。LTBT独立于管理团队和投资者，受托人不持股、不分红，仅按服务时间获酬。该信托有权向Anthropic董事会任命成员，并就AI风险与社会影响等关键决策提供建议。伯南克将参与公司的经济研究，帮助理解AI对全球劳动力与经济的影响。",
-      "category": "industry",
-      "score": 56,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrdqgmkj067pih4b2dbg61ml"
-      }
-    },
-    {
-      "id": "cmrc9es9y00rpihqckxdynyjh",
-      "title": "OpenRouter 自动升级至 Grok 4.5",
-      "title_en": "Use Grok 4.5 from @SpaceXAI the moment it goes live， with no code change. ~x-ai/grok-latest always …",
-      "url": "https://x.com/OpenRouter/status/2074881863030812832",
-      "permalink": "https://aihot.virxact.com/items/cmrc9es9y00rpihqckxdynyjh",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-07-08T15:42:40.000Z",
-      "summary": "使用来自 @SpaceXAI 的 Grok 4.5，一旦它上线，无需更改代码。\n\n~x-ai/grok-latest 始终路由到最新的 Grok。现在指向它（今天为 Grok 4.3），当 4.5 发布时它会自动升级到 4.5。\n\n尝试：https://openrouter.ai/~x-ai/grok-latest",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc9es9y00rpihqckxdynyjh"
-      }
     }
   ],
-  "cachedAt": "2026-07-15T06:26:46Z"
+  "cachedAt": "2026-07-15T09:20:30Z"
 }
