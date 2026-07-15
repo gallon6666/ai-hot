@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNTIyODQ3MDAwLCJpIjoiY21yYzhjZmhjMDBqZWlocWMwcjV3eDZxeiJ9",
+  "nextCursor": "eyJhIjoxNzgzNTI1MzYwMDAwLCJpIjoiY21yYzllczl5MDBycGlocWNreGR5bnlqaCJ9",
   "items": [
+    {
+      "id": "cmrljx6d90bx6bi2bpkubslio",
+      "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
+      "title_en": "数据中心已使公众的电费增加了230亿美元",
+      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+      "permalink": "https://aihot.virxact.com/items/cmrljx6d90bx6bi2bpkubslio",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-15T03:51:16.524Z",
+      "summary": "数据中心对电力的需求已导致美国公众电费增加230亿美元，这一涨价将持续至2028年底。由于电价由州公用事业委员会根据复杂的成本分摊规则设定，数据中心可利用其用电灵活性（如避开系统峰值负荷）规避部分成本分摊，而普通居民难以效仿。监管机构正面临如何公平分配电网基础设施投资成本的挑战。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrljx6d90bx6bi2bpkubslio"
+      }
+    },
     {
       "id": "cmrlh3k0009h8bi2bwjpgkauw",
       "title": "阿里发布 Qwen-Audio-3.0-Realtime，在 Artificial Analysis 语音推理子项中综合排名第一",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrc9es9y00rpihqckxdynyjh"
       }
-    },
-    {
-      "id": "cmrc8cfhc00jeihqc0r5wx6qz",
-      "title": "Replit 推出社区档案与力量排名",
-      "title_en": "New this week 🚀 Replit Community Profiles - Proof of Work for vibe coders. Your profile， your flex…",
-      "url": "https://x.com/Replit/status/2074871322220339515",
-      "permalink": "https://aihot.virxact.com/items/cmrc8cfhc00jeihqc0r5wx6qz",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-07-08T15:00:47.000Z",
-      "summary": "本周新功能 🚀 Replit 社区档案--vibe coders 的工作证明。\n\n你的档案，你的展示。获取你的智能体使用和检查点的活跃度图表，外加面向专业用户的 Replit 力量排名。\n\n登录，认领你的档案，挑选你最棒的项目，与朋友分享你的数据。\n\n立即查看 → http://replit.com/community",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrc8cfhc00jeihqc0r5wx6qz"
-      }
     }
   ],
-  "cachedAt": "2026-07-15T03:31:27Z"
+  "cachedAt": "2026-07-15T06:26:46Z"
 }
