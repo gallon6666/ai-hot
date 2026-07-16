@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNjY3Njc5MDAwLCJpIjoiY21yZW1hMmI0MDIyYmloY2xlYW93NGo4diJ9",
+  "nextCursor": "eyJhIjoxNzgzNjY4MDQ2MDAwLCJpIjoiY21yZW1laGJ4MDI0NmloY2xvdGhhejFrbSJ9",
   "items": [
+    {
+      "id": "cmrnz309k00f0biq1v5egac59",
+      "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
+      "title_en": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
+      "permalink": "https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-07-16T20:26:23.000Z",
+      "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
+      "category": "industry",
+      "score": 87,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59"
+      }
+    },
     {
       "id": "cmrnvwztt01bebixyznbje716",
       "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km"
       }
-    },
-    {
-      "id": "cmrema2b4022bihcleaow4j8v",
-      "title": "Elon Musk 转发用户称赞 Grok Build 的反馈",
-      "title_en": "Grok Build gets better every day and we love hearing user feedback for improvements",
-      "url": "https://x.com/elonmusk/status/2075478792273842370",
-      "permalink": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-07-10T07:14:39.000Z",
-      "summary": "Elon Musk 转发用户 @0x0funky 对 Grok Build 的称赞。该用户称 Grok Build 是目前唯一集大成的 coding agentic workflow，内建图像生成和图片生视频功能，生图速度快且品质不输 Codex。Agent 可直接完成图像与视频生成，无需额外串接 MCP 或外部服务。用户结合 Agent Sprite Forge 工具，利用 Grok Build 的视频生成能力，先产出 6 秒角色动作视频再反编译为 game sprite，大幅减少对齐问题，制作 2D 横版游戏耗时不到 30 分钟，而此前用 Codex 需 1-2 小时且品质更优。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v"
-      }
     }
   ],
-  "cachedAt": "2026-07-16T20:10:43Z"
+  "cachedAt": "2026-07-16T21:14:27Z"
 }
