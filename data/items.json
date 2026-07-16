@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNjY4MDQ2MDAwLCJpIjoiY21yZW1laGJ4MDI0NmloY2xvdGhhejFrbSJ9",
+  "nextCursor": "eyJhIjoxNzgzNjY4MzcwMDAwLCJpIjoiY21yZW01MTg0MDF3MmloY2wzdnMzYzE1MiJ9",
   "items": [
+    {
+      "id": "cmro185e3011jbij2ond4t12b",
+      "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
+      "title_en": "Automations in Grok",
+      "url": "https://x.ai/news/grok-automations",
+      "permalink": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-07-16T21:39:40.165Z",
+      "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
+      "category": "ai-products",
+      "score": 85,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b"
+      }
+    },
     {
       "id": "cmrnz309k00f0biq1v5egac59",
       "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152"
       }
-    },
-    {
-      "id": "cmremehbx0246ihclothaz1km",
-      "title": "马斯克承认Anthropic是当前AI领导者",
-      "title_en": "This is Anthropic's strongest flex",
-      "url": "https://x.com/rohanpaul_ai/status/2075480331600417141",
-      "permalink": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-07-10T07:20:46.000Z",
-      "summary": "马斯克在X上发文承认自己此前对Anthropic的判断有误，称其\"显然是当前AI领域的领导者\"。他表示，没有公司发布过像Mythos/Fable这样优秀的模型，并相信Anthropic很快会推出Mythos 2。他还强调，即使作为竞争对手，也不会以伤害对方的方式切断合作，并列举了特斯拉开源专利、开放超级充电网络等先例。该推文被Rohan Paul转发，称这是Anthropic\"最强有力的炫耀\"。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmremehbx0246ihclothaz1km"
-      }
     }
   ],
-  "cachedAt": "2026-07-16T21:14:27Z"
+  "cachedAt": "2026-07-16T22:15:09Z"
 }
