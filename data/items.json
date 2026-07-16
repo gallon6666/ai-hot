@@ -1,8 +1,76 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNjMzNjcwMDAwLCJpIjoiY21yZTF2ZGo2MDBoOWlod2t0MzV5aWIybCJ9",
+  "nextCursor": "eyJhIjoxNzgzNjY3Njc5MDAwLCJpIjoiY21yZW1hMmI0MDIyYmloY2xlYW93NGo4diJ9",
   "items": [
+    {
+      "id": "cmrnvwztt01bebixyznbje716",
+      "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+      "title_en": "PerceptionBench",
+      "url": "https://www.kimi.com/blog/perception-bench",
+      "permalink": "https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716",
+      "source": "Moonshot AI：Kimi Blog",
+      "publishedAt": "2026-07-16T19:11:01.192Z",
+      "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
+      "category": "paper",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716"
+      }
+    },
+    {
+      "id": "cmrnvme99015abixymkemy6lj",
+      "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+      "title_en": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "permalink": "https://aihot.virxact.com/items/cmrnvme99015abixymkemy6lj",
+      "source": "VentureBeat：AI（RSS）",
+      "publishedAt": "2026-07-16T19:02:38.000Z",
+      "summary": "VentureBeat调查107家企业发现，54%已遭遇AI智能体安全事件（18%确认事故，36%险些酿祸）。仅32%为每个智能体分配独立身份凭证，30%将高风险智能体隔离在沙箱中。安全工具主要依赖模型提供商原生方案，专用智能体安全产品渗透率极低。",
+      "category": "industry",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnvme99015abixymkemy6lj"
+      }
+    },
+    {
+      "id": "cmrnvlijq012lbixy2xhlk8k8",
+      "title": "ChatGPT 工作区支持文档表格幻灯片编辑",
+      "title_en": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
+      "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
+      "permalink": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8",
+      "source": "X：ChatGPT (@ChatGPTapp)",
+      "publishedAt": "2026-07-16T18:44:58.000Z",
+      "summary": "在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。\n\n@nickbaumann_ 为你演示操作。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8"
+      }
+    },
+    {
+      "id": "cmrnvq3xd015sbixyztrtb01z",
+      "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+      "title_en": "Decoy 字体",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "permalink": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-16T18:32:23.680Z",
+      "summary": "Decoy Font 是一款 TTF 字体，通过在同一字符中叠加不同空间频率的图形（前景细轮廓与背景低频模糊块），使近距离观看时 AI 读到\"诱饵\"字母，而人眼远距离或眯眼时才能看到真实隐藏信息。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z"
+      }
+    },
     {
       "id": "cmrnse7qy002tbixy7gnolvr3",
       "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
@@ -956,6 +1024,23 @@
       }
     },
     {
+      "id": "cmrnvwztt01bdbixyj6fk8322",
+      "title": "Kimi K3 发布：2.8T 参数开源模型，具备原生视觉与百万 token 上下文窗口",
+      "title_en": "Kimi K3",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "permalink": "https://aihot.virxact.com/items/cmrnvwztt01bdbixyj6fk8322",
+      "source": "Moonshot AI：Kimi Blog",
+      "publishedAt": "2026-07-13T16:00:00.000Z",
+      "summary": "月之暗面发布 Kimi K3，一个 2.8T 参数的开源模型，采用 Kimi Delta Attention 和 Attention Residuals 架构，支持原生视觉能力与 100 万 token 上下文窗口。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnvwztt01bdbixyj6fk8322"
+      }
+    },
+    {
       "id": "cmrkswubg00wabi5qrgj8jc2l",
       "title": "小米发布Xiaomi-Robotics-U0：380亿参数多模态自回归模型统一具身合成",
       "title_en": "Xiaomi-Robotics-U0： Unified Embodied Synthesis with World Foundation Model",
@@ -1617,92 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrema2b4022bihcleaow4j8v"
       }
-    },
-    {
-      "id": "cmreax6su01ozihyy4xtirms5",
-      "title": "Claude Code v2.1.206 发布",
-      "title_en": "v2.1.206",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
-      "permalink": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-07-10T01:45:26.000Z",
-      "summary": "Claude Code v2.1.206 发布，主要更新包括：为 `/cd` 命令添加目录路径建议；新增 `/doctor` 检查以建议修剪 CLAUDE.md 文件中模型可从代码库推导的内容；`/commit-push-pr` 现在自动允许 git push 到仓库配置的推送远程仓库；`/login` 支持 Anthropic 运营的公共网关端点；后台智能体在更新后自动升级。修复了过期登录导致所有模型报错、`claude --resume` 和 `--continue` 在启动时无键盘响应、MCP 服务器忽略 `request_timeout_ms` 配置、OAuth MCP 服务器需手动重新认证、`/model` 选择器价格显示错误、桌面会话卡在\"运行中\"状态、Windows 上键盘输入被忽略等多项问题。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmreax6su01ozihyy4xtirms5"
-      }
-    },
-    {
-      "id": "cmrillgtw009abilk3fe1kk05",
-      "title": "GenCeption：视频生成模型作为通用视觉学习器",
-      "title_en": "Video Generation Models are General-Purpose Vision Learners",
-      "url": "https://arxiv.org/abs/2607.09024",
-      "permalink": "https://aihot.virxact.com/items/cmrillgtw009abilk3fe1kk05",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-10T00:00:00.000Z",
-      "summary": "论文提出 GenCeption，利用预训练文本到视频扩散模型作为前馈感知骨干，通过文本指令驱动完成深度估计、表面法线、相机位姿、指代分割和 3D 关键点预测等多种视觉任务。GenCeption 在多个基准上达到 SOTA，匹配或超越 DepthAnything3、SAM3、D4RT、VGGT-Omega 等专用模型。视频生成预训练骨干在同等设置下优于 V-JEPA 和 Video MAE 等替代范式。GenCeption 展现出数据与模型缩放特性，仅用 7 到 500 倍更少的训练数据即可达到 D4RT 和 VGGT-Omega 的同等性能。模型仅用合成人类视频训练，即可泛化到真实场景及动物、机器人等分布外物体类别。",
-      "category": "paper",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrillgtw009abilk3fe1kk05"
-      }
-    },
-    {
-      "id": "cmrf5hibz009wihg8kzmbzhic",
-      "title": "Thinking Machines Lab：构建延伸人类意志与判断的 AI",
-      "title_en": "The Future Worth Building Is Human",
-      "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human",
-      "permalink": "https://aihot.virxact.com/items/cmrf5hibz009wihg8kzmbzhic",
-      "source": "Thinking Machines Lab：官方博客（RSS）",
-      "publishedAt": "2026-07-10T00:00:00.000Z",
-      "summary": "Thinking Machines Lab 在官方博客中阐述其使命：构建能够延伸人类意志与判断的 AI。文章指出，当前多数 AI 在少数地方训练后便冻结，无法被使用者塑造。该实验室正致力于训练具备多模态交互和可定制化能力的强模型，开发允许用户训练模型权重的工具，并构建拓宽人机沟通渠道的界面。其核心理念是让 AI 服务于分布式的人类知识，使每个组织都能利用自身独特知识微调模型，并持续适应知识演变。",
-      "category": "tip",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrf5hibz009wihg8kzmbzhic"
-      }
-    },
-    {
-      "id": "cmre3p4ne005fihrad1xjqjru",
-      "title": "Show HN： 如何在我的低配置电脑上运行 GLM-5.2",
-      "title_en": "Show HN： Show HN：如何在我的低配置电脑上运行 GLM 5.2",
-      "url": "https://github.com/JustVugg/colibri",
-      "permalink": "https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-09T22:18:12.902Z",
-      "summary": "colibrì v1.0 引擎以纯 C 实现、零运行时依赖，可在约 25 GB RAM 的消费级电脑上运行 744B 参数的 GLM-5.2 MoE 模型。模型经 int4 量化后磁盘占用约 370 GB，常驻内存仅 9.9 GB，通过流式加载磁盘专家实现推理。冷解码速度约",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmre3p4ne005fihrad1xjqjru"
-      }
-    },
-    {
-      "id": "cmre1vdj600h9ihwkt35yib2l",
-      "title": "AI 能否回答 3 万亿美元的问题？",
-      "title_en": "Can AI answer the $3 trillion question？",
-      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
-      "permalink": "https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-09T21:47:50.000Z",
-      "summary": "Sequoia 合伙人 David Cahn 更新 AI 基础设施支出估算：2026 年全球投入达 1.5 万亿美元，行业需产生 3 万亿美元收入才能回本。Anthropic 年化收入（ARR）达 600 亿美元，OpenAI 2025 年收入 130 亿美元（11 月称 ARR 200 亿美元），但缺口仍大。Apollo 首席经济学家指出，谷歌、Meta、微软、亚马逊均预测 2028 年自由现金流加速，但风险在于更多组织转向更便宜的开放权重模型（尤其中国模型），且 OpenAI 最新模型编码任务 token 效率提升 54%，导致 token 价格持续下降。若超大规模厂商现金流目标落空，可能引发经济衰退和标普 500 回调。",
-      "category": "tip",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmre1vdj600h9ihwkt35yib2l"
-      }
     }
   ],
-  "cachedAt": "2026-07-16T18:18:29Z"
+  "cachedAt": "2026-07-16T20:10:43Z"
 }
