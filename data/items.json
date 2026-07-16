@@ -1,8 +1,42 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNjA0NDMwMTYzLCJpIjoiY21yZGswemZ3MDRpeGloNGI4NGNvbHNtYiJ9",
+  "nextCursor": "eyJhIjoxNzgzNjA1NjYzMDAwLCJpIjoiY21yZGw5bzhnMDR0d2loNGIwc3FiMnAyZCJ9",
   "items": [
+    {
+      "id": "cmrn9ik1w00cdbic6r0i9cc93",
+      "title": "台积电上调2026年资本支出预测至600~640亿美元，A14制程进展顺利",
+      "title_en": "台积电将 2026 年资本支出预测进一步上调至 600~640 亿美元",
+      "url": "https://www.ithome.com/0/977/544.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrn9ik1w00cdbic6r0i9cc93",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-16T07:59:15.000Z",
+      "summary": "台积电在2026Q2财报说明会上将2026年资本支出预测上调至600~640亿美元，此前预测接近560亿美元。董事长魏哲家表示，预计2028年量产的A14制程（1.4nm）开发进展顺利，移动和HPC客户兴趣强烈，将成为比2nm更大、更持久的工艺。台积电预计2026Q3合并营收446~458亿美元，2026全年美元收入增幅将超过40%。",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrn9ik1w00cdbic6r0i9cc93"
+      }
+    },
+    {
+      "id": "cmrn7cx9z07c0bije5ilnyr7x",
+      "title": "Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查",
+      "title_en": "Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables， Guardrails， Latency Dashboards， and Eval Checks",
+      "url": "https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks",
+      "permalink": "https://aihot.virxact.com/items/cmrn7cx9z07c0bije5ilnyr7x",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-16T07:42:49.000Z",
+      "summary": "Patter SDK 发布教程，演示如何构建一个餐厅预订场景的语音智能体工作流。该流程支持动态调用变量、注册可调用工具、应用输出护栏（如PII脱敏、脏话过滤、话题范围限制），并可在无需实时电话凭证的情况下运行脚本化通话模拟。教程还涵盖延迟与成本指标追踪、回归式评估检查，以及将智能体逻辑、工具调用、安全检查和通话模拟整合为单一结构化管线。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrn7cx9z07c0bije5ilnyr7x"
+      }
+    },
     {
       "id": "cmrmybfkm039cbijeh07y5kq0",
       "title": "千问APP联合武汉发布举办AI求职实战课，演示简历诊断与办公自动化",
@@ -1668,41 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrdl9o8g04twih4b0sqb2p2d"
       }
-    },
-    {
-      "id": "cmrdltu5h051cih4bum094j2e",
-      "title": "Meta 发布 Muse Spark 1.1 模型",
-      "title_en": "Straight from @finkd - Muse Spark 1.1 is live.",
-      "url": "https://x.com/AIatMeta/status/2075218647359111460",
-      "permalink": "https://aihot.virxact.com/items/cmrdltu5h051cih4bum094j2e",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "publishedAt": "2026-07-09T14:00:55.000Z",
-      "summary": "来自 @finkd 的消息 - Muse Spark 1.1 已上线。",
-      "category": "ai-models",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrdltu5h051cih4bum094j2e"
-      }
-    },
-    {
-      "id": "cmrdk0zfw04ixih4b84colsmb",
-      "title": "Claude 推出反思功能（Beta）",
-      "title_en": "Introducing a way to reflect on how you use Claude",
-      "url": "https://www.anthropic.com/news/reflect-with-claude",
-      "permalink": "https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-07-09T13:40:30.163Z",
-      "summary": "Anthropic 为 Claude 推出一项反思功能（Beta），帮助用户追踪使用模式。用户可回顾过去 1、3、6 或 12 个月的活动总结，涵盖关键主题、使用频率和任务类型。功能结合 4D AI Fluency Framework（委托、描述、辨别、勤勉）提供协作分析，支持设定静音时段或定时休息提醒。隐私方面，不涉及无痕对话和健康集成工具，也不提取连接工具中的底层文件。该功能面向 Free、Pro 和 Max 用户，需开启记忆功能，可通过 Claude 网页或桌面应用设置。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrdk0zfw04ixih4b84colsmb"
-      }
     }
   ],
-  "cachedAt": "2026-07-16T06:30:00Z"
+  "cachedAt": "2026-07-16T09:26:23Z"
 }
