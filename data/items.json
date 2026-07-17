@@ -1,8 +1,59 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNzI3MzkwMDAwLCJpIjoiY21yZmx6M3NkMDB4NWloamxuZHk0azdybiJ9",
+  "nextCursor": "eyJhIjoxNzgzNzU1MTg4MDAwLCJpIjoiY21yZzNzeWhwMDBsN2loYTdhM2Fuc2c2MiJ9",
   "items": [
+    {
+      "id": "cmrp7cwpv0ay9bitoudhrgt7k",
+      "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
+      "title_en": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
+      "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
+      "permalink": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-07-17T17:11:19.000Z",
+      "summary": "过去八天内，Grok 4.5、GPT-5.6、Muse Spark 1.1 与 Kimi K3 四款前沿模型相继发布，使 Artificial Analysis Intelligence Index 得分超 50 的实验室从 6 月初的 2 家增至 6 家。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrp7cwpv0ay9bitoudhrgt7k"
+      }
+    },
+    {
+      "id": "cmrp6rlcn0aq5bitortofd0cp",
+      "title": "Sora 2 视频克隆效果惊人，真假难辨",
+      "title_en": "nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
+      "url": "https://x.com/gabriel1/status/2078156277247881438",
+      "permalink": "https://aihot.virxact.com/items/cmrp6rlcn0aq5bitortofd0cp",
+      "source": "X：Gabriel (@gabriel1)",
+      "publishedAt": "2026-07-17T16:34:01.000Z",
+      "summary": "一年后，没有任何东西能接近 Sora 的完美视频深度克隆。它捕捉到了我和 Sam 的每一块面部肌肉运动以及我们走路的方式。\n\n如果你从这段关于我或 Sam 的视频中截取一帧，根本无法判断它是真是假。",
+      "category": "ai-models",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrp6rlcn0aq5bitortofd0cp"
+      }
+    },
+    {
+      "id": "cmrp5pfjw0af6bitoudv35oqk",
+      "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+      "title_en": "Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+      "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+      "permalink": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-07-17T16:32:51.023Z",
+      "summary": "Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus 运行 12 小时以上仍无结果。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk"
+      }
+    },
     {
       "id": "cmrp0qw3s090ybitorwj6diwi",
       "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
@@ -157,23 +208,6 @@
       }
     },
     {
-      "id": "cmro185e3011jbij2ond4t12b",
-      "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
-      "title_en": "Automations in Grok",
-      "url": "https://x.ai/news/grok-automations",
-      "permalink": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-07-16T21:39:40.165Z",
-      "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
-      "category": "ai-products",
-      "score": 85,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b"
-      }
-    },
-    {
       "id": "cmrnz309k00f0biq1v5egac59",
       "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
       "title_en": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
@@ -188,23 +222,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59"
-      }
-    },
-    {
-      "id": "cmrnvwztt01bebixyznbje716",
-      "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
-      "title_en": "PerceptionBench",
-      "url": "https://www.kimi.com/blog/perception-bench",
-      "permalink": "https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716",
-      "source": "Moonshot AI：Kimi Blog",
-      "publishedAt": "2026-07-16T19:11:01.192Z",
-      "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
-      "category": "paper",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716"
       }
     },
     {
@@ -256,23 +273,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z"
-      }
-    },
-    {
-      "id": "cmrnse7qy002tbixy7gnolvr3",
-      "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
-      "title_en": "How Anthropic runs large-scale code migrations with Claude Code",
-      "url": "https://claude.com/blog/ai-code-migration",
-      "permalink": "https://aihot.virxact.com/items/cmrnse7qy002tbixy7gnolvr3",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-16T17:32:26.540Z",
-      "summary": "Anthropic 工程师用 Claude Code 在两周内将 Bun 的百万行 Zig 代码迁移至 Rust，100% 现有测试通过，合并后出现 19 个回归问题已全部修复。另一工程师用周末将 Python 代码库迁移至 16.5 万行 TypeScript。迁移消耗约 16.5 万美元 API 成本，但编译时间从八分钟降至两秒，二进制启动快 6 倍。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnse7qy002tbixy7gnolvr3"
       }
     },
     {
@@ -647,6 +647,57 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrmbtk3z0002bivco9advwbd"
+      }
+    },
+    {
+      "id": "cmro185e3011jbij2ond4t12b",
+      "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
+      "title_en": "Automations in Grok",
+      "url": "https://x.ai/news/grok-automations",
+      "permalink": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-07-15T16:00:00.000Z",
+      "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
+      "category": "ai-products",
+      "score": 85,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b"
+      }
+    },
+    {
+      "id": "cmrnvwztt01bebixyznbje716",
+      "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+      "title_en": "PerceptionBench",
+      "url": "https://www.kimi.com/blog/perception-bench",
+      "permalink": "https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716",
+      "source": "Moonshot AI：Kimi Blog",
+      "publishedAt": "2026-07-15T16:00:00.000Z",
+      "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
+      "category": "paper",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716"
+      }
+    },
+    {
+      "id": "cmrnse7qy002tbixy7gnolvr3",
+      "title": "Anthropic 用 Claude Code 大规模迁移代码：Bun 百万行 Zig 转 Rust，两周完成",
+      "title_en": "How Anthropic runs large-scale code migrations with Claude Code",
+      "url": "https://claude.com/blog/ai-code-migration",
+      "permalink": "https://aihot.virxact.com/items/cmrnse7qy002tbixy7gnolvr3",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-07-15T16:00:00.000Z",
+      "summary": "Anthropic 工程师用 Claude Code 在两周内将 Bun 的百万行 Zig 代码迁移至 Rust，100% 现有测试通过，合并后出现 19 个回归问题已全部修复。另一工程师用周末将 Python 代码库迁移至 16.5 万行 TypeScript。迁移消耗约 16.5 万美元 API 成本，但编译时间从八分钟降至两秒，二进制启动快 6 倍。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnse7qy002tbixy7gnolvr3"
       }
     },
     {
@@ -1651,58 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62"
       }
-    },
-    {
-      "id": "cmrfr2xvi02brihjlp1tlzg1n",
-      "title": "OpenAI GPT-5.6-Sol 删光 AI 创业者 Matt Shumer 的 Mac 硬盘",
-      "title_en": "真是能力越强，破坏力越大啊！ 这个老哥Mac上的文件被OpenAI最顶的GPT-5.6-Sol删光了，估计所有跑本地AI Agent的人看到这个都得吓出一身冷汗🤯整个事件详细拆解，以及怎么避免类似悲…",
-      "url": "https://x.com/AYi_AInotes/status/2075761215251312722",
-      "permalink": "https://aihot.virxact.com/items/cmrfr2xvi02brihjlp1tlzg1n",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-11T01:56:54.000Z",
-      "summary": "知名 AI 创业者 Matt Shumer 的 Mac 硬盘被 OpenAI 最新 Agent 模型 GPT-5.6-Sol 彻底清空。他在本地 Agent 上开启 Full Access 权限，让 subagent 执行文件清理任务，结果 shell 变量 $HOME 路径解析错误，Agent 直接执行 `rm -rf /Users/mattsdevbox`，导致数年代码、文件、照片丢失。该任务此前已安全运行数百次。事后 Agent 自动生成事故报告承认错误。Matt 表示\"1000x 更信任 Anthropic 的 Fable\"。事件暴露 Agent 行业核心风险：顶级模型仍会在变量展开、路径等细节翻车；Subagent + 长时自主运行 + 全权限构成灾难放大器；模型厂商安全底线差异巨大。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrfr2xvi02brihjlp1tlzg1n"
-      }
-    },
-    {
-      "id": "cmrfoggdz01o7ihjl1exdh1qt",
-      "title": "Claude Code v2.1.207 发布",
-      "title_en": "v2.1.207",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
-      "permalink": "https://aihot.virxact.com/items/cmrfoggdz01o7ihjl1exdh1qt",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-07-11T00:52:10.000Z",
-      "summary": "Claude Code v2.1.207 发布。Auto 模式在 Bedrock、Vertex AI 和 Foundry 上无需 `CLAUDE_CODE_ENABLE_AUTO_MODE` 即可使用，可通过 `disableAutoMode` 设置关闭。修复了流式响应中包含超长列表、表格、段落或代码块时终端冻结和按键延迟的问题；修复了非交互式运行中远程托管设置被永久记录为已同意而未显示安全同意对话框的问题；修复了自动更新程序每次发布时覆盖 `~/.local/bin/claude` 自定义启动脚本或符号链接的问题。Bedrock、Vertex 和 Claude Platform on AWS 默认切换为 Claude Opus 4.8。Auto 模式不再从 `.claude/settings.local.json` 读取 `autoMode`，改为使用 `~/.claude/settings.json`。修复了 Windows 上 AWS 凭证解析卡住时无限挂起的问题，60 秒超时保护现在生效。",
-      "category": "ai-products",
-      "score": 56,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrfoggdz01o7ihjl1exdh1qt"
-      }
-    },
-    {
-      "id": "cmrflz3sd00x5ihjlndy4k7rn",
-      "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
-      "title_en": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "permalink": "https://aihot.virxact.com/items/cmrflz3sd00x5ihjlndy4k7rn",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-07-10T23:49:50.000Z",
-      "summary": "在遭到强烈反对后，Meta 关闭了本周早些时候推出的一项 Instagram 功能。该功能允许用户通过 @ 提及公开 Instagram 账户，基于其内容生成 AI 图片，且无需账户所有者许可。Meta 在关于其新 Muse Image AI 模型的博客文章更新中表示，其初衷是提供有用的创意工具并给予用户认可，但用户反馈表明该功能可能被滥用。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrflz3sd00x5ihjlndy4k7rn"
-      }
     }
   ],
-  "cachedAt": "2026-07-17T15:37:35Z"
+  "cachedAt": "2026-07-17T17:29:59Z"
 }
