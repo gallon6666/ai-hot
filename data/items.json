@@ -1,8 +1,42 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNzU1MTg4MDAwLCJpIjoiY21yZzNzeWhwMDBsN2loYTdhM2Fuc2c2MiJ9",
+  "nextCursor": "eyJhIjoxNzgzNzg3NDY5NjE1LCJpIjoiY21yZ2xzeWxhMDF6b2loMmVubXNsMmV1OCJ9",
   "items": [
+    {
+      "id": "cmrp97h7o0020biuxh7pzewro",
+      "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+      "title_en": "Apple's plot to crush OpenAI",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "permalink": "https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-07-17T17:41:32.000Z",
+      "summary": "Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多专家认为部分指控属于行业惯例。此举正值 Apple 发布新版软件公测版（以新 Siri AI 为核心）之际，外界猜测 Apple 究竟是担忧 OpenAI 成为潜在竞争对手，还是想利用 OpenAI 的弱势期获利。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro"
+      }
+    },
+    {
+      "id": "cmrp8wsr10bhobitotnd5hzeq",
+      "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+      "title_en": "杨植麟在 GTC 2026 的一次演讲\"How We Scaled Kimi K2.5\"：月之暗面想把 AI 训练中三个沿用了近十年的基础组件，重新做一遍。优化器 Adam（2014 年）、注意力机制…",
+      "url": "https://x.com/dotey/status/2078172517085085951",
+      "permalink": "https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq",
+      "source": "X：宝玉 (@dotey)",
+      "publishedAt": "2026-07-17T17:38:33.000Z",
+      "summary": "月之暗面CEO杨植麟在GTC 2026演讲中提出用MuonClip优化器替代Adam，可将数据利用效率提升近一倍。同时推出Kimi Linear线性注意力，在百万Token上下文下全面超越全注意力；Agent Swarm已支持300个Agent并行工作。",
+      "category": "paper",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrp8wsr10bhobitotnd5hzeq"
+      }
+    },
     {
       "id": "cmrp7cwpv0ay9bitoudhrgt7k",
       "title": "八天四款前沿模型发布，Kimi K3 跻身第三",
@@ -1668,41 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrglsyla01zoih2enmsl2eu8"
       }
-    },
-    {
-      "id": "cmrg3dsyt00g4iha7og0687tc",
-      "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
-      "title_en": "Ant Group's Robbyant Unveils LingBot-VA 2.0： A Causal Video-Action Model Built Natively for Physical AI",
-      "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
-      "permalink": "https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-11T07:56:11.000Z",
-      "summary": "蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推理将推理延迟降至 142 ms/chunk。在 RoboTwin 2.0 的 50 个任务上，干净与随机演示数据平均成功率分别达 93.8% 和 93.4%。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc"
-      }
-    },
-    {
-      "id": "cmrg3syhp00l7iha7a3ansg62",
-      "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
-      "title_en": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
-      "url": "https://www.ithome.com/0/975/469.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-11T07:33:08.000Z",
-      "summary": "开发者Jarred Sumner借助Claude Fable 5模型，11天内将Bun从Zig重写为Rust，64个实例并行编写超100万行代码，API费用约16.5万美元。重构主因是Zig频繁内存错误，Rust可在编译时捕获。Bun v1.4.0以Canary版本发布，修复128个错误，速度提高约2%到5%。Bun团队已于2025年12月被Anthropic收购。",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62"
-      }
     }
   ],
-  "cachedAt": "2026-07-17T17:29:59Z"
+  "cachedAt": "2026-07-17T19:30:56Z"
 }
