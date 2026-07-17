@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNzIzNDM0MDAwLCJpIjoiY21yZmowZ2lvMDA4dGloamxmZG03MjlvNyJ9",
+  "nextCursor": "eyJhIjoxNzgzNzI3MzkwMDAwLCJpIjoiY21yZmx6M3NkMDB4NWloamxuZHk0azdybiJ9",
   "items": [
+    {
+      "id": "cmrp0qw3s090ybitorwj6diwi",
+      "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
+      "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
+      "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
+      "permalink": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi",
+      "source": "X：美团 LongCat (@Meituan_LongCat)",
+      "publishedAt": "2026-07-17T14:08:29.000Z",
+      "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
+      "category": "paper",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrp0qw3s090ybitorwj6diwi"
+      }
+    },
     {
       "id": "cmrove64p07imbitof1v9rzwz",
       "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrflz3sd00x5ihjlndy4k7rn"
       }
-    },
-    {
-      "id": "cmrfj0gio008tihjlfdm729o7",
-      "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-      "title_en": "吃瓜：Apple 把 OpenAI 告上了法庭，指控 OpenAI 系统性地窃取苹果商业机密，用来开发自己的 AI 硬件设备。 诉状今天提交至加州北区联邦地方法院，被告包括 OpenAI、OpenA…",
-      "url": "https://x.com/dotey/status/2075712647723397452",
-      "permalink": "https://aihot.virxact.com/items/cmrfj0gio008tihjlfdm729o7",
-      "source": "X：宝玉 (@dotey)",
-      "publishedAt": "2026-07-10T22:43:54.000Z",
-      "summary": "苹果公司今日在加州北区联邦地方法院对OpenAI提起诉讼，指控其系统性窃取苹果商业机密，用于开发AI硬件设备。被告包括OpenAI、其硬件负责人Tang Tan（前苹果iPhone和Apple Watch产品设计副总裁，在苹果任职24年）、前苹果高级系统电气工程师Chang Liu，以及Jony Ive联合创立的io Products。Jony Ive本人未被列为被告。",
-      "category": "industry",
-      "score": 84,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrfj0gio008tihjlfdm729o7"
-      }
     }
   ],
-  "cachedAt": "2026-07-17T14:00:38Z"
+  "cachedAt": "2026-07-17T15:37:35Z"
 }
