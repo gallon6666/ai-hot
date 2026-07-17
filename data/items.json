@@ -1,8 +1,42 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNzEzNTUxMzYyLCJpIjoiY21yZmRiZTRnMDE2YWloeGI4YnRnNW51MCJ9",
+  "nextCursor": "eyJhIjoxNzgzNzIzNDM0MDAwLCJpIjoiY21yZmowZ2lvMDA4dGloamxmZG03MjlvNyJ9",
   "items": [
+    {
+      "id": "cmrove64p07imbitof1v9rzwz",
+      "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/978/277.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-17T11:10:01.000Z",
+      "summary": "苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz"
+      }
+    },
+    {
+      "id": "cmrozfoiv08mhbitofbllzxl4",
+      "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
+      "title_en": "A scorecard for the AI age",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "permalink": "https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-07-17T10:00:00.000Z",
+      "summary": "OpenAI 提出\"Useful Intelligence per Dollar\"（有用智能每美元）作为衡量 AI 投资回报的核心指标，从完成的有用工作量、成功任务的实际成本、结果可靠性三个维度评估。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4"
+      }
+    },
     {
       "id": "cmrorbywu06cebitoixzgpb5l",
       "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
@@ -1668,41 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrfj0gio008tihjlfdm729o7"
       }
-    },
-    {
-      "id": "cmrfiocpi0035ihjlcm4qu8af",
-      "title": "博科圣地如何利用前沿AI技术",
-      "title_en": "恐怖组织\"博科圣地\"如何利用前沿人工智能技术",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "permalink": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-10T22:07:19.177Z",
-      "summary": "2025至2026年间对尼日利亚东北部27名前\"博科圣地\"成员的半结构化访谈揭示了该组织在2024年系统性地利用前沿AI技术。两大派系均使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek辅助作战与日常运作，AI应用已通过专门小组和内部培训实现制度化。成员成功绕过部分安全限制，将AI用于袭击策划、武器故障排查及爆炸装置设计。相关技术通过跨国圣战网络传播，伊斯兰国特工提供了面对面培训。受访者对AI表现出强烈热情，部分人对大规模杀伤性武器持开放态度，但记录在案的使用仍限于常规手段。",
-      "category": "paper",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrfiocpi0035ihjlcm4qu8af"
-      }
-    },
-    {
-      "id": "cmrfdbe4g016aihxb8btg5nu0",
-      "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
-      "title_en": "GPT-5.6 Sol Ultra 给出了\"循环双覆盖猜想\"的证明 【pdf】",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "permalink": "https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-10T19:59:11.362Z",
-      "summary": "OpenAI 发布论文，称 GPT-5.6 Sol Ultra 证明了图论中悬而未决的\"循环双覆盖猜想\"。该猜想断言每个无桥无向图都存在一组环，每条边恰好被覆盖两次。论文利用 GPT-5.6 Sol Ultra 完成证明，并借助 Codex 撰写。证明过程首先将问题简化为三次图，利用 8-流定理和 Tutte 的结果将边标记为 F32 的非零元，再转化为每个顶点处每个元素出现零次或两次的二元集标记，最终归结为线性代数论证。",
-      "category": "paper",
-      "score": 84,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0"
-      }
     }
   ],
-  "cachedAt": "2026-07-17T11:39:20Z"
+  "cachedAt": "2026-07-17T14:00:38Z"
 }
