@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNzA2MTU0MDAwLCJpIjoiY21yZjkzdGhyMDAzaWloeGJybmxsaGl5ZCJ9",
+  "nextCursor": "eyJhIjoxNzgzNzEzNTUxMzYyLCJpIjoiY21yZmRiZTRnMDE2YWloeGI4YnRnNW51MCJ9",
   "items": [
+    {
+      "id": "cmrorbywu06cebitoixzgpb5l",
+      "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
+      "title_en": "小有可为实战教程|乡村教育一等奖作品拆解",
+      "url": "https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ",
+      "permalink": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l",
+      "source": "公众号：通义实验室（千问）",
+      "publishedAt": "2026-07-17T09:41:25.000Z",
+      "summary": "首届\"小有可为\"大赛乡村教育赛道一等奖作品\"智绘科普\"采用 Qwen3.5-397B-A17B 大语言模型与 Manim 动画引擎，通过多Agent分阶段协作与自动修复机制，将知识主题转化为可控、可编辑的教学动画。系统包含规划、草稿、实现、审查、合成五个阶段，渲染失败时可自动提取日志并修复，该工程范式可迁移至其他赛道。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l"
+      }
+    },
     {
       "id": "cmropqooe05tqbitodvnqnc6u",
       "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrfdbe4g016aihxb8btg5nu0"
       }
-    },
-    {
-      "id": "cmrf93thr003iihxbrnllhiyd",
-      "title": "宇树G1人形机器人完成首例活体微创手术",
-      "title_en": "A new Nature paper shows Unitree's G1 humanoid robot performing what researchers call the first live…",
-      "url": "https://x.com/thexpin/status/2075640168896516139",
-      "permalink": "https://aihot.virxact.com/items/cmrf93thr003iihxbrnllhiyd",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-07-10T17:55:54.000Z",
-      "summary": "一篇新的《自然》论文展示了宇树G1人形机器人执行研究人员所称的首例由人形机器人完成的活体标准微创手术。加州大学圣地亚哥团队使用G1，以常规手术器械完成了对两只活猪的腹腔镜胆囊切除术；第二次手术耗时32分钟。该机器人仍需反复校正，且尚无法满足手术无菌标准，但其成本可能仅为达芬奇系统的约5%。",
-      "category": "paper",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrf93thr003iihxbrnllhiyd"
-      }
     }
   ],
-  "cachedAt": "2026-07-17T09:20:19Z"
+  "cachedAt": "2026-07-17T11:39:20Z"
 }
