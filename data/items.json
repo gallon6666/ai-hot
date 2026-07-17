@@ -1,8 +1,59 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzNjkxODg3MDAwLCJpIjoiY21yZjA3NzR6MDR3eWloOGUwc25qczJnMiJ9",
+  "nextCursor": "eyJhIjoxNzgzNzA2MTU0MDAwLCJpIjoiY21yZjkzdGhyMDAzaWloeGJybmxsaGl5ZCJ9",
   "items": [
+    {
+      "id": "cmropqooe05tqbitodvnqnc6u",
+      "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+      "title_en": "Schema Harness 在 Arc-AGI-3 公开数据集上取得约 99% 的成绩",
+      "url": "https://schema-harness.github.io/",
+      "permalink": "https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-17T08:41:53.383Z",
+      "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。",
+      "category": "paper",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u"
+      }
+    },
+    {
+      "id": "cmronvv4105bdbitohe86a4un",
+      "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一",
+      "title_en": "NVIDIA AI Releases Nemotron 3 Embed： An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB",
+      "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb",
+      "permalink": "https://aihot.virxact.com/items/cmronvv4105bdbitohe86a4un",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-17T07:53:02.000Z",
+      "summary": "NVIDIA 发布 Nemotron 3 Embed 系列，包含三个开源 checkpoint，其中 8B-BF16 版本在 RTEB 基准上以 78.46 的平均 NDCG@10 排名第一。1B-NVFP4 版本在 Blackwell 上吞吐量比 BF16 高 2 倍，精度保留 99.5%，所有模型最大序列长度 32，768 tokens。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmronvv4105bdbitohe86a4un"
+      }
+    },
+    {
+      "id": "cmrolz26304oqbito42v7oeaz",
+      "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+      "title_en": "Wan-Streamer v0.2：响应延迟仅550ms，让 AI 真正与你\"面对面\"",
+      "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+      "permalink": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
+      "source": "公众号：通义实验室（千问）",
+      "publishedAt": "2026-07-17T07:14:00.000Z",
+      "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将\"听、看、说、演\"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
+      "category": "ai-models",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz"
+      }
+    },
     {
       "id": "cmroipdr803rvbito8t018vr1",
       "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
@@ -1651,58 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrf93thr003iihxbrnllhiyd"
       }
-    },
-    {
-      "id": "cmrf8177m007bihprf4zml1hn",
-      "title": "Claude Code桌面版新增应用内浏览器",
-      "title_en": "Claude Code on desktop now has an in-app browser. Claude can pull up docs， designs， or any other si…",
-      "url": "https://x.com/ClaudeDevs/status/2075635283211772279",
-      "permalink": "https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-07-10T17:36:29.000Z",
-      "summary": "Claude Code 桌面版现在有了应用内浏览器。\n\nClaude 可以调出文档、设计稿或任何其他网站。它可以像操作本地开发服务器一样，进行阅读、点击浏览和交互。\n\n该浏览器采用沙盒机制且可配置：你可以自行选择会话是否持久保留。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrf8177m007bihprf4zml1hn"
-      }
-    },
-    {
-      "id": "cmrf3pi9j0730ih8eb6hjx4hn",
-      "title": "Perplexity 推出跨模型信用额度分析功能",
-      "title_en": "Introducing Computer Analytics： You can now track credit spend across models. Available now under A…",
-      "url": "https://x.com/perplexity_ai/status/2075599540640714863",
-      "permalink": "https://aihot.virxact.com/items/cmrf3pi9j0730ih8eb6hjx4hn",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "publishedAt": "2026-07-10T15:14:27.000Z",
-      "summary": "推出 Computer Analytics：你现在可以跨模型跟踪信用额度支出。\n\n该功能现已面向个人和企业用户开放，可在账户设置的 Analytics 下使用。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrf3pi9j0730ih8eb6hjx4hn"
-      }
-    },
-    {
-      "id": "cmrf0774z04wyih8e0snjs2g2",
-      "title": "百度搭子在成都AI Day发布四项更新：个人版升级、自媒体套件、企业版及搭子联盟",
-      "title_en": "日均提问暴涨20倍！百度搭子又双叒叕连放大招",
-      "url": "https://mp.weixin.qq.com/s/Haqbjim9YGmRu1XpxG_VvA",
-      "permalink": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2",
-      "source": "公众号：百度智能云（文心）",
-      "publishedAt": "2026-07-10T13:58:07.000Z",
-      "summary": "百度搭子在成都百度AI Day上发布四项更新。个人版新增浏览器调用、智能路由（平均任务耗时降20%，Token利用率提升25%）、多端共享记忆及强化PPT生成，并上架\"一镜\"数字人制作、\"灵医\"报告解读等Skill。行业首个自媒体专业套件支持选题到复盘全链路。企业版支持团队协作与权限管理。搭子联盟启动，中国联通等已加入。上线三个月，日均提问量增长20倍。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrf0774z04wyih8e0snjs2g2"
-      }
     }
   ],
-  "cachedAt": "2026-07-17T06:26:05Z"
+  "cachedAt": "2026-07-17T09:20:19Z"
 }
