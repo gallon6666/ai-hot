@@ -1,8 +1,42 @@
 {
-  "count": 95,
+  "count": 96,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmrru2n5x00vzbi5qea6youod",
+      "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+      "title_en": "WAIC 2026 | 最新「小钢炮」MiniCPM5-2B亮相：适配多款芯片、4B以下全球性能第一",
+      "url": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
+      "permalink": "https://aihot.virxact.com/items/cmrru2n5x00vzbi5qea6youod",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "publishedAt": "2026-07-19T13:12:39.000Z",
+      "summary": "面壁智能联合OpenBMB发布端侧模型MiniCPM5-2B，以2B参数量在AA-Index榜单取得4B以下模型最高分17分，平均分54.26，超越Qwen3.5-2B等竞品。模型原生支持混合思考与512K上下文，已完成华为昇腾、英伟达等9款芯片的Day0适配，即将开源。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrru2n5x00vzbi5qea6youod"
+      }
+    },
+    {
+      "id": "cmrrt03gx00mkbi5qtoim4wvo",
+      "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
+      "title_en": "昆仑万维WAIC专场论坛：董事长兼CEO方汉宣布2026为\"世界模型元年\"",
+      "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
+      "permalink": "https://aihot.virxact.com/items/cmrrt03gx00mkbi5qtoim4wvo",
+      "source": "公众号：昆仑万维（天工）",
+      "publishedAt": "2026-07-19T12:35:56.000Z",
+      "summary": "昆仑万维董事长方汉在WAIC上宣布2026年为\"世界模型元年\"，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrrt03gx00mkbi5qtoim4wvo"
+      }
+    },
     {
       "id": "cmrrjaxlv030jbihklywu3xy6",
       "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
@@ -1600,24 +1634,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm"
       }
-    },
-    {
-      "id": "cmrhvwe6k00y7biidjabepmem",
-      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
-      "title_en": "Show HN： Mindwalk--在代码库的 3D 地图上重放编码代理会话",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "permalink": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-12T13:51:05.035Z",
-      "summary": "Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem"
-      }
     }
   ],
-  "cachedAt": "2026-07-19T12:05:41Z"
+  "cachedAt": "2026-07-19T13:51:21Z"
 }
