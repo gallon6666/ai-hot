@@ -4,6 +4,23 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmrrvig4h01ctbi5qyidwptd7",
+      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+      "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+      "url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "permalink": "https://aihot.virxact.com/items/cmrrvig4h01ctbi5qyidwptd7",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-07-19T13:49:01.000Z",
+      "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrrvig4h01ctbi5qyidwptd7"
+      }
+    },
+    {
       "id": "cmrru2n5x00vzbi5qea6youod",
       "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
       "title_en": "WAIC 2026 | 最新「小钢炮」MiniCPM5-2B亮相：适配多款芯片、4B以下全球性能第一",
@@ -1617,24 +1634,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmri0lo1e00irbixecx7cj2f5"
       }
-    },
-    {
-      "id": "cmrhyer8a01q3biidlr8xr6rm",
-      "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
-      "title_en": "http://x.com/i/article/2076319195718090753",
-      "url": "https://x.com/satyanadella/status/2076323181154230284",
-      "permalink": "https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "publishedAt": "2026-07-12T15:09:57.000Z",
-      "summary": "微软CEO萨提亚·纳德拉提出\"反向信息悖论\"：AI时代，买家为使用AI支付金钱，同时必须暴露专有知识（提示词、工具使用、纠正反馈等），这些\"智力废气\"被模型学习，导致信息不对称向卖家倾斜。企业需要真正的信任边界，确保自身数据、痕迹、评估、适配权重和记忆在边界内积累，未经同意不得外泄。纳德拉呼吁企业拥有私有评估、保留组织记忆所有权，并主张企业应有权使用模型输出微调或训练自有模型，以控制自身学习循环。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrhyer8a01q3biidlr8xr6rm"
-      }
     }
   ],
-  "cachedAt": "2026-07-19T13:51:21Z"
+  "cachedAt": "2026-07-19T15:13:36Z"
 }
