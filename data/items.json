@@ -1,8 +1,42 @@
 {
-  "count": 94,
+  "count": 95,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmrrd5bjb00cfbikihob9drtj",
+      "title": "AI 热潮正在瓦解全球决策机制",
+      "title_en": "人工智能热潮正在瓦解全球决策机制",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
+      "permalink": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-19T05:13:24.607Z",
+      "summary": "一位拥有 300 多次行业交流经验的从业者观察到，全球公私机构正陷入集体性 AI 狂热，决策层要么没有计划，要么只能低头回避。过去一年半中，其团队所见的所有 AI 项目均以失败告终（成功率 0%），失败原因常与 LLM 能力无关，而是企业本就难以有效运行软件项目，且 AI 项目叠加了额外风险。内部聊天机器人几乎无人使用，客户服务聊天机器人也极少带来良好体验，例如三菱的语音客服承诺回电却六周未兑现。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj"
+      }
+    },
+    {
+      "id": "cmrraq5dk03p5bi18vyrt83kp",
+      "title": "ChatGPT Work 功能：建站、邮件、文档处理",
+      "title_en": "ChatGPT Work is for ✅ Creating and hosting sites ✅ Managing your emails for you ✅ Summarizing mount…",
+      "url": "https://x.com/thsottiaux/status/2078697631019303273",
+      "permalink": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp",
+      "source": "X：Tibo (@thsottiaux)",
+      "publishedAt": "2026-07-19T04:25:10.000Z",
+      "summary": "ChatGPT Work 适用于\n\n✅ 创建和托管网站 ✅ 为你管理电子邮件 ✅ 总结海量文档 ✅ 制作一流的文档、表格和幻灯片\n\n已在你的移动应用或 http://chatgpt.com 上提供，包含在 Plus、Pro、Business 和 Enterprise 套餐中。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp"
+      }
+    },
     {
       "id": "cmrr7sdid02ybbi18afm9lr2i",
       "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
@@ -1583,24 +1617,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y"
       }
-    },
-    {
-      "id": "cmrhagju201pqbir7t0tnsgfy",
-      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-      "title_en": "xAI 的 Grok Build CLI 实际上向 xAI 发送了什么",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "permalink": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-12T03:59:09.632Z",
-      "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy"
-      }
     }
   ],
-  "cachedAt": "2026-07-19T03:51:31Z"
+  "cachedAt": "2026-07-19T06:41:31Z"
 }
