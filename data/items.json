@@ -1,5 +1,5 @@
 {
-  "count": 95,
+  "count": 94,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1600,24 +1600,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrkvk6vb01sqbi5qxm4z15il"
       }
-    },
-    {
-      "id": "cmri4o4kx00qcbi3hqxj8rxqd",
-      "title": "Codex与ChatGPT Work多项更新：取消5小时限制",
-      "title_en": "Morning. The last 48 hours of Codex and ChatGPT Work have been intense！ Three important updates： - …",
-      "url": "https://x.com/thsottiaux/status/2076365965915467978",
-      "permalink": "https://aihot.virxact.com/items/cmri4o4kx00qcbi3hqxj8rxqd",
-      "source": "X：Tibo (@thsottiaux)",
-      "publishedAt": "2026-07-12T17:59:57.000Z",
-      "summary": "早上好。过去48小时里，Codex和ChatGPT Work非常忙碌！三项重要更新：\n\n- 暂时取消所有Plus、Business和Pro计划的5小时使用限制\n- 正在推出变更，使GPT 5.6 Sol整体更高效，这将体现在使用量减少上，从而让你能走得更远。具体影响待量化后公布\n- 我们已达到600万活跃用户，并将在接下来一小时内进行使用量重置\n\n去创造吧。",
-      "category": "ai-products",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmri4o4kx00qcbi3hqxj8rxqd"
-      }
     }
   ],
-  "cachedAt": "2026-07-19T17:14:24Z"
+  "cachedAt": "2026-07-19T18:07:35Z"
 }
