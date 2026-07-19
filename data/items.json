@@ -1,5 +1,5 @@
 {
-  "count": 94,
+  "count": 93,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1583,24 +1583,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss"
       }
-    },
-    {
-      "id": "cmrkvk6vb01sqbi5qxm4z15il",
-      "title": "Juggler：一款开源 GUI 编程智能体，由 JUCE 创建者开发",
-      "title_en": "Show HN： Juggler - an open-source GUI coding agent， by the creator of JUCE",
-      "url": "https://github.com/juggler-ai/juggler",
-      "permalink": "https://aihot.virxact.com/items/cmrkvk6vb01sqbi5qxm4z15il",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-07-12T18:28:15.000Z",
-      "summary": "Juggler 是一款开源 GUI 编程智能体，提供可视化工作台，支持可检查的工具调用、分支线程和可编辑上下文。会话以树状结构组织，而非线性聊天记录，用户可创建子线程、回溯、比较和编辑。所有关键信息以 Finder 风格 Miller 列展示。Juggler 支持本地、远程或同时运行，桌面应用与浏览器可连接同一会话。模型支持包括 Claude Code、OpenAI、Gemini、Ollama、OpenRouter、Z.AI、Deepseek 等。后端使用 Go 和 Wails，UI 为 HTML/JS。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrkvk6vb01sqbi5qxm4z15il"
-      }
     }
   ],
-  "cachedAt": "2026-07-19T18:07:35Z"
+  "cachedAt": "2026-07-19T19:30:26Z"
 }
