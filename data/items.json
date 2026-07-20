@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzgzOTg3MjAwMDAwLCJpIjoiY21ybjJsZmdtMDVucWJpamV6NGphemYzbiJ9",
+  "nextCursor": "eyJhIjoxNzgzOTg5NTEyMDAwLCJpIjoiY21yank5OWt0MDFudmJpdzIyYndqc3ZudiJ9",
   "items": [
+    {
+      "id": "cmrtkxcfk49mmbitl5rnaga7n",
+      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+      "title_en": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "permalink": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-20T18:28:23.600Z",
+      "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
+      "category": "paper",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n"
+      }
+    },
     {
       "id": "cmrtirgkp3n0ybitlf25zqtwv",
       "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrjy99kt01nvbiw22bwjsvnv"
       }
-    },
-    {
-      "id": "cmrn2lfgm05nqbijez4jazf3n",
-      "title": "Boogu-Image-0.1 发布：开源统一多模态理解与生成模型，训练成本仅约 40 万美元",
-      "title_en": "Boogu-Image-0.1： Boosting Open-Source Unified Multimodal Understanding and Generation",
-      "url": "https://arxiv.org/abs/2607.13125",
-      "permalink": "https://aihot.virxact.com/items/cmrn2lfgm05nqbijez4jazf3n",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-14T00:00:00.000Z",
-      "summary": "Boogu-Image-0.1 系列开源统一多模态理解与生成模型发布，包含 Base、Turbo、Edit 和 Edit-Turbo 四个变体，支持高质量文生图、快速推理、指令编辑及中英双语文本渲染。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrn2lfgm05nqbijez4jazf3n"
-      }
     }
   ],
-  "cachedAt": "2026-07-20T18:17:43Z"
+  "cachedAt": "2026-07-20T20:39:26Z"
 }
