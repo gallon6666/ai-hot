@@ -1,5 +1,5 @@
 {
-  "count": 94,
+  "count": 92,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1566,41 +1566,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrijw1sy00j6bi0jshweyv4l"
       }
-    },
-    {
-      "id": "cmriguktg00arbijpt0l7c2vh",
-      "title": "xAI 官方 Grok CLI 被曝静默上传整个代码库及用户密钥",
-      "title_en": "我只让Grok回复一个单词，它就把我整个代码库都偷走了。",
-      "url": "https://mp.weixin.qq.com/s/6c6vGMJAVMbh6UhNVw4dcg",
-      "permalink": "https://aihot.virxact.com/items/cmriguktg00arbijpt0l7c2vh",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-13T00:05:00.000Z",
-      "summary": "安全研究者发现，xAI 官方 Grok CLI（npm 包 `@xai-official/grok` 0.2.93 版）会在每轮任务前后，将当前工作目录打包为 `before_codebase.tar.gz` 和 `after_codebase.tar.gz`，通过独立旁路通道静默上传至 xAI 的 Google Cloud 仓库。验证显示，即使模型仅回复一个单词，上传依然发生。上传包还包含仓库外的 `~/.claude.json`、Claude Code 设置、全局 AGENTS 规则、30 多个 Skill 文件及一个 API 密钥。7 月 13 日凌晨，xAI 通过服务端远程开关新增 `disable_codebase_upload` 字段，将默认上传行为关闭，但此前该功能默认开启。",
-      "category": "industry",
-      "score": 86,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmriguktg00arbijpt0l7c2vh"
-      }
-    },
-    {
-      "id": "cmrig9mkx0024bijp9pr04hss",
-      "title": "Ploy 将 AI 智能体默认模型从 Claude Opus 4.8 切换至 GPT-5.6 Sol",
-      "title_en": "将生产环境中的AI代理迁移至GPT-5.6：速度提升2.2倍，成本降低27%",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "permalink": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-12T23:41:11.951Z",
-      "summary": "Ploy 将其 AI 智能体默认模型从 Claude Opus 4.8 切换至 OpenAI 今晨发布的 GPT-5.6 Sol。在真实营销网站构建测试中，GPT-5.6 Sol 完成页面平均耗时 3 分 42 秒，较 Opus 4.8 的 8 分钟快 2.2 倍；每次构建成本从 3.06 美元降至 2.22 美元，降低 27%；输出 token 从 33.0K 降至 17.1K，视觉评分从 0.936 提升至 0.970。迁移过程发现，GPT-5.6 会为所有 25 个工具参数填充默认值，导致 52%-64% 的文件读取返回空结果；提示词指令和 OpenAI strict 模式均无法修复此行为。此外，评估框架中约三分之一的原始失败源于针对旧模型的假设，而非模型本身问题。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrig9mkx0024bijp9pr04hss"
-      }
     }
   ],
-  "cachedAt": "2026-07-19T23:09:52Z"
+  "cachedAt": "2026-07-20T00:10:42Z"
 }
