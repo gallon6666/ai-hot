@@ -4,6 +4,40 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmrt81fki1d1fbitln44dzsrr",
+      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+      "title_en": "LoRA Speedrun--一个针对微调技术的公开实际运行时间排行榜",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "permalink": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-20T12:21:09.021Z",
+      "summary": "LoRA Speedrun项目推出公开排行榜，在固定硬件（单张L40S）上比拼Qwen2.5-1.5B的微调运行时间。当前纪录由@Saivineeth147以6分05秒保持，采用序列打包与仅完成损失掩码技术，相比基线11分57秒提速约2倍且准确率更高（61.1%）。项目提供免费Modal沙箱验证，任何提交需经3次独立复现确认。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr"
+      }
+    },
+    {
+      "id": "cmrt6yjfo1407bitlsdp6qyn6",
+      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+      "title_en": "Hugging Face says an AI agent hacked its infrastructure， and it used AI to fight back",
+      "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+      "permalink": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-20T12:12:47.000Z",
+      "summary": "Hugging Face 披露其部分生产基础设施遭一个自主AI智能体系统入侵，攻击者通过恶意数据集利用数据处理管道中的代码执行漏洞，窃取了内部数据集和多项服务凭证。该公司部署LLM驱动的分析智能体，在数小时内完成了对17000多条攻击行为的取证分析，而此类工作通常需要数天。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6"
+      }
+    },
+    {
       "id": "cmrt0856a09v9bitl62e4r17b",
       "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
       "title_en": "从\"能说话\"到\"会表达\"：Qwen-Audio-3.0-TTS 发布",
@@ -1634,41 +1668,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrkswubg00wabi5qrgj8jc2l"
       }
-    },
-    {
-      "id": "cmrj6actv0651bilkm5pfz6ub",
-      "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-      "title_en": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
-      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-      "permalink": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-13T11:41:01.000Z",
-      "summary": "德国AI协会协调的研究联盟发布开源大语言模型Soofi S 30B-A3B。该模型总参数量316亿，每个token仅激活约32亿参数，采用Mamba-2与标准注意力层混合的MoE架构。模型完全在德国电信慕尼黑工业AI云上训练，训练数据中德语占比从第一阶段的7.2%提升至第二阶段的15.3%。在基准测试中，Soofi S在所有完全开源模型中取得英语和德语综合最高分，超越OLMo 3 32B和Apertus 70B。在HumanEval上得分73.8%，MBPP得分70.2，德语版MBPP得分84.2。上下文窗口支持最高100万token，在4万token长度下，生成吞吐量约为同规模稠密模型的8倍。模型权重已开源。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrj6actv0651bilkm5pfz6ub"
-      }
-    },
-    {
-      "id": "cmrj4s89p05nhbilkljqel2d5",
-      "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-      "title_en": "训推全开源：HyOCR-1.5 让端到端 OCR 大模型跑得更快、看得更准、功能更全",
-      "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-      "permalink": "https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5",
-      "source": "公众号：腾讯混元",
-      "publishedAt": "2026-07-13T11:12:59.000Z",
-      "summary": "腾讯混元发布 HyOCR-1.5，这是端到端 OCR 大模型领域首个将训练、推理、模型权重完整开源的专家模型。仅 1B 参数，覆盖 8 种以上 text-centric 任务。引入 DFlash 投机解码框架，在 Transformers 下实现 6.37× 加速，vLLM 下 2.14× 加速，端到端推理达每页 1.408s。支持 4K 分辨率与 128K 上下文窗口，通过 Agentic Data Flow 扩展低资源 OCR（331 种语言）、古文字识别与多图问答能力。在 OmniDocBench v1.6 上以 94.74 分居端到端第一。",
-      "category": "ai-models",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5"
-      }
     }
   ],
-  "cachedAt": "2026-07-20T11:11:49Z"
+  "cachedAt": "2026-07-20T13:15:58Z"
 }
