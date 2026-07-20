@@ -1,8 +1,59 @@
 {
-  "count": 92,
+  "count": 98,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmrsp4xym0bb4biwm2ex85cp2",
+      "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
+      "title_en": "WAIC 2026 | 面壁智能首个具身智能成果 MiniCPM-Robot 系列模型正式发布！",
+      "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
+      "permalink": "https://aihot.virxact.com/items/cmrsp4xym0bb4biwm2ex85cp2",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "publishedAt": "2026-07-20T03:54:08.000Z",
+      "summary": "面壁智能联合 OpenBMB 发布并开源 MiniCPM-Robot 系列，包括通用 VLA 模型 MiniCPM-RobotManip（1.5B 参数）与移动跟踪模型 MiniCPM-RobotTrack（0.9B 参数）。",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrsp4xym0bb4biwm2ex85cp2"
+      }
+    },
+    {
+      "id": "cmrsl3weh0a3pbiwmdqtrjycc",
+      "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
+      "title_en": "Ollama：欢迎加入开放模型行列",
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "permalink": "https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-20T01:45:09.765Z",
+      "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc"
+      }
+    },
+    {
+      "id": "cmrshb0i008zzbiwmuvh5kufa",
+      "title": "不会代码也能做产品：一份从0开始的Vibe Coding保姆级教程",
+      "title_en": "不会代码也能做产品，这是一份从0开始的Vibe Coding保姆级教程。",
+      "url": "https://mp.weixin.qq.com/s/EeHjsju08ARLbwtwFcViqg",
+      "permalink": "https://aihot.virxact.com/items/cmrshb0i008zzbiwmuvh5kufa",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-07-20T00:08:00.000Z",
+      "summary": "本文面向零代码用户，提供一套使用国产大模型（Kimi、GLM、Qwen等）从零开发并上线产品的完整流程。核心步骤包括购买Coding Plan、下载官方Agent编程产品、注册域名与服务器并同步做ICP备案，然后通过Agent的Plan模式描述需求并让AI自动执行开发。上线后建议建立分支保护与测试流程，并强调即使不懂代码，也必须对系统架构了如指掌。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrshb0i008zzbiwmuvh5kufa"
+      }
+    },
     {
       "id": "cmrsbql4401gxbiuaj7s1567n",
       "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
@@ -18,6 +69,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrsbql4401gxbiuaj7s1567n"
+      }
+    },
+    {
+      "id": "cmrsopm9r0b7ubiwmtfvpwkxu",
+      "title": "字节跳动发布 Seed Audio 1.0 音频创作模型，统一建模人声与音效实现端到端影视级音频生成",
+      "title_en": "从\"会说\"走向\"会创作\"| Seed Audio 1.0 音频创作模型发布",
+      "url": "https://seed.bytedance.com/zh/blog/%E4%BB%8E-%E4%BC%9A%E8%AF%B4-%E8%B5%B0%E5%90%91-%E4%BC%9A%E5%88%9B%E4%BD%9C-seed-audio-1-0-%E9%9F%B3%E9%A2%91%E5%88%9B%E4%BD%9C%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83",
+      "permalink": "https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu",
+      "source": "字节 Seed：Research Feed（网页内嵌数据）",
+      "publishedAt": "2026-07-19T16:00:00.000Z",
+      "summary": "字节跳动 Seed 团队发布音频创作模型 Seed Audio 1.0，在统一框架下联合建模人声、音效和环境声，支持 100ms 间隔精度的时间控制、单次约 2 分钟音频的延展生成及 20+ 语种自然生成。该模型已在火山方舟体验中心上线，多数场景音频可用率达 90% 以上，多语言音频自然度 MOS 超 4 分。",
+      "category": "ai-products",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu"
       }
     },
     {
@@ -375,6 +443,57 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmro8l78w00j5bitou01qowy4"
+      }
+    },
+    {
+      "id": "cmrsmh6lu0aj3biwm320odnsc",
+      "title": "从预训练到后训练：理解推理能力的强化学习缩放规律",
+      "title_en": "Understanding Reasoning from Pretraining to Post-Training",
+      "url": "https://arxiv.org/abs/2607.16097",
+      "permalink": "https://aihot.virxact.com/items/cmrsmh6lu0aj3biwm320odnsc",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-17T00:00:00.000Z",
+      "summary": "一项新研究以国际象棋为受控实验平台，系统探究了预训练与强化学习（RL）在推理任务中的交互关系。研究发现，给定RL计算量下的后训练性能可由预训练损失准确预测，且RL奖励曲线的斜率随预训练token数近似线性提升。在1B参数数学语言模型上，更长预训练的检查点在RL下性能更高、提升更快。",
+      "category": "paper",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrsmh6lu0aj3biwm320odnsc"
+      }
+    },
+    {
+      "id": "cmrsmh6lu0aj2biwm4bfip4jb",
+      "title": "RecGPT-V3 技术报告：状态化混合模态推荐系统在淘宝部署，IPV 提升 1.28%、GPU 成本降低 52.4%",
+      "title_en": "RecGPT-V3 Technical Report",
+      "url": "https://arxiv.org/abs/2607.15591",
+      "permalink": "https://aihot.virxact.com/items/cmrsmh6lu0aj2biwm4bfip4jb",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-17T00:00:00.000Z",
+      "summary": "淘宝部署的 RecGPT-V3 采用状态化行为建模、混合模态基础模型（融合文本标签与 Semantic IDs）和潜在意图推理，将用户建模计算量降低 55.8%，输出 token 成本下降。在\"猜你喜欢\"信息流的大规模在线 A/B 测试中，IPV 提升 1.28%、CTR 提升 1.00%、TC 提升 1.97%、GMV 提升 3.97%，端到端服务资源消耗降低 52.4%。",
+      "category": "paper",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrsmh6lu0aj2biwm4bfip4jb"
+      }
+    },
+    {
+      "id": "cmrsmh6lu0aj0biwmsi84t57e",
+      "title": "NVIDIA 发布 Audio-Visual Flamingo：面向长视频的开放音频-视觉大语言模型",
+      "title_en": "Audio-Visual Flamingo： Open Audio-Visual Intelligence for Long and Complex Videos",
+      "url": "https://arxiv.org/abs/2607.16107",
+      "permalink": "https://aihot.virxact.com/items/cmrsmh6lu0aj0biwmsi84t57e",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-17T00:00:00.000Z",
+      "summary": "NVIDIA 推出 Nemotron-Labs-Audio-Visual Flamingo（AV-Flamingo），一个完全开源的音频-视觉大语言模型，专为理解和推理长视频中的音频、图像与复杂场景设计。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrsmh6lu0aj0biwmsi84t57e"
       }
     },
     {
@@ -1549,24 +1668,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrj2yiav054pbilkyf6ufbw2"
       }
-    },
-    {
-      "id": "cmrijw1sy00j6bi0jshweyv4l",
-      "title": "黄仁勋：英伟达季度收入逼近千亿美元，Rubin Ultra 架构未延期",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/975/865.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrijw1sy00j6bi0jshweyv4l",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-13T00:55:29.000Z",
-      "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
-      "category": "industry",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrijw1sy00j6bi0jshweyv4l"
-      }
     }
   ],
-  "cachedAt": "2026-07-20T00:10:42Z"
+  "cachedAt": "2026-07-20T04:02:38Z"
 }
