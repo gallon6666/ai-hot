@@ -1,5 +1,5 @@
 {
-  "count": 98,
+  "count": 97,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -86,23 +86,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu"
-      }
-    },
-    {
-      "id": "cmrrvig4h01ctbi5qyidwptd7",
-      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-      "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-      "url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "permalink": "https://aihot.virxact.com/items/cmrrvig4h01ctbi5qyidwptd7",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "publishedAt": "2026-07-19T13:49:01.000Z",
-      "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-      "category": "ai-models",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrrvig4h01ctbi5qyidwptd7"
       }
     },
     {
@@ -1670,5 +1653,5 @@
       }
     }
   ],
-  "cachedAt": "2026-07-20T04:02:38Z"
+  "cachedAt": "2026-07-20T07:27:09Z"
 }
