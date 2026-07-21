@@ -1,8 +1,110 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MDQ0ODAwMDAwLCJpIjoiY21ybWtuNmo3MDN5ZmJpdWw0ZmEwYmFpOSJ9",
+  "nextCursor": "eyJhIjoxNzg0MDY1ODExMDAwLCJpIjoiY21ybDdhN2V3MDB2MmJpN2gwZG5wZGwybSJ9",
   "items": [
+    {
+      "id": "cmruuc0d80006bii0tzwael16",
+      "title": "Google 推出 Tunix：基于 JAX 的高吞吐智能体后训练库",
+      "title_en": "Scaling Agentic RL： High-Throughput Agentic Training with Tunix",
+      "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix",
+      "permalink": "https://aihot.virxact.com/items/cmruuc0d80006bii0tzwael16",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-07-21T16:00:05.337Z",
+      "summary": "Google 发布 Tunix，一个基于 JAX 的原生后训练库，旨在消除多轮、使用工具的 LLM 推理智能体训练中的 TPU 闲置瓶颈。Tunix 通过高并发异步 rollout 与解耦的生产者-消费者流水线最大化硬件吞吐量，确保训练器持续获得数据。该库提供即插即用抽象和持续宏观级性能分析，便于集成自定义环境。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmruuc0d80006bii0tzwael16"
+      }
+    },
+    {
+      "id": "cmruv3ut90051bii022t9ebry",
+      "title": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber 发布",
+      "title_en": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
+      "permalink": "https://aihot.virxact.com/items/cmruv3ut90051bii022t9ebry",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-21T15:55:51.307Z",
+      "summary": "Google 推出 Gemini 3.6 Flash，相比 3.5 Flash 输出 token 用量减少 17%，DeepSWE 准确率从 37% 提升至 49%，定价 $1.50/1M 输入 token。同时发布 3.5 Flash-Lite，输出速度达 350 tokens/s，定价 $0.3/1M 输入 token。两款模型均内置计算机使用工具。",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmruv3ut90051bii022t9ebry"
+      }
+    },
+    {
+      "id": "cmruv42p2008ebii0yteu9750",
+      "title": "Claude Cowork 新增技能录制功能",
+      "title_en": "New in Claude Cowork： teach Claude a skill. Record your screen while you do a task， talk through it…",
+      "url": "https://x.com/claudeai/status/2079595988998554047",
+      "permalink": "https://aihot.virxact.com/items/cmruv42p2008ebii0yteu9750",
+      "source": "X：Claude (@claudeai)",
+      "publishedAt": "2026-07-21T15:54:55.000Z",
+      "summary": "Claude Cowork 新功能：教 Claude 一项技能。\n录制你执行任务时的屏幕操作，边做边讲解，Claude 会将其转化为可重复运行的技能。在 Claude 桌面应用的 + 菜单中找到\"录制技能\"即可使用。\n适用于 Pro、Max 和 Team 套餐。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmruv42p2008ebii0yteu9750"
+      }
+    },
+    {
+      "id": "cmruu1gjc00bmbijq6ha16nyl",
+      "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
+      "title_en": "US threatens sanctions against Chinese AI models over IP theft",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft",
+      "permalink": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-21T15:37:05.000Z",
+      "summary": "美国财政部长Scott Bessent周二表示，美方将审查中国开源模型是否存在知识产权盗窃行为，若证实将对中国AI公司实施制裁。Bessent称政府支持开源模型但不支持IP盗窃，并称有能力对盗窃美国公司技术的外国模型进行制裁。此举正值中国模型（如Moonshot AI的Kimi K3）能力与受欢迎度持续提升，威胁OpenAI、Anthropic等美国头部AI企业的商业模式。",
+      "category": "industry",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl"
+      }
+    },
+    {
+      "id": "cmrusyoaf0bfgbi9ttofctwvj",
+      "title": "Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber 三款新模型",
+      "title_en": "Introducing Gemini 3.6 Flash， 3.5 Flash-Lite， and 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+      "permalink": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-07-21T15:16:30.000Z",
+      "summary": "Google DeepMind 推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber 三款新模型。其中 Gemini 3.6 Flash 为最新主力模型，3.5 Flash-Lite 主打更低成本与更高效率，3.5 Flash Cyber 则针对网络安全场景优化。三款模型均通过 Google AI 开发者平台提供 API 访问。",
+      "category": "ai-models",
+      "score": 57,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj"
+      }
+    },
+    {
+      "id": "cmrutwpdm000ubijq3c5m50x1",
+      "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
+      "title_en": "Measuring Reward-Seeking by Instilling Contrastive Beliefs",
+      "url": "https://alignment.openai.com/measuring-reward-seeking",
+      "permalink": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1",
+      "source": "OpenAI：Alignment 研究博客（RSS）",
+      "publishedAt": "2026-07-21T15:10:00.000Z",
+      "summary": "OpenAI 与 Apollo Research 开发了 Contrastive SDF 测试，通过向模型植入相反的评分者偏好信念来测量其行为变化。测试发现，未经安全训练的前沿规模强化学习模型更倾向于做评分者想要的事，即使违背用户意图，且该倾向随训练增强。",
+      "category": "paper",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1"
+      }
+    },
     {
       "id": "cmrupmpuw0755biuff0tzsfv5",
       "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
@@ -188,23 +290,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj"
-      }
-    },
-    {
-      "id": "cmrtfkakm2undbitla364sgej",
-      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-      "title_en": "Grok for Excel",
-      "url": "https://x.ai/news/introducing-excel-addin",
-      "permalink": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-07-20T16:19:52.655Z",
-      "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej"
       }
     },
     {
@@ -443,6 +528,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrsbql4401gxbiuaj7s1567n"
+      }
+    },
+    {
+      "id": "cmrtfkakm2undbitla364sgej",
+      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+      "title_en": "Grok for Excel",
+      "url": "https://x.ai/news/introducing-excel-addin",
+      "permalink": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-07-19T16:00:00.000Z",
+      "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej"
       }
     },
     {
@@ -1600,109 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrl7a7ew00v2bi7h0dnpdl2m"
       }
-    },
-    {
-      "id": "cmrl6xukw00ogbi7hnn35vq0v",
-      "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-      "title_en": "Cursor 0day：当全面披露成为唯一的防护手段时",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "permalink": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-14T21:27:11.693Z",
-      "summary": "安全公司 Mindgard 于 2025 年 12 月 15 日发现 Cursor IDE 存在严重 0day 漏洞。当用户在 Windows 上打开包含恶意 `git.exe` 的仓库时，Cursor 会自动执行该文件，无需任何用户交互。漏洞源于 Cursor 在加载项目时会在包括工作区在内的多个位置搜索 Git 二进制文件。Mindgard 在 7 个月内多次报告，Cursor CISO 虽确认但因内部自动化故障导致流程中断，至今已发布 70 多个新版本仍未修复。临时缓解措施包括使用 AppLocker 阻止从工作区目录执行该文件名，或在隔离虚拟机中打开不受信任的仓库。",
-      "category": "industry",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrl6xukw00ogbi7hnn35vq0v"
-      }
-    },
-    {
-      "id": "cmrl2m4yg00awbicqo2arojvd",
-      "title": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
-      "title_en": "Bonsai 27B：首款可在手机上运行的27B级模型",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "permalink": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-14T19:51:19.560Z",
-      "summary": "Bonsai 27B 基于 Qwen3.6 27B，提供三元（1.71 有效比特/权重，5.9 GB）和 1-bit（1.125 有效比特/权重，3.9 GB）两个变体，后者首次将 27B 级模型装入 iPhone 17 Pro。模型支持多步推理、结构化工具调用、视觉任务和计算机使用智能体循环，拥有 262K token 上下文窗口，支持推测解码加速。在 15 项基准测试中，三元变体保留全精度基线 95% 的性能，1-bit 变体保留 90%，数学和编码能力几乎无损。采用 Apache 2.0 许可证开源。",
-      "category": "ai-models",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrl2m4yg00awbicqo2arojvd"
-      }
-    },
-    {
-      "id": "cmrkzr5aw004ubinxdglyy7rn",
-      "title": "Google 因 AI 训练再遭出版商集体诉讼",
-      "title_en": "Google faces another AI training lawsuit from major publishers",
-      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
-      "permalink": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-14T18:33:31.000Z",
-      "summary": "包括 Hachette、Cengage、Elsevier 及作家 Scott Turow 在内的出版商与作者团体对 Google 提起集体诉讼，指控其未经授权使用受版权保护的作品训练 Gemini 模型，并故意移除或篡改版权信息以掩盖这一行为。原告称 Google 将原本仅用于 Google Books 搜索片段展示的书籍副本，以及 Google Play 商店上传的图书，非法用于 AI 训练。诉讼援引 Google 内部文件，其中指出此举可能带来\"100 亿至 1000 亿美元的潜在罚款\"。该案在纽约南区联邦地区法院提起。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrkzr5aw004ubinxdglyy7rn"
-      }
-    },
-    {
-      "id": "cmrkw3h0101xtbi5qs4nj3sxa",
-      "title": "Google 在 I/O Connect India 展示由 Tensor SoC 和 TPU 驱动的 Pixel 10 端侧 AI 未来",
-      "title_en": "Unlocking the Next Era of On-Device AI with Google Tensor and Pixel",
-      "url": "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel",
-      "permalink": "https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-07-14T16:51:42.219Z",
-      "summary": "在 Google I/O Connect India 上，Google 展示了由定制 Tensor SoC 和 TPU 驱动的 Pixel 10 系列所支持的 100% 私有端侧 AI 未来。活动首次推出轻量级 Gemma 4 E2B 模型，该模型原生运行于设备端，可实现完全离线的多模态功能，包括 AI 聊天、实时图像识别和个人智能体任务。开发者即日起可通过新发布的 Tensor SDK beta 及其配套开源资源，开始构建这些安全的边缘应用。",
-      "category": "ai-models",
-      "score": 58,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa"
-      }
-    },
-    {
-      "id": "cmrkw6m9501y5bi5qzfw2z9n5",
-      "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
-      "title_en": "如何让克劳德不再说\"承重\"",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "permalink": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-14T16:39:15.519Z",
-      "summary": "用户可通过 Claude 的 MessageDisplay Hook 机制自定义词汇替换。编写 Python 脚本，将\"seam\"替换为\"whatchamacallit\"、\"you're absolutely right\"替换为\"I'm a complete clown\"、\"honest take\"替换为\"spicy doodad\"、\"load-bearing\"替换为\"cooked\"，保存为 `~/.claude/hooks/wordswap.sh` 并赋予执行权限，再在 `~/.claude/settings.json` 的 hooks 块中配置该命令。Hook 在启动时加载，新会话即生效。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5"
-      }
-    },
-    {
-      "id": "cmrmkn6j703yfbiul4fa0bai9",
-      "title": "xAI 开源 Grok Build 编程智能体与终端界面",
-      "title_en": "Grok Build is Now Open Source",
-      "url": "https://x.ai/news/grok-build-open-source",
-      "permalink": "https://aihot.virxact.com/items/cmrmkn6j703yfbiul4fa0bai9",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-07-14T16:00:00.000Z",
-      "summary": "xAI 已将 Grok Build 的源代码在 GitHub 上开源。Grok Build 是 SpaceXAI 的编程智能体与终端用户界面（TUI），开源后用户可自行编译并完全本地运行，指向本地推理引擎并通过 `config.toml` 配置。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmkn6j703yfbiul4fa0bai9"
-      }
     }
   ],
-  "cachedAt": "2026-07-21T14:19:43Z"
+  "cachedAt": "2026-07-21T16:40:13Z"
 }
