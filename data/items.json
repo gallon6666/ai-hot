@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MDQyMjc5MDAwLCJpIjoiY21ya3RiMWUxMDEydmJpNXF4a252eHl4cCJ9",
+  "nextCursor": "eyJhIjoxNzg0MDQ0ODAwMDAwLCJpIjoiY21ybWtuNmo3MDN5ZmJpdWw0ZmEwYmFpOSJ9",
   "items": [
+    {
+      "id": "cmrupmpuw0755biuff0tzsfv5",
+      "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
+      "title_en": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
+      "permalink": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-07-21T12:54:02.000Z",
+      "summary": "Anthropic 的 Cat Wu 和 Thariq Shihipar 在炉边对话中透露，Claude Tag 现已承担 Claude Code 团队 65% 的产品工程 PR。Claude Code 系统提示词最近缩减了 80%，团队越来越多地依赖自动化代码审查处理产品\"外层\"变更。Fable 已能一次性完成大量功能实现，Thariq 还用它编辑了自己的产品发布视频。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5"
+      }
+    },
     {
       "id": "cmrujyaak0mhmbi07h3daik9b",
       "title": "小红书 dots 模型获 IMO 2026 满分金牌",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrmkn6j703yfbiul4fa0bai9"
       }
-    },
-    {
-      "id": "cmrktb1e1012vbi5qxknvxyxp",
-      "title": "纽约州暂停所有新建大型数据中心项目",
-      "title_en": "New York State halts construction of all new data centers",
-      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
-      "permalink": "https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-14T15:17:59.000Z",
-      "summary": "纽约州成为全美首个暂停数据中心建设的州。州长Kathy Hochul签署行政令，暂时禁止州政府批准50兆瓦及以上大型数据中心的新建许可，可能影响十余个项目。Hochul表示数据中心不应带来更高的电费、水资源消耗或噪音污染，且不能豁免地方区划和审批。禁令将在州政府完成数据中心环境审查流程后解除，预计耗时约一年。Hochul还考虑要求数据中心为州电网提供资金支持，并阻止超大规模数据中心享受税收优惠。此举正值纽约州立法机构推进更严格措施之际，上月一项法案已推进暂停20兆瓦以上数据中心建设一年。",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp"
-      }
     }
   ],
-  "cachedAt": "2026-07-21T11:58:43Z"
+  "cachedAt": "2026-07-21T14:19:43Z"
 }
