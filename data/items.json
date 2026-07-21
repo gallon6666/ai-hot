@@ -1,8 +1,76 @@
 {
   "count": 100,
-  "hasNext": false,
-  "nextCursor": null,
+  "hasNext": true,
+  "nextCursor": "eyJhIjoxNzg0MDE5MzY3MDAwLCJpIjoiY21ya2Y4Z3VuMDFhNGJpenN0aGp5dHg2YyJ9",
   "items": [
+    {
+      "id": "cmru3vmv252v2bihzm2btrcpy",
+      "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
+      "title_en": "Hyra发布：一个简单有效的科学发现智能体",
+      "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
+      "permalink": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
+      "source": "公众号：腾讯混元",
+      "publishedAt": "2026-07-21T03:33:08.000Z",
+      "summary": "腾讯混元推出Hyra-1.0，一个能递归自我改进的研究智能体，在NanoChat等三项任务上均超越Recursive公开结果。Hyra在55个数学开放问题中刷新29个历史最好结果，并设计出仅含15个可训练参数即可完成10位数加法的Transformer。所有产物已在GitHub开源。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy"
+      }
+    },
+    {
+      "id": "cmru21tbc4mjcbihzxvgo4yo1",
+      "title": "Anthropic 与作家群体15亿美元版权和解获批",
+      "title_en": "美国版权案件最高金额：Anthropic 与作家群体 15 亿美元和解获批",
+      "url": "https://www.ithome.com/0/979/324.htm",
+      "permalink": "https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-21T01:57:54.000Z",
+      "summary": "美国旧金山联邦法官批准了Anthropic与作家群体达成的15亿美元（约101.67亿元人民币）版权和解协议，这是美国金额最大的版权赔偿案。此前法院裁定Anthropic对书籍进行AI训练属于合理使用，但保存超700万本盗版书籍侵犯了作者权利。Anthropic称超91%的受约束作者和出版商已领取赔偿。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmru21tbc4mjcbihzxvgo4yo1"
+      }
+    },
+    {
+      "id": "cmrtyvkng3voibihzero6pry1",
+      "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
+      "title_en": "AI说不出的随机数，成了鉴别套壳大模型最好的照妖镜。",
+      "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
+      "permalink": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-07-21T01:10:49.000Z",
+      "summary": "布拉格经济大学研究员托马什·布鲁克纳发现，通过让模型反复输出1到100的随机数，可生成独一无二的\"行为指纹\"。对165个模型各问30次后发现，GPT-4o偏爱42和37，Claude Sonnet 5疯狂输出47，Qwen3-Max则30次全部回答42。该方法仅需约120条请求即可识别模型身份，错误率约10.6%，为验证API是否被偷换模型提供了轻量级方案。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1"
+      }
+    },
+    {
+      "id": "cmrtxsl2e3o24bihzutblssoo",
+      "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+      "title_en": "代理群与新经济模式",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "permalink": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-21T00:35:26.928Z",
+      "summary": "一项实验证明，将任务分解为规划者与执行者的树状结构后，代理群在四小时内用 Grok 4.5 达到 80% 的 SQL 测试通过率，而旧版代理群在第二小时前即失败。新系统峰值提交速度达每秒 1，000 次，为此团队从零构建了专用版本控制系统。该架构已在构建浏览器、修复漏洞及生成数十亿 token 合成数据等任务中验证。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo"
+      }
+    },
     {
       "id": "cmrtkxcfk49mmbitl5rnaga7n",
       "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
@@ -1634,75 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrkf8gun01a4bizsthjytx6c"
       }
-    },
-    {
-      "id": "cmrkedwpc013nbizssg3olzs7",
-      "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-      "title_en": "内置\"任意门\"，高德发布通用世界模型工坊 ABot-WorldStudio",
-      "url": "https://www.ithome.com/0/976/538.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrkedwpc013nbizssg3olzs7",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-14T07:46:46.000Z",
-      "summary": "阿里巴巴旗下高德发布通用世界模型工坊 ABot-WorldStudio，并开放测试。该产品将交互式视频生成与 3DGS 场景生成统一，用户输入文字或图片即可生成可实时交互、可分享的 AI 世界。工坊内置\"时空任意门\"，穿越后可跃迁至另一完整 3D 世界。官方实测单次连续推理稳定运行超1小时，无崩溃、无质量衰减。底层模型 ABot-World0 与 ABot-3DWorld0 均可在单张 5090 上本地部署，已全面开源。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrkedwpc013nbizssg3olzs7"
-      }
-    },
-    {
-      "id": "cmrkbtf5p0090bizscsgmhctc",
-      "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
-      "title_en": "那我们还能做些什么呢？",
-      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-      "permalink": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-14T07:07:34.621Z",
-      "summary": "普林斯顿大学教授 Arvind Narayanan 在首尔 ICML 2026 上发表主旨演讲，提出三个核心论点：第一，\"AI 作为正常技术\"框架是思考 AI 影响的正确方式；第二，即使应认真对待递归自我改进，实验室中没有任何里程碑会突然让所有人失业；第三，未来工作将发生根本性变化，需要大量适应。他呼吁 AI 社区不应接受工作被取代，而应主动建立与 AI 互补的技能（如判断力、品味），并展望了人类与 AI 的\"共超智能\"愿景。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc"
-      }
-    },
-    {
-      "id": "cmrk1airt02fybiw2ou71j8uf",
-      "title": "面壁智能CTO曾国洋专访：端侧模型是AI落地关键路径",
-      "title_en": "专访面壁智能CTO曾国洋：「Her」成为现实，还有几道坎",
-      "url": "https://mp.weixin.qq.com/s/s75qDGt5iNqLXyMbjpwxeQ",
-      "permalink": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "publishedAt": "2026-07-14T02:29:00.000Z",
-      "summary": "面壁智能CTO曾国洋指出，端侧模型是AI落地的关键路径。其原创方法论\"模型风洞\"可在小规模实验中预测完整训练效果，并基于\"知识密度\"提出\"面壁定律\"：知识密度每3.5个月翻一番。2B参数的MiniCPM表现优于同期8B竞品。面壁已完成高通、联发科、英特尔、英伟达、AMD等芯片适配，新发布的BitCPM-CANN模型系列可在华为昇腾芯片上让同一内存多装约6倍模型。全双工全模态模型MiniCPM-o4.5支持实时打断与情绪调整。团队开发了全球首个完全由AI编写的生产级训练框架ForgeTrain，并引入行为模式库实现无需开口的\"默契系统\"。",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf"
-      }
-    },
-    {
-      "id": "cmrjy99kt01nvbiw22bwjsvnv",
-      "title": "商汤开源 SenseNova-Vision-7B-MoT 多任务视觉模型",
-      "title_en": "SenseNova-Vision-7B-MoT， fully open-sourced： one model， �…",
-      "url": "https://x.com/SenseTime_AI/status/2076828658531262619",
-      "permalink": "https://aihot.virxact.com/items/cmrjy99kt01nvbiw22bwjsvnv",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "publishedAt": "2026-07-14T00:38:32.000Z",
-      "summary": "商汤发布并完全开源 SenseNova-Vision-7B-MoT，一个统一处理检测、OCR、GUI、深度与法线估计、分割、多视图等主要视觉任务的模型。该模型支持通过自然语言定义新的视觉任务变体，跨传统任务边界重组视觉能力。开源内容包括模型权重及 SenseNova-Vision Corpus（含 5000 万示例子集及复现剩余公开数据的完整工具包）。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrjy99kt01nvbiw22bwjsvnv"
-      }
     }
   ],
-  "cachedAt": "2026-07-21T00:07:56Z"
+  "cachedAt": "2026-07-21T03:42:50Z"
 }
