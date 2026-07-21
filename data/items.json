@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MDQyMjYwMDAwLCJpIjoiY21ya3RhMmZ2MDExdmJpNXFlN2hkd2gwcyJ9",
+  "nextCursor": "eyJhIjoxNzg0MDQyMjc5MDAwLCJpIjoiY21ya3RiMWUxMDEydmJpNXF4a252eHl4cCJ9",
   "items": [
+    {
+      "id": "cmrujyaak0mhmbi07h3daik9b",
+      "title": "小红书 dots 模型获 IMO 2026 满分金牌",
+      "title_en": "小红书dots模型取得IMO 2026满分金牌水平",
+      "url": "https://mp.weixin.qq.com/s/EITf-SrP5o62Ljp7UGzPVw",
+      "permalink": "https://aihot.virxact.com/items/cmrujyaak0mhmbi07h3daik9b",
+      "source": "公众号：小红书技术（dots.llm）",
+      "publishedAt": "2026-07-21T11:06:49.000Z",
+      "summary": "小红书 dots 团队携内部版本 dots-note 3.0 参加第 67 届 IMO 2026，六道题均获满分，以 42/42 分取得满分金牌，全球仅 7 位人类选手获此成绩。模型不依赖形式化语言，直接读取原始 LaTeX 题目，通过递归自我批判能力端到端完成解题。dots-note 3.0 是 dots3 系列最轻量级模型，预期将开源。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrujyaak0mhmbi07h3daik9b"
+      }
+    },
     {
       "id": "cmru9nwvo0b1kbi7f5vi9uqfu",
       "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp"
       }
-    },
-    {
-      "id": "cmrkta2fv011vbi5qe7hdwh0s",
-      "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
-      "title_en": "http://x.com/i/article/2067347903761485824",
-      "url": "https://x.com/googleaidevs/status/2077049898059354565",
-      "permalink": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
-      "source": "X：Google AI for Developers (@googleaidevs)",
-      "publishedAt": "2026-07-14T15:17:40.000Z",
-      "summary": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言、近实时延迟的语音到语音翻译。该模型直接处理原始音频流，保留说话者语调、节奏和音高。东南亚超级应用 Grab 正探索将其用于司机与乘客间的跨语言沟通，其用户每月发起超 1000 万次语音通话。开发者可通过 Gemini Live API 集成 LiveKit、Fishjam、Pipecat 或 Vision Agents 构建应用。LiveKit 已实现虚拟会议室多语言即时理解；Software Mansion 结合 MoQ 协议突破流媒体瓶颈；VisionAgents AI 展示了动态多语言切换能力。开发者可在 Google AI Studio 试用并获取 Cookbook 示例代码。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s"
-      }
     }
   ],
-  "cachedAt": "2026-07-21T09:38:10Z"
+  "cachedAt": "2026-07-21T11:58:43Z"
 }
