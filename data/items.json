@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MDIwMjE2MDAwLCJpIjoiY21ya2dkZG1lMDFtbmJpenN1Z2pzdjMyayJ9",
+  "nextCursor": "eyJhIjoxNzg0MDQyMjYwMDAwLCJpIjoiY21ya3RhMmZ2MDExdmJpNXFlN2hkd2gwcyJ9",
   "items": [
     {
       "id": "cmru9nwvo0b1kbi7f5vi9uqfu",
@@ -208,6 +208,23 @@
       }
     },
     {
+      "id": "cmrtal6bt1vmsbitl1mta8hxg",
+      "title": "昆仑万维发布并开源可交互世界模型 Matrix-Game 3.5",
+      "title_en": "游戏引擎将死，世界模型奇点临近，Matrix Game-3.5引领游戏世界开源模型第一品牌",
+      "url": "https://mp.weixin.qq.com/s/TUVv2wvp4RixsblDLrvSGg",
+      "permalink": "https://aihot.virxact.com/items/cmrtal6bt1vmsbitl1mta8hxg",
+      "source": "公众号：昆仑万维（天工）",
+      "publishedAt": "2026-07-20T13:45:18.000Z",
+      "summary": "昆仑万维在 WAIC 2026 发布并开源新一代可交互世界模型 Matrix-Game 3.5。该模型通过 Patch Memory 与 Warped PRoPE 实现长期记忆与几何一致性建模，可在单张 GPU 上以 720P 分辨率、约 20FPS 实时生成流式视频。",
+      "category": "ai-models",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrtal6bt1vmsbitl1mta8hxg"
+      }
+    },
+    {
       "id": "cmrt81fki1d1fbitln44dzsrr",
       "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
       "title_en": "LoRA Speedrun--一个针对微调技术的公开实际运行时间排行榜",
@@ -409,6 +426,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrsopm9r0b7ubiwmtfvpwkxu"
+      }
+    },
+    {
+      "id": "cmrrvig4h01ctbi5qyidwptd7",
+      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+      "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+      "url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "permalink": "https://aihot.virxact.com/items/cmrrvig4h01ctbi5qyidwptd7",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-07-19T13:49:01.000Z",
+      "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrrvig4h01ctbi5qyidwptd7"
       }
     },
     {
@@ -1398,6 +1432,23 @@
       }
     },
     {
+      "id": "cmrlkhlt50c6ebi2bm7wu1q8a",
+      "title": "腾讯混元发布 Hy3 1-bit 与 4-bit 版本",
+      "title_en": "Can't Find Benchmark and download link ？ See here 👇https://huggingface.co/AngelSlim/Hy3-GGUF",
+      "url": "https://x.com/TencentHunyuan/status/2077241060523426067",
+      "permalink": "https://aihot.virxact.com/items/cmrlkhlt50c6ebi2bm7wu1q8a",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "publishedAt": "2026-07-15T03:57:16.000Z",
+      "summary": "找不到基准测试和下载链接？看这里👇https://huggingface.co/AngelSlim/Hy3-GGUF\n\n我们刚刚发布了 Hy3 的 1-bit 与 4-bit 版本，这是一个旗舰级 295B 模型，可在单张 GPU 上运行。👌\n\n使用 llama.cpp 运行 Hy3，启用 MTP，在显著更低的硬件上体验强大的智能。🚀🚀🚀\n\n迫不及待想看到你们的作品。\n\n#Hy3 #Hy #GGUF #llamacpp",
+      "category": "ai-models",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrlkhlt50c6ebi2bm7wu1q8a"
+      }
+    },
+    {
       "id": "cmrljx6d90bx6bi2bpkubslio",
       "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
       "title_en": "数据中心已使公众的电费增加了230亿美元",
@@ -1651,58 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s"
       }
-    },
-    {
-      "id": "cmrksgyym00utbi5qx5x6v42u",
-      "title": "Anthropic 推出 Claude for Teachers",
-      "title_en": "Introducing Claude for Teachers",
-      "url": "https://www.anthropic.com/news/claude-for-teachers",
-      "permalink": "https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-07-14T15:11:11.440Z",
-      "summary": "Anthropic 发布 Claude for Teachers，为美国认证的 K-12 教师免费提供高级 Claude 功能、教学技能库及对接全美 50 州学术标准的课程资源。该工具连接 Learning Commons，可调用 OpenSciEd、IM v.360 等课程资源，并集成 ASSISTments、Brisk Teaching、Canva Education 等第三方工具。教师可基于高质量教材规划课程、为不同水平学生差异化教学，还能通过 Claude Code 和 Cowork 自动分析班级数据、安排重复任务。教师数据不用于模型训练，学生信息受 FERPA 合规的 K-12 数据处理附录保护。Anthropic 同时发布与 Teach for America 及美国教师联合会共创的 AI 素养课程。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrksgyym00utbi5qx5x6v42u"
-      }
-    },
-    {
-      "id": "cmrko155e005ubixirangezv8",
-      "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
-      "title_en": "How Canada uses Claude： Findings from the Anthropic Economic Index",
-      "url": "https://www.anthropic.com/research/how-canada-uses-claude",
-      "permalink": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-07-14T13:06:56.913Z",
-      "summary": "基于2026年2月Claude.ai对话样本，加拿大占全球流量的2.6%，人均使用量是预期的4.4倍，在总使用量前十国家中仅次于美国。加拿大内部采用率高度集中：安大略省占43.9%对话，不列颠哥伦比亚省人均使用量达预期的1.4倍，而纽芬兰与拉布拉多省仅为0.2倍。省级人均使用量与收入无关，而与专业、科学和技术服务业的就业占比高度相关。各省使用场景稳定：工作占34-40%，课程作业占13-18%，个人用途占44-51%。翻译请求与公共管理就业份额正相关，反映加拿大联邦双语政策；文档翻译是加拿大相对于其他英语国家最独特的使用场景。加拿大整体使用偏向学术和早期职业场景。",
-      "category": "paper",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8"
-      }
-    },
-    {
-      "id": "cmrkgddme01mnbizsugjsv32k",
-      "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
-      "title_en": "http://x.com/i/article/2076946210397552640",
-      "url": "https://x.com/demishassabis/status/2076957440109625718",
-      "permalink": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k",
-      "source": "X：Demis Hassabis (@demishassabis)",
-      "publishedAt": "2026-07-14T09:10:16.000Z",
-      "summary": "Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数年即可实现，其影响将达工业革命的10倍且速度更快。他指出，前沿模型在网络安全、核与生物风险方面已构成挑战，未来需对日益智能体化、递归自我改进的系统建立稳健防护。Hassabis 呼吁美国率先建立类似 FINRA 的前沿AI标准机构，采用联邦监督下的公私合作或自律组织模式，由独立技术专家和开源代表组成董事会，资金主要来自行业以吸引顶尖人才和算力。他强调，当前商业与地缘竞赛导致技术进步快于理解，需以谨慎乐观态度推进公共政策，兼顾创新与安全。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k"
-      }
     }
   ],
-  "cachedAt": "2026-07-21T06:39:57Z"
+  "cachedAt": "2026-07-21T09:38:10Z"
 }
