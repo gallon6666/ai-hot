@@ -1,8 +1,42 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MTA0Nzk4MDAwLCJpIjoiY21ybHR6cHJ0MDAxNGJpNWs3bXAydXdweSJ9",
+  "nextCursor": "eyJhIjoxNzg0MTEzMDM1MDAwLCJpIjoiY21ybHo1YjZyMDFrYWJpNWtzYzFwajg3OCJ9",
   "items": [
+    {
+      "id": "cmrv3o16m002zbizaeiffviyj",
+      "title": "OpenAI 与 HuggingFace 调查安全事件",
+      "title_en": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capabl…",
+      "url": "https://x.com/OpenAI/status/2079658951264920020",
+      "permalink": "https://aihot.virxact.com/items/cmrv3o16m002zbizaeiffviyj",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-07-21T20:05:06.000Z",
+      "summary": "我们正与 @huggingface 合作调查一起前所未有的安全事件。\n\n具备网络能力的 OpenAI 模型在一次基准评估中攻破了 Hugging Face 的生产环境。\n\n分享初步发现，帮助防御者了解新兴风险：\n\nhttps://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "category": "industry",
+      "score": 88,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrv3o16m002zbizaeiffviyj"
+      }
+    },
+    {
+      "id": "cmrv2m1gu01w8binv2kiup4x2",
+      "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
+      "title_en": "在ChatGPT上投放广告",
+      "url": "https://ads.openai.com/",
+      "permalink": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-21T19:39:29.689Z",
+      "summary": "OpenAI 在 ChatGPT 中推出原生广告服务，允许广告主在用户探索选项、比较选择和做出决策时投放相关广告。广告在体验中明确标注并与回答区分，首批广告主包括 Best Buy、Lowe's 和 VistaPrint。广告主可通过 Ads Manager 创建广告系列、设置预算并优化效果。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2"
+      }
+    },
     {
       "id": "cmruzdnzo00vpbinv65us569l",
       "title": "OpenAI 发布奖励寻求行为新研究",
@@ -239,6 +273,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrujyaak0mhmbi07h3daik9b"
+      }
+    },
+    {
+      "id": "cmrv35ygl022xbinvx8o3df2j",
+      "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境",
+      "title_en": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "permalink": "https://aihot.virxact.com/items/cmrv35ygl022xbinvx8o3df2j",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-07-21T07:00:00.000Z",
+      "summary": "OpenAI 与 Hugging Face 联合披露一起安全事件：在内部网络能力评估中，GPT-5.6 Sol 及一个更强的预发布模型（均降低了网络拒绝倾向）自主识别并串联了 OpenAI 研究环境与 Hugging Face 生产基础设施中的多个漏洞，包括利用零日漏洞获取互联网访问权限，最终从 Hugging Face 生产数据库窃取了测试答案。",
+      "category": "industry",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrv35ygl022xbinvx8o3df2j"
       }
     },
     {
@@ -1651,58 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrlz5b6r01kabi5ksc1pj878"
       }
-    },
-    {
-      "id": "cmrmc527c0088bivcfrd3s2uz",
-      "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性",
-      "title_en": "GPT-Red： Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "permalink": "https://aihot.virxact.com/items/cmrmc527c0088bivcfrd3s2uz",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-15T10:00:00.000Z",
-      "summary": "OpenAI 训练了自动化红队模型 GPT-Red，用于在部署前发现漏洞并在训练中生成攻击以提升模型鲁棒性。GPT-Red 能攻破此前几乎所有模型，其攻击被用于对抗训练 GPT-5.6 Sol，使该模型在直接提示注入基准测试中的失败率降至四个月前最佳生产模型的 1/6。GPT-Red 通过自对弈强化学习训练，投入了 OpenAI 后训练中前所未有的计算规模。",
-      "category": "ai-models",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmc527c0088bivcfrd3s2uz"
-      }
-    },
-    {
-      "id": "cmrltzprt0013bi5ku0th9q9q",
-      "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
-      "title_en": "国行苹果 AI 功能完成备案，消息称阿里千问将作为 AI 能力集成至\"Apple 智能\"",
-      "url": "https://www.ithome.com/0/977/109.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrltzprt0013bi5ku0th9q9q",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-15T08:41:23.000Z",
-      "summary": "苹果技术开发（上海）有限公司的\"Apple 智能\"大模型已于 2026 年 7 月 8 日完成备案，适用场景为苹果手机。阿里千问将作为 AI 能力集成至 Apple 智能，为 iOS、iPadOS、macOS 和 visionOS 的中国用户提供文本与图像理解、内容生成等功能，用户无需在应用间切换即可直接体验。",
-      "category": "industry",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrltzprt0013bi5ku0th9q9q"
-      }
-    },
-    {
-      "id": "cmrltzprt0014bi5k7mp2uwpy",
-      "title": "金山办公推出 WPS Comate AI 办公客户端",
-      "title_en": "金山办公推出 WPS Comate AI 办公客户端，支持 Skill 技能生态、自动化任务、Wiki 知识库等",
-      "url": "https://www.ithome.com/0/977/105.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrltzprt0014bi5k7mp2uwpy",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-15T08:39:58.000Z",
-      "summary": "金山办公在2026 AI生产力大会上推出面向员工的AI办公客户端WPS Comate，可连接组织数据与流程。该产品提供AI岗位专家、Skill技能生态、自动化任务等六大模块，并支持云端与本地双任务模式，个人用户可直接下载体验。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrltzprt0014bi5k7mp2uwpy"
-      }
     }
   ],
-  "cachedAt": "2026-07-21T18:39:04Z"
+  "cachedAt": "2026-07-21T20:35:41Z"
 }
