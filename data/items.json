@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MTEzMDM1MDAwLCJpIjoiY21ybHo1YjZyMDFrYWJpNWtzYzFwajg3OCJ9",
+  "nextCursor": "eyJhIjoxNzg0MTI5ODM5NDUwLCJpIjoiY21ybTluZTkxMDFncWJpaWprZ3JqNnQ5aCJ9",
   "items": [
     {
       "id": "cmrv3o16m002zbizaeiffviyj",
@@ -35,6 +35,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2"
+      }
+    },
+    {
+      "id": "cmruze9vm00ywbinvdmqyi5j0",
+      "title": "Laguna S 2.1 免费开源上线 OpenCode",
+      "title_en": "Laguna S 2.1 is now free on OpenCode 1M Context · fully open source Poolside's most capable model …",
+      "url": "https://x.com/opencode/status/2079631772770242808",
+      "permalink": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
+      "source": "X：opencode (@opencode)",
+      "publishedAt": "2026-07-21T18:17:06.000Z",
+      "summary": "Laguna S 2.1 现已在 OpenCode 上免费提供\n\n1M 上下文窗口 · 完全开源\n\nPoolside 迄今为止最强大的模型",
+      "category": "ai-products",
+      "score": 56,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0"
       }
     },
     {
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrm9ne9101gqbiijkgrj6t9h"
       }
-    },
-    {
-      "id": "cmrlz5b6r01kabi5ksc1pj878",
-      "title": "阿里Qwen将集成至Apple Intelligence服务中国用户",
-      "title_en": "We learned that Alibaba's Qwen will be integrated into Apple Intelligence as part of its AI capabili…",
-      "url": "https://x.com/thexpin/status/2077346752219521469",
-      "permalink": "https://aihot.virxact.com/items/cmrlz5b6r01kabi5ksc1pj878",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-07-15T10:57:15.000Z",
-      "summary": "阿里巴巴的Qwen模型将被集成到Apple Intelligence中，为中国的iOS、iPadOS、macOS和visionOS用户提供文本与图像理解、内容生成等AI功能。中国网信办已公布包括Apple Intelligence、华为小艺大模型、OPPO AndesGPT在内的七项移动端生成式AI服务备案信息。阿里巴巴董事会主席蔡崇信表示，苹果在选定阿里前曾与多家中国公司洽谈。",
-      "category": "industry",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrlz5b6r01kabi5ksc1pj878"
-      }
     }
   ],
-  "cachedAt": "2026-07-21T20:35:41Z"
+  "cachedAt": "2026-07-21T22:10:43Z"
 }
