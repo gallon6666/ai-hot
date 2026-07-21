@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MTI5ODM5NDUwLCJpIjoiY21ybTluZTkxMDFncWJpaWprZ3JqNnQ5aCJ9",
+  "nextCursor": "eyJhIjoxNzg0MTMxMjAwMDAwLCJpIjoiY21ybnNlN3F5MDAydGJpeHk3Z25vbHZyMyJ9",
   "items": [
+    {
+      "id": "cmrv7y3de002lbi8rsqvvaoq1",
+      "title": "OpenRouter 上线 Gemini 3.6 Flash 与 3.5 Flash-Lite",
+      "title_en": "Launched today on OpenRouter： Gemini 3.6 Flash and Gemini 3.5 Flash-Lite！ Both strong updates to th…",
+      "url": "https://x.com/OpenRouter/status/2079686435247186015",
+      "permalink": "https://aihot.virxact.com/items/cmrv7y3de002lbi8rsqvvaoq1",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-07-21T21:54:19.000Z",
+      "summary": "今日在 OpenRouter 上线：Gemini 3.6 Flash 和 Gemini 3.5 Flash-Lite！\n两者均为其模型系列的重大更新，具备高吞吐量（150+ tok/s），适用于智能体场景，从高效 token 的编码与知识工作，到低延迟、高并发的子智能体。\n详情如下 🧵",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrv7y3de002lbi8rsqvvaoq1"
+      }
+    },
     {
       "id": "cmrv3o16m002zbizaeiffviyj",
       "title": "OpenAI 与 HuggingFace 调查安全事件",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrnse7qy002tbixy7gnolvr3"
       }
-    },
-    {
-      "id": "cmrm9ne9101gqbiijkgrj6t9h",
-      "title": "Telegram 无服务器架构",
-      "title_en": null,
-      "url": "https://core.telegram.org/bots/serverless",
-      "permalink": "https://aihot.virxact.com/items/cmrm9ne9101gqbiijkgrj6t9h",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-15T15:37:19.450Z",
-      "summary": "Telegram Serverless 允许开发者直接在 Telegram 基础设施上运行 Bot 和 Mini App 的后端代码，无需配置服务器或容器。开发者编写普通 JavaScript 模块，通过 `npx tgcloud push` 单命令部署，代码在靠近 Bot API 和内建数据库的轻量级 V8 隔离沙箱中执行。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrm9ne9101gqbiijkgrj6t9h"
-      }
     }
   ],
-  "cachedAt": "2026-07-21T22:10:43Z"
+  "cachedAt": "2026-07-21T23:10:12Z"
 }
