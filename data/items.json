@@ -1,8 +1,59 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MTQ3MTY2MDAwLCJpIjoiY21ybWs2bDNrMDNydGJpdWxsN28zOWtxMCJ9",
+  "nextCursor": "eyJhIjoxNzg0MTYxOTk4MDAwLCJpIjoiY21ybXNmbzVxMDBmMGJpbWlzMnQxbWJjaSJ9",
   "items": [
+    {
+      "id": "cmrw3blsc00n51p884m3ka7o2",
+      "title": "实测Qwen-Image-3.0：19大场景挑战GPT Image2，中文长文本与多图融合表现亮眼",
+      "title_en": "19大场景实测Qwen-Image-3.0，GPT Image2不再是生图的唯一选择了",
+      "url": "https://mp.weixin.qq.com/s/PnXGmmDYejrHBSpoRBOHkg",
+      "permalink": "https://aihot.virxact.com/items/cmrw3blsc00n51p884m3ka7o2",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-07-22T12:34:24.000Z",
+      "summary": "Qwen-Image-3.0上线，支持最高4.5k token输入、12种语言、20多种字体，以及多图融合、图中图和图片编辑。实测显示，其在中文长文本生成、多语言混合排版、UI设计、多图融合与图片编辑等19个场景中均能稳定输出，文字不崩且信息对应准确，图片质量已能与GPT Image2媲美。该模型在国内可直接使用，速度快且价格不贵。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrw3blsc00n51p884m3ka7o2"
+      }
+    },
+    {
+      "id": "cmrw3195500ep1p88xaztf2mf",
+      "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型",
+      "title_en": "🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
+      "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
+      "permalink": "https://aihot.virxact.com/items/cmrw3195500ep1p88xaztf2mf",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-07-22T12:28:08.000Z",
+      "summary": "通义千问发布第三代图像生成模型Qwen-Image-3.0，核心关键词为\"真实\"。模型支持最长4.5k token的提示词，可一次性生成复杂布局（如报纸、试卷、3×3信息图），并能渲染10px级文字、完整LaTeX论文页面及逼真皮肤纹理。它还支持12种语言、100多种艺术风格，并具备实时网络检索能力，旨在成为设计、教育等领域的实用生产力工具。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrw3195500ep1p88xaztf2mf"
+      }
+    },
+    {
+      "id": "cmrvx8ycy0240bipz0pkrvryq",
+      "title": "小红书开源 BigMac：多模态大模型训练新范式",
+      "title_en": "小红书 dots infra 开源BigMac ： 突破多模态大模型训练的帕累托前沿",
+      "url": "https://mp.weixin.qq.com/s/tNJARtn1jIayL5URg87Row",
+      "permalink": "https://aihot.virxact.com/items/cmrvx8ycy0240bipz0pkrvryq",
+      "source": "公众号：小红书技术（dots.llm）",
+      "publishedAt": "2026-07-22T10:04:51.000Z",
+      "summary": "小红书技术团队开源 BigMac，一种针对多模态大模型训练的依赖安全嵌套流水线新范式。它以 LLM 流水线为主干，在不打乱执行顺序的前提下嵌入编码器和生成器计算，相比基线实现 1.08x-1.9x 加速，同时保持激活显存有界。BigMac 已作为 dots 多模态模型训练的核心组件投入生产。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrvx8ycy0240bipz0pkrvryq"
+      }
+    },
     {
       "id": "cmrvmzjnv03yrbihbnkg6r8nd",
       "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
@@ -1651,58 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci"
       }
-    },
-    {
-      "id": "cmrmrjrwk001pbimilq46mpeq",
-      "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-      "title_en": "分享一下我现在随时随地让Agent干活的远程操控方案。",
-      "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
-      "permalink": "https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-16T00:12:00.000Z",
-      "summary": "作者分享了一套远程使用Agent的组合方案：以Codex的远程控制功能作为主力，通过ChatGPT App连接家中24小时开机的Mac Mini，同步所有开发任务、规则和Agent记忆；遇到扫码登录、图形界面操作等Codex难以处理的场景时，用网易UU远程在手机上直接操控电脑完整桌面。UU远程完全免费，支持多设备协同，无需局域网或公网配置。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq"
-      }
-    },
-    {
-      "id": "cmrmotlpp07iubiuloujszkts",
-      "title": "开源编程智能体内存方案发布，通过 SSH 同步",
-      "title_en": "用于编程代理的开源内存，通过SSH同步",
-      "url": "https://github.com/vshulcz/deja-vu",
-      "permalink": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-15T22:49:15.715Z",
-      "summary": "一个面向编程 AI 智能体的开源内存项目在 GitHub 发布，支持通过 SSH 同步记忆数据。该项目允许智能体跨会话保留上下文，无需依赖特定云服务，用户可自托管。代码已开源，便于开发者集成与定制。",
-      "category": "ai-products",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts"
-      }
-    },
-    {
-      "id": "cmrmk6l3k03rtbiull7o39kq0",
-      "title": "Claude Code 新增 MCP 连接器调用功能",
-      "title_en": "Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
-      "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
-      "permalink": "https://aihot.virxact.com/items/cmrmk6l3k03rtbiull7o39kq0",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-07-15T20:26:06.000Z",
-      "summary": "Claude Code 的 artifacts 现在可以调用 MCP 连接器，让你构建能够按需为每位查看者获取信息并执行操作的仪表盘和应用。\n\n适用于 Pro、Max、Team 和 Enterprise 计划。不适用于公开共享的 artifacts。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmk6l3k03rtbiull7o39kq0"
-      }
     }
   ],
-  "cachedAt": "2026-07-22T09:37:45Z"
+  "cachedAt": "2026-07-22T14:20:29Z"
 }
