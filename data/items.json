@@ -1,8 +1,42 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MTcyNDI4MDAwLCJpIjoiY21ybXliZmttMDM5Y2JpamVoMDd5NWtxMCJ9",
+  "nextCursor": "eyJhIjoxNzg0MTg4NzU1MDAwLCJpIjoiY21ybjlpazF3MDBjZGJpYzZyMGk5Y2M5MyJ9",
   "items": [
+    {
+      "id": "cmrwdro6w00ttroj0me2uszkk",
+      "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+      "title_en": "http://x.com/i/article/2079981292108582912",
+      "url": "https://x.com/omarsar0/status/2079982491578827214",
+      "permalink": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "publishedAt": "2026-07-22T17:30:44.000Z",
+      "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk"
+      }
+    },
+    {
+      "id": "cmrwcpwl900hyroj09infknzb",
+      "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+      "title_en": "Ask Claude about the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "permalink": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-07-22T17:23:31.324Z",
+      "summary": "Anthropic 为 Claude 推出 Anthropic Economic Index 连接器，用户可在 claude.ai 中直接向 Claude 提问\"哪些职业使用 AI 最多\"等问题，答案基于 Index 的真实数据。该连接器无需安装，适用于任何 Claude 模型，并会引导用户查看原始数据及其局限性。完整数据集仍免费开放。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb"
+      }
+    },
     {
       "id": "cmrw780wk00niro8gyqsp8hr0",
       "title": "OpenAI 拟投资 200 亿美元在美新建数据中心，2030 年算力支出预期上调至近 7500 亿美元",
@@ -1668,41 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrn9ik1w00cdbic6r0i9cc93"
       }
-    },
-    {
-      "id": "cmrn7cx9z07c0bije5ilnyr7x",
-      "title": "Patter SDK 教程：构建餐厅预订电话智能体，支持动态变量、护栏、延迟仪表盘与评估检查",
-      "title_en": "Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables， Guardrails， Latency Dashboards， and Eval Checks",
-      "url": "https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks",
-      "permalink": "https://aihot.virxact.com/items/cmrn7cx9z07c0bije5ilnyr7x",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-16T07:42:49.000Z",
-      "summary": "Patter SDK 发布教程，演示如何构建一个餐厅预订场景的语音智能体工作流。该流程支持动态调用变量、注册可调用工具、应用输出护栏（如PII脱敏、脏话过滤、话题范围限制），并可在无需实时电话凭证的情况下运行脚本化通话模拟。教程还涵盖延迟与成本指标追踪、回归式评估检查，以及将智能体逻辑、工具调用、安全检查和通话模拟整合为单一结构化管线。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrn7cx9z07c0bije5ilnyr7x"
-      }
-    },
-    {
-      "id": "cmrmybfkm039cbijeh07y5kq0",
-      "title": "千问APP联合武汉发布举办AI求职实战课，演示简历诊断与办公自动化",
-      "title_en": "已在工位，今天先学怎么上班",
-      "url": "https://mp.weixin.qq.com/s/dCk6IXbFyOSSc1JxcWsglA",
-      "permalink": "https://aihot.virxact.com/items/cmrmybfkm039cbijeh07y5kq0",
-      "source": "公众号：千问APP（阿里）",
-      "publishedAt": "2026-07-16T03:27:08.000Z",
-      "summary": "千问APP与武汉发布在武汉举办AI求职实战课，现场演示了用千问进行简历诊断、PPT制作和表格分析。产品经理提出\"给全材料、说明目标、定义标准、划定边界、索要可编辑文件\"五步法，并展示了将486行杂乱销售数据浓缩为一页结论PPT的\"建、理、算、析、呈\"方法论。",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmybfkm039cbijeh07y5kq0"
-      }
     }
   ],
-  "cachedAt": "2026-07-22T16:43:13Z"
+  "cachedAt": "2026-07-22T18:20:19Z"
 }
