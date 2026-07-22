@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MTMxMjAwMDAwLCJpIjoiY21ybnZ3enR0MDFiZWJpeHl6bmJqZTcxNiJ9",
+  "nextCursor": "eyJhIjoxNzg0MTMxMjAwMDAwLCJpIjoiY21ybzE4NWUzMDExamJpajJvbmQ0dDEyYiJ9",
   "items": [
     {
       "id": "cmrvb2f310088bihbvmgz21r3",
@@ -1160,6 +1160,23 @@
       }
     },
     {
+      "id": "cmrvfcrfv01kebihbglmvfomx",
+      "title": "NexForge：通过需求驱动任务合成扩展LLM智能体能力",
+      "title_en": "NexForge： Scaling Agent Capabilities through Requirement-Driven Task Synthesis for LLMs",
+      "url": "https://arxiv.org/abs/2607.14186",
+      "permalink": "https://aihot.virxact.com/items/cmrvfcrfv01kebihbglmvfomx",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-17T00:00:00.000Z",
+      "summary": "NexForge提出需求驱动框架，无需领域特定基础设施即可自动合成多样化可执行智能体任务与专家轨迹。该框架生成3.6K终端和2K办公任务，将Qwen3.5-35B-A3B Base在Terminal-Bench 2.0上从22.5%提升至52.0%，GDPval Elo从813提升至1338。",
+      "category": "paper",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrvfcrfv01kebihbglmvfomx"
+      }
+    },
+    {
       "id": "cmrsmh6lu0aj3biwm320odnsc",
       "title": "从预训练到后训练：理解推理能力的强化学习缩放规律",
       "title_en": "Understanding Reasoning from Pretraining to Post-Training",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmro185e3011jbij2ond4t12b"
       }
-    },
-    {
-      "id": "cmrnvwztt01bebixyznbje716",
-      "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
-      "title_en": "PerceptionBench",
-      "url": "https://www.kimi.com/blog/perception-bench",
-      "permalink": "https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716",
-      "source": "Moonshot AI：Kimi Blog",
-      "publishedAt": "2026-07-15T16:00:00.000Z",
-      "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
-      "category": "paper",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnvwztt01bebixyznbje716"
-      }
     }
   ],
-  "cachedAt": "2026-07-22T00:04:42Z"
+  "cachedAt": "2026-07-22T03:43:10Z"
 }
