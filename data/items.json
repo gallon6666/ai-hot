@@ -1,8 +1,25 @@
 {
-  "count": 100,
-  "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MjEyNjg4MDAwLCJpIjoiY21ybm1kanQ4MDA1MWJpeno4OTVyYm11NiJ9",
+  "count": 98,
+  "hasNext": false,
+  "nextCursor": null,
   "items": [
+    {
+      "id": "cmrxnw4rw00qzroxpll5shp7a",
+      "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
+      "title_en": "Google closes in on another billion- user product with Gemini",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+      "permalink": "https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-23T14:52:44.000Z",
+      "summary": "Google 在 Q2 2026 财报电话会上宣布，AI 助手 Gemini 月活跃用户已超过 9.5 亿，用户数较去年增长三倍。Gemini 正与月活突破 10 亿的 ChatGPT 展开更直接竞争，其 AI 搜索模式用户也已超过 10 亿。Sensor Tower 报告显示，Gemini 在 AI 助手市场份额升至 27.7%，而 ChatGPT 份额首次跌破 50%。",
+      "category": "industry",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a"
+      }
+    },
     {
       "id": "cmrxlqjnm002oroxpyia19ufa",
       "title": "Apple 起诉 OpenAI 窃取硬件制造机密",
@@ -222,23 +239,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk"
-      }
-    },
-    {
-      "id": "cmrwcpwl900hyroj09infknzb",
-      "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-      "title_en": "Ask Claude about the Anthropic Economic Index",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "permalink": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-07-22T17:23:31.324Z",
-      "summary": "Anthropic 为 Claude 推出 Anthropic Economic Index 连接器，用户可在 claude.ai 中直接向 Claude 提问\"哪些职业使用 AI 最多\"等问题，答案基于 Index 的真实数据。该连接器无需安装，适用于任何 Claude 模型，并会引导用户查看原始数据及其局限性。完整数据集仍免费开放。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb"
       }
     },
     {
@@ -514,6 +514,23 @@
       }
     },
     {
+      "id": "cmrwcpwl900hyroj09infknzb",
+      "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
+      "title_en": "Ask Claude about the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "permalink": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-07-21T16:00:00.000Z",
+      "summary": "Anthropic 为 Claude 推出 Anthropic Economic Index 连接器，用户可在 claude.ai 中直接向 Claude 提问\"哪些职业使用 AI 最多\"等问题，答案基于 Index 的真实数据。该连接器无需安装，适用于任何 Claude 模型，并会引导用户查看原始数据及其局限性。完整数据集仍免费开放。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb"
+      }
+    },
+    {
       "id": "cmruw1pl7005hbiymh0y085cv",
       "title": "GitHub Copilot 推出 canvases 扩展，实现开发者与 AI 智能体实时协作",
       "title_en": "How to build interactive experiences with canvases",
@@ -545,6 +562,23 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmruv42p2008ebii0yteu9750"
+      }
+    },
+    {
+      "id": "cmruv3zic006tbii0n6tubtgo",
+      "title": "Google 发布三款新模型：3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber",
+      "title_en": "Today's launches are all about better performance， lower latency， and a smaller bill. + 3.6 Flash c…",
+      "url": "https://x.com/joshwoodward/status/2079595879808569534",
+      "permalink": "https://aihot.virxact.com/items/cmruv3zic006tbii0n6tubtgo",
+      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
+      "publishedAt": "2026-07-21T15:54:29.000Z",
+      "summary": "Google 推出三款新模型，旨在提升性能、降低延迟和成本。其中，3.6 Flash 在复杂编码任务上 token 用量最高减少 65%，3.5 Flash-Lite 速度达 350 输出 token/秒。3.6 Flash 和 3.5 Flash-Lite 已在 Gemini 应用上线，3.5 Pro 进入合作伙伴测试。",
+      "category": "ai-models",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmruv3zic006tbii0n6tubtgo"
       }
     },
     {
@@ -1634,75 +1668,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z"
       }
-    },
-    {
-      "id": "cmrnrc11901tnbizz2dlcio3z",
-      "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-      "title_en": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "permalink": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z",
-      "source": "VentureBeat：AI（RSS）",
-      "publishedAt": "2026-07-16T16:40:48.000Z",
-      "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnrc11901tnbizz2dlcio3z"
-      }
-    },
-    {
-      "id": "cmrp5pfjw0af6bitoudv35oqk",
-      "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
-      "title_en": "Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
-      "url": "https://claude.com/blog/working-at-the-frontier-cursor",
-      "permalink": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-16T16:00:00.000Z",
-      "summary": "Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus 运行 12 小时以上仍无结果。",
-      "category": "tip",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrp5pfjw0af6bitoudv35oqk"
-      }
-    },
-    {
-      "id": "cmrnq8ryq01d5bizzarqvm3y1",
-      "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-      "title_en": "Create， edit and star in videos with two Google Vids updates",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-      "permalink": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-07-16T16:00:00.000Z",
-      "summary": "Google Vids 推出两项更新：Gemini Omni 支持用户通过自然语言提示词和图片参考生成、逐步编辑高质量视频片段；个人数字分身功能允许用户上传自拍和语音录制后，输入文字即可让数字分身出镜。两项功能面向 Google AI Pro 和 Ultra 订阅者及 Google Workspace 商业客户开放，所有生成内容均含不可见的 SynthID 数字水印。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnq8ryq01d5bizzarqvm3y1"
-      }
-    },
-    {
-      "id": "cmrnmdjt80051bizz895rbmu6",
-      "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-      "title_en": "世界人工智能合作组织协定签署仪式举行，总部设中国上海",
-      "url": "https://www.ithome.com/0/977/793.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrnmdjt80051bizz895rbmu6",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-16T14:38:08.000Z",
-      "summary": "7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。",
-      "category": "industry",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnmdjt80051bizz895rbmu6"
-      }
     }
   ],
-  "cachedAt": "2026-07-23T14:28:57Z"
+  "cachedAt": "2026-07-23T16:44:26Z"
 }
