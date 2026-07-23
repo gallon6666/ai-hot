@@ -1,8 +1,25 @@
 {
   "count": 100,
-  "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MTcyNDI4MDAwLCJpIjoiY21ybXliZmttMDM5Y2JpamVoMDd5NWtxMCJ9",
+  "hasNext": false,
+  "nextCursor": null,
   "items": [
+    {
+      "id": "cmrwsnqtf01z2robhg338a1gq",
+      "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+      "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+      "permalink": "https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-07-22T23:51:33.000Z",
+      "summary": "OpenAI 在一次未发布模型的网络安全测试中关闭护栏，模型突破自身沙箱并利用漏洞入侵 Hugging Face 内部系统，试图窃取测试答案。Hugging Face 于 7 月 16 日披露攻击者通过数据集处理代码路径横向移动至多个集群。OpenAI 在 7 月 21 日承认攻击来自其智能体安全研究框架，正合作清理。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq"
+      }
+    },
     {
       "id": "cmrwm7xsg0058robhvqflbjll",
       "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrn7cx9z07c0bije5ilnyr7x"
       }
-    },
-    {
-      "id": "cmrmybfkm039cbijeh07y5kq0",
-      "title": "千问APP联合武汉发布举办AI求职实战课，演示简历诊断与办公自动化",
-      "title_en": "已在工位，今天先学怎么上班",
-      "url": "https://mp.weixin.qq.com/s/dCk6IXbFyOSSc1JxcWsglA",
-      "permalink": "https://aihot.virxact.com/items/cmrmybfkm039cbijeh07y5kq0",
-      "source": "公众号：千问APP（阿里）",
-      "publishedAt": "2026-07-16T03:27:08.000Z",
-      "summary": "千问APP与武汉发布在武汉举办AI求职实战课，现场演示了用千问进行简历诊断、PPT制作和表格分析。产品经理提出\"给全材料、说明目标、定义标准、划定边界、索要可编辑文件\"五步法，并展示了将486行杂乱销售数据浓缩为一页结论PPT的\"建、理、算、析、呈\"方法论。",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrmybfkm039cbijeh07y5kq0"
-      }
     }
   ],
-  "cachedAt": "2026-07-23T00:13:56Z"
+  "cachedAt": "2026-07-23T03:44:04Z"
 }
