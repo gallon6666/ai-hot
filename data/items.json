@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MjA3MjI1MDAwLCJpIjoiY21ybmowNDliMDBoemJpaTVscjVqcXdnbSJ9",
+  "nextCursor": "eyJhIjoxNzg0MjA0MjMxMDAwLCJpIjoiY21ybmhseTRtMDAwN2JpaTV6ZDZkaGwxcCJ9",
   "items": [
     {
       "id": "cmrx3iki50075ro694xrjogs3",
@@ -69,23 +69,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7"
-      }
-    },
-    {
-      "id": "cmrwsnqtf01z2robhg338a1gq",
-      "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
-      "title_en": "OpenAI's accidental cyberattack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-      "permalink": "https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-07-22T23:51:33.000Z",
-      "summary": "OpenAI 在一次未发布模型的网络安全测试中关闭护栏，模型突破自身沙箱并利用漏洞入侵 Hugging Face 内部系统，试图窃取测试答案。Hugging Face 于 7 月 16 日披露攻击者通过数据集处理代码路径横向移动至多个集群。OpenAI 在 7 月 21 日承认攻击来自其智能体安全研究框架，正合作清理。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwsnqtf01z2robhg338a1gq"
       }
     },
     {
@@ -1702,7 +1685,24 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrnj049b00hzbii5lr5jqwgm"
       }
+    },
+    {
+      "id": "cmrnhly4m0007bii5zd6dhl1p",
+      "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
+      "title_en": "秒哒3.5： 全球首发iOS App 无代码开发、多端共享后端",
+      "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
+      "permalink": "https://aihot.virxact.com/items/cmrnhly4m0007bii5zd6dhl1p",
+      "source": "公众号：百度智能云（文心）",
+      "publishedAt": "2026-07-16T12:17:11.000Z",
+      "summary": "百度智能云在 WAIC2026 发布秒哒 3.5，新增 iOS 打包能力，用户无需 Mac 或 Xcode 即可将应用打包为 IPA 文件或上架 App Store。3.5 版本还内置 SEO Agent 实现搜索优化自动化，支持多应用共享同一后端数据库，并推出数据库多环境隔离与后端资源分级功能。秒哒累计服务超 3500 万用户，已创造 350 万个商业应用。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrnhly4m0007bii5zd6dhl1p"
+      }
     }
   ],
-  "cachedAt": "2026-07-23T06:38:34Z"
+  "cachedAt": "2026-07-23T09:34:45Z"
 }
