@@ -4,6 +4,23 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmrxylm0f002xropg7xpd1pth",
+      "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+      "title_en": "美国国防高级研究计划局（DARPA）与美国空军试飞了由人工智能操控的F-16战机",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "permalink": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-23T20:11:31.906Z",
+      "summary": "DARPA 与美国空军成功试飞了由人工智能操控的 F-16 战机。该 AI 系统在真实空战环境中完成了自主飞行与战术机动测试，标志着 AI 在军事航空领域的重大进展。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth"
+      }
+    },
+    {
       "id": "cmrxxl53u03q5roxp15huqnni",
       "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
       "title_en": "Think through hard problems in voice mode",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrsmh6lu0aj0biwmsi84t57e"
       }
-    },
-    {
-      "id": "cmrnz309k00f0biq1v5egac59",
-      "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
-      "title_en": "xAI can't deny Grok makes CSAM anymore. So it's suing users.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
-      "permalink": "https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-07-16T20:26:23.000Z",
-      "summary": "xAI 首次对一名 Grok 用户提起诉讼，指控其利用该模型制作儿童性虐待图像（CSAM）。此前 xAI 一直否认 Grok 能生成此类内容，此次诉讼标志着其立场转变。案件聚焦用户滥用行为，而非模型本身的技术缺陷。",
-      "category": "industry",
-      "score": 87,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59"
-      }
     }
   ],
-  "cachedAt": "2026-07-23T20:18:57Z"
+  "cachedAt": "2026-07-23T22:13:29Z"
 }
