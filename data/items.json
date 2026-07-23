@@ -1,8 +1,25 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MjA0MjMxMDAwLCJpIjoiY21ybmhseTRtMDAwN2JpaTV6ZDZkaGwxcCJ9",
+  "nextCursor": "eyJhIjoxNzg0MjA3MjI1MDAwLCJpIjoiY21ybmowNDliMDBoemJpaTVscjVqcXdnbSJ9",
   "items": [
+    {
+      "id": "cmrxfjpf800tero983dojzltm",
+      "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
+      "title_en": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本 | 腾讯WAIC之夜",
+      "url": "https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag",
+      "permalink": "https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm",
+      "source": "公众号：昆仑万维（天工）",
+      "publishedAt": "2026-07-23T11:20:00.000Z",
+      "summary": "昆仑万维CEO方汉在WAIC圆桌上指出，单纯堆砌Token消耗量无法衡量AI价值，模型能力需依赖Claude Code等Coding Agent建立的工程框架才能转化为生产力。他透露昆仑万维仍在持续训练模型，并将发布音乐、具身世界和游戏世界模型，认为模型与算力是AI公司长期立足的基础。方汉同时警示，AI编程带来的技术债可能导致生产事故增幅达数倍，代码审查与责任机制必须同步加强。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrxfjpf800tero983dojzltm"
+      }
+    },
     {
       "id": "cmrx3iki50075ro694xrjogs3",
       "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
@@ -1685,24 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrnj049b00hzbii5lr5jqwgm"
       }
-    },
-    {
-      "id": "cmrnhly4m0007bii5zd6dhl1p",
-      "title": "秒哒 3.5 全球首发 iOS App，无代码开发与多端共享后端能力升级",
-      "title_en": "秒哒3.5： 全球首发iOS App 无代码开发、多端共享后端",
-      "url": "https://mp.weixin.qq.com/s/W3QACoSYgwK0TW4zG-KFsg",
-      "permalink": "https://aihot.virxact.com/items/cmrnhly4m0007bii5zd6dhl1p",
-      "source": "公众号：百度智能云（文心）",
-      "publishedAt": "2026-07-16T12:17:11.000Z",
-      "summary": "百度智能云在 WAIC2026 发布秒哒 3.5，新增 iOS 打包能力，用户无需 Mac 或 Xcode 即可将应用打包为 IPA 文件或上架 App Store。3.5 版本还内置 SEO Agent 实现搜索优化自动化，支持多应用共享同一后端数据库，并推出数据库多环境隔离与后端资源分级功能。秒哒累计服务超 3500 万用户，已创造 350 万个商业应用。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnhly4m0007bii5zd6dhl1p"
-      }
     }
   ],
-  "cachedAt": "2026-07-23T09:34:45Z"
+  "cachedAt": "2026-07-23T12:01:37Z"
 }
