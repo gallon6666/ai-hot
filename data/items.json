@@ -1,8 +1,59 @@
 {
-  "count": 99,
+  "count": 100,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmrxxl53u03q5roxp15huqnni",
+      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+      "title_en": "Think through hard problems in voice mode",
+      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "permalink": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-07-23T19:55:29.530Z",
+      "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni"
+      }
+    },
+    {
+      "id": "cmrxxi2qg03kcroxpcugdaldy",
+      "title": "ChatGPT 桌面版上线语音控制多智能体",
+      "title_en": "ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running i…",
+      "url": "https://x.com/OpenAI/status/2080378182469857576",
+      "permalink": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-07-23T19:43:04.000Z",
+      "summary": "ChatGPT 语音功能现已登陆桌面应用。\n\n只需使用语音，即可控制你的电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体。\n\n该功能由 GPT-Live 驱动，因此它能够同时在该应用中说话、聆听并协调工作。\n\n今日起，面向 macOS 和 Windows 平台的 Plus、Pro、Business、Edu 及 Enterprise 计划用户全球推送。",
+      "category": "ai-products",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy"
+      }
+    },
+    {
+      "id": "cmrxvduwi02z1roxph1bvkmmu",
+      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+      "title_en": "TheNumbers.com 发生了什么",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "permalink": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-23T18:35:29.016Z",
+      "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu"
+      }
+    },
     {
       "id": "cmrxs4yyw01xkroxpom7zfjvc",
       "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
@@ -1651,41 +1702,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59"
       }
-    },
-    {
-      "id": "cmrnvme99015abixymkemy6lj",
-      "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
-      "title_en": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "permalink": "https://aihot.virxact.com/items/cmrnvme99015abixymkemy6lj",
-      "source": "VentureBeat：AI（RSS）",
-      "publishedAt": "2026-07-16T19:02:38.000Z",
-      "summary": "VentureBeat调查107家企业发现，54%已遭遇AI智能体安全事件（18%确认事故，36%险些酿祸）。仅32%为每个智能体分配独立身份凭证，30%将高风险智能体隔离在沙箱中。安全工具主要依赖模型提供商原生方案，专用智能体安全产品渗透率极低。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnvme99015abixymkemy6lj"
-      }
-    },
-    {
-      "id": "cmrnvlijq012lbixy2xhlk8k8",
-      "title": "ChatGPT 工作区支持文档表格幻灯片编辑",
-      "title_en": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-      "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
-      "permalink": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8",
-      "source": "X：ChatGPT (@ChatGPTapp)",
-      "publishedAt": "2026-07-16T18:44:58.000Z",
-      "summary": "在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。\n\n@nickbaumann_ 为你演示操作。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8"
-      }
     }
   ],
-  "cachedAt": "2026-07-23T18:36:34Z"
+  "cachedAt": "2026-07-23T20:18:57Z"
 }
