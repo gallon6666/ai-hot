@@ -1,8 +1,42 @@
 {
-  "count": 98,
+  "count": 99,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmrxs4yyw01xkroxpom7zfjvc",
+      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+      "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+      "permalink": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-23T17:01:30.000Z",
+      "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
+      "category": "industry",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc"
+      }
+    },
+    {
+      "id": "cmrxr59xb01sbroxpzcqbv1fo",
+      "title": "微软MAI模型：以更低成本实现前沿能力规模化",
+      "title_en": "http://x.com/i/article/2080328073724260352",
+      "url": "https://x.com/satyanadella/status/2080329851127669104",
+      "permalink": "https://aihot.virxact.com/items/cmrxr59xb01sbroxpzcqbv1fo",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "publishedAt": "2026-07-23T16:31:01.000Z",
+      "summary": "微软CEO Satya Nadella详解MAI模型家族战略：通过优化成本-效果前沿，MAI模型在GitHub Copilot、Excel等产品中已用更少token超越通用前沿模型。核心是构建独立于模型的评估系统，让模型在产品真实环境中学习并完成用户关心的任务。微软正将这一模板通过Foundry平台开放给企业客户。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrxr59xb01sbroxpzcqbv1fo"
+      }
+    },
     {
       "id": "cmrxnw4rw00qzroxpll5shp7a",
       "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
@@ -1651,24 +1685,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrnvlijq012lbixy2xhlk8k8"
       }
-    },
-    {
-      "id": "cmrnvq3xd015sbixyztrtb01z",
-      "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-      "title_en": "Decoy 字体",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "permalink": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-16T18:32:23.680Z",
-      "summary": "Decoy Font 是一款 TTF 字体，通过在同一字符中叠加不同空间频率的图形（前景细轮廓与背景低频模糊块），使近距离观看时 AI 读到\"诱饵\"字母，而人眼远距离或眯眼时才能看到真实隐藏信息。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrnvq3xd015sbixyztrtb01z"
-      }
     }
   ],
-  "cachedAt": "2026-07-23T16:44:26Z"
+  "cachedAt": "2026-07-23T18:36:34Z"
 }
