@@ -4,6 +4,42 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmryrih7804c9rolge6wdk3v8",
+      "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+      "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+      "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+      "permalink": "https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-24T09:48:32.000Z",
+      "discoveredAt": "2026-07-24T09:53:12.325Z",
+      "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8"
+      }
+    },
+    {
+      "id": "cmryrjtlb04ehrolgi1zd6eqv",
+      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+      "title_en": "Show HN： Claude-thermos 能为您保持 Claude 会话的热度",
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "permalink": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-24T09:47:29.601Z",
+      "discoveredAt": "2026-07-24T09:54:16.034Z",
+      "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+      "category": "tip",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv"
+      }
+    },
+    {
       "id": "cmrykywyx026jrolgq06set4j",
       "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
       "title_en": "FLUX 3 多模态 AI 模型登场：支持单次生成 20 秒多样化视频",
@@ -325,6 +361,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7"
+      }
+    },
+    {
+      "id": "cmryvpwy905kerolgy47s0xdn",
+      "title": "SANA-Video 2.0：混合线性注意力与注意力残差实现高效视频生成",
+      "title_en": "SANA-Video 2.0： Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
+      "url": "https://arxiv.org/abs/2607.21553",
+      "permalink": "https://aihot.virxact.com/items/cmryvpwy905kerolgy47s0xdn",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "discoveredAt": "2026-07-24T11:50:59.115Z",
+      "summary": "SANA-Video 2.0 是一个混合视频扩散 Transformer，提供 5B 和 14B 两种规模，可在单 GPU 上生成最高 720p 视频。其 Hybrid Linear-Softmax Attention 以 3：1 比例混合线性与 softmax 注意力，配合 Block Attention Residuals 将深层有效秩提升约 12%。",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmryvpwy905kerolgy47s0xdn"
       }
     },
     {
@@ -1712,61 +1766,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrpy1nvp06pubisrn8ne51v6"
       }
-    },
-    {
-      "id": "cmrove64p07imbitof1v9rzwz",
-      "title": "苹果与 OpenAI 法律战升级：约 40 名前员工收到苹果律师函",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/978/277.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-17T11:10:01.000Z",
-      "discoveredAt": "2026-07-17T11:44:08.162Z",
-      "summary": "苹果已向约40名就职于OpenAI的前员工发出律师函，要求保存相关文件。此前苹果起诉OpenAI及两名前员工，指控其通过挖角获取商业机密以加速AI硬件研发。苹果称已有超400名前员工在OpenAI工作，正寻求法院禁令阻止OpenAI使用苹果信息并要求归还机密。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrove64p07imbitof1v9rzwz"
-      }
-    },
-    {
-      "id": "cmrozfoiv08mhbitofbllzxl4",
-      "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值",
-      "title_en": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "permalink": "https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-17T10:00:00.000Z",
-      "discoveredAt": "2026-07-17T13:37:17.442Z",
-      "summary": "OpenAI 提出\"Useful Intelligence per Dollar\"（有用智能每美元）作为衡量 AI 投资回报的核心指标，从完成的有用工作量、成功任务的实际成本、结果可靠性三个维度评估。",
-      "category": "tip",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrozfoiv08mhbitofbllzxl4"
-      }
-    },
-    {
-      "id": "cmrorbywu06cebitoixzgpb5l",
-      "title": "首届\"小有可为\"大赛乡村教育一等奖作品\"智绘科普\"技术拆解",
-      "title_en": "小有可为实战教程|乡村教育一等奖作品拆解",
-      "url": "https://mp.weixin.qq.com/s/a2YKWmyMoyIc3GKLbXffpQ",
-      "permalink": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l",
-      "source": "公众号：通义实验室（千问）",
-      "publishedAt": "2026-07-17T09:41:25.000Z",
-      "discoveredAt": "2026-07-17T09:50:28.647Z",
-      "summary": "首届\"小有可为\"大赛乡村教育赛道一等奖作品\"智绘科普\"采用 Qwen3.5-397B-A17B 大语言模型与 Manim 动画引擎，通过多Agent分阶段协作与自动修复机制，将知识主题转化为可控、可编辑的教学动画。系统包含规划、草稿、实现、审查、合成五个阶段，渲染失败时可自动提取日志并修复，该工程范式可迁移至其他赛道。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l"
-      }
     }
   ],
-  "cachedAt": "2026-07-24T09:32:44Z"
+  "cachedAt": "2026-07-24T11:54:44Z"
 }
