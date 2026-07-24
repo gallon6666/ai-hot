@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0NDI5MzU1NjU3LCJpIjoiY21ycjdzZGlkMDJ5YmJpMThhZm05bHIyaSJ9",
+  "nextCursor": "eyJhIjoxNzg0NDM1MTEwMDAwLCJpIjoiY21ycmFxNWRrMDNwNWJpMTh2eXJ0ODNrcCJ9",
   "items": [
+    {
+      "id": "cmrzbx19q0032roqz8nwff6am",
+      "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+      "title_en": "英伟达、微软和Meta警告称，应避免对开放权重模型进行过度监管",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "permalink": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-24T19:07:52.324Z",
+      "discoveredAt": "2026-07-24T19:24:24.998Z",
+      "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am"
+      }
+    },
     {
       "id": "cmrz7ov4300lfrox82ri8kia1",
       "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp"
       }
-    },
-    {
-      "id": "cmrr7sdid02ybbi18afm9lr2i",
-      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
-      "title_en": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "permalink": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-19T02:49:15.657Z",
-      "discoveredAt": "2026-07-19T03:06:39.736Z",
-      "summary": "transcribe.cpp v0.1.0 发布，一个基于 ggml 的语音转录库，支持 16 个 ASR 模型族（60+ 模型），并通过 Vulkan、Metal、CUDA 和 TinyBLAS 实现 GPU 加速。",
-      "category": "ai-products",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i"
-      }
     }
   ],
-  "cachedAt": "2026-07-24T17:50:06Z"
+  "cachedAt": "2026-07-24T19:44:24Z"
 }
