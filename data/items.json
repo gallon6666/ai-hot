@@ -1,5 +1,5 @@
 {
-  "count": 99,
+  "count": 100,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -202,6 +202,24 @@
       }
     },
     {
+      "id": "cmryewabt00mnrolg1nxcjf18",
+      "title": "MineExplorer：首个《我的世界》分钟级长程任务评测基准发布",
+      "title_en": "让AI离开温室，走向动态世界：MineExplorer揭示顶级多模态大模型被忽视的能力断层",
+      "url": "https://mp.weixin.qq.com/s/P3yzceXkVxth7Q63nRfBLg",
+      "permalink": "https://aihot.virxact.com/items/cmryewabt00mnrolg1nxcjf18",
+      "source": "公众号：龙猫LongCat（美团）",
+      "publishedAt": "2026-07-23T11:58:00.000Z",
+      "discoveredAt": "2026-07-24T04:00:02.705Z",
+      "summary": "美团 LongCat 团队发布 MineExplorer，这是首个在《我的世界》开放世界中实现分钟级长程任务的评测基准，包含 813 个人工验证实例。评测 18 款顶级多模态大模型发现，最强模型 Claude-Opus-4.6 整体任务成功率仅 41%，从 1 跳任务的 77% 骤降至 4 跳任务的 12%，近 60% 的失败源于导航失败。MineExplorer 已全面开源。",
+      "category": "paper",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmryewabt00mnrolg1nxcjf18"
+      }
+    },
+    {
       "id": "cmrxfjpf800tero983dojzltm",
       "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
       "title_en": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本 | 腾讯WAIC之夜",
@@ -289,6 +307,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7"
+      }
+    },
+    {
+      "id": "cmryek7m200akrolgoaqospqi",
+      "title": "AREX：面向深度研究的递归自改进智能体",
+      "title_en": "AREX： Towards a Recursively Self-Improving Agent for Deep Research",
+      "url": "https://arxiv.org/abs/2607.21461",
+      "permalink": "https://aihot.virxact.com/items/cmryek7m200akrolgoaqospqi",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "discoveredAt": "2026-07-24T03:50:39.495Z",
+      "summary": "AREX 是一系列递归自改进（RSI）深度研究智能体，通过内层研究循环收集证据、外层自改进循环逐约束审计答案并启动针对性研究。4B 密集模型和 122B-A10B MoE 模型在 BrowseComp、WideSearch、DeepSearchQA、HLE 等基准上显著超越同规模基线，与使用更多激活参数的模型竞争力相当。",
+      "category": "paper",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmryek7m200akrolgoaqospqi"
       }
     },
     {
@@ -1766,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz"
       }
-    },
-    {
-      "id": "cmroipdr803rvbito8t018vr1",
-      "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
-      "title_en": "谁能想到Claude和GPT双头统治的时代，居然就这么被中国模型撕开了口子。 Kimi K3登顶Frontend Code Arena总榜第一，1679分同时力压Claude Fable 5与GPT…",
-      "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
-      "permalink": "https://aihot.virxact.com/items/cmroipdr803rvbito8t018vr1",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-17T04:57:38.000Z",
-      "discoveredAt": "2026-07-17T05:48:57.272Z",
-      "summary": "Kimi K3 在 Frontend Code Arena 以 1679 分登顶，力压 Claude Fable 5 与 GPT-5.6 Sol，7 个前端细分赛道拿下 6 个第一。该模型为 2.8 万亿参数 MoE 架构，百万上下文窗口，7 月 27 日开放权重。K3 的 API 定价为输入每百万 tokens 15 美元，对标前沿闭源模型，放弃低价路线，转向长上下文智能体编码场景的定价策略。",
-      "category": "ai-models",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmroipdr803rvbito8t018vr1"
-      }
     }
   ],
-  "cachedAt": "2026-07-24T03:41:16Z"
+  "cachedAt": "2026-07-24T06:37:51Z"
 }
