@@ -1,8 +1,26 @@
 {
-  "count": 100,
+  "count": 98,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmrykywyx026jrolgq06set4j",
+      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+      "title_en": "FLUX 3 多模态 AI 模型登场：支持单次生成 20 秒多样化视频",
+      "url": "https://www.ithome.com/0/981/137.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrykywyx026jrolgq06set4j",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-24T06:48:04.000Z",
+      "discoveredAt": "2026-07-24T06:50:01.581Z",
+      "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrykywyx026jrolgq06set4j"
+      }
+    },
     {
       "id": "cmry5ypd2008croeuadelaot9",
       "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
@@ -1748,61 +1766,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrorbywu06cebitoixzgpb5l"
       }
-    },
-    {
-      "id": "cmropqooe05tqbitodvnqnc6u",
-      "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-      "title_en": "Schema Harness 在 Arc-AGI-3 公开数据集上取得约 99% 的成绩",
-      "url": "https://schema-harness.github.io/",
-      "permalink": "https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-17T08:41:53.383Z",
-      "discoveredAt": "2026-07-17T09:05:55.491Z",
-      "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。",
-      "category": "paper",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmropqooe05tqbitodvnqnc6u"
-      }
-    },
-    {
-      "id": "cmronvv4105bdbitohe86a4un",
-      "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一",
-      "title_en": "NVIDIA AI Releases Nemotron 3 Embed： An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB",
-      "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb",
-      "permalink": "https://aihot.virxact.com/items/cmronvv4105bdbitohe86a4un",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-17T07:53:02.000Z",
-      "discoveredAt": "2026-07-17T08:13:56.871Z",
-      "summary": "NVIDIA 发布 Nemotron 3 Embed 系列，包含三个开源 checkpoint，其中 8B-BF16 版本在 RTEB 基准上以 78.46 的平均 NDCG@10 排名第一。1B-NVFP4 版本在 Blackwell 上吞吐量比 BF16 高 2 倍，精度保留 99.5%，所有模型最大序列长度 32，768 tokens。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmronvv4105bdbitohe86a4un"
-      }
-    },
-    {
-      "id": "cmrolz26304oqbito42v7oeaz",
-      "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
-      "title_en": "Wan-Streamer v0.2：响应延迟仅550ms，让 AI 真正与你\"面对面\"",
-      "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
-      "permalink": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz",
-      "source": "公众号：通义实验室（千问）",
-      "publishedAt": "2026-07-17T07:14:00.000Z",
-      "discoveredAt": "2026-07-17T07:20:28.116Z",
-      "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将\"听、看、说、演\"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
-      "category": "ai-models",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrolz26304oqbito42v7oeaz"
-      }
     }
   ],
-  "cachedAt": "2026-07-24T06:37:51Z"
+  "cachedAt": "2026-07-24T09:32:44Z"
 }
