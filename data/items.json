@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MzEwMDkyMDAwLCJpIjoiY21ycDk3aDdvMDAyMGJpdXhoN3B6ZXdybyJ9",
+  "nextCursor": "eyJhIjoxNzg0MzIyMjQ4MDAwLCJpIjoiY21ycGZsdmJ3MDFjdGJpc3IzbTBjY3FvNSJ9",
   "items": [
+    {
+      "id": "cmrz3eamm01jdroey6e0m62on",
+      "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
+      "title_en": "Project Pilot： Can AI control a drone？",
+      "url": "https://www.anthropic.com/research/project-pilot",
+      "permalink": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-07-24T15:25:45.300Z",
+      "discoveredAt": "2026-07-24T15:25:45.300Z",
+      "summary": "Anthropic 与 Andon Labs 合作推出 Drone-Bench，用于测试 AI 模型自主操控四旋翼无人机在室内环境中定位并追踪指定人员的能力。该基准将任务分解为 3D 地图重建、定位、导航、目标检测与跟随五个子任务，并通过软件复现实现快速评估。实验表明，该任务链的难度足以区分不同智能水平的模型，并揭示 AI 在物理世界操控能力上的进步轨迹。",
+      "category": "paper",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on"
+      }
+    },
     {
       "id": "cmrz0ch8700m7roeygv4eshdv",
       "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrpflvbw01ctbisr3m0ccqo5"
       }
-    },
-    {
-      "id": "cmrp97h7o0020biuxh7pzewro",
-      "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
-      "title_en": "Apple's plot to crush OpenAI",
-      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "permalink": "https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-07-17T17:41:32.000Z",
-      "discoveredAt": "2026-07-17T18:10:52.127Z",
-      "summary": "Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多专家认为部分指控属于行业惯例。此举正值 Apple 发布新版软件公测版（以新 Siri AI 为核心）之际，外界猜测 Apple 究竟是担忧 OpenAI 成为潜在竞争对手，还是想利用 OpenAI 的弱势期获利。",
-      "category": "industry",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrp97h7o0020biuxh7pzewro"
-      }
     }
   ],
-  "cachedAt": "2026-07-24T14:09:55Z"
+  "cachedAt": "2026-07-24T15:42:27Z"
 }
