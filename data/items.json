@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MzIyMjQ4MDAwLCJpIjoiY21ycGZsdmJ3MDFjdGJpc3IzbTBjY3FvNSJ9",
+  "nextCursor": "eyJhIjoxNzg0NDI5MzU1NjU3LCJpIjoiY21ycjdzZGlkMDJ5YmJpMThhZm05bHIyaSJ9",
   "items": [
+    {
+      "id": "cmrz7ov4300lfrox82ri8kia1",
+      "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
+      "title_en": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "permalink": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-07-24T17:25:50.349Z",
+      "discoveredAt": "2026-07-24T17:25:50.349Z",
+      "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1"
+      }
+    },
+    {
+      "id": "cmrz7mrck00gprox8j0j9qfst",
+      "title": "Anthropic 发布 Claude Opus 5",
+      "title_en": "Introducing Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "permalink": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-07-24T17:24:25.589Z",
+      "discoveredAt": "2026-07-24T17:24:25.589Z",
+      "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
+      "category": "ai-models",
+      "score": 92,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst"
+      }
+    },
     {
       "id": "cmrz3eamm01jdroey6e0m62on",
       "title": "Anthropic 联合 Andon Labs 发布 Drone-Bench，评估 AI 模型自主操控无人机执行定位追踪任务的能力",
@@ -217,24 +253,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth"
-      }
-    },
-    {
-      "id": "cmrxxl53u03q5roxp15huqnni",
-      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-      "title_en": "Think through hard problems in voice mode",
-      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-      "permalink": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-23T19:55:29.530Z",
-      "discoveredAt": "2026-07-23T19:55:29.530Z",
-      "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni"
       }
     },
     {
@@ -649,6 +667,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk"
+      }
+    },
+    {
+      "id": "cmrxxl53u03q5roxp15huqnni",
+      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+      "title_en": "Think through hard problems in voice mode",
+      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "permalink": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-07-22T16:00:00.000Z",
+      "discoveredAt": "2026-07-23T19:55:29.530Z",
+      "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni"
       }
     },
     {
@@ -1766,43 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrr7sdid02ybbi18afm9lr2i"
       }
-    },
-    {
-      "id": "cmrpwwjho06djbisr218fe8ro",
-      "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
-      "title_en": "Neil Rimer thinks the AI money is coming back out",
-      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out",
-      "permalink": "https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-18T04:47:25.000Z",
-      "discoveredAt": "2026-07-18T05:14:12.719Z",
-      "summary": "Index Ventures 联合创始人 Neil Rimer 表示，围绕 AI 积累的巨额财富将面临\"某种形式的再分配\"，无论是自愿还是强制。他呼吁科技领袖在推动自愿再分配中发挥主导作用。与此同时，美国慈善捐赠总额虽创新高，但捐赠人数持续下降，而加州正考虑对亿万富翁征收 5% 的一次性财富税。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro"
-      }
-    },
-    {
-      "id": "cmrpflvbw01ctbisr3m0ccqo5",
-      "title": "GPT-5.6 Sol 在网络安全领域达 SOTA",
-      "title_en": "GPT-5.6 Sol is the state of the art in cyber. Seeing significant results in applying it to finding a…",
-      "url": "https://x.com/gdb/status/2078224255767249067",
-      "permalink": "https://aihot.virxact.com/items/cmrpflvbw01ctbisr3m0ccqo5",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-07-17T21:04:08.000Z",
-      "discoveredAt": "2026-07-17T21:10:00.915Z",
-      "summary": "GPT-5.6 Sol 是网络安全领域的最先进模型。在将其应用于发现和修复新型漏洞方面，看到了显著成果。",
-      "category": "ai-models",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrpflvbw01ctbisr3m0ccqo5"
-      }
     }
   ],
-  "cachedAt": "2026-07-24T15:42:27Z"
+  "cachedAt": "2026-07-24T17:50:06Z"
 }
