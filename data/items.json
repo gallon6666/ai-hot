@@ -1,8 +1,25 @@
 {
-  "count": 100,
-  "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0MjQ2NDAwMDAwLCJpIjoiY21ydmZjcmZ2MDFrZWJpaGJnbG12Zm9teCJ9",
+  "count": 99,
+  "hasNext": false,
+  "nextCursor": null,
   "items": [
+    {
+      "id": "cmry5ypd2008croeuadelaot9",
+      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+      "title_en": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+      "url": "https://www.ithome.com/0/980/890.htm",
+      "permalink": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-23T23:30:43.000Z",
+      "summary": "美国佛罗里达州 55 岁男子 Scott Winters 起诉 OpenAI，称 ChatGPT-4o 多次建议其无需就医，导致其因双肺血栓引发大面积肺栓塞，一度濒临死亡。诉状指控 OpenAI 存在疏忽和\"无证行医\"行为，要求经济赔偿并暂停 ChatGPT Health 服务。OpenAI 回应称 ChatGPT 不是医生，不应替代专业医疗护理。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9"
+      }
+    },
     {
       "id": "cmrxylm0f002xropg7xpd1pth",
       "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
@@ -1668,41 +1685,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmro8l78w00j5bitou01qowy4"
       }
-    },
-    {
-      "id": "cmrx3dmt7001mro6976afq35y",
-      "title": "ActiveVision 基准测试揭示多模态大模型缺乏主动视觉观察能力",
-      "title_en": "An Exam for Active Observers",
-      "url": "https://arxiv.org/abs/2607.16165",
-      "permalink": "https://aihot.virxact.com/items/cmrx3dmt7001mro6976afq35y",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-17T00:00:00.000Z",
-      "summary": "最新基准测试 ActiveVision 通过 17 项任务评估多模态大语言模型（MLLM）的主动观察能力。得分最高的 GPT-5.5（最高推理层级）仅解决 10.6% 的任务，在 11 项任务上得零分；Claude Fable 5 仅解决 3.5%，而三名人类参与者平均得分 96.1%。即使模型自行编写并运行视觉代码，差距依然显著，表明当前 MLLM 缺乏鲁棒的主动视觉观察能力。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrx3dmt7001mro6976afq35y"
-      }
-    },
-    {
-      "id": "cmrvfcrfv01kebihbglmvfomx",
-      "title": "NexForge：通过需求驱动任务合成扩展LLM智能体能力",
-      "title_en": "NexForge： Scaling Agent Capabilities through Requirement-Driven Task Synthesis for LLMs",
-      "url": "https://arxiv.org/abs/2607.14186",
-      "permalink": "https://aihot.virxact.com/items/cmrvfcrfv01kebihbglmvfomx",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-17T00:00:00.000Z",
-      "summary": "NexForge提出需求驱动框架，无需领域特定基础设施即可自动合成多样化可执行智能体任务与专家轨迹。该框架生成3.6K终端和2K办公任务，将Qwen3.5-35B-A3B Base在Terminal-Bench 2.0上从22.5%提升至52.0%，GDPval Elo从813提升至1338。",
-      "category": "paper",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrvfcrfv01kebihbglmvfomx"
-      }
     }
   ],
-  "cachedAt": "2026-07-23T23:10:37Z"
+  "cachedAt": "2026-07-24T00:09:29Z"
 }
