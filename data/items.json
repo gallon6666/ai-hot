@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0NDM1MTEwMDAwLCJpIjoiY21ycmFxNWRrMDNwNWJpMTh2eXJ0ODNrcCJ9",
+  "nextCursor": "eyJhIjoxNzg0NDM4MDA0NjA3LCJpIjoiY21ycmQ1YmpiMDBjZmJpa2lob2I5ZHJ0aiJ9",
   "items": [
+    {
+      "id": "cmrzi9yew001arop9eruk86n7",
+      "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
+      "title_en": "Version 8.2",
+      "url": "https://updates.midjourney.com/version-8-2",
+      "permalink": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7",
+      "source": "Midjourney：Updates（RSS）",
+      "publishedAt": "2026-07-24T22:18:48.000Z",
+      "discoveredAt": "2026-07-24T22:22:25.866Z",
+      "summary": "Midjourney 今日推出 V8.2 图像模型，重点提升美学质量、图像创意与个性化表现。低质量图像出现频率将显著降低，个性化功能能更精准理解用户审美偏好。V8.2 的个性化配置文件拥有更大、更优的图像选择池，建议用户尝试新旧配置文件体验最新版本。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7"
+      }
+    },
     {
       "id": "cmrzbx19q0032roqz8nwff6am",
       "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj"
       }
-    },
-    {
-      "id": "cmrraq5dk03p5bi18vyrt83kp",
-      "title": "ChatGPT Work 功能：建站、邮件、文档处理",
-      "title_en": "ChatGPT Work is for ✅ Creating and hosting sites ✅ Managing your emails for you ✅ Summarizing mount…",
-      "url": "https://x.com/thsottiaux/status/2078697631019303273",
-      "permalink": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp",
-      "source": "X：Tibo (@thsottiaux)",
-      "publishedAt": "2026-07-19T04:25:10.000Z",
-      "discoveredAt": "2026-07-19T04:28:55.066Z",
-      "summary": "ChatGPT Work 适用于\n\n✅ 创建和托管网站 ✅ 为你管理电子邮件 ✅ 总结海量文档 ✅ 制作一流的文档、表格和幻灯片\n\n已在你的移动应用或 http://chatgpt.com 上提供，包含在 Plus、Pro、Business 和 Enterprise 套餐中。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrraq5dk03p5bi18vyrt83kp"
-      }
     }
   ],
-  "cachedAt": "2026-07-24T21:19:28Z"
+  "cachedAt": "2026-07-24T23:14:46Z"
 }
