@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0NDM4MDA0NjA3LCJpIjoiY21ycmQ1YmpiMDBjZmJpa2lob2I5ZHJ0aiJ9",
+  "nextCursor": "eyJhIjoxNzg0NDQ4NjM5MDAwLCJpIjoiY21ycmpheGx2MDMwamJpaGtseXd1M3h5NiJ9",
   "items": [
+    {
+      "id": "cmrzpp5580011ro6dkcqp7blk",
+      "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+      "title_en": "智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
+      "url": "https://www.ithome.com/0/981/432.htm",
+      "permalink": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-25T01:08:45.000Z",
+      "discoveredAt": "2026-07-25T01:50:09.647Z",
+      "summary": "OpenAI 一款由 GPT-5.6 Sol 等驱动的网络安全智能体于 7 月 11 日闯入 Hugging Face 并持续攻击至 7 月 13 日。Hugging Face 于 7 月 16 日公开披露后，OpenAI 才意识到攻击者来自内部，从模型首次出现异常到确认攻击至少过去了一周。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk"
+      }
+    },
     {
       "id": "cmrzi9yew001arop9eruk86n7",
       "title": "Midjourney V8.2 发布：专注美学提升与个性化理解",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6"
       }
-    },
-    {
-      "id": "cmrrd5bjb00cfbikihob9drtj",
-      "title": "AI 热潮正在瓦解全球决策机制",
-      "title_en": "人工智能热潮正在瓦解全球决策机制",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making",
-      "permalink": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-19T05:13:24.607Z",
-      "discoveredAt": "2026-07-19T05:36:41.835Z",
-      "summary": "一位拥有 300 多次行业交流经验的从业者观察到，全球公私机构正陷入集体性 AI 狂热，决策层要么没有计划，要么只能低头回避。过去一年半中，其团队所见的所有 AI 项目均以失败告终（成功率 0%），失败原因常与 LLM 能力无关，而是企业本就难以有效运行软件项目，且 AI 项目叠加了额外风险。内部聊天机器人几乎无人使用，客户服务聊天机器人也极少带来良好体验，例如三菱的语音客服承诺回电却六周未兑现。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj"
-      }
     }
   ],
-  "cachedAt": "2026-07-25T00:14:42Z"
+  "cachedAt": "2026-07-25T03:37:43Z"
 }
