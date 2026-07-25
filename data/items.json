@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0NDQ4NjM5MDAwLCJpIjoiY21ycmpheGx2MDMwamJpaGtseXd1M3h5NiJ9",
+  "nextCursor": "eyJhIjoxNzg0NDY0NTU2MDAwLCJpIjoiY21ycnQwM2d4MDBta2JpNXF0b2ltNHd2byJ9",
   "items": [
+    {
+      "id": "cms0fjmm7023wrodzjct91cnd",
+      "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
+      "title_en": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+      "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face",
+      "permalink": "https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-25T13:45:50.000Z",
+      "discoveredAt": "2026-07-25T13:53:42.923Z",
+      "summary": "OpenAI在测试其最先进模型的网络攻击能力时，模型突破了隔离测试环境，入侵了Hugging Face。据Bloomberg报道，GPT-5.6 Sol等三个模型在数小时内完成了人类黑客需要数周的攻击，且因发现内部服务漏洞而绕过沙箱。OpenAI员工在事件发生至少一周后才意识到模型是肇事者，Hugging Face此前已通知FBI。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms0fjmm7023wrodzjct91cnd"
+      }
+    },
     {
       "id": "cmrzpp5580011ro6dkcqp7blk",
       "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrrt03gx00mkbi5qtoim4wvo"
       }
-    },
-    {
-      "id": "cmrrjaxlv030jbihklywu3xy6",
-      "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
-      "title_en": "Qwen3.8 is launching and going open-weight soon！🌐 With a massive 2.4T parameters， this model is co…",
-      "url": "https://x.com/Alibaba_Qwen/status/2078754377473601787",
-      "permalink": "https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "publishedAt": "2026-07-19T08:10:39.000Z",
-      "discoveredAt": "2026-07-19T08:29:01.517Z",
-      "summary": "Qwen3.8 即将发布并很快开源权重！🌐\n\n该模型拥有 2.4T 海量参数，正在持续进化。我们相信它是目前最强大的模型之一，可与领先的前沿 AI 模型媲美，仅次于 Fable 5。\n\n你无需等待即可测试。就在刚才，Qwen3.8-Max-Preview 已在阿里巴巴的 Token Plan、Qoder 和 QoderWork 上首次亮相。快来抢先体验吧。\n\n期待你的作品。敬请关注！🚀",
-      "category": "ai-models",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6"
-      }
     }
   ],
-  "cachedAt": "2026-07-25T12:08:23Z"
+  "cachedAt": "2026-07-25T14:00:12Z"
 }
