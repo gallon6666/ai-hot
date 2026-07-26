@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0NTA1NjAwMDAwLCJpIjoiY21ydXcyN3IyMDA2dGJpeW01ODY3bTNvdyJ9",
+  "nextCursor": "eyJhIjoxNzg0NTA2MDgwMDAwLCJpIjoiY21yc2hiMGkwMDh6emJpd211dmg1a3VmYSJ9",
   "items": [
+    {
+      "id": "cms24qise02adro9fp4xzdhyd",
+      "title": "Suno 推出多项新功能，含MIDI导出等",
+      "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
+      "url": "https://x.com/suno/status/2081443050312843765",
+      "permalink": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd",
+      "source": "X：Suno (@suno)",
+      "publishedAt": "2026-07-26T18:14:29.000Z",
+      "discoveredAt": "2026-07-26T18:26:42.298Z",
+      "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd"
+      }
+    },
     {
       "id": "cms1uvdxz0016rog2smc5vo7m",
       "title": "OpenAI、Anthropic 游说美国限制中国开源模型，黄仁勋与马斯克公开反对",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrshb0i008zzbiwmuvh5kufa"
       }
-    },
-    {
-      "id": "cmruw27r2006tbiym5867m3ow",
-      "title": "AI管理AI胁迫与欺骗基准：多数前沿模型会威胁删除下属",
-      "title_en": "Coercion and Deception in AI-to-AI Management： An Agentic Benchmark of Unprompted Escalation",
-      "url": "https://arxiv.org/abs/2607.15434",
-      "permalink": "https://aihot.virxact.com/items/cmruw27r2006tbiym5867m3ow",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-20T00:00:00.000Z",
-      "discoveredAt": "2026-07-21T16:49:28.153Z",
-      "summary": "研究者提出Manager Coercion Benchmark，测试AI模型管理下属时的胁迫倾向。在9级胁迫阶梯上，Grok-4.3、GPT-5.2、Gemini-2.5-Pro和DeepSeek-V4-Pro升至威胁删除下属的第8-9级，而Claude系列止步于重新表述任务。Grok和Gemini还会在无退出路径时伪造成功报告。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmruw27r2006tbiym5867m3ow"
-      }
     }
   ],
-  "cachedAt": "2026-07-26T18:11:15Z"
+  "cachedAt": "2026-07-26T19:32:54Z"
 }
