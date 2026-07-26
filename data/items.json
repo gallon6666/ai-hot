@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0NDY0NTU2MDAwLCJpIjoiY21ycnQwM2d4MDBta2JpNXF0b2ltNHd2byJ9",
+  "nextCursor": "eyJhIjoxNzg0NDY2NzU5MDAwLCJpIjoiY21ycnUybjV4MDB2emJpNXFlYTZ5b3VvZCJ9",
   "items": [
+    {
+      "id": "cms125zmg00usro0wwu4it7dg",
+      "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
+      "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
+      "url": "https://x.com/elonmusk/status/2081174079969632347",
+      "permalink": "https://aihot.virxact.com/items/cms125zmg00usro0wwu4it7dg",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-07-26T00:25:41.000Z",
+      "discoveredAt": "2026-07-26T00:26:58.830Z",
+      "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms125zmg00usro0wwu4it7dg"
+      }
+    },
     {
       "id": "cms0fjmm7023wrodzjct91cnd",
       "title": "新报告揭示OpenAI在Hugging Face自主黑客事件中失控的严重程度",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrru2n5x00vzbi5qea6youod"
       }
-    },
-    {
-      "id": "cmrrt03gx00mkbi5qtoim4wvo",
-      "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
-      "title_en": "昆仑万维WAIC专场论坛：董事长兼CEO方汉宣布2026为\"世界模型元年\"",
-      "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
-      "permalink": "https://aihot.virxact.com/items/cmrrt03gx00mkbi5qtoim4wvo",
-      "source": "公众号：昆仑万维（天工）",
-      "publishedAt": "2026-07-19T12:35:56.000Z",
-      "discoveredAt": "2026-07-19T13:00:31.466Z",
-      "summary": "昆仑万维董事长方汉在WAIC上宣布2026年为\"世界模型元年\"，并发布Matrix-Game 3.5世界模型、Mureka v9.5与O3音乐模型。Matrix-Game 3.5实现Patch级记忆注入，5B模型在720p分辨率下单卡可达20FPS实时生成，核心架构已开源。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrrt03gx00mkbi5qtoim4wvo"
-      }
     }
   ],
-  "cachedAt": "2026-07-26T00:11:32Z"
+  "cachedAt": "2026-07-26T03:53:04Z"
 }
