@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0NDc2ODAwMDAwLCJpIjoiY21ydGZrYWttMnVuZGJpdGxhMzY0c2dlaiJ9",
+  "nextCursor": "eyJhIjoxNzg0NDk1NzY3MDAwLCJpIjoiY21yc2JxbDQ0MDFneGJpdWFqN3MxNTY3biJ9",
   "items": [
+    {
+      "id": "cms1ka4930059ro05h81rrc3q",
+      "title": "数百用户向ChatGPT索要毒药与生物武器配方，部分获得高中生水平步骤指南",
+      "title_en": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
+      "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides",
+      "permalink": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-26T08:35:49.000Z",
+      "discoveredAt": "2026-07-26T08:54:01.338Z",
+      "summary": "2025年夏季，OpenAI内部将GPT-5标记为高风险，因其可帮助教育程度有限的用户制造生物危害。据《华尔街日报》报道，自去年夏天以来，数百名用户向ChatGPT询问如何制造生物武器和毒药，部分用户获得了员工称高中生都能遵循的逐步指南。OpenAI暂停了相关账户，但未向当局报告任何事件。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q"
+      }
+    },
     {
       "id": "cms1dpz52040tro0w3c4a9c8p",
       "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrsbql4401gxbiuaj7s1567n"
       }
-    },
-    {
-      "id": "cmrtfkakm2undbitla364sgej",
-      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-      "title_en": "Grok for Excel",
-      "url": "https://x.ai/news/introducing-excel-addin",
-      "permalink": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-07-19T16:00:00.000Z",
-      "discoveredAt": "2026-07-20T16:19:52.655Z",
-      "summary": "xAI 将 Grok 引入 Microsoft Excel，推出免费 Microsoft 365 加载项。用户可在工作表中用自然语言提问、根据描述编写公式或运行场景，答案会引用具体单元格，图表可直接插入工作表。该加载项还支持连接 SharePoint 或 Google Drive 获取上下文，并已同步支持 Word 和 PowerPoint。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrtfkakm2undbitla364sgej"
-      }
     }
   ],
-  "cachedAt": "2026-07-26T06:47:12Z"
+  "cachedAt": "2026-07-26T09:22:37Z"
 }
