@@ -1,5 +1,5 @@
 {
-  "count": 97,
+  "count": 93,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -256,24 +256,6 @@
       }
     },
     {
-      "id": "cmrz0ch8700m7roeygv4eshdv",
-      "title": "蚂蚁百灵发布Ling-3.0-flash原生混合推理模型",
-      "title_en": "Ling-3.0-flash：智以密胜",
-      "url": "https://mp.weixin.qq.com/s/5ic54FCsy334JJsQcyBr1g",
-      "permalink": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "publishedAt": "2026-07-24T13:40:30.000Z",
-      "discoveredAt": "2026-07-24T14:00:30.582Z",
-      "summary": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-flash，总参数量124B，激活参数量仅5.1B，在传统推理、指令遵循与长文本等指标上对标甚至超越上一代旗舰Ring-2.6-1T。模型采用原生混合线性注意力架构与1/64稀疏MoE，并扩展至10，000+可交互训练环境，长输入下TTFT降低60%至80%以上。",
-      "category": "ai-models",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz0ch8700m7roeygv4eshdv"
-      }
-    },
-    {
       "id": "cmrz07a8z00ksroey0zfjw3iq",
       "title": "Runway Agent 推出自然语言工作流功能",
       "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
@@ -379,24 +361,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv"
-      }
-    },
-    {
-      "id": "cmrykywyx026jrolgq06set4j",
-      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-      "title_en": "FLUX 3 多模态 AI 模型登场：支持单次生成 20 秒多样化视频",
-      "url": "https://www.ithome.com/0/981/137.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrykywyx026jrolgq06set4j",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-24T06:48:04.000Z",
-      "discoveredAt": "2026-07-24T06:50:01.581Z",
-      "summary": "Black Forest Labs 以 Early Access 方式推出 FLUX 3 多模态基础模型，采用统一架构联合学习图像、视频和音频。该模型基于 Self-Flow 学习框架扩展，可在单次生成中输出最长 20 秒视频并附带原生音频，支持文生视频、图生视频、多镜头串联等任务。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrykywyx026jrolgq06set4j"
       }
     },
     {
@@ -541,6 +505,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrxr59xb01sbroxpzcqbv1fo"
+      }
+    },
+    {
+      "id": "cms3889p308xrro3fqkm5rabd",
+      "title": "蚂蚁百灵发布 Ling-3.0-flash：124B 总参数、5.1B 激活参数，智能密度超越 1T 级旗舰",
+      "title_en": "Ling-3.0-flash：智以密胜",
+      "url": "https://developer.ant-ling.com/zh-CN/blogs/ling-3.0-flash-release",
+      "permalink": "https://aihot.virxact.com/items/cms3889p308xrro3fqkm5rabd",
+      "source": "蚂蚁百灵：Developer Blog（网页）",
+      "publishedAt": "2026-07-23T16:00:00.000Z",
+      "discoveredAt": "2026-07-23T16:00:00.000Z",
+      "summary": "蚂蚁百灵正式发布新一代原生混合推理模型 Ling-3.0-flash，总参数 124B、激活参数仅 5.1B。该模型以极致智能密度对标并超越上一代 1T 级旗舰思考模型 Ring-2.6-1T。",
+      "category": "ai-models",
+      "score": 55,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3889p308xrro3fqkm5rabd"
       }
     },
     {
@@ -1694,61 +1676,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrtgmuyf3366bitl3gnpc8eo"
       }
-    },
-    {
-      "id": "cmrt81fki1d1fbitln44dzsrr",
-      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-      "title_en": "LoRA Speedrun--一个针对微调技术的公开实际运行时间排行榜",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "permalink": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-20T12:21:09.021Z",
-      "discoveredAt": "2026-07-20T12:49:14.184Z",
-      "summary": "LoRA Speedrun项目推出公开排行榜，在固定硬件（单张L40S）上比拼Qwen2.5-1.5B的微调运行时间。当前纪录由@Saivineeth147以6分05秒保持，采用序列打包与仅完成损失掩码技术，相比基线11分57秒提速约2倍且准确率更高（61.1%）。项目提供免费Modal沙箱验证，任何提交需经3次独立复现确认。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr"
-      }
-    },
-    {
-      "id": "cmrt6yjfo1407bitlsdp6qyn6",
-      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-      "title_en": "Hugging Face says an AI agent hacked its infrastructure， and it used AI to fight back",
-      "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-      "permalink": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-20T12:12:47.000Z",
-      "discoveredAt": "2026-07-20T12:18:59.313Z",
-      "summary": "Hugging Face 披露其部分生产基础设施遭一个自主AI智能体系统入侵，攻击者通过恶意数据集利用数据处理管道中的代码执行漏洞，窃取了内部数据集和多项服务凭证。该公司部署LLM驱动的分析智能体，在数小时内完成了对17000多条攻击行为的取证分析，而此类工作通常需要数天。",
-      "category": "industry",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6"
-      }
-    },
-    {
-      "id": "cmrtjg6im3u17bitl3rd7i7m4",
-      "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-      "title_en": "Agent swarms and the new model economics",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "permalink": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4",
-      "source": "Cursor Blog",
-      "publishedAt": "2026-07-20T12:00:00.000Z",
-      "discoveredAt": "2026-07-20T18:08:38.550Z",
-      "summary": "Cursor 测试了新型 AI 智能体集群，将任务分解为规划者（使用最强模型）和执行者（使用快速廉价模型）。使用 Grok 4.5 时，新集群在 4 小时内通过了 80% 的 SQL 测试套件，而旧集群在第二小时前失败。该系统已用于构建浏览器、修复漏洞和生成数十亿 token 合成训练数据。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4"
-      }
     }
   ],
-  "cachedAt": "2026-07-27T11:36:49Z"
+  "cachedAt": "2026-07-27T15:11:21Z"
 }
