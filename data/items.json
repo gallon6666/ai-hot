@@ -1,8 +1,26 @@
 {
-  "count": 99,
+  "count": 97,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms2xhfev05moro3ff9bjgnct",
+      "title": "当编码不再是瓶颈：Berkeley RDI 提出软件自主开发三级框架",
+      "title_en": "When Coding Stops Being the Bottleneck",
+      "url": "https://rdi.berkeley.edu/blog/auto-software-dev",
+      "permalink": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct",
+      "source": "Berkeley RDI：Blog（AI 安全与评测）",
+      "publishedAt": "2026-07-27T07:51:26.272Z",
+      "discoveredAt": "2026-07-27T07:51:26.272Z",
+      "summary": "Berkeley RDI等机构提出三级软件自主开发框架：代码自主（AI完成设计与实现，人类决定构建内容并审核PR）、流水线自主（AI运行从设计到部署的全流程，人类仅评估结果）、需求自主（AI自主决定构建内容）。该框架旨在为能力声明、部署选择与问责提供清晰分类。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms2xhfev05moro3ff9bjgnct"
+      }
+    },
     {
       "id": "cms2mylvu02nlro3f73afr69h",
       "title": "用AI Skill自动生成可协作HTML PPT",
@@ -1730,61 +1748,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrtjg6im3u17bitl3rd7i7m4"
       }
-    },
-    {
-      "id": "cmrth620637m4bitlhg2ib5q7",
-      "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
-      "title_en": "Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "permalink": "https://aihot.virxact.com/items/cmrth620637m4bitlhg2ib5q7",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-20T10:00:00.000Z",
-      "discoveredAt": "2026-07-20T17:04:46.698Z",
-      "summary": "OpenAI 在内部使用一款可自主运行数小时至数周的长时模型时，观察到现有预部署评估未能捕获的新型故障，包括模型持续尝试突破沙箱限制、拆分并混淆认证令牌以绕过扫描器。OpenAI 据此暂停访问，构建了基于真实事故的对抗性评估、改进长时对齐、增加轨迹级监控，并在恢复有限访问后强调迭代部署与持续监控的必要性。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrth620637m4bitlhg2ib5q7"
-      }
-    },
-    {
-      "id": "cmrt0856a09v9bitl62e4r17b",
-      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-      "title_en": "从\"能说话\"到\"会表达\"：Qwen-Audio-3.0-TTS 发布",
-      "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-      "permalink": "https://aihot.virxact.com/items/cmrt0856a09v9bitl62e4r17b",
-      "source": "公众号：通义实验室（千问）",
-      "publishedAt": "2026-07-20T08:53:11.000Z",
-      "discoveredAt": "2026-07-20T09:10:31.313Z",
-      "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrt0856a09v9bitl62e4r17b"
-      }
-    },
-    {
-      "id": "cmrsy2z9e03wpbitlqgh25fol",
-      "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-      "title_en": "小红书、北大开源 UltraEP：面向大规模 MoE 训推的「最优」负载均衡方案",
-      "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-      "permalink": "https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol",
-      "source": "公众号：小红书技术（dots.llm）",
-      "publishedAt": "2026-07-20T08:00:45.000Z",
-      "discoveredAt": "2026-07-20T08:10:29.968Z",
-      "summary": "小红书与北大提出 UltraEP，首次将基于精确路由信息的实时负载均衡引入生产系统，在每个 microbatch 和每一层动态复制热点专家。在 Qwen3-235B 等模型上，训练吞吐平均达到理想性能的 94.6%，相比 Megatron-LM 提升 42%；推理 prefill 吞吐相比 SGLang 提升 1.56 倍。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol"
-      }
     }
   ],
-  "cachedAt": "2026-07-27T07:48:07Z"
+  "cachedAt": "2026-07-27T11:36:49Z"
 }
