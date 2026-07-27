@@ -1,5 +1,5 @@
 {
-  "count": 98,
+  "count": 99,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -19,6 +19,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms2mylvu02nlro3f73afr69h"
+      }
+    },
+    {
+      "id": "cms2p7s7h03dlro3fzjovkpwc",
+      "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
+      "title_en": "浪费20亿Token之后，我做了一个帮自己定义目标的Skill。",
+      "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
+      "permalink": "https://aihot.virxact.com/items/cms2p7s7h03dlro3fzjovkpwc",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-07-27T00:12:00.000Z",
+      "discoveredAt": "2026-07-27T04:00:00.098Z",
+      "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms2p7s7h03dlro3fzjovkpwc"
       }
     },
     {
@@ -703,6 +721,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7"
+      }
+    },
+    {
+      "id": "cms2r21jz03qgro3fp5yo5b3v",
+      "title": "Agentic Context Management：将智能体记忆与成本问题重构为生命周期与架构挑战",
+      "title_en": "Agentic Context Management： Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
+      "url": "https://arxiv.org/abs/2607.21503",
+      "permalink": "https://aihot.virxact.com/items/cms2r21jz03qgro3fp5yo5b3v",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "discoveredAt": "2026-07-23T00:00:00.000Z",
+      "summary": "论文提出 Agentic Context Management（ACM）框架，将智能体上下文管理从存储问题重新定义为包含架构、摄取、范围界定、预判、压缩与整合五个原语的生命周期管理。",
+      "category": "paper",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms2r21jz03qgro3fp5yo5b3v"
       }
     },
     {
@@ -1748,25 +1784,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol"
       }
-    },
-    {
-      "id": "cmrsxb09d0098bitl4vd2rp04",
-      "title": "上海科学智能研究院开放科学多模态基础模型\"神珍\"",
-      "title_en": "多模态 AI 模型\"神珍\"开放，能处理蛋白质、天气等六类科学信息",
-      "url": "https://www.ithome.com/0/979/017.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrsxb09d0098bitl4vd2rp04",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-20T07:00:15.000Z",
-      "discoveredAt": "2026-07-20T07:48:44.543Z",
-      "summary": "上海科学智能研究院开放科学多模态基础模型\"神珍\"，总参数约110亿，可处理DNA、RNA、蛋白质、小分子、地球系统和医学影像六类数据。在生物序列20项任务中，该模型9项取得最优结果；医学影像分割平均Dice得分91.20，在7种参评方法中最优。模型权重及代码已在星河启智、Hugging Face和GitHub开放。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrsxb09d0098bitl4vd2rp04"
-      }
     }
   ],
-  "cachedAt": "2026-07-27T04:00:01Z"
+  "cachedAt": "2026-07-27T07:48:07Z"
 }
