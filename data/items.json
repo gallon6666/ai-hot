@@ -1,8 +1,26 @@
 {
-  "count": 99,
+  "count": 98,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms2mylvu02nlro3f73afr69h",
+      "title": "用AI Skill自动生成可协作HTML PPT",
+      "title_en": "基于 bento PPT 改造了一个 Skill。 输入内容或主题，自动生成可编辑修改、在线演示，甚至可以发给别人协作的HTML PPT。 安装指令：npx skills add joeseesu…",
+      "url": "https://x.com/vista8/status/2081568902241513786",
+      "permalink": "https://aihot.virxact.com/items/cms2mylvu02nlro3f73afr69h",
+      "source": "X：Vista (@vista8)",
+      "publishedAt": "2026-07-27T02:34:34.000Z",
+      "discoveredAt": "2026-07-27T02:56:52.589Z",
+      "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms2mylvu02nlro3f73afr69h"
+      }
+    },
     {
       "id": "cms24qise02adro9fp4xzdhyd",
       "title": "Suno 推出多项新功能，含MIDI导出等",
@@ -1748,43 +1766,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrsxb09d0098bitl4vd2rp04"
       }
-    },
-    {
-      "id": "cmrsp4xym0bb4biwm2ex85cp2",
-      "title": "面壁智能发布首个具身智能成果 MiniCPM-Robot 系列模型，含 1.5B VLA 与 0.9B 跟踪模型",
-      "title_en": "WAIC 2026 | 面壁智能首个具身智能成果 MiniCPM-Robot 系列模型正式发布！",
-      "url": "https://mp.weixin.qq.com/s/KwBAC8TFa846WFj-DHrgIQ",
-      "permalink": "https://aihot.virxact.com/items/cmrsp4xym0bb4biwm2ex85cp2",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "publishedAt": "2026-07-20T03:54:08.000Z",
-      "discoveredAt": "2026-07-20T04:00:06.131Z",
-      "summary": "面壁智能联合 OpenBMB 发布并开源 MiniCPM-Robot 系列，包括通用 VLA 模型 MiniCPM-RobotManip（1.5B 参数）与移动跟踪模型 MiniCPM-RobotTrack（0.9B 参数）。",
-      "category": "ai-models",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrsp4xym0bb4biwm2ex85cp2"
-      }
-    },
-    {
-      "id": "cmrsl3weh0a3pbiwmdqtrjycc",
-      "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-      "title_en": "Ollama：欢迎加入开放模型行列",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "permalink": "https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-20T01:45:09.765Z",
-      "discoveredAt": "2026-07-20T02:07:10.363Z",
-      "summary": "Ollama 宣布完成 8800 万美元融资，由 Benchmark、Theory Ventures 和 8VC 等领投。该平台已服务 890 万开发者，并被 85% 的财富 500 强企业使用，其云端 token 用量月均翻倍。资金将用于支持无缝混合推理、新模型发布当日集成，以及让开发者在不牺牲所有权和隐私的前提下使用最强开放模型。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrsl3weh0a3pbiwmdqtrjycc"
-      }
     }
   ],
-  "cachedAt": "2026-07-27T00:10:48Z"
+  "cachedAt": "2026-07-27T04:00:01Z"
 }
