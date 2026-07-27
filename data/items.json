@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0NTk2MjQ5MDAwLCJpIjoiY21ydHl2a25nM3ZvaWJpaHplcm82cHJ5MSJ9",
+  "nextCursor": "eyJhIjoxNzg0NjA0Nzg4MDAwLCJpIjoiY21ydTN2bXYyNTJ2MmJpaHptMmJ0cmNweSJ9",
   "items": [
+    {
+      "id": "cms3sq44w01v7ro82l278pl7v",
+      "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
+      "title_en": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "permalink": "https://aihot.virxact.com/items/cms3sq44w01v7ro82l278pl7v",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-07-27T22:26:00.307Z",
+      "discoveredAt": "2026-07-27T22:26:00.307Z",
+      "summary": "Anthropic CEO Dario Amodei 明确表示公司从未主张禁止开源权重模型，并认为不具备危险能力的开源权重模型是公共产品。他提出三项实际措施：对华芯片出口管制、打击工业级知识蒸馏、对所有足够强大的模型进行强制性安全测试。Amodei 指出，保护主义禁令无法解决其最担忧的国家安全威胁，包括威权政府利用更强大 AI 实现军事优势或深度监控。",
+      "category": "tip",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3sq44w01v7ro82l278pl7v"
+      }
+    },
     {
       "id": "cms3m8ubg001nrox37oixfg2e",
       "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy"
       }
-    },
-    {
-      "id": "cmrtyvkng3voibihzero6pry1",
-      "title": "一个随机数就能识别AI模型身份：行为指纹技术可检测API中转站偷换模型",
-      "title_en": "AI说不出的随机数，成了鉴别套壳大模型最好的照妖镜。",
-      "url": "https://mp.weixin.qq.com/s/pqFZreEZj8kB4KDirl4MSQ",
-      "permalink": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-21T01:10:49.000Z",
-      "discoveredAt": "2026-07-21T01:20:31.394Z",
-      "summary": "布拉格经济大学研究员托马什·布鲁克纳发现，通过让模型反复输出1到100的随机数，可生成独一无二的\"行为指纹\"。对165个模型各问30次后发现，GPT-4o偏爱42和37，Claude Sonnet 5疯狂输出47，Qwen3-Max则30次全部回答42。该方法仅需约120条请求即可识别模型身份，错误率约10.6%，为验证API是否被偷换模型提供了轻量级方案。",
-      "category": "tip",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1"
-      }
     }
   ],
-  "cachedAt": "2026-07-27T22:16:19Z"
+  "cachedAt": "2026-07-27T23:27:53Z"
 }
