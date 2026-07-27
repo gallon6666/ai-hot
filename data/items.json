@@ -1,8 +1,44 @@
 {
-  "count": 99,
-  "hasNext": false,
-  "nextCursor": null,
+  "count": 100,
+  "hasNext": true,
+  "nextCursor": "eyJhIjoxNzg0NTk0MTI2OTI4LCJpIjoiY21ydHhzbDJlM28yNGJpaHp1dGJsc3NvbyJ9",
   "items": [
+    {
+      "id": "cms3m8ubg001nrox37oixfg2e",
+      "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+      "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+      "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+      "permalink": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-27T19:08:51.000Z",
+      "discoveredAt": "2026-07-27T19:24:35.867Z",
+      "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e"
+      }
+    },
+    {
+      "id": "cms3lggqj00c0roskhu1r5f09",
+      "title": "Kimi 发布视觉感知基准 PerceptionBench",
+      "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
+      "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
+      "permalink": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "publishedAt": "2026-07-27T18:45:20.000Z",
+      "discoveredAt": "2026-07-27T19:02:32.798Z",
+      "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09"
+      }
+    },
     {
       "id": "cms3k7su000n8roiytkztsme7",
       "title": "用Claude和Python构建技能驱动的金融分析智能体",
@@ -19,6 +55,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7"
+      }
+    },
+    {
+      "id": "cms3n5wpl001sro82iax01xu3",
+      "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+      "title_en": "The harness is all you need （mostly）",
+      "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+      "permalink": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-07-27T18:00:00.000Z",
+      "discoveredAt": "2026-07-27T19:50:19.758Z",
+      "summary": "GitHub Copilot 推出\"Harness\"工作流，让开发者通过单一 AI 工具完成从原型设计、规划、实现到代码审查的完整软件开发流程，无需追逐多种新 AI 工具。该工作流强调实用性与集成性，旨在减少工具切换带来的效率损耗。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3"
       }
     },
     {
@@ -1748,43 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo"
       }
-    },
-    {
-      "id": "cmrvnxfx7047nbihbzr6crygg",
-      "title": "AgentDebugX：面向LLM智能体的开源故障调试框架",
-      "title_en": "AgentDebugX： An Open-Source Toolkit for Failure Observability， Attribution， and Recovery in LLM Agents",
-      "url": "https://arxiv.org/abs/2607.18754",
-      "permalink": "https://aihot.virxact.com/items/cmrvnxfx7047nbihbzr6crygg",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-21T00:00:00.000Z",
-      "discoveredAt": "2026-07-22T05:49:34.683Z",
-      "summary": "AgentDebugX是一个开源调试框架，将LLM智能体调试组织为\"检测-归因-恢复-重跑\"闭环。其核心DeepDebug在Who&When基准上对qwen3.5-9b达到精确的智能体与步骤归因准确率，在GAIA上单次重跑即可修复失败任务。该工具提供Python库、CLI、Web控制台和可安装的智能体技能。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrvnxfx7047nbihbzr6crygg"
-      }
-    },
-    {
-      "id": "cmruybn7500lbbinvrohd9rio",
-      "title": "OpenRouter 推出 Prompt Caching + Sticky Routing，降低多轮 Agent 调用成本",
-      "title_en": "The Cheapest Token Is a Cached One： Prompt Caching + Sticky Routing",
-      "url": "https://openrouter.ai/blog/tutorials/prompt-caching-sticky-routing",
-      "permalink": "https://aihot.virxact.com/items/cmruybn7500lbbinvrohd9rio",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-07-21T00:00:00.000Z",
-      "discoveredAt": "2026-07-21T17:52:47.570Z",
-      "summary": "OpenRouter 通过 Prompt Caching 与 Sticky Routing 降低多轮 Agent 的 token 成本。缓存读取价格仅为正常输入的 0.1x-0.5x，其中 Claude Sonnet 4.6 缓存读取为 $0.30/M（正常 $3.00/M）。",
-      "category": "tip",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmruybn7500lbbinvrohd9rio"
-      }
     }
   ],
-  "cachedAt": "2026-07-27T18:45:41Z"
+  "cachedAt": "2026-07-27T20:41:52Z"
 }
