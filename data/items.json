@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0NTk0MTI2OTI4LCJpIjoiY21ydHhzbDJlM28yNGJpaHp1dGJsc3NvbyJ9",
+  "nextCursor": "eyJhIjoxNzg0NTk2MjQ5MDAwLCJpIjoiY21ydHl2a25nM3ZvaWJpaHplcm82cHJ5MSJ9",
   "items": [
     {
       "id": "cms3m8ubg001nrox37oixfg2e",
@@ -958,6 +958,24 @@
       }
     },
     {
+      "id": "cms3p3ut600qwro82jnjupeep",
+      "title": "OpenRouter 上的\"AI 超市\"效应：GPT-OSS 120b 流量达 Opus 4.8 的 36%，模型市场加速分层",
+      "title_en": "Yeltsin in the AI Aisle",
+      "url": "https://www.tomtunguz.com/yeltsin-in-the-ai-aisle",
+      "permalink": "https://aihot.virxact.com/items/cms3p3ut600qwro82jnjupeep",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-07-23T00:00:00.000Z",
+      "discoveredAt": "2026-07-23T00:00:00.000Z",
+      "summary": "OpenRouter 上的 AI 模型市场正像超市货架一样分层：OpenAI 去年 8 月发布的开源模型 GPT-OSS 120b 仍占据 Anthropic 最新旗舰 Opus 4.8 流量的 36%。",
+      "category": "tip",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3p3ut600qwro82jnjupeep"
+      }
+    },
+    {
       "id": "cms2r21jz03qgro3fp5yo5b3v",
       "title": "Agentic Context Management：将智能体记忆与成本问题重构为生命周期与架构挑战",
       "title_en": "Agentic Context Management： Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrtyvkng3voibihzero6pry1"
       }
-    },
-    {
-      "id": "cmrtxsl2e3o24bihzutblssoo",
-      "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
-      "title_en": "代理群与新经济模式",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "permalink": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-21T00:35:26.928Z",
-      "discoveredAt": "2026-07-21T00:50:11.975Z",
-      "summary": "一项实验证明，将任务分解为规划者与执行者的树状结构后，代理群在四小时内用 Grok 4.5 达到 80% 的 SQL 测试通过率，而旧版代理群在第二小时前即失败。新系统峰值提交速度达每秒 1，000 次，为此团队从零构建了专用版本控制系统。该架构已在构建浏览器、修复漏洞及生成数十亿 token 合成数据等任务中验证。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrtxsl2e3o24bihzutblssoo"
-      }
     }
   ],
-  "cachedAt": "2026-07-27T20:41:52Z"
+  "cachedAt": "2026-07-27T22:16:19Z"
 }
