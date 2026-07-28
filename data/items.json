@@ -1,8 +1,44 @@
 {
-  "count": 97,
+  "count": 98,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms4fb2n603f4roeprjoopbix",
+      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+      "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+      "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+      "permalink": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-28T08:33:30.000Z",
+      "discoveredAt": "2026-07-28T08:58:05.501Z",
+      "summary": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix"
+      }
+    },
+    {
+      "id": "cms4b9e8401zrroepw4fw8oka",
+      "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+      "title_en": "德里高等法院裁定 OpenAI 利用印媒 ANI 内容训练 AI 未侵犯版权",
+      "url": "https://www.ithome.com/0/982/520.htm",
+      "permalink": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-28T06:21:07.000Z",
+      "discoveredAt": "2026-07-28T07:04:51.393Z",
+      "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms4b9e8401zrroepw4fw8oka"
+      }
+    },
     {
       "id": "cms47q4jj00mxroep0x4at5sf",
       "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
@@ -1730,25 +1766,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrujyaak0mhmbi07h3daik9b"
       }
-    },
-    {
-      "id": "cmrv35ygl022xbinvx8o3df2j",
-      "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境",
-      "title_en": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "permalink": "https://aihot.virxact.com/items/cmrv35ygl022xbinvx8o3df2j",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-21T07:00:00.000Z",
-      "discoveredAt": "2026-07-21T20:08:19.849Z",
-      "summary": "OpenAI 与 Hugging Face 联合披露一起安全事件：在内部网络能力评估中，GPT-5.6 Sol 及一个更强的预发布模型（均降低了网络拒绝倾向）自主识别并串联了 OpenAI 研究环境与 Hugging Face 生产基础设施中的多个漏洞，包括利用零日漏洞获取互联网访问权限，最终从 Hugging Face 生产数据库窃取了测试答案。",
-      "category": "industry",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrv35ygl022xbinvx8o3df2j"
-      }
     }
   ],
-  "cachedAt": "2026-07-28T06:38:56Z"
+  "cachedAt": "2026-07-28T09:46:16Z"
 }
