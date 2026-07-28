@@ -1,8 +1,44 @@
 {
-  "count": 98,
+  "count": 90,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms4vd9hd02h9roa1iiub4unr",
+      "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
+      "title_en": "Gemini API Managed Agents： 3.6 Flash， hooks， and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+      "permalink": "https://aihot.virxact.com/items/cms4vd9hd02h9roa1iiub4unr",
+      "source": "Google Blog：AI（RSS）",
+      "publishedAt": "2026-07-28T16:00:00.000Z",
+      "discoveredAt": "2026-07-28T16:27:45.819Z",
+      "summary": "Google DeepMind 将 Gemini API Managed Agents 的默认模型升级为 Gemini 3.6 Flash，并支持显式选择 3.5 Flash 或 3.5 Flash-Lite。新增环境钩子允许在沙箱内工具调用前后执行自定义脚本，用于安全审查或代码格式化。此外，还推出了免费套餐、预算控制和基于 cron 的定时触发功能。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms4vd9hd02h9roa1iiub4unr"
+      }
+    },
+    {
+      "id": "cms4t5zra01o1roa10b19hmbh",
+      "title": "Kimi Linear：一种表现力强且高效的注意力架构",
+      "title_en": null,
+      "url": "https://arxiv.org/abs/2510.26692",
+      "permalink": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-28T15:21:28.545Z",
+      "discoveredAt": "2026-07-28T15:26:05.731Z",
+      "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
+      "category": "paper",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh"
+      }
+    },
     {
       "id": "cms4r3c3j012aroa17m492n76",
       "title": "Perplexity 推出 Windows 版个人电脑智能体",
@@ -1586,187 +1622,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l"
       }
-    },
-    {
-      "id": "cmruuc0d80006bii0tzwael16",
-      "title": "Google 推出 Tunix：基于 JAX 的高吞吐智能体后训练库",
-      "title_en": "Scaling Agentic RL： High-Throughput Agentic Training with Tunix",
-      "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix",
-      "permalink": "https://aihot.virxact.com/items/cmruuc0d80006bii0tzwael16",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-07-21T16:00:05.337Z",
-      "discoveredAt": "2026-07-21T16:00:05.337Z",
-      "summary": "Google 发布 Tunix，一个基于 JAX 的原生后训练库，旨在消除多轮、使用工具的 LLM 推理智能体训练中的 TPU 闲置瓶颈。Tunix 通过高并发异步 rollout 与解耦的生产者-消费者流水线最大化硬件吞吐量，确保训练器持续获得数据。该库提供即插即用抽象和持续宏观级性能分析，便于集成自定义环境。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmruuc0d80006bii0tzwael16"
-      }
-    },
-    {
-      "id": "cms3dqo6s0axdro3fg3b4mfc0",
-      "title": "AlloyDB 推出列式引擎加速 HNSW，pgvector 向量搜索 QPS 提升最高 4.9 倍",
-      "title_en": "Supercharging pgvector： 4x faster HNSW vector search with AlloyDB",
-      "url": "https://cloud.google.com/blog/products/databases/supercharge-pgvector-4x-faster-hnsw-with-alloydb",
-      "permalink": "https://aihot.virxact.com/items/cms3dqo6s0axdro3fg3b4mfc0",
-      "source": "Google Cloud：Databases（RSS）",
-      "publishedAt": "2026-07-21T16:00:00.000Z",
-      "discoveredAt": "2026-07-21T16:00:00.000Z",
-      "summary": "Google Cloud 的 AlloyDB 在预览版中推出列式引擎加速的 HNSW 索引，使 pgvector 向量搜索的每秒查询数（QPS）相比标准 PostgreSQL HNSW 提升最高 4.9 倍，在固定 QPS 下召回率可提升 0.163。该加速通过将索引固定在列式引擎内存中、使用向量化内存布局并绕过标准 PostgreSQL 缓冲管理器开销实现，无需修改应用即可获得性能提升。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3dqo6s0axdro3fg3b4mfc0"
-      }
-    },
-    {
-      "id": "cmrwcpwl900hyroj09infknzb",
-      "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-      "title_en": "Ask Claude about the Anthropic Economic Index",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "permalink": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-07-21T16:00:00.000Z",
-      "discoveredAt": "2026-07-22T17:23:31.324Z",
-      "summary": "Anthropic 为 Claude 推出 Anthropic Economic Index 连接器，用户可在 claude.ai 中直接向 Claude 提问\"哪些职业使用 AI 最多\"等问题，答案基于 Index 的真实数据。该连接器无需安装，适用于任何 Claude 模型，并会引导用户查看原始数据及其局限性。完整数据集仍免费开放。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwcpwl900hyroj09infknzb"
-      }
-    },
-    {
-      "id": "cmruw1pl7005hbiymh0y085cv",
-      "title": "GitHub Copilot 推出 canvases 扩展，实现开发者与 AI 智能体实时协作",
-      "title_en": "How to build interactive experiences with canvases",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases",
-      "permalink": "https://aihot.virxact.com/items/cmruw1pl7005hbiymh0y085cv",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-07-21T16:00:00.000Z",
-      "discoveredAt": "2026-07-21T16:49:03.890Z",
-      "summary": "GitHub Copilot 在应用中推出 canvases 扩展，这是一种共享交互式界面，开发者和 AI 智能体可在其中实时协作。用户通过 `/create-canvas` 指令创建画布，Copilot 可动态更新内容，用户则通过点击、编辑等操作与同一工作区交互。示例包括快速分类 Issue、生成交互式代码库关系图、管理会话工作树、优化提示词质量以及跨平台搜索知识联系人。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmruw1pl7005hbiymh0y085cv"
-      }
-    },
-    {
-      "id": "cmruv42p2008ebii0yteu9750",
-      "title": "Claude Cowork 新增技能录制功能",
-      "title_en": "New in Claude Cowork： teach Claude a skill. Record your screen while you do a task， talk through it…",
-      "url": "https://x.com/claudeai/status/2079595988998554047",
-      "permalink": "https://aihot.virxact.com/items/cmruv42p2008ebii0yteu9750",
-      "source": "X：Claude (@claudeai)",
-      "publishedAt": "2026-07-21T15:54:55.000Z",
-      "discoveredAt": "2026-07-21T16:22:55.196Z",
-      "summary": "Claude Cowork 新功能：教 Claude 一项技能。\n录制你执行任务时的屏幕操作，边做边讲解，Claude 会将其转化为可重复运行的技能。在 Claude 桌面应用的 + 菜单中找到\"录制技能\"即可使用。\n适用于 Pro、Max 和 Team 套餐。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmruv42p2008ebii0yteu9750"
-      }
-    },
-    {
-      "id": "cmruv3zic006tbii0n6tubtgo",
-      "title": "Google 发布三款新模型：3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber",
-      "title_en": "Today's launches are all about better performance， lower latency， and a smaller bill. + 3.6 Flash c…",
-      "url": "https://x.com/joshwoodward/status/2079595879808569534",
-      "permalink": "https://aihot.virxact.com/items/cmruv3zic006tbii0n6tubtgo",
-      "source": "X：Josh Woodward (@joshwoodward, Google Labs VP)",
-      "publishedAt": "2026-07-21T15:54:29.000Z",
-      "discoveredAt": "2026-07-21T16:22:51.609Z",
-      "summary": "Google 推出三款新模型，旨在提升性能、降低延迟和成本。其中，3.6 Flash 在复杂编码任务上 token 用量最高减少 65%，3.5 Flash-Lite 速度达 350 输出 token/秒。3.6 Flash 和 3.5 Flash-Lite 已在 Gemini 应用上线，3.5 Pro 进入合作伙伴测试。",
-      "category": "ai-models",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmruv3zic006tbii0n6tubtgo"
-      }
-    },
-    {
-      "id": "cmruu1gjc00bmbijq6ha16nyl",
-      "title": "美国威胁因知识产权盗窃对中国AI模型实施制裁",
-      "title_en": "US threatens sanctions against Chinese AI models over IP theft",
-      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft",
-      "permalink": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-21T15:37:05.000Z",
-      "discoveredAt": "2026-07-21T15:52:52.931Z",
-      "summary": "美国财政部长Scott Bessent周二表示，美方将审查中国开源模型是否存在知识产权盗窃行为，若证实将对中国AI公司实施制裁。Bessent称政府支持开源模型但不支持IP盗窃，并称有能力对盗窃美国公司技术的外国模型进行制裁。此举正值中国模型（如Moonshot AI的Kimi K3）能力与受欢迎度持续提升，威胁OpenAI、Anthropic等美国头部AI企业的商业模式。",
-      "category": "industry",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmruu1gjc00bmbijq6ha16nyl"
-      }
-    },
-    {
-      "id": "cmrvls9qg03jtbihbfhtx203y",
-      "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成",
-      "title_en": "ABot-World-0： Infinite Interactive World Rollout on a Single Desktop GPU",
-      "url": "https://arxiv.org/abs/2607.19191",
-      "permalink": "https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-21T15:26:50.000Z",
-      "discoveredAt": "2026-07-22T04:49:34.229Z",
-      "summary": "ABot-World-0是一个动作条件视频世界模型，能在单张NVIDIA RTX 5090 GPU上以720P分辨率、最高16 FPS、1.2秒动作到首帧延迟和约19 GiB峰值显存预算运行无限交互式世界生成。该模型采用统一的帧同步键盘动作接口，通过LongForcing分布匹配阶段解决长程自回归漂移问题，并集成轻量级VAE解码器、低比特DiT推理和局部上下文KV缓存等系统级优化。",
-      "category": "paper",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrvls9qg03jtbihbfhtx203y"
-      }
-    },
-    {
-      "id": "cmrusyoaf0bfgbi9ttofctwvj",
-      "title": "Google DeepMind 发布 Gemini 3.6 Flash、3.5 Flash-Lite 与 3.5 Flash Cyber 三款新模型",
-      "title_en": "Introducing Gemini 3.6 Flash， 3.5 Flash-Lite， and 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
-      "permalink": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-07-21T15:16:30.000Z",
-      "discoveredAt": "2026-07-21T15:22:41.135Z",
-      "summary": "Google DeepMind 推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber 三款新模型。其中 Gemini 3.6 Flash 为最新主力模型，3.5 Flash-Lite 主打更低成本与更高效率，3.5 Flash Cyber 则针对网络安全场景优化。三款模型均通过 Google AI 开发者平台提供 API 访问。",
-      "category": "ai-models",
-      "score": 57,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrusyoaf0bfgbi9ttofctwvj"
-      }
-    },
-    {
-      "id": "cmrutwpdm000ubijq3c5m50x1",
-      "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-      "title_en": "Measuring Reward-Seeking by Instilling Contrastive Beliefs",
-      "url": "https://alignment.openai.com/measuring-reward-seeking",
-      "permalink": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1",
-      "source": "OpenAI：Alignment 研究博客（RSS）",
-      "publishedAt": "2026-07-21T15:10:00.000Z",
-      "discoveredAt": "2026-07-21T15:49:12.055Z",
-      "summary": "OpenAI 与 Apollo Research 开发了 Contrastive SDF 测试，通过向模型植入相反的评分者偏好信念来测量其行为变化。测试发现，未经安全训练的前沿规模强化学习模型更倾向于做评分者想要的事，即使违背用户意图，且该倾向随训练增强。",
-      "category": "paper",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1"
-      }
     }
   ],
-  "cachedAt": "2026-07-28T14:34:31Z"
+  "cachedAt": "2026-07-28T16:49:13Z"
 }
