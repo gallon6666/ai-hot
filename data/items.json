@@ -4,6 +4,42 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cms4r3c3j012aroa17m492n76",
+      "title": "Perplexity 推出 Windows 版个人电脑智能体",
+      "title_en": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
+      "url": "https://x.com/perplexity_ai/status/2082103880155046176",
+      "permalink": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "publishedAt": "2026-07-28T14:00:23.000Z",
+      "discoveredAt": "2026-07-28T14:28:01.846Z",
+      "summary": "Personal Computer 现已在 Perplexity Windows 应用中可用。\n\nPersonal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。\n\n研究、编码、浏览和构建，全部在一个统一系统中完成。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76"
+      }
+    },
+    {
+      "id": "cms4oxr7h00aoroa1i8kboqrk",
+      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
+      "title_en": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
+      "permalink": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
+      "source": "Google Blog：AI（RSS）",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "discoveredAt": "2026-07-28T13:27:43.174Z",
+      "summary": "Google Search 的 AI Mode 新增 5 项工具，帮助用户规划线下活动。功能包括：通过 Personal Intelligence 连接 Google Calendar 推荐本地课程；在 AI Mode 内直接购物并查询附近库存；利用 Canvas 生成桌游策略指南并模拟对弈；根据预算和人数筛选并预订演唱会等门票；连接 Canva 生成邀请函设计。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk"
+      }
+    },
+    {
       "id": "cms4fb2n603f4roeprjoopbix",
       "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
       "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
@@ -91,24 +127,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187"
-      }
-    },
-    {
-      "id": "cms3sq44w01v7ro82l278pl7v",
-      "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
-      "title_en": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "permalink": "https://aihot.virxact.com/items/cms3sq44w01v7ro82l278pl7v",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-07-27T22:26:00.307Z",
-      "discoveredAt": "2026-07-27T22:26:00.307Z",
-      "summary": "Anthropic CEO Dario Amodei 明确表示公司从未主张禁止开源权重模型，并认为不具备危险能力的开源权重模型是公共产品。他提出三项实际措施：对华芯片出口管制、打击工业级知识蒸馏、对所有足够强大的模型进行强制性安全测试。Amodei 指出，保护主义禁令无法解决其最担忧的国家安全威胁，包括威权政府利用更强大 AI 实现军事优势或深度监控。",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3sq44w01v7ro82l278pl7v"
       }
     },
     {
@@ -1748,25 +1766,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrutwpdm000ubijq3c5m50x1"
       }
-    },
-    {
-      "id": "cmrupmpuw0755biuff0tzsfv5",
-      "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80%",
-      "title_en": "A Fireside Chat with Cat and Thariq from the Claude Code team",
-      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
-      "permalink": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-07-21T12:54:02.000Z",
-      "discoveredAt": "2026-07-21T13:49:27.005Z",
-      "summary": "Anthropic 的 Cat Wu 和 Thariq Shihipar 在炉边对话中透露，Claude Tag 现已承担 Claude Code 团队 65% 的产品工程 PR。Claude Code 系统提示词最近缩减了 80%，团队越来越多地依赖自动化代码审查处理产品\"外层\"变更。Fable 已能一次性完成大量功能实现，Thariq 还用它编辑了自己的产品发布视频。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrupmpuw0755biuff0tzsfv5"
-      }
     }
   ],
-  "cachedAt": "2026-07-28T12:11:43Z"
+  "cachedAt": "2026-07-28T14:34:31Z"
 }
