@@ -1,8 +1,26 @@
 {
-  "count": 90,
+  "count": 88,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms4xie76037xroa13kv3uglm",
+      "title": "Claude 发现加密算法弱点研究发布",
+      "title_en": "New Anthropic research： Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has…",
+      "url": "https://x.com/AnthropicAI/status/2082153297670992134",
+      "permalink": "https://aihot.virxact.com/items/cms4xie76037xroa13kv3uglm",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "publishedAt": "2026-07-28T17:16:45.000Z",
+      "discoveredAt": "2026-07-28T17:27:44.441Z",
+      "summary": "Anthropic 新研究：用 Claude 发现加密弱点。\n\nClaude Mythos 预览版已帮助我们的研究人员发现加密算法中的弱点--这些数学方法用于保护数据隐私。\n\n了解更多：https://anthropic.com/research/discovering-cryptographic-weaknesses",
+      "category": "paper",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms4xie76037xroa13kv3uglm"
+      }
+    },
     {
       "id": "cms4vd9hd02h9roa1iiub4unr",
       "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
@@ -1568,61 +1586,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrv2m1gu01w8binv2kiup4x2"
       }
-    },
-    {
-      "id": "cmruze9vm00ywbinvdmqyi5j0",
-      "title": "Laguna S 2.1 免费开源上线 OpenCode",
-      "title_en": "Laguna S 2.1 is now free on OpenCode 1M Context · fully open source Poolside's most capable model …",
-      "url": "https://x.com/opencode/status/2079631772770242808",
-      "permalink": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0",
-      "source": "X：opencode (@opencode)",
-      "publishedAt": "2026-07-21T18:17:06.000Z",
-      "discoveredAt": "2026-07-21T18:22:49.247Z",
-      "summary": "Laguna S 2.1 现已在 OpenCode 上免费提供\n\n1M 上下文窗口 · 完全开源\n\nPoolside 迄今为止最强大的模型",
-      "category": "ai-products",
-      "score": 56,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmruze9vm00ywbinvdmqyi5j0"
-      }
-    },
-    {
-      "id": "cmrux91ns0054binvkklr50gt",
-      "title": "Claude 不是编译器--它比编译器更好",
-      "title_en": "Claude 不是编译器",
-      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-      "permalink": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-21T17:15:35.727Z",
-      "discoveredAt": "2026-07-21T17:22:46.102Z",
-      "summary": "Claude 等大语言模型能跨越战略、产品、架构、代码到机器码的整个技术栈垂直工作，无需安排会议或请求许可，因此比传统编译器更强大。以 exe.dev 为例，团队用 LLM 研究分布式 DNS 系统设计、历史安全缺陷和替代实现策略，并通过多智能体循环构建了完整系统。LLM 虽在单项任务上不及资深人类，但能同时处理所有层级，实现跨层协作。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrux91ns0054binvkklr50gt"
-      }
-    },
-    {
-      "id": "cmrux929g005abinv7sbkrf3l",
-      "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-      "title_en": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM nee…",
-      "url": "https://x.com/karpathy/status/2079610838143623371",
-      "permalink": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l",
-      "source": "X：Andrej Karpathy (@karpathy)",
-      "publishedAt": "2026-07-21T16:53:55.000Z",
-      "discoveredAt": "2026-07-21T17:22:47.564Z",
-      "summary": "Andrej Karpathy分享了一种与LLM协作的有效模式：开启语音输入，进行10分钟左右的自由漫谈，即使内容混乱、意识流式也无妨。他发现LLM擅长从长篇不连贯的语音中重构意图，回应的内容往往比用户最初的思路更清晰，从而减少后续修正次数、提升人机对齐效率。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrux929g005abinv7sbkrf3l"
-      }
     }
   ],
-  "cachedAt": "2026-07-28T16:49:13Z"
+  "cachedAt": "2026-07-28T18:43:17Z"
 }
