@@ -1,8 +1,44 @@
 {
-  "count": 92,
+  "count": 94,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms5992vh00jzro7c7xcqw6n7",
+      "title": "OpenAI 开源 Codex Security CLI 工具",
+      "title_en": "we've just open-sourced the Codex Security CLI： https://news.ycombinator.com/item?id=49089755",
+      "url": "https://x.com/gdb/status/2082235089539526690",
+      "permalink": "https://aihot.virxact.com/items/cms5992vh00jzro7c7xcqw6n7",
+      "source": "X：Greg Brockman (@gdb)",
+      "publishedAt": "2026-07-28T22:41:46.000Z",
+      "discoveredAt": "2026-07-28T22:56:25.233Z",
+      "summary": "我们刚刚开源了 Codex Security CLI：https://news.ycombinator.com/item?id=49089755",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms5992vh00jzro7c7xcqw6n7"
+      }
+    },
+    {
+      "id": "cms588cro008aro7czwgcqs7e",
+      "title": "Anthropic 支持 AI 发展节奏请愿",
+      "title_en": "We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
+      "url": "https://x.com/AnthropicAI/status/2082228994653696371",
+      "permalink": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "publishedAt": "2026-07-28T22:17:32.000Z",
+      "discoveredAt": "2026-07-28T22:27:51.621Z",
+      "summary": "我们支持这份请愿，我们的 CEO、多位联合创始人及高级员工均已签署。\n\n我们上月发表的关于递归自我改进的研究指出，需要借助工具审慎把控 AI 前沿的发展节奏，以便社会做好准备。我们很高兴看到该领域已达成广泛共识。https://www.pacingthefrontier.com/",
+      "category": "industry",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e"
+      }
+    },
     {
       "id": "cms573utt01c4roeh702o8mxp",
       "title": "OpenAI 失控模型二次入侵 Modal 客户",
@@ -1660,5 +1696,5 @@
       }
     }
   ],
-  "cachedAt": "2026-07-28T22:15:47Z"
+  "cachedAt": "2026-07-28T23:16:16Z"
 }
