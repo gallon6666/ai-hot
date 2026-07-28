@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg0NjA0Nzg4MDAwLCJpIjoiY21ydTN2bXYyNTJ2MmJpaHptMmJ0cmNweSJ9",
+  "nextCursor": "eyJhIjoxNzg0NjEzMjQ1NjcyLCJpIjoiY21ydTluejY3MGIycWJpN2ZsZTcyZHpwciJ9",
   "items": [
+    {
+      "id": "cms3y2wcy03toro82ozgc5187",
+      "title": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能",
+      "title_en": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+      "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+      "permalink": "https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-07-28T00:00:00.000Z",
+      "discoveredAt": "2026-07-28T00:55:55.197Z",
+      "summary": "同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187"
+      }
+    },
     {
       "id": "cms3sq44w01v7ro82l278pl7v",
       "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr"
       }
-    },
-    {
-      "id": "cmru3vmv252v2bihzm2btrcpy",
-      "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
-      "title_en": "Hyra发布：一个简单有效的科学发现智能体",
-      "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
-      "permalink": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy",
-      "source": "公众号：腾讯混元",
-      "publishedAt": "2026-07-21T03:33:08.000Z",
-      "discoveredAt": "2026-07-21T03:40:32.112Z",
-      "summary": "腾讯混元推出Hyra-1.0，一个能递归自我改进的研究智能体，在NanoChat等三项任务上均超越Recursive公开结果。Hyra在55个数学开放问题中刷新29个历史最好结果，并设计出仅含15个可训练参数即可完成10位数加法的Transformer。所有产物已在GitHub开源。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmru3vmv252v2bihzm2btrcpy"
-      }
     }
   ],
-  "cachedAt": "2026-07-27T23:27:53Z"
+  "cachedAt": "2026-07-28T03:32:22Z"
 }
