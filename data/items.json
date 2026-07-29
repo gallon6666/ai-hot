@@ -1,24 +1,24 @@
 {
-  "count": 94,
+  "count": 91,
   "hasNext": false,
   "nextCursor": null,
   "items": [
     {
-      "id": "cms5992vh00jzro7c7xcqw6n7",
-      "title": "OpenAI 开源 Codex Security CLI 工具",
-      "title_en": "we've just open-sourced the Codex Security CLI： https://news.ycombinator.com/item?id=49089755",
-      "url": "https://x.com/gdb/status/2082235089539526690",
-      "permalink": "https://aihot.virxact.com/items/cms5992vh00jzro7c7xcqw6n7",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-07-28T22:41:46.000Z",
-      "discoveredAt": "2026-07-28T22:56:25.233Z",
-      "summary": "我们刚刚开源了 Codex Security CLI：https://news.ycombinator.com/item?id=49089755",
+      "id": "cms5a9tpy00utro7c9bw0s295",
+      "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
+      "title_en": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+      "url": "https://x.com/thsottiaux/status/2082241164850364555",
+      "permalink": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295",
+      "source": "X：Tibo (@thsottiaux)",
+      "publishedAt": "2026-07-28T23:05:54.000Z",
+      "discoveredAt": "2026-07-28T23:24:59.020Z",
+      "summary": "更多开源福利。我们刚刚发布了一个 CLI 和 TypeScript SDK，用于查找、验证和修复代码中的安全漏洞。扫描仓库、审查变更、随时间追踪发现，并在 CI 中运行安全检查。\n\nhttps://github.com/openai/codex-security",
       "category": "ai-products",
-      "score": 61,
+      "score": 77,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5992vh00jzro7c7xcqw6n7"
+        "canonical": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295"
       }
     },
     {
@@ -1640,61 +1640,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0"
       }
-    },
-    {
-      "id": "cmrx3dmt7001nro69xdxeq8dd",
-      "title": "RECAP：通过可解码性监督训练可验证的激活解释",
-      "title_en": "Train the Model， Not the Reader： Decodability Supervision for Verifiable Activation Explanations",
-      "url": "https://arxiv.org/abs/2607.20379",
-      "permalink": "https://aihot.virxact.com/items/cmrx3dmt7001nro69xdxeq8dd",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-22T00:00:00.000Z",
-      "discoveredAt": "2026-07-23T05:49:49.654Z",
-      "summary": "研究发现自然语言自编码器（NLA）的重建分数无法验证逐声明的忠实性，模型可能依赖\"私密代码\"而非真实依据。作者提出RECAP方法，在目标模型上联合训练线性头以保持指定内容可解码。在Pythia-160M上，独立探针能可靠区分真假声明（AUC 0.96），并在对抗编辑下仍能标记谎言（AUC 0.95）。",
-      "category": "paper",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrx3dmt7001nro69xdxeq8dd"
-      }
-    },
-    {
-      "id": "cmrwer0kl0127roj0zluq7yeh",
-      "title": "Cursor 发布智能模型路由系统 Cursor Router",
-      "title_en": "Introducing Cursor Router",
-      "url": "https://cursor.com/blog/router",
-      "permalink": "https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh",
-      "source": "Cursor Blog",
-      "publishedAt": "2026-07-22T00:00:00.000Z",
-      "discoveredAt": "2026-07-22T18:20:24.454Z",
-      "summary": "Cursor 推出 Cursor Router，可自动将每个编码请求分配给最合适的模型。在线 A/B 测试显示，Auto Intelligence 模式在用户满意度接近 Fable 的同时，成本降低约 60%；Auto Balance 模式满意度超过 Opus 4.8，成本降低约 36%。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwer0kl0127roj0zluq7yeh"
-      }
-    },
-    {
-      "id": "cmrvo24p604bvbihbk4aexnv6",
-      "title": "OpenRouter 新增音频转写 API，支持 Whisper 与 token 计价 STT 模型",
-      "title_en": "Transcription on OpenRouter",
-      "url": "https://openrouter.ai/blog/tutorials/transcription-on-openrouter",
-      "permalink": "https://aihot.virxact.com/items/cmrvo24p604bvbihbk4aexnv6",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-07-22T00:00:00.000Z",
-      "discoveredAt": "2026-07-22T05:53:13.153Z",
-      "summary": "OpenRouter 推出 POST /api/v1/audio/transcriptions 端点，用户可使用同一 API key 将 base64 编码音频发送至该端点，返回 JSON 格式文本与用量对象。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrvo24p604bvbihbk4aexnv6"
-      }
     }
   ],
-  "cachedAt": "2026-07-28T23:16:16Z"
+  "cachedAt": "2026-07-29T00:10:19Z"
 }
