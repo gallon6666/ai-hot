@@ -1,5 +1,5 @@
 {
-  "count": 92,
+  "count": 93,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -163,6 +163,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq"
+      }
+    },
+    {
+      "id": "cms6p8lnz09o6rohzegz5w5xp",
+      "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
+      "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "permalink": "https://aihot.virxact.com/items/cms6p8lnz09o6rohzegz5w5xp",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-07-29T15:00:00.000Z",
+      "discoveredAt": "2026-07-29T23:11:42.938Z",
+      "summary": "OpenAI 通过启用两项 API 设置，使 GPT-5.6 在 ARC-AGI-3 基准测试上的得分提升至原来的三倍。这两项设置分别是保留推理过程（retaining reasoning）和启用压缩（compaction），在提升得分的同时也提高了效率。该发现基于 OpenAI 官方对 GPT-5.6 模型 API 参数的测试结果。",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6p8lnz09o6rohzegz5w5xp"
       }
     },
     {
@@ -1660,5 +1678,5 @@
       }
     }
   ],
-  "cachedAt": "2026-07-29T22:11:15Z"
+  "cachedAt": "2026-07-29T23:12:36Z"
 }
