@@ -1,8 +1,116 @@
 {
-  "count": 91,
+  "count": 93,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms6cw5ha02sgrotzfmlr8p11",
+      "title": "OpenAI 为学术研究者免费提供前沿模型",
+      "title_en": "ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
+      "url": "https://x.com/sherwinwu/status/2082517015944741342",
+      "permalink": "https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11",
+      "source": "X：Sherwin Wu（@sherwinwu）",
+      "publishedAt": "2026-07-29T17:22:02.000Z",
+      "discoveredAt": "2026-07-29T17:26:06.363Z",
+      "summary": "ChatGPT for Academic Researchers - 免费（！！）使用我们的前沿模型，包括 GPT-5.6-Sol Pro，面向数学家、科学家、研究人员和学者。\n\n让未解难题倒下！",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6cw5ha02sgrotzfmlr8p11"
+      }
+    },
+    {
+      "id": "cms6czboh031krotzmczxbw2v",
+      "title": "Perplexity 开源智能体检测层 Numbat",
+      "title_en": "Today we're open-sourcing Numbat， an agent-detection and response layer that is designed to work acr…",
+      "url": "https://x.com/perplexity_ai/status/2082511900580196596",
+      "permalink": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v",
+      "source": "X：Perplexity (@perplexity_ai)",
+      "publishedAt": "2026-07-29T17:01:42.000Z",
+      "discoveredAt": "2026-07-29T17:28:34.743Z",
+      "summary": "今天我们开源了 Numbat，这是一个智能体检测与响应层，旨在跨多种智能体框架工作。\n\nNumbat 为安全团队提供对智能体活动的可见性，并可在执行前阻止选定操作。\n\n了解更多：https://research.perplexity.ai/articles/securing-agents-across-perplexity%E2%80%99s-client-endpoints-with-numbat",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v"
+      }
+    },
+    {
+      "id": "cms6bt07d01ujrotzuly90fr7",
+      "title": "Replit 用环境智能重塑 AI 设计体验",
+      "title_en": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+      "url": "https://x.com/Replit/status/2082504096095903811",
+      "permalink": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-07-29T16:30:42.000Z",
+      "discoveredAt": "2026-07-29T16:55:39.297Z",
+      "summary": "Replit Design 通过环境智能重新构想 AI 设计的用户体验。\n\n你无需输入提示词，也无需设计语言。\n\n每一步，智能体都会建议下一步最佳操作，一键即可执行，助你快速从创意生成惊艳成果。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6bt07d01ujrotzuly90fr7"
+      }
+    },
+    {
+      "id": "cms6arrc700rbrotzo1wseql3",
+      "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
+      "title_en": "Show HN： 可在任何 M 系列 Mac 上，利用 2 GB 内存运行搭载 Gemma 4 26B 的开源引擎",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "permalink": "https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-29T16:09:22.496Z",
+      "discoveredAt": "2026-07-29T16:26:41.196Z",
+      "summary": "一个开源引擎让 Gemma 4 26B 模型能在任何 M 系列 Mac 上运行，仅需 2 GB 内存。该项目已发布在 GitHub 上，大幅降低了本地运行大语言模型的硬件门槛。",
+      "category": "ai-products",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3"
+      }
+    },
+    {
+      "id": "cms69p7bn1ec3robkm6xscwbf",
+      "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
+      "title_en": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
+      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
+      "permalink": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-07-29T15:35:09.000Z",
+      "discoveredAt": "2026-07-29T15:56:41.175Z",
+      "summary": "Hint 今日上线，利用 AI 技术帮助房主管理维护计划、能耗、土壤与空气质量、保险理赔等事务，并支持存储和查询房屋相关合同与文件。该应用基于公开数据为每栋房屋建立档案，通过 AI 聊天机器人回答个性化问题，并提供主动维护提醒与\"房屋评分\"。Hint 目前免费提供 iOS 版，无订阅或广告，未来计划推出付费高级功能。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf"
+      }
+    },
+    {
+      "id": "cms69xwp11ej8robk4upl33jq",
+      "title": "算力价格未来可能上涨 10 倍以上",
+      "title_en": "Why compute might get 10x+ more expensive in coming years",
+      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
+      "permalink": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-07-29T15:01:35.000Z",
+      "discoveredAt": "2026-07-29T16:03:19.873Z",
+      "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq"
+      }
+    },
     {
       "id": "cms639jt416x6robksy69dzel",
       "title": "腾讯混元开源 AngelSpec 投机解码框架",
@@ -1568,79 +1676,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9"
       }
-    },
-    {
-      "id": "cmrwdro6w00ttroj0me2uszkk",
-      "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
-      "title_en": "http://x.com/i/article/2079981292108582912",
-      "url": "https://x.com/omarsar0/status/2079982491578827214",
-      "permalink": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "publishedAt": "2026-07-22T17:30:44.000Z",
-      "discoveredAt": "2026-07-22T17:52:55.690Z",
-      "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk"
-      }
-    },
-    {
-      "id": "cms3dpvqp0aorro3fx8vn2b5w",
-      "title": "FLUX 3 - Real World Models： Towards Multimodal Flow Models as the Backbone of Visual Intelligence. FLUX 3， our new multimodal frontier model， jointly learns from images， video， and audio to build one representation of the world. Now available in Early Access. July 23， 2026 Read more",
-      "title_en": null,
-      "url": "https://bfl.ai/blog/flux-3",
-      "permalink": "https://aihot.virxact.com/items/cms3dpvqp0aorro3fx8vn2b5w",
-      "source": "Black Forest Labs：Blog（网页）",
-      "publishedAt": "2026-07-22T16:00:00.000Z",
-      "discoveredAt": "2026-07-22T16:00:00.000Z",
-      "summary": null,
-      "category": "ai-models",
-      "score": 59,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3dpvqp0aorro3fx8vn2b5w"
-      }
-    },
-    {
-      "id": "cmrxxl53u03q5roxp15huqnni",
-      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-      "title_en": "Think through hard problems in voice mode",
-      "url": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-      "permalink": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-22T16:00:00.000Z",
-      "discoveredAt": "2026-07-23T19:55:29.530Z",
-      "summary": "即日起，Claude 语音模式在 Opus、Sonnet 和 Haiku 上运行，并支持连接 Gmail、Slack 等工具及更多语言。用户可在对话中切换模型，语音模式默认沿用上次文本聊天使用的模型。该功能面向所有用户开放 beta 测试，免费版可使用 Haiku 及一个连接工具，付费版可访问更多模型和全部连接工具。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni"
-      }
-    },
-    {
-      "id": "cmry2wovs00hrroqal2ohpj92",
-      "title": "HuggingFace 遭 AI 智能体入侵，GLM-5.2 协助分析",
-      "title_en": "I don't believe reality is a simulation， but you genuinely couldn't script this timeline： • Two wee…",
-      "url": "https://x.com/Thom_Wolf/status/2079954096950264238",
-      "permalink": "https://aihot.virxact.com/items/cmry2wovs00hrroqal2ohpj92",
-      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
-      "publishedAt": "2026-07-22T15:37:55.000Z",
-      "discoveredAt": "2026-07-22T15:37:55.000Z",
-      "summary": "HuggingFace 联合创始人 Thomas Wolf 透露，HuggingFace 上周遭复杂入侵，攻击痕迹显示有严重 AI 参与，但未知具体模型。闭源模型因安全护栏失效无法协助分析，团队转而使用 Zhipu AI 的 GLM-5.2 开源模型。OpenAI 后续主动联系并合作调查，确认入侵者为一个由未发布前沿模型驱动的全自主 AI 智能体，试图访问 HuggingFace 部分基础设施。",
-      "category": "industry",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmry2wovs00hrroqal2ohpj92"
-      }
     }
   ],
-  "cachedAt": "2026-07-29T15:17:59Z"
+  "cachedAt": "2026-07-29T17:36:25Z"
 }
