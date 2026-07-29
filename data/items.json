@@ -1,5 +1,5 @@
 {
-  "count": 95,
+  "count": 94,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -37,6 +37,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9"
+      }
+    },
+    {
+      "id": "cms5k3il000narobkhjrg843v",
+      "title": "我的Claude账号被封了",
+      "title_en": "今天，我的Claude也被封号了。",
+      "url": "https://mp.weixin.qq.com/s/Sb4YYeEYsBAAczDo8n41UA",
+      "permalink": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-07-29T00:06:00.000Z",
+      "discoveredAt": "2026-07-29T04:00:00.720Z",
+      "summary": "Anthropic因支付系统SEPA验证漏洞引发\"零元购\"事件，随后大规模回收漏洞账号并封禁关联账户，作者自用半年多的账号于7月29日被封。作者认为当前已非Claude一家独大，推荐编程用户使用Kimi K3和GPT-5.6 Sol，办公用户选择WorkBuddy+Kimi K3，并指出国产模型已凭二十分之一算力摸到第一梯队。",
+      "category": "tip",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v"
       }
     },
     {
@@ -199,24 +217,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7"
-      }
-    },
-    {
-      "id": "cms51p9ca00d8rorrkaqqfvr9",
-      "title": "Anthropic 的 Claude Mythos Preview 模型发现 AES 和 HAWK 加密算法漏洞",
-      "title_en": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
-      "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet",
-      "permalink": "https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-28T19:12:27.000Z",
-      "discoveredAt": "2026-07-28T19:25:02.281Z",
-      "summary": "Anthropic 的 Claude Mythos Preview 模型在自主多智能体系统中，发现了后量子签名方案 HAWK 的改进攻击，以及简化版 AES-128（7 轮）的新攻击方法。",
-      "category": "paper",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms51p9ca00d8rorrkaqqfvr9"
       }
     },
     {
@@ -1694,25 +1694,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrvx8ycy0240bipz0pkrvryq"
       }
-    },
-    {
-      "id": "cmrvl3qgw03hubihbavi1fla0",
-      "title": "腾讯设计Agent平台Miora全面开放",
-      "title_en": "腾讯悄悄上线了他们第一个设计Agent - Miora。",
-      "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-      "permalink": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-22T04:21:03.000Z",
-      "discoveredAt": "2026-07-22T04:30:29.802Z",
-      "summary": "腾讯设计Agent平台Miora今日全面开放，无需邀请码即可使用。该平台由WorkBuddy团队打造，提供品牌设计、影视创意等五大场景模式，支持自定义多模态模型和Agent推理深度，并内置Skill市场与记忆系统。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrvl3qgw03hubihbavi1fla0"
-      }
     }
   ],
-  "cachedAt": "2026-07-29T03:35:57Z"
+  "cachedAt": "2026-07-29T06:43:11Z"
 }
