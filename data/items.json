@@ -1,8 +1,62 @@
 {
-  "count": 91,
+  "count": 95,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms5htk9l004nros5wi94l4eh",
+      "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+      "title_en": "在 M1 Max 上运行 Kimi K3",
+      "url": "https://github.com/gavamedia/deltafin",
+      "permalink": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-29T02:49:20.833Z",
+      "discoveredAt": "2026-07-29T02:56:17.464Z",
+      "summary": "Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。",
+      "category": "ai-products",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh"
+      }
+    },
+    {
+      "id": "cms5dugag02amro7cjrfedsz9",
+      "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
+      "title_en": "上千名员工呼吁美国政府控制 AI 发展，OpenAI CEO 奥尔特曼表态",
+      "url": "https://www.ithome.com/0/982/816.htm",
+      "permalink": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-29T00:20:32.000Z",
+      "discoveredAt": "2026-07-29T01:05:00.346Z",
+      "summary": "OpenAI、Anthropic、谷歌和Meta等公司的1100多名AI员工签署公开信，呼吁美国政府支持国际合作，以\"有意识地把控自动化AI开发的前沿进程\"。该倡议名为\"把控前沿\"，重点关注AI未来可能自行开发和改进AI系统的\"递归式自我改进\"能力。OpenAI CEO萨姆·奥尔特曼在播客采访中表示，可能需要\"把控\"AI发展速度，让社会有时间建立防护机制。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9"
+      }
+    },
+    {
+      "id": "cms5dje230234ro7czv3o3wap",
+      "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
+      "title_en": "Using OpenRouter With LangChain： ChatOpenRouter Setup Guide",
+      "url": "https://openrouter.ai/blog/tutorials/langchain-chatopenrouter-setup",
+      "permalink": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-07-29T00:00:00.000Z",
+      "discoveredAt": "2026-07-29T00:56:24.557Z",
+      "summary": "OpenRouter 发布了 langchain-openrouter（Python）和 @langchain/openrouter（TypeScript）专用包，让 LangChain 应用无需改造即可调用 400+ 模型和 70+ 提供商。ChatOpenRouter 自动处理负载均衡与故障切换，切换模型只需修改 `provider/model` 格式的字符串。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap"
+      }
+    },
     {
       "id": "cms5a9tpy00utro7c9bw0s295",
       "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
@@ -541,6 +595,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms2p7s7h03dlro3fzjovkpwc"
+      }
+    },
+    {
+      "id": "cms5hnvv70015ros543ypf7it",
+      "title": "InMind 基准揭示智能体记忆系统的隐式关联盲点",
+      "title_en": "Keep It InMind： Benchmarking the Implicit-Association Blind Spot in Agent Memory",
+      "url": "https://arxiv.org/abs/2607.24368",
+      "permalink": "https://aihot.virxact.com/items/cms5hnvv70015ros543ypf7it",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-27T00:00:00.000Z",
+      "discoveredAt": "2026-07-27T00:00:00.000Z",
+      "summary": "研究团队发布 InMind 基准，包含 125 个专家验证任务，测试智能体记忆系统处理隐式关联的能力。当关键记忆直接放入上下文时，骨干模型能回答 84.0% 的间接查询；但通过六种记忆系统检索时，命中率最高仅 14.4%，尽管这些系统直接召回准确率可达 100%。失败根源在于查询驱动的检索接口本身，将\"路由--决定哪些事实必须保持可见\"确立为核心开放问题。",
+      "category": "paper",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms5hnvv70015ros543ypf7it"
       }
     },
     {
@@ -1642,5 +1714,5 @@
       }
     }
   ],
-  "cachedAt": "2026-07-29T00:10:19Z"
+  "cachedAt": "2026-07-29T03:35:57Z"
 }
