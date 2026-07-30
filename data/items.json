@@ -1,8 +1,62 @@
 {
-  "count": 84,
+  "count": 85,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms7teqy003lfropbgykvnbjy",
+      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+      "title_en": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+      "url": "https://x.com/OpenRouter/status/2082882158574911564",
+      "permalink": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-07-30T17:32:59.000Z",
+      "discoveredAt": "2026-07-30T17:56:13.228Z",
+      "summary": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。\n\nOpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。\n\n使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy"
+      }
+    },
+    {
+      "id": "cms7t8vfu0365ropbxnkcx89n",
+      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+      "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "permalink": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-07-30T17:30:24.000Z",
+      "discoveredAt": "2026-07-30T17:51:40.088Z",
+      "summary": "GitHub Copilot 应用推出堆叠会话功能，允许用户在同一个仓库中创建一系列相互承接的任务，每个会话可基于前一个会话的成果继续工作。作者通过一个十余年历史的个人项目演示了该功能：先使用 Plan 模式制定前端现代化计划，再通过堆叠会话将 React-Bootstrap 替换工作拆分为独立会话，并自动为每个会话创建对应的拉取请求，避免范围蔓延。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n"
+      }
+    },
+    {
+      "id": "cms7sw59802yyropbrio5ml9u",
+      "title": "Perplexity Computer 推出 Projects 功能",
+      "title_en": "Introducing Projects on Perplexity Computer. With the launch of Projects， we're turning Computer int…",
+      "url": "https://x.com/AravSrinivas/status/2082872551538380939",
+      "permalink": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "publishedAt": "2026-07-30T16:54:48.000Z",
+      "discoveredAt": "2026-07-30T17:41:45.972Z",
+      "summary": "在 Perplexity Computer 上推出 Projects。\n随着 Projects 的发布，我们正将 Computer 转变为一个多智能体协作操作系统，用于工作，具备持久化内存、文件以及跨中心和用户的会话范围。\n现已向所有用户开放！",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u"
+      }
+    },
     {
       "id": "cms7oxay30o4nro2e4t3r6ud2",
       "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
@@ -73,6 +127,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms7ioy5f0hfaro2ehgiti5h1"
+      }
+    },
+    {
+      "id": "cms7sdkx702mjropbnq4l267q",
+      "title": "GPT-5.6 如何推进性价比前沿",
+      "title_en": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "permalink": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-07-30T10:00:00.000Z",
+      "discoveredAt": "2026-07-30T17:27:19.970Z",
+      "summary": "OpenAI 为 GPT-5.6 的 Luna 和 Terra 版本推出更低定价，以更高效的模型帮助企业大规模部署 AI 工作流。",
+      "category": "ai-models",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q"
       }
     },
     {
@@ -181,24 +253,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms6g4nn502errohzoxo9al2o"
-      }
-    },
-    {
-      "id": "cms6drkj8001crohzuxf7kfy7",
-      "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-      "title_en": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-      "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-      "permalink": "https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-07-29T17:50:30.529Z",
-      "discoveredAt": "2026-07-29T17:50:30.529Z",
-      "summary": "Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。",
-      "category": "paper",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7"
       }
     },
     {
@@ -667,6 +721,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms4xie76037xroa13kv3uglm"
+      }
+    },
+    {
+      "id": "cms6drkj8001crohzuxf7kfy7",
+      "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
+      "title_en": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
+      "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
+      "permalink": "https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-07-28T16:00:00.000Z",
+      "discoveredAt": "2026-07-29T17:50:30.529Z",
+      "summary": "Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。",
+      "category": "paper",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7"
       }
     },
     {
@@ -1460,61 +1532,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy"
       }
-    },
-    {
-      "id": "cmrxvduwi02z1roxph1bvkmmu",
-      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-      "title_en": "TheNumbers.com 发生了什么",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "permalink": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-23T18:35:29.016Z",
-      "discoveredAt": "2026-07-23T18:53:50.410Z",
-      "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu"
-      }
-    },
-    {
-      "id": "cmrxubdvx02mjroxp2kzix1mf",
-      "title": "ChatGPT 向美国用户推出健康功能",
-      "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-      "url": "https://x.com/gdb/status/2080351159638704615",
-      "permalink": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-07-23T17:55:42.000Z",
-      "discoveredAt": "2026-07-23T18:23:54.981Z",
-      "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf"
-      }
-    },
-    {
-      "id": "cmrxs4yyw01xkroxpom7zfjvc",
-      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-      "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-      "permalink": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-23T17:01:30.000Z",
-      "discoveredAt": "2026-07-23T17:22:55.957Z",
-      "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc"
-      }
     }
   ],
-  "cachedAt": "2026-07-30T16:47:04Z"
+  "cachedAt": "2026-07-30T18:43:36Z"
 }
