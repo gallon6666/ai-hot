@@ -1,8 +1,26 @@
 {
-  "count": 93,
+  "count": 89,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms6r5fog0btjrohz9heu2c6f",
+      "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+      "title_en": "揭秘 AI 入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
+      "url": "https://www.ithome.com/0/983/374.htm",
+      "permalink": "https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-29T23:29:34.000Z",
+      "discoveredAt": "2026-07-30T00:05:13.724Z",
+      "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f"
+      }
+    },
     {
       "id": "cms6kdopf05tbrohzoim2kpeg",
       "title": "Replit Design 发布：AI 赋能设计愿景",
@@ -1586,97 +1604,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7"
       }
-    },
-    {
-      "id": "cms3p3ut600qwro82jnjupeep",
-      "title": "OpenRouter 上的\"AI 超市\"效应：GPT-OSS 120b 流量达 Opus 4.8 的 36%，模型市场加速分层",
-      "title_en": "Yeltsin in the AI Aisle",
-      "url": "https://www.tomtunguz.com/yeltsin-in-the-ai-aisle",
-      "permalink": "https://aihot.virxact.com/items/cms3p3ut600qwro82jnjupeep",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "discoveredAt": "2026-07-23T00:00:00.000Z",
-      "summary": "OpenRouter 上的 AI 模型市场正像超市货架一样分层：OpenAI 去年 8 月发布的开源模型 GPT-OSS 120b 仍占据 Anthropic 最新旗舰 Opus 4.8 流量的 36%。",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3p3ut600qwro82jnjupeep"
-      }
-    },
-    {
-      "id": "cms2r21jz03qgro3fp5yo5b3v",
-      "title": "Agentic Context Management：将智能体记忆与成本问题重构为生命周期与架构挑战",
-      "title_en": "Agentic Context Management： Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
-      "url": "https://arxiv.org/abs/2607.21503",
-      "permalink": "https://aihot.virxact.com/items/cms2r21jz03qgro3fp5yo5b3v",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "discoveredAt": "2026-07-23T00:00:00.000Z",
-      "summary": "论文提出 Agentic Context Management（ACM）框架，将智能体上下文管理从存储问题重新定义为包含架构、摄取、范围界定、预判、压缩与整合五个原语的生命周期管理。",
-      "category": "paper",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms2r21jz03qgro3fp5yo5b3v"
-      }
-    },
-    {
-      "id": "cmryvpwy905kerolgy47s0xdn",
-      "title": "SANA-Video 2.0：混合线性注意力与注意力残差实现高效视频生成",
-      "title_en": "SANA-Video 2.0： Hybrid Linear Attention with Attention Residuals for Efficient Video Generation",
-      "url": "https://arxiv.org/abs/2607.21553",
-      "permalink": "https://aihot.virxact.com/items/cmryvpwy905kerolgy47s0xdn",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "discoveredAt": "2026-07-24T11:50:59.115Z",
-      "summary": "SANA-Video 2.0 是一个混合视频扩散 Transformer，提供 5B 和 14B 两种规模，可在单 GPU 上生成最高 720p 视频。其 Hybrid Linear-Softmax Attention 以 3：1 比例混合线性与 softmax 注意力，配合 Block Attention Residuals 将深层有效秩提升约 12%。",
-      "category": "ai-models",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryvpwy905kerolgy47s0xdn"
-      }
-    },
-    {
-      "id": "cmryek7m200akrolgoaqospqi",
-      "title": "AREX：面向深度研究的递归自改进智能体",
-      "title_en": "AREX： Towards a Recursively Self-Improving Agent for Deep Research",
-      "url": "https://arxiv.org/abs/2607.21461",
-      "permalink": "https://aihot.virxact.com/items/cmryek7m200akrolgoaqospqi",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "discoveredAt": "2026-07-24T03:50:39.495Z",
-      "summary": "AREX 是一系列递归自改进（RSI）深度研究智能体，通过内层研究循环收集证据、外层自改进循环逐约束审计答案并启动针对性研究。4B 密集模型和 122B-A10B MoE 模型在 BrowseComp、WideSearch、DeepSearchQA、HLE 等基准上显著超越同规模基线，与使用更多激活参数的模型竞争力相当。",
-      "category": "paper",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryek7m200akrolgoaqospqi"
-      }
-    },
-    {
-      "id": "cmrycf0kz000broxsd74zlwqf",
-      "title": "腾讯发布 WorkBuddy Bench：多领域编码智能体评测套件",
-      "title_en": "Tencent WorkBuddy Bench： A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
-      "url": "https://arxiv.org/abs/2607.20911",
-      "permalink": "https://aihot.virxact.com/items/cmrycf0kz000broxsd74zlwqf",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-23T00:00:00.000Z",
-      "discoveredAt": "2026-07-24T02:50:37.927Z",
-      "summary": "腾讯推出 WorkBuddy Bench，一个覆盖 Code、Web、Office、Security 四个工作领域的编码智能体评测套件。每个任务均从真实 commit、PR 或业务场景逆向工程而来，改写为口语化角色扮演请求，从构造上抵抗数据污染。该基准在 CodeBuddy Code 和 Claude Code 上运行，所有任务目录、环境镜像、评分工具和参考方案均开源发布。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrycf0kz000broxsd74zlwqf"
-      }
     }
   ],
-  "cachedAt": "2026-07-29T23:12:36Z"
+  "cachedAt": "2026-07-30T00:09:32Z"
 }
