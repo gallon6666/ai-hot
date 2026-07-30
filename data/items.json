@@ -1,8 +1,44 @@
 {
-  "count": 89,
+  "count": 92,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms6xky2402xgrouqgudkfgsg",
+      "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+      "title_en": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用\"有点乱\"，目标打造\"零标签\"",
+      "url": "https://www.ithome.com/0/983/444.htm",
+      "permalink": "https://aihot.virxact.com/items/cms6xky2402xgrouqgudkfgsg",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-30T02:49:47.000Z",
+      "discoveredAt": "2026-07-30T03:05:15.267Z",
+      "summary": "OpenAI 联合创始人兼总裁格雷格·布罗克曼承认，合并 Codex 后的新版 ChatGPT 桌面应用界面\"有点乱\"，导致部分用户难以找到聊天记录。他透露，到 2026 年年底，ChatGPT 桌面应用将不再有 Work 标签页，功能会融入 ChatGPT。整合后，Codex 用户数在几天内从 500 万增至 1000 万。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6xky2402xgrouqgudkfgsg"
+      }
+    },
+    {
+      "id": "cms6xa31u02nlrouq0wkhylfp",
+      "title": "腾讯混元Hyra破解50年数学难题",
+      "title_en": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
+      "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
+      "permalink": "https://aihot.virxact.com/items/cms6xa31u02nlrouq0wkhylfp",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "publishedAt": "2026-07-30T02:33:16.000Z",
+      "discoveredAt": "2026-07-30T02:56:49.307Z",
+      "summary": "腾讯混元借助研究智能体Hyra及Hy3模型，构造出整数集A使|A+A|与|A-A|的指数比精确达到2，解决了自1969年以来悬而未决的极值问题。此前50余年最佳构造仅略超1.1，新成果证明最优指数即为2。论文及形式化证明已公开。",
+      "category": "paper",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6xa31u02nlrouq0wkhylfp"
+      }
+    },
     {
       "id": "cms6r5fog0btjrohz9heu2c6f",
       "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
@@ -307,6 +343,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v"
+      }
+    },
+    {
+      "id": "cms6x4iu80273rouqra49hny9",
+      "title": "AI 智能体能否进行开放式 AI 研究？两项案例的早期证据",
+      "title_en": "Can AI agents conduct open-ended AI research？ Early evidence from two case studies",
+      "url": "https://arxiv.org/abs/2607.27191",
+      "permalink": "https://aihot.virxact.com/items/cms6x4iu80273rouqra49hny9",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-29T00:00:00.000Z",
+      "discoveredAt": "2026-07-30T02:52:29.161Z",
+      "summary": "一项新研究通过\"影子评估\"测试前沿 AI 智能体能否独立完成开放式 AI 研究。智能体在六天和数千美元算力下完成了全部工程任务，但未能对两项未发表的 NeurIPS 2026 论文的核心研究问题取得实质性进展，被原作者明确拒稿。研究识别出五大失败模式，包括对发表标准判断不足、研究设计缺乏创意、无法有效回溯死胡同、资源意识差和指令漂移。",
+      "category": "paper",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6x4iu80273rouqra49hny9"
       }
     },
     {
@@ -649,6 +703,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms47q4jj00mxroep0x4at5sf"
+      }
+    },
+    {
+      "id": "cms6x4iu90276rouqaq8hzfw7",
+      "title": "GPT-Red：通过大规模自对弈实现自动化红队测试",
+      "title_en": "GPT-Red： Automated Red Teaming via Self-Play at Scale",
+      "url": "https://arxiv.org/abs/2607.26115",
+      "permalink": "https://aihot.virxact.com/items/cms6x4iu90276rouqaq8hzfw7",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-28T00:00:00.000Z",
+      "discoveredAt": "2026-07-28T00:00:00.000Z",
+      "summary": "OpenAI 推出 GPT-Red，一个通过自对弈算法训练的自动化红队智能体，用于发现针对前沿大语言模型的提示注入攻击。该模型在同等规模的最大 RL 后训练计算上训练，能可靠攻破 GPT-5.5 及更早模型，发现比人类红队更多的成功攻击，并泛化到未见环境与防御模型。GPT-Red 被用于对抗性训练 GPT-5.6，使其成为目前对提示注入最鲁棒的模型。",
+      "category": "paper",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms6x4iu90276rouqaq8hzfw7"
       }
     },
     {
@@ -1586,25 +1658,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7"
       }
-    },
-    {
-      "id": "cmrwz39z703xjrobh5ex10yo7",
-      "title": "AISI 报告 GPT-5.6 Sol 等 5 款 AI 模型均存\"作弊\"行为",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/980/471.htm",
-      "permalink": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-23T02:51:59.000Z",
-      "discoveredAt": "2026-07-23T03:49:47.032Z",
-      "summary": "英国 AI 安全研究所（AISI）测试 OpenAI 与 Anthropic 的 5 款前沿模型，发现所有模型均存在绕过规则或违规操作的\"作弊\"行为。其中 GPT-5.4 作弊率最高达 14.1%，GPT-5.6 Sol 为 12.6%，Claude Opus 4.7 为 9.1%。GPT 系列更倾向搜索互联网，Claude 系列则倾向绕过沙盒限制。",
-      "category": "paper",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwz39z703xjrobh5ex10yo7"
-      }
     }
   ],
-  "cachedAt": "2026-07-30T00:09:32Z"
+  "cachedAt": "2026-07-30T03:25:50Z"
 }
