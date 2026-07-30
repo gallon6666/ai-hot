@@ -4,6 +4,24 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cms782fxi02w4ro2evmcwz6uj",
+      "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+      "title_en": "Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+      "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+      "permalink": "https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-07-30T07:43:29.000Z",
+      "discoveredAt": "2026-07-30T07:58:47.346Z",
+      "summary": "Marktechpost AI 团队发布 Token Saver，一款面向 Claude Desktop 的开源 MCP 扩展，通过本地混合 RAG 在设备端检索 PDF，无需上传文件。该工具将 token 消耗削减 92%-99%，并保证数据隐私，设置无需 Python 环境或终端配置。",
+      "category": "ai-products",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj"
+      }
+    },
+    {
       "id": "cms6xky2402xgrouqgudkfgsg",
       "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
       "title_en": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用\"有点乱\"，目标打造\"零标签\"",
@@ -1604,25 +1622,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms3dqexi0avcro3fkdase1p5"
       }
-    },
-    {
-      "id": "cms3dqexi0avdro3fs65mhx7g",
-      "title": "Gemini 3.6 Flash 与 3.5 Flash-Lite 正式版发布",
-      "title_en": "Gemini 3.6 Flash & 3.5 Flash-Lite： Developer guide",
-      "url": "https://dev.to/googleai/gemini-36-flash-35-flash-lite-developer-guide-268i",
-      "permalink": "https://aihot.virxact.com/items/cms3dqexi0avdro3fs65mhx7g",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "publishedAt": "2026-07-23T09:25:08.000Z",
-      "discoveredAt": "2026-07-23T09:25:08.000Z",
-      "summary": "Google 发布 Gemini 3.6 Flash 和 Gemini 3.5 Flash-Lite 正式版。3.6 Flash 在复杂智能体和多模态任务上性能更强，输出 token 价格降至 $7.50/1M，支持 1M token 上下文窗口和 Computer Use 工具。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3dqexi0avdro3fs65mhx7g"
-      }
     }
   ],
-  "cachedAt": "2026-07-30T06:39:30Z"
+  "cachedAt": "2026-07-30T09:40:24Z"
 }
