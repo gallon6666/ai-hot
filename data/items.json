@@ -1,5 +1,5 @@
 {
-  "count": 92,
+  "count": 90,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -346,6 +346,24 @@
       }
     },
     {
+      "id": "cms73a7ha0012ro8wknjunnhb",
+      "title": "微软转售前沿：Azure 年营收破千亿但增速被 Google Cloud 反超",
+      "title_en": "Microsoft Resells the Frontier",
+      "url": "https://www.tomtunguz.com/microsoft-resells-the-frontier",
+      "permalink": "https://aihot.virxact.com/items/cms73a7ha0012ro8wknjunnhb",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-07-29T00:00:00.000Z",
+      "discoveredAt": "2026-07-30T05:44:51.943Z",
+      "summary": "Azure 上财年营收首破 1000 亿美元，同比增长 43%，但 Google Cloud 增速达 82%，几乎是 Azure 的两倍。Google 拥有自研模型与芯片，云运营利润率从 20.7% 扩至 35.6%；微软则主要依赖英伟达商用芯片，且 6780 亿美元合同 backlog 中近半数来自 OpenAI 单一客户。",
+      "category": "tip",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms73a7ha0012ro8wknjunnhb"
+      }
+    },
+    {
       "id": "cms6x4iu80273rouqra49hny9",
       "title": "AI 智能体能否进行开放式 AI 研究？两项案例的早期证据",
       "title_en": "Can AI agents conduct open-ended AI research？ Early evidence from two case studies",
@@ -365,7 +383,7 @@
     },
     {
       "id": "cms6i9q2n044erohzw2w8750m",
-      "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna",
+      "title": "GPT-5.6 如何融合前沿智能与效率",
       "title_en": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
       "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
       "permalink": "https://aihot.virxact.com/items/cms6i9q2n044erohzw2w8750m",
@@ -1604,61 +1622,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms3dqexi0avdro3fs65mhx7g"
       }
-    },
-    {
-      "id": "cmrx3iki50075ro694xrjogs3",
-      "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
-      "title_en": "Show HN： 《仙人掌杂交种》：我们教4岁的杰玛如何分辨对错",
-      "url": "https://github.com/cactus-compute/cactus-hybrid",
-      "permalink": "https://aihot.virxact.com/items/cmrx3iki50075ro694xrjogs3",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-23T05:47:29.042Z",
-      "discoveredAt": "2026-07-23T05:53:37.947Z",
-      "summary": "Cactus 推出基于 Gemma 4 的混合模型\"Cactus Hybrid\"，在模型检查点内嵌入置信度探针，为每个生成答案输出 0-1 之间的结构化置信度分数。高置信度时在设备端直接回答，低分时可自动路由至更大模型。该探针在零音频训练数据下，于四个音频基准上达到 0.79-0.88 AUROC，远超 token 熵基线（均值 0.549），且 MIT 协议开源。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrx3iki50075ro694xrjogs3"
-      }
-    },
-    {
-      "id": "cmrx2cdq000nzroqpc57eaxa3",
-      "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-      "title_en": "一文带你看懂刚刚发布的\"北京智能体新政\"，这是跟每个人都有关的10条。",
-      "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-      "permalink": "https://aihot.virxact.com/items/cmrx2cdq000nzroqpc57eaxa3",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-23T05:13:37.000Z",
-      "discoveredAt": "2026-07-23T05:20:50.852Z",
-      "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrx2cdq000nzroqpc57eaxa3"
-      }
-    },
-    {
-      "id": "cmrwztuqg0000roqpmbblplr7",
-      "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-      "title_en": "小红书引擎架构团队OSDI 2026新成果：HELMSMAN重塑大规模向量检索基础设施",
-      "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-      "permalink": "https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7",
-      "source": "公众号：小红书技术（dots.llm）",
-      "publishedAt": "2026-07-23T04:00:00.000Z",
-      "discoveredAt": "2026-07-23T04:10:29.181Z",
-      "summary": "小红书引擎架构团队在OSDI 2026提出HELMSMAN，一个面向全闪存服务器的高性能向量近似最近邻搜索系统。该系统通过聚类式索引、定制化存储栈和分层学习式搜索剪枝，用约40台全闪存服务器承载了过去约35，000 CPU Core和约350 TB DRAM的负载，硬件成本节省超过90%。",
-      "category": "paper",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrwztuqg0000roqpmbblplr7"
-      }
     }
   ],
-  "cachedAt": "2026-07-30T03:25:50Z"
+  "cachedAt": "2026-07-30T06:39:30Z"
 }
