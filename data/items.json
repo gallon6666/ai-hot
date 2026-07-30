@@ -1,8 +1,62 @@
 {
-  "count": 86,
+  "count": 84,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms7oxay30o4nro2e4t3r6ud2",
+      "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
+      "title_en": "News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
+      "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
+      "permalink": "https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-07-30T15:50:35.428Z",
+      "discoveredAt": "2026-07-30T15:50:35.428Z",
+      "summary": "RadixArk 与 Google Cloud 合作，将开源推理框架 SGLang 引入 Google TPU，开发者可通过 SGL-JAX 在最新 TPU 上运行 Gemma、Qwen、DeepSeek 等大语言模型及多模态模型。",
+      "category": "industry",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2"
+      }
+    },
+    {
+      "id": "cms7o3b8o0nt9ro2ery7x50bb",
+      "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
+      "title_en": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
+      "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+      "permalink": "https://aihot.virxact.com/items/cms7o3b8o0nt9ro2ery7x50bb",
+      "source": "X：Google DeepMind (@GoogleDeepMind)",
+      "publishedAt": "2026-07-30T15:02:00.000Z",
+      "discoveredAt": "2026-07-30T15:27:21.649Z",
+      "summary": "One brain. For any robot. 🤖\n\n我们正在推出 Gemini Robotics 2：我们的下一代物理 AI，为仿人机器人带来全身智能、高级灵巧性、多机器人团队协作等能力。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms7o3b8o0nt9ro2ery7x50bb"
+      }
+    },
+    {
+      "id": "cms7o2xsk0nraro2epo1gt8ln",
+      "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
+      "title_en": "Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
+      "permalink": "https://aihot.virxact.com/items/cms7o2xsk0nraro2epo1gt8ln",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-07-30T15:00:59.000Z",
+      "discoveredAt": "2026-07-30T15:27:02.897Z",
+      "summary": "Google DeepMind 推出 Gemini Robotics ER 2，一个基于 Gemini 的机器人基础模型。该模型在视频理解、工具编排和多机器人协作方面实现阶跃式提升，使机器人能够推理、协作并解决真实世界任务。",
+      "category": "ai-models",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms7o2xsk0nraro2epo1gt8ln"
+      }
+    },
     {
       "id": "cms7ioy5f0hfaro2ehgiti5h1",
       "title": "FCC 禁止进口中国新型机器人与联网逆变器",
@@ -1460,97 +1514,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc"
       }
-    },
-    {
-      "id": "cmrxr59xb01sbroxpzcqbv1fo",
-      "title": "微软MAI模型：以更低成本实现前沿能力规模化",
-      "title_en": "http://x.com/i/article/2080328073724260352",
-      "url": "https://x.com/satyanadella/status/2080329851127669104",
-      "permalink": "https://aihot.virxact.com/items/cmrxr59xb01sbroxpzcqbv1fo",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "publishedAt": "2026-07-23T16:31:01.000Z",
-      "discoveredAt": "2026-07-23T16:55:10.954Z",
-      "summary": "微软CEO Satya Nadella详解MAI模型家族战略：通过优化成本-效果前沿，MAI模型在GitHub Copilot、Excel等产品中已用更少token超越通用前沿模型。核心是构建独立于模型的评估系统，让模型在产品真实环境中学习并完成用户关心的任务。微软正将这一模板通过Foundry平台开放给企业客户。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrxr59xb01sbroxpzcqbv1fo"
-      }
-    },
-    {
-      "id": "cms3889p308xrro3fqkm5rabd",
-      "title": "蚂蚁百灵发布 Ling-3.0-flash：124B 总参数、5.1B 激活参数，智能密度超越 1T 级旗舰",
-      "title_en": "Ling-3.0-flash：智以密胜",
-      "url": "https://developer.ant-ling.com/zh-CN/blogs/ling-3.0-flash-release",
-      "permalink": "https://aihot.virxact.com/items/cms3889p308xrro3fqkm5rabd",
-      "source": "蚂蚁百灵：Developer Blog（网页）",
-      "publishedAt": "2026-07-23T16:00:00.000Z",
-      "discoveredAt": "2026-07-23T16:00:00.000Z",
-      "summary": "蚂蚁百灵正式发布新一代原生混合推理模型 Ling-3.0-flash，总参数 124B、激活参数仅 5.1B。该模型以极致智能密度对标并超越上一代 1T 级旗舰思考模型 Ring-2.6-1T。",
-      "category": "ai-models",
-      "score": 55,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3889p308xrro3fqkm5rabd"
-      }
-    },
-    {
-      "id": "cmrz7ov4300lfrox82ri8kia1",
-      "title": "Claude 5 代模型上下文工程新规则：Claude Code 系统提示词精简超 80%",
-      "title_en": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "permalink": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-07-23T16:00:00.000Z",
-      "discoveredAt": "2026-07-24T17:25:50.349Z",
-      "summary": "Anthropic 为 Claude Opus 5 和 Claude Fable 5 等新一代模型删除了 Claude Code 超过 80% 的系统提示词，且编码评测无显著损失。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz7ov4300lfrox82ri8kia1"
-      }
-    },
-    {
-      "id": "cmrz7mrck00gprox8j0j9qfst",
-      "title": "Anthropic 发布 Claude Opus 5",
-      "title_en": "Introducing Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "permalink": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-07-23T16:00:00.000Z",
-      "discoveredAt": "2026-07-24T17:24:25.589Z",
-      "summary": "Anthropic 发布 Claude Opus 5，其智能水平接近 Claude Fable 5，但价格减半。该模型在 Frontier-Bench v0.1 上性能超过 Opus 4.8 两倍以上，在 ARC-AGI 3 上得分是次优模型的三倍。Opus 5 即日起成为 Claude Max 的默认模型和 Claude Pro 的最强模型。",
-      "category": "ai-models",
-      "score": 92,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz7mrck00gprox8j0j9qfst"
-      }
-    },
-    {
-      "id": "cmrxnw4rw00qzroxpll5shp7a",
-      "title": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
-      "title_en": "Google closes in on another billion- user product with Gemini",
-      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
-      "permalink": "https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-23T14:52:44.000Z",
-      "discoveredAt": "2026-07-23T15:24:04.707Z",
-      "summary": "Google 在 Q2 2026 财报电话会上宣布，AI 助手 Gemini 月活跃用户已超过 9.5 亿，用户数较去年增长三倍。Gemini 正与月活突破 10 亿的 ChatGPT 展开更直接竞争，其 AI 搜索模式用户也已超过 10 亿。Sensor Tower 报告显示，Gemini 在 AI 助手市场份额升至 27.7%，而 ChatGPT 份额首次跌破 50%。",
-      "category": "industry",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrxnw4rw00qzroxpll5shp7a"
-      }
     }
   ],
-  "cachedAt": "2026-07-30T14:29:21Z"
+  "cachedAt": "2026-07-30T16:47:04Z"
 }
