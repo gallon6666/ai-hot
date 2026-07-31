@@ -1,8 +1,26 @@
 {
-  "count": 95,
+  "count": 93,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms8zb830079vro7v2z6a4btv",
+      "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+      "title_en": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
+      "url": "https://x.com/OpenBMB/status/2083175856563003724",
+      "permalink": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-07-31T13:00:02.000Z",
+      "discoveredAt": "2026-07-31T13:29:13.656Z",
+      "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
+      "category": "paper",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv"
+      }
+    },
     {
       "id": "cms8wbpwc03xero7vq54bpg6n",
       "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
@@ -19,6 +37,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n"
+      }
+    },
+    {
+      "id": "cms91fj0j00qvro9k33a0agga",
+      "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
+      "title_en": "Hands-On Tutorial： Building an Autonomous Financial Audit Agent Team with Antigravity SDK + Google…",
+      "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
+      "permalink": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "publishedAt": "2026-07-31T11:07:35.000Z",
+      "discoveredAt": "2026-07-31T14:28:31.748Z",
+      "summary": "本教程演示如何用 Google Antigravity SDK 与 Google Cloud 构建多智能体财务对账系统，将供应商交易与 PDF 发票核对。系统由审计编排器、数据研究员、发票分析器和对账引擎四个智能体组成，并设有人工合规门控，将超过 $1，000 的差异升级人工审核。",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga"
       }
     },
     {
@@ -55,24 +91,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq"
-      }
-    },
-    {
-      "id": "cms8ld9380i7arot0lyxt8h3t",
-      "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
-      "title_en": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta！ 🔷 We've massively upgraded its Agent…",
-      "url": "https://x.com/deepseek_ai/status/2083084415157022911",
-      "permalink": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t",
-      "source": "X：DeepSeek (@deepseek_ai)",
-      "publishedAt": "2026-07-31T06:56:41.000Z",
-      "discoveredAt": "2026-07-31T06:58:53.583Z",
-      "summary": "🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！\n\n🔷 我们大幅升级了其 Agent 能力--基准测试分数现已远超 V4-Pro-Preview。查看下方巨大的性能飞跃！👇 🔷 官方 V4-Flash 现已原生支持 Responses API 格式，并已完全适配 Codex！\n\n查看我们官方 API 文档中的配置详情：https://api-docs.deepseek.com/quick_start/agent_integrations/codex",
-      "category": "ai-models",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t"
       }
     },
     {
@@ -1658,61 +1676,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrz3eamm01jdroey6e0m62on"
       }
-    },
-    {
-      "id": "cmrz07a8z00ksroey0zfjw3iq",
-      "title": "Runway Agent 推出自然语言工作流功能",
-      "title_en": "Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
-      "url": "https://x.com/runwayml/status/2080649234672439389",
-      "permalink": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-07-24T13:40:08.000Z",
-      "discoveredAt": "2026-07-24T13:56:25.978Z",
-      "summary": "在 Runway Agent 中引入工作流。现在你可以通过自然语言构建、运行或编辑基于节点的工作流。工作流可大规模解锁高质量输出。\n\n立即尝试，点击下方链接调用 / Workflow 技能。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz07a8z00ksroey0zfjw3iq"
-      }
-    },
-    {
-      "id": "cmrz061qu00itroey2lemh731",
-      "title": "微软阐述开源模型助力美国竞争力路径",
-      "title_en": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry…",
-      "url": "https://x.com/satyanadella/status/2080646162483417097",
-      "permalink": "https://aihot.virxact.com/items/cmrz061qu00itroey2lemh731",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "publishedAt": "2026-07-24T13:27:56.000Z",
-      "discoveredAt": "2026-07-24T13:55:29.995Z",
-      "summary": "开放权重模型对健康的 AI 生态系统至关重要。我们与行业同仁一道，正在规划一条路径，让开放权重模型在保护国家安全的同时，增强美国竞争力并扩大经济机会。",
-      "category": "industry",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrz061qu00itroey2lemh731"
-      }
-    },
-    {
-      "id": "cmryx4qpj065vrolgti8j0pm2",
-      "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
-      "title_en": "百度搭子这些隐藏玩法，你还没发现？！",
-      "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug",
-      "permalink": "https://aihot.virxact.com/items/cmryx4qpj065vrolgti8j0pm2",
-      "source": "公众号：百度智能云（文心）",
-      "publishedAt": "2026-07-24T12:28:24.000Z",
-      "discoveredAt": "2026-07-24T12:30:30.319Z",
-      "summary": "百度搭子在近期AI Day上推出多项升级，支持电脑与手机双端互联，同步任务上下文与执行进度，用户可跨设备接力完成复杂工作。桌面端内嵌浏览器正式上线，能自动打开多个网页执行调研、下载等操作，手机端支持云端远程操控。智能路由自动匹配任务模式，平均任务耗时降低20%，Token利用率提升25%；简单任务完成度达100%，复杂任务高交付率94%，积分消耗最高降低75%。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryx4qpj065vrolgti8j0pm2"
-      }
     }
   ],
-  "cachedAt": "2026-07-31T12:14:42Z"
+  "cachedAt": "2026-07-31T14:35:15Z"
 }
