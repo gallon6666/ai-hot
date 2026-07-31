@@ -1,8 +1,26 @@
 {
-  "count": 94,
+  "count": 93,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms8ld9380i7arot0lyxt8h3t",
+      "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
+      "title_en": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta！ 🔷 We've massively upgraded its Agent…",
+      "url": "https://x.com/deepseek_ai/status/2083084415157022911",
+      "permalink": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t",
+      "source": "X：DeepSeek (@deepseek_ai)",
+      "publishedAt": "2026-07-31T06:56:41.000Z",
+      "discoveredAt": "2026-07-31T06:58:53.583Z",
+      "summary": "🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！\n\n🔷 我们大幅升级了其 Agent 能力--基准测试分数现已远超 V4-Pro-Preview。查看下方巨大的性能飞跃！👇 🔷 官方 V4-Flash 现已原生支持 Responses API 格式，并已完全适配 Codex！\n\n查看我们官方 API 文档中的配置详情：https://api-docs.deepseek.com/quick_start/agent_integrations/codex",
+      "category": "ai-models",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t"
+      }
+    },
     {
       "id": "cms8llt7f0iaprot0tz5qnk6i",
       "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
@@ -19,24 +37,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i"
-      }
-    },
-    {
-      "id": "cms8jgm2l0fvcrot02b3gas7v",
-      "title": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/984/116.htm",
-      "permalink": "https://aihot.virxact.com/items/cms8jgm2l0fvcrot02b3gas7v",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-31T06:02:05.000Z",
-      "discoveredAt": "2026-07-31T06:05:29.949Z",
-      "summary": "DeepSeek 今日宣布 DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力大幅增强，Terminal Bench 2.1 得分 82.7，NL2Repo 54.2，Cybergym 76.7，DeepSWE 54.4，Toolathlon verified 70.3，多项基准远超 V4-Pro-Preview。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8jgm2l0fvcrot02b3gas7v"
       }
     },
     {
@@ -217,6 +217,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u"
+      }
+    },
+    {
+      "id": "cms8mb361000prof1z6fg37om",
+      "title": "DeepSeek-V4-Flash 正式版 API 上线公测",
+      "title_en": "DeepSeek-V4-Flash 更新",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-07-31",
+      "permalink": "https://aihot.virxact.com/items/cms8mb361000prof1z6fg37om",
+      "source": "DeepSeek：API 更新日志",
+      "publishedAt": "2026-07-30T16:00:00.000Z",
+      "discoveredAt": "2026-07-30T16:00:00.000Z",
+      "summary": "DeepSeek-V4-Flash 正式版 API 上线公测，模型名设为 deepseek-v4-flash 即可使用，调用方式不变。其 Agent 能力大幅增强，Terminal Bench 2.1 得分 82.7，NL2Repo 54.2，Toolathlon verified 70.3，DSBench-Hard 59.6，多项基准远超 V4-Pro-Preview。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms8mb361000prof1z6fg37om"
       }
     },
     {
@@ -1300,6 +1318,24 @@
       }
     },
     {
+      "id": "cms3dxit00betro3fiwkotg0j",
+      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+      "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+      "permalink": "https://aihot.virxact.com/items/cms3dxit00betro3fiwkotg0j",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "publishedAt": "2026-07-27T15:14:40.000Z",
+      "discoveredAt": "2026-07-27T15:31:51.181Z",
+      "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms3dxit00betro3fiwkotg0j"
+      }
+    },
+    {
       "id": "cms3fbu4z00h2rondcoqgyozg",
       "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
       "title_en": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
@@ -1315,24 +1351,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg"
-      }
-    },
-    {
-      "id": "cms2mylvu02nlro3f73afr69h",
-      "title": "用AI Skill自动生成可协作HTML PPT",
-      "title_en": "基于 bento PPT 改造了一个 Skill。 输入内容或主题，自动生成可编辑修改、在线演示，甚至可以发给别人协作的HTML PPT。 安装指令：npx skills add joeseesu…",
-      "url": "https://x.com/vista8/status/2081568902241513786",
-      "permalink": "https://aihot.virxact.com/items/cms2mylvu02nlro3f73afr69h",
-      "source": "X：Vista (@vista8)",
-      "publishedAt": "2026-07-27T02:34:34.000Z",
-      "discoveredAt": "2026-07-27T02:56:52.589Z",
-      "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms2mylvu02nlro3f73afr69h"
       }
     },
     {
@@ -1658,43 +1676,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls"
       }
-    },
-    {
-      "id": "cmryrih7804c9rolge6wdk3v8",
-      "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-      "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-      "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-      "permalink": "https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-24T09:48:32.000Z",
-      "discoveredAt": "2026-07-24T09:53:12.325Z",
-      "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8"
-      }
-    },
-    {
-      "id": "cmryrjtlb04ehrolgi1zd6eqv",
-      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-      "title_en": "Show HN： Claude-thermos 能为您保持 Claude 会话的热度",
-      "url": "https://github.com/izeigerman/claude-thermos",
-      "permalink": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-24T09:47:29.601Z",
-      "discoveredAt": "2026-07-24T09:54:16.034Z",
-      "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-      "category": "tip",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv"
-      }
     }
   ],
-  "cachedAt": "2026-07-31T07:12:22Z"
+  "cachedAt": "2026-07-31T09:51:20Z"
 }
