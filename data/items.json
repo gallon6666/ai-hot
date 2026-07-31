@@ -1,8 +1,26 @@
 {
-  "count": 92,
+  "count": 96,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms96t19506karo9k3wjqx5vb",
+      "title": "animated-voiceover 开源：一人干翻动画工作室",
+      "title_en": "这个Skill真的让我看到了一个人干翻一个动画工作室的可能性，我用它做了个DeepSeek V4-Flash的视频， 一个人，一条指令，40块钱，2分钟电影感动画科普视频。 不是那种一眼AI的垃圾…",
+      "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
+      "permalink": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-07-31T16:01:51.000Z",
+      "discoveredAt": "2026-07-31T16:59:01.508Z",
+      "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb"
+      }
+    },
     {
       "id": "cms8zb830079vro7v2z6a4btv",
       "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
@@ -91,6 +109,42 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq"
+      }
+    },
+    {
+      "id": "cms8rsusw06h8rogh8d81cpti",
+      "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
+      "title_en": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
+      "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
+      "permalink": "https://aihot.virxact.com/items/cms8rsusw06h8rogh8d81cpti",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-07-31T09:30:43.000Z",
+      "discoveredAt": "2026-07-31T09:58:59.071Z",
+      "summary": "DeepSeek V4 Flash 0731 在 Artificial Analysis 智能指数上得 50 分，较 4 月版提升 10 分，领先 V4 Pro 6 分，并进入智能与成本帕累托前沿。",
+      "category": "ai-models",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms8rsusw06h8rogh8d81cpti"
+      }
+    },
+    {
+      "id": "cms8ld9380i7arot0lyxt8h3t",
+      "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
+      "title_en": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta！ 🔷 We've massively upgraded its Agent…",
+      "url": "https://x.com/deepseek_ai/status/2083084415157022911",
+      "permalink": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t",
+      "source": "X：DeepSeek (@deepseek_ai)",
+      "publishedAt": "2026-07-31T06:56:41.000Z",
+      "discoveredAt": "2026-07-31T06:58:53.583Z",
+      "summary": "🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！\n\n🔷 我们大幅升级了其 Agent 能力--基准测试分数现已远超 V4-Pro-Preview。查看下方巨大的性能飞跃！👇 🔷 官方 V4-Flash 现已原生支持 Responses API 格式，并已完全适配 Codex！\n\n查看我们官方 API 文档中的配置详情：https://api-docs.deepseek.com/quick_start/agent_integrations/codex",
+      "category": "ai-models",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t"
       }
     },
     {
@@ -235,6 +289,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb"
+      }
+    },
+    {
+      "id": "cms7tgf3q03p5ropbe0xhilwo",
+      "title": "Inkling-Small 发布，276B 参数性能持平原版",
+      "title_en": "Today， we are releasing Inkling-Small. Inkling-Small achieves comparable performance to Inkling at …",
+      "url": "https://x.com/thinkymachines/status/2082885869426631032",
+      "permalink": "https://aihot.virxact.com/items/cms7tgf3q03p5ropbe0xhilwo",
+      "source": "X：Thinking Machines (@thinkymachines)",
+      "publishedAt": "2026-07-30T17:47:44.000Z",
+      "discoveredAt": "2026-07-30T17:57:32.378Z",
+      "summary": "今天，我们发布 Inkling-Small。\n\nInkling-Small 在仅为 Inkling 四分之一规模的情况下，实现了与之相当的性能。它拥有 276B 总参数，12B 激活参数。我们将开放完整权重。\n\nhttps://thinkingmachines.ai/news/inkling-small/\n\n现在即可在 Tinker 上对其进行微调，或在 Tinker Playground 中以文本、图像和音频形式与之对话。",
+      "category": "ai-models",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms7tgf3q03p5ropbe0xhilwo"
       }
     },
     {
@@ -1660,5 +1732,5 @@
       }
     }
   ],
-  "cachedAt": "2026-07-31T16:55:30Z"
+  "cachedAt": "2026-07-31T18:43:40Z"
 }
