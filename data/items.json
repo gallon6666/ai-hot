@@ -1,5 +1,5 @@
 {
-  "count": 96,
+  "count": 94,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -127,24 +127,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms8rsusw06h8rogh8d81cpti"
-      }
-    },
-    {
-      "id": "cms8ld9380i7arot0lyxt8h3t",
-      "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
-      "title_en": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta！ 🔷 We've massively upgraded its Agent…",
-      "url": "https://x.com/deepseek_ai/status/2083084415157022911",
-      "permalink": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t",
-      "source": "X：DeepSeek (@deepseek_ai)",
-      "publishedAt": "2026-07-31T06:56:41.000Z",
-      "discoveredAt": "2026-07-31T06:58:53.583Z",
-      "summary": "🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！\n\n🔷 我们大幅升级了其 Agent 能力--基准测试分数现已远超 V4-Pro-Preview。查看下方巨大的性能飞跃！👇 🔷 官方 V4-Flash 现已原生支持 Responses API 格式，并已完全适配 Codex！\n\n查看我们官方 API 文档中的配置详情：https://api-docs.deepseek.com/quick_start/agent_integrations/codex",
-      "category": "ai-models",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t"
       }
     },
     {
@@ -1712,25 +1694,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmrzi9yew001arop9eruk86n7"
       }
-    },
-    {
-      "id": "cmrzbx19q0032roqz8nwff6am",
-      "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-      "title_en": "英伟达、微软和Meta警告称，应避免对开放权重模型进行过度监管",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "permalink": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-24T19:07:52.324Z",
-      "discoveredAt": "2026-07-24T19:24:24.998Z",
-      "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
-      "category": "industry",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am"
-      }
     }
   ],
-  "cachedAt": "2026-07-31T18:43:40Z"
+  "cachedAt": "2026-07-31T20:36:50Z"
 }
