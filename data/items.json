@@ -1,8 +1,62 @@
 {
-  "count": 94,
+  "count": 96,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms9hiyz80fdvro9kepvm1qvk",
+      "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
+      "title_en": "DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
+      "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
+      "permalink": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-07-31T21:38:05.000Z",
+      "discoveredAt": "2026-07-31T21:59:08.343Z",
+      "summary": "DeepSeek 发布开源模型 DeepSeek V4 Flash 0731，在 Artificial Analysis 智能指数上得分 50，位列开源模型前三。该模型采用 MIT 许可，总参数 284B（激活 13B），FP4/FP8 混合精度约 167GB，与 V4 Flash 架构和定价一致，并已上线官方 API。",
+      "category": "ai-models",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk"
+      }
+    },
+    {
+      "id": "cms9has920ey7ro9k5oh4ooow",
+      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
+      "title_en": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals",
+      "permalink": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-07-31T21:15:23.000Z",
+      "discoveredAt": "2026-07-31T21:52:46.540Z",
+      "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow"
+      }
+    },
+    {
+      "id": "cms9fby3v0di0ro9kx53j5ygx",
+      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+      "title_en": "Tailscale 未能阻止 Hugging Face 的入侵",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "permalink": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-31T20:25:20.686Z",
+      "discoveredAt": "2026-07-31T20:57:41.296Z",
+      "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx"
+      }
+    },
     {
       "id": "cms96t19506karo9k3wjqx5vb",
       "title": "animated-voiceover 开源：一人干翻动画工作室",
@@ -109,24 +163,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq"
-      }
-    },
-    {
-      "id": "cms8rsusw06h8rogh8d81cpti",
-      "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-      "title_en": "DeepSeek V4 Flash 0731 scores 50 on the Artificial Analysis Intelligence Index， a 10-point jump over…",
-      "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-      "permalink": "https://aihot.virxact.com/items/cms8rsusw06h8rogh8d81cpti",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-07-31T09:30:43.000Z",
-      "discoveredAt": "2026-07-31T09:58:59.071Z",
-      "summary": "DeepSeek V4 Flash 0731 在 Artificial Analysis 智能指数上得 50 分，较 4 月版提升 10 分，领先 V4 Pro 6 分，并进入智能与成本帕累托前沿。",
-      "category": "ai-models",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8rsusw06h8rogh8d81cpti"
       }
     },
     {
@@ -1696,5 +1732,5 @@
       }
     }
   ],
-  "cachedAt": "2026-07-31T20:36:50Z"
+  "cachedAt": "2026-07-31T22:14:46Z"
 }
