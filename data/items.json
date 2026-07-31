@@ -1,8 +1,62 @@
 {
-  "count": 89,
+  "count": 94,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms8llt7f0iaprot0tz5qnk6i",
+      "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
+      "title_en": "国家发改委：人工智能相关行业保持 30% 以上的高增长，截至 6 月底全国智能算力规模达到去年同期 2.8 倍",
+      "url": "https://www.ithome.com/0/984/130.htm",
+      "permalink": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-31T06:38:54.000Z",
+      "discoveredAt": "2026-07-31T07:05:30.200Z",
+      "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i"
+      }
+    },
+    {
+      "id": "cms8jgm2l0fvcrot02b3gas7v",
+      "title": "DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力基准测试远超 V4-Pro 预览版",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/984/116.htm",
+      "permalink": "https://aihot.virxact.com/items/cms8jgm2l0fvcrot02b3gas7v",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-07-31T06:02:05.000Z",
+      "discoveredAt": "2026-07-31T06:05:29.949Z",
+      "summary": "DeepSeek 今日宣布 DeepSeek-V4-Flash 正式版 API 上线公测，Agent 能力大幅增强，Terminal Bench 2.1 得分 82.7，NL2Repo 54.2，Cybergym 76.7，DeepSWE 54.4，Toolathlon verified 70.3，多项基准远超 V4-Pro-Preview。",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms8jgm2l0fvcrot02b3gas7v"
+      }
+    },
+    {
+      "id": "cms8i3p4m0ek6rot0xc8l3gak",
+      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+      "title_en": "Show HN： 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "permalink": "https://aihot.virxact.com/items/cms8i3p4m0ek6rot0xc8l3gak",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-07-31T04:57:18.494Z",
+      "discoveredAt": "2026-07-31T05:27:26.620Z",
+      "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
+      "category": "paper",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms8i3p4m0ek6rot0xc8l3gak"
+      }
+    },
     {
       "id": "cms8d138a08iwrot0isab5ede",
       "title": "国家发改委：将加快《人工智能法》立法进程",
@@ -166,6 +220,24 @@
       }
     },
     {
+      "id": "cms8f7n9q0bezrot06im88lqu",
+      "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+      "title_en": "一镜成片，随心参考|Seedance 2.5 正式发布",
+      "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+      "permalink": "https://aihot.virxact.com/items/cms8f7n9q0bezrot06im88lqu",
+      "source": "字节 Seed：Research Feed（网页内嵌数据）",
+      "publishedAt": "2026-07-30T16:00:00.000Z",
+      "discoveredAt": "2026-07-31T04:06:31.879Z",
+      "summary": "字节跳动今日正式发布新一代视频创作模型 Seedance 2.5，单次视频生成时长从 15 秒提升至 30 秒，并支持多轮延长，可产出数分钟连贯内容。模型支持单次输入最多 30 张图片、10 段视频和 10 段音频作为参考素材，并升级白模参考、运动参考及绿幕编辑、时间戳精准编辑等能力。Seedance 2.5 已陆续上线即梦 AI、豆包专业版等平台，API 服务近期将上线火山方舟。",
+      "category": "ai-models",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms8f7n9q0bezrot06im88lqu"
+      }
+    },
+    {
       "id": "cms7oxay30o4nro2e4t3r6ud2",
       "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
       "title_en": "News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
@@ -325,6 +397,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms6xa31u02nlrouq0wkhylfp"
+      }
+    },
+    {
+      "id": "cms8epxbt0auqrot06452whxb",
+      "title": "BM25 在大规模语料中胜出：检索增强生成范式的规模扩展研究",
+      "title_en": "BM25 Wins at Scale： A Scaling Study of Retrieval-Augmented Generation Paradigms",
+      "url": "https://arxiv.org/abs/2607.26497",
+      "permalink": "https://aihot.virxact.com/items/cms8epxbt0auqrot06452whxb",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "discoveredAt": "2026-07-31T03:52:48.072Z",
+      "summary": "一项受控研究在约450倍跨度、28个严格嵌套的语料规模层级上比较多种RAG范式，发现存在规模依赖的交叉点而非绝对赢家。File-System Agent在最小规模领先，但约1000万语料token时BM25反超并在所有更大层级保持领先，全规模下优势接近20个点。BM25还锚定了无需LLM构建的低成本帕累托前沿。",
+      "category": "paper",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms8epxbt0auqrot06452whxb"
       }
     },
     {
@@ -1606,5 +1696,5 @@
       }
     }
   ],
-  "cachedAt": "2026-07-31T03:49:35Z"
+  "cachedAt": "2026-07-31T07:12:22Z"
 }
