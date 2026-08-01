@@ -4,6 +4,24 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmsa302cc01xaro41omun2e1h",
+      "title": "OpenAI Astra 以约2000美元证明10项数学难题",
+      "title_en": "ten significant advances in mathematics and theoretical computer science. solved using an internal …",
+      "url": "https://x.com/gdb/status/2083457463337287721",
+      "permalink": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h",
+      "source": "X：Greg Brockman (@gdb)",
+      "publishedAt": "2026-08-01T07:39:02.000Z",
+      "discoveredAt": "2026-08-01T08:00:16.762Z",
+      "summary": "OpenAI 用下一代模型 Astra 内部版解决了数学与理论计算机科学领域的10项重大进展，总成本约2000美元（按 Sol API 价格计算）。Astra 证明了非 sofic 群的存在，并推翻 Connes 刚性猜想，成果涵盖 von Neumann 代数、高维球堆积、电路复杂度等。OpenAI 已发布全部10项证明，附 Lean 证书与 CoT 逐步推导。",
+      "category": "paper",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsa302cc01xaro41omun2e1h"
+      }
+    },
+    {
       "id": "cms9udxq00qybro9kc2il6w0c",
       "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
       "title_en": "真绝了啊，兄弟们说出来你们可能不信， AI历史上第一次全自主Agent网络攻击， 攻击者是@OpenAI 没发布的秘密模型， 被攻击的是@huggingface ， 最后帮他们完成取证的，是中国的开源…",
@@ -181,24 +199,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq"
-      }
-    },
-    {
-      "id": "cms8ld9380i7arot0lyxt8h3t",
-      "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
-      "title_en": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta！ 🔷 We've massively upgraded its Agent…",
-      "url": "https://x.com/deepseek_ai/status/2083084415157022911",
-      "permalink": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t",
-      "source": "X：DeepSeek (@deepseek_ai)",
-      "publishedAt": "2026-07-31T06:56:41.000Z",
-      "discoveredAt": "2026-07-31T06:58:53.583Z",
-      "summary": "🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！\n\n🔷 我们大幅升级了其 Agent 能力--基准测试分数现已远超 V4-Pro-Preview。查看下方巨大的性能飞跃！👇 🔷 官方 V4-Flash 现已原生支持 Responses API 格式，并已完全适配 Codex！\n\n查看我们官方 API 文档中的配置详情：https://api-docs.deepseek.com/quick_start/agent_integrations/codex",
-      "category": "ai-models",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t"
       }
     },
     {
@@ -1732,5 +1732,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-01T06:39:32Z"
+  "cachedAt": "2026-08-01T09:19:11Z"
 }
