@@ -1,5 +1,5 @@
 {
-  "count": 96,
+  "count": 97,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -811,6 +811,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv"
+      }
+    },
+    {
+      "id": "cmsass3b802g4romzntw9ijll",
+      "title": "Science One Framework：通过 Chain-of-Evidence 实现可验证的自主科研框架",
+      "title_en": "Science One Framework： A verifiable autonomous research framework via Chain-of-Evidence",
+      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
+      "permalink": "https://aihot.virxact.com/items/cmsass3b802g4romzntw9ijll",
+      "source": "Google Research：Blog（网页）",
+      "publishedAt": "2026-07-29T16:00:00.000Z",
+      "discoveredAt": "2026-07-29T16:00:00.000Z",
+      "summary": "Google Research 推出 Science One Framework，一个原生构建证据链的自主科研原型，旨在消除模型幻觉，并配套自动化评估协议 CoE Audit。",
+      "category": "paper",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsass3b802g4romzntw9ijll"
       }
     },
     {
@@ -1732,5 +1750,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-01T19:31:28Z"
+  "cachedAt": "2026-08-01T21:07:48Z"
 }
