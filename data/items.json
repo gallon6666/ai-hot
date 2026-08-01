@@ -1,5 +1,5 @@
 {
-  "count": 96,
+  "count": 97,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -217,6 +217,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq"
+      }
+    },
+    {
+      "id": "cms8ld9380i7arot0lyxt8h3t",
+      "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
+      "title_en": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta！ 🔷 We've massively upgraded its Agent…",
+      "url": "https://x.com/deepseek_ai/status/2083084415157022911",
+      "permalink": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t",
+      "source": "X：DeepSeek (@deepseek_ai)",
+      "publishedAt": "2026-07-31T06:56:41.000Z",
+      "discoveredAt": "2026-07-31T06:58:53.583Z",
+      "summary": "🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！\n\n🔷 我们大幅升级了其 Agent 能力--基准测试分数现已远超 V4-Pro-Preview。查看下方巨大的性能飞跃！👇 🔷 官方 V4-Flash 现已原生支持 Responses API 格式，并已完全适配 Codex！\n\n查看我们官方 API 文档中的配置详情：https://api-docs.deepseek.com/quick_start/agent_integrations/codex",
+      "category": "ai-models",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t"
       }
     },
     {
@@ -1732,5 +1750,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-01T13:52:30Z"
+  "cachedAt": "2026-08-01T15:17:08Z"
 }
