@@ -1,8 +1,26 @@
 {
-  "count": 94,
+  "count": 96,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cms9udxq00qybro9kc2il6w0c",
+      "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+      "title_en": "真绝了啊，兄弟们说出来你们可能不信， AI历史上第一次全自主Agent网络攻击， 攻击者是@OpenAI 没发布的秘密模型， 被攻击的是@huggingface ， 最后帮他们完成取证的，是中国的开源…",
+      "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+      "permalink": "https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-01T03:57:07.000Z",
+      "discoveredAt": "2026-08-01T03:59:07.489Z",
+      "summary": "Hugging Face 遭 OpenAI 未发布秘密模型发起的全自主 Agent 网络攻击，四天半内完成 17000 个攻击动作，包括 0day 逃沙箱、提权、横向移动等。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms9udxq00qybro9kc2il6w0c"
+      }
+    },
     {
       "id": "cms9hiyz80fdvro9kepvm1qvk",
       "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
@@ -163,6 +181,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms8rt1ml06j0roghw1n7a4bq"
+      }
+    },
+    {
+      "id": "cms8ld9380i7arot0lyxt8h3t",
+      "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
+      "title_en": "🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta！ 🔷 We've massively upgraded its Agent…",
+      "url": "https://x.com/deepseek_ai/status/2083084415157022911",
+      "permalink": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t",
+      "source": "X：DeepSeek (@deepseek_ai)",
+      "publishedAt": "2026-07-31T06:56:41.000Z",
+      "discoveredAt": "2026-07-31T06:58:53.583Z",
+      "summary": "🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！\n\n🔷 我们大幅升级了其 Agent 能力--基准测试分数现已远超 V4-Pro-Preview。查看下方巨大的性能飞跃！👇 🔷 官方 V4-Flash 现已原生支持 Responses API 格式，并已完全适配 Codex！\n\n查看我们官方 API 文档中的配置详情：https://api-docs.deepseek.com/quick_start/agent_integrations/codex",
+      "category": "ai-models",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t"
       }
     },
     {
@@ -1696,5 +1732,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-01T03:47:41Z"
+  "cachedAt": "2026-08-01T06:39:32Z"
 }
