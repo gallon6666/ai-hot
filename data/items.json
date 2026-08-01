@@ -1,8 +1,26 @@
 {
-  "count": 96,
+  "count": 97,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmsa9czys01chrojdrdvterw0",
+      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+      "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
+      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+      "permalink": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-01T10:40:50.000Z",
+      "discoveredAt": "2026-08-01T10:58:17.293Z",
+      "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsa9czys01chrojdrdvterw0"
+      }
+    },
     {
       "id": "cmsa302cc01xaro41omun2e1h",
       "title": "OpenAI Astra 以约2000美元证明10项数学难题",
@@ -1732,5 +1750,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-01T09:19:11Z"
+  "cachedAt": "2026-08-01T11:33:37Z"
 }
