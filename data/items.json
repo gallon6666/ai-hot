@@ -1,8 +1,26 @@
 {
-  "count": 96,
+  "count": 95,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmsbf9by90dq7rohvp1oggqmk",
+      "title": "Grok 支持分析任意视频",
+      "title_en": "Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+      "url": "https://x.com/elonmusk/status/2083800942927839307",
+      "permalink": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-08-02T06:23:54.000Z",
+      "discoveredAt": "2026-08-02T06:31:11.917Z",
+      "summary": "Grok 可以分析任何视频 https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsbf9by90dq7rohvp1oggqmk"
+      }
+    },
     {
       "id": "cmsa9czys01chrojdrdvterw0",
       "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
@@ -1694,43 +1712,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms1ka4930059ro05h81rrc3q"
       }
-    },
-    {
-      "id": "cms1dpz52040tro0w3c4a9c8p",
-      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-      "title_en": "Claude Opus 5 被扒光，1511 行提示词底牌全摊开",
-      "url": "https://www.ithome.com/0/981/688.htm",
-      "permalink": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-26T05:33:44.000Z",
-      "discoveredAt": "2026-07-26T05:50:24.644Z",
-      "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p"
-      }
-    },
-    {
-      "id": "cms1ao381037kro0wqp7mg4x3",
-      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-      "title_en": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "permalink": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-26T03:54:52.332Z",
-      "discoveredAt": "2026-07-26T04:24:59.751Z",
-      "summary": "开发者成功在售价约 8 美元的 ESP32-S3 微控制器上运行了一个 28.9M 参数的大语言模型，完全在芯片本地运行，无需连接服务器，生成速度约 9.5 tok/s。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3"
-      }
     }
   ],
-  "cachedAt": "2026-08-02T03:51:54Z"
+  "cachedAt": "2026-08-02T06:43:38Z"
 }
