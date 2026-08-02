@@ -1,5 +1,5 @@
 {
-  "count": 97,
+  "count": 96,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1730,25 +1730,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3"
       }
-    },
-    {
-      "id": "cms125zmg00usro0wwu4it7dg",
-      "title": "xAI 发布 Grok CLI 并支持 /tutorial 命令",
-      "title_en": "Download Grok Build and type /tutorial http://X.ai/cli",
-      "url": "https://x.com/elonmusk/status/2081174079969632347",
-      "permalink": "https://aihot.virxact.com/items/cms125zmg00usro0wwu4it7dg",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-07-26T00:25:41.000Z",
-      "discoveredAt": "2026-07-26T00:26:58.830Z",
-      "summary": "下载 Grok Build 并输入 /tutorial\n\nhttp://X.ai/cli",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms125zmg00usro0wwu4it7dg"
-      }
     }
   ],
-  "cachedAt": "2026-08-02T00:10:23Z"
+  "cachedAt": "2026-08-02T03:51:54Z"
 }
