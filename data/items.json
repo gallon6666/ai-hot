@@ -1,5 +1,5 @@
 {
-  "count": 94,
+  "count": 93,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1676,25 +1676,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms5hnvv70015ros543ypf7it"
       }
-    },
-    {
-      "id": "cms24qise02adro9fp4xzdhyd",
-      "title": "Suno 推出多项新功能，含MIDI导出等",
-      "title_en": "We've been building faster than ever！ 🚀 Here's a quick look at what's new across web & mobile： • …",
-      "url": "https://x.com/suno/status/2081443050312843765",
-      "permalink": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd",
-      "source": "X：Suno (@suno)",
-      "publishedAt": "2026-07-26T18:14:29.000Z",
-      "discoveredAt": "2026-07-26T18:26:42.298Z",
-      "summary": "我们一直在以比以往更快的速度构建！🚀\n\n以下是网页端和移动端的新功能一览：\n\n• 高级音轨分离 • 将音轨导出为 MIDI • 歌词合写与自动保存 • 截图生成歌曲 • Apple CarPlay 与 Android Auto\n\n你最期待 Suno 的哪些新功能？",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms24qise02adro9fp4xzdhyd"
-      }
     }
   ],
-  "cachedAt": "2026-08-02T18:10:02Z"
+  "cachedAt": "2026-08-02T19:31:59Z"
 }
