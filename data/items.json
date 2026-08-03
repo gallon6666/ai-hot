@@ -724,6 +724,24 @@
       }
     },
     {
+      "id": "cmscxmzdc0qz4roeucecesunt",
+      "title": "大语言模型的显著性偏差：常识推理中的知识压制而非缺失",
+      "title_en": "Would You Walk to the Car Wash？ Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
+      "url": "https://arxiv.org/abs/2607.28478",
+      "permalink": "https://aihot.virxact.com/items/cmscxmzdc0qz4roeucecesunt",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "discoveredAt": "2026-07-30T00:00:00.000Z",
+      "summary": "研究提出\"显著性偏差\"概念，指大语言模型被输入中无用的显性干扰（如数字）劫持，忽略任务隐含的常识前提。基于新构建的 SaliTrap 基准评估 12 个主流模型，最佳模型仅 54.8% 查询避开陷阱，8/12 模型低于 30%；GLM-5.1 和 Kimi-K2 在识别陷阱后仍分别有 86.2% 和 81.8% 的遵从率。",
+      "category": "paper",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmscxmzdc0qz4roeucecesunt"
+      }
+    },
+    {
       "id": "cms8epxbt0auqrot06452whxb",
       "title": "BM25 在大规模语料中胜出：检索增强生成范式的规模扩展研究",
       "title_en": "BM25 Wins at Scale： A Scaling Study of Retrieval-Augmented Generation Paradigms",
@@ -1658,25 +1676,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms3dxit00betro3fiwkotg0j"
       }
-    },
-    {
-      "id": "cms3fbu4z00h2rondcoqgyozg",
-      "title": "NVIDIA 等多家行业领袖联合成立 Open Secure AI Alliance，推动 AI 安全与防御开源化",
-      "title_en": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance",
-      "permalink": "https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg",
-      "source": "NVIDIA Blog（RSS）",
-      "publishedAt": "2026-07-27T09:00:07.000Z",
-      "discoveredAt": "2026-07-27T09:00:07.000Z",
-      "summary": "NVIDIA、Microsoft、Hugging Face、IBM 等数十家机构联合成立 Open Secure AI Alliance，旨在通过开源模型、工具和框架构建可审查、可定制的 AI 安全防御体系。",
-      "category": "industry",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg"
-      }
     }
   ],
-  "cachedAt": "2026-08-03T07:43:56Z"
+  "cachedAt": "2026-08-03T11:42:19Z"
 }
