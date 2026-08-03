@@ -1,8 +1,26 @@
 {
-  "count": 97,
+  "count": 94,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmsdkgj9m00hnro0ocrleteo0",
+      "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+      "title_en": "Europe's AI labeling and transparency rules are now in effect",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "permalink": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-08-03T17:38:45.000Z",
+      "discoveredAt": "2026-08-03T18:32:18.029Z",
+      "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0"
+      }
+    },
     {
       "id": "cmsdg55m700l4roca3x3gtfb1",
       "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
@@ -1676,79 +1694,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms3y2wcy03toro82ozgc5187"
       }
-    },
-    {
-      "id": "cms3m8ubg001nrox37oixfg2e",
-      "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-      "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-      "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
-      "permalink": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-27T19:08:51.000Z",
-      "discoveredAt": "2026-07-27T19:24:35.867Z",
-      "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3m8ubg001nrox37oixfg2e"
-      }
-    },
-    {
-      "id": "cms3lggqj00c0roskhu1r5f09",
-      "title": "Kimi 发布视觉感知基准 PerceptionBench",
-      "title_en": "We are releasing PerceptionBench， a benchmark that isolates visual perception and evaluates it as a …",
-      "url": "https://x.com/Kimi_Moonshot/status/2081813202514681878",
-      "permalink": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "publishedAt": "2026-07-27T18:45:20.000Z",
-      "discoveredAt": "2026-07-27T19:02:32.798Z",
-      "summary": "Kimi.ai 发布 PerceptionBench，一个从当前前沿模型在 42 个基准上的失败模式中归纳出的视觉感知基准。该基准将视觉感知拆解为 10 种原子能力，并构建了 3000 道验证题，每道题只考察单一感知能力，无需推理或外部知识。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3lggqj00c0roskhu1r5f09"
-      }
-    },
-    {
-      "id": "cms3k7su000n8roiytkztsme7",
-      "title": "用Claude和Python构建技能驱动的金融分析智能体",
-      "title_en": "Designing Skill-Driven Financial Analysis Agents with Claude， Python， MCP Connectors， and Automated Deliverables",
-      "url": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables",
-      "permalink": "https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-27T18:08:24.000Z",
-      "discoveredAt": "2026-07-27T18:27:48.477Z",
-      "summary": "本教程基于Anthropic的financial-services仓库，用纯Python复现其技能驱动架构。通过解析SKILL.md文件构建可搜索技能注册表，并创建可复用SkillAgent，将金融分析剧本注入Anthropic Messages API，支持迭代工具调用循环。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3k7su000n8roiytkztsme7"
-      }
-    },
-    {
-      "id": "cms3n5wpl001sro82iax01xu3",
-      "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
-      "title_en": "The harness is all you need （mostly）",
-      "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
-      "permalink": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-07-27T18:00:00.000Z",
-      "discoveredAt": "2026-07-27T19:50:19.758Z",
-      "summary": "GitHub Copilot 推出\"Harness\"工作流，让开发者通过单一 AI 工具完成从原型设计、规划、实现到代码审查的完整软件开发流程，无需追逐多种新 AI 工具。该工作流强调实用性与集成性，旨在减少工具切换带来的效率损耗。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3"
-      }
     }
   ],
-  "cachedAt": "2026-08-03T17:18:49Z"
+  "cachedAt": "2026-08-03T19:55:35Z"
 }
