@@ -4,6 +4,24 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmscldw820c4kroeu7bw1kb27",
+      "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
+      "title_en": "Qwen3.8-Max： A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "permalink": "https://aihot.virxact.com/items/cmscldw820c4kroeu7bw1kb27",
+      "source": "Qwen：Blog Retrieval（API）",
+      "publishedAt": "2026-08-03T02:00:00.000Z",
+      "discoveredAt": "2026-08-03T02:10:26.416Z",
+      "summary": "Qwen 正式发布 Qwen3.8-Max，这是 Qwen 家族迄今最强的模型，拥有 2.4T 参数（95B 激活），并首次开源 Qwen-Max 级权重，开放权重将于下周发布。",
+      "category": "ai-models",
+      "score": 89,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmscldw820c4kroeu7bw1kb27"
+      }
+    },
+    {
       "id": "cmscc62eo033broeusw72isi0",
       "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
       "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
@@ -1658,25 +1676,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms3fbu4z00h2rondcoqgyozg"
       }
-    },
-    {
-      "id": "cms2p7s7h03dlro3fzjovkpwc",
-      "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-      "title_en": "浪费20亿Token之后，我做了一个帮自己定义目标的Skill。",
-      "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-      "permalink": "https://aihot.virxact.com/items/cms2p7s7h03dlro3fzjovkpwc",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-27T00:12:00.000Z",
-      "discoveredAt": "2026-07-27T04:00:00.098Z",
-      "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms2p7s7h03dlro3fzjovkpwc"
-      }
     }
   ],
-  "cachedAt": "2026-08-03T00:10:54Z"
+  "cachedAt": "2026-08-03T03:52:09Z"
 }
