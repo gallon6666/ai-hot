@@ -1,5 +1,5 @@
 {
-  "count": 94,
+  "count": 93,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1676,25 +1676,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms2p7s7h03dlro3fzjovkpwc"
       }
-    },
-    {
-      "id": "cms5hnvv70015ros543ypf7it",
-      "title": "InMind 基准揭示智能体记忆系统的隐式关联盲点",
-      "title_en": "Keep It InMind： Benchmarking the Implicit-Association Blind Spot in Agent Memory",
-      "url": "https://arxiv.org/abs/2607.24368",
-      "permalink": "https://aihot.virxact.com/items/cms5hnvv70015ros543ypf7it",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-27T00:00:00.000Z",
-      "discoveredAt": "2026-07-27T00:00:00.000Z",
-      "summary": "研究团队发布 InMind 基准，包含 125 个专家验证任务，测试智能体记忆系统处理隐式关联的能力。当关键记忆直接放入上下文时，骨干模型能回答 84.0% 的间接查询；但通过六种记忆系统检索时，命中率最高仅 14.4%，尽管这些系统直接召回准确率可达 100%。失败根源在于查询驱动的检索接口本身，将\"路由--决定哪些事实必须保持可见\"确立为核心开放问题。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5hnvv70015ros543ypf7it"
-      }
     }
   ],
-  "cachedAt": "2026-08-02T23:09:21Z"
+  "cachedAt": "2026-08-03T00:10:54Z"
 }
