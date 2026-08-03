@@ -1,8 +1,44 @@
 {
-  "count": 99,
+  "count": 97,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmsdg55m700l4roca3x3gtfb1",
+      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+      "title_en": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+      "url": "https://github.com/lyogavin/airllm",
+      "permalink": "https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-03T16:24:45.027Z",
+      "discoveredAt": "2026-08-03T16:31:27.516Z",
+      "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1"
+      }
+    },
+    {
+      "id": "cmsdexxu702xbrotjockerya6",
+      "title": "OpenRouter 推出 Ori Eval 简化评估流程",
+      "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+      "url": "https://x.com/OpenRouter/status/2084301100078027143",
+      "permalink": "https://aihot.virxact.com/items/cmsdexxu702xbrotjockerya6",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-08-03T15:31:21.000Z",
+      "discoveredAt": "2026-08-03T15:57:52.352Z",
+      "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdexxu702xbrotjockerya6"
+      }
+    },
     {
       "id": "cmsdczxnl0138rotj8fjenm4b",
       "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
@@ -19,6 +55,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdczxnl0138rotj8fjenm4b"
+      }
+    },
+    {
+      "id": "cmsddya2a01t3rotjo94tdap8",
+      "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
+      "title_en": "Behind the scenes： How we build， test， and scale Google Agent Skills",
+      "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
+      "permalink": "https://aihot.virxact.com/items/cmsddya2a01t3rotjo94tdap8",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "publishedAt": "2026-08-03T14:33:20.000Z",
+      "discoveredAt": "2026-08-03T15:30:09.634Z",
+      "summary": "Google Agent Skills 团队详解其开源技能库的构建与治理流程：项目始于 Google Cloud Next 2026 前的\"swarm\"冲刺，发布后 GitHub 星标超 15，000。为保证规模化下的质量，每个技能须通过标准化目录结构、CI/CD 流水线（含 linter、链接检查、AI 辅助清单）及提交时与每周的持续评估，并优先引用远程 MCP 工具。",
+      "category": "tip",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsddya2a01t3rotjo94tdap8"
       }
     },
     {
@@ -1694,97 +1748,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms3n5wpl001sro82iax01xu3"
       }
-    },
-    {
-      "id": "cms3gqf3h01y1rondsl8z5sxy",
-      "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
-      "title_en": "GitHub Copilot app for Beginners： Getting started",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-      "permalink": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-07-27T16:00:00.000Z",
-      "discoveredAt": "2026-07-27T16:50:19.067Z",
-      "summary": "GitHub Copilot app 将 AI 编码工具升级为多 Agent 会话工作区，支持同时管理多个任务线程而不丢失进度。用户可为每个会话绑定项目上下文，通过 `/create-canvas` 命令在浏览器 Canvas 中预览 UI 并直接点选修改，还能启用 Agent Merge 自动处理 PR 审查反馈和合并冲突。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3gqf3h01y1rondsl8z5sxy"
-      }
-    },
-    {
-      "id": "cms3fuyes00mjrond2ldww2oa",
-      "title": "Google AI Overviews 搜索结果出现率升至43%",
-      "title_en": "Google's AI search is rapidly becoming the default， new data shows",
-      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
-      "permalink": "https://aihot.virxact.com/items/cms3fuyes00mjrond2ldww2oa",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-27T15:57:12.000Z",
-      "discoveredAt": "2026-07-27T16:25:50.818Z",
-      "summary": "Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3fuyes00mjrond2ldww2oa"
-      }
-    },
-    {
-      "id": "cms44no4v06arro82khvjxjj4",
-      "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
-      "permalink": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4",
-      "source": "公众号：月之暗面（Kimi）",
-      "publishedAt": "2026-07-27T15:34:59.000Z",
-      "discoveredAt": "2026-07-28T04:00:00.856Z",
-      "summary": "月之暗面发布 2.8 万亿参数的混合专家模型 Kimi K3，支持原生视觉理解和 100 万 token 上下文窗口。其规模化效率较 Kimi K2.5 提升 2.5 倍，并同步开源模型权重、技术报告及 MoonEP、FlashKDA、AgentEnv 三项 Infra 技术。",
-      "category": "ai-models",
-      "score": 85,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms44no4v06arro82khvjxjj4"
-      }
-    },
-    {
-      "id": "cms3dxit00berro3f8etbfxfh",
-      "title": "Kimi K3 开源分布式智能体环境 AgentENV",
-      "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
-      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-      "permalink": "https://aihot.virxact.com/items/cms3dxit00berro3f8etbfxfh",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "publishedAt": "2026-07-27T15:25:45.000Z",
-      "discoveredAt": "2026-07-27T15:31:51.181Z",
-      "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3dxit00berro3f8etbfxfh"
-      }
-    },
-    {
-      "id": "cms3dxit00betro3fiwkotg0j",
-      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告",
-      "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-      "permalink": "https://aihot.virxact.com/items/cms3dxit00betro3fiwkotg0j",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "publishedAt": "2026-07-27T15:14:40.000Z",
-      "discoveredAt": "2026-07-27T15:31:51.181Z",
-      "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
-      "category": "ai-models",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms3dxit00betro3fiwkotg0j"
-      }
     }
   ],
-  "cachedAt": "2026-08-03T15:13:34Z"
+  "cachedAt": "2026-08-03T17:18:49Z"
 }
