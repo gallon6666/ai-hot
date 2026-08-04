@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1MzU3OTQyMDAwLCJpIjoiY21zNmtkb3BmMDV0YnJvaHpvaW0ya3BlZyJ9",
+  "nextCursor": "eyJhIjoxNzg1MzY3Nzc0MDAwLCJpIjoiY21zNnI1Zm9nMGJ0anJvaHo5aGV1MmM2ZiJ9",
   "items": [
+    {
+      "id": "cmsf2ukfc1ekiro2e4h0k2bux",
+      "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
+      "title_en": "PipeNetwork/minimax-h3-mlx",
+      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
+      "permalink": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-08-04T19:10:09.000Z",
+      "discoveredAt": "2026-08-04T19:54:52.549Z",
+      "summary": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux"
+      }
+    },
     {
       "id": "cmsezylz31cadro2eoq1np3vh",
       "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f"
       }
-    },
-    {
-      "id": "cms6kdopf05tbrohzoim2kpeg",
-      "title": "Replit Design 发布：AI 赋能设计愿景",
-      "title_en": "You don't need to be a designer. You just need to know what you want to bring to life. The gap betw…",
-      "url": "https://x.com/Replit/status/2082568269119062019",
-      "permalink": "https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-07-29T20:45:42.000Z",
-      "discoveredAt": "2026-07-29T20:55:42.166Z",
-      "summary": "你不需要成为设计师。你只需要知道你想把什么变为现实。\n\n你脑海中的想法与屏幕上的成果之间的差距刚刚消失了。\n\n这就是 Replit Design 背后的愿景。\n\n阅读我们构建它的原因以及我们认为 AI 驱动设计的未来方向：https://replit.com/blog/introducing-replit-design",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms6kdopf05tbrohzoim2kpeg"
-      }
     }
   ],
-  "cachedAt": "2026-08-04T18:49:59Z"
+  "cachedAt": "2026-08-04T20:41:26Z"
 }
