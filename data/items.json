@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1MjI1MTE0MDAwLCJpIjoiY21zNGhpbWw5MDQ3YnJvZXBub2JoazZuMiJ9",
+  "nextCursor": "eyJhIjoxNzg1MjU5MDA1MDAwLCJpIjoiY21zNHhpZTc2MDM3eHJvYTEza3YzdWdsbSJ9",
   "items": [
+    {
+      "id": "cmsdwjgim0327ro2ek45x3jz5",
+      "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+      "title_en": "从零开始，教你用Codex搓出属于你自己的第一个硬件。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+      "permalink": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-08-04T00:06:00.000Z",
+      "discoveredAt": "2026-08-04T00:10:29.973Z",
+      "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
+      "category": "tip",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5"
+      }
+    },
+    {
+      "id": "cmsdv83cg000lro2eyp49endp",
+      "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+      "title_en": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+      "permalink": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-08-03T23:19:50.000Z",
+      "discoveredAt": "2026-08-03T23:33:40.411Z",
+      "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp"
+      }
+    },
     {
       "id": "cmsdt5gom0130rojfwd72clkl",
       "title": "GPT-Live实时音频新架构发布",
@@ -238,6 +274,24 @@
       }
     },
     {
+      "id": "cmsdu3hyr015xrofzqxuosm3y",
+      "title": "MiniMax H3 正式开源：通用全模态生成系统支持 2K 视频与原生立体声",
+      "title_en": "开放通用智能，MiniMax H3 正式开源",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247488931&idx=1&sn=0506e1d52edd5166becf35f5ebd83a07",
+      "permalink": "https://aihot.virxact.com/items/cmsdu3hyr015xrofzqxuosm3y",
+      "source": "公众号：MiniMax（稀宇科技）",
+      "publishedAt": "2026-08-03T02:44:09.000Z",
+      "discoveredAt": "2026-08-03T02:44:09.000Z",
+      "summary": "MiniMax 正式开源新一代通用视频模型 H3，可统一理解文本、图像、视频和音频，生成最高 2K 分辨率、最长 15 秒、带 32 kHz 原生立体声音频的视频。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdu3hyr015xrofzqxuosm3y"
+      }
+    },
+    {
       "id": "cmscldw820c4kroeu7bw1kb27",
       "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
       "title_en": "Qwen3.8-Max： A New Bar for Coding and Cowork",
@@ -271,6 +325,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0"
+      }
+    },
+    {
+      "id": "cmsdu4z39018qrofzyoa60l6w",
+      "title": "实测MiniMax H3做后期和动效：视频届的审美王来了",
+      "title_en": "实测MiniMax H3做后期和动效夯中夯，视频届的审美王来了！",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509055&idx=1&sn=28254c9e78532b336895b8c541905d49",
+      "permalink": "https://aihot.virxact.com/items/cmsdu4z39018qrofzyoa60l6w",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-08-02T13:26:14.000Z",
+      "discoveredAt": "2026-08-02T13:26:14.000Z",
+      "summary": "MiniMax H3视频模型实测覆盖广告TVC、短剧、创意片头、动态海报、UI动效和游戏实机六类场景，可生成5-15秒视频、原生双声道、直出2K，一次最多放9张图、3段视频和3段音频，提示语最高支持7000字符。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdu4z39018qrofzyoa60l6w"
       }
     },
     {
@@ -634,6 +706,24 @@
       }
     },
     {
+      "id": "cmsdu2uhb013jrofz7ggai8af",
+      "title": "腾讯混元 Hyra 攻克加法组合学 50 年未解难题",
+      "title_en": "Hyra 攻克加法组合学 50 年未解难题",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498145&idx=1&sn=6968b330e01b1f306db418dc19ae4843",
+      "permalink": "https://aihot.virxact.com/items/cmsdu2uhb013jrofz7ggai8af",
+      "source": "公众号：腾讯混元",
+      "publishedAt": "2026-07-31T04:10:45.000Z",
+      "discoveredAt": "2026-07-31T04:10:45.000Z",
+      "summary": "腾讯混元上周推出的科研智能体 Hyra，基于本月开源的 Hy3 模型（总参数 295B、激活参数 21B），为加法组合学中悬置半个多世纪的开放问题给出完整答案，证明 2 是该问题指数的上确界。Hyra 先在有限搜索中将最好结果从约 1.14 提高到 1.21，经约 24 小时运行提出核心构造思路，并给出 Lean 4 形式化证明。论文预印本、显式构造和形式化证明均已公开。",
+      "category": "paper",
+      "score": 89,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdu2uhb013jrofz7ggai8af"
+      }
+    },
+    {
       "id": "cms8d138a08iwrot0isab5ede",
       "title": "国家发改委：将加快《人工智能法》立法进程",
       "title_en": null,
@@ -973,6 +1063,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms7ioy5f0hfaro2ehgiti5h1"
+      }
+    },
+    {
+      "id": "cmsdu4z39018trofznzdbbtz6",
+      "title": "实测 ego lite：给 Codex 浏览器自动化加到 2.5 倍速",
+      "title_en": "实测ego lite，给我Codex浏览器自动化加到2.5倍速了！",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508934&idx=1&sn=d3082c762fb58884c933a370e10bc42d",
+      "permalink": "https://aihot.virxact.com/items/cmsdu4z39018trofznzdbbtz6",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-07-30T10:04:07.000Z",
+      "discoveredAt": "2026-07-30T10:04:07.000Z",
+      "summary": "开源浏览器自动化项目 ego lite（5.9k star）实测：基于 Chromium 内核定制的独立浏览器，让人和 Agent 共享同一浏览器但各自独立 Space 工作，支持迁移 Chrome 登录态。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdu4z39018trofznzdbbtz6"
       }
     },
     {
@@ -1372,6 +1480,42 @@
       }
     },
     {
+      "id": "cmsdu2uhb013krofz97aog7sk",
+      "title": "腾讯混元开源 AngelSpec：投机解码推理加速最高 2.4 倍",
+      "title_en": "腾讯混元开源 AngelSpec：支持投机解码训练及部署，推理加速最高2.4倍",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498136&idx=1&sn=f77b7950ad68442c45ef739f0bcf8e1b",
+      "permalink": "https://aihot.virxact.com/items/cmsdu2uhb013krofz97aog7sk",
+      "source": "公众号：腾讯混元",
+      "publishedAt": "2026-07-29T11:52:19.000Z",
+      "discoveredAt": "2026-07-29T11:52:19.000Z",
+      "summary": "腾讯混元开源覆盖训练到部署的投机解码框架 AngelSpec，并放出 Hy3-A21B 的 MTP 与 DFly drafter 权重及训练代码。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdu2uhb013krofz97aog7sk"
+      }
+    },
+    {
+      "id": "cmsdu4z3a018urofzpawk9sfj",
+      "title": "烧了一万块API后，我找到了同时适用于Fable5和GPT5.6的AI工作流",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508880&idx=1&sn=968a2ff3d6013a96f2ebfb5ab1579e5c",
+      "permalink": "https://aihot.virxact.com/items/cmsdu4z3a018urofzpawk9sfj",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-07-29T10:32:26.000Z",
+      "discoveredAt": "2026-07-29T10:32:26.000Z",
+      "summary": "作者将Claude Code与Codex的协作工具搭子升级至2.0版，通过deep_reasoner、fast_worker、arbiter三种身份及跨项目模型混编，把每周500美元的API账单压缩至400美元。2.0新增本地配置UI、一键试跑、Goal哈希校验和带证据链的小票，并支持按host分命名空间独立配置两个Agent。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdu4z3a018urofzpawk9sfj"
+      }
+    },
+    {
       "id": "cms5htk9l004nros5wi94l4eh",
       "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
       "title_en": "在 M1 Max 上运行 Kimi K3",
@@ -1658,151 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms4xie76037xroa13kv3uglm"
       }
-    },
-    {
-      "id": "cms6drkj8001crohzuxf7kfy7",
-      "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-      "title_en": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-      "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-      "permalink": "https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-07-28T16:00:00.000Z",
-      "discoveredAt": "2026-07-29T17:50:30.529Z",
-      "summary": "Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。",
-      "category": "paper",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms6drkj8001crohzuxf7kfy7"
-      }
-    },
-    {
-      "id": "cms4vd9hd02h9roa1iiub4unr",
-      "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐",
-      "title_en": "Gemini API Managed Agents： 3.6 Flash， hooks， and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "permalink": "https://aihot.virxact.com/items/cms4vd9hd02h9roa1iiub4unr",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-07-28T16:00:00.000Z",
-      "discoveredAt": "2026-07-28T16:27:45.819Z",
-      "summary": "Google DeepMind 将 Gemini API Managed Agents 的默认模型升级为 Gemini 3.6 Flash，并支持显式选择 3.5 Flash 或 3.5 Flash-Lite。新增环境钩子允许在沙箱内工具调用前后执行自定义脚本，用于安全审查或代码格式化。此外，还推出了免费套餐、预算控制和基于 cron 的定时触发功能。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4vd9hd02h9roa1iiub4unr"
-      }
-    },
-    {
-      "id": "cms4t5zra01o1roa10b19hmbh",
-      "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-      "title_en": null,
-      "url": "https://arxiv.org/abs/2510.26692",
-      "permalink": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-28T15:21:28.545Z",
-      "discoveredAt": "2026-07-28T15:26:05.731Z",
-      "summary": "月之暗面推出 Kimi Linear，一种混合线性注意力架构，首次在短上下文、长上下文和强化学习场景下全面超越全注意力机制。其 3B 激活参数模型在所有评估任务上显著优于全 MLA，同时将 KV cache 使用量降低最多 75%，并在 1M 上下文下实现最高 6 倍解码吞吐量。月之暗面已开源 KDA 内核、vLLM 实现及模型权重。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4t5zra01o1roa10b19hmbh"
-      }
-    },
-    {
-      "id": "cms4r3c3j012aroa17m492n76",
-      "title": "Perplexity 推出 Windows 版个人电脑智能体",
-      "title_en": "Personal Computer is now available in the Perplexity app for Windows. Personal Computer is the loca…",
-      "url": "https://x.com/perplexity_ai/status/2082103880155046176",
-      "permalink": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "publishedAt": "2026-07-28T14:00:23.000Z",
-      "discoveredAt": "2026-07-28T14:28:01.846Z",
-      "summary": "Personal Computer 现已在 Perplexity Windows 应用中可用。\n\nPersonal Computer 是面向你工作的本地智能体工具。它协调跨本地文件、已连接应用和网络的智能体。\n\n研究、编码、浏览和构建，全部在一个统一系统中完成。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4r3c3j012aroa17m492n76"
-      }
-    },
-    {
-      "id": "cms4oxr7h00aoroa1i8kboqrk",
-      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
-      "title_en": "5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-      "permalink": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
-      "discoveredAt": "2026-07-28T13:27:43.174Z",
-      "summary": "Google Search 的 AI Mode 新增 5 项工具，帮助用户规划线下活动。功能包括：通过 Personal Intelligence 连接 Google Calendar 推荐本地课程；在 AI Mode 内直接购物并查询附近库存；利用 Canvas 生成桌游策略指南并模拟对弈；根据预算和人数筛选并预订演唱会等门票；连接 Canva 生成邀请函设计。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4oxr7h00aoroa1i8kboqrk"
-      }
-    },
-    {
-      "id": "cms4fb2n603f4roeprjoopbix",
-      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-      "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-      "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
-      "permalink": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-07-28T08:33:30.000Z",
-      "discoveredAt": "2026-07-28T08:58:05.501Z",
-      "summary": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。",
-      "category": "ai-models",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4fb2n603f4roeprjoopbix"
-      }
-    },
-    {
-      "id": "cmsdu2isx00y0rofz4gley9ur",
-      "title": "豆包搜索开放服务，为Agent提供实时、权威、可信的搜索能力",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543189&idx=1&sn=46d89ea5ee1306025dbe25a3316ac14f",
-      "permalink": "https://aihot.virxact.com/items/cmsdu2isx00y0rofz4gley9ur",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-07-28T07:52:46.000Z",
-      "discoveredAt": "2026-07-28T07:52:46.000Z",
-      "summary": "火山引擎正式上线豆包搜索服务，为企业和开发者构建AI Agent提供跨语言、多模态、多垂类的联网信息查询引擎。该服务支持API、Skill、MCP等多种接入形态，也可在Agent Plan中一键配置启用，并提供每月500次免费搜索额度。豆包搜索已在SimpleQA、FreshQA、BrowseComp-ZH等多项公开评测中表现优异，并服务国内9成TOP手机厂商的智能助手。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdu2isx00y0rofz4gley9ur"
-      }
-    },
-    {
-      "id": "cms4himl9047broepnobhk6n2",
-      "title": "火山引擎上线豆包搜索服务，为AI Agent提供实时可信搜索能力",
-      "title_en": "豆包搜索开放服务，为Agent提供实时、权威、可信的搜索能力",
-      "url": "https://mp.weixin.qq.com/s/1nZqQHYqclsIF6__WLscgA",
-      "permalink": "https://aihot.virxact.com/items/cms4himl9047broepnobhk6n2",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-07-28T07:51:54.000Z",
-      "discoveredAt": "2026-07-28T10:00:00.793Z",
-      "summary": "火山引擎正式上线豆包搜索服务，为AI Agent提供跨语言、多模态、多垂类联网信息查询，融合全域互联网信息、行业知识与字节跳动独家内容资源。该服务从网站站点和创作者维度建立权威分级体系，过滤低质信息，在SimpleQA、FreshQA、BrowseComp-ZH等评测中表现优异。豆包搜索支持API、Skill、MCP等多种接入形态，面向企业和开发者提供每月500次免费搜索额度。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4himl9047broepnobhk6n2"
-      }
     }
   ],
-  "cachedAt": "2026-08-03T23:17:57Z"
+  "cachedAt": "2026-08-04T03:34:18Z"
 }
