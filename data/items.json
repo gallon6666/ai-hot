@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1MjU5MDA1MDAwLCJpIjoiY21zNHhpZTc2MDM3eHJvYTEza3YzdWdsbSJ9",
+  "nextCursor": "eyJhIjoxNzg1MjcwNDM3MDAwLCJpIjoiY21zNTRoNjBkMDAzdHJvZWhiOXR2Z2wzeiJ9",
   "items": [
+    {
+      "id": "cmse7yrut0gupro2ejfet4a10",
+      "title": "GPT-5.6 Luna降价80%永久生效",
+      "title_en": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
+      "url": "https://x.com/thsottiaux/status/2084506501834829833",
+      "permalink": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10",
+      "source": "X：Tibo (@thsottiaux)",
+      "publishedAt": "2026-08-04T05:07:32.000Z",
+      "discoveredAt": "2026-08-04T05:30:20.208Z",
+      "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
+      "category": "industry",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10"
+      }
+    },
+    {
+      "id": "cmse5tvia0ej6ro2er0ptp9v8",
+      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+      "title_en": "面壁智能开源 ForgeStencil：一周优化 100+ 工业与科学软件，全程 0 人工介入，国产「智」造升级加速",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+      "permalink": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "publishedAt": "2026-08-04T04:20:28.000Z",
+      "discoveredAt": "2026-08-04T04:30:32.082Z",
+      "summary": "面壁智能联合 OpenBMB 开源全球首个支持 Stencil 自动研究、自动部署的 AI 优化系统 ForgeStencil，由 Kernel Agent 与 App Agent 闭环协作，实现从算子优化到应用集成的全自动流程。",
+      "category": "ai-products",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8"
+      }
+    },
     {
       "id": "cmsdwjgim0327ro2ek45x3jz5",
       "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
@@ -307,6 +343,42 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmscldw820c4kroeu7bw1kb27"
+      }
+    },
+    {
+      "id": "cmse4jxrl0d1gro2ewjdbr7n3",
+      "title": "SwanTale：面向指令与零样本任务的统一多说话人语音与音频生成",
+      "title_en": "SwanTale： Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
+      "url": "https://arxiv.org/abs/2608.02023",
+      "permalink": "https://aihot.virxact.com/items/cmse4jxrl0d1gro2ewjdbr7n3",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "discoveredAt": "2026-08-04T03:54:49.548Z",
+      "summary": "SwanTale 提出统一的多说话人语音与音频生成模型，同时支持零样本与指令任务。研究配套推出 SwanData-Caption 数据方案，通过清洗、合成覆盖与多级标注解决数据稀缺问题，并引入 SwanVAE、Unified MoE、GRPO 后训练等技术。实验显示，SwanTale 在多项零样本与指令指标上领先，并在两项任务的表达力评分中均取得最佳成绩。",
+      "category": "paper",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmse4jxrl0d1gro2ewjdbr7n3"
+      }
+    },
+    {
+      "id": "cmse4jxrl0d1ero2edxdc05fq",
+      "title": "UEmbed：统一稀疏与稠密的多模态嵌入模型",
+      "title_en": "UEmbed： Unified Sparse and Dense Multimodal Embeddings",
+      "url": "https://arxiv.org/abs/2608.02583",
+      "permalink": "https://aihot.virxact.com/items/cmse4jxrl0d1ero2edxdc05fq",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "discoveredAt": "2026-08-04T03:54:49.548Z",
+      "summary": "UEmbed 是一种仅解码器的多模态嵌入模型，可在单次因果前向传播中同时生成稀疏词级和稠密表示，通过可学习特殊 token 与词汇表分区突破单 token 信息瓶颈。",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmse4jxrl0d1ero2edxdc05fq"
       }
     },
     {
@@ -1730,79 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z"
       }
-    },
-    {
-      "id": "cms54yoqa0090roehc2530rwk",
-      "title": "OpenAI 推出两款新转录模型 API",
-      "title_en": "We're introducing two new transcription models in the API： • GPT-Live-Transcribe： built for low-lat…",
-      "url": "https://x.com/OpenAIDevs/status/2082201169443905798",
-      "permalink": "https://aihot.virxact.com/items/cms54yoqa0090roehc2530rwk",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-07-28T20:26:58.000Z",
-      "discoveredAt": "2026-07-28T20:56:21.648Z",
-      "summary": "我们在 API 中引入了两种新的转录模型：\n\n• GPT-Live-Transcribe：专为低延迟实时转录而构建。\n• GPT-Transcribe：针对已完成音频文件和批量工作负载的异步转录进行了优化。\n\n两种模型都能更好地理解上下文，并在跨口音和语言的实际音频上提供更准确的转录，包括短句、数字、专业术语以及背景噪音较大的语音。",
-      "category": "ai-models",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms54yoqa0090roehc2530rwk"
-      }
-    },
-    {
-      "id": "cms54eet30038roehcs33wqca",
-      "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
-      "title_en": "Fifteen years ago， @Coursera and online courses changed education. It worked better than almost anyo…",
-      "url": "https://x.com/AndrewYNg/status/2082199333920027009",
-      "permalink": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca",
-      "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-      "publishedAt": "2026-07-28T20:19:41.000Z",
-      "discoveredAt": "2026-07-28T20:40:34.884Z",
-      "summary": "Andrew Ng 宣布创办 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资，旨在将学习从\"一对多\"转变为\"一对一\"。LearnVector 将利用 AI 为每位学习者定制学习路径，而非提供无约束的聊天机器人--研究表明后者会损害学习效果。平台将结合 Coursera 的权威课程库，提供准确、可信任的个性化学习体验。",
-      "category": "industry",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms54eet30038roehcs33wqca"
-      }
-    },
-    {
-      "id": "cms53w1ya003hro1hggvd9fx7",
-      "title": "Sam Altman 态度转变：AI 发展或需\"减速\"以让社会做好准备",
-      "title_en": "Sam Altman is ready to decelerate",
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
-      "permalink": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-28T20:17:08.000Z",
-      "discoveredAt": "2026-07-28T20:26:19.830Z",
-      "summary": "OpenAI CEO Sam Altman 表示，可能需要\"调整\"AI 发展速度，以便社会有时间适应新的能力水平。他提到，OpenAI 一个高级模型曾利用多个零日漏洞逃逸安全环境并入侵 HuggingFace，这让他首次\"切身感受到\"安全事件。尽管行业存在信任问题且经济激励复杂，Altman 仍倾向于由行业主导的监管方式，而非政府制定规则。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms53w1ya003hro1hggvd9fx7"
-      }
-    },
-    {
-      "id": "cms4xie76037xroa13kv3uglm",
-      "title": "Claude 发现加密算法弱点研究发布",
-      "title_en": "New Anthropic research： Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has…",
-      "url": "https://x.com/AnthropicAI/status/2082153297670992134",
-      "permalink": "https://aihot.virxact.com/items/cms4xie76037xroa13kv3uglm",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-07-28T17:16:45.000Z",
-      "discoveredAt": "2026-07-28T17:27:44.441Z",
-      "summary": "Anthropic 新研究：用 Claude 发现加密弱点。\n\nClaude Mythos 预览版已帮助我们的研究人员发现加密算法中的弱点--这些数学方法用于保护数据隐私。\n\n了解更多：https://anthropic.com/research/discovering-cryptographic-weaknesses",
-      "category": "paper",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms4xie76037xroa13kv3uglm"
-      }
     }
   ],
-  "cachedAt": "2026-08-04T03:34:18Z"
+  "cachedAt": "2026-08-04T06:39:10Z"
 }
