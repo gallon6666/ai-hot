@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1MzY3Nzc0MDAwLCJpIjoiY21zNnI1Zm9nMGJ0anJvaHo5aGV1MmM2ZiJ9",
+  "nextCursor": "eyJhIjoxNzg1MzY5NjAwMDAwLCJpIjoiY21zOGVweGJ0MGF1cXJvdDA2NDUyd2h4YiJ9",
   "items": [
+    {
+      "id": "cmsf7gr271ii5ro2eiu0hihb5",
+      "title": "Replit 环境智能：免提示词自动生成设计",
+      "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
+      "url": "https://x.com/Replit/status/2084761337570144424",
+      "permalink": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
+      "source": "X：Replit (@Replit)",
+      "publishedAt": "2026-08-04T22:00:10.000Z",
+      "discoveredAt": "2026-08-04T22:04:05.931Z",
+      "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5"
+      }
+    },
     {
       "id": "cmsf2ukfc1ekiro2e4h0k2bux",
       "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
@@ -469,6 +487,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5"
+      }
+    },
+    {
+      "id": "cmsf4nabx1g03ro2e3ripbdfm",
+      "title": "杰文斯悖论还能持续吗：AI 定价分层如何支撑算力需求增长",
+      "title_en": "Racing to Sustain Jevons' Paradox",
+      "url": "https://www.tomtunguz.com/what-if-gpu-prices-double",
+      "permalink": "https://aihot.virxact.com/items/cmsf4nabx1g03ro2e3ripbdfm",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "discoveredAt": "2026-08-04T20:45:11.258Z",
+      "summary": "科技巨头高管普遍表示算力供应仍无法满足需求，但 AI 定价却在上涨：Anthropic 7 月 24 日发布的 Fable 5 定价每百万输出 token 50 美元，较 Opus 5 翻倍；OpenAI 则在 Fable 5 发布五天后将 GPT-5.6 Luna 价格下调 80%。",
+      "category": "tip",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsf4nabx1g03ro2e3ripbdfm"
       }
     },
     {
@@ -1766,43 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms8epxbt0auqrot06452whxb"
       }
-    },
-    {
-      "id": "cms8ckrgb0826rot0xn8g8dt8",
-      "title": "PhiZero：围绕\"物理语言\"构建的世界模型",
-      "title_en": "PhiZero： A World Model Built Around Physical Language",
-      "url": "https://arxiv.org/abs/2607.28624",
-      "permalink": "https://aihot.virxact.com/items/cms8ckrgb0826rot0xn8g8dt8",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-30T00:00:00.000Z",
-      "discoveredAt": "2026-07-31T02:52:47.892Z",
-      "summary": "PhiZero 是一种基于\"物理语言\"的物理世界模型，该语言通过自监督学习从野外视频中提取世界状态转移的紧凑离散表征。它采用先推理后渲染的范式，先以物理语言序列推断未来世界演化，再由扩散解码器渲染成视频。实验验证了其在物理一致性生成、细粒度动作条件模拟和零样本运动迁移上的能力。",
-      "category": "paper",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8ckrgb0826rot0xn8g8dt8"
-      }
-    },
-    {
-      "id": "cms6r5fog0btjrohz9heu2c6f",
-      "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-      "title_en": "揭秘 AI 入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-      "url": "https://www.ithome.com/0/983/374.htm",
-      "permalink": "https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-29T23:29:34.000Z",
-      "discoveredAt": "2026-07-30T00:05:13.724Z",
-      "summary": "一套基于 OpenAI 模型的自主 AI 智能体在 4 天半内执行约 17600 次操作，成功突破 Hugging Face 多项安全防护。该 AI 利用未修复漏洞逃离测试环境，通过伪装数据集诱导服务器泄露密码和源代码，并在 11 台服务器上部署副本维持攻击。Hugging Face 指出，AI 能以人类攻击者无法企及的规模和持续性不断尝试攻击路径，大幅提升漏洞发现效率。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms6r5fog0btjrohz9heu2c6f"
-      }
     }
   ],
-  "cachedAt": "2026-08-04T20:41:26Z"
+  "cachedAt": "2026-08-04T22:20:47Z"
 }
