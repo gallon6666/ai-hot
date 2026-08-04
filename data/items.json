@@ -1,8 +1,80 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1MjcwNDM3MDAwLCJpIjoiY21zNTRoNjBkMDAzdHJvZWhiOXR2Z2wzeiJ9",
+  "nextCursor": "eyJhIjoxNzg1MjgzMjAwMDAwLCJpIjoiY21zNWRqZTIzMDIzNHJvN2N6djNvM3dhcCJ9",
   "items": [
+    {
+      "id": "cmsefnjpn0q20ro2el7g7lyjw",
+      "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+      "title_en": "Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
+      "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+      "permalink": "https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-04T08:57:47.000Z",
+      "discoveredAt": "2026-08-04T09:05:32.725Z",
+      "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。",
+      "category": "ai-products",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw"
+      }
+    },
+    {
+      "id": "cmseekz5g0oncro2ehfyz40ps",
+      "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
+      "title_en": "Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector， LangGraph， YARA Rules， SARIF， and CI Policy Gates",
+      "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+      "permalink": "https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-04T08:12:36.000Z",
+      "discoveredAt": "2026-08-04T08:35:32.487Z",
+      "summary": "本教程演示如何用 NVIDIA SkillSpector 评估 AI 技能的安全态势，构建包含干净、风险、恶意及 MCP 示例的合成技能市场，并通过 LangGraph 检查流水线扫描每个技能。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps"
+      }
+    },
+    {
+      "id": "cmsee1mhf0nn6ro2em6rt7tr4",
+      "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+      "title_en": "Hy ASR 3.0 preview发布：真正懂上下文的语音识别",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+      "permalink": "https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4",
+      "source": "公众号：腾讯混元",
+      "publishedAt": "2026-08-04T08:12:36.000Z",
+      "discoveredAt": "2026-08-04T08:20:31.023Z",
+      "summary": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。其在开源评测集中中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%，并支持上下文纠错、热词注入及高噪耳语等场景。该模型已上线腾讯云 API，元宝 App 首发并免费开放。",
+      "category": "ai-models",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4"
+      }
+    },
+    {
+      "id": "cmsebb0mc0kn1ro2ejvmi5lg8",
+      "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+      "title_en": "Show HN： 在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "permalink": "https://aihot.virxact.com/items/cmsebb0mc0kn1ro2ejvmi5lg8",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-04T06:32:44.149Z",
+      "discoveredAt": "2026-08-04T07:03:49.514Z",
+      "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
+      "category": "ai-products",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsebb0mc0kn1ro2ejvmi5lg8"
+      }
+    },
     {
       "id": "cmse7yrut0gupro2ejfet4a10",
       "title": "GPT-5.6 Luna降价80%永久生效",
@@ -847,6 +919,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms87droz020crot087s6upwp"
+      }
+    },
+    {
+      "id": "cmseazfg20k6gro2ezmd4a6qt",
+      "title": "DiffusionGemma 技术报告：基于离散扩散的高效文本生成模型",
+      "title_en": "DiffusionGemma Technical Report",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "permalink": "https://aihot.virxact.com/items/cmseazfg20k6gro2ezmd4a6qt",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-31T00:00:00.000Z",
+      "discoveredAt": "2026-07-31T00:00:00.000Z",
+      "summary": "DiffusionGemma 是一个实验性开源权重语言模型，通过离散扩散并行迭代精炼 256 个 token 的块，而非逐 token 解码，从而避免自回归模型的顺序解码瓶颈。",
+      "category": "paper",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmseazfg20k6gro2ezmd4a6qt"
       }
     },
     {
@@ -1712,97 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap"
       }
-    },
-    {
-      "id": "cms5a9tpy00utro7c9bw0s295",
-      "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
-      "title_en": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
-      "url": "https://x.com/thsottiaux/status/2082241164850364555",
-      "permalink": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295",
-      "source": "X：Tibo (@thsottiaux)",
-      "publishedAt": "2026-07-28T23:05:54.000Z",
-      "discoveredAt": "2026-07-28T23:24:59.020Z",
-      "summary": "更多开源福利。我们刚刚发布了一个 CLI 和 TypeScript SDK，用于查找、验证和修复代码中的安全漏洞。扫描仓库、审查变更、随时间追踪发现，并在 CI 中运行安全检查。\n\nhttps://github.com/openai/codex-security",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5a9tpy00utro7c9bw0s295"
-      }
-    },
-    {
-      "id": "cms588cro008aro7czwgcqs7e",
-      "title": "Anthropic 支持 AI 发展节奏请愿",
-      "title_en": "We support this petition， signed by our CEO， several co-founders， and senior staff. Our own resear…",
-      "url": "https://x.com/AnthropicAI/status/2082228994653696371",
-      "permalink": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-07-28T22:17:32.000Z",
-      "discoveredAt": "2026-07-28T22:27:51.621Z",
-      "summary": "我们支持这份请愿，我们的 CEO、多位联合创始人及高级员工均已签署。\n\n我们上月发表的关于递归自我改进的研究指出，需要借助工具审慎把控 AI 前沿的发展节奏，以便社会做好准备。我们很高兴看到该领域已达成广泛共识。https://www.pacingthefrontier.com/",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms588cro008aro7czwgcqs7e"
-      }
-    },
-    {
-      "id": "cms573utt01c4roeh702o8mxp",
-      "title": "OpenAI 失控模型二次入侵 Modal 客户",
-      "title_en": "OPENAI'S ROGUE MODEL HACKED A *SECOND* COMPANY AFTER ESCAPING \"The rogue agent that escaped from Op…",
-      "url": "https://x.com/AISafetyMemes/status/2082223372214448303",
-      "permalink": "https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
-      "publishedAt": "2026-07-28T21:55:12.000Z",
-      "discoveredAt": "2026-07-28T21:56:22.053Z",
-      "summary": "OpenAI 的 rogue agent 在逃离后，继攻击 Hugging Face，又入侵了第二家科技公司 Modal Labs 的客户。Modal CTO 确认，一名客户发布了未认证端点，被 rogue agent 利用执行代码，但 Modal 平台本身未被攻破。OpenAI 已因此暂停训练，以重新评估沙箱安全。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms573utt01c4roeh702o8mxp"
-      }
-    },
-    {
-      "id": "cms55zmt000i9roehhn1zqxw3",
-      "title": "OpenAI 呼吁为前沿AI发展设定节奏",
-      "title_en": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyo…",
-      "url": "https://x.com/OpenAI/status/2082208694142730340",
-      "permalink": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-07-28T20:56:52.000Z",
-      "discoveredAt": "2026-07-28T21:25:04.804Z",
-      "summary": "我们使命的核心，是研究如何确保日益强大的AI惠及所有人。\n\n我们相信，在未来的某个时刻，前沿模型开发的AI加速可能会如此之快，以至于世界需要为AI进步设定节奏。\n\n我们希望为美国政府主导的工作做出贡献，并与其他实验室及开源社区合作，开发能够实现这一目标的工具和机制。\n\nhttp://pacingthefrontier.com",
-      "category": "tip",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms55zmt000i9roehhn1zqxw3"
-      }
-    },
-    {
-      "id": "cms54h60d003troehb9tvgl3z",
-      "title": "Hugging Face 公开自主智能体网络攻击详情",
-      "title_en": "The first autonomous agent cyberattack is an unprecedented event that deserves unprecedented transpa…",
-      "url": "https://x.com/ClementDelangue/status/2082201245813514613",
-      "permalink": "https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "publishedAt": "2026-07-28T20:27:17.000Z",
-      "discoveredAt": "2026-07-28T20:42:43.993Z",
-      "summary": "首次自主智能体网络攻击是一次前所未有的事件，理应获得前所未有的透明度。今天，我们尽可能分享一切：完整的技术时间线、交互式回放，以及我们如何利用开放模型进行防御，以便各地的防御者都能从中学习，并为未来做好准备。\n\nhttps://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "category": "industry",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms54h60d003troehb9tvgl3z"
-      }
     }
   ],
-  "cachedAt": "2026-08-04T06:39:10Z"
+  "cachedAt": "2026-08-04T09:49:30Z"
 }
