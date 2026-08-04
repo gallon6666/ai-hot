@@ -1,8 +1,116 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1MjgzMjAwMDAwLCJpIjoiY21zNmk5cTJuMDQ0ZXJvaHp3Mnc4NzUwbSJ9",
+  "nextCursor": "eyJhIjoxNzg1MzIxMTQ2MDAwLCJpIjoiY21zZHU0ejNhMDE4dXJvZnpwYXdrOXNmaiJ9",
   "items": [
+    {
+      "id": "cmseq167s12m3ro2eas0pbc9y",
+      "title": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零",
+      "title_en": "How we built a software factory to drive Astro's GitHub issue count to zero",
+      "url": "https://blog.cloudflare.com/astro-issue-triage",
+      "permalink": "https://aihot.virxact.com/items/cmseq167s12m3ro2eas0pbc9y",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "discoveredAt": "2026-08-04T13:56:04.557Z",
+      "summary": "Cloudflare 在 Astro 仓库上运行自动化 triage 流水线，通过隔离的 AI 子代理复现、诊断并修复 bug，将开放 issue 从 200 多个降至约 30 个，预计下月归零。该流水线由 issue 标签驱动，修复后自动发布预览版本供用户验证。其底层引擎已发展为 Flue，一个开源的平台无关框架，用于构建持久化智能体与工作流。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmseq167s12m3ro2eas0pbc9y"
+      }
+    },
+    {
+      "id": "cmseq167s12m2ro2efhh7h5ia",
+      "title": "Cloudflare 让智能体通过本地追踪调试 Workers",
+      "title_en": "Your agent can now debug Workers with local tracing",
+      "url": "https://blog.cloudflare.com/local-tracing",
+      "permalink": "https://aihot.virxact.com/items/cmseq167s12m2ro2efhh7h5ia",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "discoveredAt": "2026-08-04T13:56:04.557Z",
+      "summary": "Cloudflare 即日起在 wrangler dev 和 vite dev 中自动为本地 Worker 调用捕获 OpenTelemetry 追踪，无需安装 SDK 或配置智能体。智能体可通过 Local Explorer API 查询追踪数据，定位失败操作、修复本地环境并验证结果。开发者也可在浏览器界面 Local Explorer 中可视化查看 spans、时序、错误及关联控制台日志。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmseq167s12m2ro2efhh7h5ia"
+      }
+    },
+    {
+      "id": "cmseq167r12m1ro2eqjsdn6wd",
+      "title": "Cloudflare 推出 Agents 平台，率先上线智能体追踪功能",
+      "title_en": "Introducing： Cloudflare Agents",
+      "url": "https://blog.cloudflare.com/agents-on-cloudflare",
+      "permalink": "https://aihot.virxact.com/items/cmseq167r12m1ro2eqjsdn6wd",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "discoveredAt": "2026-08-04T13:56:04.557Z",
+      "summary": "Cloudflare 推出 Cloudflare Agents，将部署在平台上的智能体会话统一到一个视图中，并率先上线 agent tracing 功能。该功能支持 OpenTelemetry 兼容的 Think、Flue 和 AI SDK 等智能体框架，可测量每次模型调用、工具执行和 token 消耗。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmseq167r12m1ro2eqjsdn6wd"
+      }
+    },
+    {
+      "id": "cmseq167r12lzro2ecc1f23gs",
+      "title": "Cloudflare 推出 CI SDK：在 Cloudflare 上为百万级仓库运行 CI/CD 流水线",
+      "title_en": "Run CI/CD for millions of repos - on your platform， on Cloudflare",
+      "url": "https://blog.cloudflare.com/ci-workflows",
+      "permalink": "https://aihot.virxact.com/items/cmseq167r12lzro2ecc1f23gs",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "discoveredAt": "2026-08-04T13:56:04.557Z",
+      "summary": "Cloudflare 推出基于 Workflows 和 Sandbox SDK 的 CI SDK，让平台方直接在 Cloudflare 上运行 CI/CD 流水线，支持构建、lint、类型检查、单元测试、依赖缓存及条件部署。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmseq167r12lzro2ecc1f23gs"
+      }
+    },
+    {
+      "id": "cmseq167r12lxro2erzimnhk2",
+      "title": "Cloudflare 推出 Agent Development Lifecycle，让智能体接管更多软件开发生命周期",
+      "title_en": "The Agent Development Lifecycle has arrived on Cloudflare",
+      "url": "https://blog.cloudflare.com/agent-development-lifecycle",
+      "permalink": "https://aihot.virxact.com/items/cmseq167r12lxro2erzimnhk2",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "discoveredAt": "2026-08-04T13:56:04.557Z",
+      "summary": "Cloudflare 宣布推出 Agent Development Lifecycle（ADLC），以取代传统 SDLC，让 AI 智能体从仅生成代码扩展到承担更多开发流程。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmseq167r12lxro2erzimnhk2"
+      }
+    },
+    {
+      "id": "cmseo63z710lvro2eblsf93az",
+      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+      "title_en": null,
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "permalink": "https://aihot.virxact.com/items/cmseo63z710lvro2eblsf93az",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-04T12:56:45.712Z",
+      "discoveredAt": "2026-08-04T13:03:55.521Z",
+      "summary": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmseo63z710lvro2eblsf93az"
+      }
+    },
     {
       "id": "cmsek09wz0vq7ro2eayzzt3uq",
       "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
@@ -1694,115 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdu4z3a018urofzpawk9sfj"
       }
-    },
-    {
-      "id": "cms5htk9l004nros5wi94l4eh",
-      "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
-      "title_en": "在 M1 Max 上运行 Kimi K3",
-      "url": "https://github.com/gavamedia/deltafin",
-      "permalink": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-29T02:49:20.833Z",
-      "discoveredAt": "2026-07-29T02:56:17.464Z",
-      "summary": "Deltafin 项目成功在 64 GB M1 Max 上运行了 2.8T 参数的 MoE 模型 Kimi K3，当前中位推理速度为 0.0687 token/s（14.6 秒/token）。完整安装需约 1.7 TB 本地磁盘，流式模式仅需 215 GB 但推理速度降至 3 分钟以上/token。项目提供 OpenAI 兼容 API 服务器，支持聊天和代码补全，但建议客户端超时设为小时级别。",
-      "category": "ai-products",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh"
-      }
-    },
-    {
-      "id": "cms5dugag02amro7cjrfedsz9",
-      "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-      "title_en": "上千名员工呼吁美国政府控制 AI 发展，OpenAI CEO 奥尔特曼表态",
-      "url": "https://www.ithome.com/0/982/816.htm",
-      "permalink": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-29T00:20:32.000Z",
-      "discoveredAt": "2026-07-29T01:05:00.346Z",
-      "summary": "OpenAI、Anthropic、谷歌和Meta等公司的1100多名AI员工签署公开信，呼吁美国政府支持国际合作，以\"有意识地把控自动化AI开发的前沿进程\"。该倡议名为\"把控前沿\"，重点关注AI未来可能自行开发和改进AI系统的\"递归式自我改进\"能力。OpenAI CEO萨姆·奥尔特曼在播客采访中表示，可能需要\"把控\"AI发展速度，让社会有时间建立防护机制。",
-      "category": "industry",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9"
-      }
-    },
-    {
-      "id": "cms5k3il000narobkhjrg843v",
-      "title": "我的Claude账号被封了",
-      "title_en": "今天，我的Claude也被封号了。",
-      "url": "https://mp.weixin.qq.com/s/Sb4YYeEYsBAAczDo8n41UA",
-      "permalink": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-29T00:06:00.000Z",
-      "discoveredAt": "2026-07-29T04:00:00.720Z",
-      "summary": "Anthropic因支付系统SEPA验证漏洞引发\"零元购\"事件，随后大规模回收漏洞账号并封禁关联账户，作者自用半年多的账号于7月29日被封。作者认为当前已非Claude一家独大，推荐编程用户使用Kimi K3和GPT-5.6 Sol，办公用户选择WorkBuddy+Kimi K3，并指出国产模型已凭二十分之一算力摸到第一梯队。",
-      "category": "tip",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v"
-      }
-    },
-    {
-      "id": "cms73a7ha0012ro8wknjunnhb",
-      "title": "微软转售前沿：Azure 年营收破千亿但增速被 Google Cloud 反超",
-      "title_en": "Microsoft Resells the Frontier",
-      "url": "https://www.tomtunguz.com/microsoft-resells-the-frontier",
-      "permalink": "https://aihot.virxact.com/items/cms73a7ha0012ro8wknjunnhb",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-07-29T00:00:00.000Z",
-      "discoveredAt": "2026-07-30T05:44:51.943Z",
-      "summary": "Azure 上财年营收首破 1000 亿美元，同比增长 43%，但 Google Cloud 增速达 82%，几乎是 Azure 的两倍。Google 拥有自研模型与芯片，云运营利润率从 20.7% 扩至 35.6%；微软则主要依赖英伟达商用芯片，且 6780 亿美元合同 backlog 中近半数来自 OpenAI 单一客户。",
-      "category": "tip",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms73a7ha0012ro8wknjunnhb"
-      }
-    },
-    {
-      "id": "cms6x4iu80273rouqra49hny9",
-      "title": "AI 智能体能否进行开放式 AI 研究？两项案例的早期证据",
-      "title_en": "Can AI agents conduct open-ended AI research？ Early evidence from two case studies",
-      "url": "https://arxiv.org/abs/2607.27191",
-      "permalink": "https://aihot.virxact.com/items/cms6x4iu80273rouqra49hny9",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-29T00:00:00.000Z",
-      "discoveredAt": "2026-07-30T02:52:29.161Z",
-      "summary": "一项新研究通过\"影子评估\"测试前沿 AI 智能体能否独立完成开放式 AI 研究。智能体在六天和数千美元算力下完成了全部工程任务，但未能对两项未发表的 NeurIPS 2026 论文的核心研究问题取得实质性进展，被原作者明确拒稿。研究识别出五大失败模式，包括对发表标准判断不足、研究设计缺乏创意、无法有效回溯死胡同、资源意识差和指令漂移。",
-      "category": "paper",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms6x4iu80273rouqra49hny9"
-      }
-    },
-    {
-      "id": "cms6i9q2n044erohzw2w8750m",
-      "title": "GPT-5.6 如何融合前沿智能与效率",
-      "title_en": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "permalink": "https://aihot.virxact.com/items/cms6i9q2n044erohzw2w8750m",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-29T00:00:00.000Z",
-      "discoveredAt": "2026-07-29T19:56:37.911Z",
-      "summary": "OpenAI 推出 GPT-5.6 模型家族，旗舰版 GPT-5.6 Sol 在开启最大推理时以不到一半的成本超越 Claude Fable 5 的 Artificial Analysis Coding Agent Index 得分。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms6i9q2n044erohzw2w8750m"
-      }
     }
   ],
-  "cachedAt": "2026-08-04T12:17:04Z"
+  "cachedAt": "2026-08-04T14:40:55Z"
 }
