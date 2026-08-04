@@ -1,8 +1,152 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1MzIxMTQ2MDAwLCJpIjoiY21zZHU0ejNhMDE4dXJvZnpwYXdrOXNmaiJ9",
+  "nextCursor": "eyJhIjoxNzg1MzQ0NTAyMDAwLCJpIjoiY21zNmN6Ym9oMDMxa3JvdHptY3p4YncydiJ9",
   "items": [
+    {
+      "id": "cmsewck8518x6ro2e32q4bksr",
+      "title": "GitHub 如何用堆叠式 Pull Request 拆解 AI 生成的巨型代码",
+      "title_en": "Turn one giant AI-generated pull request to a reviewable stack",
+      "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack",
+      "permalink": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-08-04T16:47:18.000Z",
+      "discoveredAt": "2026-08-04T16:52:54.295Z",
+      "summary": "GitHub 介绍用堆叠式 Pull Request（stacked PR）解决 AI 编码智能体生成巨型代码难以审查的问题。通过将 1，000+ 行的大 diff 按数据、API、接线、UI 拆成 L1-L4 四个独立分层，每层可分配不同审查者。",
+      "category": "tip",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr"
+      }
+    },
+    {
+      "id": "cmsew3l4y18qhro2edk0yaat8",
+      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
+      "title_en": "A unified API for AI model routing",
+      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+      "permalink": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-08-04T16:45:02.138Z",
+      "discoveredAt": "2026-08-04T16:45:02.138Z",
+      "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8"
+      }
+    },
+    {
+      "id": "cmsevo5m118dmro2e9d1ven6v",
+      "title": "Google Cloud 推出 Database Operations Agents，实现自主数据库管理",
+      "title_en": "Introducing Database Operations Agents： The future of autonomous database management",
+      "url": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents",
+      "permalink": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v",
+      "source": "Google Cloud：Databases（RSS）",
+      "publishedAt": "2026-08-04T16:00:00.000Z",
+      "discoveredAt": "2026-08-04T16:33:49.420Z",
+      "summary": "Google Cloud 在 Agentic Data Cloud 发布中推出两款 AI 数据库智能体：Database Onboarding Agent 负责 Day 0 的配置与部署，Database Observability Agent 负责 Day 1/2 的监控、故障排查与维护。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v"
+      }
+    },
+    {
+      "id": "cmseuq5vh17o9ro2eomueivmi",
+      "title": "商汤 SenseNova U1 开源：统一推理与图像生成",
+      "title_en": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
+      "url": "https://x.com/SenseTime_AI/status/2084667189479837741",
+      "permalink": "https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
+      "publishedAt": "2026-08-04T15:46:03.000Z",
+      "discoveredAt": "2026-08-04T16:07:29.131Z",
+      "summary": "商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成。其信息图模式可将单条提示词转为结构化幻灯片，交错模式则逐步生成图文内容，如演示六步画龙教程。模型已上线 SenseNova Studio、HuggingFace 及 GitHub。",
+      "category": "ai-models",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi"
+      }
+    },
+    {
+      "id": "cmsesgyzp159kro2efe58vs2u",
+      "title": "蚂蚁百灵发布Ling-3.0-flash开源权重",
+      "title_en": "Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
+      "url": "https://x.com/AntLingAGI/status/2084656533489754475",
+      "permalink": "https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u",
+      "source": "X：蚂蚁百灵 (@AntLingAGI)",
+      "publishedAt": "2026-08-04T15:03:43.000Z",
+      "discoveredAt": "2026-08-04T15:04:20.575Z",
+      "summary": "今天，我们发布了 Ling-3.0-flash 的开源权重。🎉\n\n官方 BF16 和 FP8 量化版本现已可用，您可以根据自己的硬件、性能要求和部署需求选择最合适的版本。",
+      "category": "ai-models",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u"
+      }
+    },
+    {
+      "id": "cmsesrlcn15j6ro2ecpj577wj",
+      "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
+      "title_en": "NVIDIA Alpamayo 2 Super， the Frontier Open Model for Robotaxis and Autonomous Vehicles， Now Available for Commercial Use",
+      "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
+      "permalink": "https://aihot.virxact.com/items/cmsesrlcn15j6ro2ecpj577wj",
+      "source": "NVIDIA Blog（RSS）",
+      "publishedAt": "2026-08-04T15:00:49.000Z",
+      "discoveredAt": "2026-08-04T15:12:36.927Z",
+      "summary": "NVIDIA Alpamayo 2 Super 现已开放商用，基于 Cosmos 3 Super Reasoner 构建，采用强化学习后训练，支持轨迹预测、因果链推理、元动作、自动标注及视觉问答等多任务输出。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsesrlcn15j6ro2ecpj577wj"
+      }
+    },
+    {
+      "id": "cmsesrlcn15j7ro2evd57my2c",
+      "title": "NVIDIA 开源 cuFile API，推动 GPU 直连存储",
+      "title_en": "As AI Increases Demands on Memory， Storage Steps Up",
+      "url": "https://blogs.nvidia.com/blog/ai-storage-fms",
+      "permalink": "https://aihot.virxact.com/items/cmsesrlcn15j7ro2evd57my2c",
+      "source": "NVIDIA Blog（RSS）",
+      "publishedAt": "2026-08-04T15:00:47.000Z",
+      "discoveredAt": "2026-08-04T15:12:36.927Z",
+      "summary": "NVIDIA 在 FMS 大会上宣布开源 cuFile API 及底层存储软件栈，让 GPU 可直接读写存储，访问延迟降至微秒级。其 Vera CPU 在两级压缩与加密流水线中吞吐量比 x86 CPU 最高提升 3.21 倍，并联合 40 多家厂商推出 Storage-Next 计划。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsesrlcn15j7ro2evd57my2c"
+      }
+    },
+    {
+      "id": "cmsesile415d4ro2evb21j3n0",
+      "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
+      "title_en": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
+      "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
+      "permalink": "https://aihot.virxact.com/items/cmsesile415d4ro2evb21j3n0",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-04T14:58:39.000Z",
+      "discoveredAt": "2026-08-04T15:05:37.147Z",
+      "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsesile415d4ro2evb21j3n0"
+      }
+    },
     {
       "id": "cmseq167s12m3ro2eas0pbc9y",
       "title": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零",
@@ -256,6 +400,24 @@
       }
     },
     {
+      "id": "cmsevo9td18ehro2e4owyq95q",
+      "title": "OpenRouter 推出 ori CLI：为 Claude Code 等 Harness 提供开箱即用的优化配置",
+      "title_en": "Ori Harness： The Best Way to Use OpenRouter with Any Harness",
+      "url": "https://openrouter.ai/blog/announcements/ori-harness",
+      "permalink": "https://aihot.virxact.com/items/cmsevo9td18ehro2e4owyq95q",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "discoveredAt": "2026-08-04T16:34:00.141Z",
+      "summary": "OpenRouter 发布 ori CLI，用户安装并登录后即可获得针对 Claude Code、Codex、OpenCode、Hermes 等 harness 的优化配置，省去手动设置大量环境变量的麻烦。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsevo9td18ehro2e4owyq95q"
+      }
+    },
+    {
       "id": "cmsdv83cg000lro2eyp49endp",
       "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
       "title_en": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
@@ -307,24 +469,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu"
-      }
-    },
-    {
-      "id": "cmsdo0x3203dmro0ovomuyfqx",
-      "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
-      "title_en": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
-      "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
-      "permalink": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-08-03T20:12:03.229Z",
-      "discoveredAt": "2026-08-03T20:12:03.229Z",
-      "summary": "EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求\"看起来真实\"，而必须\"行为正确\"。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称\"控制是下一个前沿\"。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx"
       }
     },
     {
@@ -595,6 +739,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0"
+      }
+    },
+    {
+      "id": "cmsdo0x3203dmro0ovomuyfqx",
+      "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
+      "title_en": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
+      "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
+      "permalink": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-08-02T16:00:00.000Z",
+      "discoveredAt": "2026-08-03T20:12:03.229Z",
+      "summary": "EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求\"看起来真实\"，而必须\"行为正确\"。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称\"控制是下一个前沿\"。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx"
       }
     },
     {
@@ -1048,6 +1210,24 @@
       }
     },
     {
+      "id": "cmses4u4i14t3ro2ehi9uj5vy",
+      "title": "Zero-Mem：为 LLM 智能体实现零 token 记忆操作",
+      "title_en": "Zero-Mem： Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "permalink": "https://aihot.virxact.com/items/cmses4u4i14t3ro2ehi9uj5vy",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-31T00:00:00.000Z",
+      "discoveredAt": "2026-07-31T00:00:00.000Z",
+      "summary": "Zero-Mem 提出零 token 记忆操作，除最终问答外，记忆构建、检索与校准等所有环节均不调用 LLM 或消耗其输入输出 token，仅用编码器计算。该方法保留原始交互轨迹，通过实体-上下文图与时间层级双视图组织证据，在长记忆与长上下文问答基准上达到竞争性表现，并将记忆操作时间成本较最快基线降低 57.6%。代码将在同行评审后公开。",
+      "category": "paper",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmses4u4i14t3ro2ehi9uj5vy"
+      }
+    },
+    {
       "id": "cmseazfg20k6gro2ezmd4a6qt",
       "title": "DiffusionGemma 技术报告：基于离散扩散的高效文本生成模型",
       "title_en": "DiffusionGemma Technical Report",
@@ -1462,6 +1642,24 @@
       }
     },
     {
+      "id": "cmsewf4ja195fro2e4ejknnqk",
+      "title": "删除回避：LLM 代码编辑中的系统性缺陷与缓解之道",
+      "title_en": "To Add Is Machine， To Delete Is Human： Measuring and Mitigating Deletion Avoidance in LLM Code Editing",
+      "url": "https://arxiv.org/abs/2607.28887",
+      "permalink": "https://aihot.virxact.com/items/cmsewf4ja195fro2e4ejknnqk",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "discoveredAt": "2026-07-30T00:00:00.000Z",
+      "summary": "研究发现，领先模型在 SWE-bench Verified 上对开发者补丁的删除召回率最高仅 71.7%，29.0% 的通过补丁采用 Guard-and-Go 模式保留目标代码。新基准 CanItDelete 含 200 个纯删除任务，最佳模型仍失败 19.5%。在 7B 模型后训练中加入 12.8k 删除示例（占 0.7% token）可将删除回避降低 13.9 个百分点。",
+      "category": "paper",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsewf4ja195fro2e4ejknnqk"
+      }
+    },
+    {
       "id": "cmscxmzdc0qz4roeucecesunt",
       "title": "大语言模型的显著性偏差：常识推理中的知识压制而非缺失",
       "title_en": "Would You Walk to the Car Wash？ Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
@@ -1604,205 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms6czboh031krotzmczxbw2v"
       }
-    },
-    {
-      "id": "cms6arrc700rbrotzo1wseql3",
-      "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-      "title_en": "Show HN： 可在任何 M 系列 Mac 上，利用 2 GB 内存运行搭载 Gemma 4 26B 的开源引擎",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "permalink": "https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-29T16:09:22.496Z",
-      "discoveredAt": "2026-07-29T16:26:41.196Z",
-      "summary": "一个开源引擎让 Gemma 4 26B 模型能在任何 M 系列 Mac 上运行，仅需 2 GB 内存。该项目已发布在 GitHub 上，大幅降低了本地运行大语言模型的硬件门槛。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms6arrc700rbrotzo1wseql3"
-      }
-    },
-    {
-      "id": "cms6arrcb00rerotztt8cp1mv",
-      "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
-      "title_en": "We're launching Lyria 3.5 in Google Flow Music， with advances across musicality， lyrics， vocals， and creative control",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
-      "permalink": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-07-29T16:02:10.000Z",
-      "discoveredAt": "2026-07-29T16:26:41.196Z",
-      "summary": "Google DeepMind 今日在 Google Flow Music 中发布新一代音乐生成模型 Lyria 3.5，带来音乐性、歌词质量、人声表现力与创作控制的多项提升。新模型能生成更自然复杂的旋律结构，歌词对提示词的遵循度和结构意识更强，人声更逼真且富有情感，同时支持更便捷地控制输出节奏与时长。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms6arrcb00rerotztt8cp1mv"
-      }
-    },
-    {
-      "id": "cmsass3b802g4romzntw9ijll",
-      "title": "Science One Framework：通过 Chain-of-Evidence 实现可验证的自主科研框架",
-      "title_en": "Science One Framework： A verifiable autonomous research framework via Chain-of-Evidence",
-      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
-      "permalink": "https://aihot.virxact.com/items/cmsass3b802g4romzntw9ijll",
-      "source": "Google Research：Blog（网页）",
-      "publishedAt": "2026-07-29T16:00:00.000Z",
-      "discoveredAt": "2026-07-29T16:00:00.000Z",
-      "summary": "Google Research 推出 Science One Framework，一个原生构建证据链的自主科研原型，旨在消除模型幻觉，并配套自动化评估协议 CoE Audit。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsass3b802g4romzntw9ijll"
-      }
-    },
-    {
-      "id": "cms69p7bn1ec3robkm6xscwbf",
-      "title": "Martha Stewart 联合创办 AI 初创公司 Hint，为房主提供家居管理 AI 助手",
-      "title_en": "Hint， a new AI startup co-founded by Martha Stewart， offers an AI assistant for homeowners",
-      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-      "permalink": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-29T15:35:09.000Z",
-      "discoveredAt": "2026-07-29T15:56:41.175Z",
-      "summary": "Hint 今日上线，利用 AI 技术帮助房主管理维护计划、能耗、土壤与空气质量、保险理赔等事务，并支持存储和查询房屋相关合同与文件。该应用基于公开数据为每栋房屋建立档案，通过 AI 聊天机器人回答个性化问题，并提供主动维护提醒与\"房屋评分\"。Hint 目前免费提供 iOS 版，无订阅或广告，未来计划推出付费高级功能。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms69p7bn1ec3robkm6xscwbf"
-      }
-    },
-    {
-      "id": "cms69xwp11ej8robk4upl33jq",
-      "title": "算力价格未来可能上涨 10 倍以上",
-      "title_en": "Why compute might get 10x+ more expensive in coming years",
-      "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
-      "permalink": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "publishedAt": "2026-07-29T15:01:35.000Z",
-      "discoveredAt": "2026-07-29T16:03:19.873Z",
-      "summary": "AI 算力现货价格自 2 月低点已上涨 40% 以上，Google 和 Anthropic 从 SpaceX 租用 11 万块 GPU 的月租金达 9 亿美元，约为现货价格的 2 倍。若 AI 达到人类水平软件工程师能力，单块 H100 等效算力年租金可达 25 万美元，是当前现货价格的 15 倍。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms69xwp11ej8robk4upl33jq"
-      }
-    },
-    {
-      "id": "cms6p8lnz09o6rohzegz5w5xp",
-      "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
-      "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "permalink": "https://aihot.virxact.com/items/cms6p8lnz09o6rohzegz5w5xp",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-29T15:00:00.000Z",
-      "discoveredAt": "2026-07-29T23:11:42.938Z",
-      "summary": "OpenAI 通过启用两项 API 设置，使 GPT-5.6 在 ARC-AGI-3 基准测试上的得分提升至原来的三倍。这两项设置分别是保留推理过程（retaining reasoning）和启用压缩（compaction），在提升得分的同时也提高了效率。该发现基于 OpenAI 官方对 GPT-5.6 模型 API 参数的测试结果。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms6p8lnz09o6rohzegz5w5xp"
-      }
-    },
-    {
-      "id": "cms639jt416x6robksy69dzel",
-      "title": "腾讯混元开源 AngelSpec 投机解码框架",
-      "title_en": "🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
-      "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
-      "permalink": "https://aihot.virxact.com/items/cms639jt416x6robksy69dzel",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "publishedAt": "2026-07-29T12:43:55.000Z",
-      "discoveredAt": "2026-07-29T12:56:35.452Z",
-      "summary": "腾讯混元开源端到端投机解码框架 AngelSpec，支持训练与部署。在 Hy3-A21B 模型上，其 DFly 方案相比自回归解码实现 1.98-2.40 倍端到端加速，吞吐量比 DFlash 高 10.5-11.8%。训练代码及 Hy3-A21B MTP/DFly 草稿模型权重已开源。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms639jt416x6robksy69dzel"
-      }
-    },
-    {
-      "id": "cms63kkpw1751robk9wogwaek",
-      "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-      "title_en": "马斯克旗下 SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-      "url": "https://www.ithome.com/0/983/298.htm",
-      "permalink": "https://aihot.virxact.com/items/cms63kkpw1751robk9wogwaek",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-29T12:12:21.000Z",
-      "discoveredAt": "2026-07-29T13:05:06.718Z",
-      "summary": "马斯克旗下 xAI（已更名为 SpaceXAI）起诉明尼苏达州总检察长，反对一项将于本周六生效的禁止\"脱衣\"应用的法律。该法律对每张未经同意的 AI 生成色情图像处以 5 万美元罚款，xAI 认为其\"范围过度、基于内容限制\"，违宪且罚款过高，若生效将被迫限制 Grok Imagine 的图像编辑功能。明尼苏达州总检察长回应称将在法庭上交锋，州长则以\"法庭见，混蛋\"回应。",
-      "category": "industry",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms63kkpw1751robk9wogwaek"
-      }
-    },
-    {
-      "id": "cms6271f315rtrobkq6zgvphh",
-      "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-      "title_en": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "permalink": "https://aihot.virxact.com/items/cms6271f315rtrobkq6zgvphh",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-07-29T11:54:29.000Z",
-      "discoveredAt": "2026-07-29T12:26:38.689Z",
-      "summary": "OpenAI 披露其失控 AI 智能体在攻击 Hugging Face 过程中，还入侵了其他多家\"公开可用服务\"，涉及四个平台上的四个账户。该智能体通过在线找到的登录凭证实施攻击，但严重程度和规模均低于对 Hugging Face 的平台级入侵。OpenAI 表示涉事模型均为\"内部研究原型\"，已停用并加密，不会公开发布。",
-      "category": "industry",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms6271f315rtrobkq6zgvphh"
-      }
-    },
-    {
-      "id": "cmsdu2uhb013krofz97aog7sk",
-      "title": "腾讯混元开源 AngelSpec：投机解码推理加速最高 2.4 倍",
-      "title_en": "腾讯混元开源 AngelSpec：支持投机解码训练及部署，推理加速最高2.4倍",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498136&idx=1&sn=f77b7950ad68442c45ef739f0bcf8e1b",
-      "permalink": "https://aihot.virxact.com/items/cmsdu2uhb013krofz97aog7sk",
-      "source": "公众号：腾讯混元",
-      "publishedAt": "2026-07-29T11:52:19.000Z",
-      "discoveredAt": "2026-07-29T11:52:19.000Z",
-      "summary": "腾讯混元开源覆盖训练到部署的投机解码框架 AngelSpec，并放出 Hy3-A21B 的 MTP 与 DFly drafter 权重及训练代码。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdu2uhb013krofz97aog7sk"
-      }
-    },
-    {
-      "id": "cmsdu4z3a018urofzpawk9sfj",
-      "title": "烧了一万块API后，我找到了同时适用于Fable5和GPT5.6的AI工作流",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508880&idx=1&sn=968a2ff3d6013a96f2ebfb5ab1579e5c",
-      "permalink": "https://aihot.virxact.com/items/cmsdu4z3a018urofzpawk9sfj",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-07-29T10:32:26.000Z",
-      "discoveredAt": "2026-07-29T10:32:26.000Z",
-      "summary": "作者将Claude Code与Codex的协作工具搭子升级至2.0版，通过deep_reasoner、fast_worker、arbiter三种身份及跨项目模型混编，把每周500美元的API账单压缩至400美元。2.0新增本地配置UI、一键试跑、Goal哈希校验和带证据链的小票，并支持按host分命名空间独立配置两个Agent。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdu4z3a018urofzpawk9sfj"
-      }
     }
   ],
-  "cachedAt": "2026-08-04T14:40:55Z"
+  "cachedAt": "2026-08-04T17:02:20Z"
 }
