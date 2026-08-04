@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1MjgzMjAwMDAwLCJpIjoiY21zNWRqZTIzMDIzNHJvN2N6djNvM3dhcCJ9",
+  "nextCursor": "eyJhIjoxNzg1MjgzMjAwMDAwLCJpIjoiY21zNmk5cTJuMDQ0ZXJvaHp3Mnc4NzUwbSJ9",
   "items": [
+    {
+      "id": "cmsek09wz0vq7ro2eayzzt3uq",
+      "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+      "title_en": "工信部：《智能网联汽车自动驾驶系统安全要求》发布实施，为自动驾驶产品明确统一安全准入基线",
+      "url": "https://www.ithome.com/0/985/665.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-04T11:06:29.000Z",
+      "discoveredAt": "2026-08-04T11:07:21.454Z",
+      "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
+      "category": "industry",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq"
+      }
+    },
     {
       "id": "cmsefnjpn0q20ro2el7g7lyjw",
       "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms6i9q2n044erohzw2w8750m"
       }
-    },
-    {
-      "id": "cms5dje230234ro7czv3o3wap",
-      "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-      "title_en": "Using OpenRouter With LangChain： ChatOpenRouter Setup Guide",
-      "url": "https://openrouter.ai/blog/tutorials/langchain-chatopenrouter-setup",
-      "permalink": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-07-29T00:00:00.000Z",
-      "discoveredAt": "2026-07-29T00:56:24.557Z",
-      "summary": "OpenRouter 发布了 langchain-openrouter（Python）和 @langchain/openrouter（TypeScript）专用包，让 LangChain 应用无需改造即可调用 400+ 模型和 70+ 提供商。ChatOpenRouter 自动处理负载均衡与故障切换，切换模型只需修改 `provider/model` 格式的字符串。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap"
-      }
     }
   ],
-  "cachedAt": "2026-08-04T09:49:30Z"
+  "cachedAt": "2026-08-04T12:17:04Z"
 }
