@@ -4,39 +4,39 @@
   "nextCursor": "eyJhIjoxNzg1NDU2MDAwMDAwLCJpIjoiY21zZGN4ZDNhMDB3bHJvdGo3cThpZXhuYSJ9",
   "items": [
     {
-      "id": "cmsgenhrx03kzro5qbgdew7mh",
-      "title": "Jeff Dean 告别谷歌，联合创立 DiscoLoopAI",
-      "title_en": "Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
-      "url": "https://x.com/JeffDean/status/2085059187437113387",
-      "permalink": "https://aihot.virxact.com/items/cmsgenhrx03kzro5qbgdew7mh",
-      "source": "X：Jeff Dean (@JeffDean)",
-      "publishedAt": "2026-08-05T17:43:43.000Z",
-      "discoveredAt": "2026-08-05T18:13:03.623Z",
-      "summary": "Jeff Dean 宣布明天将离开工作 27 年的谷歌，期间公司从 25 人成长为 19 万+员工。他将与长期同事 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 共同创立 DiscoLoopAI。",
-      "category": "industry",
-      "score": 78,
+      "id": "cmsgiawmi06n8ro5qttsxdlib",
+      "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
+      "title_en": "One-shotting a Raccoon Heist game using Claude Fable 5",
+      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
+      "permalink": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-08-05T19:42:38.000Z",
+      "discoveredAt": "2026-08-05T19:55:15.197Z",
+      "summary": "Simon Willison 将 2022 年 GPT-3 和 DALL-E 生成的游戏概念与截图输入 Claude Fable 5（运行于 Claude Code for web），成功构建出可玩的 3D 浏览器游戏。",
+      "category": "tip",
+      "score": 70,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsgenhrx03kzro5qbgdew7mh"
+        "canonical": "https://aihot.virxact.com/items/cmsgiawmi06n8ro5qttsxdlib"
       }
     },
     {
-      "id": "cmsgdg9kp028xro5q1nytnbvm",
-      "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
-      "title_en": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
-      "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
-      "permalink": "https://aihot.virxact.com/items/cmsgdg9kp028xro5q1nytnbvm",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-05T17:26:53.000Z",
-      "discoveredAt": "2026-08-05T17:39:25.980Z",
-      "summary": "Google DeepMind 迎来重大领导层调整，Demis Hassabis 卸任日常管理、出任 Alphabet 首席科学家，Jeff Dean 在任职 27 年后离职创办 Discovery Loop。",
+      "id": "cmsghv9m1066ero5qffm5675t",
+      "title": "Jeff Dean 宣布离开谷歌，创办 DiscoLoop AI",
+      "title_en": "Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
+      "url": "https://x.com/JeffDean/status/2085083442669318443",
+      "permalink": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t",
+      "source": "X：Jeff Dean (@JeffDean)",
+      "publishedAt": "2026-08-05T19:20:06.000Z",
+      "discoveredAt": "2026-08-05T19:43:05.068Z",
+      "summary": "Jeff Dean 在谷歌任职 27 年后宣布离职，将于明日正式离开。他称谷歌已从 25 人发展到 19 万余人，拥有十三款用户超十亿的产品。他将与 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 共同创办 DiscoLoop AI。",
       "category": "industry",
-      "score": 76,
+      "score": 81,
       "selected": true,
       "attribution": {
         "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsgdg9kp028xro5q1nytnbvm"
+        "canonical": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t"
       }
     },
     {
@@ -1804,5 +1804,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-05T18:47:54Z"
+  "cachedAt": "2026-08-05T20:38:19Z"
 }
