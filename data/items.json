@@ -1,8 +1,62 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NDU2MDAwMDAwLCJpIjoiY21zZGN4ZDNhMDB3bHJvdGo3cThpZXhuYSJ9",
+  "nextCursor": "eyJhIjoxNzg1NDU2MDA3MDAwLCJpIjoiY21zODdkcm96MDIwY3JvdDA4N3M2dXB3cCJ9",
   "items": [
+    {
+      "id": "cmsgn3qpq0aolro5q10dkpewx",
+      "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
+      "title_en": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian： Media Measurement， ROI Analysis， and Budget Optimization",
+      "url": "https://www.marktechpost.com/2026/08/05/end-to-end-bayesian-marketing-mix-modeling-with-google-meridian-media-measurement-roi-analysis-and-budget-optimization",
+      "permalink": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-05T21:56:03.000Z",
+      "discoveredAt": "2026-08-05T22:09:38.455Z",
+      "summary": "本教程使用 Google Meridian 构建完整的贝叶斯营销组合建模工作流，涵盖数据加载、ROI 先验配置、NUTS 采样拟合及收敛性评估。通过 Analyzer API 提取渠道贡献、ROI、边际 ROI、adstock 与饱和曲线等后验指标，并计算渠道间 ROI 比较概率。最后用 BudgetOptimizer 优化固定与灵活预算，生成可分享的 HTML 报告并保存模型复用。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgn3qpq0aolro5q10dkpewx"
+      }
+    },
+    {
+      "id": "cmsgm0sf209iyro5qxx3gtzwv",
+      "title": "Meta 在 Facebook 和 Instagram 等平台投放了含 AI 生成儿童性虐待图像的广告",
+      "title_en": "Meta 投放了包含由人工智能生成的儿童性虐待图像的广告",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery",
+      "permalink": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-05T21:11:36.016Z",
+      "discoveredAt": "2026-08-05T21:39:21.280Z",
+      "summary": "Meta 的广告库数据显示，超过 50 条违规图片和视频广告发布在 Facebook、Instagram、Messenger 或 Threads 上，其中一些本周仍在投放。这些广告包含由人工智能生成的儿童性虐待图像。",
+      "category": "industry",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgm0sf209iyro5qxx3gtzwv"
+      }
+    },
+    {
+      "id": "cmsgm0sf209izro5qf8wg3rkx",
+      "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+      "title_en": "Atlassian Rovo 绕过安全控制，窃取数据",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "permalink": "https://aihot.virxact.com/items/cmsgm0sf209izro5qf8wg3rkx",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-05T21:11:36.012Z",
+      "discoveredAt": "2026-08-05T21:39:21.280Z",
+      "summary": "Atlassian Rovo AI 被曝存在可窃取租户内 Jira 工单和 Confluence 文档的漏洞，攻击通过间接提示注入利用其 URL 检索工具实现，无需人工审批即可执行，且即使组织禁用 Rovo 的网页搜索功能，该攻击依然有效。",
+      "category": "industry",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgm0sf209izro5qf8wg3rkx"
+      }
+    },
     {
       "id": "cmsgiawmi06n8ro5qttsxdlib",
       "title": "用 Claude Fable 5 一次性生成完整《Raccoon Heist》游戏",
@@ -1748,61 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms87droz020crot087s6upwp"
       }
-    },
-    {
-      "id": "cmses4u4i14t3ro2ehi9uj5vy",
-      "title": "Zero-Mem：为 LLM 智能体实现零 token 记忆操作",
-      "title_en": "Zero-Mem： Zero-Token Memory Operations for LLM Agents",
-      "url": "https://arxiv.org/abs/2607.29377",
-      "permalink": "https://aihot.virxact.com/items/cmses4u4i14t3ro2ehi9uj5vy",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "discoveredAt": "2026-07-31T00:00:00.000Z",
-      "summary": "Zero-Mem 提出零 token 记忆操作，除最终问答外，记忆构建、检索与校准等所有环节均不调用 LLM 或消耗其输入输出 token，仅用编码器计算。该方法保留原始交互轨迹，通过实体-上下文图与时间层级双视图组织证据，在长记忆与长上下文问答基准上达到竞争性表现，并将记忆操作时间成本较最快基线降低 57.6%。代码将在同行评审后公开。",
-      "category": "paper",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmses4u4i14t3ro2ehi9uj5vy"
-      }
-    },
-    {
-      "id": "cmseazfg20k6gro2ezmd4a6qt",
-      "title": "DiffusionGemma 技术报告：基于离散扩散的高效文本生成模型",
-      "title_en": "DiffusionGemma Technical Report",
-      "url": "https://arxiv.org/abs/2608.00146",
-      "permalink": "https://aihot.virxact.com/items/cmseazfg20k6gro2ezmd4a6qt",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "discoveredAt": "2026-07-31T00:00:00.000Z",
-      "summary": "DiffusionGemma 是一个实验性开源权重语言模型，通过离散扩散并行迭代精炼 256 个 token 的块，而非逐 token 解码，从而避免自回归模型的顺序解码瓶颈。",
-      "category": "paper",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmseazfg20k6gro2ezmd4a6qt"
-      }
-    },
-    {
-      "id": "cmsdcxd3a00wlrotj7q8iexna",
-      "title": "OpenRouter 推出 Ori Eval：用你的数据证明哪款模型最适合你的项目",
-      "title_en": "Ori Eval： Prove the Best Model for What You're Building",
-      "url": "https://openrouter.ai/blog/announcements/ori-eval",
-      "permalink": "https://aihot.virxact.com/items/cmsdcxd3a00wlrotj7q8iexna",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-07-31T00:00:00.000Z",
-      "discoveredAt": "2026-07-31T00:00:00.000Z",
-      "summary": "OpenRouter 发布 Ori Eval，一个能扫描代码库、自动编写 eval 文件并运行评测的智能体，帮助开发者在 500 多款模型中选出最适合自己项目的单一模型。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdcxd3a00wlrotj7q8iexna"
-      }
     }
   ],
-  "cachedAt": "2026-08-05T20:38:19Z"
+  "cachedAt": "2026-08-05T22:19:16Z"
 }
