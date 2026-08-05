@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NDA1NjAwMDAwLCJpIjoiY21zN3Nka3g3MDJtanJvcGJucTRsMjY3cSJ9",
+  "nextCursor": "eyJhIjoxNzg1NDA1ODQ3MDAwLCJpIjoiY21zZHU0ejM5MDE4dHJvZnpuemRiYnR6NiJ9",
   "items": [
+    {
+      "id": "cmsfu19g30eg5rochm0d4q3po",
+      "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+      "title_en": "NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+      "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+      "permalink": "https://aihot.virxact.com/items/cmsfu19g30eg5rochm0d4q3po",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-05T08:25:11.000Z",
+      "discoveredAt": "2026-08-05T08:35:52.843Z",
+      "summary": "NVIDIA 发布 Alpamayo 2 Super，一款 34B 参数的视觉-语言-动作（VLA）模型，专为自动驾驶长尾事件设计，权重采用 Linux 基金会 OpenMDW-1.1 许可，代码为 Apache 2.0，发布首日即可商用。",
+      "category": "ai-models",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsfu19g30eg5rochm0d4q3po"
+      }
+    },
     {
       "id": "cmsflglsq04k6rochfekqziad",
       "title": "Grok 4.5 免费体验，推荐 Build 工具链",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdu4z39018trofznzdbbtz6"
       }
-    },
-    {
-      "id": "cms7sdkx702mjropbnq4l267q",
-      "title": "GPT-5.6 如何推进性价比前沿",
-      "title_en": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "permalink": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-07-30T10:00:00.000Z",
-      "discoveredAt": "2026-07-30T17:27:19.970Z",
-      "summary": "OpenAI 为 GPT-5.6 的 Luna 和 Terra 版本推出更低定价，以更高效的模型帮助企业大规模部署 AI 工作流。",
-      "category": "ai-models",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q"
-      }
     }
   ],
-  "cachedAt": "2026-08-05T06:40:05Z"
+  "cachedAt": "2026-08-05T09:47:20Z"
 }
