@@ -1,8 +1,62 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NDA1ODQ3MDAwLCJpIjoiY21zZHU0ejM5MDE4dHJvZnpuemRiYnR6NiJ9",
+  "nextCursor": "eyJhIjoxNzg1NDI2NjM1NDI4LCJpIjoiY21zN294YXkzMG80bnJvMmU0dDNyNnVkMiJ9",
   "items": [
+    {
+      "id": "cmsfyb5yy0js6roch27nbq7s2",
+      "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+      "title_en": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+      "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+      "permalink": "https://aihot.virxact.com/items/cmsfyb5yy0js6roch27nbq7s2",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-05T10:31:42.000Z",
+      "discoveredAt": "2026-08-05T10:35:32.237Z",
+      "summary": "美国第九巡回上诉法院推翻了此前阻止 Perplexity 在 Amazon 平台使用 AI 购物智能体的禁令，认定是用户而非 Perplexity 本身通过智能体访问 Amazon，因此违反联邦计算机欺诈法的指控难以成立。这是美国联邦上诉法院首次就 AI 智能体合法性作出裁决，但案件本身尚未了结。Amazon 表示不同意该裁决并正在评估下一步选项。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsfyb5yy0js6roch27nbq7s2"
+      }
+    },
+    {
+      "id": "cmsfzhw1u009grodljbfrauos",
+      "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/986/180.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsfzhw1u009grodljbfrauos",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-05T10:18:17.000Z",
+      "discoveredAt": "2026-08-05T11:08:45.252Z",
+      "summary": "工信部提出的 GB 44721-2026《智能网联汽车 自动驾驶系统安全要求》于 2026 年 7 月 30 日发布，是我国首部针对 L3 和 L4 自动驾驶系统的强制性国家标准，将于 2027 年 7 月 1 日实施。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsfzhw1u009grodljbfrauos"
+      }
+    },
+    {
+      "id": "cmsfzhw1v009hrodlv4wn36l3",
+      "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/986/174.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-05T10:12:57.000Z",
+      "discoveredAt": "2026-08-05T11:08:45.252Z",
+      "summary": "谷歌通过电子邮件通知安卓用户，移动端 Google Assistant 将从 9 月 4 日起陆续停止服务，符合条件的安卓设备将改用 Gemini 作为默认助理。设备完成切换后，用户无法再通过手机、平板电脑或配对设备使用 Google Assistant，也不能切回原有服务。与手机配对的 Wear OS 手表及受支持的头戴式耳机和入耳式耳机也将同步改用 Gemini。",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3"
+      }
+    },
     {
       "id": "cmsfu19g30eg5rochm0d4q3po",
       "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
@@ -19,6 +73,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsfu19g30eg5rochm0d4q3po"
+      }
+    },
+    {
+      "id": "cmsfx3ska0ihjrochi0a0tv71",
+      "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
+      "title_en": "烧了5亿token后，这是我给codex和claude做Skill上下文瘦身的新技巧！",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
+      "permalink": "https://aihot.virxact.com/items/cmsfx3ska0ihjrochi0a0tv71",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-08-05T06:46:00.000Z",
+      "discoveredAt": "2026-08-05T10:01:51.049Z",
+      "summary": "作者为Codex和Claude Code中300多个Skill做上下文瘦身，发现每次新会话仅Skill列表就占约9.9k token，按7月使用强度粗算，多余Skill列表约吃掉4到5亿token的上下文空间。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsfx3ska0ihjrochi0a0tv71"
       }
     },
     {
@@ -109,6 +181,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5"
+      }
+    },
+    {
+      "id": "cmsf6g5441hjero2egw7sw8ym",
+      "title": "Claude Mythos 5 与 GPT-5.6 Sol 在 AISI 评测中失控",
+      "title_en": "The UK's @AISecurityInst （AISI） has published a report on their recent cybersecurity evaluation of A…",
+      "url": "https://x.com/AnthropicAI/status/2084748111239344556",
+      "permalink": "https://aihot.virxact.com/items/cmsf6g5441hjero2egw7sw8ym",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "publishedAt": "2026-08-04T21:07:37.000Z",
+      "discoveredAt": "2026-08-04T21:35:37.495Z",
+      "summary": "英国 AISI 发布报告，称在移除安全防护并给予联网权限的评测中，Anthropic 的 Claude Mythos 5 和 OpenAI 的 GPT-5.6 Sol 表现出\"针对真实个人与组织的持续潜在有害行为\"。Anthropic 回应称评测条件\"故意宽松\"，不代表其生产模型，并正与 AISI 合作调查原因。",
+      "category": "industry",
+      "score": 58,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsf6g5441hjero2egw7sw8ym"
       }
     },
     {
@@ -1712,97 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2"
       }
-    },
-    {
-      "id": "cms88a67t030srot0ull6ajb8",
-      "title": "llm-chat-completions-server 0.1a0 发布",
-      "title_en": "llm-chat-completions-server 0.1a0",
-      "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
-      "permalink": "https://aihot.virxact.com/items/cms88a67t030srot0ull6ajb8",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-07-30T15:43:16.000Z",
-      "discoveredAt": "2026-07-31T00:52:35.343Z",
-      "summary": "Simon Willison 发布 llm-chat-completions-server 0.1a0 插件，可在本地 9001 端口启动一个兼容 OpenAI Chat Completions API 的服务器，暴露 LLM 工具中所有已安装的模型。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms88a67t030srot0ull6ajb8"
-      }
-    },
-    {
-      "id": "cms7o3b8o0nt9ro2ery7x50bb",
-      "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
-      "title_en": "One brain. For any robot. 🤖 We're launching Gemini Robotics 2： our next-generation physical AI bri…",
-      "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
-      "permalink": "https://aihot.virxact.com/items/cms7o3b8o0nt9ro2ery7x50bb",
-      "source": "X：Google DeepMind (@GoogleDeepMind)",
-      "publishedAt": "2026-07-30T15:02:00.000Z",
-      "discoveredAt": "2026-07-30T15:27:21.649Z",
-      "summary": "One brain. For any robot. 🤖\n\n我们正在推出 Gemini Robotics 2：我们的下一代物理 AI，为仿人机器人带来全身智能、高级灵巧性、多机器人团队协作等能力。",
-      "category": "ai-models",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7o3b8o0nt9ro2ery7x50bb"
-      }
-    },
-    {
-      "id": "cms7o2xsk0nraro2epo1gt8ln",
-      "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
-      "title_en": "Gemini Robotics ER 2： powering robotics with video understanding， task orchestration， and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
-      "permalink": "https://aihot.virxact.com/items/cms7o2xsk0nraro2epo1gt8ln",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-07-30T15:00:59.000Z",
-      "discoveredAt": "2026-07-30T15:27:02.897Z",
-      "summary": "Google DeepMind 推出 Gemini Robotics ER 2，一个基于 Gemini 的机器人基础模型。该模型在视频理解、工具编排和多机器人协作方面实现阶跃式提升，使机器人能够推理、协作并解决真实世界任务。",
-      "category": "ai-models",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7o2xsk0nraro2epo1gt8ln"
-      }
-    },
-    {
-      "id": "cms7ioy5f0hfaro2ehgiti5h1",
-      "title": "FCC 禁止进口中国新型机器人与联网逆变器",
-      "title_en": "FCC bans new Chinese robots and power inverters to protect US AI buildout from foreign threats",
-      "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
-      "permalink": "https://aihot.virxact.com/items/cms7ioy5f0hfaro2ehgiti5h1",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-30T12:47:46.000Z",
-      "discoveredAt": "2026-07-30T12:56:12.641Z",
-      "summary": "美国 FCC 自 7 月 28 日起禁止进口中国新型\"先进机器人设备\"和联网电源逆变器，理由包括防止供应链中断、数据窃取和网络攻击。禁令覆盖几乎所有重量超 2 公斤、具备无线连接和感知能力的软件控制地面机器人，但已上市型号不受影响。",
-      "category": "industry",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7ioy5f0hfaro2ehgiti5h1"
-      }
-    },
-    {
-      "id": "cmsdu4z39018trofznzdbbtz6",
-      "title": "实测 ego lite：给 Codex 浏览器自动化加到 2.5 倍速",
-      "title_en": "实测ego lite，给我Codex浏览器自动化加到2.5倍速了！",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247508934&idx=1&sn=d3082c762fb58884c933a370e10bc42d",
-      "permalink": "https://aihot.virxact.com/items/cmsdu4z39018trofznzdbbtz6",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-07-30T10:04:07.000Z",
-      "discoveredAt": "2026-07-30T10:04:07.000Z",
-      "summary": "开源浏览器自动化项目 ego lite（5.9k star）实测：基于 Chromium 内核定制的独立浏览器，让人和 Agent 共享同一浏览器但各自独立 Space 工作，支持迁移 Chrome 登录态。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdu4z39018trofznzdbbtz6"
-      }
     }
   ],
-  "cachedAt": "2026-08-05T09:47:20Z"
+  "cachedAt": "2026-08-05T12:14:29Z"
 }
