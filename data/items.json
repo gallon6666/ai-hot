@@ -1,8 +1,62 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NDMyNzc5MDAwLCJpIjoiY21zN3RlcXkwMDNsZnJvcGJneWt2bmJqeSJ9",
+  "nextCursor": "eyJhIjoxNzg1NDQyNTI4MDAwLCJpIjoiY21zN3l2MGJwMDJtd3JvMjBvdjJja3R6aSJ9",
   "items": [
+    {
+      "id": "cmsgbawl0001iro5qajirh4qh",
+      "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
+      "title_en": "为什么埃尔德什问题正被人工智能攻克",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
+      "permalink": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-05T16:23:34.819Z",
+      "discoveredAt": "2026-08-05T16:39:17.118Z",
+      "summary": "OpenAI 于 2026 年 5 月 20 日宣布，其内部 AI 模型对埃尔德什 1946 年提出的\"单位距离\"问题给出了反例，成为首个由 AI 模型完成的历史性重要证明；8 月 1 日又宣布未发布模型 Astra 取得 10 项数学进展，其中解决了埃尔德什提出的另外 3 个问题。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh"
+      }
+    },
+    {
+      "id": "cmsga8g7n01dxro3psolcouz4",
+      "title": "Demis Hassabis 转任 Google DeepMind 主席与 Alphabet 首席科学家",
+      "title_en": "I've been working towards AGI my whole life， and as we enter this pivotal moment， I'm stepping into …",
+      "url": "https://x.com/demishassabis/status/2085034334914769203",
+      "permalink": "https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "publishedAt": "2026-08-05T16:04:58.000Z",
+      "discoveredAt": "2026-08-05T16:09:23.683Z",
+      "summary": "Demis Hassabis 宣布卸任 Google DeepMind CEO，转任主席兼 Alphabet 首席科学家，专注长期战略与科学突破，包括推进 Isomorphic 的疾病治愈研究。Koray Kavukcuoglu 将接任 GDM 高级副总裁，与 Josh Woodward 及执行团队共同领导下一阶段发展。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsga8g7n01dxro3psolcouz4"
+      }
+    },
+    {
+      "id": "cmsg7u0dp00s1roremmr20cb1",
+      "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+      "title_en": "大家都在刷SpaceX上市首份财报，没人注意Musk扔的王炸：@SpaceX 要把AI数据中心搬到太空去， 而且不是科幻和概念PPT， 明年就开始发射。 就在昨天的财报电话会上， Musk直接宣布：…",
+      "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
+      "permalink": "https://aihot.virxact.com/items/cmsg7u0dp00s1roremmr20cb1",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-05T14:30:53.000Z",
+      "discoveredAt": "2026-08-05T15:02:09.334Z",
+      "summary": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsg7u0dp00s1roremmr20cb1"
+      }
+    },
     {
       "id": "cmsg6qeks07otrolg6som6vy0",
       "title": "AI智能体尚无法开展开放式AI研究",
@@ -1748,61 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms7yv0bp02mwro20ov2cktzi"
       }
-    },
-    {
-      "id": "cms7w9p0p000fro20pyggbkmb",
-      "title": "Google Earth 集成 Nano Banana 2 图像生成",
-      "title_en": "What if you could see a city as it looked 100 years ago， or visualize a new basketball court at your…",
-      "url": "https://x.com/GoogleAI/status/2082902334984609936",
-      "permalink": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb",
-      "source": "X：Google AI (@GoogleAI)",
-      "publishedAt": "2026-07-30T18:53:09.000Z",
-      "discoveredAt": "2026-07-30T19:16:16.061Z",
-      "summary": "Google Earth 网页版上线基于 Nano Banana 2 的图像生成功能，用户可通过文本提示词将卫星与 3D 影像结合，重新想象全球任意地点（如百年前的城市风貌或社区新球场）。该功能现已面向所有用户开放。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7w9p0p000fro20pyggbkmb"
-      }
-    },
-    {
-      "id": "cms7tgf3q03p5ropbe0xhilwo",
-      "title": "Inkling-Small 发布，276B 参数性能持平原版",
-      "title_en": "Today， we are releasing Inkling-Small. Inkling-Small achieves comparable performance to Inkling at …",
-      "url": "https://x.com/thinkymachines/status/2082885869426631032",
-      "permalink": "https://aihot.virxact.com/items/cms7tgf3q03p5ropbe0xhilwo",
-      "source": "X：Thinking Machines (@thinkymachines)",
-      "publishedAt": "2026-07-30T17:47:44.000Z",
-      "discoveredAt": "2026-07-30T17:57:32.378Z",
-      "summary": "今天，我们发布 Inkling-Small。\n\nInkling-Small 在仅为 Inkling 四分之一规模的情况下，实现了与之相当的性能。它拥有 276B 总参数，12B 激活参数。我们将开放完整权重。\n\nhttps://thinkingmachines.ai/news/inkling-small/\n\n现在即可在 Tinker 上对其进行微调，或在 Tinker Playground 中以文本、图像和音频形式与之对话。",
-      "category": "ai-models",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7tgf3q03p5ropbe0xhilwo"
-      }
-    },
-    {
-      "id": "cms7teqy003lfropbgykvnbjy",
-      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-      "title_en": "GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-      "url": "https://x.com/OpenRouter/status/2082882158574911564",
-      "permalink": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-07-30T17:32:59.000Z",
-      "discoveredAt": "2026-07-30T17:56:13.228Z",
-      "summary": "GPT-5.6 Terra 和 Luna 刚刚获得了 @OpenAI 的降价。\n\nOpenRouter 的价格仍然更低。我们的 50% 独家折扣在此基础上适用，使 Luna 输入降至 $0.1/M、输出降至 $0.6/M，Terra 输入降至 $1/M、输出降至 $6/M。\n\n使用 luna 扩展你的工作负载：https://openrouter.ai/openai/gpt-5.6-luna",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy"
-      }
     }
   ],
-  "cachedAt": "2026-08-05T14:32:40Z"
+  "cachedAt": "2026-08-05T16:51:23Z"
 }
