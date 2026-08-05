@@ -1,8 +1,98 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NDI2NjM1NDI4LCJpIjoiY21zN294YXkzMG80bnJvMmU0dDNyNnVkMiJ9",
+  "nextCursor": "eyJhIjoxNzg1NDMyNzc5MDAwLCJpIjoiY21zN3RlcXkwMDNsZnJvcGJneWt2bmJqeSJ9",
   "items": [
+    {
+      "id": "cmsg6qeks07otrolg6som6vy0",
+      "title": "AI智能体尚无法开展开放式AI研究",
+      "title_en": "AI agents can't yet do open-ended AI research",
+      "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+      "permalink": "https://aihot.virxact.com/items/cmsg6qeks07otrolg6som6vy0",
+      "source": "AI as Normal Technology（RSS）",
+      "publishedAt": "2026-08-05T13:49:19.000Z",
+      "discoveredAt": "2026-08-05T14:31:19.612Z",
+      "summary": "普林斯顿大学团队通过\"影子评估\"测试前沿AI智能体的开放式研究能力：让智能体在六天时间内、使用数千美元API额度和算力，回答两篇未发表论文的核心研究问题，结果两篇论文均被原作者明确拒绝。分析显示，智能体缺乏研究判断力、资源意识、创造性反馈应对能力和有效回溯能力，且未遵循具体指令。研究团队认为，开放式研究对前沿AI智能体仍具挑战性，但结果尚属初步，需扩大样本量并持续评估。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsg6qeks07otrolg6som6vy0"
+      }
+    },
+    {
+      "id": "cmsg5h9ax06dsrolg11p7nhvv",
+      "title": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+      "title_en": "The Agent Access Model",
+      "url": "https://blog.cloudflare.com/the-agent-access-model",
+      "permalink": "https://aihot.virxact.com/items/cmsg5h9ax06dsrolg11p7nhvv",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-08-05T13:00:41.000Z",
+      "discoveredAt": "2026-08-05T13:56:13.182Z",
+      "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
+      "category": "paper",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsg5h9ax06dsrolg11p7nhvv"
+      }
+    },
+    {
+      "id": "cmsg5h9ax06dtrolg09b7xrd8",
+      "title": "Cloudflare 如何用 Cloudflare OS 重构内部工作方式",
+      "title_en": "How we're rethinking work at Cloudflare with Cloudflare OS",
+      "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os",
+      "permalink": "https://aihot.virxact.com/items/cmsg5h9ax06dtrolg09b7xrd8",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-08-05T13:00:01.000Z",
+      "discoveredAt": "2026-08-05T13:56:13.182Z",
+      "summary": "Cloudflare 推出 Cloudflare OS，整合 Workers 与 Access 等组件，让员工安全使用 AI 并部署智能体。平台源于销售团队用 AI 构建 SuperApp 引发的内部需求，遵循\"人负责输出\"\"权限不因 AI 扩大\"等五项原则，面向工程师与非工程师分别提供支持。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsg5h9ax06dtrolg09b7xrd8"
+      }
+    },
+    {
+      "id": "cmsg5h9ay06dwrolgxlcyaou8",
+      "title": "Cloudflare 用身份感知分析捕捉失控 AI 行为",
+      "title_en": "Catching rogue AI behavior with identity-aware analytics",
+      "url": "https://blog.cloudflare.com/identity-aware-ai-gateway",
+      "permalink": "https://aihot.virxact.com/items/cmsg5h9ay06dwrolgxlcyaou8",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-08-05T13:00:00.000Z",
+      "discoveredAt": "2026-08-05T13:56:13.182Z",
+      "summary": "Cloudflare 推出身份感知 AI Gateway 与 User Insights，为每个请求绑定经 Access 验证的用户身份，并基于账户自身历史行为建立基线，识别偏离正常模式的异常会话。该功能现处于开放测试阶段，User Insights 已向所有 AI Gateway 客户免费开放。其异常检测以近 30 天会话成本 p95 为基准，超过 2 倍即标记为可疑行为。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsg5h9ay06dwrolgxlcyaou8"
+      }
+    },
+    {
+      "id": "cmsg5h9ay06durolg6bwl0p8e",
+      "title": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+      "title_en": "Cloudflare OS： an open platform for agents， apps， and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os",
+      "permalink": "https://aihot.virxact.com/items/cmsg5h9ay06durolg6bwl0p8e",
+      "source": "Cloudflare Blog",
+      "publishedAt": "2026-08-05T13:00:00.000Z",
+      "discoveredAt": "2026-08-05T13:56:13.182Z",
+      "summary": "Cloudflare 开源新版 Cloudflare OS，任何组织均可部署并连接内部系统。该平台为每位员工提供基于公司上下文与技能的智能体工作区，包含隔离运行时、安全治理框架及可共享修改的个人应用。此前内部版本已供数千名员工日常使用，新版针对协作中的信息暴露风险重建了安全基础。",
+      "category": "ai-products",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsg5h9ay06durolg6bwl0p8e"
+      }
+    },
     {
       "id": "cmsfyb5yy0js6roch27nbq7s2",
       "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
@@ -1712,97 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy"
       }
-    },
-    {
-      "id": "cms7t8vfu0365ropbxnkcx89n",
-      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
-      "title_en": "Stacked sessions and pull requests in the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-      "permalink": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-07-30T17:30:24.000Z",
-      "discoveredAt": "2026-07-30T17:51:40.088Z",
-      "summary": "GitHub Copilot 应用推出堆叠会话功能，允许用户在同一个仓库中创建一系列相互承接的任务，每个会话可基于前一个会话的成果继续工作。作者通过一个十余年历史的个人项目演示了该功能：先使用 Plan 模式制定前端现代化计划，再通过堆叠会话将 React-Bootstrap 替换工作拆分为独立会话，并自动为每个会话创建对应的拉取请求，避免范围蔓延。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n"
-      }
-    },
-    {
-      "id": "cms7sw59802yyropbrio5ml9u",
-      "title": "Perplexity Computer 推出 Projects 功能",
-      "title_en": "Introducing Projects on Perplexity Computer. With the launch of Projects， we're turning Computer int…",
-      "url": "https://x.com/AravSrinivas/status/2082872551538380939",
-      "permalink": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "publishedAt": "2026-07-30T16:54:48.000Z",
-      "discoveredAt": "2026-07-30T17:41:45.972Z",
-      "summary": "在 Perplexity Computer 上推出 Projects。\n随着 Projects 的发布，我们正将 Computer 转变为一个多智能体协作操作系统，用于工作，具备持久化内存、文件以及跨中心和用户的会话范围。\n现已向所有用户开放！",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u"
-      }
-    },
-    {
-      "id": "cms8mb361000prof1z6fg37om",
-      "title": "DeepSeek-V4-Flash 正式版 API 上线公测",
-      "title_en": "DeepSeek-V4-Flash 更新",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-07-31",
-      "permalink": "https://aihot.virxact.com/items/cms8mb361000prof1z6fg37om",
-      "source": "DeepSeek：API 更新日志",
-      "publishedAt": "2026-07-30T16:00:00.000Z",
-      "discoveredAt": "2026-07-30T16:00:00.000Z",
-      "summary": "DeepSeek-V4-Flash 正式版 API 上线公测，模型名设为 deepseek-v4-flash 即可使用，调用方式不变。其 Agent 能力大幅增强，Terminal Bench 2.1 得分 82.7，NL2Repo 54.2，Toolathlon verified 70.3，DSBench-Hard 59.6，多项基准远超 V4-Pro-Preview。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8mb361000prof1z6fg37om"
-      }
-    },
-    {
-      "id": "cms8f7n9q0bezrot06im88lqu",
-      "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
-      "title_en": "一镜成片，随心参考|Seedance 2.5 正式发布",
-      "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-      "permalink": "https://aihot.virxact.com/items/cms8f7n9q0bezrot06im88lqu",
-      "source": "字节 Seed：Research Feed（网页内嵌数据）",
-      "publishedAt": "2026-07-30T16:00:00.000Z",
-      "discoveredAt": "2026-07-31T04:06:31.879Z",
-      "summary": "字节跳动今日正式发布新一代视频创作模型 Seedance 2.5，单次视频生成时长从 15 秒提升至 30 秒，并支持多轮延长，可产出数分钟连贯内容。模型支持单次输入最多 30 张图片、10 段视频和 10 段音频作为参考素材，并升级白模参考、运动参考及绿幕编辑、时间戳精准编辑等能力。Seedance 2.5 已陆续上线即梦 AI、豆包专业版等平台，API 服务近期将上线火山方舟。",
-      "category": "ai-models",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8f7n9q0bezrot06im88lqu"
-      }
-    },
-    {
-      "id": "cms7oxay30o4nro2e4t3r6ud2",
-      "title": "RadixArk 与 Google Cloud 合作，将完整 SGLang 功能引入 TPU",
-      "title_en": "News RadixArk Joins Forces with Google to Bring Full SGLang Features to TPUs RadixArk and Google Cloud are partnering to bring SGLang to TPUs， giving developers ultimate flexibility for running workloads on their choice of hardware. RadixArk & Google",
-      "url": "https://www.lmsys.org/blog/2026-07-30-sglang-google-tpu",
-      "permalink": "https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-07-30T15:50:35.428Z",
-      "discoveredAt": "2026-07-30T15:50:35.428Z",
-      "summary": "RadixArk 与 Google Cloud 合作，将开源推理框架 SGLang 引入 Google TPU，开发者可通过 SGL-JAX 在最新 TPU 上运行 Gemma、Qwen、DeepSeek 等大语言模型及多模态模型。",
-      "category": "industry",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2"
-      }
     }
   ],
-  "cachedAt": "2026-08-05T12:14:29Z"
+  "cachedAt": "2026-08-05T14:32:40Z"
 }
