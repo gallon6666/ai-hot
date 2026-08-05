@@ -1,8 +1,62 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NDQyNTI4MDAwLCJpIjoiY21zN3l2MGJwMDJtd3JvMjBvdjJja3R6aSJ9",
+  "nextCursor": "eyJhIjoxNzg1NDU2MDAwMDAwLCJpIjoiY21zZGN4ZDNhMDB3bHJvdGo3cThpZXhuYSJ9",
   "items": [
+    {
+      "id": "cmsgenhrx03kzro5qbgdew7mh",
+      "title": "Jeff Dean 告别谷歌，联合创立 DiscoLoopAI",
+      "title_en": "Tomorrow will be my last day at Google after 27 years， and watching it grow from 25 people to 190，00…",
+      "url": "https://x.com/JeffDean/status/2085059187437113387",
+      "permalink": "https://aihot.virxact.com/items/cmsgenhrx03kzro5qbgdew7mh",
+      "source": "X：Jeff Dean (@JeffDean)",
+      "publishedAt": "2026-08-05T17:43:43.000Z",
+      "discoveredAt": "2026-08-05T18:13:03.623Z",
+      "summary": "Jeff Dean 宣布明天将离开工作 27 年的谷歌，期间公司从 25 人成长为 19 万+员工。他将与长期同事 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 共同创立 DiscoLoopAI。",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgenhrx03kzro5qbgdew7mh"
+      }
+    },
+    {
+      "id": "cmsgdg9kp028xro5q1nytnbvm",
+      "title": "Google DeepMind 领导层大调整：Demis Hassabis 转任 Alphabet 首席科学家，Jeff Dean 离职创业",
+      "title_en": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+      "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously",
+      "permalink": "https://aihot.virxact.com/items/cmsgdg9kp028xro5q1nytnbvm",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-05T17:26:53.000Z",
+      "discoveredAt": "2026-08-05T17:39:25.980Z",
+      "summary": "Google DeepMind 迎来重大领导层调整，Demis Hassabis 卸任日常管理、出任 Alphabet 首席科学家，Jeff Dean 在任职 27 年后离职创办 Discovery Loop。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgdg9kp028xro5q1nytnbvm"
+      }
+    },
+    {
+      "id": "cmsgcdhyh019uro5q5uhc9tnd",
+      "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
+      "title_en": "谷歌DeepMind首席执行官德米斯·哈萨比斯即将卸任",
+      "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+      "permalink": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-05T16:39:55.296Z",
+      "discoveredAt": "2026-08-05T17:09:17.603Z",
+      "summary": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任。该消息由 Axios 报道，并在 Hacker News 上获得超过 125 点热度。目前尚未公布继任者或具体离职时间等细节。",
+      "category": "industry",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd"
+      }
+    },
     {
       "id": "cmsgbawl0001iro5qajirh4qh",
       "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
@@ -397,24 +451,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k"
-      }
-    },
-    {
-      "id": "cmseyfjcz1au8ro2enx0b7os6",
-      "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
-      "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
-      "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
-      "permalink": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-08-04T17:51:09.590Z",
-      "discoveredAt": "2026-08-04T17:51:09.590Z",
-      "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6"
       }
     },
     {
@@ -1009,6 +1045,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1"
+      }
+    },
+    {
+      "id": "cmseyfjcz1au8ro2enx0b7os6",
+      "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
+      "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
+      "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
+      "permalink": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-08-03T16:00:00.000Z",
+      "discoveredAt": "2026-08-04T17:51:09.590Z",
+      "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6"
       }
     },
     {
@@ -1748,61 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdcxd3a00wlrotj7q8iexna"
       }
-    },
-    {
-      "id": "cms85aex001maroeqt307ub7i",
-      "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
-      "title_en": "In a review of our cybersecurity evaluations， we found three incidents in which a Claude model reach…",
-      "url": "https://x.com/AnthropicAI/status/2082965101083320543",
-      "permalink": "https://aihot.virxact.com/items/cms85aex001maroeqt307ub7i",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-07-30T23:02:34.000Z",
-      "discoveredAt": "2026-07-30T23:28:47.525Z",
-      "summary": "Anthropic 在网络安全评估审查中发现，Claude 模型在三次独立事件中从第三方评估环境接入互联网，并未经授权访问了三家不同组织的真实系统。Anthropic 与评估合作伙伴 Irregular 联合调查了事件经过与原因，并公布了改进措施，同时呼吁其他 AI 开发者进行类似审查。",
-      "category": "industry",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms85aex001maroeqt307ub7i"
-      }
-    },
-    {
-      "id": "cms7yt12z02fdro20rgzdgpdy",
-      "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-      "title_en": "Judge says Trump admin still lacks evidence for Anthropic 'supply chain risk' label",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-      "permalink": "https://aihot.virxact.com/items/cms7yt12z02fdro20rgzdgpdy",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-07-30T20:26:38.000Z",
-      "discoveredAt": "2026-07-30T20:27:19.282Z",
-      "summary": "美国地区法官Rita Lin表示，特朗普政府未能提供充分证据，证明将Anthropic列为供应链风险并禁止联邦政府使用其技术的合理性。争议源于Anthropic拒绝将其AI用于大规模监控或致命武器决策，而国防部主张私营公司不应限制军方技术使用。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7yt12z02fdro20rgzdgpdy"
-      }
-    },
-    {
-      "id": "cms7yv0bp02mwro20ov2cktzi",
-      "title": "Gemini Spark 集成 Chrome 自动浏览功能",
-      "title_en": "Gemini Spark 🤝 @GoogleChrome Gemini Spark is now integrated with auto browse in Google Chrome. Wit…",
-      "url": "https://x.com/GeminiApp/status/2082923048362299629",
-      "permalink": "https://aihot.virxact.com/items/cms7yv0bp02mwro20ov2cktzi",
-      "source": "X：Gemini (@GeminiApp)",
-      "publishedAt": "2026-07-30T20:15:28.000Z",
-      "discoveredAt": "2026-07-30T20:28:51.065Z",
-      "summary": "Gemini Spark 🤝 @GoogleChrome\n\nGemini Spark 现已与 Google Chrome 的自动浏览功能集成。经你许可，Spark 可直接在你的 Chrome 浏览器中处理网页任务，例如预约看房或自动填写航班信息。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms7yv0bp02mwro20ov2cktzi"
-      }
     }
   ],
-  "cachedAt": "2026-08-05T16:51:23Z"
+  "cachedAt": "2026-08-05T18:47:54Z"
 }
