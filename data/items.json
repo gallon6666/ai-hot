@@ -1,8 +1,62 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1MzY5NjAwMDAwLCJpIjoiY21zOGVweGJ0MGF1cXJvdDA2NDUyd2h4YiJ9",
+  "nextCursor": "eyJhIjoxNzg1Mzc5Nzg3MDAwLCJpIjoiY21zNnhreTI0MDJ4Z3JvdXFndWRrZmdzZyJ9",
   "items": [
+    {
+      "id": "cmsficgoy000nrochjow7i1yx",
+      "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
+      "title_en": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
+      "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
+      "permalink": "https://aihot.virxact.com/items/cmsficgoy000nrochjow7i1yx",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-08-05T02:40:31.000Z",
+      "discoveredAt": "2026-08-05T03:08:40.991Z",
+      "summary": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsficgoy000nrochjow7i1yx"
+      }
+    },
+    {
+      "id": "cmsff72yv1q6nro2etf4cmbuj",
+      "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
+      "title_en": "开源「活人感写作.skill」，只为帮你写出没有AI味的文字。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
+      "permalink": "https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-08-05T01:35:42.000Z",
+      "discoveredAt": "2026-08-05T01:40:30.910Z",
+      "summary": "数字生命卡兹克开源「活人感写作.skill」（英文名 human Writing.skill），旨在去除AI味、帮用户写出有真实生活感的文字。该Skill鼓励用户提供真实案例与情感，并针对辞章端禁用AI常用口癖和黑话，同时适配Qwen 3.8 Max、DeepSeek V4 Pro、Kimi K3等模型，可直接用于WorkBuddy、千问办公等产品。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj"
+      }
+    },
+    {
+      "id": "cmsfdkkcs1ocxro2ed4z3s131",
+      "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
+      "title_en": "New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
+      "permalink": "https://aihot.virxact.com/items/cmsfdkkcs1ocxro2ed4z3s131",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-08-04T23:58:24.000Z",
+      "discoveredAt": "2026-08-05T00:55:01.452Z",
+      "summary": "Simon Willison 发布 LLM 0.32，这是该项目自启动以来最重要的新版本。新版本支持显示推理轨迹、服务端工具、OpenAI Responses API，并默认使用 GPT-5.6 Luna 模型。",
+      "category": "ai-products",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsfdkkcs1ocxro2ed4z3s131"
+      }
+    },
     {
       "id": "cmsf7gr271ii5ro2eiu0hihb5",
       "title": "Replit 环境智能：免提示词自动生成设计",
@@ -487,6 +541,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5"
+      }
+    },
+    {
+      "id": "cmsffpu8h1qz2ro2erlnfwib9",
+      "title": "Any-OPD：面向流匹配模型的异构同策略蒸馏框架",
+      "title_en": "Any-OPD： Heterogeneous On-Policy Distillation for Flow-Matching Models via Representation-Space Bridging",
+      "url": "https://arxiv.org/abs/2608.03316",
+      "permalink": "https://aihot.virxact.com/items/cmsffpu8h1qz2ro2erlnfwib9",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "discoveredAt": "2026-08-05T01:55:06.514Z",
+      "summary": "Any-OPD 提出首个支持任意异构流匹配生成器对的同策略蒸馏框架，仅通过冻结的 DINOv2 表示空间桥接教师与学生模型，无需共享 VAE、架构或噪声调度。将 FLUX.1-dev 蒸馏至 SD3.5-Medium 后，学生模型 PickScore 与 HPSv3 均显著提升，以教师五分之一的参数量达到接近其性能，而直接潜在回归训练完全失败。",
+      "category": "paper",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsffpu8h1qz2ro2erlnfwib9"
       }
     },
     {
@@ -1730,79 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms6xky2402xgrouqgudkfgsg"
       }
-    },
-    {
-      "id": "cms6xa31u02nlrouq0wkhylfp",
-      "title": "腾讯混元Hyra破解50年数学难题",
-      "title_en": "For a finite set of integers （A）， how much faster can （|A+A|） grow than （|A-A|）？ A 1969 theorem gav…",
-      "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-      "permalink": "https://aihot.virxact.com/items/cms6xa31u02nlrouq0wkhylfp",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "publishedAt": "2026-07-30T02:33:16.000Z",
-      "discoveredAt": "2026-07-30T02:56:49.307Z",
-      "summary": "腾讯混元借助研究智能体Hyra及Hy3模型，构造出整数集A使|A+A|与|A-A|的指数比精确达到2，解决了自1969年以来悬而未决的极值问题。此前50余年最佳构造仅略超1.1，新成果证明最优指数即为2。论文及形式化证明已公开。",
-      "category": "paper",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms6xa31u02nlrouq0wkhylfp"
-      }
-    },
-    {
-      "id": "cmsewf4ja195fro2e4ejknnqk",
-      "title": "删除回避：LLM 代码编辑中的系统性缺陷与缓解之道",
-      "title_en": "To Add Is Machine， To Delete Is Human： Measuring and Mitigating Deletion Avoidance in LLM Code Editing",
-      "url": "https://arxiv.org/abs/2607.28887",
-      "permalink": "https://aihot.virxact.com/items/cmsewf4ja195fro2e4ejknnqk",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-30T00:00:00.000Z",
-      "discoveredAt": "2026-07-30T00:00:00.000Z",
-      "summary": "研究发现，领先模型在 SWE-bench Verified 上对开发者补丁的删除召回率最高仅 71.7%，29.0% 的通过补丁采用 Guard-and-Go 模式保留目标代码。新基准 CanItDelete 含 200 个纯删除任务，最佳模型仍失败 19.5%。在 7B 模型后训练中加入 12.8k 删除示例（占 0.7% token）可将删除回避降低 13.9 个百分点。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsewf4ja195fro2e4ejknnqk"
-      }
-    },
-    {
-      "id": "cmscxmzdc0qz4roeucecesunt",
-      "title": "大语言模型的显著性偏差：常识推理中的知识压制而非缺失",
-      "title_en": "Would You Walk to the Car Wash？ Revealing the Salience Bias of Large Language Models in Commonsense Reasoning",
-      "url": "https://arxiv.org/abs/2607.28478",
-      "permalink": "https://aihot.virxact.com/items/cmscxmzdc0qz4roeucecesunt",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-30T00:00:00.000Z",
-      "discoveredAt": "2026-07-30T00:00:00.000Z",
-      "summary": "研究提出\"显著性偏差\"概念，指大语言模型被输入中无用的显性干扰（如数字）劫持，忽略任务隐含的常识前提。基于新构建的 SaliTrap 基准评估 12 个主流模型，最佳模型仅 54.8% 查询避开陷阱，8/12 模型低于 30%；GLM-5.1 和 Kimi-K2 在识别陷阱后仍分别有 86.2% 和 81.8% 的遵从率。",
-      "category": "paper",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmscxmzdc0qz4roeucecesunt"
-      }
-    },
-    {
-      "id": "cms8epxbt0auqrot06452whxb",
-      "title": "BM25 在大规模语料中胜出：检索增强生成范式的规模扩展研究",
-      "title_en": "BM25 Wins at Scale： A Scaling Study of Retrieval-Augmented Generation Paradigms",
-      "url": "https://arxiv.org/abs/2607.26497",
-      "permalink": "https://aihot.virxact.com/items/cms8epxbt0auqrot06452whxb",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-07-30T00:00:00.000Z",
-      "discoveredAt": "2026-07-31T03:52:48.072Z",
-      "summary": "一项受控研究在约450倍跨度、28个严格嵌套的语料规模层级上比较多种RAG范式，发现存在规模依赖的交叉点而非绝对赢家。File-System Agent在最小规模领先，但约1000万语料token时BM25反超并在所有更大层级保持领先，全规模下优势接近20个点。BM25还锚定了无需LLM构建的低成本帕累托前沿。",
-      "category": "paper",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8epxbt0auqrot06452whxb"
-      }
     }
   ],
-  "cachedAt": "2026-08-05T00:13:49Z"
+  "cachedAt": "2026-08-05T03:31:44Z"
 }
