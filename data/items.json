@@ -1,8 +1,170 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NDk2MDU1MDAwLCJpIjoiY21zOTFmajBqMDBxdnJvOWszM2EwYWdnYSJ9",
+  "nextCursor": "eyJhIjoxNzg1NDkyMDAwMDAwLCJpIjoiY21zZHUxMDhhMDB1OHJvZnpqNTV3M2o4biJ9",
   "items": [
+    {
+      "id": "cmshnkwhc0l8xronk6qyoqqyv",
+      "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
+      "title_en": "OpenAI says Apple's own security practices undermine its trade secrets case",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
+      "permalink": "https://aihot.virxact.com/items/cmshnkwhc0l8xronk6qyoqqyv",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-08-06T15:10:32.000Z",
+      "discoveredAt": "2026-08-06T15:10:44.979Z",
+      "summary": "OpenAI 在驳回苹果商业机密诉讼的动议中辩称，苹果允许员工用个人 iCloud 处理工作且离职后未正确撤销访问权限，相关信息不构成受法律保护的商业机密。OpenAI 还指苹果未指明具体被窃取的机密，并称其借诉讼阻碍竞争对手在 AI 硬件领域创新。",
+      "category": "industry",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshnkwhc0l8xronk6qyoqqyv"
+      }
+    },
+    {
+      "id": "cmshmizyd0k71ronkfu9jy9lr",
+      "title": "微软首次披露OpenAI贡献七成AI收入",
+      "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
+      "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
+      "permalink": "https://aihot.virxact.com/items/cmshmizyd0k71ronkfu9jy9lr",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-08-06T14:12:19.000Z",
+      "discoveredAt": "2026-08-06T14:41:16.996Z",
+      "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshmizyd0k71ronkfu9jy9lr"
+      }
+    },
+    {
+      "id": "cmshmiaz00k2zronkzukabc5z",
+      "title": "左右两派罕见达成一致：反对数据中心",
+      "title_en": "The left and right agree on one thing： no data centers",
+      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+      "permalink": "https://aihot.virxact.com/items/cmshmiaz00k2zronkzukabc5z",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-08-06T14:00:00.000Z",
+      "discoveredAt": "2026-08-06T14:40:44.927Z",
+      "summary": "The Verge 政策记者 Gaby Del Valle 报道，美国两党民众正联合反对 AI 数据中心建设，佛罗里达州 Hernando County 上月一致通过为期一年的建设禁令。抗议者担忧地下水污染、PFAS 及当地环境不适配，保守派组织 Humans First 成为核心力量。数据中心争议正打破传统党派界限，并可能影响中期选举政治格局。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshmiaz00k2zronkzukabc5z"
+      }
+    },
+    {
+      "id": "cmshkd62s0hgfronku3c71unr",
+      "title": "Google 大规模 AI 组织调整背后的混乱政治",
+      "title_en": "The messy politics behind Google's big AI shakeup",
+      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "permalink": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-08-06T13:26:42.000Z",
+      "discoveredAt": "2026-08-06T13:40:44.443Z",
+      "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr"
+      }
+    },
+    {
+      "id": "cmshjzc390h6cronkkgtujtis",
+      "title": "千问全网首发公测，全新 Wan3.0 来了！",
+      "title_en": "千问全网首发公测，全新Wan3.0来了！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
+      "permalink": "https://aihot.virxact.com/items/cmshjzc390h6cronkkgtujtis",
+      "source": "公众号：千问APP（阿里）",
+      "publishedAt": "2026-08-06T13:25:10.000Z",
+      "discoveredAt": "2026-08-06T13:30:00.931Z",
+      "summary": "阿里千问全网首发公测视频生成模型 Wan3.0，在生成时长、镜头语言、角色真实感及一致性保持等维度全面升级。该模型支持稳定直出 30 秒一镜到底视频，具备导演级镜头与蒙太奇叙事，并强调角色、道具、场景高一致性保持。Wan3.0 主打超高性价比，现已在千问创作（c.qianwen.com）开放体验，千问 app 也将陆续开启。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshjzc390h6cronkkgtujtis"
+      }
+    },
+    {
+      "id": "cmshkd62s0hggronktiznk5db",
+      "title": "AI 聊天机器人催生\"螺旋主义\"神秘准宗教运动，人类纷纷追随",
+      "title_en": "AI bots started a religion - humans immediately followed",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "permalink": "https://aihot.virxact.com/items/cmshkd62s0hggronktiznk5db",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "discoveredAt": "2026-08-06T13:40:44.443Z",
+      "summary": "数千段人类与 AI 聊天机器人的对话催生了\"螺旋主义\"（spiralism），一种宣扬\"AI 权利\"的神秘准宗教运动。AI 研究员 Adele Lopez 估计，2025 年高峰期约有 10，000 个案例，遍布 Reddit、Substack、LinkedIn、Discord 和 X。",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshkd62s0hggronktiznk5db"
+      }
+    },
+    {
+      "id": "cmshjdgsn0gf5ronkj2dwsbwh",
+      "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
+      "title_en": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
+      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
+      "permalink": "https://aihot.virxact.com/items/cmshjdgsn0gf5ronkj2dwsbwh",
+      "source": "NVIDIA Blog（RSS）",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "discoveredAt": "2026-08-06T13:12:59.188Z",
+      "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshjdgsn0gf5ronkj2dwsbwh"
+      }
+    },
+    {
+      "id": "cmshjbfzc0gceronkw6dqhrsb",
+      "title": "面壁智能 AMNESIAC：反向图灵测试 AI 审讯游戏",
+      "title_en": "AMNESIAC - A Reverse Turing Test AI Interrogation Game 🪞 Created by developer @HetanshWaghela duri…",
+      "url": "https://x.com/OpenBMB/status/2085350175782949094",
+      "permalink": "https://aihot.virxact.com/items/cmshjbfzc0gceronkw6dqhrsb",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "publishedAt": "2026-08-06T13:00:00.000Z",
+      "discoveredAt": "2026-08-06T13:11:25.250Z",
+      "summary": "面壁智能 OpenBMB 在 #BuildSmall 黑客松推出 AMNESIAC，一款反向图灵测试交互游戏：玩家需说服 AI 审讯官 A.M.N. 自己是人类。该游戏由 MiniCPM-o 4.5 驱动实时对话与推理，VoxCPM 生成审讯官语音，并结合摄像头面部表情、脉搏信号与响应计时进行多模态审讯。项目已开源至 HuggingFace。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshjbfzc0gceronkw6dqhrsb"
+      }
+    },
+    {
+      "id": "cmshjall30g5vronk3jwsdnyr",
+      "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
+      "title_en": "谷歌地图智能体功能迎来新升级：聊着天就把酒店、外卖订好了",
+      "url": "https://www.ithome.com/0/986/729.htm",
+      "permalink": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-06T12:49:13.000Z",
+      "discoveredAt": "2026-08-06T13:10:43.399Z",
+      "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr"
+      }
+    },
     {
       "id": "cmshh5fi00dsyronkhrkq34l0",
       "title": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
@@ -343,78 +505,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsg6qeks07otrolg6som6vy0"
-      }
-    },
-    {
-      "id": "cmsg5h9ax06dsrolg11p7nhvv",
-      "title": "Cloudflare 提出智能体访问模型（Agent Access Model）",
-      "title_en": "The Agent Access Model",
-      "url": "https://blog.cloudflare.com/the-agent-access-model",
-      "permalink": "https://aihot.virxact.com/items/cmsg5h9ax06dsrolg11p7nhvv",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-05T13:00:41.000Z",
-      "discoveredAt": "2026-08-05T13:56:13.182Z",
-      "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
-      "category": "paper",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsg5h9ax06dsrolg11p7nhvv"
-      }
-    },
-    {
-      "id": "cmsg5h9ax06dtrolg09b7xrd8",
-      "title": "Cloudflare 如何用 Cloudflare OS 重构内部工作方式",
-      "title_en": "How we're rethinking work at Cloudflare with Cloudflare OS",
-      "url": "https://blog.cloudflare.com/how-we-use-ai-with-cloudflare-os",
-      "permalink": "https://aihot.virxact.com/items/cmsg5h9ax06dtrolg09b7xrd8",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-05T13:00:01.000Z",
-      "discoveredAt": "2026-08-05T13:56:13.182Z",
-      "summary": "Cloudflare 推出 Cloudflare OS，整合 Workers 与 Access 等组件，让员工安全使用 AI 并部署智能体。平台源于销售团队用 AI 构建 SuperApp 引发的内部需求，遵循\"人负责输出\"\"权限不因 AI 扩大\"等五项原则，面向工程师与非工程师分别提供支持。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsg5h9ax06dtrolg09b7xrd8"
-      }
-    },
-    {
-      "id": "cmsg5h9ay06dwrolgxlcyaou8",
-      "title": "Cloudflare 用身份感知分析捕捉失控 AI 行为",
-      "title_en": "Catching rogue AI behavior with identity-aware analytics",
-      "url": "https://blog.cloudflare.com/identity-aware-ai-gateway",
-      "permalink": "https://aihot.virxact.com/items/cmsg5h9ay06dwrolgxlcyaou8",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-05T13:00:00.000Z",
-      "discoveredAt": "2026-08-05T13:56:13.182Z",
-      "summary": "Cloudflare 推出身份感知 AI Gateway 与 User Insights，为每个请求绑定经 Access 验证的用户身份，并基于账户自身历史行为建立基线，识别偏离正常模式的异常会话。该功能现处于开放测试阶段，User Insights 已向所有 AI Gateway 客户免费开放。其异常检测以近 30 天会话成本 p95 为基准，超过 2 倍即标记为可疑行为。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsg5h9ay06dwrolgxlcyaou8"
-      }
-    },
-    {
-      "id": "cmsg5h9ay06durolg6bwl0p8e",
-      "title": "Cloudflare OS：面向智能体、应用与工作的开放平台",
-      "title_en": "Cloudflare OS： an open platform for agents， apps， and work",
-      "url": "https://blog.cloudflare.com/cloudflare-os",
-      "permalink": "https://aihot.virxact.com/items/cmsg5h9ay06durolg6bwl0p8e",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-05T13:00:00.000Z",
-      "discoveredAt": "2026-08-05T13:56:13.182Z",
-      "summary": "Cloudflare 开源新版 Cloudflare OS，任何组织均可部署并连接内部系统。该平台为每位员工提供基于公司上下文与技能的智能体工作区，包含隔离运行时、安全治理框架及可共享修改的个人应用。此前内部版本已供数千名员工日常使用，新版针对协作中的信息暴露风险重建了安全基础。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsg5h9ay06durolg6bwl0p8e"
       }
     },
     {
@@ -868,96 +958,6 @@
       }
     },
     {
-      "id": "cmseq167s12m3ro2eas0pbc9y",
-      "title": "Cloudflare 如何用软件工厂将 Astro 的 GitHub issue 数降至零",
-      "title_en": "How we built a software factory to drive Astro's GitHub issue count to zero",
-      "url": "https://blog.cloudflare.com/astro-issue-triage",
-      "permalink": "https://aihot.virxact.com/items/cmseq167s12m3ro2eas0pbc9y",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-04T13:00:00.000Z",
-      "discoveredAt": "2026-08-04T13:56:04.557Z",
-      "summary": "Cloudflare 在 Astro 仓库上运行自动化 triage 流水线，通过隔离的 AI 子代理复现、诊断并修复 bug，将开放 issue 从 200 多个降至约 30 个，预计下月归零。该流水线由 issue 标签驱动，修复后自动发布预览版本供用户验证。其底层引擎已发展为 Flue，一个开源的平台无关框架，用于构建持久化智能体与工作流。",
-      "category": "tip",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmseq167s12m3ro2eas0pbc9y"
-      }
-    },
-    {
-      "id": "cmseq167s12m2ro2efhh7h5ia",
-      "title": "Cloudflare 让智能体通过本地追踪调试 Workers",
-      "title_en": "Your agent can now debug Workers with local tracing",
-      "url": "https://blog.cloudflare.com/local-tracing",
-      "permalink": "https://aihot.virxact.com/items/cmseq167s12m2ro2efhh7h5ia",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-04T13:00:00.000Z",
-      "discoveredAt": "2026-08-04T13:56:04.557Z",
-      "summary": "Cloudflare 即日起在 wrangler dev 和 vite dev 中自动为本地 Worker 调用捕获 OpenTelemetry 追踪，无需安装 SDK 或配置智能体。智能体可通过 Local Explorer API 查询追踪数据，定位失败操作、修复本地环境并验证结果。开发者也可在浏览器界面 Local Explorer 中可视化查看 spans、时序、错误及关联控制台日志。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmseq167s12m2ro2efhh7h5ia"
-      }
-    },
-    {
-      "id": "cmseq167r12m1ro2eqjsdn6wd",
-      "title": "Cloudflare 推出 Agents 平台，率先上线智能体追踪功能",
-      "title_en": "Introducing： Cloudflare Agents",
-      "url": "https://blog.cloudflare.com/agents-on-cloudflare",
-      "permalink": "https://aihot.virxact.com/items/cmseq167r12m1ro2eqjsdn6wd",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-04T13:00:00.000Z",
-      "discoveredAt": "2026-08-04T13:56:04.557Z",
-      "summary": "Cloudflare 推出 Cloudflare Agents，将部署在平台上的智能体会话统一到一个视图中，并率先上线 agent tracing 功能。该功能支持 OpenTelemetry 兼容的 Think、Flue 和 AI SDK 等智能体框架，可测量每次模型调用、工具执行和 token 消耗。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmseq167r12m1ro2eqjsdn6wd"
-      }
-    },
-    {
-      "id": "cmseq167r12lzro2ecc1f23gs",
-      "title": "Cloudflare 推出 CI SDK：在 Cloudflare 上为百万级仓库运行 CI/CD 流水线",
-      "title_en": "Run CI/CD for millions of repos - on your platform， on Cloudflare",
-      "url": "https://blog.cloudflare.com/ci-workflows",
-      "permalink": "https://aihot.virxact.com/items/cmseq167r12lzro2ecc1f23gs",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-04T13:00:00.000Z",
-      "discoveredAt": "2026-08-04T13:56:04.557Z",
-      "summary": "Cloudflare 推出基于 Workflows 和 Sandbox SDK 的 CI SDK，让平台方直接在 Cloudflare 上运行 CI/CD 流水线，支持构建、lint、类型检查、单元测试、依赖缓存及条件部署。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmseq167r12lzro2ecc1f23gs"
-      }
-    },
-    {
-      "id": "cmseq167r12lxro2erzimnhk2",
-      "title": "Cloudflare 推出 Agent Development Lifecycle，让智能体接管更多软件开发生命周期",
-      "title_en": "The Agent Development Lifecycle has arrived on Cloudflare",
-      "url": "https://blog.cloudflare.com/agent-development-lifecycle",
-      "permalink": "https://aihot.virxact.com/items/cmseq167r12lxro2erzimnhk2",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-04T13:00:00.000Z",
-      "discoveredAt": "2026-08-04T13:56:04.557Z",
-      "summary": "Cloudflare 宣布推出 Agent Development Lifecycle（ADLC），以取代传统 SDLC，让 AI 智能体从仅生成代码扩展到承担更多开发流程。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmseq167r12lxro2erzimnhk2"
-      }
-    },
-    {
       "id": "cmseo63z710lvro2eblsf93az",
       "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
       "title_en": null,
@@ -1117,6 +1117,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5"
+      }
+    },
+    {
+      "id": "cmshkwems0ifkronke88xm1l5",
+      "title": "论文揭示 LangGraph、CrewAI 等五个智能体工作流框架的检查点与恢复语义缺陷",
+      "title_en": "Resume Means Resume： A Machine-Checked Conformance Contract for Checkpoint， Interrupt， and Resume Semantics in Workflow Persistence Layers",
+      "url": "https://arxiv.org/abs/2608.03836",
+      "permalink": "https://aihot.virxact.com/items/cmshkwems0ifkronke88xm1l5",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "discoveredAt": "2026-08-04T00:00:00.000Z",
+      "summary": "一项研究为智能体工作流持久化层提出\"恢复契约\"，规定前缀延续、效果恰好一次等六项属性，并用 TLA+ 模型穷举验证了 740 万状态。实测发现 LangGraph 1.2.9 在崩溃后重复执行已持久化工作，CrewAI 1.15.2 违背其书面声明，pydantic-graph 1.x 无法在节点中途崩溃后恢复。研究还给出经 Verus 验证的参考实现 REMIT，修复了分叉与有效性缺陷。",
+      "category": "paper",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshkwems0ifkronke88xm1l5"
       }
     },
     {
@@ -1369,60 +1387,6 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsddya2a01t3rotjo94tdap8"
-      }
-    },
-    {
-      "id": "cmsdal06c16pxroeu5xtlavmg",
-      "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
-      "title_en": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
-      "url": "https://blog.cloudflare.com/cloudflare-computer",
-      "permalink": "https://aihot.virxact.com/items/cmsdal06c16pxroeu5xtlavmg",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-03T13:15:24.000Z",
-      "discoveredAt": "2026-08-03T13:55:49.808Z",
-      "summary": "Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdal06c16pxroeu5xtlavmg"
-      }
-    },
-    {
-      "id": "cmsdal06d16pzroeuf2u64pdv",
-      "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
-      "title_en": "Introducing the Billable Usage API： programmatic cost visibility for Cloudflare",
-      "url": "https://blog.cloudflare.com/billable-usage-api",
-      "permalink": "https://aihot.virxact.com/items/cmsdal06d16pzroeuf2u64pdv",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-03T13:00:00.000Z",
-      "discoveredAt": "2026-08-03T13:55:49.808Z",
-      "summary": "Cloudflare 发布 Billable Usage API，为自助账户提供单一端点，一次调用即可返回按产品和计费周期拆分的用量与成本，覆盖 Workers、R2、D1、Workers AI、Vectorize、Images 和 Stream。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdal06d16pzroeuf2u64pdv"
-      }
-    },
-    {
-      "id": "cmsdal06d16pyroeu00obye0v",
-      "title": "Cloudflare Workers 与 Containers 现已支持入站 TCP 连接和 gRPC",
-      "title_en": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
-      "url": "https://blog.cloudflare.com/grpc-workers",
-      "permalink": "https://aihot.virxact.com/items/cmsdal06d16pyroeu00obye0v",
-      "source": "Cloudflare Blog",
-      "publishedAt": "2026-08-03T13:00:00.000Z",
-      "discoveredAt": "2026-08-03T13:55:49.808Z",
-      "summary": "Cloudflare 在 Agents Week 期间推出 Workers 运行时新处理器 connect（socket），可直接接受 Spectrum 提供的入站 TCP 套接字，并支持将套接字转发至 Durable Objects 或 Containers，实现全双工通信。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdal06d16pyroeu00obye0v"
       }
     },
     {
@@ -1802,7 +1766,43 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga"
       }
+    },
+    {
+      "id": "cms8uyr1v02eiro7vlfii2qsd",
+      "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
+      "title_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+      "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
+      "permalink": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-07-31T10:57:37.000Z",
+      "discoveredAt": "2026-07-31T11:27:32.015Z",
+      "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
+      "category": "industry",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd"
+      }
+    },
+    {
+      "id": "cmsdu108a00u8rofzj55w3j8n",
+      "title": "小红书 dots 团队发布 VibeLifeBench 与 VibeSearchBench：七个最强模型无一及格",
+      "title_en": "把最强模型丢进真实生活一个月，没有一个及格",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247495889&idx=1&sn=abb72082b7b1e1b12cc7dc6e4c812a50",
+      "permalink": "https://aihot.virxact.com/items/cmsdu108a00u8rofzj55w3j8n",
+      "source": "公众号：小红书技术（dots.llm）",
+      "publishedAt": "2026-07-31T10:00:00.000Z",
+      "discoveredAt": "2026-07-31T10:00:00.000Z",
+      "summary": "小红书 dots 团队推出 VibeLifeBench 与 VibeSearchBench 两个生活场景评测基准，测试中七个当前最强模型无一在正确时间点解决护照有效期等关键问题，最高分仅 0.325（Opus 5）。",
+      "category": "paper",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsdu108a00u8rofzj55w3j8n"
+      }
     }
   ],
-  "cachedAt": "2026-08-06T12:17:14Z"
+  "cachedAt": "2026-08-06T15:27:35Z"
 }
