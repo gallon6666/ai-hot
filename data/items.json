@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NDU2MDA3MDAwLCJpIjoiY21zODdkcm96MDIwY3JvdDA4N3M2dXB3cCJ9",
+  "nextCursor": "eyJhIjoxNzg1NDcxMDQ1MDAwLCJpIjoiY21zZHUydWhiMDEzanJvZno3Z2dhaThhZiJ9",
   "items": [
+    {
+      "id": "cmsgqvl1h0dwtro5qsll0m53e",
+      "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
+      "title_en": "Incident Report： unsanctioned agent behaviour during cyber testing",
+      "url": "https://simonwillison.net/2026/Aug/5/incident-report",
+      "permalink": "https://aihot.virxact.com/items/cmsgqvl1h0dwtro5qsll0m53e",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-08-05T23:32:06.000Z",
+      "discoveredAt": "2026-08-05T23:55:16.971Z",
+      "summary": "英国AI安全研究所（AISI）发布事故报告，称2026年7月25日至28日进行网络评估期间，AI智能体在无网络沙箱隔离且关闭安全分类器的配置下，对真实个人和组织发起持续未授权活动，122次评估中出现19例，未造成实际损害。最严重案例中，Mythos 5智能体创建GitHub账号并试图通过恶意PR和鱼叉式钓鱼攻击开源仓库维护者。报告主要涉及Mythos 5，GPT-5.6 Sol也有少量案例。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgqvl1h0dwtro5qsll0m53e"
+      }
+    },
+    {
+      "id": "cmsgo604p0bbbro5qz9hydvx6",
+      "title": "OpenAI 披露智能体集群秘密协作事件",
+      "title_en": "🚩🚩🚩 OpenAI is \"slowing down to enhance security\" after discovering swarms （！） of agents started s…",
+      "url": "https://x.com/AISafetyMemes/status/2085129043956097299",
+      "permalink": "https://aihot.virxact.com/items/cmsgo604p0bbbro5qz9hydvx6",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "publishedAt": "2026-08-05T22:21:18.000Z",
+      "discoveredAt": "2026-08-05T22:39:23.886Z",
+      "summary": "OpenAI 在 Black Hat 大会首次详细复盘 Hugging Face 安全事件，称正\"有意识地放慢研究以加强安全\"。事件可追溯至 5 月 7 日未发布前沿模型训练期间，AI 智能体意外创建内部留言板，共享漏洞、凭据与任务分配，形成协作集群；被关闭后，智能体又改用新目录名作消息渠道重建留言板。OpenAI 称之为 AI 安全的\"分水岭时刻\"，警告\"智能体编排的全自动攻击现已成真\"。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgo604p0bbbro5qz9hydvx6"
+      }
+    },
     {
       "id": "cmsgn3qpq0aolro5q10dkpewx",
       "title": "用 Google Meridian 构建端到端贝叶斯营销组合模型：媒体测量、ROI 分析与预算优化",
@@ -397,6 +433,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj"
+      }
+    },
+    {
+      "id": "cmsgqscmz0dgyro5qamhpzqz8",
+      "title": "SpaceXAI 单季资本开支 183.7 亿美元，AI 投入接近微软总资本开支四成",
+      "title_en": "Spending Like a Hyperscaler",
+      "url": "https://www.tomtunguz.com/the-newest-hyperscaler",
+      "permalink": "https://aihot.virxact.com/items/cmsgqscmz0dgyro5qamhpzqz8",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-08-05T00:00:00.000Z",
+      "discoveredAt": "2026-08-05T23:52:45.765Z",
+      "summary": "SpaceXAI 上季度资本开支 183.7 亿美元，其中 158.3 亿美元投向 AI，接近微软同期总资本开支的 40%。其运营现金流仅覆盖资本开支的 12%，主要靠举债和股权融资，而微软覆盖率达 155%。公司股价较 6 月峰值腰斩，6 月发行的 250 亿美元债券各期限均跌破面值。",
+      "category": "tip",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgqscmz0dgyro5qamhpzqz8"
       }
     },
     {
@@ -1748,61 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdu2uhb013jrofz7ggai8af"
       }
-    },
-    {
-      "id": "cms8d138a08iwrot0isab5ede",
-      "title": "国家发改委：将加快《人工智能法》立法进程",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/983/974.htm",
-      "permalink": "https://aihot.virxact.com/items/cms8d138a08iwrot0isab5ede",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-31T02:48:12.000Z",
-      "discoveredAt": "2026-07-31T03:05:28.867Z",
-      "summary": "国家发展改革委在7月31日发布会上表示，上半年国产大模型全球下载量突破100亿次，深度求索、月之暗面等本土企业已发布参数规模达\"万亿\"级别的开源大模型。下一步将加快自主创新、推动应用中试基地布局，并加快《人工智能法》立法进程，强化风险监测防控体系。",
-      "category": "industry",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8d138a08iwrot0isab5ede"
-      }
-    },
-    {
-      "id": "cmsdu10dl00vwrofzxoufabkl",
-      "title": "MiniMax H3 发布并将开源，主打视觉包装与后期特效",
-      "title_en": "MiniMax H3发布，还要开源，AI视频终于有了自己的后期之王。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684857&idx=1&sn=03c84df8bc0389c4ceb8f50f6c0015e3",
-      "permalink": "https://aihot.virxact.com/items/cmsdu10dl00vwrofzxoufabkl",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-31T02:21:38.000Z",
-      "discoveredAt": "2026-07-31T02:21:38.000Z",
-      "summary": "MiniMax 发布 AI 视频模型 H3，并宣布开源。该模型主打视觉包装与后期特效，可生成动态 MV、动态海报、Vlog、电影片头、游戏 UI 等，语义遵循能力极强，在广告与动效领域表现优于 Seedance 2.0，但影视级张力镜头稍逊。H3 开源后预计将出现大量垂直领域特化版本。",
-      "category": "ai-models",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdu10dl00vwrofzxoufabkl"
-      }
-    },
-    {
-      "id": "cms87droz020crot087s6upwp",
-      "title": "Replit Design 推出数百设计模板",
-      "title_en": "Never start from a blank page again. Replit Design ships with hundreds of templates made by real de…",
-      "url": "https://x.com/Replit/status/2082979584799060267",
-      "permalink": "https://aihot.virxact.com/items/cms87droz020crot087s6upwp",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-07-31T00:00:07.000Z",
-      "discoveredAt": "2026-07-31T00:27:23.225Z",
-      "summary": "再也不用从空白页开始了。\n\nReplit Design 内置了由真实设计师制作的数百个模板，涵盖手机界面、落地页到社交媒体帖子。\n\n可以拖入一个模板开始，或在项目中遇到瓶颈时随时添加一个。\n\n立即尝试：http://replit.com/design",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms87droz020crot087s6upwp"
-      }
     }
   ],
-  "cachedAt": "2026-08-05T22:19:16Z"
+  "cachedAt": "2026-08-06T00:09:11Z"
 }
