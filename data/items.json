@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NDk1NDU3MDAwLCJpIjoiY21zOHV5cjF2MDJlaXJvN3ZsZmlpMnFzZCJ9",
+  "nextCursor": "eyJhIjoxNzg1NDk2MDU1MDAwLCJpIjoiY21zOTFmajBqMDBxdnJvOWszM2EwYWdnYSJ9",
   "items": [
+    {
+      "id": "cmshh5fi00dsyronkhrkq34l0",
+      "title": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
+      "title_en": "宇树科技公告发行价格为 150.8 元 / 股：市盈率 219.23 倍高于行业平均，对应总市值超 600 亿元",
+      "url": "https://www.ithome.com/0/986/699.htm",
+      "permalink": "https://aihot.virxact.com/items/cmshh5fi00dsyronkhrkq34l0",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-06T11:21:53.000Z",
+      "discoveredAt": "2026-08-06T12:10:42.533Z",
+      "summary": "宇树科技公告科创板首次公开发行定价 150.80 元/股，发行 4044.6434 万股，对应上市市值约 609.93 亿元。发行市盈率 219.23 倍，高于行业平均的 38.56 倍，预计募资总额约 60.99 亿元。战略配售获配 808.9286 万股，包括社保基金、深度求索、中国石油集团等，网上申购日为 8 月 10 日。",
+      "category": "industry",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshh5fi00dsyronkhrkq34l0"
+      }
+    },
     {
       "id": "cmsh6fjal001mronkgffxycgg",
       "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga"
       }
-    },
-    {
-      "id": "cms8uyr1v02eiro7vlfii2qsd",
-      "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-      "title_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-      "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-      "permalink": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-31T10:57:37.000Z",
-      "discoveredAt": "2026-07-31T11:27:32.015Z",
-      "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
-      "category": "industry",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd"
-      }
     }
   ],
-  "cachedAt": "2026-08-06T09:49:46Z"
+  "cachedAt": "2026-08-06T12:17:14Z"
 }
