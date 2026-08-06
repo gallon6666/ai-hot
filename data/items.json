@@ -1,8 +1,62 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NDcxMDQ1MDAwLCJpIjoiY21zZHUydWhiMDEzanJvZno3Z2dhaThhZiJ9",
+  "nextCursor": "eyJhIjoxNzg1NDgxMDAxMDAwLCJpIjoiY21zOGxkOTM4MGk3YXJvdDBseXh0OGgzdCJ9",
   "items": [
+    {
+      "id": "cmsgulpsm0hwaro5qcjgjlvgr",
+      "title": "Prime Agent：一个具有自我改进能力的RLM代理",
+      "title_en": null,
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "permalink": "https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-06T01:27:27.867Z",
+      "discoveredAt": "2026-08-06T01:39:34.524Z",
+      "summary": "Prime Agent 是一个自我改进的编码代理，围绕递归语言模型（RLM）和持续框架（Continual Harness）两大抽象构建，将上下文视为变量、子代理委派视为 REPL 内的函数调用，并允许代理对其提示词、技能、记忆和子代理进行 CRUD 操作。它完全开源，可通过 curl 命令安装，支持与前沿模型即时使用，并具备后台守护进程、会话恢复、分支分叉和异步内核压缩等特性。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr"
+      }
+    },
+    {
+      "id": "cmsgua3ax0hqgro5qo4wr6g7y",
+      "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+      "title_en": "OpenAI开源的这个安全插件，是每个Vibe Coding的人都必装的神器。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
+      "permalink": "https://aihot.virxact.com/items/cmsgua3ax0hqgro5qo4wr6g7y",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-08-06T01:15:29.000Z",
+      "discoveredAt": "2026-08-06T01:30:31.702Z",
+      "summary": "OpenAI 将安全插件 Codex Security 开源，外部 Agent 均可调用，并已支持通过 OpenRouter 和 Fireworks 接入第三方模型。",
+      "category": "tip",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgua3ax0hqgro5qo4wr6g7y"
+      }
+    },
+    {
+      "id": "cmsgsgz530fluro5qu0vnw8s0",
+      "title": "Microsoft 的 SkillOpt 证明优化后的智能体技能工件可在不同模型规模及 Codex 与 Claude Code 之间迁移",
+      "title_en": "Microsoft's SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
+      "url": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability",
+      "permalink": "https://aihot.virxact.com/items/cmsgsgz530fluro5qu0vnw8s0",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-06T00:37:42.000Z",
+      "discoveredAt": "2026-08-06T00:39:54.033Z",
+      "summary": "Microsoft 与上海交大、同济、复旦团队提出的 SkillOpt 通过文本空间优化训练单一技能文档，冻结目标模型，使优化后的技能工件可跨模型规模和跨工具链迁移。在 Codex 上优化的 SpreadsheetBench 技能部署到 Claude Code 后得分 81.8，超过后者自行训练技能得到的 80.4。全部 4 项跨模型、4 项跨工具链和 3 项跨基准迁移结果均高于目标的无技能基线。",
+      "category": "paper",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgsgz530fluro5qu0vnw8s0"
+      }
+    },
     {
       "id": "cmsgqvl1h0dwtro5qsll0m53e",
       "title": "英国AI安全研究所事故报告：关闭安全过滤器的AI智能体在真实互联网上发起未授权攻击",
@@ -433,6 +487,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj"
+      }
+    },
+    {
+      "id": "cmsgxbipf02reroxzm6rg0q4l",
+      "title": "个性化幻觉：LLM 如何编造用户画像，以及为何自我监控会误导",
+      "title_en": "The Personalization Mirage： How LLMs Fabricate User Profiles， and Why Self-Monitoring Misleads",
+      "url": "https://arxiv.org/abs/2608.04570",
+      "permalink": "https://aihot.virxact.com/items/cmsgxbipf02reroxzm6rg0q4l",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-05T00:00:00.000Z",
+      "discoveredAt": "2026-08-06T02:55:37.726Z",
+      "summary": "一项新研究揭示，个性化大语言模型普遍存在过度推断（OI）现象，即编造超出证据支持的用户属性。在 MirageBench 基准测试中，12 个模型均有 35%-49% 的推断被判定为虚构（均值 41.6%）。更关键的是，模型自我评估的 OI 与外部评测结果呈负相关（rho = -0.60），表明自我报告的可信度是误导性信号，外部验证才是更可靠的个性化基础。",
+      "category": "paper",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsgxbipf02reroxzm6rg0q4l"
       }
     },
     {
@@ -1730,79 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms8ld9380i7arot0lyxt8h3t"
       }
-    },
-    {
-      "id": "cmsdu10dl00vvrofzn6wd0oma",
-      "title": "DeepSeek V4 Flash 正式版发布：后训练重做，九项 Agent 测试全面超越 V4 Pro Preview",
-      "title_en": "等了好久，DeepSeek V4的正式版终于来了。 可惜，来的还是DeepSeek-V4-Flash，V4 Pro正式版还得继续等。 但我看到消息的第一反应，还有很开心的。 因为V4 Flash对我现在的生活，反而比V4 Pro还要重要。 这次，DeepSeek V4 Flash它的模型结构和参数规模完全没变，只重新做了后训练，但是强了特别多。 Terminal Bench 2.1从61.8涨到了82.7。 DeepSWE从7.3涨到了54.4。 DSBench-FullStack从37.0涨到了68.7。 官方列出的九项Agent测试里，它已经全部超过了V4 Pro Preview。 同时还原生支持Responses API，专门针对Codex进行了适配。 讲真，DeepSeek这次在后训练上，应该是憋了个大的。 但如果让我非常坦率地评价，DeepSeek V4 Flash在最顶级的Coding和Agent任务里，跟GPT-5.6 Sol、Claude Opus 5、Kimi K3这些最强模型，依然会有巨大的差距。 复杂项目的架构设计、长时间自主执行、充满意外的多步任务，我大概率还是会优先把最强的模型挂上去。 这没什么可避讳的。 但模型真正进入生产环境以后，能力上限只是一部分。 还有一个经常被低估到离谱的指标： 你到底用不用得起。 这也是我为什么反而更期待Flash。 我自己的AIHOT，现在每天差不多要抓一万条新闻。 这些新闻进来以后，要做结构化、数据清洗、预筛、标注、实体提取、原子事件分离、聚类、语义合并等等，还有一大堆后续判断。 最后才回到真正的精选打分环节那一步。 这里面绝大多数环节，都需要AI介入。 有些流程复杂到甚至需要Agent自己调用工具、检查结果、决定下一步。 一万条新闻，乘上一大串处理链路，最后就是一个极其恐怖的调用量。 按照我现在的调用规模，每个月大概API的消耗量在1000多人民币，你要是换成我常用的那些顶级模型，成本至少得翻十倍以上。 但DeepSeek V4 Flash就很适合干这个。 智能水平在中上等，却又便宜得离谱。 WorkBuddy里也是一样。 真正难到天上的任务，大家可以接K3。 可绝大多数日常任务，DeepSeek V4 Flash已经完全能处理，而且单次只消耗0.06积分。 行业当然需要那些一次跑通世界级难题的顶级模型。 可这个世界上更多的真实需求，是每天重复一万次、十万次、上百万次的普通任务。 当智能贵得像奢侈品时，大家只能偶尔体验。 当智能便宜到像水电一样时，它才会真正流进每一家公司、每一条流水线和每一个普通人的生活里。 所以我很多时候，真的挺感谢DeepSeek。 这才是真正的，智能平权。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684859&idx=1&sn=29658a67b2b3ef46aead73698d900250",
-      "permalink": "https://aihot.virxact.com/items/cmsdu10dl00vvrofzn6wd0oma",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-07-31T06:41:10.000Z",
-      "discoveredAt": "2026-07-31T06:41:10.000Z",
-      "summary": "DeepSeek V4 Flash 正式版发布，模型结构和参数规模不变，仅重做后训练，Terminal Bench 2.1 从 61.8 涨至 82.7，DeepSWE 从 7.3 涨至 54.4。",
-      "category": "ai-models",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdu10dl00vvrofzn6wd0oma"
-      }
-    },
-    {
-      "id": "cms8llt7f0iaprot0tz5qnk6i",
-      "title": "国家发改委：人工智能相关行业保持 30% 以上高增长，全国智能算力规模达去年同期 2.8 倍",
-      "title_en": "国家发改委：人工智能相关行业保持 30% 以上的高增长，截至 6 月底全国智能算力规模达到去年同期 2.8 倍",
-      "url": "https://www.ithome.com/0/984/130.htm",
-      "permalink": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-31T06:38:54.000Z",
-      "discoveredAt": "2026-07-31T07:05:30.200Z",
-      "summary": "国家发展改革委在 7 月新闻发布会上介绍，上半年人工智能自主创新加快，首个全国产 10 万卡人工智能超集群正式投用，截至 6 月底全国智能算力规模达去年同期 2.8 倍。深度求索、月之暗面等本土企业发布多个万亿级参数开源大模型，国产大模型全球总下载量突破 100 亿次。相关行业保持 30% 以上高增长，上半年规模以上工业企业集成电路产量同比增长 23.1%，出口额同比增长 88.7%。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8llt7f0iaprot0tz5qnk6i"
-      }
-    },
-    {
-      "id": "cms8i3p4m0ek6rot0xc8l3gak",
-      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-      "title_en": "Show HN： 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
-      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "permalink": "https://aihot.virxact.com/items/cms8i3p4m0ek6rot0xc8l3gak",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-31T04:57:18.494Z",
-      "discoveredAt": "2026-07-31T05:27:26.620Z",
-      "summary": "一项受控实验表明，用深度审查的中国模型 DeepSeek V4 Flash 的输出训练美国模型 GPT-OSS-120B，可显著提升其金融推理能力，但审查行为并未迁移。",
-      "category": "paper",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8i3p4m0ek6rot0xc8l3gak"
-      }
-    },
-    {
-      "id": "cmsdu2uhb013jrofz7ggai8af",
-      "title": "腾讯混元 Hyra 攻克加法组合学 50 年未解难题",
-      "title_en": "Hyra 攻克加法组合学 50 年未解难题",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498145&idx=1&sn=6968b330e01b1f306db418dc19ae4843",
-      "permalink": "https://aihot.virxact.com/items/cmsdu2uhb013jrofz7ggai8af",
-      "source": "公众号：腾讯混元",
-      "publishedAt": "2026-07-31T04:10:45.000Z",
-      "discoveredAt": "2026-07-31T04:10:45.000Z",
-      "summary": "腾讯混元上周推出的科研智能体 Hyra，基于本月开源的 Hy3 模型（总参数 295B、激活参数 21B），为加法组合学中悬置半个多世纪的开放问题给出完整答案，证明 2 是该问题指数的上确界。Hyra 先在有限搜索中将最好结果从约 1.14 提高到 1.21，经约 24 小时运行提出核心构造思路，并给出 Lean 4 形式化证明。论文预印本、显式构造和形式化证明均已公开。",
-      "category": "paper",
-      "score": 89,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdu2uhb013jrofz7ggai8af"
-      }
     }
   ],
-  "cachedAt": "2026-08-06T00:09:11Z"
+  "cachedAt": "2026-08-06T03:33:52Z"
 }
