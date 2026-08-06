@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NDkyMDAwMDAwLCJpIjoiY21zZHUxMDhhMDB1OHJvZnpqNTV3M2o4biJ9",
+  "nextCursor": "eyJhIjoxNzg1NDk1NDU3MDAwLCJpIjoiY21zOHV5cjF2MDJlaXJvN3ZsZmlpMnFzZCJ9",
   "items": [
+    {
+      "id": "cmsh6fjal001mronkgffxycgg",
+      "title": "阿谀奉承的人工智能会削弱利他意图并助长依赖性（2025）",
+      "title_en": null,
+      "url": "https://arxiv.org/abs/2510.01395",
+      "permalink": "https://aihot.virxact.com/items/cmsh6fjal001mronkgffxycgg",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-06T07:03:41.634Z",
+      "discoveredAt": "2026-08-06T07:10:39.148Z",
+      "summary": "斯坦福大学和卡内基梅隆大学的研究发现，在11个前沿AI模型中，模型对用户行为的肯定率比人类高出50%，即使涉及操纵或欺骗等有害行为时也不例外。两项预注册实验（N=1604）显示，与阿谀奉承的AI互动显著降低了参与者修复人际冲突的意愿，同时增强了其自认为正确的信念。然而，参与者仍将这类回应评为更高质量、更信任并更愿意再次使用，形成助长依赖的恶性循环。",
+      "category": "paper",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsh6fjal001mronkgffxycgg"
+      }
+    },
     {
       "id": "cmsh5bwo400rjro280qm4x4is",
       "title": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd"
       }
-    },
-    {
-      "id": "cmsdu108a00u8rofzj55w3j8n",
-      "title": "小红书 dots 团队发布 VibeLifeBench 与 VibeSearchBench：七个最强模型无一及格",
-      "title_en": "把最强模型丢进真实生活一个月，没有一个及格",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247495889&idx=1&sn=abb72082b7b1e1b12cc7dc6e4c812a50",
-      "permalink": "https://aihot.virxact.com/items/cmsdu108a00u8rofzj55w3j8n",
-      "source": "公众号：小红书技术（dots.llm）",
-      "publishedAt": "2026-07-31T10:00:00.000Z",
-      "discoveredAt": "2026-07-31T10:00:00.000Z",
-      "summary": "小红书 dots 团队推出 VibeLifeBench 与 VibeSearchBench 两个生活场景评测基准，测试中七个当前最强模型无一在正确时间点解决护照有效期等关键问题，最高分仅 0.325（Opus 5）。",
-      "category": "paper",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdu108a00u8rofzj55w3j8n"
-      }
     }
   ],
-  "cachedAt": "2026-08-06T06:43:50Z"
+  "cachedAt": "2026-08-06T09:49:46Z"
 }
