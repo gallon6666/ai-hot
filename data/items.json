@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NzY3NjAwMDAwLCJpIjoiY21zZGR5YTJhMDF0M3JvdGpvOTR0ZGFwOCJ9",
+  "nextCursor": "eyJhIjoxNzg1NzY4MDU5MDAwLCJpIjoiY21zZGN6eG5sMDEzOHJvdGo4Zmplbm00YiJ9",
   "items": [
+    {
+      "id": "cmsjdsk6p076rroo561c8askl",
+      "title": "Claude Code 会话间可互发消息",
+      "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
+      "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
+      "permalink": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-08-07T19:55:17.000Z",
+      "discoveredAt": "2026-08-07T20:12:19.394Z",
+      "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl"
+      }
+    },
     {
       "id": "cmsjbn0kl058nroo5kq0m0jws",
       "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdczxnl0138rotj8fjenm4b"
       }
-    },
-    {
-      "id": "cmsddya2a01t3rotjo94tdap8",
-      "title": "Google Agent Skills 幕后：如何构建、测试与规模化",
-      "title_en": "Behind the scenes： How we build， test， and scale Google Agent Skills",
-      "url": "https://dev.to/googleai/behind-the-scenes-how-we-build-test-and-scale-google-agent-skills-1am5",
-      "permalink": "https://aihot.virxact.com/items/cmsddya2a01t3rotjo94tdap8",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "publishedAt": "2026-08-03T14:33:20.000Z",
-      "discoveredAt": "2026-08-03T15:30:09.634Z",
-      "summary": "Google Agent Skills 团队详解其开源技能库的构建与治理流程：项目始于 Google Cloud Next 2026 前的\"swarm\"冲刺，发布后 GitHub 星标超 15，000。为保证规模化下的质量，每个技能须通过标准化目录结构、CI/CD 流水线（含 linter、链接检查、AI 辅助清单）及提交时与每周的持续评估，并优先引用远程 MCP 工具。",
-      "category": "tip",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsddya2a01t3rotjo94tdap8"
-      }
     }
   ],
-  "cachedAt": "2026-08-07T19:58:09Z"
+  "cachedAt": "2026-08-07T20:56:53Z"
 }
