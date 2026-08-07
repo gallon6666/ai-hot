@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NzA1OTI3MDAwLCJpIjoiY21zY2M2MmVvMDMzYnJvZXVzdzcyaXNpMCJ9",
+  "nextCursor": "eyJhIjoxNzg1NzE1MjAwMDAwLCJpIjoiY21zZTRqeHJsMGQxZXJvMmVkeGRjMDVmcSJ9",
   "items": [
     {
       "id": "cmsj1zu9421ynronknsiz6vgw",
@@ -217,6 +217,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsib6211178jronko75alzk2"
+      }
+    },
+    {
+      "id": "cmsj4jrne24d5ronkvb40rucl",
+      "title": "扩展分类流映射（Categorical Flow Maps）规模",
+      "title_en": "Scaling Categorical Flow Maps",
+      "url": "https://machinelearning.apple.com/research/scaling-categorical-flow-maps",
+      "permalink": "https://aihot.virxact.com/items/cmsj4jrne24d5ronkvb40rucl",
+      "source": "Apple Machine Learning Research（RSS）",
+      "publishedAt": "2026-08-07T00:00:00.000Z",
+      "discoveredAt": "2026-08-07T15:53:31.766Z",
+      "summary": "连续扩散与流匹配模型有望成为语言建模中自回归方法的有力替代，可解锁加速采样与倾斜等连续模态优势。近期研究通过高斯分布与one-hot编码数据分布间的简单流匹配过程，实现离散数据的连续生成，并借助分类流映射（CFMs）验证了加速采样的可行性，样本质量具有竞争力。",
+      "category": "paper",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsj4jrne24d5ronkvb40rucl"
       }
     },
     {
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmse4jxrl0d1ero2edxdc05fq"
       }
-    },
-    {
-      "id": "cmscc62eo033broeusw72isi0",
-      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-      "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-      "permalink": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-08-02T21:25:27.000Z",
-      "discoveredAt": "2026-08-02T21:52:26.909Z",
-      "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmscc62eo033broeusw72isi0"
-      }
     }
   ],
-  "cachedAt": "2026-08-07T15:07:38Z"
+  "cachedAt": "2026-08-07T16:07:34Z"
 }
