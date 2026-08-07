@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1Njc3MTc0MDAwLCJpIjoiY21zZHU0ejM5MDE4cXJvZnp5b2E2MGw2dyJ9",
+  "nextCursor": "eyJhIjoxNzg1Njg2NDAwMDAwLCJpIjoiY21zZG8weDMyMDNkbXJvMG92b211eWZxeCJ9",
   "items": [
+    {
+      "id": "cmsiys4dz1yqironkuitnfi7t",
+      "title": "斯坦福与 Arc Institute 用 AI 设计全新病毒基因组，16 种在实验室成功杀死细菌",
+      "title_en": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+      "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab",
+      "permalink": "https://aihot.virxact.com/items/cmsiys4dz1yqironkuitnfi7t",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-07T12:50:56.000Z",
+      "discoveredAt": "2026-08-07T13:12:02.670Z",
+      "summary": "斯坦福大学与 Arc Institute 团队用 AI 模型 Evo 从零设计完整病毒基因组，并在实验室构建出 16 种自然界不存在的功能性病毒。Evo 提出 70 万个候选基因组，团队仅筛选最有希望的 285 个序列合成并植入细菌，其中 16 个成功复制并杀死宿主。该研究已通过同行评审发表于《Science》，但 Evo 未接受人类病原体数据训练，且能否推广至其他病毒类群仍是未知数。",
+      "category": "paper",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsiys4dz1yqironkuitnfi7t"
+      }
+    },
+    {
+      "id": "cmsixbbry1x0qronkhbbjukhr",
+      "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+      "title_en": "Ling-3.0-flash 开源：为真实世界而生的开放智能",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+      "permalink": "https://aihot.virxact.com/items/cmsixbbry1x0qronkhbbjukhr",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "publishedAt": "2026-08-07T12:02:16.000Z",
+      "discoveredAt": "2026-08-07T12:31:00.791Z",
+      "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsixbbry1x0qronkhbbjukhr"
+      }
+    },
     {
       "id": "cmsiujxlq1u0zronkvvklblwk",
       "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
@@ -1138,24 +1174,6 @@
       }
     },
     {
-      "id": "cmsesgyzp159kro2efe58vs2u",
-      "title": "蚂蚁百灵发布Ling-3.0-flash开源权重",
-      "title_en": "Today， we're releasing the open weights for Ling-3.0-flash. 🎉 Official BF16 and FP8-quantized vers…",
-      "url": "https://x.com/AntLingAGI/status/2084656533489754475",
-      "permalink": "https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "publishedAt": "2026-08-04T15:03:43.000Z",
-      "discoveredAt": "2026-08-04T15:04:20.575Z",
-      "summary": "今天，我们发布了 Ling-3.0-flash 的开源权重。🎉\n\n官方 BF16 和 FP8 量化版本现已可用，您可以根据自己的硬件、性能要求和部署需求选择最合适的版本。",
-      "category": "ai-models",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsesgyzp159kro2efe58vs2u"
-      }
-    },
-    {
       "id": "cmsesrlcn15j6ro2ecpj577wj",
       "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
       "title_en": "NVIDIA Alpamayo 2 Super， the Frontier Open Model for Robotaxis and Autonomous Vehicles， Now Available for Commercial Use",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdo0x3203dmro0ovomuyfqx"
       }
-    },
-    {
-      "id": "cmsdu4z39018qrofzyoa60l6w",
-      "title": "实测MiniMax H3做后期和动效：视频届的审美王来了",
-      "title_en": "实测MiniMax H3做后期和动效夯中夯，视频届的审美王来了！",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509055&idx=1&sn=28254c9e78532b336895b8c541905d49",
-      "permalink": "https://aihot.virxact.com/items/cmsdu4z39018qrofzyoa60l6w",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-08-02T13:26:14.000Z",
-      "discoveredAt": "2026-08-02T13:26:14.000Z",
-      "summary": "MiniMax H3视频模型实测覆盖广告TVC、短剧、创意片头、动态海报、UI动效和游戏实机六类场景，可生成5-15秒视频、原生双声道、直出2K，一次最多放9张图、3段视频和3段音频，提示语最高支持7000字符。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdu4z39018qrofzyoa60l6w"
-      }
     }
   ],
-  "cachedAt": "2026-08-07T11:55:33Z"
+  "cachedAt": "2026-08-07T13:36:45Z"
 }
