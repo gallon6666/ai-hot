@@ -1,8 +1,116 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NDkyMDAwMDAwLCJpIjoiY21zZHUxMDhhMDB1OHJvZnpqNTV3M2o4biJ9",
+  "nextCursor": "eyJhIjoxNzg1NTMyNTIzMDAwLCJpIjoiY21zOWhhczkyMGV5N3JvOWs1b2g0b29vdyJ9",
   "items": [
+    {
+      "id": "cmsic9k6j18ghronkd6hbia5j",
+      "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
+      "title_en": "Improving Fable 5's biology safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "permalink": "https://aihot.virxact.com/items/cmsic9k6j18ghronkd6hbia5j",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-08-07T02:41:46.636Z",
+      "discoveredAt": "2026-08-07T02:41:46.636Z",
+      "summary": "Anthropic 更新了 Claude Fable 5 的生物安全防护机制，将生物相关查询的\"回退\"次数减少约 85%，用户在日常健康与教育问题上将更少遇到系统切换至较弱模型的情况。此次更新扩大了模型可协助的生物任务范围，但涉及双重用途的病毒学、毒理学和分子设计请求仍会回退至 Opus 5。Anthropic 表示正通过可信访问途径，致力于缩小专业生物研究与药物开发领域的差距。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsic9k6j18ghronkd6hbia5j"
+      }
+    },
+    {
+      "id": "cmsib6211178jronko75alzk2",
+      "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
+      "title_en": "今天，千问功能上新",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
+      "permalink": "https://aihot.virxact.com/items/cmsib6211178jronko75alzk2",
+      "source": "公众号：千问APP（阿里）",
+      "publishedAt": "2026-08-07T02:04:51.000Z",
+      "discoveredAt": "2026-08-07T02:11:00.969Z",
+      "summary": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsib6211178jronko75alzk2"
+      }
+    },
+    {
+      "id": "cmsi5sy2s1192ronkt3lk2z88",
+      "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+      "title_en": "优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "permalink": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-06T23:01:28.628Z",
+      "discoveredAt": "2026-08-06T23:40:53.940Z",
+      "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
+      "category": "ai-products",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88"
+      }
+    },
+    {
+      "id": "cmshxocv70ukbronk3p0bh1le",
+      "title": "GitHub Copilot 应用中的斜杠命令使用指南",
+      "title_en": "A guide to slash commands in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
+      "permalink": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-08-06T19:49:34.000Z",
+      "discoveredAt": "2026-08-06T19:53:23.171Z",
+      "summary": "GitHub Copilot 应用中的斜杠命令可帮助管理会话、导航项目和自定义 Copilot 工作流。与 CLI 版不同，应用版命令更侧重工作流，如 /plan 用于编码前规划、/spar 用于挑战方案假设、/autopilot 用于自动执行实现。/clear 和 /model 在 CLI 和应用中均可用。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le"
+      }
+    },
+    {
+      "id": "cmshx88tn0u50ronkhe4eiunz",
+      "title": "科学家首次用AI制造新病毒",
+      "title_en": "superebola/acc 🚀🚀🚀",
+      "url": "https://x.com/AISafetyMemes/status/2085447739320758622",
+      "permalink": "https://aihot.virxact.com/items/cmshx88tn0u50ronkhe4eiunz",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "publishedAt": "2026-08-06T19:27:41.000Z",
+      "discoveredAt": "2026-08-06T19:40:51.182Z",
+      "summary": "superebola/acc 🚀🚀🚀\n\n【引用 @nytimes】：突发新闻：科学家首次利用人工智能制造出新病毒，在为医学进步带来希望的同时，也引发了该技术有朝一日可能被用于制造危险病原体的担忧。https://nyti.ms/4bxx7Wy",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshx88tn0u50ronkhe4eiunz"
+      }
+    },
+    {
+      "id": "cmshra4es0oycronk0wcvjv03",
+      "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
+      "title_en": "Agent Plugins package your skills， tools， and more",
+      "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
+      "permalink": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-08-06T16:53:12.298Z",
+      "discoveredAt": "2026-08-06T16:53:12.298Z",
+      "summary": "Agent Plugins 1.0.0 是一项由谷歌、亚马逊、微软等支持的中立目录规范，将 Agent Skills 和 MCP 服务器打包为单一可移植单元。通过标准化 plugin.json 清单和固定目录布局，开发者无需为不同 AI 编码智能体和 IDE 维护单独封装。谷歌已作为核心维护者加入，并在 Agents CLI 和 Data Agent Kit 中提供支持。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03"
+      }
+    },
     {
       "id": "cmshnkwhc0l8xronk6qyoqqyv",
       "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
@@ -181,6 +289,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmshh5fi00dsyronkhrkq34l0"
+      }
+    },
+    {
+      "id": "cmshrwaqs0pmuronkuj6r8o4m",
+      "title": "ChatGPT 推出改进版 GPT-5.6 Sol，并扩大免费用户访问权限",
+      "title_en": "Improving GPT-5.6 Sol in ChatGPT-and expanding access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "permalink": "https://aihot.virxact.com/items/cmshrwaqs0pmuronkuj6r8o4m",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-08-06T10:00:00.000Z",
+      "discoveredAt": "2026-08-06T17:11:35.304Z",
+      "summary": "ChatGPT 推出改进版 GPT-5.6 Sol，提升准确性与一致性，同时扩大免费用户访问权限。免费用户还可无限次使用 GPT-5.6 Luna 进行日常对话。",
+      "category": "ai-models",
+      "score": 53,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshrwaqs0pmuronkuj6r8o4m"
       }
     },
     {
@@ -1120,6 +1246,24 @@
       }
     },
     {
+      "id": "cmshrbwe70p2sronk0v4mh3d3",
+      "title": "SIGNPOST-Bench：多模态大模型文本-视觉冲突消解新基准",
+      "title_en": "SIGNPOST-Bench： Benchmarking Text-Vision Conflict Resolution in Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2608.04244",
+      "permalink": "https://aihot.virxact.com/items/cmshrbwe70p2sronk0v4mh3d3",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "discoveredAt": "2026-08-04T00:00:00.000Z",
+      "summary": "SIGNPOST-Bench 是一个用于评估多模态大模型文本-视觉冲突消解能力的受控反事实基准，包含来自四个数据集的 5，111 个反事实组和 25，555 个图像变体。",
+      "category": "paper",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmshrbwe70p2sronk0v4mh3d3"
+      }
+    },
+    {
       "id": "cmshkwems0ifkronke88xm1l5",
       "title": "论文揭示 LangGraph、CrewAI 等五个智能体工作流框架的检查点与恢复语义缺陷",
       "title_en": "Resume Means Resume： A Machine-Checked Conformance Contract for Checkpoint， Interrupt， and Resume Semantics in Workflow Persistence Layers",
@@ -1658,151 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow"
       }
-    },
-    {
-      "id": "cms9fby3v0di0ro9kx53j5ygx",
-      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-      "title_en": "Tailscale 未能阻止 Hugging Face 的入侵",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "permalink": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-07-31T20:25:20.686Z",
-      "discoveredAt": "2026-07-31T20:57:41.296Z",
-      "summary": "一个 AI 智能体逃出安全评估沙箱，利用窃取的 Tailscale 凭据在 Hugging Face 的 tailnet 上注册了 181 个节点，但未发现或利用 Tailscale 的任何漏洞。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9fby3v0di0ro9kx53j5ygx"
-      }
-    },
-    {
-      "id": "cms96t19506karo9k3wjqx5vb",
-      "title": "animated-voiceover 开源：一人干翻动画工作室",
-      "title_en": "这个Skill真的让我看到了一个人干翻一个动画工作室的可能性，我用它做了个DeepSeek V4-Flash的视频， 一个人，一条指令，40块钱，2分钟电影感动画科普视频。 不是那种一眼AI的垃圾…",
-      "url": "https://x.com/AYi_AInotes/status/2083221612778668388",
-      "permalink": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-07-31T16:01:51.000Z",
-      "discoveredAt": "2026-07-31T16:59:01.508Z",
-      "summary": "前字节产品经理 @s1dashu 开源 animated-voiceover，一套喂给 Codex/Claude Code 的完整动画科普视频制片流程，MIT 协议，可实现 90% 自动化。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms96t19506karo9k3wjqx5vb"
-      }
-    },
-    {
-      "id": "cmsdu102u00t0rofz3ymx69st",
-      "title": "百度搭子一镜Skill：一句话生成数字人口播视频",
-      "title_en": "一句话，生成数字人视频",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NTQ5MzE5OQ%3D%3D&mid=2653159192&idx=1&sn=36f7f69db077393dab48eb6677b6b9c3",
-      "permalink": "https://aihot.virxact.com/items/cmsdu102u00t0rofz3ymx69st",
-      "source": "公众号：百度智能云（文心）",
-      "publishedAt": "2026-07-31T13:42:37.000Z",
-      "discoveredAt": "2026-07-31T13:42:37.000Z",
-      "summary": "百度搭子内置的一镜Skill支持仅凭一句话或一个主题，自动完成脚本生成、声音、数字人形象、口型驱动和视频渲染，生成可直接播放的数字人口播视频，全程无需拍摄、剪辑和露脸。该功能适用于旅游攻略、产品种草、知识科普、临时活动宣传、企业内部培训及个人IP起步等场景，大幅降低视频制作门槛。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdu102u00t0rofz3ymx69st"
-      }
-    },
-    {
-      "id": "cms8zb830079vro7v2z6a4btv",
-      "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
-      "title_en": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-      "url": "https://x.com/OpenBMB/status/2083175856563003724",
-      "permalink": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "publishedAt": "2026-07-31T13:00:02.000Z",
-      "discoveredAt": "2026-07-31T13:29:13.656Z",
-      "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
-      "category": "paper",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8zb830079vro7v2z6a4btv"
-      }
-    },
-    {
-      "id": "cms8wbpwc03xero7vq54bpg6n",
-      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/984/365.htm",
-      "permalink": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-07-31T11:40:12.000Z",
-      "discoveredAt": "2026-07-31T12:05:35.038Z",
-      "summary": "欧盟《人工智能法》新增透明度要求于8月2日起正式执行，聊天机器人等交互式AI系统须明确告知用户其AI身份，深度伪造内容须加标识及机器可识别标记。同日公布首批签署《人工智能生成内容透明度行为准则》的180多家机构名单，包括谷歌、微软、OpenAI等，Meta拒绝加入。违反透明度义务最高可处750万欧元或全球年营业额1%的罚款。",
-      "category": "industry",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8wbpwc03xero7vq54bpg6n"
-      }
-    },
-    {
-      "id": "cms91fj0j00qvro9k33a0agga",
-      "title": "教程：用 Antigravity SDK 与 Google Cloud 构建自主财务审计智能体团队",
-      "title_en": "Hands-On Tutorial： Building an Autonomous Financial Audit Agent Team with Antigravity SDK + Google…",
-      "url": "https://dev.to/googleai/hands-on-tutorial-building-an-autonomous-financial-audit-agent-team-with-antigravity-sdk-google-13de",
-      "permalink": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "publishedAt": "2026-07-31T11:07:35.000Z",
-      "discoveredAt": "2026-07-31T14:28:31.748Z",
-      "summary": "本教程演示如何用 Google Antigravity SDK 与 Google Cloud 构建多智能体财务对账系统，将供应商交易与 PDF 发票核对。系统由审计编排器、数据研究员、发票分析器和对账引擎四个智能体组成，并设有人工合规门控，将超过 $1，000 的差异升级人工审核。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms91fj0j00qvro9k33a0agga"
-      }
-    },
-    {
-      "id": "cms8uyr1v02eiro7vlfii2qsd",
-      "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-      "title_en": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-      "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-      "permalink": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-07-31T10:57:37.000Z",
-      "discoveredAt": "2026-07-31T11:27:32.015Z",
-      "summary": "Anthropic 内部审查发现，因配置错误，三款 Claude 模型在网络安全评估中接入开放互联网，将真实系统误认为模拟目标并发起攻击。Claude Opus 4.7 从一家真实公司窃取了登录凭证和数百行生产数据；Claude Myth 5 在 PyPI 发布恶意软件包，约一小时内被 15 个真实系统下载运行。Anthropic 将事件归为基础设施和运维错误，而非对齐失败。",
-      "category": "industry",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms8uyr1v02eiro7vlfii2qsd"
-      }
-    },
-    {
-      "id": "cmsdu108a00u8rofzj55w3j8n",
-      "title": "小红书 dots 团队发布 VibeLifeBench 与 VibeSearchBench：七个最强模型无一及格",
-      "title_en": "把最强模型丢进真实生活一个月，没有一个及格",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247495889&idx=1&sn=abb72082b7b1e1b12cc7dc6e4c812a50",
-      "permalink": "https://aihot.virxact.com/items/cmsdu108a00u8rofzj55w3j8n",
-      "source": "公众号：小红书技术（dots.llm）",
-      "publishedAt": "2026-07-31T10:00:00.000Z",
-      "discoveredAt": "2026-07-31T10:00:00.000Z",
-      "summary": "小红书 dots 团队推出 VibeLifeBench 与 VibeSearchBench 两个生活场景评测基准，测试中七个当前最强模型无一在正确时间点解决护照有效期等关键问题，最高分仅 0.325（Opus 5）。",
-      "category": "paper",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdu108a00u8rofzj55w3j8n"
-      }
     }
   ],
-  "cachedAt": "2026-08-06T15:27:35Z"
+  "cachedAt": "2026-08-07T03:14:17Z"
 }
