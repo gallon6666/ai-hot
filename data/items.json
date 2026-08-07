@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NTMyNTIzMDAwLCJpIjoiY21zOWhhczkyMGV5N3JvOWs1b2g0b29vdyJ9",
+  "nextCursor": "eyJhIjoxNzg1NTMzODg1MDAwLCJpIjoiY21zOWhpeXo4MGZkdnJvOWtlcHZtMXF2ayJ9",
   "items": [
+    {
+      "id": "cmsijqoan1h2qronk7rexfm14",
+      "title": "Seedance 2.5 API上线，视频生成开启「电影级长叙事」",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247543416&idx=1&sn=badeafc780a939033a1e4cb0bba4221c",
+      "permalink": "https://aihot.virxact.com/items/cmsijqoan1h2qronk7rexfm14",
+      "source": "公众号：火山引擎",
+      "publishedAt": "2026-08-07T06:01:45.000Z",
+      "discoveredAt": "2026-08-07T06:11:00.905Z",
+      "summary": "火山引擎正式上线 Seedance 2.5 API，将单次视频生成时长从15秒提升至30秒，并支持最高50个全模态素材参考。模型在指令遵循、长叙事、真人感及声画质感上大幅提升，能稳定保持多角色外形与场景关系，兼容十余种语言。",
+      "category": "ai-products",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsijqoan1h2qronk7rexfm14"
+      }
+    },
     {
       "id": "cmsic9k6j18ghronkd6hbia5j",
       "title": "Anthropic 更新 Claude Fable 5 生物安全防护，误报率大幅降低",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cms9hiyz80fdvro9kepvm1qvk"
       }
-    },
-    {
-      "id": "cms9has920ey7ro9k5oh4ooow",
-      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件",
-      "title_en": "smevals - a small eval suite for evaluating models， prompts， and harnesses",
-      "url": "https://simonwillison.net/2026/Jul/31/smevals",
-      "permalink": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-07-31T21:15:23.000Z",
-      "discoveredAt": "2026-07-31T21:52:46.540Z",
-      "summary": "smevals 是 Simon Willison 与 Prime Radiant 实验室合作开发的新工具，用于跨不同模型配置运行小型评测套件并对结果打分。它支持通过 `uvx smevals run` 对 gpt-5.5、claude-opus-4.6 等模型运行评测，并将运行与打分分离，最终可生成静态 HTML 报告。这是 Willison 在评测方法上的第三次迭代。",
-      "category": "tip",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cms9has920ey7ro9k5oh4ooow"
-      }
     }
   ],
-  "cachedAt": "2026-08-07T05:02:09Z"
+  "cachedAt": "2026-08-07T06:17:18Z"
 }
