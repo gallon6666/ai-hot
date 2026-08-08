@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1Nzc0Mjg1MDI3LCJpIjoiY21zZGc1NW03MDBsNHJvY2EzeDNndGZiMSJ9",
+  "nextCursor": "eyJhIjoxNzg1Nzc4NzI1MDAwLCJpIjoiY21zZGtnajltMDBobnJvMG9jcmxldGVvMCJ9",
   "items": [
+    {
+      "id": "cmsk9yb97046zrow93i345be7",
+      "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
+      "title_en": "DeepMind's hurricane model bought forecasters an extra day",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+      "permalink": "https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-08-08T11:05:50.000Z",
+      "discoveredAt": "2026-08-08T11:12:34.513Z",
+      "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
+      "category": "paper",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7"
+      }
+    },
     {
       "id": "cmsk5m3kq0ahqro4bn4nh1r6r",
       "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdkgj9m00hnro0ocrleteo0"
       }
-    },
-    {
-      "id": "cmsdg55m700l4roca3x3gtfb1",
-      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-      "title_en": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-      "url": "https://github.com/lyogavin/airllm",
-      "permalink": "https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-03T16:24:45.027Z",
-      "discoveredAt": "2026-08-03T16:31:27.516Z",
-      "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1"
-      }
     }
   ],
-  "cachedAt": "2026-08-08T10:49:18Z"
+  "cachedAt": "2026-08-08T11:40:45Z"
 }
