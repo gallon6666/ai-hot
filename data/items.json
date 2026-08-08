@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1Nzk1OTUzMDAwLCJpIjoiY21zZHQ1Z29tMDEzMHJvamZ3ZDcyY2xrbCJ9",
+  "nextCursor": "eyJhIjoxNzg1Nzk5MTkwMDAwLCJpIjoiY21zZHY4M2NnMDAwbHJvMmV5cDQ5ZW5kcCJ9",
   "items": [
+    {
+      "id": "cmsklqt1907v8royz2pbppkk1",
+      "title": "Grok Imagine 图像编辑迎来重大升级",
+      "title_en": "Major upgrade to Grok Imagine image editing",
+      "url": "https://x.com/elonmusk/status/2086127247077843282",
+      "permalink": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-08-08T16:27:48.000Z",
+      "discoveredAt": "2026-08-08T16:42:40.454Z",
+      "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1"
+      }
+    },
     {
       "id": "cmskiinqk06xiro5ejsx0giz8",
       "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdv83cg000lro2eyp49endp"
       }
-    },
-    {
-      "id": "cmsdt5gom0130rojfwd72clkl",
-      "title": "GPT-Live实时音频新架构发布",
-      "title_en": "GPT-Live is a new architecture and stack for realtime audio：",
-      "url": "https://x.com/gdb/status/2084405421041963356",
-      "permalink": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-08-03T22:25:53.000Z",
-      "discoveredAt": "2026-08-03T22:35:38.041Z",
-      "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl"
-      }
     }
   ],
-  "cachedAt": "2026-08-08T15:43:54Z"
+  "cachedAt": "2026-08-08T16:49:59Z"
 }
