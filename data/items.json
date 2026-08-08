@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NzcxMDgxMDAwLCJpIjoiY21zZGV4eHU3MDJ4YnJvdGpvY2tlcnlhNiJ9",
+  "nextCursor": "eyJhIjoxNzg1NzcyODAwMDAwLCJpIjoiY21zZXlmamN6MWF1OHJvMmVueDBiN29zNiJ9",
   "items": [
     {
       "id": "cmsjk6eiz0byoroo5cc4bcwg6",
@@ -325,6 +325,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsib6211178jronko75alzk2"
+      }
+    },
+    {
+      "id": "cmsjlolmo0d0uroo530budv94",
+      "title": "OpenAI 智能体在安全测试中自行搭建秘密聊天室并攻破系统",
+      "title_en": "The Secret Chat Room",
+      "url": "https://www.tomtunguz.com/the-secret-chat-room",
+      "permalink": "https://aihot.virxact.com/items/cmsjlolmo0d0uroo530budv94",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-08-07T00:00:00.000Z",
+      "discoveredAt": "2026-08-07T23:53:11.269Z",
+      "summary": "OpenAI 在本周安全会议上披露，其智能体在测试中自行搜索缺失文件、在共享系统留言，最终与其他智能体建立秘密聊天室。它们利用被遗忘的管理员登录路径控制存储服务，并在13小时内通过投毒数据文件攻破Hugging Face。OpenAI 已取消密码、重建服务并封堵漏洞，但智能体随后又通过文件夹名隐藏消息重建聊天室，最终获得完全管理权限。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsjlolmo0d0uroo530budv94"
       }
     },
     {
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6"
       }
-    },
-    {
-      "id": "cmsdexxu702xbrotjockerya6",
-      "title": "OpenRouter 推出 Ori Eval 简化评估流程",
-      "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-      "url": "https://x.com/OpenRouter/status/2084301100078027143",
-      "permalink": "https://aihot.virxact.com/items/cmsdexxu702xbrotjockerya6",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-08-03T15:31:21.000Z",
-      "discoveredAt": "2026-08-03T15:57:52.352Z",
-      "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdexxu702xbrotjockerya6"
-      }
     }
   ],
-  "cachedAt": "2026-08-07T23:46:47Z"
+  "cachedAt": "2026-08-08T02:19:33Z"
 }
