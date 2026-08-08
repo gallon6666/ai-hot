@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1NzcyODAwMDAwLCJpIjoiY21zZXlmamN6MWF1OHJvMmVueDBiN29zNiJ9",
+  "nextCursor": "eyJhIjoxNzg1Nzc0Mjg1MDI3LCJpIjoiY21zZGc1NW03MDBsNHJvY2EzeDNndGZiMSJ9",
   "items": [
+    {
+      "id": "cmsk5m3kq0ahqro4bn4nh1r6r",
+      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+      "title_en": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身了",
+      "url": "https://www.ithome.com/0/987/366.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-08T08:25:11.000Z",
+      "discoveredAt": "2026-08-08T09:11:06.156Z",
+      "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+      "category": "ai-products",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r"
+      }
+    },
     {
       "id": "cmsjk6eiz0byoroo5cc4bcwg6",
       "title": "OpenAI：因网络安全风险，延缓 Astra 模型发布",
@@ -1784,25 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdg55m700l4roca3x3gtfb1"
       }
-    },
-    {
-      "id": "cmseyfjcz1au8ro2enx0b7os6",
-      "title": "SpecForge v0.3.0 发布：统一解耦与共置投机解码栈，新增开放 SpecBundle 草稿模型",
-      "title_en": "Blog SpecForge v0.3.0： a Unified Disaggregated and Colocated Speculative Decoding Stack， and New Open SpecBundle Draft Models When we first released SpecForge， a training job owned both the frozen target model and the draft model being optimized. This made EAGLE3 draft-model training practical and directly compatible with SG… The SpecForge Team",
-      "url": "https://www.lmsys.org/blog/2026-08-04-specforge-v0-3",
-      "permalink": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-08-03T16:00:00.000Z",
-      "discoveredAt": "2026-08-04T17:51:09.590Z",
-      "summary": "SpecForge v0.3.0 将目标模型推理与草稿模型训练分离，支持 EAGLE3、EAGLE3.1、P-EAGLE、DFlash、Domino、DSpark 等多种投机解码算法，并统一在线、离线与解耦工作流。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmseyfjcz1au8ro2enx0b7os6"
-      }
     }
   ],
-  "cachedAt": "2026-08-08T08:58:14Z"
+  "cachedAt": "2026-08-08T09:52:59Z"
 }
