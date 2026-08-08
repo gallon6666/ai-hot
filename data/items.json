@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1Nzg2MjA4MDAwLCJpIjoiY21zZG5wOHd5MDM1anJvMG9mbGdwaWk4ZiJ9",
+  "nextCursor": "eyJhIjoxNzg1Nzk1OTUzMDAwLCJpIjoiY21zZHQ1Z29tMDEzMHJvamZ3ZDcyY2xrbCJ9",
   "items": [
+    {
+      "id": "cmskiinqk06xiro5ejsx0giz8",
+      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
+      "title_en": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "permalink": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-08T14:38:40.439Z",
+      "discoveredAt": "2026-08-08T15:12:20.875Z",
+      "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
+      "category": "industry",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8"
+      }
+    },
     {
       "id": "cmskgc07i06srrobyr1cvm25v",
       "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
@@ -127,6 +145,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si"
+      }
+    },
+    {
+      "id": "cmsjaksyd04hlroo5hdy2qd4i",
+      "title": "Claude Code 八月起默认自动模式",
+      "title_en": "Starting August 14， auto mode will be the default permission mode in Claude Code for Pro， Max， and T…",
+      "url": "https://x.com/ClaudeDevs/status/2085794862608318627",
+      "permalink": "https://aihot.virxact.com/items/cmsjaksyd04hlroo5hdy2qd4i",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-08-07T18:27:02.000Z",
+      "discoveredAt": "2026-08-07T18:42:18.303Z",
+      "summary": "自 8 月 14 日起，自动模式将成为 Claude Code 中 Pro、Max 和 Team 用户的默认权限模式。\n\n自动模式使用独立的分类器审查 shell 命令和操作。在测试中，它捕获了 89% 的危险命令。手动审批仅捕获了 14%。",
+      "category": "ai-products",
+      "score": 57,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsjaksyd04hlroo5hdy2qd4i"
       }
     },
     {
@@ -1766,43 +1802,7 @@
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmsdt5gom0130rojfwd72clkl"
       }
-    },
-    {
-      "id": "cmsdqxlyq00giromaftad8bdu",
-      "title": "Claude Code 连接器可复用至 Artifacts",
-      "title_en": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
-      "url": "https://x.com/trq212/status/2084387303959740449",
-      "permalink": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu",
-      "source": "X：Thariq (@trq212)",
-      "publishedAt": "2026-08-03T21:13:53.000Z",
-      "discoveredAt": "2026-08-03T21:33:32.878Z",
-      "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdqxlyq00giromaftad8bdu"
-      }
-    },
-    {
-      "id": "cmsdnp8wy035jro0oflgpii8f",
-      "title": "微软开源 Orchard 智能体训练框架",
-      "title_en": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
-      "url": "https://x.com/MSFTResearch/status/2084364547142418722",
-      "permalink": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f",
-      "source": "X：Microsoft Research (@MSFTResearch)",
-      "publishedAt": "2026-08-03T19:43:28.000Z",
-      "discoveredAt": "2026-08-03T20:03:03.754Z",
-      "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdnp8wy035jro0oflgpii8f"
-      }
     }
   ],
-  "cachedAt": "2026-08-08T14:48:29Z"
+  "cachedAt": "2026-08-08T15:43:54Z"
 }
