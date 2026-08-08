@@ -184,24 +184,6 @@
       }
     },
     {
-      "id": "cmsj8rfkl02ruroo5uvyqiqiq",
-      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-      "title_en": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-      "permalink": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-08-07T17:51:24.888Z",
-      "discoveredAt": "2026-08-07T17:51:24.888Z",
-      "summary": "腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。",
-      "category": "ai-products",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AI HOT",
-        "canonical": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq"
-      }
-    },
-    {
       "id": "cmsj81yyp02cwroo5rcq20vke",
       "title": "LangChain 推出 Managed Deep Agents 公开测试版",
       "title_en": "Managed Deep Agents is now in public beta",
@@ -541,6 +523,24 @@
       "attribution": {
         "source": "AI HOT",
         "canonical": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03"
+      }
+    },
+    {
+      "id": "cmsj8rfkl02ruroo5uvyqiqiq",
+      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
+      "title_en": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
+      "permalink": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-08-06T16:00:00.000Z",
+      "discoveredAt": "2026-08-07T17:51:24.888Z",
+      "summary": "腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。",
+      "category": "ai-products",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AI HOT",
+        "canonical": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq"
       }
     },
     {
@@ -1804,5 +1804,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-08T17:44:46Z"
+  "cachedAt": "2026-08-08T18:56:41Z"
 }
