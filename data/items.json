@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1ODAxNjAwMDAwLCJpIjoiY21zZm9hamd4MDdwOXJvY2g0ZDd2cmp1aCJ9",
+  "nextCursor": "eyJhIjoxNzg1ODAxNjAwMDAwLCJpIjoiY21zaGt3ZW1zMGlma3JvbmtlODh4bTFsNSJ9",
   "items": [
+    {
+      "id": "cmslxhx3t05n3ro0w2lcmvjol",
+      "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+      "title_en": "Lessons from the hacks",
+      "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+      "permalink": "https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol",
+      "source": "Nathan Lambert：Interconnects（RSS）",
+      "publishedAt": "2026-08-09T14:57:11.000Z",
+      "discoveredAt": "2026-08-09T14:59:25.737Z",
+      "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
+      "category": "tip",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmslxhx3t05n3ro0w2lcmvjol"
+      }
+    },
     {
       "id": "cmslwy8bl04pdro0w7f4ogv7t",
       "title": "AI安全测试正成为安全风险",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmshkwems0ifkronke88xm1l5"
       }
-    },
-    {
-      "id": "cmsfoajgx07p9roch4d7vrjuh",
-      "title": "Video-DeepResearch：迈向下一代多模态深度研究智能体",
-      "title_en": "Video-DeepResearch： Towards the Next-Generation Multimodal Deepresearch Agent",
-      "url": "https://arxiv.org/abs/2608.03979",
-      "permalink": "https://aihot.virxact.com/items/cmsfoajgx07p9roch4d7vrjuh",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-04T00:00:00.000Z",
-      "discoveredAt": "2026-08-05T05:55:09.022Z",
-      "summary": "Video-DeepResearch（Video-DR）将多模态智能体从静态图像扩展到连续视频流，提出解耦感知-探索流水线与分阶段工具解锁，以应对模态偏差和参数知识泄漏两大瓶颈。",
-      "category": "paper",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsfoajgx07p9roch4d7vrjuh"
-      }
     }
   ],
-  "cachedAt": "2026-08-09T14:50:54Z"
+  "cachedAt": "2026-08-09T15:45:19Z"
 }
