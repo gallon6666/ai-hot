@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1ODAxNjAwMDAwLCJpIjoiY21zZXZvOXRkMThlaHJvMmU0b3d5cTk1cSJ9",
+  "nextCursor": "eyJhIjoxNzg1ODAxNjAwMDAwLCJpIjoiY21zZjRuYWJ4MWcwM3JvMmUzcmlwYmRmbSJ9",
   "items": [
+    {
+      "id": "cmslhy76p03hdroo0l8dsaskb",
+      "title": "用DistilBERT LoRA与TF-IDF基线做IMDb情感分析：校准、可解释性与半监督学习",
+      "title_en": "IMDb Sentiment Analysis with DistilBERT LoRA， TF-IDF Baselines， Calibration， Interpretability， Robustness Testing， and Semi-Supervised Learning",
+      "url": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning",
+      "permalink": "https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-09T07:17:35.000Z",
+      "discoveredAt": "2026-08-09T07:44:10.959Z",
+      "summary": "本教程基于Stanford IMDb数据集构建端到端情感分析流程，对比TF-IDF逻辑回归基线与LoRA微调的DistilBERT。模型评估涵盖准确率、macro-F1、ROC-AUC及期望校准误差，并分析置信错误、长度影响与词级遮挡显著性。最后利用未标注IMDb数据做置信度伪标注，比较半监督模型与基线，保存合并后的Transformer用于推理。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmslhy76p03hdroo0l8dsaskb"
+      }
+    },
     {
       "id": "cmskzmhrs03rwrowg146pdv9j",
       "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsf4nabx1g03ro2e3ripbdfm"
       }
-    },
-    {
-      "id": "cmsevo9td18ehro2e4owyq95q",
-      "title": "OpenRouter 推出 ori CLI：为 Claude Code 等 Harness 提供开箱即用的优化配置",
-      "title_en": "Ori Harness： The Best Way to Use OpenRouter with Any Harness",
-      "url": "https://openrouter.ai/blog/announcements/ori-harness",
-      "permalink": "https://aihot.virxact.com/items/cmsevo9td18ehro2e4owyq95q",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-08-04T00:00:00.000Z",
-      "discoveredAt": "2026-08-04T16:34:00.141Z",
-      "summary": "OpenRouter 发布 ori CLI，用户安装并登录后即可获得针对 Claude Code、Codex、OpenCode、Hermes 等 harness 的优化配置，省去手动设置大量环境变量的麻烦。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsevo9td18ehro2e4owyq95q"
-      }
     }
   ],
-  "cachedAt": "2026-08-09T07:14:19Z"
+  "cachedAt": "2026-08-09T08:01:10Z"
 }
