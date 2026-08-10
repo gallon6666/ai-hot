@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1ODYxOTAyMTM4LCJpIjoiY21zZXczbDR5MThxaHJvMmVkazB5YWF0OCJ9",
+  "nextCursor": "eyJhIjoxNzg1ODYyMDM4MDAwLCJpIjoiY21zZXdjazg1MTh4NnJvMmUzMnE0YmtzciJ9",
   "items": [
+    {
+      "id": "cmsnix1by08d3rohfftiex1xp",
+      "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
+      "title_en": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "permalink": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-08-10T17:46:50.781Z",
+      "discoveredAt": "2026-08-10T17:46:50.781Z",
+      "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
+      "category": "paper",
+      "score": 57,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp"
+      }
+    },
     {
       "id": "cmsnfpcwf05ecrohfuzbjwyar",
       "title": "Claude Code 自动模式默认开启原理",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsewck8518x6ro2e32q4bksr"
       }
-    },
-    {
-      "id": "cmsew3l4y18qhro2edk0yaat8",
-      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT",
-      "title_en": "A unified API for AI model routing",
-      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-      "permalink": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-08-04T16:45:02.138Z",
-      "discoveredAt": "2026-08-04T16:45:02.138Z",
-      "summary": "Google Cloud API Gateway 新增模型路由功能（Public Preview），开发者可在 OpenAPI 3.x 规范中配置虚拟模型名到后端目标的映射，无需硬编码端点或管理开源代理。网关作为无服务器入口层，接受标准 OpenAI 兼容请求，自动将负载转码为目标模型的原生格式并动态路由流量。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8"
-      }
     }
   ],
-  "cachedAt": "2026-08-10T20:01:42Z"
+  "cachedAt": "2026-08-10T21:00:27Z"
 }
