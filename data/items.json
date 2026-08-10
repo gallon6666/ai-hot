@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1ODU5MjAwMDAwLCJpIjoiY21zZXZvNW0xMThkbXJvMmU5ZDF2ZW42diJ9",
+  "nextCursor": "eyJhIjoxNzg1ODU5MjAwMDAwLCJpIjoiY21zZmtuNmNmMDNjaXJvY2g2dGZ5bmVweSJ9",
   "items": [
     {
       "id": "cmsnfpcwf05ecrohfuzbjwyar",
@@ -343,6 +343,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl"
+      }
+    },
+    {
+      "id": "cmsnj5lkg08hprohfi5aoql6k",
+      "title": "AI Harness 的 ARR 倍数：25-125 倍区间与加速趋势",
+      "title_en": "AI Harness' ARR Multiples",
+      "url": "https://www.tomtunguz.com/ai-harness-arr-multiples",
+      "permalink": "https://aihot.virxact.com/items/cmsnj5lkg08hprohfi5aoql6k",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-08-09T00:00:00.000Z",
+      "discoveredAt": "2026-08-10T17:53:30.203Z",
+      "summary": "Harvey、Legora 与 Sierra 在九个月内相继跨过 1 亿美元年经常性收入（ARR）门槛，Ramp 与 Decagon 分别以 14 亿美元和 3500 万美元夹在两侧。",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnj5lkg08hprohfi5aoql6k"
       }
     },
     {
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsfkn6cf03ciroch6tfynepy"
       }
-    },
-    {
-      "id": "cmsevo5m118dmro2e9d1ven6v",
-      "title": "Google Cloud 推出 Database Operations Agents，实现自主数据库管理",
-      "title_en": "Introducing Database Operations Agents： The future of autonomous database management",
-      "url": "https://cloud.google.com/blog/products/databases/deep-dive-on-new-ai-powered-database-agents",
-      "permalink": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v",
-      "source": "Google Cloud：Databases（RSS）",
-      "publishedAt": "2026-08-04T16:00:00.000Z",
-      "discoveredAt": "2026-08-04T16:33:49.420Z",
-      "summary": "Google Cloud 在 Agentic Data Cloud 发布中推出两款 AI 数据库智能体：Database Onboarding Agent 负责 Day 0 的配置与部署，Database Observability Agent 负责 Day 1/2 的监控、故障排查与维护。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v"
-      }
     }
   ],
-  "cachedAt": "2026-08-10T17:06:56Z"
+  "cachedAt": "2026-08-10T18:01:48Z"
 }
