@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1ODU4MzYzMDAwLCJpIjoiY21zZXVxNXZoMTdvOXJvMmVvbXVlaXZtaSJ9",
+  "nextCursor": "eyJhIjoxNzg1ODU5MjAwMDAwLCJpIjoiY21zZXZvNW0xMThkbXJvMmU5ZDF2ZW42diJ9",
   "items": [
+    {
+      "id": "cmsnfpcwf05ecrohfuzbjwyar",
+      "title": "Claude Code 自动模式默认开启原理",
+      "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
+      "permalink": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-08-10T15:58:56.000Z",
+      "discoveredAt": "2026-08-10T16:16:53.681Z",
+      "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar"
+      }
+    },
     {
       "id": "cmsnbc14r0aezron58wsytu43",
       "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsevo5m118dmro2e9d1ven6v"
       }
-    },
-    {
-      "id": "cmseuq5vh17o9ro2eomueivmi",
-      "title": "商汤 SenseNova U1 开源：统一推理与图像生成",
-      "title_en": "Thanks Dan for testing SenseNova U1 - our open-source AI model that reasons and generates images in …",
-      "url": "https://x.com/SenseTime_AI/status/2084667189479837741",
-      "permalink": "https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "publishedAt": "2026-08-04T15:46:03.000Z",
-      "discoveredAt": "2026-08-04T16:07:29.131Z",
-      "summary": "商汤发布开源模型 SenseNova U1，可在统一流程中同时进行推理与图像生成。其信息图模式可将单条提示词转为结构化幻灯片，交错模式则逐步生成图文内容，如演示六步画龙教程。模型已上线 SenseNova Studio、HuggingFace 及 GitHub。",
-      "category": "ai-models",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmseuq5vh17o9ro2eomueivmi"
-      }
     }
   ],
-  "cachedAt": "2026-08-10T16:09:00Z"
+  "cachedAt": "2026-08-10T17:06:56Z"
 }
