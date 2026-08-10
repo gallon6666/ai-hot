@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1ODU5MjAwMDAwLCJpIjoiY21zZmtuNmNmMDNjaXJvY2g2dGZ5bmVweSJ9",
+  "nextCursor": "eyJhIjoxNzg1ODYxOTAyMTM4LCJpIjoiY21zZXczbDR5MThxaHJvMmVkazB5YWF0OCJ9",
   "items": [
     {
       "id": "cmsnfpcwf05ecrohfuzbjwyar",
@@ -127,6 +127,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsn32xab06ehro8ou4tskajr"
+      }
+    },
+    {
+      "id": "cmsnkpjin0c2nrohfczauf2t2",
+      "title": "OpenAI 推出 GPT-5.6-Cyber，面向授权漏洞研究的网络安全专用模型",
+      "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "permalink": "https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-08-10T10:00:00.000Z",
+      "discoveredAt": "2026-08-10T18:37:00.128Z",
+      "summary": "OpenAI 发布网络安全专用模型 GPT-5.6-Cyber，可通过 Daybreak Red 获取，用于授权的漏洞研究、漏洞验证和安全测试。该模型旨在应对网络防御窗口不断收窄的挑战，为安全研究人员提供专门工具。",
+      "category": "ai-models",
+      "score": 55,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2"
       }
     },
     {
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsew3l4y18qhro2edk0yaat8"
       }
-    },
-    {
-      "id": "cmsfkn6cf03ciroch6tfynepy",
-      "title": "字节 Seed 发布 SeedRealtime 音视频全双工大模型，走向全模态自然交互",
-      "title_en": "SeedRealtime 音视频全双工大模型发布：走向全模态自然交互",
-      "url": "https://seed.bytedance.com/zh/blog/seedrealtime-%E9%9F%B3%E8%A7%86%E9%A2%91%E5%85%A8%E5%8F%8C%E5%B7%A5%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8F%91%E5%B8%83-%E8%B5%B0%E5%90%91%E5%85%A8%E6%A8%A1%E6%80%81%E8%87%AA%E7%84%B6%E4%BA%A4%E4%BA%92",
-      "permalink": "https://aihot.virxact.com/items/cmsfkn6cf03ciroch6tfynepy",
-      "source": "字节 Seed：Research Feed（网页内嵌数据）",
-      "publishedAt": "2026-08-04T16:00:00.000Z",
-      "discoveredAt": "2026-08-05T04:12:59.567Z",
-      "summary": "字节 Seed 发布 SeedRealtime，用统一架构原生融合音频、视频与文本，实现\"边看、边听、边说\"的实时交互。相比级联模型，其音视频对话节奏问题减少一半，并已在豆包 App 全量上线，率先实现音视频全双工技术的规模化落地。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsfkn6cf03ciroch6tfynepy"
-      }
     }
   ],
-  "cachedAt": "2026-08-10T18:01:48Z"
+  "cachedAt": "2026-08-10T19:14:31Z"
 }
