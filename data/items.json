@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1ODU1NTE5MDAwLCJpIjoiY21zZXNpbGU0MTVkNHJvMmV2YjIxajNuMCJ9",
+  "nextCursor": "eyJhIjoxNzg1ODU1NjQ5MDAwLCJpIjoiY21zZXNybGNuMTVqNnJvMmVjcGo1Nzd3aiJ9",
   "items": [
+    {
+      "id": "cmsnbc14r0aezron58wsytu43",
+      "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
+      "title_en": "笔记应用中逾18.1万段AI会议录音被公开暴露",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "permalink": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-10T14:03:26.804Z",
+      "discoveredAt": "2026-08-10T14:14:33.122Z",
+      "summary": "AI会议记录平台tl；dv的Firestore数据库因缺乏租户隔离，任何已认证用户可查询全部18.1万段会议记录，涉及84，312名用户、35，003个域名，含23国政府及多所高校会议。处于录制状态的约1，000场会议会暴露可加入的会议ID，研究者借此闯入马来西亚教育部及美国某大学创业团队的实时通话。该漏洞自2026年1月报告后6个月仍未修复，另有超1，000段会议内容为公开状态。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43"
+      }
+    },
+    {
+      "id": "cmsnbzkyr01qjrohfmjqlmjk5",
+      "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
+      "title_en": "Can Agents Use a Computer Yet？ We've Got the Data",
+      "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
+      "permalink": "https://aihot.virxact.com/items/cmsnbzkyr01qjrohfmjqlmjk5",
+      "source": "a16z：News（RSS）",
+      "publishedAt": "2026-08-10T14:00:46.000Z",
+      "discoveredAt": "2026-08-10T14:32:49.512Z",
+      "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnbzkyr01qjrohfmjqlmjk5"
+      }
+    },
     {
       "id": "cmsn68brx03q2ron5vwp3pwta",
       "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
@@ -1766,43 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsesrlcn15j6ro2ecpj577wj"
       }
-    },
-    {
-      "id": "cmsesrlcn15j7ro2evd57my2c",
-      "title": "NVIDIA 开源 cuFile API，推动 GPU 直连存储",
-      "title_en": "As AI Increases Demands on Memory， Storage Steps Up",
-      "url": "https://blogs.nvidia.com/blog/ai-storage-fms",
-      "permalink": "https://aihot.virxact.com/items/cmsesrlcn15j7ro2evd57my2c",
-      "source": "NVIDIA Blog（RSS）",
-      "publishedAt": "2026-08-04T15:00:47.000Z",
-      "discoveredAt": "2026-08-04T15:12:36.927Z",
-      "summary": "NVIDIA 在 FMS 大会上宣布开源 cuFile API 及底层存储软件栈，让 GPU 可直接读写存储，访问延迟降至微秒级。其 Vera CPU 在两级压缩与加密流水线中吞吐量比 x86 CPU 最高提升 3.21 倍，并联合 40 多家厂商推出 Storage-Next 计划。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsesrlcn15j7ro2evd57my2c"
-      }
-    },
-    {
-      "id": "cmsesile415d4ro2evb21j3n0",
-      "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
-      "title_en": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-      "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
-      "permalink": "https://aihot.virxact.com/items/cmsesile415d4ro2evb21j3n0",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-04T14:58:39.000Z",
-      "discoveredAt": "2026-08-04T15:05:37.147Z",
-      "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
-      "category": "industry",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsesile415d4ro2evb21j3n0"
-      }
     }
   ],
-  "cachedAt": "2026-08-10T13:41:17Z"
+  "cachedAt": "2026-08-10T15:14:52Z"
 }
