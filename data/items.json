@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1ODY2MDQ2MDAwLCJpIjoiY21zZXlyaGNqMWJnbXJvMmVkNDd0NWIwayJ9",
+  "nextCursor": "eyJhIjoxNzg1ODY3NDQ5NjQ4LCJpIjoiY21zZXp5bHozMWNhZHJvMmVvcTFucDN2aCJ9",
   "items": [
+    {
+      "id": "cmsnrwnsb0i1erohfuhfjc4q6",
+      "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
+      "title_en": "http://x.com/i/article/2086933422921117696",
+      "url": "https://x.com/JensenHuang/status/2086934705207959965",
+      "permalink": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6",
+      "source": "X：Jensen Huang (@JensenHuang)",
+      "publishedAt": "2026-08-10T21:56:21.000Z",
+      "discoveredAt": "2026-08-10T21:58:30.136Z",
+      "summary": "英伟达宣布与Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs和KKR合作，建立独立融资平台，动员超5000亿美元第三方资本支持AI基础设施建设。",
+      "category": "industry",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6"
+      }
+    },
     {
       "id": "cmsnix1by08d3rohfftiex1xp",
       "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh"
       }
-    },
-    {
-      "id": "cmseyrhcj1bgmro2ed47t5b0k",
-      "title": "OpenRouter 上线 FLUX 3 Video 统一多模态模型",
-      "title_en": "FLUX 3 Video from @bfl_ai is now available for everyone on OpenRouter. One unified multimodal model…",
-      "url": "https://x.com/OpenRouter/status/2084699413898027064",
-      "permalink": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-08-04T17:54:06.000Z",
-      "discoveredAt": "2026-08-04T18:00:29.372Z",
-      "summary": "@bfl_ai 的 FLUX 3 Video 现已在 OpenRouter 上向所有人开放。\n\n一个统一的视频、音频、图像和动作预测多模态模型家族。严肃、有趣、创意、真实、电影感，随你所需。基于统一架构联合训练。",
-      "category": "ai-models",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmseyrhcj1bgmro2ed47t5b0k"
-      }
     }
   ],
-  "cachedAt": "2026-08-10T21:56:15Z"
+  "cachedAt": "2026-08-10T22:55:00Z"
 }
