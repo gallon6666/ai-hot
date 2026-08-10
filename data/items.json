@@ -1,8 +1,80 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1ODAxOTYwMDAwLCJpIjoiY21zZHdqZ2ltMDMyN3JvMmVrNDV4M2p6NSJ9",
+  "nextCursor": "eyJhIjoxNzg1ODMxMTU2MDAwLCJpIjoiY21zZWUxbWhmMG5uNnJvMmVtNnJ0N3RyNCJ9",
   "items": [
+    {
+      "id": "cmsmlho8005dmrohfoz27j6em",
+      "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
+      "title_en": "租房、寄快递、查理财……在千问都能办了！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488345&idx=1&sn=ef4e57c9c9350f9238d90211eb2dd453",
+      "permalink": "https://aihot.virxact.com/items/cmsmlho8005dmrohfoz27j6em",
+      "source": "公众号：千问APP（阿里）",
+      "publishedAt": "2026-08-10T02:07:18.000Z",
+      "discoveredAt": "2026-08-10T02:11:05.907Z",
+      "summary": "千问开放平台今日上线，面向生态伙伴和开发者开放手机、PC和AI眼镜三类终端的服务接入，首批覆盖物流运输、房产居住、本地生活、理财、汽车等十多个领域。用户可在对话中@相关服务或点击\"圆点角标\"进入智能体，完成从咨询、推荐到下单的完整流程。平台支持标准化协议接入、一键授权与端到端调测，并提供账号、AI支付、订单接入等基础设施。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsmlho8005dmrohfoz27j6em"
+      }
+    },
+    {
+      "id": "cmsmizpgb02yerohf3bh8jesi",
+      "title": "我花了54个小时，做了一个可能更公平的AI大模型排行榜。",
+      "title_en": null,
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685059&idx=1&sn=a329fe9999ac2419470c7eca9a97acd3",
+      "permalink": "https://aihot.virxact.com/items/cmsmizpgb02yerohf3bh8jesi",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-08-10T00:52:19.000Z",
+      "discoveredAt": "2026-08-10T01:01:09.010Z",
+      "summary": "作者耗时54小时开发并免费开放了一个聚合多家可信榜单的AI大模型综合排行榜LatentRank。该榜单采用Bradley-Terry成对比较算法，并加入先验限制小样本结果，以解决不同榜单规模、领先幅度和模型缺失带来的评分偏差。目前榜单前五名中，Opus 5超过Fable 5位居前列。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsmizpgb02yerohf3bh8jesi"
+      }
+    },
+    {
+      "id": "cmsmjglqx034prohfslczvkpb",
+      "title": "OpenChamber：一个基于代理的开发环境",
+      "title_en": null,
+      "url": "https://openchamber.dev/",
+      "permalink": "https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-10T00:46:27.596Z",
+      "discoveredAt": "2026-08-10T01:14:17.226Z",
+      "summary": "OpenChamber 是一个基于代理的开发环境，可跨桌面、浏览器、手机和 VS Code 使用，支持会话目标、多模型并行运行与融合、变更走查、从 issue 到 PR 的完整流程及定时任务。该工具基于 OpenCode SDK，完全开源且免费，代码和会话内容均保存在本地，远程访问可通过 UI 密码和端到端加密的 Private Relay 保护。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsmjglqx034prohfslczvkpb"
+      }
+    },
+    {
+      "id": "cmsmhbu4w0338ronxh92vej2u",
+      "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+      "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+      "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+      "permalink": "https://aihot.virxact.com/items/cmsmhbu4w0338ronxh92vej2u",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-09T23:58:34.000Z",
+      "discoveredAt": "2026-08-10T00:14:35.437Z",
+      "summary": "NVIDIA 发布开源端到端全双工语音对话模型 NemotronLabs VoiceChat 11B，在统一网络中完成流式语音理解与生成，实测轮换延迟 448 毫秒。该模型为首个支持对话中工具调用的开源全双工模型，通过独立输出通道及预置\"保持\"话术避免 API 执行期间冷场。权重与容器已公开，但仅限研究用途，需单张 80 GB 显存 GPU，目前无托管 API。",
+      "category": "ai-models",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsmhbu4w0338ronxh92vej2u"
+      }
+    },
     {
       "id": "cmsmf2q0t030sroadf0o5jwoa",
       "title": "宇树科技今日启动申购，A 股迎来\"人形机器人第一股\"",
@@ -1730,79 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4"
       }
-    },
-    {
-      "id": "cmsebb0mc0kn1ro2ejvmi5lg8",
-      "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-      "title_en": "Show HN： 在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "permalink": "https://aihot.virxact.com/items/cmsebb0mc0kn1ro2ejvmi5lg8",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-04T06:32:44.149Z",
-      "discoveredAt": "2026-08-04T07:03:49.514Z",
-      "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
-      "category": "ai-products",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsebb0mc0kn1ro2ejvmi5lg8"
-      }
-    },
-    {
-      "id": "cmse7yrut0gupro2ejfet4a10",
-      "title": "GPT-5.6 Luna降价80%永久生效",
-      "title_en": "Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-      "url": "https://x.com/thsottiaux/status/2084506501834829833",
-      "permalink": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10",
-      "source": "X：Tibo (@thsottiaux)",
-      "publishedAt": "2026-08-04T05:07:32.000Z",
-      "discoveredAt": "2026-08-04T05:30:20.208Z",
-      "summary": "有些人显然误解了，但 GPT-5.6 Luna 降价 80% 不是临时噱头，而是永久的。效率提升不会消失。幸运的是。",
-      "category": "industry",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmse7yrut0gupro2ejfet4a10"
-      }
-    },
-    {
-      "id": "cmse5tvia0ej6ro2er0ptp9v8",
-      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-      "title_en": "面壁智能开源 ForgeStencil：一周优化 100+ 工业与科学软件，全程 0 人工介入，国产「智」造升级加速",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-      "permalink": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "publishedAt": "2026-08-04T04:20:28.000Z",
-      "discoveredAt": "2026-08-04T04:30:32.082Z",
-      "summary": "面壁智能联合 OpenBMB 开源全球首个支持 Stencil 自动研究、自动部署的 AI 优化系统 ForgeStencil，由 Kernel Agent 与 App Agent 闭环协作，实现从算子优化到应用集成的全自动流程。",
-      "category": "ai-products",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmse5tvia0ej6ro2er0ptp9v8"
-      }
-    },
-    {
-      "id": "cmsdwjgim0327ro2ek45x3jz5",
-      "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-      "title_en": "从零开始，教你用Codex搓出属于你自己的第一个硬件。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-      "permalink": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-08-04T00:06:00.000Z",
-      "discoveredAt": "2026-08-04T00:10:29.973Z",
-      "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
-      "category": "tip",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsdwjgim0327ro2ek45x3jz5"
-      }
     }
   ],
-  "cachedAt": "2026-08-09T23:44:36Z"
+  "cachedAt": "2026-08-10T02:32:20Z"
 }
