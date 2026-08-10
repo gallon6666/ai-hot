@@ -1,8 +1,62 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1ODMzODY3MDAwLCJpIjoiY21zZWZuanBuMHEyMHJvMmVsN2c3bHlqdyJ9",
+  "nextCursor": "eyJhIjoxNzg1ODU1NTE5MDAwLCJpIjoiY21zZXNpbGU0MTVkNHJvMmV2YjIxajNuMCJ9",
   "items": [
+    {
+      "id": "cmsn68brx03q2ron5vwp3pwta",
+      "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理",
+      "title_en": "Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+      "permalink": "https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-08-10T11:51:38.747Z",
+      "discoveredAt": "2026-08-10T11:51:38.747Z",
+      "summary": "SGLang 与 Meta Superintelligence Labs 合作，为 30B 参数多模态模型 Muse Glimmer 提供 Day-0 支持，该模型拥有 128k+ token 上下文窗口。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsn68brx03q2ron5vwp3pwta"
+      }
+    },
+    {
+      "id": "cmsn2u3mt067ero8opidmwvz7",
+      "title": "Meta 发布开源模型 Muse Glimmer",
+      "title_en": "Introducing Muse Glimmer， an open-weight 30B-parameter model optimized for local， always-on agent wo…",
+      "url": "https://x.com/AIatMeta/status/2086757844544811485",
+      "permalink": "https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "publishedAt": "2026-08-10T10:13:34.000Z",
+      "discoveredAt": "2026-08-10T10:16:39.953Z",
+      "summary": "推出 Muse Glimmer，一款开放权重、300 亿参数的模型，专为本地、常驻运行的智能体工作流优化。\n\n与同尺寸领先模型相比，Muse Glimmer 在关键智能体用例和基准测试中表现出色，并设计为完全在消费级硬件（如 Mac 或配备高性能 GPU 的 PC）上运行。\n\n秉承我们长期分享基础 AI 研究的传统，我们以宽松的 Apache 2.0 许可证发布模型权重。",
+      "category": "ai-models",
+      "score": 58,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsn2u3mt067ero8opidmwvz7"
+      }
+    },
+    {
+      "id": "cmsn3w3ln012wror1xk5nrmcw",
+      "title": "Scale AI 开源 Muse 系列模型",
+      "title_en": "1/ big announcement today： we will be releasing an open weight version of muse spark 1.2 soon. we a…",
+      "url": "https://x.com/alexandr_wang/status/2086756152034066792",
+      "permalink": "https://aihot.virxact.com/items/cmsn3w3ln012wror1xk5nrmcw",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "publishedAt": "2026-08-10T10:06:51.000Z",
+      "discoveredAt": "2026-08-10T10:46:12.574Z",
+      "summary": "1/ 今天有个重大消息：我们很快将发布 Muse Spark 1.2 的开源权重版本。\n\n同时，我们还将发布 Muse Glimmer--一个 30B 参数的智能体模型，采用 Apache 2.0 协议开源权重。Muse Glimmer 可在 24GB 显存上运行，且不损失智能体可靠性。🧵",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsn3w3ln012wror1xk5nrmcw"
+      }
+    },
     {
       "id": "cmsn32xab06ehro8ou4tskajr",
       "title": "扎克伯格：超级智能应人人可用",
@@ -1748,61 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsesile415d4ro2evb21j3n0"
       }
-    },
-    {
-      "id": "cmseo63z710lvro2eblsf93az",
-      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-      "title_en": null,
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "permalink": "https://aihot.virxact.com/items/cmseo63z710lvro2eblsf93az",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-04T12:56:45.712Z",
-      "discoveredAt": "2026-08-04T13:03:55.521Z",
-      "summary": "一个开源仓库提供了在单颗 AMD MI300X 上生产运行 DeepSeek-V4-Flash-0731 的完整配置与补丁，无需额外量化或权重卸载。该 304B 参数模型在 192 GB HBM 上实现单流 168.6 tok/s 解码、8 并发流 542 tok/s 聚合吞吐，并验证了 256K 上下文。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmseo63z710lvro2eblsf93az"
-      }
-    },
-    {
-      "id": "cmsek09wz0vq7ro2eayzzt3uq",
-      "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
-      "title_en": "工信部：《智能网联汽车自动驾驶系统安全要求》发布实施，为自动驾驶产品明确统一安全准入基线",
-      "url": "https://www.ithome.com/0/985/665.htm",
-      "permalink": "https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-04T11:06:29.000Z",
-      "discoveredAt": "2026-08-04T11:07:21.454Z",
-      "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsek09wz0vq7ro2eayzzt3uq"
-      }
-    },
-    {
-      "id": "cmsefnjpn0q20ro2el7g7lyjw",
-      "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
-      "title_en": "Reflex Open Sources XY： A Rust-Backed Super-Fast Python Charting Library That Keeps 100 Million Point Charts Interactive",
-      "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
-      "permalink": "https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-08-04T08:57:47.000Z",
-      "discoveredAt": "2026-08-04T09:05:32.725Z",
-      "summary": "Reflex AI 发布 Apache-2.0 许可的 Python 交互式 2D 绘图库 XY，通过 Rust 原生核心、二进制缓冲传输和 WebGL2 渲染，在 1 万至 1 亿点范围内保持约 0.08 秒的渲染时间。",
-      "category": "ai-products",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsefnjpn0q20ro2el7g7lyjw"
-      }
     }
   ],
-  "cachedAt": "2026-08-10T10:35:00Z"
+  "cachedAt": "2026-08-10T11:57:23Z"
 }
