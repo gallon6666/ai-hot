@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1ODMxMTU2MDAwLCJpIjoiY21zZWUxbWhmMG5uNnJvMmVtNnJ0N3RyNCJ9",
+  "nextCursor": "eyJhIjoxNzg1ODMxMTU2MDAwLCJpIjoiY21zZWVrejVnMG9uY3JvMmVoZnl6NDBwcyJ9",
   "items": [
+    {
+      "id": "cmsmpwjyh0b0drohfw1hpbbzh",
+      "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
+      "title_en": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+      "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+      "permalink": "https://aihot.virxact.com/items/cmsmpwjyh0b0drohfw1hpbbzh",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-08-10T04:04:12.000Z",
+      "discoveredAt": "2026-08-10T04:14:38.969Z",
+      "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsmpwjyh0b0drohfw1hpbbzh"
+      }
+    },
     {
       "id": "cmsmlho8005dmrohfoz27j6em",
       "title": "千问开放平台上线：租房、寄快递、查理财等十余领域服务可对话办理",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmseekz5g0oncro2ehfyz40ps"
       }
-    },
-    {
-      "id": "cmsee1mhf0nn6ro2em6rt7tr4",
-      "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
-      "title_en": "Hy ASR 3.0 preview发布：真正懂上下文的语音识别",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
-      "permalink": "https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4",
-      "source": "公众号：腾讯混元",
-      "publishedAt": "2026-08-04T08:12:36.000Z",
-      "discoveredAt": "2026-08-04T08:20:31.023Z",
-      "summary": "腾讯混元发布新一代语音识别模型 Hy ASR 3.0 preview，基于大语言模型 Hy3 与 MoE 架构，融合高精度识别与语义理解。其在开源评测集中中文普通话 WER 3.34%、英语 WER 2.62%、粤语 WER 3.12%，并支持上下文纠错、热词注入及高噪耳语等场景。该模型已上线腾讯云 API，元宝 App 首发并免费开放。",
-      "category": "ai-models",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsee1mhf0nn6ro2em6rt7tr4"
-      }
     }
   ],
-  "cachedAt": "2026-08-10T02:32:20Z"
+  "cachedAt": "2026-08-10T04:52:09Z"
 }
