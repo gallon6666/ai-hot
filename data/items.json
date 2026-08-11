@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1OTI1MDk3MDAwLCJpIjoiY21zZnpodzF1MDA5Z3JvZGxqYmZyYXVvcyJ9",
+  "nextCursor": "eyJhIjoxNzg1OTI1OTAyMDAwLCJpIjoiY21zZnliNXl5MGpzNnJvY2gyN25icTdzMiJ9",
   "items": [
+    {
+      "id": "cmsoolxde07isrop2eb5rrtvq",
+      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
+      "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "permalink": "https://aihot.virxact.com/items/cmsoolxde07isrop2eb5rrtvq",
+      "source": "NVIDIA Blog（RSS）",
+      "publishedAt": "2026-08-11T13:00:25.000Z",
+      "discoveredAt": "2026-08-11T13:13:55.266Z",
+      "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
+      "category": "ai-models",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsoolxde07isrop2eb5rrtvq"
+      }
+    },
     {
       "id": "cmsokd2b00viorofwaq9wrsv1",
       "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsfyb5yy0js6roch27nbq7s2"
       }
-    },
-    {
-      "id": "cmsfzhw1u009grodljbfrauos",
-      "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/986/180.htm",
-      "permalink": "https://aihot.virxact.com/items/cmsfzhw1u009grodljbfrauos",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-05T10:18:17.000Z",
-      "discoveredAt": "2026-08-05T11:08:45.252Z",
-      "summary": "工信部提出的 GB 44721-2026《智能网联汽车 自动驾驶系统安全要求》于 2026 年 7 月 30 日发布，是我国首部针对 L3 和 L4 自动驾驶系统的强制性国家标准，将于 2027 年 7 月 1 日实施。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsfzhw1u009grodljbfrauos"
-      }
     }
   ],
-  "cachedAt": "2026-08-11T11:55:04Z"
+  "cachedAt": "2026-08-11T13:40:36Z"
 }
