@@ -1,8 +1,62 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1ODgwODEwMDAwLCJpIjoiY21zZjdncjI3MWlpNXJvMmVpdTBoaWhiNSJ9",
+  "nextCursor": "eyJhIjoxNzg1OTAzNzA3MDAwLCJpIjoiY21zZmxnbHNxMDRrNnJvY2hmZWtxemlhZCJ9",
   "items": [
+    {
+      "id": "cmso95agg0ig3rofwaqvy9crw",
+      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+      "title_en": "ZCode全面升级，GLM最佳Harness，让复杂任务自主交付",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+      "permalink": "https://aihot.virxact.com/items/cmso95agg0ig3rofwaqvy9crw",
+      "source": "公众号：智谱（GLM）",
+      "publishedAt": "2026-08-11T05:52:25.000Z",
+      "discoveredAt": "2026-08-11T06:01:05.940Z",
+      "summary": "ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmso95agg0ig3rofwaqvy9crw"
+      }
+    },
+    {
+      "id": "cmso8nqa70eq4rofw24w1wlwt",
+      "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+      "title_en": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+      "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "permalink": "https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-08-11T05:44:38.000Z",
+      "discoveredAt": "2026-08-11T05:47:24.900Z",
+      "summary": "本教程演示如何以 ComfyUI 为无头推理后端，构建端到端的 MiniMax-H3 视频生成工作流。通过 Python 直接构建执行图，支持文生视频、首尾帧条件生成和参考图像条件生成，并自动根据 GPU 显存选择 quality、balanced、squeeze 三种权重配置。流水线涵盖模型自动下载、节点模式校验、音视频联合解码与进度监控，无需图形界面即可复现实验。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt"
+      }
+    },
+    {
+      "id": "cmso7i0al0dlsrofwivmpsjh1",
+      "title": "编写智能体时，哪种编程语言最合适？",
+      "title_en": null,
+      "url": "http://danluu.com/pl-tokens",
+      "permalink": "https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-11T04:58:14.908Z",
+      "discoveredAt": "2026-08-11T05:14:58.582Z",
+      "summary": "针对\"动态语言比静态语言更省 LLM token\"的流行说法，作者用 GPT-5.6 Sol 让智能体实现 zstd 解码器进行实测。结果显示，medium 努力度下动态语言表现更好，ultra 下静态语言反而更优，且此前评测存在测试路径错误等缺陷。作者认为，琐碎任务上的性能无法推广到更大问题。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1"
+      }
+    },
     {
       "id": "cmso58oqr0b7trofwl3dcmz7y",
       "title": "消息称 Anthropic 最快今年 9 月上市，向投资者淡化 AI 模型竞争等挑战",
@@ -310,6 +364,24 @@
       }
     },
     {
+      "id": "cmso6wigb0d1profw2f6djg98",
+      "title": "RynnValue：用时间距离扩展机器人价值基础模型",
+      "title_en": "RynnValue： Scaling Robotic Value Foundation Models with Temporal Distance",
+      "url": "https://arxiv.org/abs/2608.09853",
+      "permalink": "https://aihot.virxact.com/items/cmso6wigb0d1profw2f6djg98",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "discoveredAt": "2026-08-11T04:58:17.200Z",
+      "summary": "RynnValue 是一款开源的机器人操作价值基础模型，用时间距离替代偏好或进度等任务内锚点作为监督信号，可直接从时间戳生成标签，扩展至超 7，000 小时、约 300 万条指令条件片段。",
+      "category": "paper",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmso6wigb0d1profw2f6djg98"
+      }
+    },
+    {
       "id": "cmsnejv4i042qrohff64pz0jh",
       "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
       "title_en": "Model Routing Powered by Wisdom of the Market",
@@ -577,6 +649,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r"
+      }
+    },
+    {
+      "id": "cmso6wigb0d1rrofw4l6ifmm7",
+      "title": "Ouroboros：具备评审式核心进化的自开发前沿编程智能体",
+      "title_en": "Ouroboros： A Self-Developing Frontier Coding Agent with Reviewed Core Evolution",
+      "url": "https://arxiv.org/abs/2608.08311",
+      "permalink": "https://aihot.virxact.com/items/cmso6wigb0d1rrofw4l6ifmm7",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "discoveredAt": "2026-08-08T00:00:00.000Z",
+      "summary": "Ouroboros 是一个自开发智能体框架，其工具、提示词、上下文组装和核心实现通过评审式提交持续改进，并成为后续工作的运行时。",
+      "category": "paper",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmso6wigb0d1rrofw4l6ifmm7"
       }
     },
     {
@@ -1354,6 +1444,24 @@
       }
     },
     {
+      "id": "cmso91prw0fd8rofw8fdiyzgr",
+      "title": "可解释性随规模提升：Steerling-8B 将可解释性纳入训练流程",
+      "title_en": "Scaling Inherently Interpretable Language Models",
+      "url": "https://arxiv.org/abs/2608.07594",
+      "permalink": "https://aihot.virxact.com/items/cmso91prw0fd8rofw8fdiyzgr",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-06T00:00:00.000Z",
+      "discoveredAt": "2026-08-06T00:00:00.000Z",
+      "summary": "一项新研究挑战\"可解释性牺牲能力\"的假设，将可解释性作为训练约束与语言建模目标共同优化。在三个数量级的算力范围内，自回归与扩散语言模型的表征随规模增大而更解耦、更对齐人类概念。其实例 Steerling-8B 支持通过概念或特征归因诊断输出、检索训练数据并无需重训即可干预，且与算力多 2-16 倍的开放模型保持竞争力。",
+      "category": "paper",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmso91prw0fd8rofw8fdiyzgr"
+      }
+    },
+    {
       "id": "cmsj8x5n2036jroo5ewknk6ra",
       "title": "Activity Frames：将屏幕活动确定性编译为智能体记忆",
       "title_en": "Activity Frames： Deterministic Screen-Activity Compilation for Agent Memory and Replay",
@@ -1694,115 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsflglsq04k6rochfekqziad"
       }
-    },
-    {
-      "id": "cmsficgoy000nrochjow7i1yx",
-      "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
-      "title_en": "Qwen-Image-3.0-Pro is live on Qwen Cloud now！ Try it out👇 https://www.qwencloud.com/models/qwen-im...",
-      "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-      "permalink": "https://aihot.virxact.com/items/cmsficgoy000nrochjow7i1yx",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "publishedAt": "2026-08-05T02:40:31.000Z",
-      "discoveredAt": "2026-08-05T03:08:40.991Z",
-      "summary": "阿里通义千问发布 Qwen-Image-3.0-Pro 与 Standard，现已在 Qwen Cloud 上线。该模型在 Arena 文生图榜单中位列中国模型第一、主流模型第二，支持 4.5k-token 提示词、10px 级文字渲染及 12 种语言。Pro 版起价 $0.04/张，Standard 版起价 $0.03/张。",
-      "category": "ai-models",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsficgoy000nrochjow7i1yx"
-      }
-    },
-    {
-      "id": "cmsff72yv1q6nro2etf4cmbuj",
-      "title": "开源「活人感写作.skill」：一个帮你写出没有AI味的文字的通用写作技能",
-      "title_en": "开源「活人感写作.skill」，只为帮你写出没有AI味的文字。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684946&idx=1&sn=ae7edcc572b998dc4e1ac3591977aa85",
-      "permalink": "https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-08-05T01:35:42.000Z",
-      "discoveredAt": "2026-08-05T01:40:30.910Z",
-      "summary": "数字生命卡兹克开源「活人感写作.skill」（英文名 human Writing.skill），旨在去除AI味、帮用户写出有真实生活感的文字。该Skill鼓励用户提供真实案例与情感，并针对辞章端禁用AI常用口癖和黑话，同时适配Qwen 3.8 Max、DeepSeek V4 Pro、Kimi K3等模型，可直接用于WorkBuddy、千问办公等产品。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsff72yv1q6nro2etf4cmbuj"
-      }
-    },
-    {
-      "id": "cmsgxbipf02reroxzm6rg0q4l",
-      "title": "个性化幻觉：LLM 如何编造用户画像，以及为何自我监控会误导",
-      "title_en": "The Personalization Mirage： How LLMs Fabricate User Profiles， and Why Self-Monitoring Misleads",
-      "url": "https://arxiv.org/abs/2608.04570",
-      "permalink": "https://aihot.virxact.com/items/cmsgxbipf02reroxzm6rg0q4l",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-05T00:00:00.000Z",
-      "discoveredAt": "2026-08-06T02:55:37.726Z",
-      "summary": "一项新研究揭示，个性化大语言模型普遍存在过度推断（OI）现象，即编造超出证据支持的用户属性。在 MirageBench 基准测试中，12 个模型均有 35%-49% 的推断被判定为虚构（均值 41.6%）。更关键的是，模型自我评估的 OI 与外部评测结果呈负相关（rho = -0.60），表明自我报告的可信度是误导性信号，外部验证才是更可靠的个性化基础。",
-      "category": "paper",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsgxbipf02reroxzm6rg0q4l"
-      }
-    },
-    {
-      "id": "cmsgqscmz0dgyro5qamhpzqz8",
-      "title": "SpaceXAI 单季资本开支 183.7 亿美元，AI 投入接近微软总资本开支四成",
-      "title_en": "Spending Like a Hyperscaler",
-      "url": "https://www.tomtunguz.com/the-newest-hyperscaler",
-      "permalink": "https://aihot.virxact.com/items/cmsgqscmz0dgyro5qamhpzqz8",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-08-05T00:00:00.000Z",
-      "discoveredAt": "2026-08-05T23:52:45.765Z",
-      "summary": "SpaceXAI 上季度资本开支 183.7 亿美元，其中 158.3 亿美元投向 AI，接近微软同期总资本开支的 40%。其运营现金流仅覆盖资本开支的 12%，主要靠举债和股权融资，而微软覆盖率达 155%。公司股价较 6 月峰值腰斩，6 月发行的 250 亿美元债券各期限均跌破面值。",
-      "category": "tip",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsgqscmz0dgyro5qamhpzqz8"
-      }
-    },
-    {
-      "id": "cmsfdkkcs1ocxro2ed4z3s131",
-      "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
-      "title_en": "New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
-      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
-      "permalink": "https://aihot.virxact.com/items/cmsfdkkcs1ocxro2ed4z3s131",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-08-04T23:58:24.000Z",
-      "discoveredAt": "2026-08-05T00:55:01.452Z",
-      "summary": "Simon Willison 发布 LLM 0.32，这是该项目自启动以来最重要的新版本。新版本支持显示推理轨迹、服务端工具、OpenAI Responses API，并默认使用 GPT-5.6 Luna 模型。",
-      "category": "ai-products",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsfdkkcs1ocxro2ed4z3s131"
-      }
-    },
-    {
-      "id": "cmsf7gr271ii5ro2eiu0hihb5",
-      "title": "Replit 环境智能：免提示词自动生成设计",
-      "title_en": "You don't need to prompt. You don't need design language. Ambient Intelligence surfaces suggestion …",
-      "url": "https://x.com/Replit/status/2084761337570144424",
-      "permalink": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5",
-      "source": "X：Replit (@Replit)",
-      "publishedAt": "2026-08-04T22:00:10.000Z",
-      "discoveredAt": "2026-08-04T22:04:05.931Z",
-      "summary": "你无需提示词，也无需设计语言。\n\n环境智能（Ambient Intelligence）会在每个画面旁显示建议卡片，每张卡片都指向你的设计的一个不同方向。点击你喜欢的那张，即可看到它生成一个新的画面。\n\n你再也不必纠结下一步该做什么。\n\n立即在 http://replit.com/design 体验。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsf7gr271ii5ro2eiu0hihb5"
-      }
     }
   ],
-  "cachedAt": "2026-08-11T04:38:13Z"
+  "cachedAt": "2026-08-11T06:02:47Z"
 }
