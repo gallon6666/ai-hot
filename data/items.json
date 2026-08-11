@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1OTQ3MDE0ODE5LCJpIjoiY21zZ2Jhd2wwMDAxaXJvNXFhamlyaDRxaCJ9",
+  "nextCursor": "eyJhIjoxNzg1OTU3NjA2MDAwLCJpIjoiY21zZ2h2OW0xMDY2ZXJvNXFmZm01Njc1dCJ9",
   "items": [
+    {
+      "id": "cmsowxh6d09rrrohdkhpckhpi",
+      "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
+      "title_en": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
+      "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
+      "permalink": "https://aihot.virxact.com/items/cmsowxh6d09rrrohdkhpckhpi",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-08-11T16:31:23.000Z",
+      "discoveredAt": "2026-08-11T17:06:44.417Z",
+      "summary": "Dwarkesh Patel与Redwood Research首席科学家Ryan Greenblatt探讨递归自我改进（RSI）的可能性：一旦AI达到人类顶级专家水平，可能在一年内实现相当于4-5年的AI进展，Ryan的中位预期是2031年自动化AI研发。双方还讨论了超级智能的对齐对象、奖励黑客行为是否会升级为AI联手接管世界等风险。",
+      "category": "tip",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsowxh6d09rrrohdkhpckhpi"
+      }
+    },
+    {
+      "id": "cmsow47ob08oarohd6vhpqrwt",
+      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
+      "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
+      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
+      "permalink": "https://aihot.virxact.com/items/cmsow47ob08oarohd6vhpqrwt",
+      "source": "Google Cloud：Databases（RSS）",
+      "publishedAt": "2026-08-11T16:00:00.000Z",
+      "discoveredAt": "2026-08-11T16:44:01.695Z",
+      "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsow47ob08oarohd6vhpqrwt"
+      }
+    },
     {
       "id": "cmsostkpq05iurohd30b8ubmy",
       "title": "消息称英伟达开发万亿参数开源 AI 模型 Nemotron 4，目标挑战全球顶级",
@@ -235,24 +271,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6"
-      }
-    },
-    {
-      "id": "cmsnix1by08d3rohfftiex1xp",
-      "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
-      "title_en": "Learning more about Claude's mathematical capabilities",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "permalink": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-08-10T17:46:50.781Z",
-      "discoveredAt": "2026-08-10T17:46:50.781Z",
-      "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
-      "category": "paper",
-      "score": 57,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp"
       }
     },
     {
@@ -577,6 +595,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsm5mk1109hdroy9apis4bb7"
+      }
+    },
+    {
+      "id": "cmsnix1by08d3rohfftiex1xp",
+      "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
+      "title_en": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "permalink": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-08-09T16:00:00.000Z",
+      "discoveredAt": "2026-08-10T17:46:50.781Z",
+      "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
+      "category": "paper",
+      "score": 57,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp"
       }
     },
     {
@@ -1766,43 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsghv9m1066ero5qffm5675t"
       }
-    },
-    {
-      "id": "cmsgcdhyh019uro5q5uhc9tnd",
-      "title": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任",
-      "title_en": "谷歌DeepMind首席执行官德米斯·哈萨比斯即将卸任",
-      "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
-      "permalink": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-05T16:39:55.296Z",
-      "discoveredAt": "2026-08-05T17:09:17.603Z",
-      "summary": "Google DeepMind CEO 德米斯·哈萨比斯即将卸任。该消息由 Axios 报道，并在 Hacker News 上获得超过 125 点热度。目前尚未公布继任者或具体离职时间等细节。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsgcdhyh019uro5q5uhc9tnd"
-      }
-    },
-    {
-      "id": "cmsgbawl0001iro5qajirh4qh",
-      "title": "为什么传奇的埃尔德什问题正被人工智能攻克",
-      "title_en": "为什么埃尔德什问题正被人工智能攻克",
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803",
-      "permalink": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-05T16:23:34.819Z",
-      "discoveredAt": "2026-08-05T16:39:17.118Z",
-      "summary": "OpenAI 于 2026 年 5 月 20 日宣布，其内部 AI 模型对埃尔德什 1946 年提出的\"单位距离\"问题给出了反例，成为首个由 AI 模型完成的历史性重要证明；8 月 1 日又宣布未发布模型 Astra 取得 10 项数学进展，其中解决了埃尔德什提出的另外 3 个问题。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsgbawl0001iro5qajirh4qh"
-      }
     }
   ],
-  "cachedAt": "2026-08-11T16:10:39Z"
+  "cachedAt": "2026-08-11T17:10:37Z"
 }
