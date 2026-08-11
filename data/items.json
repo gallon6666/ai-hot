@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1ODY3NDQ5NjQ4LCJpIjoiY21zZXp5bHozMWNhZHJvMmVvcTFucDN2aCJ9",
+  "nextCursor": "eyJhIjoxNzg1ODc3NjU3MDAwLCJpIjoiY21zZjZnNTQ0MWhqZXJvMmVndzdzdzh5bSJ9",
   "items": [
+    {
+      "id": "cmsnx040k01glrofwfqxdc8h5",
+      "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+      "title_en": "微信的这几个AI新功能，正在杀死朋友圈最后一点人味。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+      "permalink": "https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-08-11T00:12:00.000Z",
+      "discoveredAt": "2026-08-11T00:21:07.918Z",
+      "summary": "微信基于小微推出朋友圈AI帮写与AI点评内测功能，前者可根据图片和已写文字生成3条朋友圈文案，后者可长按文字生成评价或快捷评论。作者认为这两个功能将AI置于社交核心位置，可能鼓励AI内容、破坏朋友圈自2012年确立的\"记录美好生活\"基调。公众号端小微还常驻首位，自动总结常看公众号文章，作者担忧这会反向影响创作者内容生产。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnx040k01glrofwfqxdc8h5"
+      }
+    },
+    {
+      "id": "cmsnxf57501y5rofw32tota54",
+      "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
+      "title_en": "How to ground Genie Agents in both structured data and documents without losing governance",
+      "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
+      "permalink": "https://aihot.virxact.com/items/cmsnxf57501y5rofw32tota54",
+      "source": "Databricks：Blog（RSS）",
+      "publishedAt": "2026-08-10T23:08:50.000Z",
+      "discoveredAt": "2026-08-11T00:32:50.702Z",
+      "summary": "Databricks 介绍如何让 Genie Agents 同时基于结构化数据与文档运行，且不牺牲治理能力。文章探讨了构建自动化简单业务任务的智能体虽易，但要在统一治理框架下融合两类数据源、确保安全合规地执行查询，仍需解决数据权限、血缘追踪与策略管控等关键问题。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsnxf57501y5rofw32tota54"
+      }
+    },
     {
       "id": "cmsnrwnsb0i1erohfuhfjc4q6",
       "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
@@ -1766,43 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsf6g5441hjero2egw7sw8ym"
       }
-    },
-    {
-      "id": "cmsf2ukfc1ekiro2e4h0k2bux",
-      "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-      "title_en": "PipeNetwork/minimax-h3-mlx",
-      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-      "permalink": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-08-04T19:10:09.000Z",
-      "discoveredAt": "2026-08-04T19:54:52.549Z",
-      "summary": "MiniMax 发布 MiniMax-H3，一个可接受文本、图像、音频和视频并生成最长 15 秒带音频视频片段的通用全模态生成系统。Python 包 PipeNetwork/minimax-h3-mlx 将其移植到 MLX，支持 Apple Silicon 运行。作者在 M5 Max MacBook Pro 上实测，下载约 115 GB 模型文件，视频生成耗时不到 45 分钟。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsf2ukfc1ekiro2e4h0k2bux"
-      }
-    },
-    {
-      "id": "cmsezylz31cadro2eoq1np3vh",
-      "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-      "title_en": "Show HN： 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "permalink": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-04T18:17:29.648Z",
-      "discoveredAt": "2026-08-04T18:34:01.675Z",
-      "summary": "Soup 推出 v0.72.4，支持在配备 4 GB 显存的笔记本 GPU 上通过 QLoRA 微调 8B 模型，无需 SSH 或云服务。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsezylz31cadro2eoq1np3vh"
-      }
     }
   ],
-  "cachedAt": "2026-08-10T23:49:47Z"
+  "cachedAt": "2026-08-11T02:25:44Z"
 }
