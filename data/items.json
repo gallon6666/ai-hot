@@ -1,24 +1,42 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1OTc0NDAwMDAwLCJpIjoiY21zbzkxcHJ3MGZkOHJvZnc4ZmRpeXpnciJ9",
+  "nextCursor": "eyJhIjoxNzg1OTc2NjYyMDAwLCJpIjoiY21zZ3NnejUzMGZsdXJvNXF1MHZudzhzMCJ9",
   "items": [
     {
-      "id": "cmsp1ivlj0342rortqwkya9hg",
-      "title": "Google Gemini 应用月活用户突破 10 亿",
-      "title_en": "Google's Gemini app surges to one billion users",
-      "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
-      "permalink": "https://aihot.virxact.com/items/cmsp1ivlj0342rortqwkya9hg",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-08-11T18:49:12.000Z",
-      "discoveredAt": "2026-08-11T19:15:29.559Z",
-      "summary": "Google CEO Sundar Pichai 宣布，Gemini 应用月活跃用户已突破 10 亿，成为公司增长最快的产品之一，也是第 14 个达到该里程碑的 Google 产品。这一速度与 6 月达成 10 亿月活的 ChatGPT 持平。其中 63% 的用户使用语音功能，Gemini 每日生成超 1.5 亿张图片，iOS 端活跃用户超 1 亿。",
+      "id": "cmsp2lgxo03xjrortthctedzu",
+      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+      "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "permalink": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-08-11T19:41:42.000Z",
+      "discoveredAt": "2026-08-11T19:45:30.008Z",
+      "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
       "category": "industry",
-      "score": 79,
+      "score": 80,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsp1ivlj0342rortqwkya9hg"
+        "canonical": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu"
+      }
+    },
+    {
+      "id": "cmsp1lufu03a9rortoc0ci36q",
+      "title": "Runway Seedance 2.5 上线，支持50角色参考",
+      "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
+      "url": "https://x.com/runwayml/status/2087251184658657346",
+      "permalink": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q",
+      "source": "X：Runway (@runwayml)",
+      "publishedAt": "2026-08-11T18:53:56.000Z",
+      "discoveredAt": "2026-08-11T19:17:47.577Z",
+      "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q"
       }
     },
     {
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsgsgz530fluro5qu0vnw8s0"
       }
-    },
-    {
-      "id": "cmso91prw0fd8rofw8fdiyzgr",
-      "title": "可解释性随规模提升：Steerling-8B 将可解释性纳入训练流程",
-      "title_en": "Scaling Inherently Interpretable Language Models",
-      "url": "https://arxiv.org/abs/2608.07594",
-      "permalink": "https://aihot.virxact.com/items/cmso91prw0fd8rofw8fdiyzgr",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-06T00:00:00.000Z",
-      "discoveredAt": "2026-08-06T00:00:00.000Z",
-      "summary": "一项新研究挑战\"可解释性牺牲能力\"的假设，将可解释性作为训练约束与语言建模目标共同优化。在三个数量级的算力范围内，自回归与扩散语言模型的表征随规模增大而更解耦、更对齐人类概念。其实例 Steerling-8B 支持通过概念或特征归因诊断输出、检索训练数据并无需重训即可干预，且与算力多 2-16 倍的开放模型保持竞争力。",
-      "category": "paper",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmso91prw0fd8rofw8fdiyzgr"
-      }
     }
   ],
-  "cachedAt": "2026-08-11T19:17:58Z"
+  "cachedAt": "2026-08-11T21:02:12Z"
 }
