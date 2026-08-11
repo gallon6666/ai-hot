@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1OTAzNzA3MDAwLCJpIjoiY21zZmxnbHNxMDRrNnJvY2hmZWtxemlhZCJ9",
+  "nextCursor": "eyJhIjoxNzg1OTE4MzExMDAwLCJpIjoiY21zZnUxOWczMGVnNXJvY2htMGQ0cTNwbyJ9",
   "items": [
     {
       "id": "cmso95agg0ig3rofwaqvy9crw",
@@ -364,6 +364,24 @@
       }
     },
     {
+      "id": "cmsodc28j0n07rofw30v8pe9v",
+      "title": "窃取专有 LLM API 的推理轨迹：加密块可跨会话互换引发解密越狱",
+      "title_en": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://arxiv.org/abs/2608.09867",
+      "permalink": "https://aihot.virxact.com/items/cmsodc28j0n07rofw30v8pe9v",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "discoveredAt": "2026-08-11T07:58:18.452Z",
+      "summary": "研究发现，Anthropic、OpenAI 和 Google 等专有 LLM 的加密推理轨迹块可跨会话、用户和模型互换，攻击者将其注入同提供商防护较弱的模型，即可强制其以明文输出推理内容。",
+      "category": "paper",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsodc28j0n07rofw30v8pe9v"
+      }
+    },
+    {
       "id": "cmso6wigb0d1profw2f6djg98",
       "title": "RynnValue：用时间距离扩展机器人价值基础模型",
       "title_en": "RynnValue： Scaling Robotic Value Foundation Models with Temporal Distance",
@@ -649,6 +667,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsk5m3kq0ahqro4bn4nh1r6r"
+      }
+    },
+    {
+      "id": "cmsofh7p60plirofwefa5l92s",
+      "title": "Ego-OSCAR：开源低成本头戴式立体惯性采集系统",
+      "title_en": "Ego-OSCAR： Egocentric Open source Stereo CAptuRe System",
+      "url": "https://arxiv.org/abs/2608.08285",
+      "permalink": "https://aihot.virxact.com/items/cmsofh7p60plirofwefa5l92s",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "discoveredAt": "2026-08-08T00:00:00.000Z",
+      "summary": "Ego-OSCAR 是一款开源硬件、低成本的头戴式立体惯性采集设备，单台物料成本低于 200 美元，仅使用商用组件和 3D 打印部件。设备搭配硬件同步全局快门立体相机、6 轴 IMU 和嵌入式 Linux SBC，并开源完整软件栈及约 550 小时带同步 IMU 的日常室内环境第一视角立体视频。数据集提供开放词汇动作标注和逐帧 3D 手部重建，旨在降低大规模众包第一视角数据采集门槛。",
+      "category": "paper",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsofh7p60plirofwefa5l92s"
       }
     },
     {
@@ -1766,43 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsfu19g30eg5rochm0d4q3po"
       }
-    },
-    {
-      "id": "cmsfx3ska0ihjrochi0a0tv71",
-      "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
-      "title_en": "烧了5亿token后，这是我给codex和claude做Skill上下文瘦身的新技巧！",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
-      "permalink": "https://aihot.virxact.com/items/cmsfx3ska0ihjrochi0a0tv71",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-08-05T06:46:00.000Z",
-      "discoveredAt": "2026-08-05T10:01:51.049Z",
-      "summary": "作者为Codex和Claude Code中300多个Skill做上下文瘦身，发现每次新会话仅Skill列表就占约9.9k token，按7月使用强度粗算，多余Skill列表约吃掉4到5亿token的上下文空间。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsfx3ska0ihjrochi0a0tv71"
-      }
-    },
-    {
-      "id": "cmsflglsq04k6rochfekqziad",
-      "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-      "title_en": "Best way to use Grok is via our Build harness. Download at http://X.ai/cli",
-      "url": "https://x.com/elonmusk/status/2084857373555101726",
-      "permalink": "https://aihot.virxact.com/items/cmsflglsq04k6rochfekqziad",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-08-05T04:21:47.000Z",
-      "discoveredAt": "2026-08-05T04:35:52.809Z",
-      "summary": "使用 Grok 的最佳方式是通过我们的 Build 工具链。\n\n下载地址：http://X.ai/cli",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsflglsq04k6rochfekqziad"
-      }
     }
   ],
-  "cachedAt": "2026-08-11T07:34:38Z"
+  "cachedAt": "2026-08-11T09:12:59Z"
 }
