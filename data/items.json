@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1OTI0Nzc3MDAwLCJpIjoiY21zZnpodzF2MDA5aHJvZGx2NHduMzZsMyJ9",
+  "nextCursor": "eyJhIjoxNzg1OTI1MDk3MDAwLCJpIjoiY21zZnpodzF1MDA5Z3JvZGxqYmZyYXVvcyJ9",
   "items": [
+    {
+      "id": "cmsokd2b00viorofwaq9wrsv1",
+      "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
+      "title_en": "The AI takeover of mathematics has begun",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "permalink": "https://aihot.virxact.com/items/cmsokd2b00viorofwaq9wrsv1",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-08-11T11:00:00.000Z",
+      "discoveredAt": "2026-08-11T11:15:04.320Z",
+      "summary": "OpenAI 宣布其未发布的 Astra 模型解决了 10 道长期悬而未决的数学难题，涵盖球体堆积、纠错码、非 sofic 群存在性等领域，并发布超 250 页论文及 Lean 验证结果。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsokd2b00viorofwaq9wrsv1"
+      }
+    },
     {
       "id": "cmsogatbh0qdgrofwzm7gdk0a",
       "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsfzhw1u009grodljbfrauos"
       }
-    },
-    {
-      "id": "cmsfzhw1v009hrodlv4wn36l3",
-      "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/986/174.htm",
-      "permalink": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-05T10:12:57.000Z",
-      "discoveredAt": "2026-08-05T11:08:45.252Z",
-      "summary": "谷歌通过电子邮件通知安卓用户，移动端 Google Assistant 将从 9 月 4 日起陆续停止服务，符合条件的安卓设备将改用 Gemini 作为默认助理。设备完成切换后，用户无法再通过手机、平板电脑或配对设备使用 Google Assistant，也不能切回原有服务。与手机配对的 Wear OS 手表及受支持的头戴式耳机和入耳式耳机也将同步改用 Gemini。",
-      "category": "industry",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsfzhw1v009hrodlv4wn36l3"
-      }
     }
   ],
-  "cachedAt": "2026-08-11T11:03:32Z"
+  "cachedAt": "2026-08-11T11:55:04Z"
 }
