@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg2MDEwNDAwMDAwLCJpIjoiY21zaHJ3YXFzMHBtdXJvbmt1ajZyOG80bSJ9",
+  "nextCursor": "eyJhIjoxNzg2MDE1MzEzMDAwLCJpIjoiY21zaGg1ZmkwMGRzeXJvbmtocmtxMzRsMCJ9",
   "items": [
+    {
+      "id": "cmsq5saxh051mro2e90h10exo",
+      "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
+      "title_en": "I wrote an AI textbook - how long until AI can do it better？",
+      "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+      "permalink": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo",
+      "source": "Nathan Lambert：Interconnects（RSS）",
+      "publishedAt": "2026-08-12T13:01:16.000Z",
+      "discoveredAt": "2026-08-12T14:02:32.019Z",
+      "summary": "作者在完成一本 RLHF 教科书后反思，LLM 在长文非虚构写作上进展停滞，GPT 4.5 和 Kimi K2 等写作强模型已显老旧，而编码、数学等任务已接近超人水平。模型能改错字、做编辑，但组织整章内容时仍混乱且易出错，作者认为这阻碍了模型自主解决开放科学问题。",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsq5saxh051mro2e90h10exo"
+      }
+    },
     {
       "id": "cmsq1hwsb02norobuzbw8cdcc",
       "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmshh5fi00dsyronkhrkq34l0"
       }
-    },
-    {
-      "id": "cmshrwaqs0pmuronkuj6r8o4m",
-      "title": "ChatGPT 推出改进版 GPT-5.6 Sol，并扩大免费用户访问权限",
-      "title_en": "Improving GPT-5.6 Sol in ChatGPT-and expanding access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "permalink": "https://aihot.virxact.com/items/cmshrwaqs0pmuronkuj6r8o4m",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-08-06T10:00:00.000Z",
-      "discoveredAt": "2026-08-06T17:11:35.304Z",
-      "summary": "ChatGPT 推出改进版 GPT-5.6 Sol，提升准确性与一致性，同时扩大免费用户访问权限。免费用户还可无限次使用 GPT-5.6 Luna 进行日常对话。",
-      "category": "ai-models",
-      "score": 53,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmshrwaqs0pmuronkuj6r8o4m"
-      }
     }
   ],
-  "cachedAt": "2026-08-12T13:43:54Z"
+  "cachedAt": "2026-08-12T15:12:48Z"
 }
