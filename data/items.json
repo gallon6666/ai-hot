@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1OTk2NzUzMDAwLCJpIjoiY21zaDVid280MDByanJvMjgwcW00eDRpcyJ9",
+  "nextCursor": "eyJhIjoxNzg1OTk5ODIxNjM0LCJpIjoiY21zaDZmamFsMDAxbXJvbmtnZmZ4eWNnZyJ9",
   "items": [
+    {
+      "id": "cmspr6h6s01hero4hjcdf95mw",
+      "title": "LTX-2.5 模型登场：AI 生成 10 秒 720P 视频仅需 6.8 秒，原生集成 ComfyUI",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/988/766.htm",
+      "permalink": "https://aihot.virxact.com/items/cmspr6h6s01hero4hjcdf95mw",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-12T06:46:51.000Z",
+      "discoveredAt": "2026-08-12T07:13:37.844Z",
+      "summary": "LTX 推出 LTX-2.5 模型，原生集成 ComfyUI，在 2 张英伟达 GB200 配置下生成 10 秒 720P 视频仅需 6.8 秒。LTX-2.5 Fast 以每秒 0.09 美元生成带音频 720p 视频，10 秒片段成本 0.90 美元；年度经常性收入低于 1，000 万美元的组织可免费使用。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmspr6h6s01hero4hjcdf95mw"
+      }
+    },
     {
       "id": "cmspo193n05q2rojeue8j2k5a",
       "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsh6fjal001mronkgffxycgg"
       }
-    },
-    {
-      "id": "cmsh5bwo400rjro280qm4x4is",
-      "title": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元",
-      "title_en": "Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…",
-      "url": "https://x.com/alibaba_cloud/status/2085247637734002848",
-      "permalink": "https://aihot.virxact.com/items/cmsh5bwo400rjro280qm4x4is",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "publishedAt": "2026-08-06T06:12:33.000Z",
-      "discoveredAt": "2026-08-06T06:39:52.811Z",
-      "summary": "Qwen-Image-3.0 已可投入生产。支持 4.5K token 提示词。100%+ 文本准确率（无破损 logo）。原生支持 12 种语言。定价灵活可扩展：高分辨率低至 $0.03。完整详情见图片。👉 探索：• Model Studio：https://click.alibabacloud.com/m/20000001606/ • Qwen Cloud：https://click.qwencloud.com/m/20000001648/ #Qwen #QwenImage3 #AlibabaCloud #GenerativeAI #AICreativity",
-      "category": "ai-products",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsh5bwo400rjro280qm4x4is"
-      }
     }
   ],
-  "cachedAt": "2026-08-12T06:40:36Z"
+  "cachedAt": "2026-08-12T08:38:23Z"
 }
