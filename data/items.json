@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg2MDI0ODAwMDAwLCJpIjoiY21zaG1pYXowMGsyenJvbmt6dWthYmM1eiJ9",
+  "nextCursor": "eyJhIjoxNzg2MDI1NTM5MDAwLCJpIjoiY21zaG1penlkMGs3MXJvbmtmdTlqeTlsciJ9",
   "items": [
+    {
+      "id": "cmsqj4ly004izroxvzl349s3r",
+      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
+      "title_en": "The Claude in Chrome side panel is now Claude Cowork",
+      "url": "https://claude.com/blog/cowork-chrome-side-panel",
+      "permalink": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-08-12T20:15:51.977Z",
+      "discoveredAt": "2026-08-12T20:15:51.977Z",
+      "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r"
+      }
+    },
     {
       "id": "cmsqgeo2e02cvroxvpnycl2zi",
       "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmshmizyd0k71ronkfu9jy9lr"
       }
-    },
-    {
-      "id": "cmshmiaz00k2zronkzukabc5z",
-      "title": "左右两派罕见达成一致：反对数据中心",
-      "title_en": "The left and right agree on one thing： no data centers",
-      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "permalink": "https://aihot.virxact.com/items/cmshmiaz00k2zronkzukabc5z",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-08-06T14:00:00.000Z",
-      "discoveredAt": "2026-08-06T14:40:44.927Z",
-      "summary": "The Verge 政策记者 Gaby Del Valle 报道，美国两党民众正联合反对 AI 数据中心建设，佛罗里达州 Hernando County 上月一致通过为期一年的建设禁令。抗议者担忧地下水污染、PFAS 及当地环境不适配，保守派组织 Humans First 成为核心力量。数据中心争议正打破传统党派界限，并可能影响中期选举政治格局。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmshmiaz00k2zronkzukabc5z"
-      }
     }
   ],
-  "cachedAt": "2026-08-12T19:17:48Z"
+  "cachedAt": "2026-08-12T21:00:43Z"
 }
