@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg2MDIyNzEwMDAwLCJpIjoiY21zaGp6YzM5MGg2Y3JvbmtrZ3R1anRpcyJ9",
+  "nextCursor": "eyJhIjoxNzg2MDI0ODAwMDAwLCJpIjoiY21zaG1pYXowMGsyenJvbmt6dWthYmM1eiJ9",
   "items": [
+    {
+      "id": "cmsqgeo2e02cvroxvpnycl2zi",
+      "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+      "title_en": "Your contributors are AI-first now. Is your project？",
+      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+      "permalink": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-08-12T18:00:08.000Z",
+      "discoveredAt": "2026-08-12T18:59:53.288Z",
+      "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
+      "category": "tip",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi"
+      }
+    },
     {
       "id": "cmsqe6mat01bsroli3hw71nz7",
       "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
@@ -55,24 +73,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj"
-      }
-    },
-    {
-      "id": "cmsq9k89v020vronddoxp07vt",
-      "title": "Grok 4.6 发布：智能、快速且性价比高",
-      "title_en": "Grok 4.6 is now out 🚀🚀🚀 Smart， fast &amp； amazing bang for buck！",
-      "url": "https://x.com/elonmusk/status/2087565020158992709",
-      "permalink": "https://aihot.virxact.com/items/cmsq9k89v020vronddoxp07vt",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-08-12T15:41:00.000Z",
-      "discoveredAt": "2026-08-12T15:48:15.281Z",
-      "summary": "Grok 4.6 现已推出 🚀🚀🚀\n\n智能、快速，性价比惊人！",
-      "category": "ai-models",
-      "score": 56,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsq9k89v020vronddoxp07vt"
       }
     },
     {
@@ -163,6 +163,42 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmspc30un0e4xrorts1kax9zg"
+      }
+    },
+    {
+      "id": "cmsqf39o0015groxvnc7oiwop",
+      "title": "Cursor 与 SpaceXAI 联合发布 Grok 4.6",
+      "title_en": "Introducing Grok 4.6",
+      "url": "https://cursor.com/blog/grok-4-6",
+      "permalink": "https://aihot.virxact.com/items/cmsqf39o0015groxvnc7oiwop",
+      "source": "Cursor Blog",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
+      "discoveredAt": "2026-08-12T18:23:01.544Z",
+      "summary": "Cursor 与 SpaceXAI 今日发布 Grok 4.6，重点强化长时运行智能体与交互式视觉任务，在多项智能体编程与知识工作基准上达到前沿水平，并在 Artificial Analysis Intelligence Index 上追平 GPT-5.6 Sol。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsqf39o0015groxvnc7oiwop"
+      }
+    },
+    {
+      "id": "cmsqabu0f001krouc6sfhic2d",
+      "title": "xAI 发布 Grok 4.6，强化长时运行智能体能力",
+      "title_en": "Introducing Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "permalink": "https://aihot.virxact.com/items/cmsqabu0f001krouc6sfhic2d",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
+      "discoveredAt": "2026-08-12T16:09:42.032Z",
+      "summary": "xAI 今日发布 Grok 4.6，在 Grok 4.5 基础上重点强化长时运行智能体及更复杂的交互式与视觉工作能力。该模型在多项智能体编码与知识工作基准上达到前沿水平，在 Artificial Analysis Intelligence Index（九项基准综合分）上追平 GPT-5.6 Sol。",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsqabu0f001krouc6sfhic2d"
       }
     },
     {
@@ -1766,43 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmshmiaz00k2zronkzukabc5z"
       }
-    },
-    {
-      "id": "cmshkd62s0hgfronku3c71unr",
-      "title": "Google 大规模 AI 组织调整背后的混乱政治",
-      "title_en": "The messy politics behind Google's big AI shakeup",
-      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "permalink": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-08-06T13:26:42.000Z",
-      "discoveredAt": "2026-08-06T13:40:44.443Z",
-      "summary": "Google 宣布迄今最大规模 AI 组织调整：Demis Hassabis 卸任 DeepMind 日常管理以专注 AGI 研究，CTO Koray Kavukcuoglu 接任；27 年老将 Jeff Dean 与三位顶级研究员离职创办 AI 初创公司。内部员工认为调整源于产品提速压力、Hassabis 影响力下降及与美国国防部合作引发的伦理冲突。",
-      "category": "industry",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmshkd62s0hgfronku3c71unr"
-      }
-    },
-    {
-      "id": "cmshjzc390h6cronkkgtujtis",
-      "title": "千问全网首发公测，全新 Wan3.0 来了！",
-      "title_en": "千问全网首发公测，全新Wan3.0来了！",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
-      "permalink": "https://aihot.virxact.com/items/cmshjzc390h6cronkkgtujtis",
-      "source": "公众号：千问APP（阿里）",
-      "publishedAt": "2026-08-06T13:25:10.000Z",
-      "discoveredAt": "2026-08-06T13:30:00.931Z",
-      "summary": "阿里千问全网首发公测视频生成模型 Wan3.0，在生成时长、镜头语言、角色真实感及一致性保持等维度全面升级。该模型支持稳定直出 30 秒一镜到底视频，具备导演级镜头与蒙太奇叙事，并强调角色、道具、场景高一致性保持。Wan3.0 主打超高性价比，现已在千问创作（c.qianwen.com）开放体验，千问 app 也将陆续开启。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmshjzc390h6cronkkgtujtis"
-      }
     }
   ],
-  "cachedAt": "2026-08-12T18:05:44Z"
+  "cachedAt": "2026-08-12T19:17:48Z"
 }
