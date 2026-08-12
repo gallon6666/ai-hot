@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg2MDI1NTM5MDAwLCJpIjoiY21zaG1penlkMGs3MXJvbmtmdTlqeTlsciJ9",
+  "nextCursor": "eyJhIjoxNzg2MDI5MDMyMDAwLCJpIjoiY21zaG5rd2hjMGw4eHJvbms2cXlvcXF5diJ9",
   "items": [
+    {
+      "id": "cmsqq3bc001snro7vo8picfbp",
+      "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+      "title_en": "一夜之间，DeepSeek V4 Pro和Grok 4.6把全球大模型推入了新的斩杀线。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
+      "permalink": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-08-12T22:22:28.000Z",
+      "discoveredAt": "2026-08-12T23:30:59.607Z",
+      "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp"
+      }
+    },
     {
       "id": "cmsqj4ly004izroxvzl349s3r",
       "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmshnkwhc0l8xronk6qyoqqyv"
       }
-    },
-    {
-      "id": "cmshmizyd0k71ronkfu9jy9lr",
-      "title": "微软首次披露OpenAI贡献七成AI收入",
-      "title_en": "Microsoft just disclosed for the first time taht OpenAI supplied ~70% of Microsoft's AI revenue， per…",
-      "url": "https://x.com/rohanpaul_ai/status/2085368375816163423",
-      "permalink": "https://aihot.virxact.com/items/cmshmizyd0k71ronkfu9jy9lr",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-08-06T14:12:19.000Z",
-      "discoveredAt": "2026-08-06T14:41:16.996Z",
-      "summary": "微软刚刚首次披露，OpenAI 贡献了微软约 70% 的 AI 收入，依据最新文件。\n\n这一数据基于预期增长及此前与 OpenAI 相关收入的披露。\n\n241 亿美元中的大部分是 OpenAI 在微软数据中心训练和运行 ChatGPT 的云账单，再加上模型开发成本和 OpenAI 自身销售的分成，全部由微软合并计入收入。微软同时还向 OpenAI 投入了 119 亿美元。",
-      "category": "industry",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmshmizyd0k71ronkfu9jy9lr"
-      }
     }
   ],
-  "cachedAt": "2026-08-12T22:59:08Z"
+  "cachedAt": "2026-08-12T23:56:18Z"
 }
