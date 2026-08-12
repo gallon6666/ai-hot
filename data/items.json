@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg2MDE1MzEzMDAwLCJpIjoiY21zaGg1ZmkwMGRzeXJvbmtocmtxMzRsMCJ9",
+  "nextCursor": "eyJhIjoxNzg2MDIwNTUzMDAwLCJpIjoiY21zaGphbGwzMGc1dnJvbmszandzZG55ciJ9",
   "items": [
     {
       "id": "cmsq5saxh051mro2e90h10exo",
@@ -91,6 +91,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmspc30un0e4xrorts1kax9zg"
+      }
+    },
+    {
+      "id": "cmsq9h6gs01x5ronde8fdla7e",
+      "title": "OpenRouter 推出实时网页搜索基准测试：如何为智能体选择引擎、深度与模型",
+      "title_en": "Live Web Search Benchmarks： Pick the Right Engine， Depth， and Model for Your Agent",
+      "url": "https://openrouter.ai/blog/announcements/web-search-benchmark",
+      "permalink": "https://aihot.virxact.com/items/cmsq9h6gs01x5ronde8fdla7e",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-08-12T00:00:00.000Z",
+      "discoveredAt": "2026-08-12T15:45:47.855Z",
+      "summary": "OpenRouter 发布实时排行榜，系统评测模型、搜索引擎、搜索方法与预算四类配置组合。数据显示，将搜索预算从 1 轮增至 25 轮可使 BrowseComp 得分近乎翻倍，成本仅增 2.5-7 倍；模型选择比引擎更重要，平均分差 15 分 vs 10 分。失败率高的任务应降低搜索深度以控制成本。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsq9h6gs01x5ronde8fdla7e"
       }
     },
     {
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr"
       }
-    },
-    {
-      "id": "cmshh5fi00dsyronkhrkq34l0",
-      "title": "宇树科技科创板发行价定为 150.8 元/股，市盈率 219.23 倍高于行业平均",
-      "title_en": "宇树科技公告发行价格为 150.8 元 / 股：市盈率 219.23 倍高于行业平均，对应总市值超 600 亿元",
-      "url": "https://www.ithome.com/0/986/699.htm",
-      "permalink": "https://aihot.virxact.com/items/cmshh5fi00dsyronkhrkq34l0",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-06T11:21:53.000Z",
-      "discoveredAt": "2026-08-06T12:10:42.533Z",
-      "summary": "宇树科技公告科创板首次公开发行定价 150.80 元/股，发行 4044.6434 万股，对应上市市值约 609.93 亿元。发行市盈率 219.23 倍，高于行业平均的 38.56 倍，预计募资总额约 60.99 亿元。战略配售获配 808.9286 万股，包括社保基金、深度求索、中国石油集团等，网上申购日为 8 月 10 日。",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmshh5fi00dsyronkhrkq34l0"
-      }
     }
   ],
-  "cachedAt": "2026-08-12T15:12:48Z"
+  "cachedAt": "2026-08-12T16:08:02Z"
 }
