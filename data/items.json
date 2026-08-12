@@ -1,8 +1,62 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg2MDIwNTUzMDAwLCJpIjoiY21zaGphbGwzMGc1dnJvbmszandzZG55ciJ9",
+  "nextCursor": "eyJhIjoxNzg2MDIxMjAwMDAwLCJpIjoiY21zaGtkNjJzMGhnZ3Jvbmt0aXpuazVkYiJ9",
   "items": [
+    {
+      "id": "cmsqagyyz00yuroucf55e5fue",
+      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/989/001.htm",
+      "permalink": "https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-12T16:10:01.000Z",
+      "discoveredAt": "2026-08-12T16:13:41.612Z",
+      "summary": "阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重，这是 Qwen-Max 级别模型首次开源。模型总参数 2.4T，每个 Token 激活 95B，原生支持 262，144 Token 上下文并可扩展至 1，010，000 Token。",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue"
+      }
+    },
+    {
+      "id": "cmsqbnb8j01nrroosmwa5r6mj",
+      "title": "微软首发自研推理模型MAI-Thinking-1",
+      "title_en": "Our first reasoning model， MAI-Thinking-1， is built from scratch. Now available in Microsoft Foundry…",
+      "url": "https://x.com/mustafasuleyman/status/2087570047967408396",
+      "permalink": "https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "publishedAt": "2026-08-12T16:00:59.000Z",
+      "discoveredAt": "2026-08-12T16:46:38.109Z",
+      "summary": "我们的首个推理模型 MAI-Thinking-1 从零开始构建，现已在 Microsoft Foundry 上线。为团队点赞！更多详情如下。",
+      "category": "ai-models",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj"
+      }
+    },
+    {
+      "id": "cmsq9k89v020vronddoxp07vt",
+      "title": "Grok 4.6 发布：智能、快速且性价比高",
+      "title_en": "Grok 4.6 is now out 🚀🚀🚀 Smart， fast &amp； amazing bang for buck！",
+      "url": "https://x.com/elonmusk/status/2087565020158992709",
+      "permalink": "https://aihot.virxact.com/items/cmsq9k89v020vronddoxp07vt",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-08-12T15:41:00.000Z",
+      "discoveredAt": "2026-08-12T15:48:15.281Z",
+      "summary": "Grok 4.6 现已推出 🚀🚀🚀\n\n智能、快速，性价比惊人！",
+      "category": "ai-models",
+      "score": 56,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsq9k89v020vronddoxp07vt"
+      }
+    },
     {
       "id": "cmsq5saxh051mro2e90h10exo",
       "title": "我写了一本 AI 教科书--AI 还要多久才能写得更好？",
@@ -1748,61 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmshkd62s0hggronktiznk5db"
       }
-    },
-    {
-      "id": "cmshjdgsn0gf5ronkj2dwsbwh",
-      "title": "NVIDIA Cosmos 3：开放世界模型如何推动物理 AI 前沿",
-      "title_en": "Into the Omniverse： How Open World Models Push the Frontier of Physical AI",
-      "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai",
-      "permalink": "https://aihot.virxact.com/items/cmshjdgsn0gf5ronkj2dwsbwh",
-      "source": "NVIDIA Blog（RSS）",
-      "publishedAt": "2026-08-06T13:00:00.000Z",
-      "discoveredAt": "2026-08-06T13:12:59.188Z",
-      "summary": "NVIDIA 发布 Cosmos 3，一个基于混合 Transformer 架构的开放物理 AI 基础全模态模型，整合视觉推理、世界生成与动作预测。",
-      "category": "ai-models",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmshjdgsn0gf5ronkj2dwsbwh"
-      }
-    },
-    {
-      "id": "cmshjbfzc0gceronkw6dqhrsb",
-      "title": "面壁智能 AMNESIAC：反向图灵测试 AI 审讯游戏",
-      "title_en": "AMNESIAC - A Reverse Turing Test AI Interrogation Game 🪞 Created by developer @HetanshWaghela duri…",
-      "url": "https://x.com/OpenBMB/status/2085350175782949094",
-      "permalink": "https://aihot.virxact.com/items/cmshjbfzc0gceronkw6dqhrsb",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "publishedAt": "2026-08-06T13:00:00.000Z",
-      "discoveredAt": "2026-08-06T13:11:25.250Z",
-      "summary": "面壁智能 OpenBMB 在 #BuildSmall 黑客松推出 AMNESIAC，一款反向图灵测试交互游戏：玩家需说服 AI 审讯官 A.M.N. 自己是人类。该游戏由 MiniCPM-o 4.5 驱动实时对话与推理，VoxCPM 生成审讯官语音，并结合摄像头面部表情、脉搏信号与响应计时进行多模态审讯。项目已开源至 HuggingFace。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmshjbfzc0gceronkw6dqhrsb"
-      }
-    },
-    {
-      "id": "cmshjall30g5vronk3jwsdnyr",
-      "title": "谷歌地图 Ask Maps 智能体升级：可对话订餐、找酒店并接入 Gemini Personal Intelligence",
-      "title_en": "谷歌地图智能体功能迎来新升级：聊着天就把酒店、外卖订好了",
-      "url": "https://www.ithome.com/0/986/729.htm",
-      "permalink": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-06T12:49:13.000Z",
-      "discoveredAt": "2026-08-06T13:10:43.399Z",
-      "summary": "谷歌地图宣布 Ask Maps 迎来新一轮升级，新增智能体功能，可替用户执行订餐操作，并综合考虑饮食要求、当前位置和收藏地点等信息；用户还可通过对话指定装修风格、环境氛围等条件查找酒店和当地活动。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmshjall30g5vronk3jwsdnyr"
-      }
     }
   ],
-  "cachedAt": "2026-08-12T16:08:02Z"
+  "cachedAt": "2026-08-12T17:10:16Z"
 }
