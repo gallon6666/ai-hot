@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg1OTc5NjQ3ODY3LCJpIjoiY21zZ3VscHNtMGh3YXJvNXFjamdqbHZnciJ9",
+  "nextCursor": "eyJhIjoxNzg1OTk2NzUzMDAwLCJpIjoiY21zaDVid280MDByanJvMjgwcW00eDRpcyJ9",
   "items": [
+    {
+      "id": "cmspo193n05q2rojeue8j2k5a",
+      "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动",
+      "title_en": "一家声称提供\"100%由人类撰写、绝不使用AI\"的医学研究的公司，其实100%由AI驱动",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
+      "permalink": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-12T05:41:30.137Z",
+      "discoveredAt": "2026-08-12T05:45:36.772Z",
+      "summary": "面向医学研究者的网站 Research Gold 宣称其服务\"100%由人类撰写、绝不使用AI\"，并列出多名博士审稿人。但调查发现，这些审稿人系AI生成、并不存在；部分真实方法学家的身份和照片未经许可被挪用。致电该公司时，自称\"Sarah\"的AI助手坚称自己是真人，邮件与聊天回复也均为AI生成。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmspo193n05q2rojeue8j2k5a"
+      }
+    },
     {
       "id": "cmspc30un0e4xrorts1kax9zg",
       "title": "零基础用户半天上手AI的12步实操流程",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsh5bwo400rjro280qm4x4is"
       }
-    },
-    {
-      "id": "cmsgulpsm0hwaro5qcjgjlvgr",
-      "title": "Prime Agent：一个具有自我改进能力的RLM代理",
-      "title_en": null,
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "permalink": "https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-06T01:27:27.867Z",
-      "discoveredAt": "2026-08-06T01:39:34.524Z",
-      "summary": "Prime Agent 是一个自我改进的编码代理，围绕递归语言模型（RLM）和持续框架（Continual Harness）两大抽象构建，将上下文视为变量、子代理委派视为 REPL 内的函数调用，并允许代理对其提示词、技能、记忆和子代理进行 CRUD 操作。它完全开源，可通过 curl 命令安装，支持与前沿模型即时使用，并具备后台守护进程、会话恢复、分支分叉和异步内核压缩等特性。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsgulpsm0hwaro5qcjgjlvgr"
-      }
     }
   ],
-  "cachedAt": "2026-08-12T05:00:04Z"
+  "cachedAt": "2026-08-12T06:40:36Z"
 }
