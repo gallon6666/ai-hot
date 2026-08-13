@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg2MDMyMDAwMDAwLCJpIjoiY21zajhyZmtsMDJydXJvbzV1dnlxaXFpcSJ9",
+  "nextCursor": "eyJhIjoxNzg2MDM1MTkyMjk4LCJpIjoiY21zaHJhNGVzMG95Y3Jvbmswd2N2anYwMyJ9",
   "items": [
+    {
+      "id": "cmsr160kg0dk0roz2mb20yxwk",
+      "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+      "title_en": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+      "permalink": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-08-13T04:32:24.000Z",
+      "discoveredAt": "2026-08-13T04:41:00.631Z",
+      "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk"
+      }
+    },
     {
       "id": "cmsqu0nr604oeroz2rh6b6mqt",
       "title": "新兴多智能体系统的模式与问题",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmshra4es0oycronk0wcvjv03"
       }
-    },
-    {
-      "id": "cmsj8rfkl02ruroo5uvyqiqiq",
-      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子",
-      "title_en": "Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-      "permalink": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-08-06T16:00:00.000Z",
-      "discoveredAt": "2026-08-07T17:51:24.888Z",
-      "summary": "腾讯混元开源算子库 HPC-Ops 已集成至 SGLang 主分支，其 Dynamic Attention 与 Fused MoE 在 Hy3 模型上最高降低 TPOT 48.8%。",
-      "category": "ai-products",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq"
-      }
     }
   ],
-  "cachedAt": "2026-08-13T02:44:53Z"
+  "cachedAt": "2026-08-13T05:02:17Z"
 }
