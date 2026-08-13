@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg2MDQ1Nzc0MDAwLCJpIjoiY21zaHhvY3Y3MHVrYnJvbmszcDBiaDFsZSJ9",
+  "nextCursor": "eyJhIjoxNzg2MDU3Mjg4NjI4LCJpIjoiY21zaTVzeTJzMTE5MnJvbmt0M2xrMno4OCJ9",
   "items": [
+    {
+      "id": "cmsrjqqfg02z0ro469zple5jl",
+      "title": "DeepSeek Harness v0.1 开发者预览版发布",
+      "title_en": "🧩 DeepSeek Harness v0.1 is now available in Developer Preview！ 🔹 We're opening it up to developer…",
+      "url": "https://x.com/deepseek_ai/status/2087887408440164663",
+      "permalink": "https://aihot.virxact.com/items/cmsrjqqfg02z0ro469zple5jl",
+      "source": "X：DeepSeek (@deepseek_ai)",
+      "publishedAt": "2026-08-13T13:02:03.000Z",
+      "discoveredAt": "2026-08-13T13:21:00.781Z",
+      "summary": "DeepSeek Harness v0.1 现已推出开发者预览版，并以 MIT 许可证开源。该智能体框架基于 Cordis 元框架构建，核心设计为\"一切皆插件\"，模型、工具、技能、会话、沙箱、文件系统、循环、编排及 UI 均可自由组合、替换和扩展。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsrjqqfg02z0ro469zple5jl"
+      }
+    },
     {
       "id": "cmsrfaw5c0xo2roz2s8b4p2sv",
       "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsi5sy2s1192ronkt3lk2z88"
       }
-    },
-    {
-      "id": "cmshxocv70ukbronk3p0bh1le",
-      "title": "GitHub Copilot 应用中的斜杠命令使用指南",
-      "title_en": "A guide to slash commands in the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app",
-      "permalink": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-08-06T19:49:34.000Z",
-      "discoveredAt": "2026-08-06T19:53:23.171Z",
-      "summary": "GitHub Copilot 应用中的斜杠命令可帮助管理会话、导航项目和自定义 Copilot 工作流。与 CLI 版不同，应用版命令更侧重工作流，如 /plan 用于编码前规划、/spar 用于挑战方案假设、/autopilot 用于自动执行实现。/clear 和 /model 在 CLI 和应用中均可用。",
-      "category": "tip",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmshxocv70ukbronk3p0bh1le"
-      }
     }
   ],
-  "cachedAt": "2026-08-13T11:57:50Z"
+  "cachedAt": "2026-08-13T13:44:48Z"
 }
