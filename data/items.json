@@ -1,7 +1,7 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg2MDYwODAwMDAwLCJpIjoiY21zbnJmMHN4MGhiaHJvaGZhNWI4OHpmcCJ9",
+  "nextCursor": "eyJhIjoxNzg2MDcwNTA2NjM2LCJpIjoiY21zaWM5azZqMThnaHJvbmtkNmhiaWE1aiJ9",
   "items": [
     {
       "id": "cmsrscwfn03f7ro0n7qijclds",
@@ -94,6 +94,24 @@
       }
     },
     {
+      "id": "cmsruj6ik02dfrozeclkuve05",
+      "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
+      "title_en": "Cloud agents start 3x faster with builds",
+      "url": "https://cursor.com/blog/builds",
+      "permalink": "https://aihot.virxact.com/items/cmsruj6ik02dfrozeclkuve05",
+      "source": "Cursor Blog",
+      "publishedAt": "2026-08-13T12:00:00.000Z",
+      "discoveredAt": "2026-08-13T18:23:04.579Z",
+      "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsruj6ik02dfrozeclkuve05"
+      }
+    },
+    {
       "id": "cmsrfaw5c0xo2roz2s8b4p2sv",
       "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
       "title_en": "DeepSeek-V4-Pro 更新",
@@ -109,6 +127,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsrfaw5c0xo2roz2s8b4p2sv"
+      }
+    },
+    {
+      "id": "cmsruetoy027hrozeecu4ixrc",
+      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能",
+      "title_en": "The builder's guide to GPT-5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "permalink": "https://aihot.virxact.com/items/cmsruetoy027hrozeecu4ixrc",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-08-13T11:00:00.000Z",
+      "discoveredAt": "2026-08-13T18:19:39.804Z",
+      "summary": "GPT-5.6 模型家族以更低成本实现前沿级智能体性能，并新增推理持久化、原生多智能体编排和程序化工具调用等 API 能力。在 ARC-AGI-3 上，启用保留推理和压缩后，Sol 得分从 13.3% 跃升至 38.3%，且输出 token 减少约 6 倍。Luna 在 BrowseComp 上以 84.04% 的得分追平 GPT-5.5（84.36%），成本从 $33.27 降至 $1.33。",
+      "category": "tip",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsruetoy027hrozeecu4ixrc"
       }
     },
     {
@@ -1766,43 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsic9k6j18ghronkd6hbia5j"
       }
-    },
-    {
-      "id": "cmsib6211178jronko75alzk2",
-      "title": "千问功能上新：推出思考研究、定时任务、办公助理、语音通话等多项新功能，并支持 Qwen3.8-MAX",
-      "title_en": "今天，千问功能上新",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488266&idx=1&sn=3a1988ba0710abcefba9c9dd282b464e",
-      "permalink": "https://aihot.virxact.com/items/cmsib6211178jronko75alzk2",
-      "source": "公众号：千问APP（阿里）",
-      "publishedAt": "2026-08-07T02:04:51.000Z",
-      "discoveredAt": "2026-08-07T02:11:00.969Z",
-      "summary": "千问今日上线多项新功能，并支持最新旗舰模型 Qwen3.8-MAX。其中\"思考研究\"在原\"深度思考\"基础上升级，强化复杂推理与工具调用；\"定时任务\"可预设执行时间自动完成行业简报梳理等周期工作；\"办公助理\"能连接备忘录、日历等应用并操作电脑浏览器，直接输出可用的 Office 文档。语音通话支持 7x24 小时多场景，智能体广场首批覆盖物流、房产等十多个领域。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsib6211178jronko75alzk2"
-      }
-    },
-    {
-      "id": "cmsnrf0sx0hbhrohfa5b88zfp",
-      "title": "在 OpenRouter 上设置团队 AI 支出控制",
-      "title_en": "Set Up Team AI Spend Controls on OpenRouter",
-      "url": "https://openrouter.ai/blog/tutorials/team-spend-controls-setup",
-      "permalink": "https://aihot.virxact.com/items/cmsnrf0sx0hbhrohfa5b88zfp",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "discoveredAt": "2026-08-07T00:00:00.000Z",
-      "summary": "OpenRouter 推出五项团队 AI 支出控制功能：组织共享信用池、预设模型范围、每密钥限额、护栏（成员预算和模型白名单）及活动仪表盘。本指南按顺序介绍设置流程，包括创建组织、配置预设、通过 Management API 密钥设置每日/每周/每月限额。组织默认支持最多 10 名成员，标准按需付费账户购买信用时收取 5.5% 平台费。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnrf0sx0hbhrohfa5b88zfp"
-      }
     }
   ],
-  "cachedAt": "2026-08-13T18:05:26Z"
+  "cachedAt": "2026-08-13T19:17:40Z"
 }
