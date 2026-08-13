@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg2MDI5MDMyMDAwLCJpIjoiY21zaG5rd2hjMGw4eHJvbms2cXlvcXF5diJ9",
+  "nextCursor": "eyJhIjoxNzg2MDMyMDAwMDAwLCJpIjoiY21zajhyZmtsMDJydXJvbzV1dnlxaXFpcSJ9",
   "items": [
+    {
+      "id": "cmsqu0nr604oeroz2rh6b6mqt",
+      "title": "新兴多智能体系统的模式与问题",
+      "title_en": "Patterns and problems in emerging multiagent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "permalink": "https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-08-13T01:20:54.259Z",
+      "discoveredAt": "2026-08-13T01:20:54.259Z",
+      "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
+      "category": "paper",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt"
+      }
+    },
     {
       "id": "cmsqq3bc001snro7vo8picfbp",
       "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsj8rfkl02ruroo5uvyqiqiq"
       }
-    },
-    {
-      "id": "cmshnkwhc0l8xronk6qyoqqyv",
-      "title": "OpenAI 称苹果自身安全实践削弱其商业机密诉讼",
-      "title_en": "OpenAI says Apple's own security practices undermine its trade secrets case",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
-      "permalink": "https://aihot.virxact.com/items/cmshnkwhc0l8xronk6qyoqqyv",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-08-06T15:10:32.000Z",
-      "discoveredAt": "2026-08-06T15:10:44.979Z",
-      "summary": "OpenAI 在驳回苹果商业机密诉讼的动议中辩称，苹果允许员工用个人 iCloud 处理工作且离职后未正确撤销访问权限，相关信息不构成受法律保护的商业机密。OpenAI 还指苹果未指明具体被窃取的机密，并称其借诉讼阻碍竞争对手在 AI 硬件领域创新。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmshnkwhc0l8xronk6qyoqqyv"
-      }
     }
   ],
-  "cachedAt": "2026-08-12T23:56:18Z"
+  "cachedAt": "2026-08-13T02:44:53Z"
 }
