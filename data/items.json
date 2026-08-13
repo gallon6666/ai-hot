@@ -4,6 +4,24 @@
   "nextCursor": "eyJhIjoxNzg2MDU3Mjg4NjI4LCJpIjoiY21zaTVzeTJzMTE5MnJvbmt0M2xrMno4OCJ9",
   "items": [
     {
+      "id": "cmsrlvwfp05gdro46mbfqtsgm",
+      "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+      "title_en": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+      "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+      "permalink": "https://aihot.virxact.com/items/cmsrlvwfp05gdro46mbfqtsgm",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "publishedAt": "2026-08-13T14:04:55.000Z",
+      "discoveredAt": "2026-08-13T14:21:01.224Z",
+      "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsrlvwfp05gdro46mbfqtsgm"
+      }
+    },
+    {
       "id": "cmsrjqqfg02z0ro469zple5jl",
       "title": "DeepSeek Harness v0.1 开发者预览版发布",
       "title_en": "🧩 DeepSeek Harness v0.1 is now available in Developer Preview！ 🔹 We're opening it up to developer…",
@@ -163,24 +181,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7"
-      }
-    },
-    {
-      "id": "cmsqagyyz00yuroucf55e5fue",
-      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/989/001.htm",
-      "permalink": "https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-12T16:10:01.000Z",
-      "discoveredAt": "2026-08-12T16:13:41.612Z",
-      "summary": "阿里 Qwen 团队正式开放 Qwen3.8-2.4T-A95B 模型权重，这是 Qwen-Max 级别模型首次开源。模型总参数 2.4T，每个 Token 激活 95B，原生支持 262，144 Token 上下文并可扩展至 1，010，000 Token。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqagyyz00yuroucf55e5fue"
       }
     },
     {
@@ -1804,5 +1804,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-13T13:44:48Z"
+  "cachedAt": "2026-08-13T15:13:22Z"
 }
