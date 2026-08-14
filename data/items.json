@@ -1,7 +1,7 @@
 {
-  "count": 100,
-  "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg2MDg3ODA2MDAwLCJpIjoiY21zaW16cG1mMWtzM3Jvbms0aGgxZDB6MCJ9",
+  "count": 99,
+  "hasNext": false,
+  "nextCursor": null,
   "items": [
     {
       "id": "cmssir12d047oroffnpn5pcx1",
@@ -1784,25 +1784,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsiry2eo1r4tronkt9qv2twu"
       }
-    },
-    {
-      "id": "cmsimzpmf1ks3ronk4hh1d0z0",
-      "title": "Krea 推出 Seedance 2.5 视频模型",
-      "title_en": "introducing Seedance 2.5. 30 seconds of continuous video， full multi-shot sequences， and up to 50 r…",
-      "url": "https://x.com/krea_ai/status/2085629541385736662",
-      "permalink": "https://aihot.virxact.com/items/cmsimzpmf1ks3ronk4hh1d0z0",
-      "source": "X：Krea AI (@krea_ai)",
-      "publishedAt": "2026-08-07T07:30:06.000Z",
-      "discoveredAt": "2026-08-07T07:42:03.407Z",
-      "summary": "推出 Seedance 2.5。\n\n30 秒连续视频、完整多镜头序列，以及最多 50 个参考。\n\n立即试用 👇",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsimzpmf1ks3ronk4hh1d0z0"
-      }
     }
   ],
-  "cachedAt": "2026-08-14T06:40:36Z"
+  "cachedAt": "2026-08-14T08:36:29Z"
 }
