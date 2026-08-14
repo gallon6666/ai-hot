@@ -1,5 +1,5 @@
 {
-  "count": 98,
+  "count": 99,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -130,6 +130,24 @@
       }
     },
     {
+      "id": "cmst4z2qp05boro06ce7kxtgd",
+      "title": "State of Open Models： Summer 2026 Observations",
+      "title_en": null,
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "permalink": "https://aihot.virxact.com/items/cmst4z2qp05boro06ce7kxtgd",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-08-14T00:00:00.000Z",
+      "discoveredAt": "2026-08-14T16:03:07.993Z",
+      "summary": null,
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmst4z2qp05boro06ce7kxtgd"
+      }
+    },
+    {
       "id": "cmss6lsb701tsroib0kxz9q8q",
       "title": "从0到1带你速通DeepSeek Harness。",
       "title_en": null,
@@ -181,24 +199,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds"
-      }
-    },
-    {
-      "id": "cmsrramim02jero0nte55cfgi",
-      "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
-      "title_en": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
-      "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
-      "permalink": "https://aihot.virxact.com/items/cmsrramim02jero0nte55cfgi",
-      "source": "MiniMax：Blog（网页）",
-      "publishedAt": "2026-08-13T16:52:23.676Z",
-      "discoveredAt": "2026-08-13T16:52:23.676Z",
-      "summary": "MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念和可选歌词一次性完成整首歌的作曲、编曲、演奏与制作，最长支持五分钟。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrramim02jero0nte55cfgi"
       }
     },
     {
@@ -415,6 +415,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsqbnb8j01nrroosmwa5r6mj"
+      }
+    },
+    {
+      "id": "cmsrramim02jero0nte55cfgi",
+      "title": "MiniMax Music 3.0 发布：新一代开源权重、生产级全能音乐模型",
+      "title_en": "MiniMax Music 3.0： Next-Generation Open-Weights， Production-Ready & Versatile Music Model",
+      "url": "https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model",
+      "permalink": "https://aihot.virxact.com/items/cmsrramim02jero0nte55cfgi",
+      "source": "MiniMax：Blog（网页）",
+      "publishedAt": "2026-08-12T16:00:00.000Z",
+      "discoveredAt": "2026-08-13T16:52:23.676Z",
+      "summary": "MiniMax 推出 Music 3.0，新一代音乐生成模型，可根据创意概念和可选歌词一次性完成整首歌的作曲、编曲、演奏与制作，最长支持五分钟。",
+      "category": "ai-models",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsrramim02jero0nte55cfgi"
       }
     },
     {
@@ -1768,5 +1786,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-14T16:04:10Z"
+  "cachedAt": "2026-08-14T17:09:15Z"
 }
