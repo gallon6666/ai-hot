@@ -1,8 +1,26 @@
 {
-  "count": 98,
+  "count": 97,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmssv94cg0h4mroffsb9e7a88",
+      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
+      "title_en": "dots3-note Preview：迈向服务真实生活的长程智能体，坚定的第一步",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
+      "permalink": "https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88",
+      "source": "公众号：小红书技术（dots.llm）",
+      "publishedAt": "2026-08-14T11:25:29.000Z",
+      "discoveredAt": "2026-08-14T11:31:00.943Z",
+      "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
+      "category": "ai-models",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88"
+      }
+    },
     {
       "id": "cmssir12d047oroffnpn5pcx1",
       "title": "GLM-5.3 发布：编程能力开源第一，并涌现网络安全能力",
@@ -289,24 +307,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt"
-      }
-    },
-    {
-      "id": "cmsqq3bc001snro7vo8picfbp",
-      "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-      "title_en": "一夜之间，DeepSeek V4 Pro和Grok 4.6把全球大模型推入了新的斩杀线。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
-      "permalink": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-08-12T22:22:28.000Z",
-      "discoveredAt": "2026-08-12T23:30:59.607Z",
-      "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
-      "category": "tip",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp"
       }
     },
     {
@@ -1748,25 +1748,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsixbbry1x0qronkhbbjukhr"
       }
-    },
-    {
-      "id": "cmsiujxlq1u0zronkvvklblwk",
-      "title": "Runway 上线 Seedance 2.5，支持 50 个角色参考",
-      "title_en": "Seedance 2.5 is now on Runway. Build entire worlds full of characters with up to 50 references per g…",
-      "url": "https://x.com/runwayml/status/2085684483366523193",
-      "permalink": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-07T11:08:25.000Z",
-      "discoveredAt": "2026-08-07T11:13:43.701Z",
-      "summary": "Seedance 2.5 现已登陆 Runway。每次生成最多可引用 50 个角色参考，构建充满角色的完整世界；可创作最长 30 秒、带完整音效与对白的片段，再按你的故事需求随意剪辑与延展。\n\n点击下方链接立即开始。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsiujxlq1u0zronkvvklblwk"
-      }
     }
   ],
-  "cachedAt": "2026-08-14T11:08:20Z"
+  "cachedAt": "2026-08-14T11:55:32Z"
 }
