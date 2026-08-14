@@ -1,8 +1,26 @@
 {
-  "count": 96,
+  "count": 97,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmst2gs6d02lmro06sb7as7av",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "title_en": null,
+      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
+      "permalink": "https://aihot.virxact.com/items/cmst2gs6d02lmro06sb7as7av",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-08-14T14:27:14.000Z",
+      "discoveredAt": "2026-08-14T14:52:53.220Z",
+      "summary": null,
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmst2gs6d02lmro06sb7as7av"
+      }
+    },
     {
       "id": "cmssyoxc90mssroff4k237ysa",
       "title": "Cursor 正式并入 SpaceXAI 助力 Grok",
@@ -325,6 +343,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt"
+      }
+    },
+    {
+      "id": "cmsqq3bc001snro7vo8picfbp",
+      "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
+      "title_en": "一夜之间，DeepSeek V4 Pro和Grok 4.6把全球大模型推入了新的斩杀线。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
+      "permalink": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-08-12T22:22:28.000Z",
+      "discoveredAt": "2026-08-12T23:30:59.607Z",
+      "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp"
       }
     },
     {
@@ -1712,25 +1748,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsj81yyp02cwroo5rcq20vke"
       }
-    },
-    {
-      "id": "cmsj1zu9421ynronknsiz6vgw",
-      "title": "Suno移动端上线Voices功能",
-      "title_en": "Voices is officially live on the Suno mobile app for iOS and Android！ 📱✨ Now you can record your v…",
-      "url": "https://x.com/suno/status/2085731234970227145",
-      "permalink": "https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw",
-      "source": "X：Suno (@suno)",
-      "publishedAt": "2026-08-07T14:14:12.000Z",
-      "discoveredAt": "2026-08-07T14:42:03.194Z",
-      "summary": "Voices 功能已在 Suno 移动应用 iOS 和 Android 版正式上线！📱✨\n\n现在你可以直接在手机上录制人声，并将其用于你的歌曲中。只需在创作界面点击\"+ Voice\"按钮，录制至少一分钟，然后让音乐流淌起来。（Pro 和 Premier 套餐可无限使用，免费套餐可体验有限版本！）\n\n打开应用，录制你的声音，并在评论区告诉我们你的使用体验！",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsj1zu9421ynronknsiz6vgw"
-      }
     }
   ],
-  "cachedAt": "2026-08-14T13:40:02Z"
+  "cachedAt": "2026-08-14T15:05:47Z"
 }
