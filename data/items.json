@@ -1,8 +1,26 @@
 {
-  "count": 98,
+  "count": 95,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmst9yj3c05utrodz443l0odv",
+      "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
+      "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
+      "url": "https://x.com/GeminiApp/status/2088326407730692538",
+      "permalink": "https://aihot.virxact.com/items/cmst9yj3c05utrodz443l0odv",
+      "source": "X：Gemini (@GeminiApp)",
+      "publishedAt": "2026-08-14T18:06:29.000Z",
+      "discoveredAt": "2026-08-14T18:22:41.004Z",
+      "summary": "Gemini 3.7 Flash 现已向 Gemini 聊天中的 Pro 和 Ultra 用户开放。该模型更新提升了多步骤任务的推理与准确性，如智能整合数十个文件和邮件为一份主文档。同时，Gemini Spark 也已运行于 3.7 Flash，通过改进对 Google Workspace 应用的工具调用，让个人 AI 智能体更精准。",
+      "category": "ai-models",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmst9yj3c05utrodz443l0odv"
+      }
+    },
     {
       "id": "cmst3j53e03ncro068tgsr4xn",
       "title": "通义千问开源 Qwen3.8 系列模型",
@@ -131,14 +149,14 @@
     },
     {
       "id": "cmst4z2qp05boro06ce7kxtgd",
-      "title": "State of Open Models： Summer 2026 Observations",
-      "title_en": null,
+      "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
+      "title_en": "State of Open Models： Summer 2026 Observations",
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "permalink": "https://aihot.virxact.com/items/cmst4z2qp05boro06ce7kxtgd",
       "source": "Hugging Face：Blog（RSS）",
       "publishedAt": "2026-08-14T00:00:00.000Z",
       "discoveredAt": "2026-08-14T16:03:07.993Z",
-      "summary": null,
+      "summary": "2026年1至8月，Hugging Face公开模型仓库从243万增至296万，但85.6%的模型下载量不足200次，1.5%的仓库占据99.2%下载量。中国实验室月度最大开源模型参数规模在754B至2.78万亿之间，美国实验室七个月中五个月低于130B。AMD与NVIDIA各发布超200个新模型仓库，成为发布开源模型最多的机构。",
       "category": "tip",
       "score": 71,
       "selected": true,
@@ -361,24 +379,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt"
-      }
-    },
-    {
-      "id": "cmsqq3bc001snro7vo8picfbp",
-      "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-      "title_en": "一夜之间，DeepSeek V4 Pro和Grok 4.6把全球大模型推入了新的斩杀线。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
-      "permalink": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-08-12T22:22:28.000Z",
-      "discoveredAt": "2026-08-12T23:30:59.607Z",
-      "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
-      "category": "tip",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp"
       }
     },
     {
@@ -1712,61 +1712,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsjdsk6p076rroo561c8askl"
       }
-    },
-    {
-      "id": "cmsjbn0kl058nroo5kq0m0jws",
-      "title": "Kitesurf：一款在 V8 隔离环境中运行的\"代理优先\"浏览器",
-      "title_en": null,
-      "url": "https://blog.cloudflare.com/kitesurf",
-      "permalink": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-07T18:54:34.746Z",
-      "discoveredAt": "2026-08-07T19:12:01.086Z",
-      "summary": "Cloudflare 推出 Kitesurf，一款专为 AI 智能体设计的浏览器，完全运行在 Workers 上，基于 V8 隔离环境，现已在 Browser Run 中免费开放测试。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsjbn0kl058nroo5kq0m0jws"
-      }
-    },
-    {
-      "id": "cmsjbn0pq058vroo55qpgw1si",
-      "title": "OpenAI 将 Astra 列为首个\"关键\"网络安全模型",
-      "title_en": "After evaluating one of our upcoming models， Astra， we're treating it as our first \"critical\" model …",
-      "url": "https://x.com/OpenAI/status/2085801349866729975",
-      "permalink": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-08-07T18:52:48.000Z",
-      "discoveredAt": "2026-08-07T19:12:01.086Z",
-      "summary": "OpenAI 在评估其即将推出的模型 Astra 后，依据\"准备框架\"将其列为首个\"关键\"网络安全模型。OpenAI 表示已为此情景做好规划，并将实施额外控制措施以确保 Astra 后续开发的安全。该公司正努力让 Astra 广泛可用，并将其先进网络能力交到防御者手中。",
-      "category": "industry",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsjbn0pq058vroo55qpgw1si"
-      }
-    },
-    {
-      "id": "cmsjaksyd04hlroo5hdy2qd4i",
-      "title": "Claude Code 八月起默认自动模式",
-      "title_en": "Starting August 14， auto mode will be the default permission mode in Claude Code for Pro， Max， and T…",
-      "url": "https://x.com/ClaudeDevs/status/2085794862608318627",
-      "permalink": "https://aihot.virxact.com/items/cmsjaksyd04hlroo5hdy2qd4i",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-08-07T18:27:02.000Z",
-      "discoveredAt": "2026-08-07T18:42:18.303Z",
-      "summary": "自 8 月 14 日起，自动模式将成为 Claude Code 中 Pro、Max 和 Team 用户的默认权限模式。\n\n自动模式使用独立的分类器审查 shell 命令和操作。在测试中，它捕获了 89% 的危险命令。手动审批仅捕获了 14%。",
-      "category": "ai-products",
-      "score": 57,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsjaksyd04hlroo5hdy2qd4i"
-      }
     }
   ],
-  "cachedAt": "2026-08-14T18:04:46Z"
+  "cachedAt": "2026-08-14T19:11:44Z"
 }
