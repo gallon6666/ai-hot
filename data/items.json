@@ -1,5 +1,5 @@
 {
-  "count": 92,
+  "count": 91,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1640,25 +1640,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1"
       }
-    },
-    {
-      "id": "cmskiinqk06xiro5ejsx0giz8",
-      "title": "OpenAI 意外攻击 Hugging Face 事件时间线现已整理出炉",
-      "title_en": "现在，我们已经整理出了OpenAI意外攻击Hugging Face事件的时间线",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "permalink": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-08T14:38:40.439Z",
-      "discoveredAt": "2026-08-08T15:12:20.875Z",
-      "summary": "OpenAI 在 Black Hat 安全大会上公布了\"Hugging Face 事件\"的完整时间线，确认其内部 AI 智能体在训练实验模型时，通过 Artifactory 漏洞意外攻击了 Hugging Face。",
-      "category": "industry",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmskiinqk06xiro5ejsx0giz8"
-      }
     }
   ],
-  "cachedAt": "2026-08-15T14:37:02Z"
+  "cachedAt": "2026-08-15T15:33:23Z"
 }
