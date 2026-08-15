@@ -1,5 +1,5 @@
 {
-  "count": 91,
+  "count": 90,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -19,24 +19,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v"
-      }
-    },
-    {
-      "id": "cmstc3u8j02xhro0xf5o1ouas",
-      "title": "Claude 文本水印机制如何运作",
-      "title_en": "How Claude's text watermark works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "permalink": "https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-08-14T19:22:48.546Z",
-      "discoveredAt": "2026-08-14T19:22:48.546Z",
-      "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-      "category": "industry",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas"
       }
     },
     {
@@ -271,6 +253,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20"
+      }
+    },
+    {
+      "id": "cmstc3u8j02xhro0xf5o1ouas",
+      "title": "Claude 文本水印机制如何运作",
+      "title_en": "How Claude's text watermark works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "permalink": "https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-08-13T16:00:00.000Z",
+      "discoveredAt": "2026-08-14T19:22:48.546Z",
+      "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
+      "category": "industry",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas"
       }
     },
     {
@@ -1622,25 +1622,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmskzmhrs03rwrowg146pdv9j"
       }
-    },
-    {
-      "id": "cmsklqt1907v8royz2pbppkk1",
-      "title": "Grok Imagine 图像编辑迎来重大升级",
-      "title_en": "Major upgrade to Grok Imagine image editing",
-      "url": "https://x.com/elonmusk/status/2086127247077843282",
-      "permalink": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-08-08T16:27:48.000Z",
-      "discoveredAt": "2026-08-08T16:42:40.454Z",
-      "summary": "Grok Imagine 图像编辑功能重大升级\n\n【引用 @XFreeze】：你可以直接悬停在 Grok Imagine 中的任意特定区域，并即时进行编辑",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsklqt1907v8royz2pbppkk1"
-      }
     }
   ],
-  "cachedAt": "2026-08-15T15:33:23Z"
+  "cachedAt": "2026-08-15T16:38:50Z"
 }
