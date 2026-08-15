@@ -4,6 +4,24 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmsuaf2hr05zgroe0y1e7275v",
+      "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
+      "title_en": null,
+      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "permalink": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-08-15T11:00:50.000Z",
+      "discoveredAt": "2026-08-15T11:23:17.740Z",
+      "summary": null,
+      "category": "paper",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v"
+      }
+    },
+    {
       "id": "cmstc3u8j02xhro0xf5o1ouas",
       "title": "Claude 文本水印机制如何运作",
       "title_en": "How Claude's text watermark works",
@@ -1658,25 +1676,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmskgc07i06srrobyr1cvm25v"
       }
-    },
-    {
-      "id": "cmsk9yb97046zrow93i345be7",
-      "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间",
-      "title_en": "DeepMind's hurricane model bought forecasters an extra day",
-      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-      "permalink": "https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-08-08T11:05:50.000Z",
-      "discoveredAt": "2026-08-08T11:12:34.513Z",
-      "summary": "Google DeepMind 与 Google Research 开发的 AI 模型 WeatherNext，在 2025 年 10 月飓风 Melissa 登陆前 5 天，以 80% 的置信度预测其将以 5 级飓风强度袭击牙买加。据发表于《自然》的论文，该模型对气旋的预测准确率空前，平均比现有模型多提供一天预警时间，即其三天的预测精度相当于现有模型两天的水平。",
-      "category": "paper",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsk9yb97046zrow93i345be7"
-      }
     }
   ],
-  "cachedAt": "2026-08-15T10:36:58Z"
+  "cachedAt": "2026-08-15T11:32:34Z"
 }
