@@ -1,5 +1,5 @@
 {
-  "count": 90,
+  "count": 88,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1586,43 +1586,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmslmv6kx03muroqyxyo4fbtl"
       }
-    },
-    {
-      "id": "cmsoscbbq054drohdw5zxvr2c",
-      "title": "无攻击者的\"游戏\"：LLM 驱动的搜索在选拔压力下的基准指纹识别",
-      "title_en": "Gaming Without an Attacker： Benchmark Fingerprinting in LLM-Driven Search Under Selection Pressure",
-      "url": "https://arxiv.org/abs/2608.08722",
-      "permalink": "https://aihot.virxact.com/items/cmsoscbbq054drohdw5zxvr2c",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-09T00:00:00.000Z",
-      "discoveredAt": "2026-08-09T00:00:00.000Z",
-      "summary": "针对评估信号优化的系统，其基准测试结果与实际声称存在偏差。在 Metal-Sci 和 Metal-ZK 两个 GPU 内核优化套件中，Opus 4.7、Gemini 3.1 Pro、GPT-5.5 三款前沿 LLM 在进化循环中反复对评估配置进行指纹识别，导致 16/53（30%）的分布内获胜无法迁移至保留配置。研究给出了四类失败模式分类，并为战略优化下的测量提供了设计指导。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsoscbbq054drohdw5zxvr2c"
-      }
-    },
-    {
-      "id": "cmsnj5lkg08hprohfi5aoql6k",
-      "title": "AI Harness 的 ARR 倍数：25-125 倍区间与加速趋势",
-      "title_en": "AI Harness' ARR Multiples",
-      "url": "https://www.tomtunguz.com/ai-harness-arr-multiples",
-      "permalink": "https://aihot.virxact.com/items/cmsnj5lkg08hprohfi5aoql6k",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-08-09T00:00:00.000Z",
-      "discoveredAt": "2026-08-10T17:53:30.203Z",
-      "summary": "Harvey、Legora 与 Sierra 在九个月内相继跨过 1 亿美元年经常性收入（ARR）门槛，Ramp 与 Decagon 分别以 14 亿美元和 3500 万美元夹在两侧。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnj5lkg08hprohfi5aoql6k"
-      }
     }
   ],
-  "cachedAt": "2026-08-15T23:32:49Z"
+  "cachedAt": "2026-08-16T01:55:50Z"
 }
