@@ -1,5 +1,5 @@
 {
-  "count": 85,
+  "count": 84,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1514,25 +1514,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsm5mk1109hdroy9apis4bb7"
       }
-    },
-    {
-      "id": "cmsnix1by08d3rohfftiex1xp",
-      "title": "Claude 未发布研究版将黎曼 zeta 函数零点下界从 41.6% 提升至 67.2%",
-      "title_en": "Learning more about Claude's mathematical capabilities",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "permalink": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-08-09T16:00:00.000Z",
-      "discoveredAt": "2026-08-10T17:46:50.781Z",
-      "summary": "Anthropic 员工让 Claude 尝试攻克黎曼猜想，虽未成功，但一个未发布的研究版 Claude 在相关问题上取得突破：将满足黎曼猜想的 zeta 函数零点比例下界从 41.6% 提升至 67.2%。",
-      "category": "paper",
-      "score": 57,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnix1by08d3rohfftiex1xp"
-      }
     }
   ],
-  "cachedAt": "2026-08-16T15:34:15Z"
+  "cachedAt": "2026-08-16T16:40:43Z"
 }
