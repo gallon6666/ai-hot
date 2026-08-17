@@ -1,5 +1,5 @@
 {
-  "count": 75,
+  "count": 73,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1316,43 +1316,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar"
       }
-    },
-    {
-      "id": "cmsnbc14r0aezron58wsytu43",
-      "title": "tl；dv 逾18.1万段AI会议录音被公开暴露，可实时闯入他人通话",
-      "title_en": "笔记应用中逾18.1万段AI会议录音被公开暴露",
-      "url": "https://bobdahacker.com/blog/tldv-hack",
-      "permalink": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-10T14:03:26.804Z",
-      "discoveredAt": "2026-08-10T14:14:33.122Z",
-      "summary": "AI会议记录平台tl；dv的Firestore数据库因缺乏租户隔离，任何已认证用户可查询全部18.1万段会议记录，涉及84，312名用户、35，003个域名，含23国政府及多所高校会议。处于录制状态的约1，000场会议会暴露可加入的会议ID，研究者借此闯入马来西亚教育部及美国某大学创业团队的实时通话。该漏洞自2026年1月报告后6个月仍未修复，另有超1，000段会议内容为公开状态。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnbc14r0aezron58wsytu43"
-      }
-    },
-    {
-      "id": "cmsnbzkyr01qjrohfmjqlmjk5",
-      "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
-      "title_en": "Can Agents Use a Computer Yet？ We've Got the Data",
-      "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
-      "permalink": "https://aihot.virxact.com/items/cmsnbzkyr01qjrohfmjqlmjk5",
-      "source": "a16z：News（RSS）",
-      "publishedAt": "2026-08-10T14:00:46.000Z",
-      "discoveredAt": "2026-08-10T14:32:49.512Z",
-      "summary": "a16z 数据显示，计算机操作智能体在 OSWorld-Verified 基准上的最佳成绩已从一年前的 42% 升至 85%，超过人类测试者约 72% 的水平，Claude Fable 5 以 85% 领先。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnbzkyr01qjrohfmjqlmjk5"
-      }
     }
   ],
-  "cachedAt": "2026-08-17T13:51:21Z"
+  "cachedAt": "2026-08-17T14:42:35Z"
 }
