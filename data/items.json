@@ -1,5 +1,5 @@
 {
-  "count": 76,
+  "count": 75,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1352,25 +1352,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsnkpjin0c2nrohfczauf2t2"
       }
-    },
-    {
-      "id": "cmsmpwjyh0b0drohfw1hpbbzh",
-      "title": "Qwen-MM-Plugins 让智能体原生支持多模态",
-      "title_en": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
-      "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
-      "permalink": "https://aihot.virxact.com/items/cmsmpwjyh0b0drohfw1hpbbzh",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "publishedAt": "2026-08-10T04:04:12.000Z",
-      "discoveredAt": "2026-08-10T04:14:38.969Z",
-      "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsmpwjyh0b0drohfw1hpbbzh"
-      }
     }
   ],
-  "cachedAt": "2026-08-17T04:00:23Z"
+  "cachedAt": "2026-08-17T04:56:11Z"
 }
