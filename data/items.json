@@ -4,6 +4,24 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmsxv0p3v0bntroz0227a6b3j",
+      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+      "title_en": "Build zero-trust AI agents with Google's Agent Development Kit",
+      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+      "permalink": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j",
+      "source": "Google Developers Blog（RSS）",
+      "publishedAt": "2026-08-17T23:22:25.902Z",
+      "discoveredAt": "2026-08-17T23:22:25.902Z",
+      "summary": "Google 开源了基于 ADK 和 Gemini 的零信任客服与退货智能体示例，演示如何防御提示注入等攻击。该架构在 LLM 上下文之外通过三层硬性安全机制保障：硬件支持的加密签名确保数据库写入不可抵赖、gVisor 沙箱隔离动态代码执行、确定性语义网关校验业务逻辑。系统提示词只是软约束，无法作为安全边界。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j"
+      }
+    },
+    {
       "id": "cmsxsvb5s0a4troz0z2q2nu3h",
       "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
       "title_en": "Cursor 推出 Origin，作为 GitHub 的替代方案",
@@ -1316,25 +1334,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsoylk4i02drro3yt4l3vhyn"
       }
-    },
-    {
-      "id": "cmsnxf57501y5rofw32tota54",
-      "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-      "title_en": "How to ground Genie Agents in both structured data and documents without losing governance",
-      "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-      "permalink": "https://aihot.virxact.com/items/cmsnxf57501y5rofw32tota54",
-      "source": "Databricks：Blog（RSS）",
-      "publishedAt": "2026-08-10T23:08:50.000Z",
-      "discoveredAt": "2026-08-11T00:32:50.702Z",
-      "summary": "Databricks 介绍如何让 Genie Agents 同时基于结构化数据与文档运行，且不牺牲治理能力。文章探讨了构建自动化简单业务任务的智能体虽易，但要在统一治理框架下融合两类数据源、确保安全合规地执行查询，仍需解决数据权限、血缘追踪与策略管控等关键问题。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnxf57501y5rofw32tota54"
-      }
     }
   ],
-  "cachedAt": "2026-08-17T22:38:46Z"
+  "cachedAt": "2026-08-17T23:34:51Z"
 }
