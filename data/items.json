@@ -1,18 +1,18 @@
 {
-  "count": 73,
+  "count": 72,
   "hasNext": false,
   "nextCursor": null,
   "items": [
     {
       "id": "cmsx8zij405t2rommm4gwgzjh",
-      "title": "https://x.com/i/article/2089330332369588224",
-      "title_en": null,
+      "title": "黄仁勋宣布与SB Energy合作，为OpenAI建AI工厂",
+      "title_en": "https://x.com/i/article/2089330332369588224",
       "url": "https://x.com/JensenHuang/status/2089331487342829862",
       "permalink": "https://aihot.virxact.com/items/cmsx8zij405t2rommm4gwgzjh",
       "source": "X：Jensen Huang (@JensenHuang)",
       "publishedAt": "2026-08-17T12:40:19.000Z",
       "discoveredAt": "2026-08-17T13:06:32.046Z",
-      "summary": null,
+      "summary": "黄仁勋宣布NVIDIA与SB Energy合作，在俄亥俄州PORTS-Pike科技园区锁定LPS容量，专供NVIDIA AI工厂使用，OpenAI将作为租户。初始部署预计提供4.25吉瓦AI工厂容量，每代系统约150万块NVIDIA GPU，对应1500亿至2000亿美元收入。OpenAI已承诺至2030年部署约12吉瓦NVIDIA算力，可扩展至16吉瓦，总机会约6000亿美元。",
       "category": "industry",
       "score": 74,
       "selected": true,
@@ -1298,25 +1298,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsnrwnsb0i1erohfuhfjc4q6"
       }
-    },
-    {
-      "id": "cmsnfpcwf05ecrohfuzbjwyar",
-      "title": "Claude Code 自动模式默认开启原理",
-      "title_en": "We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-      "permalink": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-08-10T15:58:56.000Z",
-      "discoveredAt": "2026-08-10T16:16:53.681Z",
-      "summary": "我们最近将自动模式设为 Claude Code 的默认选项，这意味着你不再需要批准每一个操作。\n\n但什么决定某个操作是否可以安全运行？看看它是如何工作的：",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsnfpcwf05ecrohfuzbjwyar"
-      }
     }
   ],
-  "cachedAt": "2026-08-17T15:36:24Z"
+  "cachedAt": "2026-08-17T16:43:51Z"
 }
