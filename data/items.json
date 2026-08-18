@@ -1,5 +1,5 @@
 {
-  "count": 69,
+  "count": 67,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1208,43 +1208,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmspk9ofu02cbrojej28w43eh"
       }
-    },
-    {
-      "id": "cmsopyoum028vrohd4dgeksz9",
-      "title": "统一 Radix 缓存：为混合模型前缀缓存构建单一树结构",
-      "title_en": "Blog Unified Radix Cache： One Tree for Hybrid Model Prefix Caching Prefix caching reuses KV when requests share the same token prefix. Under full attention， once the KV for a shared prefix is computed， it remains valid as more tokens are appended. A later request wit… Zhangheng Huang， Ke Bao， Yi Zhang， Jialin Ouyang， Sicheng Pan",
-      "url": "https://www.lmsys.org/blog/2026-08-11-unified-radix-cache",
-      "permalink": "https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-08-11T13:51:45.827Z",
-      "discoveredAt": "2026-08-11T13:51:45.827Z",
-      "summary": "LMSYS 团队提出 Unified Radix Cache，用单一 token 键控 radix 拓扑统一管理混合模型的 FULL、SWA 和 MAMBA 组件缓存，各组件独立执行路径、滑动窗口和检查点复用语义。",
-      "category": "paper",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsopyoum028vrohd4dgeksz9"
-      }
-    },
-    {
-      "id": "cmsopyoum028urohdhqzve6ba",
-      "title": "SGLang 宣布 Day-0 支持 NVIDIA Nemotron 3.5 Lightning",
-      "title_en": "Blog SGLang Adds Day-0 Support for NVIDIA Nemotron 3.5 Lightning SGLang is excited to announce Day-0 support for NVIDIA Nemotron 3.5 Lightning， a customizable open model built to power always-on agents across local systems， the edge， the datacenter， and the cloud. … NVIDIA Nemotron Team and SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-08-11-nemotron-3-5-lightning",
-      "permalink": "https://aihot.virxact.com/items/cmsopyoum028urohdhqzve6ba",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-08-11T13:51:45.827Z",
-      "discoveredAt": "2026-08-11T13:51:45.827Z",
-      "summary": "SGLang 宣布对 NVIDIA Nemotron 3.5 Lightning 提供 Day-0 支持，该开源模型为 30B 总参数、3B 激活参数的混合专家架构，支持最长 1M token 上下文，可从 Hugging Face 下载 BF16 和 NVFP4 权重。模型支持 MTP、DFlash、DSpark 三种投机解码技术，并可通过 OpenAI 兼容 API 接入智能体工作流。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsopyoum028urohdhqzve6ba"
-      }
     }
   ],
-  "cachedAt": "2026-08-18T13:05:33Z"
+  "cachedAt": "2026-08-18T13:54:50Z"
 }
