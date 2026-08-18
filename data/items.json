@@ -292,6 +292,24 @@
       }
     },
     {
+      "id": "cmsyhyrd60wg3roz03o05ne6l",
+      "title": "MOSS-VL技术报告：将实时交互作为一等能力的开源视觉语言模型家族",
+      "title_en": "MOSS-VL Technical Report",
+      "url": "https://arxiv.org/abs/2608.15045",
+      "permalink": "https://aihot.virxact.com/items/cmsyhyrd60wg3roz03o05ne6l",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-15T00:00:00.000Z",
+      "discoveredAt": "2026-08-15T00:00:00.000Z",
+      "summary": "MOSS-VL是一个将实时交互（边感知边说话）作为一等能力的开源视觉语言模型家族，通过门控交叉注意力让语言解码器在生成时同步处理视觉输入。MOSS-VL-Realtime在四个流式基准中平均成绩居开源模型之首（三项第一、一项第二），在OmniMMI Proactive Alerting上以66.0分大幅领先最佳基线（37.5分）。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsyhyrd60wg3roz03o05ne6l"
+      }
+    },
+    {
       "id": "cmst9yj3c05utrodz443l0odv",
       "title": "Gemini 3.7 Flash 全面上线 Pro 与 Ultra 用户",
       "title_en": "Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update deli…",
@@ -1244,25 +1262,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsokd2b00viorofwaq9wrsv1"
       }
-    },
-    {
-      "id": "cmsu7hwm403roroe0f1unbbsn",
-      "title": "Ling-3.0-tiny 正式开源：1.3B 激活参数如何进入真实任务",
-      "title_en": "Ling-3.0-tiny 正式开源：让 1.3B 激活参数，进入真实任务",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487496&idx=1&sn=6486908f50006a356d48168b0b2762f1",
-      "permalink": "https://aihot.virxact.com/items/cmsu7hwm403roroe0f1unbbsn",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "publishedAt": "2026-08-11T10:01:51.000Z",
-      "discoveredAt": "2026-08-11T10:01:51.000Z",
-      "summary": "蚂蚁百灵开源 Ling-3.0-tiny，一款总参数 7.9B、每 Token 仅激活 1.3B 参数的原生混合推理模型，同步提供 BF16、FP8 和 INT4 三个版本。",
-      "category": "ai-models",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsu7hwm403roroe0f1unbbsn"
-      }
     }
   ],
-  "cachedAt": "2026-08-18T09:46:56Z"
+  "cachedAt": "2026-08-18T10:44:36Z"
 }
