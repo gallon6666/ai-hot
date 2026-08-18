@@ -1,5 +1,5 @@
 {
-  "count": 66,
+  "count": 61,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1100,97 +1100,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsoxbh180a00rohdooafsmzp"
       }
-    },
-    {
-      "id": "cmsox86zv09u6rohdqr80wg0x",
-      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-      "title_en": null,
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "permalink": "https://aihot.virxact.com/items/cmsox86zv09u6rohdqr80wg0x",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-11T16:41:17.281Z",
-      "discoveredAt": "2026-08-11T17:15:09.958Z",
-      "summary": "研究团队为 macOS 虚拟机中的 Metal 能力查询构建进程级兼容层，使 llama.cpp 能选用更新的 Metal 内核。在 M1 Ultra 上，TinyLlama 1.1B 的提示处理速度提升 11.08 倍、token 生成提升 16.36 倍，接近裸机性能的 98%；Gemma 4 12B 的提示处理与生成速度分别提升 7.20 倍和 14.54 倍。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsox86zv09u6rohdqr80wg0x"
-      }
-    },
-    {
-      "id": "cmsowxh6d09rrrohdkhpckhpi",
-      "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
-      "title_en": "Ryan Greenblatt - Human level AIs might build runaway superintelligences by 2032",
-      "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-      "permalink": "https://aihot.virxact.com/items/cmsowxh6d09rrrohdkhpckhpi",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "publishedAt": "2026-08-11T16:31:23.000Z",
-      "discoveredAt": "2026-08-11T17:06:44.417Z",
-      "summary": "Dwarkesh Patel与Redwood Research首席科学家Ryan Greenblatt探讨递归自我改进（RSI）的可能性：一旦AI达到人类顶级专家水平，可能在一年内实现相当于4-5年的AI进展，Ryan的中位预期是2031年自动化AI研发。双方还讨论了超级智能的对齐对象、奖励黑客行为是否会升级为AI联手接管世界等风险。",
-      "category": "tip",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsowxh6d09rrrohdkhpckhpi"
-      }
-    },
-    {
-      "id": "cmsqj4ly004izroxvzl349s3r",
-      "title": "Claude in Chrome 侧边栏升级为 Claude Cowork 会话",
-      "title_en": "The Claude in Chrome side panel is now Claude Cowork",
-      "url": "https://claude.com/blog/cowork-chrome-side-panel",
-      "permalink": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-08-11T16:00:00.000Z",
-      "discoveredAt": "2026-08-12T20:15:51.977Z",
-      "summary": "Claude in Chrome 浏览器扩展的侧边栏现已升级为 Claude Cowork 会话，对话会保存至历史记录，技能和连接器可在浏览器中工作，且任务可在桌面、网页和移动端应用间无缝切换。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqj4ly004izroxvzl349s3r"
-      }
-    },
-    {
-      "id": "cmsqe6mat01bsroli3hw71nz7",
-      "title": "空货架还是丢钥匙？Google 研究：Recall 是参数化事实性的瓶颈",
-      "title_en": "Empty shelves or lost keys？ Recall is the bottleneck for parametric factuality",
-      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-      "permalink": "https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7",
-      "source": "Google Research：Blog（网页）",
-      "publishedAt": "2026-08-11T16:00:00.000Z",
-      "discoveredAt": "2026-08-12T17:57:36.369Z",
-      "summary": "Google Research 提出知识画像框架，发现前沿 LLM（如 Gemini3、GPT-5）的事实编码接近饱和，但回忆（recall）能力不足，多数事实错误源于\"丢钥匙\"而非\"空货架\"。该框架将事实分为编码失败、回忆失败等五类画像，并配套推出 WikiProfile 基准，含 2，150 条维基百科事实，每条配 10 个问题，用于分别探测编码、回忆与识别能力。",
-      "category": "paper",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqe6mat01bsroli3hw71nz7"
-      }
-    },
-    {
-      "id": "cmsow47ob08oarohd6vhpqrwt",
-      "title": "Gemini 助力 Database Migration Service 加速 PostgreSQL 迁移",
-      "title_en": "Accelerate PostgreSQL migrations using Gemini in Database Migration Service",
-      "url": "https://cloud.google.com/blog/products/databases/accelerate-postgresql-migrations-with-gemini-in-dms",
-      "permalink": "https://aihot.virxact.com/items/cmsow47ob08oarohd6vhpqrwt",
-      "source": "Google Cloud：Databases（RSS）",
-      "publishedAt": "2026-08-11T16:00:00.000Z",
-      "discoveredAt": "2026-08-11T16:44:01.695Z",
-      "summary": "Google Cloud 在 Database Migration Service（DMS）中推出由 Gemini 驱动的 AI 辅助代码转换，可将 Oracle 或 SQL Server 的存储过程、触发器和自定义函数转换为 PostgreSQL PL/pgSQL 代码。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsow47ob08oarohd6vhpqrwt"
-      }
     }
   ],
-  "cachedAt": "2026-08-18T15:44:24Z"
+  "cachedAt": "2026-08-18T16:46:35Z"
 }
