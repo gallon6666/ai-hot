@@ -1,8 +1,44 @@
 {
-  "count": 58,
+  "count": 57,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmsz0lmmt05nfro2062bd0ztz",
+      "title": "OpenAI 暂缓前沿训练强化安全监控",
+      "title_en": "We temporarily slowed some frontier training to strengthen security and monitoring. Our largest plan…",
+      "url": "https://x.com/merettm/status/2089776131255783823",
+      "permalink": "https://aihot.virxact.com/items/cmsz0lmmt05nfro2062bd0ztz",
+      "source": "X：Jakub Pachocki（OpenAI 首席科学家，@merettm）",
+      "publishedAt": "2026-08-18T18:07:10.000Z",
+      "discoveredAt": "2026-08-18T18:47:19.320Z",
+      "summary": "OpenAI 首席科学家 Jakub Pachocki 表示，公司已暂时放缓部分前沿模型训练以强化安全与监控，最大规模的前沿 RL 训练仍处于搁置状态，同时通过小规模训练和评估测试安全措施并收集对齐证据。他认为安全信心将日益决定 AI 发展节奏，并已签署《Pacing the Frontier》倡议，呼吁实验室和国家间加强协调。",
+      "category": "industry",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsz0lmmt05nfro2062bd0ztz"
+      }
+    },
+    {
+      "id": "cmsz0hbsg05l0ro204080cotv",
+      "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
+      "title_en": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "permalink": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-08-18T11:00:00.000Z",
+      "discoveredAt": "2026-08-18T18:43:58.689Z",
+      "summary": "OpenAI 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到《预备框架》下的\"关键网络安全能力\"阈值，暂时放缓了模型扩展速度，包括暂停最新部署模型的强化学习训练两周，并搁置最大规模前沿 RL 运行。公司已加强研究环境安全，要求对 Astra 及网络相关负载实施最严格防护，并扩展思维链监控，采用多阶段激活分类器检测机制。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsz0hbsg05l0ro204080cotv"
+      }
+    },
     {
       "id": "cmsykcnkt0yh1roz0a9h404r5",
       "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护",
@@ -992,61 +1028,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsp2lgxo03xjrortthctedzu"
       }
-    },
-    {
-      "id": "cmsp1lufu03a9rortoc0ci36q",
-      "title": "Runway Seedance 2.5 上线，支持50角色参考",
-      "title_en": "A full cast， a full track， one generation at a time. Seedance 2.5 is live on Runway， with 50 unique…",
-      "url": "https://x.com/runwayml/status/2087251184658657346",
-      "permalink": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q",
-      "source": "X：Runway (@runwayml)",
-      "publishedAt": "2026-08-11T18:53:56.000Z",
-      "discoveredAt": "2026-08-11T19:17:47.577Z",
-      "summary": "完整阵容，完整曲目，一次生成一个。\n\nSeedance 2.5 已在 Runway 上线，支持 50 个独特角色参考，以及最长 30 秒、与音乐同步的片段。点击下方链接即可开始使用。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsp1lufu03a9rortoc0ci36q"
-      }
-    },
-    {
-      "id": "cmsp0g9v20242rort4zh7mzx0",
-      "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
-      "title_en": null,
-      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-      "permalink": "https://aihot.virxact.com/items/cmsp0g9v20242rort4zh7mzx0",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-11T18:32:57.961Z",
-      "discoveredAt": "2026-08-11T18:45:27.714Z",
-      "summary": "作者通过 mitmproxy 对 VS Code 中的 GitHub Copilot 进行中间人代理拦截，逆向分析其网络流量与内部架构。文章指出这些 AI 应用普遍基于 Electron 构建，共享相似的网络栈，因此探测结果可迁移至其他同类应用。作者借此揭示了 Copilot 的运行时行为，并分享了配置代理的具体步骤。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsp0g9v20242rort4zh7mzx0"
-      }
-    },
-    {
-      "id": "cmsp0j1ph027prortm21absbh",
-      "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
-      "title_en": "You can now keep your work from other agents in sync with ChatGPT Work and Codex. Import projects， …",
-      "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
-      "permalink": "https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-08-11T18:20:44.000Z",
-      "discoveredAt": "2026-08-11T18:47:37.597Z",
-      "summary": "你现在可以将其他智能体的工作内容与 ChatGPT Work 和 Codex 保持同步。\n\n可导入项目、聊天记录、技能和插件，查看导入历史，并可在设置中选择开启自动更新。\n\n现已在 ChatGPT 桌面应用中提供。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsp0j1ph027prortm21absbh"
-      }
     }
   ],
-  "cachedAt": "2026-08-18T17:40:51Z"
+  "cachedAt": "2026-08-18T18:54:13Z"
 }
