@@ -1,5 +1,5 @@
 {
-  "count": 70,
+  "count": 69,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1244,25 +1244,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsopyoum028urohdhqzve6ba"
       }
-    },
-    {
-      "id": "cmsoolxde07isrop2eb5rrtvq",
-      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务",
-      "title_en": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-      "permalink": "https://aihot.virxact.com/items/cmsoolxde07isrop2eb5rrtvq",
-      "source": "NVIDIA Blog（RSS）",
-      "publishedAt": "2026-08-11T13:00:25.000Z",
-      "discoveredAt": "2026-08-11T13:13:55.266Z",
-      "summary": "NVIDIA 发布 Nemotron 3.5 Lightning，一款可定制的开源 30B 混合专家（MoE）模型，专为常驻智能体设计。相比同类开源模型，其 token 生成速度最高提升 4 倍，任务完成时间缩短 30%。该模型采用开放权重，支持用户微调以匹配特定任务，并可在 RTX PC、DGX Spark 及 Jetson 等设备上运行。",
-      "category": "ai-models",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsoolxde07isrop2eb5rrtvq"
-      }
     }
   ],
-  "cachedAt": "2026-08-18T11:38:13Z"
+  "cachedAt": "2026-08-18T13:05:33Z"
 }
