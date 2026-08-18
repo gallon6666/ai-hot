@@ -148,6 +148,24 @@
       }
     },
     {
+      "id": "cmsy8afig0mvmroz0gb3hz0iq",
+      "title": "inclusionAI 开源 ConceptEdit：基于概念缩放与密集监督的图像编辑数据生成管线",
+      "title_en": "inclusionAI/ConceptEdit",
+      "url": "https://github.com/inclusionAI/ConceptEdit",
+      "permalink": "https://aihot.virxact.com/items/cmsy8afig0mvmroz0gb3hz0iq",
+      "source": "蚂蚁 inclusionAI：GitHub 新仓库",
+      "publishedAt": "2026-08-17T07:22:08.000Z",
+      "discoveredAt": "2026-08-18T05:34:47.114Z",
+      "summary": "蚂蚁集团 inclusionAI 开源 ConceptEdit，一个基于概念缩放与密集监督的图像编辑数据生成管线。该管线通过三阶段流程（VLM 生成指令、FLUX 执行编辑、VQA 评估筛选）构建大规模、基于分类法的图像编辑数据集，并提供单概念与多概念两种变体。项目采用 MIT 许可证，支持断点续跑，需 OpenAI 兼容 VLM 端点与本地 FLUX 检查点。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmsy8afig0mvmroz0gb3hz0iq"
+      }
+    },
+    {
       "id": "cmsx9696t05u7rommdoa60l4p",
       "title": "OpenAI 如何用前沿智能加固自身防御：The Defender's Window",
       "title_en": "The Defender's Window",
@@ -1280,25 +1298,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmso8nqa70eq4rofw24w1wlwt"
       }
-    },
-    {
-      "id": "cmso7i0al0dlsrofwivmpsjh1",
-      "title": "编写智能体时，哪种编程语言最合适？",
-      "title_en": null,
-      "url": "http://danluu.com/pl-tokens",
-      "permalink": "https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-11T04:58:14.908Z",
-      "discoveredAt": "2026-08-11T05:14:58.582Z",
-      "summary": "针对\"动态语言比静态语言更省 LLM token\"的流行说法，作者用 GPT-5.6 Sol 让智能体实现 zstd 解码器进行实测。结果显示，medium 努力度下动态语言表现更好，ultra 下静态语言反而更优，且此前评测存在测试路径错误等缺陷。作者认为，琐碎任务上的性能无法推广到更大问题。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmso7i0al0dlsrofwivmpsjh1"
-      }
     }
   ],
-  "cachedAt": "2026-08-18T04:49:34Z"
+  "cachedAt": "2026-08-18T05:43:20Z"
 }
