@@ -1,5 +1,5 @@
 {
-  "count": 54,
+  "count": 53,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -19,24 +19,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh"
-      }
-    },
-    {
-      "id": "cmt0djvwn19s0rodpiy2xsspk",
-      "title": "OpenRouter 加入 Stripe 加速多模型使命",
-      "title_en": "OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
-      "url": "https://x.com/OpenRouter/status/2090127246430216403",
-      "permalink": "https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-08-19T17:22:22.000Z",
-      "discoveredAt": "2026-08-19T17:37:37.418Z",
-      "summary": "OpenRouter 正在加入 Stripe。\n\n我们创立 OpenRouter 时怀揣一个简单的使命：智能应当是多元模型的。如今，我们是最大的 AI 市场与网关，每天在 400 多个模型上处理 10T+ token。\n\n加入 @Stripe 让我们有机会加速这一使命。",
-      "category": "industry",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk"
       }
     },
     {
@@ -976,5 +958,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-19T18:51:18Z"
+  "cachedAt": "2026-08-19T19:36:47Z"
 }
