@@ -1,8 +1,26 @@
 {
-  "count": 52,
+  "count": 54,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmt0djvwn19s0rodpiy2xsspk",
+      "title": "OpenRouter 加入 Stripe 加速多模型使命",
+      "title_en": "OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
+      "url": "https://x.com/OpenRouter/status/2090127246430216403",
+      "permalink": "https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-08-19T17:22:22.000Z",
+      "discoveredAt": "2026-08-19T17:37:37.418Z",
+      "summary": "OpenRouter 正在加入 Stripe。\n\n我们创立 OpenRouter 时怀揣一个简单的使命：智能应当是多元模型的。如今，我们是最大的 AI 市场与网关，每天在 400 多个模型上处理 10T+ token。\n\n加入 @Stripe 让我们有机会加速这一使命。",
+      "category": "industry",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt0djvwn19s0rodpiy2xsspk"
+      }
+    },
     {
       "id": "cmt05zhyg139trodp6bxsy9e2",
       "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
@@ -37,6 +55,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0"
+      }
+    },
+    {
+      "id": "cmt0d2tsl1961rodpnvzxo4cc",
+      "title": "OpenRouter 宣布加入 Stripe",
+      "title_en": "OpenRouter is Joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
+      "permalink": "https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-08-19T00:00:00.000Z",
+      "discoveredAt": "2026-08-19T17:24:22.858Z",
+      "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
+      "category": "industry",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc"
       }
     },
     {
@@ -940,5 +976,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-19T16:44:58Z"
+  "cachedAt": "2026-08-19T17:38:24Z"
 }
