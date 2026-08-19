@@ -4,6 +4,24 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmt0e7sxo01eiro2o4l4y9jmh",
+      "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
+      "title_en": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
+      "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
+      "permalink": "https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-08-19T17:56:13.817Z",
+      "discoveredAt": "2026-08-19T17:56:13.817Z",
+      "summary": "LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。",
+      "category": "paper",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh"
+      }
+    },
+    {
       "id": "cmt0djvwn19s0rodpiy2xsspk",
       "title": "OpenRouter 加入 Stripe 加速多模型使命",
       "title_en": "OpenRouter is joining Stripe. We started OpenRouter with a simple mission： intelligence should be m…",
@@ -956,25 +974,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsqq3bc001snro7vo8picfbp"
       }
-    },
-    {
-      "id": "cmsqgeo2e02cvroxvpnycl2zi",
-      "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
-      "title_en": "Your contributors are AI-first now. Is your project？",
-      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
-      "permalink": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-08-12T18:00:08.000Z",
-      "discoveredAt": "2026-08-12T18:59:53.288Z",
-      "summary": "AutoGPT 维护者发现，AI 智能体不会主动阅读文档，因此将指令放在 AGENTS.md 和技能文件中，并置于代码目录旁。他们通过强制 PR 模板、测试计划、CI 覆盖率门槛和 CLA 签名等门控机制，将智能体提交的 PR 从\"不可用\"转变为\"可用但不符合路线图\"。其中 CLA 签名因需浏览器和 OAuth 流程，被用作区分人类与智能体的\"人类探测器\"。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqgeo2e02cvroxvpnycl2zi"
-      }
     }
   ],
-  "cachedAt": "2026-08-19T17:38:24Z"
+  "cachedAt": "2026-08-19T18:51:18Z"
 }
