@@ -1,5 +1,5 @@
 {
-  "count": 56,
+  "count": 57,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -163,6 +163,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05"
+      }
+    },
+    {
+      "id": "cmszieman0euzrodptihyllom",
+      "title": "StartupBench：面向市场验证端到端工作流的通用智能体基准测试",
+      "title_en": "StartupBench： Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows",
+      "url": "https://arxiv.org/abs/2608.17800",
+      "permalink": "https://aihot.virxact.com/items/cmszieman0euzrodptihyllom",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "discoveredAt": "2026-08-19T03:05:46.360Z",
+      "summary": "StartupBench 是一个基于市场验证的 AI 初创公司产品构建的端到端智能体基准，从真实采用的产品工作流中提炼任务，而非研究者预设任务。在统一智能体框架下，最强模型也仅能完成约 30% 的任务，复杂指令遵循和领域专业知识是主要失败来源。该基准揭示了当前通用智能体在真实用户任务上的能力边界。",
+      "category": "paper",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmszieman0euzrodptihyllom"
       }
     },
     {
@@ -1012,5 +1030,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-19T01:51:18Z"
+  "cachedAt": "2026-08-19T03:09:39Z"
 }
