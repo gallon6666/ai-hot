@@ -1,8 +1,26 @@
 {
-  "count": 48,
+  "count": 49,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmt1z1q5n0c93roovlvh40tew",
+      "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
+      "title_en": "Build production agents with computer use， the Skills API， and the Files API",
+      "url": "https://claude.com/blog/computer-use-skills-api-files-api",
+      "permalink": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-08-20T20:27:01.660Z",
+      "discoveredAt": "2026-08-20T20:27:01.660Z",
+      "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew"
+      }
+    },
     {
       "id": "cmt1tonwa07i9roovrze0ll65",
       "title": "Anthropic 如何开展 AI 教学",
@@ -868,5 +886,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-20T19:43:56Z"
+  "cachedAt": "2026-08-20T20:44:24Z"
 }
