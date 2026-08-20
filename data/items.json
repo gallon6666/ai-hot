@@ -1,5 +1,5 @@
 {
-  "count": 48,
+  "count": 46,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -830,43 +830,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsrlvwfp05gdro46mbfqtsgm"
       }
-    },
-    {
-      "id": "cmsrjqqfg02z0ro469zple5jl",
-      "title": "DeepSeek Harness v0.1 开发者预览版发布",
-      "title_en": "🧩 DeepSeek Harness v0.1 is now available in Developer Preview！ 🔹 We're opening it up to developer…",
-      "url": "https://x.com/deepseek_ai/status/2087887408440164663",
-      "permalink": "https://aihot.virxact.com/items/cmsrjqqfg02z0ro469zple5jl",
-      "source": "X：DeepSeek (@deepseek_ai)",
-      "publishedAt": "2026-08-13T13:02:03.000Z",
-      "discoveredAt": "2026-08-13T13:21:00.781Z",
-      "summary": "DeepSeek Harness v0.1 现已推出开发者预览版，并以 MIT 许可证开源。该智能体框架基于 Cordis 元框架构建，核心设计为\"一切皆插件\"，模型、工具、技能、会话、沙箱、文件系统、循环、编排及 UI 均可自由组合、替换和扩展。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrjqqfg02z0ro469zple5jl"
-      }
-    },
-    {
-      "id": "cmsruj6ik02dfrozeclkuve05",
-      "title": "Cursor 推出 builds：云智能体启动速度提升至 3 倍",
-      "title_en": "Cloud agents start 3x faster with builds",
-      "url": "https://cursor.com/blog/builds",
-      "permalink": "https://aihot.virxact.com/items/cmsruj6ik02dfrozeclkuve05",
-      "source": "Cursor Blog",
-      "publishedAt": "2026-08-13T12:00:00.000Z",
-      "discoveredAt": "2026-08-13T18:23:04.579Z",
-      "summary": "Cursor 推出 builds 功能，在后台持续准备就绪的开发环境副本，让云智能体启动时无需从零搭建，响应速度最高提升 3 倍。内部环境启动快 10 倍，首个 token 生成快 3 倍；智能体始终从最近一次成功的 build 启动，依赖更新或安装脚本出错时不会影响运行。8 月 17 日起所有环境默认启用 builds，无需额外费用。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsruj6ik02dfrozeclkuve05"
-      }
     }
   ],
-  "cachedAt": "2026-08-20T11:40:00Z"
+  "cachedAt": "2026-08-20T13:09:26Z"
 }
