@@ -4,6 +4,42 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmt1pkwbj04bxroovzkfca5c7",
+      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
+      "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
+      "url": "https://mistral.ai/news/agentic-search",
+      "permalink": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7",
+      "source": "Mistral AI：News（网页）",
+      "publishedAt": "2026-08-20T16:02:07.300Z",
+      "discoveredAt": "2026-08-20T16:02:07.300Z",
+      "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7"
+      }
+    },
+    {
+      "id": "cmt1r7jjh05lgroovc4zwypj6",
+      "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+      "title_en": "How AlloyDB ScaNN scales vector search to 10 billion vectors",
+      "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+      "permalink": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6",
+      "source": "Google Cloud：Databases（RSS）",
+      "publishedAt": "2026-08-20T16:00:00.000Z",
+      "discoveredAt": "2026-08-20T16:47:41.109Z",
+      "summary": "AlloyDB 的 ScaNN 索引现已支持超过 100 亿向量的规模，通过全新的四层树架构（预览版）实现，将查询复杂度从 O（N^1/2） 降至 O（N^1/4）。内部测试中，该架构在 100 亿向量规模下可实现 p95 延迟不超过 51 毫秒、召回率达 95%。该功能可通过快速入门指南部署，新用户可享受 30 天免费试用。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1r7jjh05lgroovc4zwypj6"
+      }
+    },
+    {
       "id": "cmt1k19bn06qgrokx1p75h1gv",
       "title": "Claude Code 初创公司指南：五大规则与创始人洞见",
       "title_en": "The Claude Code Guide For Startups",
@@ -794,43 +830,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds"
       }
-    },
-    {
-      "id": "cmsrtfqyv04btro0nle3m5b20",
-      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
-      "title_en": "Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "permalink": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-08-13T16:45:00.000Z",
-      "discoveredAt": "2026-08-13T17:52:24.043Z",
-      "summary": "Google Sheets 发布新功能 Sheets canvas，基于 Gemini 构建，用户只需用自然语言提示词即可将表格数据转化为交互式仪表盘、学习追踪器、座位表等\"迷你应用\"。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrtfqyv04btro0nle3m5b20"
-      }
-    },
-    {
-      "id": "cmstc3u8j02xhro0xf5o1ouas",
-      "title": "Claude 文本水印机制如何运作",
-      "title_en": "How Claude's text watermark works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "permalink": "https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-08-13T16:00:00.000Z",
-      "discoveredAt": "2026-08-14T19:22:48.546Z",
-      "summary": "未来 Claude 模型生成的文本将包含水印，用于判断文本由 Claude 撰写的可能性，这是 Anthropic 为遵守欧盟《AI 法案》而实施的变更。该方法基于 Google DeepMind 的 SynthID-Text 技术，对输出质量、创造力和可读性无实际影响，读者无法区分水印文本与普通文本，且不增加额外 token 或成本。",
-      "category": "industry",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmstc3u8j02xhro0xf5o1ouas"
-      }
     }
   ],
-  "cachedAt": "2026-08-20T15:47:13Z"
+  "cachedAt": "2026-08-20T16:49:05Z"
 }
