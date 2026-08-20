@@ -1,5 +1,5 @@
 {
-  "count": 53,
+  "count": 50,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -19,24 +19,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob"
-      }
-    },
-    {
-      "id": "cmt0mqceo08lzro2o6xi3rlk4",
-      "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
-      "title_en": "在网络关键能力时代推进模型开发",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "permalink": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-19T21:42:09.969Z",
-      "discoveredAt": "2026-08-19T21:54:37.175Z",
-      "summary": "Anthropic 因 OpenAI-Hugging Face 事件及即将推出的 Astra 模型可能达到\"关键网络安全能力阈值\"，暂时放缓模型扩展速度，包括暂停最新模型两周的强化学习（RL）训练。公司已加强研究环境安全要求，包括工作负载隔离、网络隔离和持续安全测试，并扩大思维链监控范围。涉及 Astra 或网络模型的工作负载需满足最严格安全标准，部分训练和评估工作仍处于暂停状态。",
-      "category": "industry",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt0mqceo08lzro2o6xi3rlk4"
       }
     },
     {
@@ -526,42 +508,6 @@
       }
     },
     {
-      "id": "cmsvptx2m061frovmjoavsi0l",
-      "title": "新兴多智能体系统的模式与问题",
-      "title_en": null,
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "permalink": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-16T11:17:57.393Z",
-      "discoveredAt": "2026-08-16T11:22:31.379Z",
-      "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsvptx2m061frovmjoavsi0l"
-      }
-    },
-    {
-      "id": "cmsuto7hk0912rouhodiiywlk",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "title_en": "Cursor 现已成为 SpaceX 的一部分",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "permalink": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-15T20:05:54.703Z",
-      "discoveredAt": "2026-08-15T20:22:17.762Z",
-      "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsuto7hk0912rouhodiiywlk"
-      }
-    },
-    {
       "id": "cmsuaf2hr05zgroe0y1e7275v",
       "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
       "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
@@ -958,5 +904,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-20T07:54:57Z"
+  "cachedAt": "2026-08-20T08:54:45Z"
 }
