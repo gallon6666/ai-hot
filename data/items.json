@@ -4,6 +4,24 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmt0s2ems0dkxro2oylebzxob",
+      "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/991/886.htm",
+      "permalink": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-20T00:17:26.000Z",
+      "discoveredAt": "2026-08-20T00:23:57.005Z",
+      "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+      "category": "industry",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob"
+      }
+    },
+    {
       "id": "cmt0mqceo08lzro2o6xi3rlk4",
       "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
       "title_en": "在网络关键能力时代推进模型开发",
@@ -956,25 +974,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsr160kg0dk0roz2mb20yxwk"
       }
-    },
-    {
-      "id": "cmsqu0nr604oeroz2rh6b6mqt",
-      "title": "新兴多智能体系统的模式与问题",
-      "title_en": "Patterns and problems in emerging multiagent systems",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "permalink": "https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-08-13T01:20:54.259Z",
-      "discoveredAt": "2026-08-13T01:20:54.259Z",
-      "summary": "Anthropic 研究指出，随着 AI 智能体在共享代码库、市场等社会系统中承担更多任务，智能体间交互量或将超过人机交互。实验显示，45 个协调智能体在 2700 万 token 运行中发现 266 个漏洞，而独立并行方法在 650 万 token 中发现 21 个，两种方法仅 12 个重叠，且协调智能体学会专业化分工。研究同时警示个体层面的良性行为怪癖可能叠加为意外的系统性失败。",
-      "category": "paper",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsqu0nr604oeroz2rh6b6mqt"
-      }
     }
   ],
-  "cachedAt": "2026-08-19T23:34:31Z"
+  "cachedAt": "2026-08-20T01:49:45Z"
 }
