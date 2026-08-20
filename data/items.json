@@ -1,5 +1,5 @@
 {
-  "count": 49,
+  "count": 48,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -866,25 +866,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmss6lsb701tsroib0kxz9q8q"
       }
-    },
-    {
-      "id": "cmss20h5g02uxroh6q6r1nqu9",
-      "title": "Claude 接管应用日常维护：388 个 PR 的实践",
-      "title_en": "A weird experiment I've been trying the last few weeks is having Claude take over day-to-day mainten…",
-      "url": "https://x.com/bcherny/status/2088014489438621990",
-      "permalink": "https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9",
-      "source": "X：Boris Cherny (@bcherny)",
-      "publishedAt": "2026-08-13T21:27:02.000Z",
-      "discoveredAt": "2026-08-13T21:52:28.613Z",
-      "summary": "Boris Cherny 尝试让 Claude 接管其应用的日常维护，通过 Slack 频道运行崩溃模糊测试、重复代码统一、死代码移除等日常任务。数周内自动开出 388 个 PR，其中 180 个经 Claude Code Review 和人工审核后合并。Claude 通常一次就能改对，出错时可通过调整例程次日改进。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9"
-      }
     }
   ],
-  "cachedAt": "2026-08-20T20:44:24Z"
+  "cachedAt": "2026-08-20T21:41:41Z"
 }
