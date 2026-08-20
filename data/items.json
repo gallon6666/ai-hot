@@ -4,6 +4,24 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmt1rv5n8066iroovaxgoej1b",
+      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+      "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "permalink": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-08-20T16:52:57.000Z",
+      "discoveredAt": "2026-08-20T17:06:06.252Z",
+      "summary": "Hugging Face 发布 LFM2.5 系列三款模型的 DSpark 草稿模型检查点，通过投机解码在不改变输出质量的前提下，GPU 吞吐最高提升 3.18 倍，端侧最高 2.87 倍。草稿模型约 300M 参数，LFM2.5-2.6B 函数调用延迟平均降低 57%，已开源支持 llama.cpp 和 SGLang。",
+      "category": "ai-models",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b"
+      }
+    },
+    {
       "id": "cmt1pkwbj04bxroovzkfca5c7",
       "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
       "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
@@ -812,25 +830,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmss20h5g02uxroh6q6r1nqu9"
       }
-    },
-    {
-      "id": "cmsrscwfn03f7ro0n7qijclds",
-      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
-      "title_en": "Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "permalink": "https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-08-13T17:04:18.000Z",
-      "discoveredAt": "2026-08-13T17:22:11.372Z",
-      "summary": "Google DeepMind 发布 Gemini 3.7 Flash，距 3.6 Flash 仅三周，主打编程与智能体任务，输入/输出价格分别为每百万 token $0.75 和 $3.75，为原 3.6 Flash 的一半。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsrscwfn03f7ro0n7qijclds"
-      }
     }
   ],
-  "cachedAt": "2026-08-20T16:49:05Z"
+  "cachedAt": "2026-08-20T17:43:29Z"
 }
