@@ -1,5 +1,5 @@
 {
-  "count": 47,
+  "count": 48,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -181,6 +181,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0"
+      }
+    },
+    {
+      "id": "cmt1xbu7q0b7troovffggr2jh",
+      "title": "Grok Build 全面上线网页与移动端，所有套餐可用",
+      "title_en": "Grok Build on web and mobile",
+      "url": "https://x.ai/news/grok-build-for-everyone",
+      "permalink": "https://aihot.virxact.com/items/cmt1xbu7q0b7troovffggr2jh",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-08-19T00:00:00.000Z",
+      "discoveredAt": "2026-08-20T19:38:45.834Z",
+      "summary": "Grok Build 现已面向所有套餐开放，支持网页、iOS 和 Android 端使用。用户描述应用、游戏或网站后，Grok 可在聊天中实时生成可运行版本。该功能自 7 月推出 Early Beta 以来，新增了发布分享、接入 X 及调用 Grok 自身模型等能力，发布的应用可获得 grok.me 链接并支持自定义域名、导出到 GitHub 等。",
+      "category": "ai-products",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt1xbu7q0b7troovffggr2jh"
       }
     },
     {
@@ -850,5 +868,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-20T18:57:22Z"
+  "cachedAt": "2026-08-20T19:43:56Z"
 }
