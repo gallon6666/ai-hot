@@ -1,5 +1,5 @@
 {
-  "count": 48,
+  "count": 46,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -830,43 +830,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmssf79uf05rwrod09r9ocb2w"
       }
-    },
-    {
-      "id": "cmst4z2qp05boro06ce7kxtgd",
-      "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-      "title_en": "State of Open Models： Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "permalink": "https://aihot.virxact.com/items/cmst4z2qp05boro06ce7kxtgd",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-08-14T00:00:00.000Z",
-      "discoveredAt": "2026-08-14T16:03:07.993Z",
-      "summary": "2026年1至8月，Hugging Face公开模型仓库从243万增至296万，但85.6%的模型下载量不足200次，1.5%的仓库占据99.2%下载量。中国实验室月度最大开源模型参数规模在754B至2.78万亿之间，美国实验室七个月中五个月低于130B。AMD与NVIDIA各发布超200个新模型仓库，成为发布开源模型最多的机构。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmst4z2qp05boro06ce7kxtgd"
-      }
-    },
-    {
-      "id": "cmss6lsb701tsroib0kxz9q8q",
-      "title": "从0到1带你速通DeepSeek Harness。",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685238&idx=1&sn=c3159dba0dd5a141f8dd726fd474e6e2",
-      "permalink": "https://aihot.virxact.com/items/cmss6lsb701tsroib0kxz9q8q",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-08-13T23:58:00.000Z",
-      "discoveredAt": "2026-08-14T00:01:01.197Z",
-      "summary": null,
-      "category": "tip",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmss6lsb701tsroib0kxz9q8q"
-      }
     }
   ],
-  "cachedAt": "2026-08-20T23:37:51Z"
+  "cachedAt": "2026-08-21T01:55:53Z"
 }
