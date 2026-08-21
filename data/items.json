@@ -1,5 +1,5 @@
 {
-  "count": 46,
+  "count": 47,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -235,6 +235,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt0s2ems0dkxro2oylebzxob"
+      }
+    },
+    {
+      "id": "cmt3dpn230oxyro6t7ynmpyc2",
+      "title": "Claude Platform 发布 Python SDK v1.0，迁移至 httpx2",
+      "title_en": "Claude Platform release notes - August 20， 2026",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview#august-20-2026",
+      "permalink": "https://aihot.virxact.com/items/cmt3dpn230oxyro6t7ynmpyc2",
+      "source": "Claude Platform：开发者版本说明（RSS）",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "discoveredAt": "2026-08-21T20:05:26.561Z",
+      "summary": "Anthropic 发布 Claude Python SDK v1.0，HTTP 层从 httpx 迁移至 API 兼容的 httpx2，并移除 Text Completions API 等长期弃用功能。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt3dpn230oxyro6t7ynmpyc2"
       }
     },
     {
@@ -832,5 +850,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-21T19:35:45Z"
+  "cachedAt": "2026-08-21T20:39:11Z"
 }
