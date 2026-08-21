@@ -1,5 +1,5 @@
 {
-  "count": 45,
+  "count": 44,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -794,25 +794,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmst3joqo03pwro0658o4g1m3"
       }
-    },
-    {
-      "id": "cmssv94cg0h4mroffsb9e7a88",
-      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-      "title_en": "dots3-note Preview：迈向服务真实生活的长程智能体，坚定的第一步",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-      "permalink": "https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88",
-      "source": "公众号：小红书技术（dots.llm）",
-      "publishedAt": "2026-08-14T11:25:29.000Z",
-      "discoveredAt": "2026-08-14T11:31:00.943Z",
-      "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-      "category": "ai-models",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmssv94cg0h4mroffsb9e7a88"
-      }
     }
   ],
-  "cachedAt": "2026-08-21T10:45:17Z"
+  "cachedAt": "2026-08-21T11:39:01Z"
 }
