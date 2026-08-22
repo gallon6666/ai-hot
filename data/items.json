@@ -40,24 +40,6 @@
       }
     },
     {
-      "id": "cmt396dpw0kj0ro6tdktqkp8s",
-      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
-      "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-      "permalink": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-08-21T17:58:29.461Z",
-      "discoveredAt": "2026-08-21T17:58:29.461Z",
-      "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s"
-      }
-    },
-    {
       "id": "cmt393qov0kfhro6tuwhxhubl",
       "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
       "title_en": "Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
@@ -181,6 +163,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt1rv5n8066iroovaxgoej1b"
+      }
+    },
+    {
+      "id": "cmt396dpw0kj0ro6tdktqkp8s",
+      "title": "Claude Mythos 5 网络安全能力扩展至更多防御者",
+      "title_en": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "permalink": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-08-20T16:00:00.000Z",
+      "discoveredAt": "2026-08-21T17:58:29.461Z",
+      "summary": "Anthropic 宣布 Claude Mythos 5 现已集成至 Claude Security，并即将登陆合作伙伴的网络安全防御工具。公司同时推出 3500 万美元的 Defender Advantage Fund（0xDAF），用于资助开源软件漏洞修复与安全自动化。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s"
       }
     },
     {
@@ -832,5 +832,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-22T15:33:52Z"
+  "cachedAt": "2026-08-22T16:38:42Z"
 }
