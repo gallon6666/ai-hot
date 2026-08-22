@@ -1,5 +1,5 @@
 {
-  "count": 46,
+  "count": 45,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -812,25 +812,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmswesk6a0r2hrovml2edcl2c"
       }
-    },
-    {
-      "id": "cmsuaf2hr05zgroe0y1e7275v",
-      "title": "AI生成书籍正淹没亚马逊，并拉低人类作者的单书收入",
-      "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
-      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
-      "permalink": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-15T11:00:50.000Z",
-      "discoveredAt": "2026-08-15T11:23:17.740Z",
-      "summary": "一项对14，419本自出版电子书的分析显示，AI生成书籍正以数量而非质量挤占人类作者市场，即便未检测到AI文本的书籍，单书收入也在下滑。2023年Q1至2026年Q1，书目总量增长38.3倍，而季度收入仅增长8.9倍；在八个类型中，七个类型的无AI文本书籍单书收入下降。",
-      "category": "paper",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v"
-      }
     }
   ],
-  "cachedAt": "2026-08-22T10:37:52Z"
+  "cachedAt": "2026-08-22T11:33:25Z"
 }
