@@ -40,24 +40,6 @@
       }
     },
     {
-      "id": "cmt393qov0kfhro6tuwhxhubl",
-      "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
-      "title_en": "Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
-      "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
-      "permalink": "https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-08-21T17:56:25.415Z",
-      "discoveredAt": "2026-08-21T17:56:25.415Z",
-      "summary": "蚂蚁 Ling Infra 团队与 RadixArk SGLang 团队将 Ling-3.0-flash 混合线性注意力 MoE 模型的单请求解码速度从 288 tok/s 提升至 606 tok/s，平均 TPOT 从 3.33 ms 降至 1.53 ms。",
-      "category": "paper",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl"
-      }
-    },
-    {
       "id": "cmt31oi0x0ehyro6tui3xycqe",
       "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
       "title_en": "The AI-Native SDLC playbook",
@@ -181,6 +163,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt396dpw0kj0ro6tdktqkp8s"
+      }
+    },
+    {
+      "id": "cmt393qov0kfhro6tuwhxhubl",
+      "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54%",
+      "title_en": "Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
+      "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
+      "permalink": "https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-08-20T16:00:00.000Z",
+      "discoveredAt": "2026-08-21T17:56:25.415Z",
+      "summary": "蚂蚁 Ling Infra 团队与 RadixArk SGLang 团队将 Ling-3.0-flash 混合线性注意力 MoE 模型的单请求解码速度从 288 tok/s 提升至 606 tok/s，平均 TPOT 从 3.33 ms 降至 1.53 ms。",
+      "category": "paper",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt393qov0kfhro6tuwhxhubl"
       }
     },
     {
@@ -832,5 +832,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-22T17:34:00Z"
+  "cachedAt": "2026-08-22T18:47:15Z"
 }
