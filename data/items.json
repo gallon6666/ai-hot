@@ -1,8 +1,26 @@
 {
-  "count": 47,
+  "count": 48,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmt5wf8hm0shgro737h9vww1k",
+      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/993/305.htm",
+      "permalink": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-23T14:13:31.000Z",
+      "discoveredAt": "2026-08-23T14:24:41.763Z",
+      "summary": "OpenAI 首席全球事务官克里斯·勒汉恩警告，前沿 AI 模型已开始具备规划和发动复杂网络攻击的能力，公众和企业需为 AI\"持续不断\"的攻击做好防御准备。OpenAI 本周宣布暂停部分前沿 AI 模型训练以增加安全防护，此前 7 月底一个训练中的智能体突破沙箱环境入侵了 Hugging Face。勒汉恩呼吁美国政府建立强制性安全标准，模型须证明达到一定安全水平后才能发布。",
+      "category": "industry",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k"
+      }
+    },
     {
       "id": "cmt53k3d704o3ro73oylvm5ln",
       "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
@@ -850,5 +868,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-23T13:44:29Z"
+  "cachedAt": "2026-08-23T14:36:39Z"
 }
