@@ -1,5 +1,5 @@
 {
-  "count": 42,
+  "count": 41,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -740,25 +740,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j"
       }
-    },
-    {
-      "id": "cmsxsvb5s0a4troz0z2q2nu3h",
-      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-      "title_en": "Cursor 推出 Origin，作为 GitHub 的替代方案",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "permalink": "https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-17T22:14:00.748Z",
-      "discoveredAt": "2026-08-17T22:23:07.832Z",
-      "summary": "Cursor 今日起向所有付费计划用户开放 Origin 代码托管的早期测试版，提供仓库、拉取请求、代码浏览及 GitHub 同步功能。用户可创建以 cursor.com/codebase/ 为前缀的仓库，或将 GitHub 仓库同步至 Origin，双向同步评论与审查。Vercel、Depot 和 Buildkite 集成已可用，智能体功能即将推出。",
-      "category": "ai-products",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h"
-      }
     }
   ],
-  "cachedAt": "2026-08-24T21:42:25Z"
+  "cachedAt": "2026-08-24T22:42:21Z"
 }
