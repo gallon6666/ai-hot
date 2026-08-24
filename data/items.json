@@ -1,8 +1,26 @@
 {
-  "count": 40,
+  "count": 42,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmt7nq1d02bs1ro7373u88po4",
+      "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
+      "title_en": "MetaRoCE： A New RDMA Transport Built for AI-Scale Ethernet",
+      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet",
+      "permalink": "https://aihot.virxact.com/items/cmt7nq1d02bs1ro7373u88po4",
+      "source": "Meta Engineering Blog（RSS）",
+      "publishedAt": "2026-08-24T18:02:29.000Z",
+      "discoveredAt": "2026-08-24T19:56:45.475Z",
+      "summary": "Meta 设计并开源了 MetaRoCE，一个专为 AI 工作负载在通用以太网上打造的 RDMA 传输协议，已通过 Open Compute Project（OCP）发布规范、参考软件实现和合规测试套件。该协议将智能移至端点，原生支持乱序交付、多路径、无损容忍和双向拥塞控制，无需 PFC，可在百万 GPU 规模下提供高吞吐、低尾延迟。现有 RDMA Verbs API 和软件栈无需修改即可运行。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt7nq1d02bs1ro7373u88po4"
+      }
+    },
     {
       "id": "cmt7e0g7y232wro738qg82x67",
       "title": "NVIDIA Vera Rubin NVL72 树立 AI 智能体效率新标准：每瓦特工作量提升至 30 倍",
@@ -37,6 +55,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt7e3m7h234gro73wwwhymb0"
+      }
+    },
+    {
+      "id": "cmt7nzq6i2c27ro73tqxagz44",
+      "title": "GPT-5.6 登陆 Kiro，为开发者提升性价比",
+      "title_en": "Advancing price-performance for developers with GPT-5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "permalink": "https://aihot.virxact.com/items/cmt7nzq6i2c27ro73tqxagz44",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-08-24T12:00:00.000Z",
+      "discoveredAt": "2026-08-24T20:04:17.547Z",
+      "summary": "GPT-5.6 模型家族现已登陆软件开发智能体 Kiro，包含 Sol、Terra 和 Luna 三款模型。在 Terminal-Bench 2.1 测试中，GPT-5.6 Terra 在 Kiro 内完成任务成本降低约 82%。该更新由 OpenAI 与 AWS 合作优化，旨在以更少迭代和更高 token 价值帮助开发者产出更高质量的代码。",
+      "category": "ai-models",
+      "score": 59,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt7nzq6i2c27ro73tqxagz44"
       }
     },
     {
@@ -724,5 +760,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-24T19:43:13Z"
+  "cachedAt": "2026-08-24T20:46:47Z"
 }
