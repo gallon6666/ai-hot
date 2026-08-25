@@ -4,24 +4,6 @@
   "nextCursor": null,
   "items": [
     {
-      "id": "cmt8qc6e03kpcro735s9f94ra",
-      "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-      "title_en": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "permalink": "https://aihot.virxact.com/items/cmt8qc6e03kpcro735s9f94ra",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-25T13:41:50.050Z",
-      "discoveredAt": "2026-08-25T13:57:43.616Z",
-      "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt8qc6e03kpcro735s9f94ra"
-      }
-    },
-    {
       "id": "cmt8qee503kvnro73qp7543yv",
       "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
       "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
@@ -37,6 +19,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt8qee503kvnro73qp7543yv"
+      }
+    },
+    {
+      "id": "cmt8qee503kvpro73kzthenuu",
+      "title": "Apple 发布 M6 与 M5 Ultra，性能与 AI 算力大幅跃升",
+      "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "permalink": "https://aihot.virxact.com/items/cmt8qee503kvpro73kzthenuu",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-08-25T12:58:13.056Z",
+      "discoveredAt": "2026-08-25T13:59:27.807Z",
+      "summary": "Apple 推出首款 2nm 芯片 M6，搭载 12 核 CPU、12 核 GPU 及双 16 核神经引擎，统一内存带宽最高 170GB/s，多线程性能较 M5 提升 1.2 倍。M5 Ultra 采用首款四芯片封装架构，最高 36 核 CPU、80 核 GPU，带宽达 1.2TB/s，较 M3 Ultra 提升 50%。两款芯片分别用于新款 Mac mini 与 Mac Studio。",
+      "category": "ai-products",
+      "score": 55,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8qee503kvpro73kzthenuu"
       }
     },
     {
@@ -670,5 +670,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-25T14:01:54Z"
+  "cachedAt": "2026-08-25T15:03:01Z"
 }
