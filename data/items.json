@@ -1,8 +1,44 @@
 {
-  "count": 37,
+  "count": 38,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmt8uphwp3qmhro73czv8pbpv",
+      "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
+      "title_en": "https://x.com/i/article/2092249927812337664",
+      "url": "https://x.com/GoogleAI/status/2092275116503707733",
+      "permalink": "https://aihot.virxact.com/items/cmt8uphwp3qmhro73czv8pbpv",
+      "source": "X：Google AI (@GoogleAI)",
+      "publishedAt": "2026-08-25T15:37:15.000Z",
+      "discoveredAt": "2026-08-25T16:00:00.902Z",
+      "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8uphwp3qmhro73czv8pbpv"
+      }
+    },
+    {
+      "id": "cmt8vaqtw3r29ro73d67v03bc",
+      "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
+      "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
+      "url": "https://www.dwarkesh.com/p/dylan-patel-3",
+      "permalink": "https://aihot.virxact.com/items/cmt8vaqtw3r29ro73d67v03bc",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-08-25T15:32:57.000Z",
+      "discoveredAt": "2026-08-25T16:16:26.625Z",
+      "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8vaqtw3r29ro73d67v03bc"
+      }
+    },
     {
       "id": "cmt8qee503kvnro73qp7543yv",
       "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
@@ -650,25 +686,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsz1974l06hbro20gosn5d78"
       }
-    },
-    {
-      "id": "cmt0e7sxo01eiro2o4l4y9jmh",
-      "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
-      "title_en": "Blog Pushing the Limits of Serving DeepSeek-V4-Pro DeepSeek-V4-Pro is a 1.6-trillion-parameter Mixture-of-Experts （MoE） model released with both FP8 and FP4 weights. Models at this scale naturally benefit from accelerators such as NVIDIA Blackwell GPU… Tianyu Zhang， Yusong Gao， Yun Zhang",
-      "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-      "permalink": "https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "publishedAt": "2026-08-18T16:00:00.000Z",
-      "discoveredAt": "2026-08-19T17:56:13.817Z",
-      "summary": "LMSYS 团队针对 1.6 万亿参数的 MoE 模型 DeepSeek-V4-Pro，在 H20 GPU 上通过场景化服务配置逼近 B300 性能。单节点 H20-141GB 参考实现达 271 output tokens/s，与 B300 的 383.7 tokens/s 性能差距缩小至 1.42×。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt0e7sxo01eiro2o4l4y9jmh"
-      }
     }
   ],
-  "cachedAt": "2026-08-25T15:58:07Z"
+  "cachedAt": "2026-08-25T16:53:18Z"
 }
