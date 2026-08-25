@@ -1,8 +1,44 @@
 {
-  "count": 35,
+  "count": 37,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmt8qc6e03kpcro735s9f94ra",
+      "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+      "title_en": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "permalink": "https://aihot.virxact.com/items/cmt8qc6e03kpcro735s9f94ra",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-25T13:41:50.050Z",
+      "discoveredAt": "2026-08-25T13:57:43.616Z",
+      "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8qc6e03kpcro735s9f94ra"
+      }
+    },
+    {
+      "id": "cmt8qee503kvnro73qp7543yv",
+      "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
+      "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
+      "permalink": "https://aihot.virxact.com/items/cmt8qee503kvnro73qp7543yv",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-08-25T13:00:23.969Z",
+      "discoveredAt": "2026-08-25T13:59:27.807Z",
+      "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8qee503kvnro73qp7543yv"
+      }
+    },
     {
       "id": "cmt7nq1d02bs1ro7373u88po4",
       "title": "MetaRoCE：为 AI 规模以太网打造的全新 RDMA 传输协议",
@@ -634,5 +670,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-25T13:09:28Z"
+  "cachedAt": "2026-08-25T14:01:54Z"
 }
