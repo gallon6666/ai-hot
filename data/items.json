@@ -1,5 +1,5 @@
 {
-  "count": 40,
+  "count": 37,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -668,61 +668,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmsycmgww0rkrroz0nfma0z05"
       }
-    },
-    {
-      "id": "cmszieman0euzrodptihyllom",
-      "title": "StartupBench：面向市场验证端到端工作流的通用智能体基准测试",
-      "title_en": "StartupBench： Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows",
-      "url": "https://arxiv.org/abs/2608.17800",
-      "permalink": "https://aihot.virxact.com/items/cmszieman0euzrodptihyllom",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-18T00:00:00.000Z",
-      "discoveredAt": "2026-08-19T03:05:46.360Z",
-      "summary": "StartupBench 是一个基于市场验证的 AI 初创公司产品构建的端到端智能体基准，从真实采用的产品工作流中提炼任务，而非研究者预设任务。在统一智能体框架下，最强模型也仅能完成约 30% 的任务，复杂指令遵循和领域专业知识是主要失败来源。该基准揭示了当前通用智能体在真实用户任务上的能力边界。",
-      "category": "paper",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmszieman0euzrodptihyllom"
-      }
-    },
-    {
-      "id": "cmsyqip4o14umroz0ch5iv0iv",
-      "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
-      "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "permalink": "https://aihot.virxact.com/items/cmsyqip4o14umroz0ch5iv0iv",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-08-18T00:00:00.000Z",
-      "discoveredAt": "2026-08-18T14:05:05.620Z",
-      "summary": "Sentence Transformers v6.0 新增第四种模型类型 MultiVectorEncoder，可直接加载 PyLate、Stanford-NLP ColBERT 及 colpali-engine 检查点，用于 ColBERT 式晚期交互检索。",
-      "category": "ai-products",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsyqip4o14umroz0ch5iv0iv"
-      }
-    },
-    {
-      "id": "cmsxwd7a40coxroz06g25sfaf",
-      "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-      "title_en": "一个极度实用的深度思考Prompt，帮你挖出最本质的答案。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-      "permalink": "https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-08-17T23:58:00.000Z",
-      "discoveredAt": "2026-08-18T00:01:01.853Z",
-      "summary": "作者基于Reddit上\"让Claude真正开始思考\"的帖子，引入逻辑学中的\"钢人论证\"（steelman）概念，并自创了一个\"双向钢人Prompt\"。该Prompt通过重述真实问题、强化正反双方观点、找出关键变量、逼AI给出明确判断四步，旨在避免模型谄媚，帮助用户找到问题最本质的答案。作者以自己选择公司司庆日的真实案例演示了使用效果。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf"
-      }
     }
   ],
-  "cachedAt": "2026-08-24T23:33:26Z"
+  "cachedAt": "2026-08-25T01:50:25Z"
 }
