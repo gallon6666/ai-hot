@@ -1,8 +1,26 @@
 {
-  "count": 40,
+  "count": 41,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmt96t9tm0augrolyx2c3vi84",
+      "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪",
+      "title_en": "Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+      "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
+      "permalink": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84",
+      "source": "LangChain：Blog（RSS）",
+      "publishedAt": "2026-08-25T21:12:53.000Z",
+      "discoveredAt": "2026-08-25T21:38:55.571Z",
+      "summary": "LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境。该方案通过调度、文本拆分和 50 多种嵌入模型实现数据摄取自动化，帮助开发者构建可规模化的生产级数据管道。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84"
+      }
+    },
     {
       "id": "cmt90wf1p06j9roly5e34fmu3",
       "title": "OpenWorker 新版发布，内置网络安全智能体",
@@ -217,6 +235,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt7nzq6i2c27ro73tqxagz44"
+      }
+    },
+    {
+      "id": "cmt9588t109p9rolyegirxdgx",
+      "title": "AI 智能体应该活多久？",
+      "title_en": "How Long Should an AI Agent Live？",
+      "url": "https://www.tomtunguz.com/how-long-should-an-agent-live",
+      "permalink": "https://aihot.virxact.com/items/cmt9588t109p9rolyegirxdgx",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "discoveredAt": "2026-08-25T20:54:34.789Z",
+      "summary": "长期运行的 AI 智能体会因上下文累积而注意力衰减、临时指令残留成永久规则，并带来安全风险。建议给日常助手 24 小时生命周期，午夜重置会话，将具体任务委派给只存活 30 秒的单一用途子智能体，并在重置前将持久偏好存入磁盘。",
+      "category": "tip",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt9588t109p9rolyegirxdgx"
       }
     },
     {
@@ -704,25 +740,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc"
       }
-    },
-    {
-      "id": "cmsz79zol04j8rodpvun6zobl",
-      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-      "title_en": "Mojo 现已开源！",
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "permalink": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-18T21:26:01.095Z",
-      "discoveredAt": "2026-08-18T21:54:13.934Z",
-      "summary": "Mojo🔥 语言现已正式开源，采用 Apache 2.0 许可证（含 LLVM 例外），编译器、工具链及全部源码已发布至 modular GitHub 仓库。Mojo 上周刚达成 1.0 版本（源码稳定），此次开源涵盖整个编译器与工具链。目前暂不接受编译器相关贡献，计划年底前开放，标准库自 2024 年起已接受社区贡献。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmsz79zol04j8rodpvun6zobl"
-      }
     }
   ],
-  "cachedAt": "2026-08-25T20:44:03Z"
+  "cachedAt": "2026-08-25T21:42:14Z"
 }
