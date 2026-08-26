@@ -1,8 +1,80 @@
 {
-  "count": 46,
+  "count": 51,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtaej1vz0czhroj2aybdbq26",
+      "title": "Claude in Chrome 正式全面上线",
+      "title_en": "Claude in Chrome is generally available",
+      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "permalink": "https://aihot.virxact.com/items/cmtaej1vz0czhroj2aybdbq26",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-08-26T18:02:41.262Z",
+      "discoveredAt": "2026-08-26T18:02:41.262Z",
+      "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtaej1vz0czhroj2aybdbq26"
+      }
+    },
+    {
+      "id": "cmtaddncd0aq0roj2xmay0scj",
+      "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
+      "title_en": "Enabling independent research on how people use Claude",
+      "url": "https://www.anthropic.com/research/enabling-independent-research",
+      "permalink": "https://aihot.virxact.com/items/cmtaddncd0aq0roj2xmay0scj",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-08-26T17:30:30.074Z",
+      "discoveredAt": "2026-08-26T17:30:30.074Z",
+      "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
+      "category": "paper",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtaddncd0aq0roj2xmay0scj"
+      }
+    },
+    {
+      "id": "cmtacdvh50a4aroj2zlw9jnj9",
+      "title": "Warp 如何在 Claude 上构建自我改进的智能体",
+      "title_en": "How Warp builds self-improving agents on Claude",
+      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "permalink": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-08-26T17:02:40.777Z",
+      "discoveredAt": "2026-08-26T17:02:40.777Z",
+      "summary": "Warp 在 Claude 平台上构建了基于 Agent Skills 的自我改进循环，通过基础技能与改进技能两个文件型技能，将人类反馈转化为对智能体的持续优化。该模式已应用于其整个开源仓库，覆盖数百名贡献者与数千次代码审查。团队建议以原则而非规则编写技能，并强调低摩擦反馈与改进技能的可复用性。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9"
+      }
+    },
+    {
+      "id": "cmtacq8vz0aedroj24bcix9go",
+      "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型",
+      "title_en": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+      "permalink": "https://aihot.virxact.com/items/cmtacq8vz0aedroj24bcix9go",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-08-26T17:01:00.000Z",
+      "discoveredAt": "2026-08-26T17:12:15.529Z",
+      "summary": "Google DeepMind 推出 Gemini 3.5 Transcribe 语音转文本模型，支持流式与非流式两种 API。据 Artificial Analysis 评测，其流式与非流式平均词错率分别为 4.0% 和 2.6%，支持超 85 种语言、自定义词汇及最多三人说话人识别。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtacq8vz0aedroj24bcix9go"
+      }
+    },
     {
       "id": "cmta9ciqt07c1roj219h5liie",
       "title": "Qwen3.8-Flash 开源，Qwen4 架构预览",
@@ -379,6 +451,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt7nzq6i2c27ro73tqxagz44"
+      }
+    },
+    {
+      "id": "cmtacjvfj0a9qroj2efx3z1xo",
+      "title": "开放世界多智能体环境中的自主数学发现",
+      "title_en": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "permalink": "https://aihot.virxact.com/items/cmtacjvfj0a9qroj2efx3z1xo",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-08-24T00:00:00.000Z",
+      "discoveredAt": "2026-08-24T00:00:00.000Z",
+      "summary": "一项研究在开放世界多智能体环境Station中，让来自不同模型家族的AI智能体在无中央协调或脚本化流程下自主开展数学研究。在AlphaEvolve目录的12个构造问题及两个额外案例中，智能体在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了定理与分析使结果更具可解释性。所有原始智能体对话、证明和验证代码均已公开。",
+      "category": "paper",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtacjvfj0a9qroj2efx3z1xo"
       }
     },
     {
@@ -832,5 +922,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-26T16:57:59Z"
+  "cachedAt": "2026-08-26T19:18:13Z"
 }
