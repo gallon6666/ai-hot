@@ -1,26 +1,8 @@
 {
-  "count": 38,
+  "count": 37,
   "hasNext": false,
   "nextCursor": null,
   "items": [
-    {
-      "id": "cmt96t9tm0augrolyx2c3vi84",
-      "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪",
-      "title_en": "Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
-      "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
-      "permalink": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84",
-      "source": "LangChain：Blog（RSS）",
-      "publishedAt": "2026-08-25T21:12:53.000Z",
-      "discoveredAt": "2026-08-25T21:38:55.571Z",
-      "summary": "LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境。该方案通过调度、文本拆分和 50 多种嵌入模型实现数据摄取自动化，帮助开发者构建可规模化的生产级数据管道。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt96t9tm0augrolyx2c3vi84"
-      }
-    },
     {
       "id": "cmt90wf1p06j9roly5e34fmu3",
       "title": "OpenWorker 新版发布，内置网络安全智能体",
@@ -688,5 +670,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-26T10:50:14Z"
+  "cachedAt": "2026-08-26T11:42:51Z"
 }
