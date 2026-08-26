@@ -1,5 +1,5 @@
 {
-  "count": 49,
+  "count": 46,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -166,24 +166,6 @@
       }
     },
     {
-      "id": "cmt8z2eko055crolytaitdxv8",
-      "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
-      "title_en": "Claude's memory works everywhere， and you decide what's in it",
-      "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
-      "permalink": "https://aihot.virxact.com/items/cmt8z2eko055crolytaitdxv8",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-08-25T18:02:04.743Z",
-      "discoveredAt": "2026-08-25T18:02:04.743Z",
-      "summary": "Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场景对话时都能调用此前积累的上下文，减少重复解释。记忆会在聊天过程中实时更新，用户可在 Memory 设置中按主题查看、编辑或删除每条记忆。健康、信仰等敏感话题默认不存储，但可在设置中开启，且敏感识别号、犯罪记录等始终不会被保存。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt8z2eko055crolytaitdxv8"
-      }
-    },
-    {
       "id": "cmt8uphwp3qmhro73czv8pbpv",
       "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
       "title_en": "https://x.com/i/article/2092249927812337664",
@@ -325,6 +307,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt7nq1d02bs1ro7373u88po4"
+      }
+    },
+    {
+      "id": "cmt8z2eko055crolytaitdxv8",
+      "title": "Claude 记忆功能全面打通聊天与 Cowork，用户可逐条查看和编辑",
+      "title_en": "Claude's memory works everywhere， and you decide what's in it",
+      "url": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+      "permalink": "https://aihot.virxact.com/items/cmt8z2eko055crolytaitdxv8",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-08-24T16:00:00.000Z",
+      "discoveredAt": "2026-08-25T18:02:04.743Z",
+      "summary": "Claude 即日起将聊天与 Claude Cowork 的记忆统一，用户在任一场景对话时都能调用此前积累的上下文，减少重复解释。记忆会在聊天过程中实时更新，用户可在 Memory 设置中按主题查看、编辑或删除每条记忆。健康、信仰等敏感话题默认不存储，但可在设置中开启，且敏感识别号、犯罪记录等始终不会被保存。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmt8z2eko055crolytaitdxv8"
       }
     },
     {
@@ -830,61 +830,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt0kxcuu07f2ro2owuqpbjc8"
       }
-    },
-    {
-      "id": "cmt1z1q5n0c93roovlvh40tew",
-      "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具",
-      "title_en": "Build production agents with computer use， the Skills API， and the Files API",
-      "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-      "permalink": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-08-19T16:00:00.000Z",
-      "discoveredAt": "2026-08-20T20:27:01.660Z",
-      "summary": "Anthropic 宣布 Computer Use、Skills API 与 Files API 在 Claude Platform 全面可用，并新增浏览器操作工具，让智能体可操作软件、调用团队技能并返回成品文件。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1z1q5n0c93roovlvh40tew"
-      }
-    },
-    {
-      "id": "cmt1tonwa07i9roovrze0ll65",
-      "title": "Anthropic 如何开展 AI 教学",
-      "title_en": "Anthropic's approach to teaching and learning AI",
-      "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-      "permalink": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-08-19T16:00:00.000Z",
-      "discoveredAt": "2026-08-20T17:56:58.396Z",
-      "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1tonwa07i9roovrze0ll65"
-      }
-    },
-    {
-      "id": "cmt1pkwbj04bxroovzkfca5c7",
-      "title": "Mistral 推出 Agentic Search：多步检索提升 AI 系统复杂文档查询准确率",
-      "title_en": "Agentic Search. More accurate and efficient results from your AI systems. The retrieval layer that helps AI systems navigate， read， and verify information inside and across even the most complex documents.",
-      "url": "https://mistral.ai/news/agentic-search",
-      "permalink": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7",
-      "source": "Mistral AI：News（网页）",
-      "publishedAt": "2026-08-19T16:00:00.000Z",
-      "discoveredAt": "2026-08-20T16:02:07.300Z",
-      "summary": "Mistral 发布 Agentic Search，通过 search、open、navigate、read、grep 五工具的多步检索循环，让模型在长文档与多来源中查找、定位并验证信息。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7"
-      }
     }
   ],
-  "cachedAt": "2026-08-26T15:51:05Z"
+  "cachedAt": "2026-08-26T16:57:59Z"
 }
