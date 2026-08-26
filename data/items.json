@@ -4,6 +4,24 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmta5r0om0317roj2n0z971vb",
+      "title": "Qwen 开源 Qwen3.8-Flash-Next，SGLang 提供 Day-0 支持",
+      "title_en": "Blog Qwen3.8-Flash-Next： Day-0 Support in SGLang Today， the Qwen team open-sourced Qwen3.8-Flash-Next， a multimodal MoE model and an early preview of the Qwen4 architecture. It plays the same role for Qwen4 that Qwen3-Next played for Qwen3.5. The Ga… SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-08-26-qwen-flash-next",
+      "permalink": "https://aihot.virxact.com/items/cmta5r0om0317roj2n0z971vb",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "publishedAt": "2026-08-26T13:56:55.513Z",
+      "discoveredAt": "2026-08-26T13:56:55.513Z",
+      "summary": "Qwen 团队开源多模态 MoE 模型 Qwen3.8-Flash-Next，作为 Qwen4 架构的早期预览版。该模型采用 125B 参数主模型加 51B N-gram Embedding，每 token 激活 6B 参数，共 48 层，MoE 层使用 512 个专家和 top-10 路由。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmta5r0om0317roj2n0z971vb"
+      }
+    },
+    {
       "id": "cmta2x13k03t3rolwmr6pzc67",
       "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
       "title_en": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
@@ -686,25 +704,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt1pkwbj04bxroovzkfca5c7"
       }
-    },
-    {
-      "id": "cmt05zhyg139trodp6bxsy9e2",
-      "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失",
-      "title_en": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-      "url": "https://huggingface.co/blog/LiquidAI/qad",
-      "permalink": "https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-08-19T13:48:49.000Z",
-      "discoveredAt": "2026-08-19T14:05:48.972Z",
-      "summary": "Liquid AI 发布基于量化感知蒸馏（QAD）训练的 LFM2.5-230M、350M、1.2B-Instruct 和 2.6B 四款 Q4_0 GGUF 检查点，在保持原生 Q4_0 内存与速度的同时，恢复 BF16 平均精度损失的 97%。",
-      "category": "ai-models",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2"
-      }
     }
   ],
-  "cachedAt": "2026-08-26T13:14:40Z"
+  "cachedAt": "2026-08-26T14:03:28Z"
 }
