@@ -1,5 +1,5 @@
 {
-  "count": 41,
+  "count": 38,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -686,61 +686,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt05zhyg139trodp6bxsy9e2"
       }
-    },
-    {
-      "id": "cmszeb2mx0b3srodpef1ub0j0",
-      "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-      "title_en": "GLM-5.3上线：拓展智能上界的可及边界",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-      "permalink": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0",
-      "source": "公众号：智谱（GLM）",
-      "publishedAt": "2026-08-19T01:03:29.000Z",
-      "discoveredAt": "2026-08-19T01:11:01.484Z",
-      "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
-      "category": "ai-products",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmszeb2mx0b3srodpef1ub0j0"
-      }
-    },
-    {
-      "id": "cmt1xbu7q0b7troovffggr2jh",
-      "title": "Grok Build 全面上线网页与移动端，所有套餐可用",
-      "title_en": "Grok Build on web and mobile",
-      "url": "https://x.ai/news/grok-build-for-everyone",
-      "permalink": "https://aihot.virxact.com/items/cmt1xbu7q0b7troovffggr2jh",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-08-19T00:00:00.000Z",
-      "discoveredAt": "2026-08-20T19:38:45.834Z",
-      "summary": "Grok Build 现已面向所有套餐开放，支持网页、iOS 和 Android 端使用。用户描述应用、游戏或网站后，Grok 可在聊天中实时生成可运行版本。该功能自 7 月推出 Early Beta 以来，新增了发布分享、接入 X 及调用 Grok 自身模型等能力，发布的应用可获得 grok.me 链接并支持自定义域名、导出到 GitHub 等。",
-      "category": "ai-products",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt1xbu7q0b7troovffggr2jh"
-      }
-    },
-    {
-      "id": "cmt0d2tsl1961rodpnvzxo4cc",
-      "title": "OpenRouter 宣布加入 Stripe",
-      "title_en": "OpenRouter is Joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-      "permalink": "https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-08-19T00:00:00.000Z",
-      "discoveredAt": "2026-08-19T17:24:22.858Z",
-      "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
-      "category": "industry",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt0d2tsl1961rodpnvzxo4cc"
-      }
     }
   ],
-  "cachedAt": "2026-08-25T23:35:47Z"
+  "cachedAt": "2026-08-26T01:56:37Z"
 }
