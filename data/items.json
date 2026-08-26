@@ -1,8 +1,44 @@
 {
-  "count": 37,
+  "count": 39,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmta2x13k03t3rolwmr6pzc67",
+      "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
+      "title_en": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+      "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+      "permalink": "https://aihot.virxact.com/items/cmta2x13k03t3rolwmr6pzc67",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-08-26T12:34:01.000Z",
+      "discoveredAt": "2026-08-26T12:37:37.607Z",
+      "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览，现已开放权重。该模型总参数量 125B，每 token 仅激活 6B，原生上下文 262K，可扩展至 1M；训练成本仅为 Qwen3.7-Plus 的 1/9，并在编码和办公任务上表现更优。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmta2x13k03t3rolwmr6pzc67"
+      }
+    },
+    {
+      "id": "cmta2veap03nmrolwxllvp4ay",
+      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+      "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "permalink": "https://aihot.virxact.com/items/cmta2veap03nmrolwxllvp4ay",
+      "source": "Qwen：Blog Retrieval（API）",
+      "publishedAt": "2026-08-26T12:30:00.000Z",
+      "discoveredAt": "2026-08-26T12:36:17.782Z",
+      "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+      "category": "ai-models",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmta2veap03nmrolwxllvp4ay"
+      }
+    },
     {
       "id": "cmt90wf1p06j9roly5e34fmu3",
       "title": "OpenWorker 新版发布，内置网络安全智能体",
@@ -670,5 +706,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-26T11:42:51Z"
+  "cachedAt": "2026-08-26T13:14:40Z"
 }
