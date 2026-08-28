@@ -1,24 +1,78 @@
 {
-  "count": 53,
+  "count": 55,
   "hasNext": false,
   "nextCursor": null,
   "items": [
     {
-      "id": "cmtbz2p7e0079rolb5qfitfiw",
-      "title": "Gemini Omni 1.1 Flash 发布：新增场景扩展、4K 升级等生成视频控制能力",
-      "title_en": "Gemini Omni 1.1 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash",
-      "permalink": "https://aihot.virxact.com/items/cmtbz2p7e0079rolb5qfitfiw",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-27T20:06:03.845Z",
-      "discoveredAt": "2026-08-27T20:25:36.992Z",
-      "summary": "Google 推出 Gemini Omni 1.1 Flash，通过 Gemini API 在 Google AI Studio 提供面向专业用途的生成视频能力。新功能包括场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量延长至累计 40 秒）、首尾帧插值、360p 快速草稿（比 720p 快至多 60%、成本为其三分之一）以及最高 4K 分辨率升级。",
+      "id": "cmtc61ej101lqrojqto587wu9",
+      "title": "Midjourney 开放 V8.2 图像编辑模型测试",
+      "title_en": "Edit Model for V8",
+      "url": "https://updates.midjourney.com/edit-model-for-v8",
+      "permalink": "https://aihot.virxact.com/items/cmtc61ej101lqrojqto587wu9",
+      "source": "Midjourney：Updates（RSS）",
+      "publishedAt": "2026-08-27T23:32:15.000Z",
+      "discoveredAt": "2026-08-27T23:40:33.688Z",
+      "summary": "Midjourney 开始向所有用户开放其首个 V8.2 图像编辑模型的测试。该模型支持指令编辑、以图生图（最多同时引用 4 张参考图）、局部重绘与扩画，并兼容个性化、moodboards 和 srefs 功能。用户可通过网页端或 Discord 的 `--edit` 命令使用，官方同步更新了 midjourney.com 与 alpha.midjourney.com 的界面。",
       "category": "ai-models",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtc61ej101lqrojqto587wu9"
+      }
+    },
+    {
+      "id": "cmtc5i81401mlroosz6bsplf6",
+      "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
+      "title_en": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
+      "permalink": "https://aihot.virxact.com/items/cmtc5i81401mlroosz6bsplf6",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-27T23:01:35.558Z",
+      "discoveredAt": "2026-08-27T23:25:39.024Z",
+      "summary": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtc5i81401mlroosz6bsplf6"
+      }
+    },
+    {
+      "id": "cmtc4fn8n01mwrozaq4bot3b4",
+      "title": "英伟达预计 2028 财年销售额达 6730 亿美元",
+      "title_en": "随着人工智能需求的扩大，英伟达预计销售额将达到6730亿美元",
+      "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast",
+      "permalink": "https://aihot.virxact.com/items/cmtc4fn8n01mwrozaq4bot3b4",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-27T22:29:33.124Z",
+      "discoveredAt": "2026-08-27T22:55:38.985Z",
+      "summary": "英伟达预计 2028 财年营收增长 70%，年销售额约达 6730 亿美元，将超过苹果和 Alphabet，仅次于亚马逊。CFO Colette Kress 于 8 月 26 日给出该预测，远高于分析师平均预期的 44%。供应而非需求成为近期上限，黄仁勋称内存等部件短缺限制了更高预期，客户群正从超大规模厂商扩展至 ACIE。",
+      "category": "industry",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtc4fn8n01mwrozaq4bot3b4"
+      }
+    },
+    {
+      "id": "cmtc05bnj015srome8fm42xy8",
+      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
+      "title_en": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
+      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
+      "permalink": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-08-27T20:52:31.000Z",
+      "discoveredAt": "2026-08-27T20:55:38.426Z",
+      "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
+      "category": "industry",
       "score": 70,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbz2p7e0079rolb5qfitfiw"
+        "canonical": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8"
       }
     },
     {
@@ -127,6 +181,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtas790607swroamcmunq53y"
+      }
+    },
+    {
+      "id": "cmtc7nham01clrodmgnklmfp8",
+      "title": "Claude Console 新增个人密钥与服务账号密钥",
+      "title_en": "Claude Platform release notes - August 27， 2026",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview#august-27-2026",
+      "permalink": "https://aihot.virxact.com/items/cmtc7nham01clrodmgnklmfp8",
+      "source": "Claude Platform：开发者版本说明（RSS）",
+      "publishedAt": "2026-08-27T00:00:00.000Z",
+      "discoveredAt": "2026-08-28T00:25:42.932Z",
+      "summary": "Claude Console 现已支持创建个人密钥和服务账号密钥，它们以关联账户身份运行并继承相同权限，账户从组织移除后密钥即失效。组织管理员可借此更轻松追踪各账户用量并确保密钥使用合规。这些 API 密钥可限定到特定工作区，也可用于管理端点及账户可访问的任何工作区，工作区 API 密钥仍作为旧版选项保留支持。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtc7nham01clrodmgnklmfp8"
       }
     },
     {
@@ -920,43 +992,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmta7g6l70515roj25ljc0cqj"
       }
-    },
-    {
-      "id": "cmta7gwaz0525roj2g5e3xyfv",
-      "title": "都Agent时代了，我还是想分享给你这12个我最常用的Prompt",
-      "title_en": "都Agent时代了，我还是想分享给你这12个我最常用的Prompt。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685346&idx=1&sn=0fc8dc62bcf67a466552d1204205ef31",
-      "permalink": "https://aihot.virxact.com/items/cmta7gwaz0525roj2g5e3xyfv",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-08-21T00:08:00.000Z",
-      "discoveredAt": "2026-08-21T00:08:00.000Z",
-      "summary": "作者整理出12个最常用的Prompt，按问清问题、学习、解决问题、决策、认识自己5个场景分类，全部可单独复制使用且无需安装任何Skill。每个Prompt都配有可直接套用的模板，将【】内内容替换为个人信息即可，适配当前所有主流AI。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmta7gwaz0525roj2g5e3xyfv"
-      }
-    },
-    {
-      "id": "cmt30vskr0e0wro6t19q13yic",
-      "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象",
-      "title_en": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "permalink": "https://aihot.virxact.com/items/cmt30vskr0e0wro6t19q13yic",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-08-21T00:00:00.000Z",
-      "discoveredAt": "2026-08-21T14:06:17.786Z",
-      "summary": "Hugging Face 最新研究引入三项测试量化语音识别中的基准优化（benchmaxxing）现象。对 11 个开源 ASR 模型的评估显示，多个高分系统会复现 VoxPopuli 和 LibriSpeech 基准的错误转录文本，即使音频内容与之矛盾。部分模型甚至依赖声学线索识别基准来源，导致其得分高估了真实转录能力。",
-      "category": "paper",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt30vskr0e0wro6t19q13yic"
-      }
     }
   ],
-  "cachedAt": "2026-08-27T20:28:38Z"
+  "cachedAt": "2026-08-28T05:22:03Z"
 }
