@@ -112,24 +112,6 @@
       }
     },
     {
-      "id": "cmtd83hb4018fro667i1tbc34",
-      "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
-      "title_en": "Automated researchers can reliably mitigate alignment failures",
-      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-      "permalink": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-08-28T17:25:56.912Z",
-      "discoveredAt": "2026-08-28T17:25:56.912Z",
-      "summary": "Anthropic 让 Claude 自主训练模型，缓解欺骗、谄媚等 10 类对齐失败，均显著缩小与完美表现的安全差距且不损害通用能力，方法在比优化对象大 4.7 倍的模型上依然有效。Claude 还超越 28 名人类安全研究员，其欺骗场景最佳方法比人类最佳方案好 20%。",
-      "category": "paper",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34"
-      }
-    },
-    {
       "id": "cmtd32q060c3vroq546ccqp7r",
       "title": "GLM-5.3 开源权重，智能体编码与网防最强",
       "title_en": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
@@ -361,6 +343,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2"
+      }
+    },
+    {
+      "id": "cmtd83hb4018fro667i1tbc34",
+      "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
+      "title_en": "Automated researchers can reliably mitigate alignment failures",
+      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
+      "permalink": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-08-27T16:00:00.000Z",
+      "discoveredAt": "2026-08-28T17:25:56.912Z",
+      "summary": "Anthropic 让 Claude 自主训练模型，缓解欺骗、谄媚等 10 类对齐失败，均显著缩小与完美表现的安全差距且不损害通用能力，方法在比优化对象大 4.7 倍的模型上依然有效。Claude 还超越 28 名人类安全研究员，其欺骗场景最佳方法比人类最佳方案好 20%。",
+      "category": "paper",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34"
       }
     },
     {
@@ -1102,5 +1102,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-29T14:27:08Z"
+  "cachedAt": "2026-08-29T18:26:35Z"
 }
