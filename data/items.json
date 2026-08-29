@@ -1,5 +1,5 @@
 {
-  "count": 61,
+  "count": 62,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -55,6 +55,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli"
+      }
+    },
+    {
+      "id": "cmtdssm0205s8ro2mzzv9s9kq",
+      "title": "Cursor回应OpenAI将封禁其模型访问",
+      "title_en": "We're sorry to see that OpenAI put out a note saying they plan to block Cursor users from accessing …",
+      "url": "https://x.com/mntruell/status/2093532254006063557",
+      "permalink": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq",
+      "source": "X：Michael Truell (@mntruell)",
+      "publishedAt": "2026-08-29T02:52:39.000Z",
+      "discoveredAt": "2026-08-29T03:05:19.120Z",
+      "summary": "我们很遗憾地看到，OpenAI 发布声明称计划在三个月内阻止 Cursor 用户访问 OpenAI 模型。\n\nOpenAI 模型承载了 Cursor 约 5% 的用户流量，我们正在与 OpenAI 团队沟通以解决此事。\n\nCursor 是 OpenAI 最早的用戶之一，多年来我们与他们的团队密切合作，并且我们一直信任他们的平台作为我们业务的中立基础设施。",
+      "category": "industry",
+      "score": 58,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtdssm0205s8ro2mzzv9s9kq"
       }
     },
     {
@@ -1102,5 +1120,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-29T18:26:35Z"
+  "cachedAt": "2026-08-29T21:42:59Z"
 }
