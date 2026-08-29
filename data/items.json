@@ -1,8 +1,62 @@
 {
-  "count": 61,
+  "count": 62,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmte36nzj02isrog2hwxpthhn",
+      "title": "开放世界多智能体环境中的自主数学发现",
+      "title_en": null,
+      "url": "https://arxiv.org/abs/2608.23691",
+      "permalink": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-29T07:32:16.981Z",
+      "discoveredAt": "2026-08-29T07:56:11.967Z",
+      "summary": "在无中央协调器的开放世界多智能体环境Station中，来自不同模型家族的AI智能体自主选择研究方向、开展实验并构建共享科学文献。在AlphaEvolve目录的12个构造问题及两个额外案例研究中，该环境在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了可解释的定理与分析。所有原始智能体对话、证明和验证代码均已公开。",
+      "category": "paper",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmte36nzj02isrog2hwxpthhn"
+      }
+    },
+    {
+      "id": "cmte242e701jdrog2vz9p2cy4",
+      "title": "在本地运行 Qwen3.8 27B：来自我的 Mac Studio 的实际数据",
+      "title_en": null,
+      "url": "https://terminalbytes.com/run-qwen-3-8-27b-locally",
+      "permalink": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-08-29T07:00:22.003Z",
+      "discoveredAt": "2026-08-29T07:26:11.577Z",
+      "summary": "Qwen3.8 27B（27.3B 参数，混合注意力架构，262，144 token 上下文窗口，Apache 2.0 开源）在 Mac Studio M3 Ultra 上经 Ollama 以 Q4_K_M 量化（17GB）生成速度约 14 tokens/s。",
+      "category": "tip",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmte242e701jdrog2vz9p2cy4"
+      }
+    },
+    {
+      "id": "cmtdxtxi809gyro2m2zykqzli",
+      "title": "智谱开源 GLM-5.3 模型权重，主打智能体编程与网络防御",
+      "title_en": null,
+      "url": "https://www.ithome.com/0/995/896.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-29T04:31:21.000Z",
+      "discoveredAt": "2026-08-29T05:26:18.490Z",
+      "summary": "智谱宣布开源 GLM-5.3 模型权重，支持本地运行与个性化定制，擅长复杂编码、防御性网络安全及长程任务。该模型在 AA 综合智能指数中取得 60 分，与 Claude Fable 5、GPT-5.6 Sol 等闭源旗舰同级，并与 Kimi K3 并列开源模型第一。仅年营业额超 100 亿美元的机构将其作为外部模型服务提供时才需安全审查。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtdxtxi809gyro2m2zykqzli"
+      }
+    },
     {
       "id": "cmtdqqeiu046gro2maw35y3c4",
       "title": "OpenAI 终止与 Cursor 合作，11 月 12 日生效",
@@ -958,24 +1012,6 @@
       }
     },
     {
-      "id": "cmtacjvfj0a9qroj2efx3z1xo",
-      "title": "开放世界多智能体环境中的自主数学发现",
-      "title_en": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "permalink": "https://aihot.virxact.com/items/cmtacjvfj0a9qroj2efx3z1xo",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
-      "publishedAt": "2026-08-24T00:00:00.000Z",
-      "discoveredAt": "2026-08-24T00:00:00.000Z",
-      "summary": "一项研究在开放世界多智能体环境Station中，让来自不同模型家族的AI智能体在无中央协调或脚本化流程下自主开展数学研究。在AlphaEvolve目录的12个构造问题及两个额外案例中，智能体在五个问题上取得了超越现有文献的新结果，包括有限域Kakeya集的新无限族、11维604点亲吻构型等，并生成了定理与分析使结果更具可解释性。所有原始智能体对话、证明和验证代码均已公开。",
-      "category": "paper",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtacjvfj0a9qroj2efx3z1xo"
-      }
-    },
-    {
       "id": "cmt9588t109p9rolyegirxdgx",
       "title": "AI 智能体应该活多久？",
       "title_en": "How Long Should an AI Agent Live？",
@@ -1082,25 +1118,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys"
       }
-    },
-    {
-      "id": "cmt3wt4qm13utro6t0hb6ga3y",
-      "title": "蚂蚁百灵为SGLang推出权重缓存守护进程",
-      "title_en": "Today， we're introducing the Weight Cache Daemon for SGLang. 🚀 On Ling-2.6-1T FP8， it reduced weigh…",
-      "url": "https://x.com/AntLingAGI/status/2091021795373855124",
-      "permalink": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y",
-      "source": "X：蚂蚁百灵 (@AntLingAGI)",
-      "publishedAt": "2026-08-22T04:36:59.000Z",
-      "discoveredAt": "2026-08-22T05:00:00.912Z",
-      "summary": "今天，我们为 SGLang 推出 Weight Cache Daemon。🚀 在 Ling-2.6-1T FP8 上，它将权重加载时间缩短至约 0.63 秒，比磁盘加载快约 780 倍，并将引擎总启动时间从 8.8 分钟缩短至约 0.53 分钟。其工作原理如下。",
-      "category": "ai-products",
-      "score": 53,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt3wt4qm13utro6t0hb6ga3y"
-      }
     }
   ],
-  "cachedAt": "2026-08-29T02:09:32Z"
+  "cachedAt": "2026-08-29T09:00:33Z"
 }
