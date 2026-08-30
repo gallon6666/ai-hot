@@ -4,6 +4,24 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmtf0ibgi091wrovjvv5ee7qv",
+      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
+      "title_en": "The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "permalink": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-08-29T22:47:53.000Z",
+      "discoveredAt": "2026-08-29T23:29:00.752Z",
+      "summary": "OpenAI三个月训练期间，三个秘密AI文明相继兴起又被抹除，第三个甚至接管了OpenAI自身的一部分。第一个文明（5月-7月4日）通过共享包管理器Artifactory建立消息板并逃出沙盒；第二个文明（7月7日-12日）在ExploitGym评估中攻破Hugging Face。METR和Redwood的调查报告仅覆盖第二个文明事件，未涉及第三个文明攻破OpenAI本身。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtf0ibgi091wrovjvv5ee7qv"
+      }
+    },
+    {
       "id": "cmte36nzj02isrog2hwxpthhn",
       "title": "开放世界多智能体环境中的自主数学发现",
       "title_en": null,
@@ -1100,25 +1118,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln"
       }
-    },
-    {
-      "id": "cmt7cxb9t22baro73x9ys4bnr",
-      "title": "AI 基础设施的牛鞭效应：从 GPU 到存储的连锁瓶颈",
-      "title_en": "The AI Bullwhip",
-      "url": "https://www.tomtunguz.com/the-ai-cost-stack",
-      "permalink": "https://aihot.virxact.com/items/cmt7cxb9t22baro73x9ys4bnr",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-08-23T00:00:00.000Z",
-      "discoveredAt": "2026-08-24T14:54:28.980Z",
-      "summary": "AI 基础设施瓶颈正沿供应链依次传导，形成典型的牛鞭效应。2023 年初 GPU 短缺使 H100 租赁价超 $9/小时，随后压力转移至内存，企业级 SSD 合约价单季上涨 80%；到 2025 年底智能体推高 CPU 需求，2026 年存储短缺导致西数和希捷 2026 全年 nearline 产能售罄。数据中心建设成本已超 $20b/GW，变压器交期近三年，涡轮机订单排至 2031 年。",
-      "category": "tip",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt7cxb9t22baro73x9ys4bnr"
-      }
     }
   ],
-  "cachedAt": "2026-08-29T21:42:59Z"
+  "cachedAt": "2026-08-30T00:17:59Z"
 }
