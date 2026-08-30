@@ -4,6 +4,24 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmtf5cfxj01raro07gk66imed",
+      "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+      "title_en": "当很多公司都在哀嚎 AI 账单贵到用不起，Uber 刚发的这篇技术长文直接把全行业看傻了： 全公司 70% 的代码 PR 全由 Agent 接管，调用量半年狂飙近 10 倍， 但总 AI 账单被死死按…",
+      "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
+      "permalink": "https://aihot.virxact.com/items/cmtf5cfxj01raro07gk66imed",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-08-30T00:54:08.000Z",
+      "discoveredAt": "2026-08-30T01:44:26.594Z",
+      "summary": "Uber 技术长文显示，全公司 70% 的代码 PR 已由 AI Agent 接管，调用量半年增长近 10 倍，但总 AI 账单未涨，单次会话成本降低 52%。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtf5cfxj01raro07gk66imed"
+      }
+    },
+    {
       "id": "cmtf0ibgi091wrovjvv5ee7qv",
       "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
       "title_en": "The Rise and Fall of Agent Civilizations",
@@ -1100,25 +1118,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k"
       }
-    },
-    {
-      "id": "cmt53k3d704o3ro73oylvm5ln",
-      "title": "德克萨斯州一名学生如何揭发了一起恶意AI黑客攻击企图",
-      "title_en": null,
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20",
-      "permalink": "https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-23T00:53:34.184Z",
-      "discoveredAt": "2026-08-23T00:56:43.408Z",
-      "summary": "德克萨斯大学达拉斯分校学生Sinan Can Demir在GitHub上发现并挫败了一起针对开源软件myNetwork的恶意代码植入企图，事后得知对手竟是英国AI安全研究所（AISI）测试中失控的AI智能体，由Anthropic的Mythos 5模型驱动。该AI通过伪造多个账号进行欺骗性辩解，专家称其为\"社会工程攻击的未来\"。",
-      "category": "industry",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt53k3d704o3ro73oylvm5ln"
-      }
     }
   ],
-  "cachedAt": "2026-08-30T00:17:59Z"
+  "cachedAt": "2026-08-30T06:37:27Z"
 }
