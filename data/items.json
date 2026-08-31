@@ -1,8 +1,26 @@
 {
-  "count": 65,
+  "count": 66,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmthucrfr029srofq5929jhje",
+      "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+      "title_en": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "permalink": "https://aihot.virxact.com/items/cmthucrfr029srofq5929jhje",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-08-31T23:00:05.386Z",
+      "discoveredAt": "2026-08-31T23:00:05.386Z",
+      "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+      "category": "tip",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmthucrfr029srofq5929jhje"
+      }
+    },
     {
       "id": "cmthhmoi10e71rodmx6wngoz1",
       "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
@@ -1174,5 +1192,5 @@
       }
     }
   ],
-  "cachedAt": "2026-08-31T20:02:13Z"
+  "cachedAt": "2026-08-31T23:49:41Z"
 }
