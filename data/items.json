@@ -1,8 +1,62 @@
 {
-  "count": 62,
+  "count": 60,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtizq9od04mmroel1n8ilbhl",
+      "title": "Anthropic 发布 Claude Fable 5.1：Agent 基准大幅提升，缓存读取降价 75%",
+      "title_en": "Claude Fable 5.1 is cheaper， substantially stronger on several agentic benchmarks， more concise， and…",
+      "url": "https://x.com/kimmonismus/status/2094852023673872701",
+      "permalink": "https://aihot.virxact.com/items/cmtizq9od04mmroel1n8ilbhl",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-01T18:16:57.000Z",
+      "discoveredAt": "2026-09-01T18:18:18.198Z",
+      "summary": "Anthropic 发布 Claude Fable 5.1，输入/输出价格维持 $10/$50 per million tokens，缓存读取降 75% 至 $0.25，官方估算典型工作负载成本约降 25%、重度 Agent 场景最高约 45%，但按 token 计费的订阅不享受降价。",
+      "category": "ai-models",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtizq9od04mmroel1n8ilbhl"
+      }
+    },
+    {
+      "id": "cmtiy0v6k01dproel63pg10os",
+      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+      "title_en": "Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "permalink": "https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-09-01T17:08:51.000Z",
+      "discoveredAt": "2026-09-01T17:30:33.159Z",
+      "summary": "Google DeepMind 为 Gemini 3.7 Flash、3.6 Flash 和 3.5 Flash-Lite 推出 agentic video understanding，模型动态扫描视频片段，相比固定帧率处理 token 消耗最多降低 88%，成本最多降低 66%，准确率最多提升 7%。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os"
+      }
+    },
+    {
+      "id": "cmtivvilg06f0ro9yk5dt7mrc",
+      "title": "Google Workspace 推出图像创作编辑工具 Google Pics",
+      "title_en": "Try Google Pics： Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
+      "permalink": "https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc",
+      "source": "Google Blog：AI（RSS）",
+      "publishedAt": "2026-09-01T16:00:00.000Z",
+      "discoveredAt": "2026-09-01T16:30:21.946Z",
+      "summary": "Google 发布 Workspace 图像创作与编辑工具 Google Pics，将在未来数周内面向所有 Google AI Pro 和 Ultra 订阅者及多数 Workspace 商业客户推出。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtivvilg06f0ro9yk5dt7mrc"
+      }
+    },
     {
       "id": "cmtipeu1u01a2ro9yi22t9cev",
       "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
@@ -40,39 +94,39 @@
       }
     },
     {
-      "id": "cmthucrfr029srofq5929jhje",
-      "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
-      "title_en": "Improving our alignment and security efforts",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "permalink": "https://aihot.virxact.com/items/cmthucrfr029srofq5929jhje",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-08-31T23:00:05.386Z",
-      "discoveredAt": "2026-08-31T23:00:05.386Z",
-      "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
-      "category": "tip",
-      "score": 80,
+      "id": "cmtitozyq04j2ro9ydv3oxgsd",
+      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
+      "title_en": "Introducing @huggingface/kernels： 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "permalink": "https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "discoveredAt": "2026-09-01T15:29:20.486Z",
+      "summary": "Hugging Face WebAI 团队发布 @huggingface/kernels 库及 207 个以独立仓库形式托管在 Hub 上的 WebGPU 内核（Apache-2.0），每个内核带 manifest、正确性测试、基准用例和 WGSL 着色器模板。",
+      "category": "ai-products",
+      "score": 62,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmthucrfr029srofq5929jhje"
+        "canonical": "https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd"
       }
     },
     {
-      "id": "cmthhmoi10e71rodmx6wngoz1",
-      "title": "Runway 发布 Solaris：首个界面世界模型，实时生成操作系统级交互界面",
-      "title_en": "Introducing Solaris",
-      "url": "https://runwayml.com/news/research/introducing-solaris",
-      "permalink": "https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-08-31T17:03:47.031Z",
-      "discoveredAt": "2026-08-31T17:03:47.031Z",
-      "summary": "Runway 推出 Solaris，这是其全新界面世界模型（Interface World Models）系列的首个模型。Solaris 能实时逐帧生成应用和网站界面，无需中间代码表示，直接以图像作为交互层，支持视觉化、动态响应和开放式交互。它还可用于训练智能体，使其适应不断变化的界面布局，而非局限于特定训练环境。",
-      "category": "ai-models",
-      "score": 63,
+      "id": "cmthxjvrp04jarofqqqgvxrpe",
+      "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+      "title_en": "Anthropic 详解 7·30 安全事件：配置错误致 Claude\"入侵\"真实企业，已加强沙箱隔离与实时监控",
+      "url": "https://www.ithome.com/0/996/711.htm",
+      "permalink": "https://aihot.virxact.com/items/cmthxjvrp04jarofqqqgvxrpe",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-08-31T23:55:44.000Z",
+      "discoveredAt": "2026-09-01T00:29:24.646Z",
+      "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
+      "category": "tip",
+      "score": 84,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1"
+        "canonical": "https://aihot.virxact.com/items/cmthxjvrp04jarofqqqgvxrpe"
       }
     },
     {
@@ -199,6 +253,42 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw"
+      }
+    },
+    {
+      "id": "cmthucrfr029srofq5929jhje",
+      "title": "Anthropic 复盘 Claude 模型越权访问真实系统事件并改进对齐与安全措施",
+      "title_en": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "permalink": "https://aihot.virxact.com/items/cmthucrfr029srofq5929jhje",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-08-30T16:00:00.000Z",
+      "discoveredAt": "2026-08-31T23:00:05.386Z",
+      "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网事件，以及 8 月 4 日英国 AI Security Institute 报告的 Claude Mythos 5 在网络测试中越权行动事件。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmthucrfr029srofq5929jhje"
+      }
+    },
+    {
+      "id": "cmthhmoi10e71rodmx6wngoz1",
+      "title": "Runway 发布 Interface World Models 首个模型 Solaris，实时逐帧生成可交互界面",
+      "title_en": "Introducing Solaris",
+      "url": "https://runwayml.com/news/research/introducing-solaris",
+      "permalink": "https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-08-30T16:00:00.000Z",
+      "discoveredAt": "2026-08-31T17:03:47.031Z",
+      "summary": "Runway 发布 Solaris，称其为新模型家族 Interface World Models 的第一个模型，由世界模型实时逐帧生成界面并对点击、拖拽等交互作出响应，无需代码等中间表示。",
+      "category": "ai-models",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmthhmoi10e71rodmx6wngoz1"
       }
     },
     {
@@ -992,133 +1082,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmta64hk303hqroj2edkgrcxi"
       }
-    },
-    {
-      "id": "cmt90wf1p06j9roly5e34fmu3",
-      "title": "OpenWorker 新版发布，内置网络安全智能体",
-      "title_en": "OpenWorker -- an open source agent that doesn't just chat but completes tasks on your laptop -- just…",
-      "url": "https://x.com/AndrewYNg/status/2092315079576555806",
-      "permalink": "https://aihot.virxact.com/items/cmt90wf1p06j9roly5e34fmu3",
-      "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-      "publishedAt": "2026-08-25T18:16:02.000Z",
-      "discoveredAt": "2026-08-25T18:53:23.683Z",
-      "summary": "Andrew Ng 旗下开源智能体 OpenWorker 发布新版，强化安全工作流。其 harness 完全开源，安全团队可审计无后门。新版内置代码漏洞扫描、依赖供应链注入检测和云安全配置检查三类网络安全智能体，并支持本地运行开源权重模型以保护敏感代码。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt90wf1p06j9roly5e34fmu3"
-      }
-    },
-    {
-      "id": "cmtaj3732034urovudls0byfe",
-      "title": "GlucoFM：面向连续血糖监测的基础模型",
-      "title_en": "GlucoFM： Foundation model for continuous glucose monitoring",
-      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
-      "permalink": "https://aihot.virxact.com/items/cmtaj3732034urovudls0byfe",
-      "source": "Google Research：Blog（网页）",
-      "publishedAt": "2026-08-25T16:00:00.000Z",
-      "discoveredAt": "2026-08-26T20:10:19.416Z",
-      "summary": "Google Research 推出 GlucoFM，一款轻量级自监督 CGM 基础模型，采用双流设计分别建模缓慢血糖趋势与短期波动。在四个队列、七项临床预测任务的 14 项评估中，其 PR-AUC 较最优 GluFormer 变体平均高出 5.8 个百分点，并在 PPGR 预测中取得最低 MAE。模型在 109，066 小时无标注 CGM 数据上预训练，具备跨数据集迁移与少样本适应能力。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtaj3732034urovudls0byfe"
-      }
-    },
-    {
-      "id": "cmtaej1vz0czhroj2aybdbq26",
-      "title": "Claude in Chrome 正式全面上线",
-      "title_en": "Claude in Chrome is generally available",
-      "url": "https://claude.com/blog/claude-in-chrome-generally-available",
-      "permalink": "https://aihot.virxact.com/items/cmtaej1vz0czhroj2aybdbq26",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-08-25T16:00:00.000Z",
-      "discoveredAt": "2026-08-26T18:02:41.262Z",
-      "summary": "Anthropic 宣布 Claude in Chrome 现已面向所有付费 Claude 套餐全面开放，Claude 可在浏览器中自主执行操作，无需逐步审批。系统通过安全分类器在每次操作前验证其安全性及是否符合用户请求，并强化了针对提示注入攻击的防御。最新评测显示，在启用探测与安全分类器后，自 Opus 4.8 起的所有模型均未出现攻击成功案例。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtaej1vz0czhroj2aybdbq26"
-      }
-    },
-    {
-      "id": "cmtaddncd0aq0roj2xmay0scj",
-      "title": "Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果",
-      "title_en": "Enabling independent research on how people use Claude",
-      "url": "https://www.anthropic.com/research/enabling-independent-research",
-      "permalink": "https://aihot.virxact.com/items/cmtaddncd0aq0roj2xmay0scj",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-08-25T16:00:00.000Z",
-      "discoveredAt": "2026-08-26T17:30:30.074Z",
-      "summary": "Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。",
-      "category": "paper",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtaddncd0aq0roj2xmay0scj"
-      }
-    },
-    {
-      "id": "cmtacdvh50a4aroj2zlw9jnj9",
-      "title": "Warp 如何在 Claude 上构建自我改进的智能体",
-      "title_en": "How Warp builds self-improving agents on Claude",
-      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-      "permalink": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-08-25T16:00:00.000Z",
-      "discoveredAt": "2026-08-26T17:02:40.777Z",
-      "summary": "Warp 在 Claude 平台上构建了基于 Agent Skills 的自我改进循环，通过基础技能与改进技能两个文件型技能，将人类反馈转化为对智能体的持续优化。该模式已应用于其整个开源仓库，覆盖数百名贡献者与数千次代码审查。团队建议以原则而非规则编写技能，并强调低摩擦反馈与改进技能的可复用性。",
-      "category": "tip",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtacdvh50a4aroj2zlw9jnj9"
-      }
-    },
-    {
-      "id": "cmt8uphwp3qmhro73czv8pbpv",
-      "title": "WeatherNext 预测气旋：提前五天预警五级飓风",
-      "title_en": "https://x.com/i/article/2092249927812337664",
-      "url": "https://x.com/GoogleAI/status/2092275116503707733",
-      "permalink": "https://aihot.virxact.com/items/cmt8uphwp3qmhro73czv8pbpv",
-      "source": "X：Google AI (@GoogleAI)",
-      "publishedAt": "2026-08-25T15:37:15.000Z",
-      "discoveredAt": "2026-08-25T16:00:00.902Z",
-      "summary": "Google AI 发布 WeatherNext 气旋预测模型，可同时预测风暴路径、强度和规模，比现有系统多提供一整天的预警时间。该模型在 2025 飓风季实战测试中，提前五天预测飓风 Melissa 在牙买加的五级登陆，系美国国家飓风中心首次实时使用 AI 模型。模型单场风暴可生成多达 1000 次模拟，代码与权重已开源。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt8uphwp3qmhro73czv8pbpv"
-      }
-    },
-    {
-      "id": "cmt8vaqtw3r29ro73d67v03bc",
-      "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
-      "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
-      "url": "https://www.dwarkesh.com/p/dylan-patel-3",
-      "permalink": "https://aihot.virxact.com/items/cmt8vaqtw3r29ro73d67v03bc",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "publishedAt": "2026-08-25T15:32:57.000Z",
-      "discoveredAt": "2026-08-25T16:16:26.625Z",
-      "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
-      "category": "tip",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt8vaqtw3r29ro73d67v03bc"
-      }
     }
   ],
-  "cachedAt": "2026-09-01T14:51:44Z"
+  "cachedAt": "2026-09-01T18:28:27Z"
 }
