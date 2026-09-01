@@ -1,8 +1,26 @@
 {
-  "count": 63,
+  "count": 62,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtipeu1u01a2ro9yi22t9cev",
+      "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
+      "title_en": "美国 AI 数据中心现大量\"幽灵用电需求\"，多州出手整治",
+      "url": "https://www.ithome.com/0/997/147.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtipeu1u01a2ro9yi22t9cev",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-01T12:40:19.000Z",
+      "discoveredAt": "2026-09-01T13:29:28.929Z",
+      "summary": "据路透社报道，美国中西部、中大西洋和南部地区超大型用电户（主要为数据中心）提出的用电申请已超过 700 吉瓦，超过全美数据中心实际用电量估计的十倍，其中相当一部分可能是重复提交或缺乏资金能力的幻象需求。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtipeu1u01a2ro9yi22t9cev"
+      }
+    },
     {
       "id": "cmthxigqm04c1rofqqmk7pkqi",
       "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
@@ -1100,43 +1118,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmt8vaqtw3r29ro73d67v03bc"
       }
-    },
-    {
-      "id": "cmt8qee503kvnro73qp7543yv",
-      "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
-      "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-      "permalink": "https://aihot.virxact.com/items/cmt8qee503kvnro73qp7543yv",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-08-25T13:00:23.969Z",
-      "discoveredAt": "2026-08-25T13:59:27.807Z",
-      "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt8qee503kvnro73qp7543yv"
-      }
-    },
-    {
-      "id": "cmt8qee503kvpro73kzthenuu",
-      "title": "Apple 发布 M6 与 M5 Ultra，性能与 AI 算力大幅跃升",
-      "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "permalink": "https://aihot.virxact.com/items/cmt8qee503kvpro73kzthenuu",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-08-25T12:58:13.056Z",
-      "discoveredAt": "2026-08-25T13:59:27.807Z",
-      "summary": "Apple 推出首款 2nm 芯片 M6，搭载 12 核 CPU、12 核 GPU 及双 16 核神经引擎，统一内存带宽最高 170GB/s，多线程性能较 M5 提升 1.2 倍。M5 Ultra 采用首款四芯片封装架构，最高 36 核 CPU、80 核 GPU，带宽达 1.2TB/s，较 M3 Ultra 提升 50%。两款芯片分别用于新款 Mac mini 与 Mac Studio。",
-      "category": "ai-products",
-      "score": 55,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmt8qee503kvpro73kzthenuu"
-      }
     }
   ],
-  "cachedAt": "2026-09-01T10:04:05Z"
+  "cachedAt": "2026-09-01T14:51:44Z"
 }
