@@ -1,24 +1,60 @@
 {
-  "count": 60,
+  "count": 64,
   "hasNext": false,
   "nextCursor": null,
   "items": [
     {
-      "id": "cmtizq9od04mmroel1n8ilbhl",
-      "title": "Anthropic 发布 Claude Fable 5.1：Agent 基准大幅提升，缓存读取降价 75%",
-      "title_en": "Claude Fable 5.1 is cheaper， substantially stronger on several agentic benchmarks， more concise， and…",
-      "url": "https://x.com/kimmonismus/status/2094852023673872701",
-      "permalink": "https://aihot.virxact.com/items/cmtizq9od04mmroel1n8ilbhl",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-09-01T18:16:57.000Z",
-      "discoveredAt": "2026-09-01T18:18:18.198Z",
-      "summary": "Anthropic 发布 Claude Fable 5.1，输入/输出价格维持 $10/$50 per million tokens，缓存读取降 75% 至 $0.25，官方估算典型工作负载成本约降 25%、重度 Agent 场景最高约 45%，但按 token 计费的订阅不享受降价。",
-      "category": "ai-models",
-      "score": 76,
+      "id": "cmtj484a00592roh9jjdf5xkd",
+      "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
+      "title_en": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+      "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+      "permalink": "https://aihot.virxact.com/items/cmtj484a00592roh9jjdf5xkd",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-09-01T20:12:46.000Z",
+      "discoveredAt": "2026-09-01T20:24:09.522Z",
+      "summary": "Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。",
+      "category": "tip",
+      "score": 78,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtizq9od04mmroel1n8ilbhl"
+        "canonical": "https://aihot.virxact.com/items/cmtj484a00592roh9jjdf5xkd"
+      }
+    },
+    {
+      "id": "cmtj2y06p04bwroh9d8oszszo",
+      "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+      "title_en": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+      "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+      "permalink": "https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-01T19:43:09.000Z",
+      "discoveredAt": "2026-09-01T19:48:18.025Z",
+      "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
+      "category": "paper",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtj2y06p04bwroh9d8oszszo"
+      }
+    },
+    {
+      "id": "cmtj0fqfq001nroh9x8mg1s3z",
+      "title": "Claude Fable 5.1 上线 OpenRouter",
+      "title_en": "Claude Fable 5.1 from @AnthropicAI is live on OpenRouter. A direct upgrade for Fable 5 workloads， w…",
+      "url": "https://x.com/OpenRouter/status/2094855056936022304",
+      "permalink": "https://aihot.virxact.com/items/cmtj0fqfq001nroh9x8mg1s3z",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-09-01T18:29:00.000Z",
+      "discoveredAt": "2026-09-01T18:38:06.226Z",
+      "summary": "Anthropic 的 Claude Fable 5.1 已上线 OpenRouter，官方称其为 Fable 5 工作负载的直接升级版本，提升最大的方向包括 agentic coding、长时间运行的工作流、视觉代码生成、金融和分析。使用入口：https://openrouter.ai/anthropic/claude-fable-5.1",
+      "category": "ai-models",
+      "score": 55,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtj0fqfq001nroh9x8mg1s3z"
       }
     },
     {
@@ -58,6 +94,24 @@
       }
     },
     {
+      "id": "cmtj42kz5057qroh9yw6fjh9h",
+      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+      "title_en": "Path to Astra： critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "permalink": "https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-01T13:00:00.000Z",
+      "discoveredAt": "2026-09-01T20:19:52.274Z",
+      "summary": "OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安全能力阈值，是首个被评定为该级别的模型，可在少人干预下发现未知漏洞并构建利用链。",
+      "category": "ai-models",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtj42kz5057qroh9yw6fjh9h"
+      }
+    },
+    {
       "id": "cmtipeu1u01a2ro9yi22t9cev",
       "title": "路透社调查：美国 AI 数据中心现大量幽灵用电需求，得州等多州出手整治",
       "title_en": "美国 AI 数据中心现大量\"幽灵用电需求\"，多州出手整治",
@@ -91,6 +145,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi"
+      }
+    },
+    {
+      "id": "cmtj04igz04xproel00pt2oju",
+      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+      "title_en": "Claude Platform release notes - September 1， 2026",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview#september-1-2026",
+      "permalink": "https://aihot.virxact.com/items/cmtj04igz04xproel00pt2oju",
+      "source": "Claude Platform：开发者版本说明（RSS）",
+      "publishedAt": "2026-09-01T00:00:00.000Z",
+      "discoveredAt": "2026-09-01T18:29:22.881Z",
+      "summary": "Anthropic 发布 Claude Fable 5.1（claude-fable-5-1），面向长时间运行的智能体编码、知识工作与研究，Claude Mythos 5.1 面向 Project Glasswing 参与者。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtj04igz04xproel00pt2oju"
       }
     },
     {
@@ -1084,5 +1156,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-01T18:28:27Z"
+  "cachedAt": "2026-09-01T21:45:31Z"
 }
