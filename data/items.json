@@ -1,5 +1,5 @@
 {
-  "count": 60,
+  "count": 56,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1010,79 +1010,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmta9ciqt07c1roj219h5liie"
       }
-    },
-    {
-      "id": "cmta6v56y03yiroj2ki26viqh",
-      "title": "以色列资助的假美国智库试图利用AI进行宣传",
-      "title_en": "一个由以色列设立并资助的假美国智库，试图利用人工智能进行宣传",
-      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-      "permalink": "https://aihot.virxact.com/items/cmta6v56y03yiroj2ki26viqh",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-26T14:05:28.706Z",
-      "discoveredAt": "2026-08-26T14:28:07.466Z",
-      "summary": "一个打着\"汉诺威公共政策研究所\"旗号的亲以色列网站，在九天内发布了124篇、超56万字的报告，旨在优化内容以引导ChatGPT等AI聊天机器人引用其亲以观点。该网站由美国公司Piro Inc依据《外国代理人登记法》为以色列政府分发内容，其背后是以色列政府数千万美元资助、经Havas Media等第三方转手的更广泛宣传行动。",
-      "category": "industry",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmta6v56y03yiroj2ki26viqh"
-      }
-    },
-    {
-      "id": "cmta6v56y03ytroj25ggn7rlo",
-      "title": "C2PA相机经不起现实的考验：Android端可被root攻击伪造签名",
-      "title_en": "C2PA相机经不起现实的考验",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "permalink": "https://aihot.virxact.com/items/cmta6v56y03ytroj25ggn7rlo",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-26T14:05:27.506Z",
-      "discoveredAt": "2026-08-26T14:28:07.466Z",
-      "summary": "安全研究员David Buchanan指出，C2PA相机认证在Android平台上可被攻破。通过root权限提升漏洞（如CVE-2026-43499），攻击者可利用StrongBox硬件签名任意数据，伪造C2PA签名图像和视频，且无需硬件攻击。该问题无法通过常规补丁修复，已提前90天向相关方报告。",
-      "category": "paper",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmta6v56y03ytroj25ggn7rlo"
-      }
-    },
-    {
-      "id": "cmtb6o47l0mmaroamhnqtifvv",
-      "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
-      "title_en": "GLM-5.3-Flash：前沿智能进入普惠时代",
-      "url": "https://www.zhipuai.cn/zh/research/163",
-      "permalink": "https://aihot.virxact.com/items/cmtb6o47l0mmaroamhnqtifvv",
-      "source": "智谱：研究（网页内嵌数据）",
-      "publishedAt": "2026-08-26T14:00:00.000Z",
-      "discoveredAt": "2026-08-27T07:10:28.200Z",
-      "summary": "智谱上线并开源GLM-5.3-Flash（320B-A18B），这是GLM-5系列首个原生多模态模型，在AA综合智能指数取得57分，与Claude Opus 4.8持平。其定价为GLM-5.3的1/10（限时1/20），为Opus 4.8的1/40，并首次在大规模流量中由国产芯片集群提供算力支持。模型已接入ZCode等平台，同步开放API调用。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtb6o47l0mmaroamhnqtifvv"
-      }
-    },
-    {
-      "id": "cmta2veap03nmrolwxllvp4ay",
-      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
-      "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "permalink": "https://aihot.virxact.com/items/cmta2veap03nmrolwxllvp4ay",
-      "source": "Qwen：Blog Retrieval（API）",
-      "publishedAt": "2026-08-26T12:30:00.000Z",
-      "discoveredAt": "2026-08-26T12:36:17.782Z",
-      "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
-      "category": "ai-models",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmta2veap03nmrolwxllvp4ay"
-      }
     }
   ],
-  "cachedAt": "2026-09-02T09:35:32Z"
+  "cachedAt": "2026-09-02T14:27:36Z"
 }
