@@ -1,8 +1,116 @@
 {
-  "count": 60,
+  "count": 65,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtjkp6dc02j5rori29u5h7kl",
+      "title": "美团 LongCat-2.0 上线 Cline 免费试用",
+      "title_en": "LongCat-2.0 is now free to try in @cline ！ 🐱",
+      "url": "https://x.com/Meituan_LongCat/status/2094996391387111865",
+      "permalink": "https://aihot.virxact.com/items/cmtjkp6dc02j5rori29u5h7kl",
+      "source": "X：美团 LongCat (@Meituan_LongCat)",
+      "publishedAt": "2026-09-02T03:50:37.000Z",
+      "discoveredAt": "2026-09-02T04:05:19.828Z",
+      "summary": null,
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtjkp6dc02j5rori29u5h7kl"
+      }
+    },
+    {
+      "id": "cmtjjkmd800r4roe4wpq221bc",
+      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
+      "title_en": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "permalink": "https://aihot.virxact.com/items/cmtjjkmd800r4roe4wpq221bc",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-09-02T03:33:48.237Z",
+      "discoveredAt": "2026-09-02T03:33:48.237Z",
+      "summary": "Anthropic 发布 Claude Fable 5.1 和 Claude Mythos 5.1，两者为同一模型，Mythos 5.1 仅通过受信任访问计划提供给网络安全和生命科学领域。",
+      "category": "ai-models",
+      "score": 87,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtjjkmd800r4roe4wpq221bc"
+      }
+    },
+    {
+      "id": "cmtjjt7360180roe43ggo0t09",
+      "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
+      "title_en": "UU远程史诗级升级，这就是如今远程Vibe Coding的第一神器。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
+      "permalink": "https://aihot.virxact.com/items/cmtjjt7360180roe43ggo0t09",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-02T03:32:20.000Z",
+      "discoveredAt": "2026-09-02T03:40:27.472Z",
+      "summary": "UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtjjt7360180roe43ggo0t09"
+      }
+    },
+    {
+      "id": "cmtjimzgx083zrobvekm2zmje",
+      "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
+      "title_en": "🏆 #1 overall on Code Arena， and top of the Pareto frontier at $5/MToken. Thanks！ @arena Give Qwen3…",
+      "url": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
+      "permalink": "https://aihot.virxact.com/items/cmtjimzgx083zrobvekm2zmje",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-09-02T02:57:07.000Z",
+      "discoveredAt": "2026-09-02T03:07:37.845Z",
+      "summary": "通义千问发布 Qwen3.8-Max-0902，在 Code Arena： WebDev 以 1，691 分首次亮相即排名总榜第一，并以混合价 $5/MToken 成为 Pareto 前沿上得分最高的模型，现已可在 QwenCloud 试用。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtjimzgx083zrobvekm2zmje"
+      }
+    },
+    {
+      "id": "cmtjh8t5k06jorobvfq21a6e2",
+      "title": "UC Berkeley 团队发布 Vero 基准：测试 AI 智能体能否构建形式化验证的软件仓库",
+      "title_en": "Vero： Can AI Agents Build Formally Verified Software Repositories？",
+      "url": "https://rdi.berkeley.edu/blog/vero",
+      "permalink": "https://aihot.virxact.com/items/cmtjh8t5k06jorobvfq21a6e2",
+      "source": "Berkeley RDI：Blog（AI 安全与评测）",
+      "publishedAt": "2026-09-02T02:28:38.186Z",
+      "discoveredAt": "2026-09-02T02:28:38.186Z",
+      "summary": "UC Berkeley 等机构发布 Vero，据称是首个要求智能体在仓库级同时编写实现与证明的基准，含 43 个多模块 Lean 4 实例、743 个计分 API 和 2705 条形式化规范。",
+      "category": "paper",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtjh8t5k06jorobvfq21a6e2"
+      }
+    },
+    {
+      "id": "cmtjhy5ze07gorobv62fpf0wi",
+      "title": "Nvidia 接近以 129 亿美元收购 Hugging Face",
+      "title_en": "Bloomberg： Nvidia is nearing a $12.9B Hugging Face acquisition. At this price， its about 2.9x Hugg…",
+      "url": "https://x.com/rohanpaul_ai/status/2094975190468010368",
+      "permalink": "https://aihot.virxact.com/items/cmtjhy5ze07gorobv62fpf0wi",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-02T02:26:22.000Z",
+      "discoveredAt": "2026-09-02T02:48:18.699Z",
+      "summary": "Bloomberg 报道 Nvidia 正接近以约 129 亿美元收购 Hugging Face，交易总额可能达约 140 亿美元，双方尚未达成最终协议，时间与细节仍可能变动。该价格约为 Hugging Face 2023 年融资轮 45 亿美元估值的 2.9 倍，按年化收入约 1.5 亿美元计算相当于 86 倍，Nvidia 还谈及在交易中加入 10 亿美元的员工留任方案。",
+      "category": "industry",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtjhy5ze07gorobv62fpf0wi"
+      }
+    },
     {
       "id": "cmtj484a00592roh9jjdf5xkd",
       "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
@@ -181,24 +289,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd"
-      }
-    },
-    {
-      "id": "cmthxjvrp04jarofqqqgvxrpe",
-      "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-      "title_en": "Anthropic 详解 7·30 安全事件：配置错误致 Claude\"入侵\"真实企业，已加强沙箱隔离与实时监控",
-      "url": "https://www.ithome.com/0/996/711.htm",
-      "permalink": "https://aihot.virxact.com/items/cmthxjvrp04jarofqqqgvxrpe",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-31T23:55:44.000Z",
-      "discoveredAt": "2026-09-01T00:29:24.646Z",
-      "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
-      "category": "tip",
-      "score": 84,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmthxjvrp04jarofqqqgvxrpe"
       }
     },
     {
@@ -1084,5 +1174,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-02T00:11:36Z"
+  "cachedAt": "2026-09-02T04:29:48Z"
 }
