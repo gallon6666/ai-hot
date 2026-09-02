@@ -1,5 +1,5 @@
 {
-  "count": 65,
+  "count": 60,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -148,21 +148,21 @@
       }
     },
     {
-      "id": "cmtj0fqfq001nroh9x8mg1s3z",
-      "title": "Claude Fable 5.1 上线 OpenRouter",
-      "title_en": "Claude Fable 5.1 from @AnthropicAI is live on OpenRouter. A direct upgrade for Fable 5 workloads， w…",
-      "url": "https://x.com/OpenRouter/status/2094855056936022304",
-      "permalink": "https://aihot.virxact.com/items/cmtj0fqfq001nroh9x8mg1s3z",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-09-01T18:29:00.000Z",
+      "id": "cmtj0fqet001lroh9hyk6rqu0",
+      "title": "Claude Fable 5.1 上线 Claude Code 与 Claude Platform，缓存读取降价 75%",
+      "title_en": "Fable 5.1 is now live in Claude Code and the Claude Platform. It's priced the same as Fable 5， with…",
+      "url": "https://x.com/ClaudeDevs/status/2094851229734277228",
+      "permalink": "https://aihot.virxact.com/items/cmtj0fqet001lroh9hyk6rqu0",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-09-01T18:13:48.000Z",
       "discoveredAt": "2026-09-01T18:38:06.226Z",
-      "summary": "Anthropic 的 Claude Fable 5.1 已上线 OpenRouter，官方称其为 Fable 5 工作负载的直接升级版本，提升最大的方向包括 agentic coding、长时间运行的工作流、视觉代码生成、金融和分析。使用入口：https://openrouter.ai/anthropic/claude-fable-5.1",
+      "summary": "Claude Fable 5.1 现已上线 Claude Code 和 Claude Platform，定价与 Fable 5 相同，API 缓存读取便宜 75%。模型在长任务中能更久自主推进、更善于提示用户它已卡住，写作风格也更自然。Anthropic 同时发布了 Claude Fable 5.1 和 Claude Mythos 5.1，称其为编码与知识工作领域最先进的模型。",
       "category": "ai-models",
       "score": 55,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtj0fqfq001nroh9x8mg1s3z"
+        "canonical": "https://aihot.virxact.com/items/cmtj0fqet001lroh9hyk6rqu0"
       }
     },
     {
@@ -253,24 +253,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi"
-      }
-    },
-    {
-      "id": "cmtj04igz04xproel00pt2oju",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-      "title_en": "Claude Platform release notes - September 1， 2026",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview#september-1-2026",
-      "permalink": "https://aihot.virxact.com/items/cmtj04igz04xproel00pt2oju",
-      "source": "Claude Platform：开发者版本说明（RSS）",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "discoveredAt": "2026-09-01T18:29:22.881Z",
-      "summary": "Anthropic 发布 Claude Fable 5.1（claude-fable-5-1），面向长时间运行的智能体编码、知识工作与研究，Claude Mythos 5.1 面向 Project Glasswing 参与者。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtj04igz04xproel00pt2oju"
       }
     },
     {
@@ -652,24 +634,6 @@
       }
     },
     {
-      "id": "cmtd00dbh09tkroq5v7kcw183",
-      "title": "Gemini 3.5 Transcribe 完整指南：告别 ASR 转录难题",
-      "title_en": "Stop Wrestling with ASR： The Complete Guide to Gemini 3.5 Transcribe 🎙️",
-      "url": "https://dev.to/googleai/stop-wrestling-with-asr-the-complete-guide-to-gemini-35-transcribe-1m6i",
-      "permalink": "https://aihot.virxact.com/items/cmtd00dbh09tkroq5v7kcw183",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "publishedAt": "2026-08-28T13:34:29.000Z",
-      "discoveredAt": "2026-08-28T13:39:33.349Z",
-      "summary": "Google 推出专用于语音转文字的 Gemini 3.5 Transcribe 模型，主打快速、准确且低成本的转录，原生支持说话人分离和词级毫秒时间戳。该模型支持 85+ 种语言自动识别与代码切换，可通过 custom_vocabulary 传入最多 1，000 个领域术语避免专有名词拼写错误，并提供 Smart Transcription 与 Verbatim 两种模式。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtd00dbh09tkroq5v7kcw183"
-      }
-    },
-    {
       "id": "cmtcxdp3f07l3roq5uk6om1aw",
       "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
       "title_en": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
@@ -775,24 +739,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtc61ej101lqrojqto587wu9"
-      }
-    },
-    {
-      "id": "cmtc5i81401mlroosz6bsplf6",
-      "title": "Gemini 3.5 Transcribe 发布：更精准的实时语音转写模型",
-      "title_en": "Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe",
-      "permalink": "https://aihot.virxact.com/items/cmtc5i81401mlroosz6bsplf6",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-27T23:01:35.558Z",
-      "discoveredAt": "2026-08-27T23:25:39.024Z",
-      "summary": "Google 推出 Gemini 3.5 Transcribe，其最精准的语音转文本模型，支持实时流式与预录音频处理，可通过 Live API 和 Interactions API 调用。",
-      "category": "tip",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtc5i81401mlroosz6bsplf6"
       }
     },
     {
@@ -1136,43 +1082,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmta2veap03nmrolwxllvp4ay"
       }
-    },
-    {
-      "id": "cmta7fyl104z5roj2ancsmx4g",
-      "title": "实测飞书和豆包合体后第1个Agent：豆包工作的8个使用技巧",
-      "title_en": "实测飞书和豆包合体后第1个Agent，我挖到了豆包工作的8个使用技巧",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509950&idx=1&sn=18e7ecdceb66058f5ae1681009b4054e",
-      "permalink": "https://aihot.virxact.com/items/cmta7fyl104z5roj2ancsmx4g",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-08-26T08:27:00.000Z",
-      "discoveredAt": "2026-08-26T08:27:00.000Z",
-      "summary": "豆包工作（豆包 Work）是当前企业接入Agent门槛最低的路径，但需用飞书账号登录才能解锁满血功能。实测可用手机远程控制最多7台设备、定时任务、自动读取本地skill、侧边栏直接编辑并同步飞书，且管理员看不到聊天记录。作者认为Work Agent是token消耗倍增器，飞书原生生态是豆包工作相比Claude Cowork、Codex Work的核心优势。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmta7fyl104z5roj2ancsmx4g"
-      }
-    },
-    {
-      "id": "cmta7honk0553roj21gque0zw",
-      "title": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 压缩至 440MB，已落地哔哩哔哩直播弹幕翻译",
-      "title_en": "3.3GB 压到 440MB，混元极低 bit 翻译模型跑进直播弹幕",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498367&idx=1&sn=f1a5cf87eb06015cbe995bd5ef8b5d0a",
-      "permalink": "https://aihot.virxact.com/items/cmta7honk0553roj21gque0zw",
-      "source": "公众号：腾讯混元",
-      "publishedAt": "2026-08-26T08:04:03.000Z",
-      "discoveredAt": "2026-08-26T08:04:03.000Z",
-      "summary": "腾讯混元将端侧翻译模型 Hy-MT2-1.8B 通过 2-bit 与 1.25-bit 量化方案压缩至 574MB 和 440MB，翻译质量几乎无损，在 FLORES-200 上优于 Microsoft Translator 等商业 API。该模型已联合英特尔完成 x86 适配，并在哔哩哔哩直播弹幕实时翻译中落地，单条弹幕翻译耗时 500~800ms。",
-      "category": "ai-models",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmta7honk0553roj21gque0zw"
-      }
     }
   ],
-  "cachedAt": "2026-09-02T04:29:48Z"
+  "cachedAt": "2026-09-02T09:35:32Z"
 }
