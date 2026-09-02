@@ -1,24 +1,60 @@
 {
-  "count": 63,
+  "count": 64,
   "hasNext": false,
   "nextCursor": null,
   "items": [
     {
-      "id": "cmtkfnpup03n1robqoh5tnh4t",
-      "title": "美国司法部在纽约时报版权案中支持 AI 训练属合理使用",
-      "title_en": "US Department of Justice backs fair use for AI training in landmark copyright case",
-      "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case",
-      "permalink": "https://aihot.virxact.com/items/cmtkfnpup03n1robqoh5tnh4t",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-02T18:24:42.000Z",
-      "discoveredAt": "2026-09-02T18:32:00.086Z",
-      "summary": "美国司法部在纽约时报等起诉 OpenAI 和 Microsoft 的合并诉讼中提交意见，主张用版权材料训练 LLM 属于合理使用，理由是训练复制与模型输出之间存在法律区分，且输出通常与原作缺乏实质性相似。",
-      "category": "tip",
-      "score": 79,
+      "id": "cmtkme19o02plro5q94jsf94x",
+      "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
+      "title_en": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
+      "url": "https://x.com/kimmonismus/status/2095265444999410146",
+      "permalink": "https://aihot.virxact.com/items/cmtkme19o02plro5q94jsf94x",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-02T21:39:44.000Z",
+      "discoveredAt": "2026-09-02T21:40:23.788Z",
+      "summary": "Meta 发布 Muse Spark 1.3，为五个月内第四个 Muse Spark 版本。max 变体（合作伙伴限时预览）在 Artificial Analysis Intelligence Index 得 62 分。",
+      "category": "ai-models",
+      "score": 78,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkfnpup03n1robqoh5tnh4t"
+        "canonical": "https://aihot.virxact.com/items/cmtkme19o02plro5q94jsf94x"
+      }
+    },
+    {
+      "id": "cmtkkcguj04aurollf1lq9a9s",
+      "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
+      "title_en": "i really hate to say it， but… gemini who？ 🏎️💨",
+      "url": "https://x.com/alexandr_wang/status/2095249704888197175",
+      "permalink": "https://aihot.virxact.com/items/cmtkkcguj04aurollf1lq9a9s",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "publishedAt": "2026-09-02T20:37:12.000Z",
+      "discoveredAt": "2026-09-02T20:43:13.329Z",
+      "summary": "Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtkkcguj04aurollf1lq9a9s"
+      }
+    },
+    {
+      "id": "cmtkh71ky017vrolly7trswyx",
+      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
+      "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
+      "url": "https://x.com/claudeai/status/2095226833293685100",
+      "permalink": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx",
+      "source": "X：Claude (@claudeai)",
+      "publishedAt": "2026-09-02T19:06:19.000Z",
+      "discoveredAt": "2026-09-02T19:15:00.970Z",
+      "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtkh71ky017vrolly7trswyx"
       }
     },
     {
@@ -1118,25 +1154,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtar8e770746roam1wznm4mi"
       }
-    },
-    {
-      "id": "cmtaq20ih062wroamdrhb54b6",
-      "title": "英伟达 2027 财年半年报归母净利润 1180.1 亿美元，同比增长 161.1%",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/994/791.htm",
-      "permalink": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-26T20:25:54.000Z",
-      "discoveredAt": "2026-08-26T23:25:21.048Z",
-      "summary": "英伟达发布 2027 财年半年报，上半年营收 1778.37 亿美元，归母净利润 1180.1 亿美元，同比增长 161.1%，GAAP 毛利率 75%。第二财季营收 962.21 亿美元，同比增长 106%，环比增长 18%，归母净利润 596.88 亿美元，同比增长 126%。数据中心业务第二季度收入 890.23 亿美元，同比增长 117%，Vera Rubin 平台已进入全面量产。",
-      "category": "industry",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtaq20ih062wroamdrhb54b6"
-      }
     }
   ],
-  "cachedAt": "2026-09-02T18:40:18Z"
+  "cachedAt": "2026-09-02T21:47:56Z"
 }
