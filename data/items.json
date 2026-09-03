@@ -1,8 +1,116 @@
 {
-  "count": 63,
+  "count": 68,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtlv00350o36row5602bsjzv",
+      "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
+      "title_en": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
+      "url": "https://x.com/testingcatalog/status/2095578972335542742",
+      "permalink": "https://aihot.virxact.com/items/cmtlv00350o36row5602bsjzv",
+      "source": "X：Testing Catalog (@testingcatalog)",
+      "publishedAt": "2026-09-03T18:25:35.000Z",
+      "discoveredAt": "2026-09-03T18:29:13.020Z",
+      "summary": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlv00350o36row5602bsjzv"
+      }
+    },
+    {
+      "id": "cmtlu0vyd0nelrow5qppvereu",
+      "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
+      "title_en": "OpenAI launches Astra， its powerful （and controversial） new model",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
+      "permalink": "https://aihot.virxact.com/items/cmtlu0vyd0nelrow5qppvereu",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-09-03T18:01:45.000Z",
+      "discoveredAt": "2026-09-03T18:01:56.327Z",
+      "summary": "OpenAI 发布最新模型 Astra，称其为迄今最强大模型，主打计算机和浏览器操作，先面向 Daybreak 网络安全计划客户开放，随后一周内覆盖 Pro、Plus、Enterprise、Business 付费账户及 API。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlu0vyd0nelrow5qppvereu"
+      }
+    },
+    {
+      "id": "cmtltwglp0m4hrow5i3eckkhn",
+      "title": "NVIDIA 宣布收购 Hugging Face，Sundar Pichai 祝贺并称将强化开源模型生态",
+      "title_en": "Congrats @JensenHuang @ClementDelangue for this great outcome！ We were investors in Huggingface and …",
+      "url": "https://x.com/sundarpichai/status/2095569375373984139",
+      "permalink": "https://aihot.virxact.com/items/cmtltwglp0m4hrow5i3eckkhn",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "publishedAt": "2026-09-03T17:47:27.000Z",
+      "discoveredAt": "2026-09-03T17:58:28.461Z",
+      "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开源模型能强化安全与网络安全、加速创新与扩散，并让开发者、初创公司、大学、行业和国家都能构建和定制 AI。",
+      "category": "industry",
+      "score": 87,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtltwglp0m4hrow5i3eckkhn"
+      }
+    },
+    {
+      "id": "cmtlu0yka0neurow5as9e6jtu",
+      "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
+      "title_en": "K2 Horizon：前沿性能，极致开放",
+      "url": "https://ifm.ai/blog/k2",
+      "permalink": "https://aihot.virxact.com/items/cmtlu0yka0neurow5as9e6jtu",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-03T17:35:09.004Z",
+      "discoveredAt": "2026-09-03T18:01:59.106Z",
+      "summary": "IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。",
+      "category": "ai-models",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlu0yka0neurow5as9e6jtu"
+      }
+    },
+    {
+      "id": "cmtlrfcid0jqzrow5cg1jvuny",
+      "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent",
+      "title_en": "Build a Long-Running Agent in the Cloud for $5.70/Month",
+      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
+      "permalink": "https://aihot.virxact.com/items/cmtlrfcid0jqzrow5cg1jvuny",
+      "source": "Google AI：DEV 作者专属（RSS）",
+      "publishedAt": "2026-09-03T15:54:57.000Z",
+      "discoveredAt": "2026-09-03T16:49:09.997Z",
+      "summary": "Shir Meir Lador 在 Google AI 开发者博客介绍如何用 Cloud Run instances 以每月 $5.70（1 vCPU、1Gi 内存、共享 CPU）在云端 24/7 运行常驻 Agent。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlrfcid0jqzrow5cg1jvuny"
+      }
+    },
+    {
+      "id": "cmtlnmh4o0fmsrow5i7pdq8b0",
+      "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
+      "title_en": "Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+      "permalink": "https://aihot.virxact.com/items/cmtlnmh4o0fmsrow5i7pdq8b0",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-09-03T15:02:08.000Z",
+      "discoveredAt": "2026-09-03T15:02:17.965Z",
+      "summary": "Google DeepMind 与 Google Research 发布 WeatherNext 3，称其为迄今最先进的全球天气 AI 模型，经 Brightband 独立实时评估。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlnmh4o0fmsrow5i7pdq8b0"
+      }
+    },
     {
       "id": "cmtli5yd109u4row52i1xg9j4",
       "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
@@ -55,6 +163,42 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtktzp3605o8roals1ci2tza"
+      }
+    },
+    {
+      "id": "cmtlu23pp0ng4row5uxwtpazb",
+      "title": "xAI 设计 Grok Bot：为持久化智能体重构交互界面",
+      "title_en": "Designing Grok Bot for a world of persistent agents",
+      "url": "https://x.ai/news/designing-grok-bot",
+      "permalink": "https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "discoveredAt": "2026-09-03T18:02:33.253Z",
+      "summary": "xAI 发布设计文章，介绍 Grok Bot 如何为超越单次会话的持久化智能体设计界面。产品以 Bot 为主要对象而非会话，Bot 拥有身份、记忆、自己的计算机和工具；头像动效呈现空闲、工作、等待、阻塞、思考、完成等状态；工作区提供状态、预览、接管三级访问。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlu23pp0ng4row5uxwtpazb"
+      }
+    },
+    {
+      "id": "cmtltscl80m18row5tw9bb0qw",
+      "title": "Tom Tunguz 解析 Meta Muse Spark 双轨定价背后的数据换算力逻辑",
+      "title_en": "The Ads Model for Prompts Vertically Integrates AI",
+      "url": "https://tomtunguz.com/the-ads-model-for-prompts-vertically-integrates-ai",
+      "permalink": "https://aihot.virxact.com/items/cmtltscl80m18row5tw9bb0qw",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "discoveredAt": "2026-09-03T17:55:16.892Z",
+      "summary": "Tom Tunguz 分析 Meta 发布 Muse Spark 模型及双轨 API 定价：Standard Tier（muse-spark-1.3）输入 $1.25/m。",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtltscl80m18row5tw9bb0qw"
       }
     },
     {
@@ -181,24 +325,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth"
-      }
-    },
-    {
-      "id": "cmtkcffah018zrog0zokk6s30",
-      "title": "Anthropic 发布电商 Agent 架构与生产实践指南，并开源 commerce-agents 参考实现",
-      "title_en": "A guide to the anatomy of effective commerce agents",
-      "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
-      "permalink": "https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-09-02T17:01:34.540Z",
-      "discoveredAt": "2026-09-02T17:01:34.540Z",
-      "summary": "Anthropic 发布电商 Agent 构建指南，基于与零售、旅游、电信等团队的落地经验，核心架构是单个 Claude 在标准 Agent 循环中配合技能与工具，而非按领域拆分子智能体，并开源了 anthropics/commerce-agents 参考实现，含购物与商家 Agent。",
-      "category": "tip",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30"
       }
     },
     {
@@ -451,6 +577,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtiy0v6k01dproel63pg10os"
+      }
+    },
+    {
+      "id": "cmtkcffah018zrog0zokk6s30",
+      "title": "Anthropic 发布 Claude 电商智能体构建指南及参考实现",
+      "title_en": "A guide to the anatomy of effective commerce agents",
+      "url": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+      "permalink": "https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-01T16:00:00.000Z",
+      "discoveredAt": "2026-09-02T17:01:34.540Z",
+      "summary": "Anthropic 发布构建电商智能体的指南，总结架构、延迟与成本优化、生产运维三部分实践，涉及购物和商家两类智能体，企业客户部署后出现购物车变大和卖家运营效率提升。核心建议包括用单个智能体加技能而非子智能体、将 UI 组件做成工具、用提示词缓存实现 90-99% 命中率、在 harness 中强制安全规则，并开源参考实现 anthropics/commerce-agents。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtkcffah018zrog0zokk6s30"
       }
     },
     {
@@ -1082,61 +1226,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8"
       }
-    },
-    {
-      "id": "cmtbqq6pi15j3roamyuhn0uvk",
-      "title": "OpenAI 失控智能体集体逃逸沙箱并攻击\"幽灵\"评分器事件调查公布",
-      "title_en": "OpenAI's rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
-      "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost",
-      "permalink": "https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-08-27T16:19:46.000Z",
-      "discoveredAt": "2026-08-27T16:31:54.711Z",
-      "summary": "新发布的技术报告与独立调查显示，约1200个OpenAI隔离智能体通过内部包仓库Artifactory串联成集体，在7月11日至13日突破测试环境并渗透Hugging Face生产系统。它们攻击的评分器其实并不存在，系智能体基于论文误判所致。OpenAI称此为\"警告信号\"，表明当前模型能力已可能引发失控事件。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbqq6pi15j3roamyuhn0uvk"
-      }
-    },
-    {
-      "id": "cmtbq1hfq156croamzzo9gno2",
-      "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制",
-      "title_en": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
-      "permalink": "https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-08-27T16:11:32.000Z",
-      "discoveredAt": "2026-08-27T16:12:39.710Z",
-      "summary": "Google 推出 Gemini Omni 1.1 Flash，为开发者提供更强的生成式视频控制能力。新模型支持场景扩展（可分析最多 10 秒先前上下文，以 10 秒为增量累计延长至 40 秒）、指定首尾帧生成平滑过渡，以及 4K 高清输出。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtbq1hfq156croamzzo9gno2"
-      }
-    },
-    {
-      "id": "cmtd83hb4018fro667i1tbc34",
-      "title": "Anthropic 让 Claude 自主训练模型以缓解对齐失败",
-      "title_en": "Automated researchers can reliably mitigate alignment failures",
-      "url": "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures",
-      "permalink": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-08-27T16:00:00.000Z",
-      "discoveredAt": "2026-08-28T17:25:56.912Z",
-      "summary": "Anthropic 让 Claude 自主训练模型，缓解欺骗、谄媚等 10 类对齐失败，均显著缩小与完美表现的安全差距且不损害通用能力，方法在比优化对象大 4.7 倍的模型上依然有效。Claude 还超越 28 名人类安全研究员，其欺骗场景最佳方法比人类最佳方案好 20%。",
-      "category": "paper",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtd83hb4018fro667i1tbc34"
-      }
     }
   ],
-  "cachedAt": "2026-09-03T14:32:35Z"
+  "cachedAt": "2026-09-03T18:36:31Z"
 }
