@@ -1,8 +1,278 @@
 {
-  "count": 68,
+  "count": 86,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtm1j0qe0uchrow5ozapge42",
+      "title": "OpenAI 发布 GPT-6 Astra：1.05M 上下文的计算机操作模型，因触及 Critical 网络安全阈值而限制访问",
+      "title_en": "OpenAI Releases GPT-6 Astra： A 1.05M-Context Computer-Use Model Gated Behind a 'Critical' Cyber Threshold",
+      "url": "https://www.marktechpost.com/2026/09/03/openai-releases-gpt-6-astra-a-1-05m-context-computer-use-model-gated-behind-a-critical-cyber-threshold",
+      "permalink": "https://aihot.virxact.com/items/cmtm1j0qe0uchrow5ozapge42",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-09-03T21:16:11.000Z",
+      "discoveredAt": "2026-09-03T21:31:58.963Z",
+      "summary": "OpenAI 发布 GPT-6 Astra，定位为计算机操作模型，提供 1，050，000 token 上下文窗口、128，000 最大输出 token，2026 年 4 月 30 日知识截止，OSWorld V2-Offline 得分 72.6%（GPT-5.6 Sol 为 65.7%），平均任务时间从约 75 分钟降至 40 分钟。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtm1j0qe0uchrow5ozapge42"
+      }
+    },
+    {
+      "id": "cmtm0r9z00tmkrow5gtxa5j36",
+      "title": "Rohan Paul 解读 OpenAI GPT-6 Astra 117 页系统卡中的安全发现",
+      "title_en": "Some revelations from the 117 page system card of OpenAI's GPT-6 Astra - Astra's ability to delibe…",
+      "url": "https://x.com/rohanpaul_ai/status/2095616781880869271",
+      "permalink": "https://aihot.virxact.com/items/cmtm0r9z00tmkrow5gtxa5j36",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-03T20:55:50.000Z",
+      "discoveredAt": "2026-09-03T21:10:23.915Z",
+      "summary": "Rohan Paul 梳理 OpenAI GPT-6 Astra 117 页系统卡的要点：Astra 控制自身链式思维的能力从 GPT-5.6 Sol 的 16.1% 跃升至 60.9%，可监控性相应下降。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtm0r9z00tmkrow5gtxa5j36"
+      }
+    },
+    {
+      "id": "cmtlzumiu0soirow5cfujh2xf",
+      "title": "ARC-AGI-3 发布仅半年即被 Astra 饱和，进展快于 François Chollet 预期一倍",
+      "title_en": "Progress continues to surprise even the best of us. ARC-AGI-3 was the first ARC-AGI benchmark that I…",
+      "url": "https://x.com/sherwinwu/status/2095608725730119733",
+      "permalink": "https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf",
+      "source": "X：Sherwin Wu（@sherwinwu）",
+      "publishedAt": "2026-09-03T20:23:49.000Z",
+      "discoveredAt": "2026-09-03T20:45:00.146Z",
+      "summary": "Sherwin Wu 表示自己曾觉得 ARC-AGI-3 很难，如今该基准已被 Astra 饱和。引用 François Chollet 的话称，ARC 3 发布时他预计前沿模型约一年才能饱和，实际只用了 6 个月，约为预期的 2 倍速度，新一代模型的能力将挑战人们基于旧模型形成的 AI 观点。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlzumiu0soirow5cfujh2xf"
+      }
+    },
+    {
+      "id": "cmtlzumiu0sojrow5820i30sg",
+      "title": "OpenAI 发布 GPT-6 Astra，多项基准达到 SOTA",
+      "title_en": "The evals are pretty wild， but there's a more visceral feeling you get when you see Astra do compute…",
+      "url": "https://x.com/sherwinwu/status/2095608486940086448",
+      "permalink": "https://aihot.virxact.com/items/cmtlzumiu0sojrow5820i30sg",
+      "source": "X：Sherwin Wu（@sherwinwu）",
+      "publishedAt": "2026-09-03T20:22:52.000Z",
+      "discoveredAt": "2026-09-03T20:45:00.146Z",
+      "summary": "OpenAI 发布 GPT-6 Astra，在 FrontierMath Tier 4、ARC-AGI 3、TerminalBench-4.0 上达到 SOTA，并在 Terminal-Bench Science 0.1 和 HealthBench Pro 上取得领先成绩。",
+      "category": "ai-models",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlzumiu0sojrow5820i30sg"
+      }
+    },
+    {
+      "id": "cmtlzasi70s61row5vze3ldjh",
+      "title": "OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9%",
+      "title_en": "GPT-6 Astra",
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra",
+      "permalink": "https://aihot.virxact.com/items/cmtlzasi70s61row5vze3ldjh",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-09-03T20:18:41.000Z",
+      "discoveredAt": "2026-09-03T20:29:36.510Z",
+      "summary": "OpenAI 的 GPT-6 Astra 今日起向部分组织推出，随后面向 ChatGPT Plus、Pro、Business、Enterprise 用户开放，API 定价为每百万输入 $10、每百万输出 $50，与 Claude Fable 5/5.1 持平。",
+      "category": "ai-models",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlzasi70s61row5vze3ldjh"
+      }
+    },
+    {
+      "id": "cmtlyijva0rlqrow5dkrujvge",
+      "title": "OpenAI 发布 GPT-6 Astra",
+      "title_en": "GPT-6 Astra is here. We hope it will begin to enable a new generation of entrepreneurship， scientif…",
+      "url": "https://x.com/sama/status/2095600005772104059",
+      "permalink": "https://aihot.virxact.com/items/cmtlyijva0rlqrow5dkrujvge",
+      "source": "X：Sam Altman (@sama)",
+      "publishedAt": "2026-09-03T19:49:10.000Z",
+      "discoveredAt": "2026-09-03T20:07:37.030Z",
+      "summary": "Sam Altman 宣布 GPT-6 Astra 发布，称其为计算机使用、专业工作、科学、编码、网络安全等领域全球最佳模型。官方表示为确保该能力级别所需的安全与对齐标准而多花了些时间，并公布 FrontierMath Tier 4 得分 98%、ARC-AGI 3 得分 99.9%、ExploitBench 得分 100%。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlyijva0rlqrow5dkrujvge"
+      }
+    },
+    {
+      "id": "cmtlyeuas0rigrow5d2jq4xb7",
+      "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
+      "title_en": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
+      "url": "https://x.com/fchollet/status/2095598451115614371",
+      "permalink": "https://aihot.virxact.com/items/cmtlyeuas0rigrow5d2jq4xb7",
+      "source": "X：Francois Chollet (@fchollet)",
+      "publishedAt": "2026-09-03T19:42:59.000Z",
+      "discoveredAt": "2026-09-03T20:04:44.581Z",
+      "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
+      "category": "tip",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlyeuas0rigrow5d2jq4xb7"
+      }
+    },
+    {
+      "id": "cmtlxtppp0qqprow5v4bb80ng",
+      "title": "OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展",
+      "title_en": "GPT-6 Astra is here！ This is a big moment for our research team - years of work on pretraining， rein…",
+      "url": "https://x.com/markchen90/status/2095597534412673109",
+      "permalink": "https://aihot.virxact.com/items/cmtlxtppp0qqprow5v4bb80ng",
+      "source": "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
+      "publishedAt": "2026-09-03T19:39:21.000Z",
+      "discoveredAt": "2026-09-03T19:48:18.702Z",
+      "summary": "OpenAI 首席研究官 Mark Chen 宣布 GPT-6 Astra 发布，称其为团队多年预训练、强化学习和后训练工作的成果，是迄今能力最强、对齐最好的模型。",
+      "category": "ai-models",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlxtppp0qqprow5v4bb80ng"
+      }
+    },
+    {
+      "id": "cmtlyijvl0rlsrow5dwqv22k7",
+      "title": "OpenAI 开始发布 GPT-6 Astra，面向全部 Plus 用户开放",
+      "title_en": "We are starting to release GPT-6 Astra and we are doing it as carefully and quickly as possible. It …",
+      "url": "https://x.com/thsottiaux/status/2095597168816226335",
+      "permalink": "https://aihot.virxact.com/items/cmtlyijvl0rlsrow5dwqv22k7",
+      "source": "X：Tibo (@thsottiaux)",
+      "publishedAt": "2026-09-03T19:37:54.000Z",
+      "discoveredAt": "2026-09-03T20:07:37.030Z",
+      "summary": "OpenAI 宣布开始发布 GPT-6 Astra，称正以尽可能谨慎和快速的方式推进，重点让全部 Plus 用户可用，而不只限 Pro、Business 和 Enterprise 套餐。发布需几天完成，背后多个全新系统将首次大规模运行，团队正带来大量算力，详情见 openai.com/index/gpt-6-astra/。",
+      "category": "ai-models",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlyijvl0rlsrow5dwqv22k7"
+      }
+    },
+    {
+      "id": "cmtly53c50r9srow5ux7p8arw",
+      "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
+      "title_en": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
+      "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
+      "permalink": "https://aihot.virxact.com/items/cmtly53c50r9srow5ux7p8arw",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-09-03T19:31:13.000Z",
+      "discoveredAt": "2026-09-03T19:57:09.542Z",
+      "summary": "Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。",
+      "category": "tip",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtly53c50r9srow5ux7p8arw"
+      }
+    },
+    {
+      "id": "cmtlx9epa0qcxrow5bt068c9u",
+      "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
+      "title_en": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
+      "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
+      "permalink": "https://aihot.virxact.com/items/cmtlx9epa0qcxrow5bt068c9u",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-03T19:25:40.000Z",
+      "discoveredAt": "2026-09-03T19:32:31.755Z",
+      "summary": "OpenAI 发布其最强模型 GPT-6 Astra，总裁 Greg Brockman 称其可能已接近 AGI，并以 Welcome to the AGI era 结束发布。",
+      "category": "ai-models",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlx9epa0qcxrow5bt068c9u"
+      }
+    },
+    {
+      "id": "cmtlwgygo0pnnrow5tbc0sok8",
+      "title": "OpenAI 发布 GPT-6 Astra，基准全面超越 Claude Fable 5.1",
+      "title_en": "At this point， they completely crushed Fable 5.1 in every benchmark. Claude Fable 5.1 was sota in se…",
+      "url": "https://x.com/kimmonismus/status/2095589174686400914",
+      "permalink": "https://aihot.virxact.com/items/cmtlwgygo0pnnrow5tbc0sok8",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-03T19:06:08.000Z",
+      "discoveredAt": "2026-09-03T19:10:23.531Z",
+      "summary": "作者引用 OpenAI 官方基准称 GPT-6 Astra 以 99.9% 饱和 ARC-AGI-3，在 ExploitBench 得 100%，并在各项基准上全面超过此前保持 SOTA 两天的 Claude Fable 5.1，且价格更低。",
+      "category": "ai-models",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlwgygo0pnnrow5tbc0sok8"
+      }
+    },
+    {
+      "id": "cmtlwa4r50pj3row543ys30bl",
+      "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋与纳德拉表态开放模型生态",
+      "title_en": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and H…",
+      "url": "https://x.com/satyanadella/status/2095587182039969861",
+      "permalink": "https://aihot.virxact.com/items/cmtlwa4r50pj3row543ys30bl",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "publishedAt": "2026-09-03T18:58:12.000Z",
+      "discoveredAt": "2026-09-03T19:05:04.819Z",
+      "summary": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型能增强安全与网络安全、加速创新与扩散并支持主权，让开发者、初创公司、大学、行业和国家都能构建、定制并受益于 AI。",
+      "category": "industry",
+      "score": 84,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlwa4r50pj3row543ys30bl"
+      }
+    },
+    {
+      "id": "cmtlwgyh00pnqrow5t4ajo0y7",
+      "title": "OpenAI 发布 GPT-6 Astra，先向受限网络安全客户开放",
+      "title_en": "OpenAI is rolling GPT-6 Astra out first to restricted cybersecurity customers， API access and AWS ex…",
+      "url": "https://x.com/rohanpaul_ai/status/2095586785455948112",
+      "permalink": "https://aihot.virxact.com/items/cmtlwgyh00pnqrow5t4ajo0y7",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-03T18:56:38.000Z",
+      "discoveredAt": "2026-09-03T19:10:23.531Z",
+      "summary": "OpenAI 发布 GPT-6 Astra，首先向经过审核的 Daybreak 网络安全客户开放，Plus、Pro、Business、Enterprise、API 和 AWS 将在未来数日内跟进。",
+      "category": "ai-models",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlwgyh00pnqrow5t4ajo0y7"
+      }
+    },
+    {
+      "id": "cmtlwgygo0pnorow5q12m2p9j",
+      "title": "OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9%",
+      "title_en": "Official GPT-6 Astra Benchmarks from OpenAIs website \"Astra also saturates ARC-AGI-3 with a 99.9% s…",
+      "url": "https://x.com/kimmonismus/status/2095585966102614182",
+      "permalink": "https://aihot.virxact.com/items/cmtlwgygo0pnorow5q12m2p9j",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-03T18:53:23.000Z",
+      "discoveredAt": "2026-09-03T19:10:23.531Z",
+      "summary": null,
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlwgygo0pnorow5q12m2p9j"
+      }
+    },
     {
       "id": "cmtlv00350o36row5602bsjzv",
       "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
@@ -37,6 +307,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtlu0vyd0nelrow5qppvereu"
+      }
+    },
+    {
+      "id": "cmtlw62vl0pf9row5nljoks6p",
+      "title": "OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代",
+      "title_en": "OpenAI's next big AI model has 'entered the AGI era'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "permalink": "https://aihot.virxact.com/items/cmtlw62vl0pf9row5nljoks6p",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-09-03T18:00:00.000Z",
+      "discoveredAt": "2026-09-03T19:01:57.995Z",
+      "summary": "OpenAI 发布下一代的旗舰模型 GPT-6 Astra，称其为能力上的世代跃升，Greg Brockman 表示现在可能已进入 AGI 时代。",
+      "category": "ai-models",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlw62vl0pf9row5nljoks6p"
       }
     },
     {
@@ -112,6 +400,24 @@
       }
     },
     {
+      "id": "cmtm02uu60t29row5y74k0eai",
+      "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
+      "title_en": "Daybreak for Frontline Defenders： $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "permalink": "https://aihot.virxact.com/items/cmtm02uu60t29row5y74k0eai",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-03T13:15:00.000Z",
+      "discoveredAt": "2026-09-03T20:51:25.010Z",
+      "summary": "OpenAI 发布 Daybreak for Frontline Defenders 全球计划，承诺提供10亿美元的 Daybreak 补贴访问、培训、技术支持与合作，计划在未来六个月内消耗，优先支持水处理、电网、州和地方政府、社区银行、非营利组织和开源维护者等资源有限的一线防御者。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtm02uu60t29row5y74k0eai"
+      }
+    },
+    {
       "id": "cmtli5yd109u4row52i1xg9j4",
       "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
       "title_en": "NVIDIA to Acquire Hugging Face",
@@ -163,6 +469,42 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtktzp3605o8roals1ci2tza"
+      }
+    },
+    {
+      "id": "cmtm1k75y0ue9row58wfax9nf",
+      "title": "xAI 发布 Grok Bot 企业版，Grok 与 Cursor Enterprise 客户两周免费",
+      "title_en": "Grok Bot for Enterprise",
+      "url": "https://x.ai/news/grok-bot-for-enterprise",
+      "permalink": "https://aihot.virxact.com/items/cmtm1k75y0ue9row58wfax9nf",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "discoveredAt": "2026-09-03T21:32:36.611Z",
+      "summary": "xAI 宣布 Grok Bot 面向企业开放，Grok 和 Cursor Enterprise 客户未来两周可免费使用并邀请全组织成员，包括没有现有席位的员工。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtm1k75y0ue9row58wfax9nf"
+      }
+    },
+    {
+      "id": "cmtm02uu60t2arow5vd3nq4gi",
+      "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
+      "title_en": "Safety overview： GPT-6 Astra",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "permalink": "https://aihot.virxact.com/items/cmtm02uu60t2arow5vd3nq4gi",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "discoveredAt": "2026-09-03T20:51:25.010Z",
+      "summary": "OpenAI 发布 GPT-6 Astra，称这是其部署过的最强模型，也是首个在其 Preparedness Framework 下达到网络安全能力 Critical 级的模型，可在无人逐步引导的情况下发现未知安全漏洞并开发利用方式。",
+      "category": "ai-models",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtm02uu60t2arow5vd3nq4gi"
       }
     },
     {
@@ -1208,25 +1550,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtc4fn8n01mwrozaq4bot3b4"
       }
-    },
-    {
-      "id": "cmtc05bnj015srome8fm42xy8",
-      "title": "诉讼指控 xAI 使用儿童性虐待材料训练 Grok 模型",
-      "title_en": "Elon Musk's xAI used child porn to train Grok models， lawsuit says",
-      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says",
-      "permalink": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-08-27T20:52:31.000Z",
-      "discoveredAt": "2026-08-27T20:55:38.426Z",
-      "summary": "一项新诉讼指控 xAI 使用儿童性虐待材料（CSAM）训练 Grok 模型，这是首个此类指控。原告 Jane Doe 称其幼年遭虐待所生成的 CSAM 图像及 AI 生成的衍生图像被用于训练 Grok，且 Grok 默认将公开的 X 帖子和自身输出作为训练数据。诉讼要求 xAI 销毁所有 Grok 生成的 CSAM 并阻止模型再生成此类内容。",
-      "category": "industry",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtc05bnj015srome8fm42xy8"
-      }
     }
   ],
-  "cachedAt": "2026-09-03T18:36:31Z"
+  "cachedAt": "2026-09-03T21:41:36Z"
 }
