@@ -4,6 +4,42 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmtktzp3605o8roals1ci2tza",
+      "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
+      "title_en": "muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
+      "url": "https://x.com/alexandr_wang/status/2095318449602138577",
+      "permalink": "https://aihot.virxact.com/items/cmtktzp3605o8roals1ci2tza",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "publishedAt": "2026-09-03T01:10:22.000Z",
+      "discoveredAt": "2026-09-03T01:13:13.365Z",
+      "summary": "Artificial Analysis 编码智能体指数显示，Meta Muse Spark 1.3 （max） 在 Muse Code 下得 68 分，仅次于 Claude Code + Opus 5 （xhigh） 的 68 分。",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtktzp3605o8roals1ci2tza"
+      }
+    },
+    {
+      "id": "cmtksft9f0450roali4sl0z86",
+      "title": "美国司法部介入纽约时报诉 OpenAI 案，主张 AI 训练属合理使用",
+      "title_en": "纽约时报诉 OpenAI 案升级：美国司法部首次就 AI 版权问题公开表态，主张 AI 训练属\"合理使用\"",
+      "url": "https://www.ithome.com/0/997/732.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtksft9f0450roali4sl0z86",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-02T23:50:05.000Z",
+      "discoveredAt": "2026-09-03T00:29:45.977Z",
+      "summary": "美国司法部 9 月 1 日向曼哈顿联邦法院提交利益声明，介入《纽约时报》诉 OpenAI 版权案，支持 OpenAI 主张大语言模型训练属合理使用。DOJ 以国家安全和 AI 产业竞争力为主要论据，称训练使用具有转换性；《纽约时报》发言人批评政府站在 AI 公司一边牺牲创作者权益。法官要求双方最迟 9 月 4 日提交简易判决动议，该案结果可能为 AI 训练版权合法性确立先例。",
+      "category": "industry",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtksft9f0450roali4sl0z86"
+      }
+    },
+    {
       "id": "cmtkme19o02plro5q94jsf94x",
       "title": "Meta 发布 Muse Spark 1.3，Intelligence Index 得 61-62 分逼近 Claude 与 GPT-5.6",
       "title_en": "It's worth really grasping this： in a very short time， the race between OpenAI and Anthropic has tur…",
@@ -73,24 +109,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtkfkfvl03garobqyr0vwpth"
-      }
-    },
-    {
-      "id": "cmtkdrsid000erobq8vn0zy1s",
-      "title": "美国司法部就 OpenAI 版权诉讼提交意见书支持训练属于合理使用",
-      "title_en": "The Trump administration has now formally put the U.S. government behind OpenAI's core fair-use argu…",
-      "url": "https://x.com/rohanpaul_ai/status/2095197606884573208",
-      "permalink": "https://aihot.virxact.com/items/cmtkdrsid000erobq8vn0zy1s",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-02T17:10:11.000Z",
-      "discoveredAt": "2026-09-02T17:39:09.992Z",
-      "summary": "美国司法部在 OpenAI 与纽约时报的版权诉讼中提交意见书，主张用受版权文本训练 LLM 一般应属合理使用，称模型训练具有非凡转换性，并以国家安全为由警告全面许可要求会削弱美国 AI 开发者竞争力。该意见书属建议性质、不约束法院，仍将数据获取方式与具体输出是否复制受保护段落作为独立问题留给法院逐案判断。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtkdrsid000erobq8vn0zy1s"
       }
     },
     {
@@ -1082,25 +1100,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtb43lik0i9sroamwtuxb1bu"
       }
-    },
-    {
-      "id": "cmtas790607swroamcmunq53y",
-      "title": "英伟达预计 2028 财年营收同比增 70%，黄仁勋称实际需求远高于此",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/994/807.htm",
-      "permalink": "https://aihot.virxact.com/items/cmtas790607swroamcmunq53y",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-27T00:20:11.000Z",
-      "discoveredAt": "2026-08-27T00:25:21.192Z",
-      "summary": "英伟达预计 2028 财年销售额同比增长约 70%，CEO 黄仁勋称实际市场需求远高于这一数字，增速主要受供应能力限制。公司同时宣布将在 2027 至 2028 年向 AWS 额外供应 200 万块 GPU。第二季度营收同比增长 106% 至 962.2 亿美元，连续第 13 个季度创下营收纪录。",
-      "category": "industry",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtas790607swroamcmunq53y"
-      }
     }
   ],
-  "cachedAt": "2026-09-03T00:13:23Z"
+  "cachedAt": "2026-09-03T04:32:20Z"
 }
