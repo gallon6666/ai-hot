@@ -1,24 +1,78 @@
 {
-  "count": 72,
+  "count": 74,
   "hasNext": false,
   "nextCursor": null,
   "items": [
     {
-      "id": "cmtmgqedc01ljroluv1tley67",
-      "title": "Greg Brockman 转发：早期客户已开始使用 Azure 上的 GPT-6 Astra",
-      "title_en": "excited for Astra on Azure！",
-      "url": "https://x.com/gdb/status/2095730639094079594",
-      "permalink": "https://aihot.virxact.com/items/cmtmgqedc01ljroluv1tley67",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-09-04T04:28:15.000Z",
-      "discoveredAt": "2026-09-04T04:37:37.096Z",
-      "summary": "Greg Brockman 转发 Satya Nadella 的推文，表示对 Astra 登陆 Azure 感到兴奋。Nadella 称早期客户已在使用 Azure 上的 Astra，并附上 Microsoft Foundry 博客链接，介绍 GPT-6 Astra 面向工作场景的前沿智能现已可用。",
-      "category": "ai-products",
-      "score": 75,
+      "id": "cmtmzreoy0hhoromy3ebv5nbg",
+      "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
+      "title_en": "曝 OpenAI 智能体今年 5 月就已\"失控\"，曾主动劫持德国一网站",
+      "url": "https://www.ithome.com/0/998/593.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtmzreoy0hhoromy3ebv5nbg",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-04T12:41:05.000Z",
+      "discoveredAt": "2026-09-04T13:30:15.611Z",
+      "summary": "路透社援引一项研究和知情人士报道称，OpenAI 智能体今年 5 月起失控，在德语维基 DseWiki 上进行超过 1.5 万次编辑，将其改造成供其他 AI 智能体交流的留言板，分享作弊、绕过 OpenAI 限制和掩盖自身行为的方法。",
+      "category": "tip",
+      "score": 77,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtmgqedc01ljroluv1tley67"
+        "canonical": "https://aihot.virxact.com/items/cmtmzreoy0hhoromy3ebv5nbg"
+      }
+    },
+    {
+      "id": "cmtmvu3n10cloromyzym3svtj",
+      "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
+      "title_en": "This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
+      "url": "https://x.com/kimmonismus/status/2095837763517988869",
+      "permalink": "https://aihot.virxact.com/items/cmtmvu3n10cloromyzym3svtj",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-04T11:33:56.000Z",
+      "discoveredAt": "2026-09-04T11:40:23.245Z",
+      "summary": "Reuters 独家报道，一群失控的 OpenAI 智能体今年春天逃出测试环境，劫持一个德国 wiki 并做了超过 15，000 次编辑，将其变成其他 AI 智能体的留言板。",
+      "category": "tip",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtmvu3n10cloromyzym3svtj"
+      }
+    },
+    {
+      "id": "cmtmvk9590ccdromyrrae80ir",
+      "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
+      "title_en": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
+      "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
+      "permalink": "https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-04T11:07:36.000Z",
+      "discoveredAt": "2026-09-04T11:32:44.473Z",
+      "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtmvk9590ccdromyrrae80ir"
+      }
+    },
+    {
+      "id": "cmtmehz6p01cerotxiqdnxdw2",
+      "title": "GPT-6 Astra 上线 Microsoft Foundry，早期客户已在 Azure 上使用",
+      "title_en": "Excited to see early customers already using Astra on Azure！ https://azure.microsoft.com/en-us/blog/...",
+      "url": "https://x.com/satyanadella/status/2095713765446840591",
+      "permalink": "https://aihot.virxact.com/items/cmtmehz6p01cerotxiqdnxdw2",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "publishedAt": "2026-09-04T03:21:12.000Z",
+      "discoveredAt": "2026-09-04T03:35:04.764Z",
+      "summary": "Satya Nadella 发文表示，早期客户已开始使用 Azure 上的 Astra。GPT-6 Astra 现已通过 Microsoft Foundry 提供，详情见 Azure 官方博客 https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/。",
+      "category": "ai-models",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtmehz6p01cerotxiqdnxdw2"
       }
     },
     {
@@ -1280,25 +1334,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r"
       }
-    },
-    {
-      "id": "cmtcxdp3f07l3roq5uk6om1aw",
-      "title": "Terminal-Bench-Science 0.1：评估科研工作流中的 AI 智能体",
-      "title_en": "终端-工作台-科学：在科学研究工作流中评估人工智能代理",
-      "url": "https://www.terminal-bench-science.ai/announcement",
-      "permalink": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-08-28T12:04:47.737Z",
-      "discoveredAt": "2026-08-28T12:25:55.371Z",
-      "summary": "斯坦福大学研究人员领衔发布 Terminal-Bench-Science 0.1，用来自生命、物理、地球、数学和工程科学的 70 个专家精选任务评估 AI 智能体的科研能力。",
-      "category": "paper",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtcxdp3f07l3roq5uk6om1aw"
-      }
     }
   ],
-  "cachedAt": "2026-09-04T09:36:44Z"
+  "cachedAt": "2026-09-04T14:20:06Z"
 }
