@@ -1,8 +1,152 @@
 {
-  "count": 87,
+  "count": 95,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtmcipsq00sirovbhprdqc1x",
+      "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
+      "title_en": "总结一下GPT-6 Astra 的亮点给大家，AGI真的离我们越来越近了吗？ 1. 开放问题突破：攻克包括构造 non-sofic 群、推翻 Connes 刚性猜想在内的 10 道数学/计算难题，全部…",
+      "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
+      "permalink": "https://aihot.virxact.com/items/cmtmcipsq00sirovbhprdqc1x",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-04T02:29:45.000Z",
+      "discoveredAt": "2026-09-04T02:39:39.327Z",
+      "summary": "OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtmcipsq00sirovbhprdqc1x"
+      }
+    },
+    {
+      "id": "cmtmcipsq00sjrovbxu1gd6lk",
+      "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作与对齐能力",
+      "title_en": "大家别再以为OpenAI 只是发了一个更会聊天的 GPT-6了， 首席研究官 @markchen90 转发时只强调了一件事： 电脑上你能干的活，Astra 都能替你干，而且快了近一倍， 更吓人的…",
+      "url": "https://x.com/AYi_AInotes/status/2095698966684049433",
+      "permalink": "https://aihot.virxact.com/items/cmtmcipsq00sjrovbxu1gd6lk",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "publishedAt": "2026-09-04T02:22:24.000Z",
+      "discoveredAt": "2026-09-04T02:39:39.327Z",
+      "summary": "OpenAI 发布 GPT-6 Astra，首席研究官 Mark Chen 称其能构建测试软件、跨应用操作电脑并尝试开放科学问题。作者补充数字：OSWorld 真实桌面任务从 75 分钟降到 40 分钟，职场自动化从 18% 升到 41%，未防护越权率从上一代 48% 压到 0%，并称花了 2000 美元算力解出 10 道十年未解的数学与理论计算难题；同时指出带工具的综合测试仍落后 Claude。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtmcipsq00sjrovbxu1gd6lk"
+      }
+    },
+    {
+      "id": "cmtma05f8017zro9fao7eonjg",
+      "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
+      "title_en": "AI 的世界，没有最强，只有更强！",
+      "url": "https://x.com/frxiaobei/status/2095682473745363068",
+      "permalink": "https://aihot.virxact.com/items/cmtma05f8017zro9fao7eonjg",
+      "source": "X：小北 (@frxiaobei)",
+      "publishedAt": "2026-09-04T01:16:52.000Z",
+      "discoveredAt": "2026-09-04T01:29:13.436Z",
+      "summary": "OpenAI 于 9 月 3 日发布 GPT-6 Astra，API 模型名 gpt-6-astra，每百万输入 Token 10 美元、输出 50 美元，未来几天推送到 ChatGPT 各档订阅、API 和 AWS Bedrock。",
+      "category": "ai-models",
+      "score": 85,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtma05f8017zro9fao7eonjg"
+      }
+    },
+    {
+      "id": "cmtm94nnt0197rohcgbt5e406",
+      "title": "NVIDIA 宣布收购 Hugging Face，黄仁勋称开放模型将受益于这桩联姻",
+      "title_en": "brilliant fit.",
+      "url": "https://x.com/steipete/status/2095678161052901828",
+      "permalink": "https://aihot.virxact.com/items/cmtm94nnt0197rohcgbt5e406",
+      "source": "X：Peter Steinberger (@steipete)",
+      "publishedAt": "2026-09-04T00:59:44.000Z",
+      "discoveredAt": "2026-09-04T01:04:44.984Z",
+      "summary": "黄仁勋宣布 NVIDIA 将收购 Hugging Face，称开放模型能强化安全与网络安全、加速创新与扩散、支持主权 AI，让开发者、初创、大学和各国都能构建并定制 AI。他表示 NVIDIA 将成为 Hugging Face 及其社区和开放模型未来的好归宿，作者 Peter Steinberger 转发并评论这是绝佳组合。",
+      "category": "industry",
+      "score": 93,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtm94nnt0197rohcgbt5e406"
+      }
+    },
+    {
+      "id": "cmtma171c01ecro9f9eg77vtn",
+      "title": "英伟达拟以 129.3 亿美元收购 Hugging Face，黄仁勋承诺维持开放平台",
+      "title_en": "黄仁勋：拟收购 Hugging Face，不是为了把 AI 关进英伟达",
+      "url": "https://www.ithome.com/0/998/248.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtma171c01ecro9f9eg77vtn",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-04T00:38:47.000Z",
+      "discoveredAt": "2026-09-04T01:30:02.247Z",
+      "summary": "英伟达 9 月 3 日宣布同意以 129.303 亿美元（约合 870.92 亿元人民币）收购 Hugging Face，黄仁勋随后发文解释收购原因。",
+      "category": "industry",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtma171c01ecro9f9eg77vtn"
+      }
+    },
+    {
+      "id": "cmtm7yl5s01d5robnsn25onbz",
+      "title": "OpenAI GPT-6 Astra 在 ARC-AGI-3 上取得 SOTA 并超越人类动作效率基线",
+      "title_en": "OpenAI的GPT-6 Astra在ARC-AGI-3上的表现",
+      "url": "https://arcprize.org/blog/astra",
+      "permalink": "https://aihot.virxact.com/items/cmtm7yl5s01d5robnsn25onbz",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-04T00:07:48.532Z",
+      "discoveredAt": "2026-09-04T00:32:03.496Z",
+      "summary": "OpenAI 的 GPT-6 Astra 在 ARC-AGI-3 Semi-Private 上，Standard harness 得分 62.7%（成本 $26K），Provider Adapter harness 得分 99.9%（成本 $19K），均为 SOTA。",
+      "category": "paper",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01d5robnsn25onbz"
+      }
+    },
+    {
+      "id": "cmtm7yl5s01d6robnym0jg0b7",
+      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录并强化网络安全能力",
+      "title_en": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "permalink": "https://aihot.virxact.com/items/cmtm7yl5s01d6robnym0jg0b7",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-04T00:07:48.515Z",
+      "discoveredAt": "2026-09-04T00:32:03.496Z",
+      "summary": "OpenAI 发布 GPT-6 Astra，称其在 FrontierMath Tier 4 达 98%、ARC-AGI-3 达 99.9%、ExploitBench 达 100%，并称其网络安全能力达到 Preparedness Framework 的 Critical 门槛。",
+      "category": "ai-models",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01d6robnym0jg0b7"
+      }
+    },
+    {
+      "id": "cmtm7yl5s01dbrobnjyyupz0q",
+      "title": "开发者用 Claude Fable 5 在 Claude Code 中将 1993 年 Amiga 游戏 Babylonian Twins 移植到 Godot",
+      "title_en": "将我1993年的Amiga游戏移植到Godot上，由LLM解析68000汇编代码",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot",
+      "permalink": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-04T00:07:47.851Z",
+      "discoveredAt": "2026-09-04T00:32:03.496Z",
+      "summary": "作者让 Claude Fable 5 在 Claude Code 中分三步移植其 1993 年 Amiga 游戏：34，000 行 C++ 一个晚上迁入 Godot 4，72，758 行无注释 68000 汇编先用 vasm 重建出与发售版字节一致的二进制再移植，并把 1993 原作作为第二启动项嵌入新游戏。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q"
+      }
+    },
     {
       "id": "cmtm5q99n018rrow0z6je2l9y",
       "title": "Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑",
@@ -1570,5 +1714,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-04T00:04:29Z"
+  "cachedAt": "2026-09-04T04:28:52Z"
 }
