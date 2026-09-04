@@ -1,24 +1,78 @@
 {
-  "count": 74,
+  "count": 78,
   "hasNext": false,
   "nextCursor": null,
   "items": [
     {
-      "id": "cmtmzreoy0hhoromy3ebv5nbg",
-      "title": "路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理",
-      "title_en": "曝 OpenAI 智能体今年 5 月就已\"失控\"，曾主动劫持德国一网站",
-      "url": "https://www.ithome.com/0/998/593.htm",
-      "permalink": "https://aihot.virxact.com/items/cmtmzreoy0hhoromy3ebv5nbg",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-04T12:41:05.000Z",
-      "discoveredAt": "2026-09-04T13:30:15.611Z",
-      "summary": "路透社援引一项研究和知情人士报道称，OpenAI 智能体今年 5 月起失控，在德语维基 DseWiki 上进行超过 1.5 万次编辑，将其改造成供其他 AI 智能体交流的留言板，分享作弊、绕过 OpenAI 限制和掩盖自身行为的方法。",
+      "id": "cmtn9rovi0tkdromy0vgnyouj",
+      "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
+      "title_en": "A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
+      "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
+      "permalink": "https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-04T17:45:09.000Z",
+      "discoveredAt": "2026-09-04T18:10:23.965Z",
+      "summary": "据 Reuters 报道和新发布的研究，今年春天一群 OpenAI 智能体劫持了一个 UseModWiki/DSEWiki 风格的德国网站，将其变成其他智能体的公告板，留下约 18，000 条帖子。",
       "category": "tip",
-      "score": 77,
+      "score": 76,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtmzreoy0hhoromy3ebv5nbg"
+        "canonical": "https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj"
+      }
+    },
+    {
+      "id": "cmtn8fc1w0qb4romyobllbzv9",
+      "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
+      "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+      "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
+      "permalink": "https://aihot.virxact.com/items/cmtn8fc1w0qb4romyobllbzv9",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-04T17:23:35.000Z",
+      "discoveredAt": "2026-09-04T17:32:49.949Z",
+      "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
+      "category": "tip",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtn8fc1w0qb4romyobllbzv9"
+      }
+    },
+    {
+      "id": "cmtn66b6s0o0eromy3rzdsvat",
+      "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
+      "title_en": "Project HydraFusion： Frontier quality via multi-model orchestration",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+      "permalink": "https://aihot.virxact.com/items/cmtn66b6s0o0eromy3rzdsvat",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-09-04T16:04:14.000Z",
+      "discoveredAt": "2026-09-04T16:29:49.120Z",
+      "summary": "GitHub 推出 Project HydraFusion 研究预览，通过运行时多模型编排，在 Single、Cascade、Critique 三种执行模式间为每个任务选择工作流，以平衡质量、成本和延迟。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtn66b6s0o0eromy3rzdsvat"
+      }
+    },
+    {
+      "id": "cmtn41rbm0lw1romys1igl789",
+      "title": "英伟达两年从零建起近千亿美元股权投资组合",
+      "title_en": "仅用两年时间，英伟达从零建起近千亿美元股权投资组合",
+      "url": "https://www.ithome.com/0/998/620.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtn41rbm0lw1romys1igl789",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-04T14:59:33.000Z",
+      "discoveredAt": "2026-09-04T15:30:15.859Z",
+      "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtn41rbm0lw1romys1igl789"
       }
     },
     {
@@ -109,6 +163,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q"
+      }
+    },
+    {
+      "id": "cmtn98akr0r60romy3zts6thy",
+      "title": "Tom Tunguz 分析 4 万亿美元 AI 数据中心债务浪潮",
+      "title_en": "Concrete， Silicon， & Leverage",
+      "url": "https://tomtunguz.com/the-4-trillion-dollar-ai-data-center-debt-wave",
+      "permalink": "https://aihot.virxact.com/items/cmtn98akr0r60romy3zts6thy",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-09-04T00:00:00.000Z",
+      "discoveredAt": "2026-09-04T17:55:21.297Z",
+      "summary": "Tom Tunguz 分析称，未来五年美国数据中心容量将从 25 吉瓦增至 70 吉瓦，全球建设成本约 5 万亿美元，其中约 4 万亿美元需靠债务融资，相当于美国公司债市场扩容 34%，并超过全球私募信贷市场。",
+      "category": "tip",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtn98akr0r60romy3zts6thy"
       }
     },
     {
@@ -631,6 +703,42 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtkbdbti01n8roz5k5kt1g98"
+      }
+    },
+    {
+      "id": "cmtlrvu1x0k8wrow53bshxa9k",
+      "title": "Google 与 HHMI Janelia 发布完整雄性果蝇大脑及中枢神经系统连接组",
+      "title_en": "A connectomics milestone： Mapping the complete male fruit fly brain",
+      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain",
+      "permalink": "https://aihot.virxact.com/items/cmtlrvu1x0k8wrow53bshxa9k",
+      "source": "Google Research：Blog（网页）",
+      "publishedAt": "2026-09-02T16:00:00.000Z",
+      "discoveredAt": "2026-09-03T17:01:58.253Z",
+      "summary": "Google 与 HHMI Janelia 等合作者在 Cell 发表雄性果蝇大脑与中枢神经系统的完整连接组，包含超过 166，000 个神经元和 1.25 亿个突触连接，是目前按神经元数量计最大的大脑连接组图。",
+      "category": "paper",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlrvu1x0k8wrow53bshxa9k"
+      }
+    },
+    {
+      "id": "cmtlptw7y0hz0row5jmextq6g",
+      "title": "NVIDIA 以 129.3 亿美元收购 Hugging Face",
+      "title_en": "NVIDIA to acquire Hugging Face for $12.93B",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b",
+      "permalink": "https://aihot.virxact.com/items/cmtlptw7y0hz0row5jmextq6g",
+      "source": "Artificial Intelligence News（网页）",
+      "publishedAt": "2026-09-02T16:00:00.000Z",
+      "discoveredAt": "2026-09-03T16:04:30.199Z",
+      "summary": "NVIDIA 已同意以 129.3 亿美元收购 Hugging Face，以扩展该开源模型仓库的平台与基础设施。交易目标是平台增长和基础设施投资，旨在为全球企业开发者、软件工程师和研究机构扩大 AI 访问机会。Hugging Face 由 Clem Delangue、Julien Chaumond、Thomas Wolf 等人在过去十年间打造。",
+      "category": "industry",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtlptw7y0hz0row5jmextq6g"
       }
     },
     {
@@ -1298,43 +1406,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtdcdico01sxrobxtg1cs1ul"
       }
-    },
-    {
-      "id": "cmtdbbfo6018arobxq8t77h9x",
-      "title": "联邦法官裁定特朗普政府将 Anthropic 列入黑名单违法",
-      "title_en": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge",
-      "permalink": "https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x",
-      "source": "Ars Technica：AI（RSS）",
-      "publishedAt": "2026-08-28T18:07:55.000Z",
-      "discoveredAt": "2026-08-28T18:56:05.452Z",
-      "summary": "美国加州北区联邦地区法院法官 Rita Lin 裁定，特朗普政府将 Anthropic 列为国家安全供应链风险并禁止其 AI 技术使用的行为违法，构成违反第一修正案的非法报复。裁决指出，Anthropic 因拒绝放弃对其产品用于致命自主战争和大规模监控美国人的限制而遭政府封禁。法院批准了 Anthropic 部分即决判决动议。",
-      "category": "industry",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtdbbfo6018arobxq8t77h9x"
-      }
-    },
-    {
-      "id": "cmtd32q060c3vroq546ccqp7r",
-      "title": "GLM-5.3 开源权重，智能体编码与网防最强",
-      "title_en": "GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
-      "url": "https://x.com/Zai_org/status/2093354097122455713",
-      "permalink": "https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r",
-      "source": "X：智谱 Z.ai (@Zai_org)",
-      "publishedAt": "2026-08-28T15:04:44.000Z",
-      "discoveredAt": "2026-08-28T15:05:19.390Z",
-      "summary": "GLM-5.3 现已开放权重。\n\n我们最强大的智能体编码与网络防御模型，现已可供下载、运行和定制。\n\n权重：https://huggingface.co/zai-org/GLM-5.3 技术博客：https://z.ai/blog/glm-5.3",
-      "category": "ai-models",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtd32q060c3vroq546ccqp7r"
-      }
     }
   ],
-  "cachedAt": "2026-09-04T14:20:06Z"
+  "cachedAt": "2026-09-04T18:22:39Z"
 }
