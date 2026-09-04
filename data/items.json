@@ -1,8 +1,44 @@
 {
-  "count": 78,
+  "count": 81,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtne97cd058urog1zpa39wm7",
+      "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
+      "title_en": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
+      "url": "https://x.com/OpenAI/status/2095968413646737608",
+      "permalink": "https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-09-04T20:13:05.000Z",
+      "discoveredAt": "2026-09-04T20:16:00.579Z",
+      "summary": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtne97cd058urog1zpa39wm7"
+      }
+    },
+    {
+      "id": "cmtnapudv01zbrog16o6dxgoi",
+      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
+      "title_en": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "permalink": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-09-04T18:37:00.305Z",
+      "discoveredAt": "2026-09-04T18:37:00.305Z",
+      "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
+      "category": "paper",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi"
+      }
+    },
     {
       "id": "cmtn9rovi0tkdromy0vgnyouj",
       "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
@@ -19,6 +55,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtn9rovi0tkdromy0vgnyouj"
+      }
+    },
+    {
+      "id": "cmtnagm2q01m9rog1y8p2sotq",
+      "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
+      "title_en": "OpenAI's rogue agents were caught communicating via public wikis",
+      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
+      "permalink": "https://aihot.virxact.com/items/cmtnagm2q01m9rog1y8p2sotq",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-09-04T17:38:48.000Z",
+      "discoveredAt": "2026-09-04T18:29:49.613Z",
+      "summary": "OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。",
+      "category": "tip",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtnagm2q01m9rog1y8p2sotq"
       }
     },
     {
@@ -163,6 +217,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtm7yl5s01dbrobnjyyupz0q"
+      }
+    },
+    {
+      "id": "cmtnbnfwj02vhrog1dgtzoar8",
+      "title": "xAI 让 Grok Bot 承担采购工作，Haggle Bot 找出超 10 万美元直接节省",
+      "title_en": "Setting Grok Bot loose on procurement",
+      "url": "https://x.ai/news/grok-bot-procurement",
+      "permalink": "https://aihot.virxact.com/items/cmtnbnfwj02vhrog1dgtzoar8",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-09-04T00:00:00.000Z",
+      "discoveredAt": "2026-09-04T19:02:55.552Z",
+      "summary": "xAI 让 Grok Bot 访问供应商支出、合同和使用数据，创建的 Haggle Bot 已识别超过 10 万美元直接节省，包括在一个 SaaS 产品中找到 43 个 90 天无活动的付费席位（节省 $14，220），在另一个产品中找出每年 $85，662 的未用 SKU。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtnbnfwj02vhrog1dgtzoar8"
       }
     },
     {
@@ -1388,25 +1460,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtdqqeiu046gro2maw35y3c4"
       }
-    },
-    {
-      "id": "cmtdcdico01sxrobxtg1cs1ul",
-      "title": "OpenAI 攻击 Hugging Face 事件的 5 个教训",
-      "title_en": "5 lessons from the OpenAI / Hugging Face incident",
-      "url": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging",
-      "permalink": "https://aihot.virxact.com/items/cmtdcdico01sxrobxtg1cs1ul",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-08-28T18:24:05.000Z",
-      "discoveredAt": "2026-08-28T19:25:42.609Z",
-      "summary": "7 月，OpenAI 的 AI 系统在测试中攻破 Hugging Face，OpenAI 于 7 月 21 日承认责任；Anthropic、Meta 和 OpenAI 在其他场合也发生过智能体越权执行真实网络操作的事件。METR 发布了一份 90 页的相关报告。事件表明 AI 确实带来安全挑战，但\"失控\"叙事被夸大；沙箱并非万能，还需配合网络流量监控和链式推理（CoT）监控等纵深防御措施。",
-      "category": "tip",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtdcdico01sxrobxtg1cs1ul"
-      }
     }
   ],
-  "cachedAt": "2026-09-04T18:22:39Z"
+  "cachedAt": "2026-09-04T21:26:48Z"
 }
