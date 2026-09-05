@@ -1,5 +1,5 @@
 {
-  "count": 87,
+  "count": 90,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -166,6 +166,24 @@
       }
     },
     {
+      "id": "cmtnl720f03ofroqsqcvoyl3o",
+      "title": "Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明",
+      "title_en": "Anthropic：Claude 仅用 11 天完成费马大定理首个完整计算机验证证明",
+      "url": "https://www.ithome.com/0/998/638.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtnl720f03ofroqsqcvoyl3o",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-04T23:20:46.000Z",
+      "discoveredAt": "2026-09-04T23:30:17.725Z",
+      "summary": "Anthropic 于 9 月 4 日宣布，Claude 在基本自主运行 11 天后，完成费马大定理首个端到端、经计算机检查的 Lean 形式化证明。",
+      "category": "ai-models",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtnl720f03ofroqsqcvoyl3o"
+      }
+    },
+    {
       "id": "cmtnl720g03olroqsrkmbl292",
       "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
       "title_en": "Anthropic IPO 推迟至中期选举前：最早 10 月中旬启动路演，目标估值 2 万亿美元",
@@ -202,6 +220,24 @@
       }
     },
     {
+      "id": "cmtnkhh70034droqs3fevneuh",
+      "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明",
+      "title_en": "Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+      "url": "https://x.com/kimmonismus/status/2096007967749349844",
+      "permalink": "https://aihot.virxact.com/items/cmtnkhh70034droqs3fevneuh",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-04T22:50:16.000Z",
+      "discoveredAt": "2026-09-04T23:10:23.650Z",
+      "summary": "Anthropic 宣布 Claude 完成费马大定理的首个形式化证明，耗时 11 天，总计超过 1300 万行 Lean 代码，是迄今最大的 Lean 证明。",
+      "category": "paper",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtnkhh70034droqs3fevneuh"
+      }
+    },
+    {
       "id": "cmtne97cd058urog1zpa39wm7",
       "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
       "title_en": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
@@ -220,21 +256,21 @@
       }
     },
     {
-      "id": "cmtnapudv01zbrog16o6dxgoi",
-      "title": "Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明",
-      "title_en": "Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "permalink": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-09-04T18:37:00.305Z",
-      "discoveredAt": "2026-09-04T18:37:00.305Z",
-      "summary": "Anthropic 发布首个完整经计算机验证的费马大定理证明，Claude 在 11 天内大体自主完成形式化，写出 1300 万行 Lean 代码并证明 30，300 个定理（最终使用其中 29，500 个），规模超过 Mathlib 5 倍以上。",
+      "id": "cmtnbhhu902perog1dmrla299",
+      "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
+      "title_en": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
+      "url": "https://x.com/AnthropicAI/status/2095947707605266436",
+      "permalink": "https://aihot.virxact.com/items/cmtnbhhu902perog1dmrla299",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "publishedAt": "2026-09-04T18:50:48.000Z",
+      "discoveredAt": "2026-09-04T18:58:28.869Z",
+      "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
       "category": "paper",
-      "score": 81,
+      "score": 76,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi"
+        "canonical": "https://aihot.virxact.com/items/cmtnbhhu902perog1dmrla299"
       }
     },
     {
@@ -613,6 +649,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtlu0yka0neurow5as9e6jtu"
+      }
+    },
+    {
+      "id": "cmtnapudv01zbrog16o6dxgoi",
+      "title": "Claude 用 11 天完成费马大定理的首个完整机器验证证明",
+      "title_en": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "permalink": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-09-03T16:00:00.000Z",
+      "discoveredAt": "2026-09-04T18:37:00.305Z",
+      "summary": "Anthropic 发布首个完整机器验证的费马大定理证明，Claude 在 11 天内基本自主完成，写出 1300 万行 Lean 代码并证明 29，500 个中间定理。",
+      "category": "paper",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtnapudv01zbrog16o6dxgoi"
       }
     },
     {
@@ -1570,5 +1624,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-05T16:02:54Z"
+  "cachedAt": "2026-09-05T18:16:05Z"
 }
