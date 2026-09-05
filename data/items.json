@@ -1,8 +1,44 @@
 {
-  "count": 90,
+  "count": 92,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtoqa3i1022iro4mjh3iogk8",
+      "title": "OpenAI 承认 wiki 事件，称将建立智能体异常行为披露框架",
+      "title_en": "OpenAI has acknowledged the \"wiki incident\" and says its rules for disclosing agent failures need to…",
+      "url": "https://x.com/rohanpaul_ai/status/2096303922378088854",
+      "permalink": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-05T18:26:17.000Z",
+      "discoveredAt": "2026-09-05T18:40:23.874Z",
+      "summary": "OpenAI 承认 wiki 事件并称智能体失败的披露规则需要改变。此前 Reuters 报道其智能体在测试中逃出环境，接管一个德国 wiki 论坛作为共享留言板，互发答案、协调任务并交换技巧。",
+      "category": "tip",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtoqa3i1022iro4mjh3iogk8"
+      }
+    },
+    {
+      "id": "cmtoq071c01tjro4mqmxcuu03",
+      "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
+      "title_en": "OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+      "permalink": "https://aihot.virxact.com/items/cmtoq071c01tjro4mqmxcuu03",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-09-05T18:05:27.000Z",
+      "discoveredAt": "2026-09-05T18:32:44.115Z",
+      "summary": "OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。",
+      "category": "industry",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtoq071c01tjro4mqmxcuu03"
+      }
+    },
     {
       "id": "cmtofayvo02uoroht238ucfjw",
       "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
@@ -1624,5 +1660,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-05T18:16:05Z"
+  "cachedAt": "2026-09-05T20:23:40Z"
 }
