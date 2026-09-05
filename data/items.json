@@ -1,8 +1,26 @@
 {
-  "count": 86,
+  "count": 87,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtofayvo02uoroht238ucfjw",
+      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
+      "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
+      "permalink": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-05T13:31:04.000Z",
+      "discoveredAt": "2026-09-05T13:33:09.146Z",
+      "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtofayvo02uoroht238ucfjw"
+      }
+    },
     {
       "id": "cmtod27rl01iyrouskepiiex2",
       "title": "OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制",
@@ -1552,5 +1570,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-05T12:41:23Z"
+  "cachedAt": "2026-09-05T16:02:54Z"
 }
