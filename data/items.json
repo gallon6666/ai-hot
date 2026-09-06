@@ -1,8 +1,26 @@
 {
-  "count": 91,
+  "count": 92,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtq5pxc10275roiufscxyie4",
+      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
+      "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
+      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
+      "permalink": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-06T18:23:14.000Z",
+      "discoveredAt": "2026-09-06T18:40:23.942Z",
+      "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
+      "category": "tip",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtq5pxc10275roiufscxyie4"
+      }
+    },
     {
       "id": "cmtq23v6k01aorotwh8xip8r1",
       "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
@@ -1642,5 +1660,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-06T17:00:46Z"
+  "cachedAt": "2026-09-06T19:09:08Z"
 }
