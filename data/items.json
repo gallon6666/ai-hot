@@ -1,5 +1,5 @@
 {
-  "count": 92,
+  "count": 91,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1640,25 +1640,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtfkvjwn0by7rou8vil9ysf1"
       }
-    },
-    {
-      "id": "cmtf5cfxj01raro07gk66imed",
-      "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
-      "title_en": "当很多公司都在哀嚎 AI 账单贵到用不起，Uber 刚发的这篇技术长文直接把全行业看傻了： 全公司 70% 的代码 PR 全由 Agent 接管，调用量半年狂飙近 10 倍， 但总 AI 账单被死死按…",
-      "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
-      "permalink": "https://aihot.virxact.com/items/cmtf5cfxj01raro07gk66imed",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-08-30T00:54:08.000Z",
-      "discoveredAt": "2026-08-30T01:44:26.594Z",
-      "summary": "Uber 技术长文显示，全公司 70% 的代码 PR 已由 AI Agent 接管，调用量半年增长近 10 倍，但总 AI 账单未涨，单次会话成本降低 52%。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtf5cfxj01raro07gk66imed"
-      }
     }
   ],
-  "cachedAt": "2026-09-05T22:53:30Z"
+  "cachedAt": "2026-09-06T00:54:54Z"
 }
