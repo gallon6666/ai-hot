@@ -1,5 +1,5 @@
 {
-  "count": 87,
+  "count": 85,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1532,43 +1532,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtjjkmd800r4roe4wpq221bc"
       }
-    },
-    {
-      "id": "cmthe8mr70bc5rodmmoqydd63",
-      "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-      "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-      "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-      "permalink": "https://aihot.virxact.com/items/cmthe8mr70bc5rodmmoqydd63",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-08-31T15:24:14.000Z",
-      "discoveredAt": "2026-08-31T15:28:57.767Z",
-      "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
-      "category": "tip",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmthe8mr70bc5rodmmoqydd63"
-      }
-    },
-    {
-      "id": "cmth7tmq2067orodmh6g0sxie",
-      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-      "title_en": null,
-      "url": "https://www.ithome.com/0/996/637.htm",
-      "permalink": "https://aihot.virxact.com/items/cmth7tmq2067orodmh6g0sxie",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-08-31T11:35:24.000Z",
-      "discoveredAt": "2026-08-31T12:29:19.834Z",
-      "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
-      "category": "ai-models",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmth7tmq2067orodmh6g0sxie"
-      }
     }
   ],
-  "cachedAt": "2026-09-07T10:14:35Z"
+  "cachedAt": "2026-09-07T15:51:32Z"
 }
