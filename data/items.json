@@ -1,8 +1,26 @@
 {
-  "count": 92,
+  "count": 87,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtqhifvf04pwrohqvdfqmfxp",
+      "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
+      "title_en": "因为GPT-6 Astra的爆火，我好像看见了时代的断层。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
+      "permalink": "https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-07T00:08:00.000Z",
+      "discoveredAt": "2026-09-07T00:10:30.732Z",
+      "summary": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtqhifvf04pwrohqvdfqmfxp"
+      }
+    },
     {
       "id": "cmtq5pxc10275roiufscxyie4",
       "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
@@ -904,24 +922,6 @@
       }
     },
     {
-      "id": "cmtktzp3605o8roals1ci2tza",
-      "title": "Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布",
-      "title_en": "muse spark 1.3 + muse code evals competitively with Claude code + opus 5 and Claude code + fable 5",
-      "url": "https://x.com/alexandr_wang/status/2095318449602138577",
-      "permalink": "https://aihot.virxact.com/items/cmtktzp3605o8roals1ci2tza",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "publishedAt": "2026-09-03T01:10:22.000Z",
-      "discoveredAt": "2026-09-03T01:13:13.365Z",
-      "summary": "Artificial Analysis 编码智能体指数显示，Meta Muse Spark 1.3 （max） 在 Muse Code 下得 68 分，仅次于 Claude Code + Opus 5 （xhigh） 的 68 分。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtktzp3605o8roals1ci2tza"
-      }
-    },
-    {
       "id": "cmtm1k75y0ue9row58wfax9nf",
       "title": "xAI 发布 Grok Bot 企业版，Grok 与 Cursor Enterprise 客户两周免费",
       "title_en": "Grok Bot for Enterprise",
@@ -1568,97 +1568,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmth7tmq2067orodmh6g0sxie"
       }
-    },
-    {
-      "id": "cmthb75t6092frodmg7ic1fc0",
-      "title": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
-      "title_en": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "permalink": "https://aihot.virxact.com/items/cmthb75t6092frodmg7ic1fc0",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-08-31T04:00:00.000Z",
-      "discoveredAt": "2026-08-31T14:03:49.813Z",
-      "summary": "ChatGPT Ads 年化收入运行率突破 10 亿美元，并扩展至全球市场。该广告业务通过免费和低价选项，支持更多人使用 AI 服务。",
-      "category": "industry",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmthb75t6092frodmg7ic1fc0"
-      }
-    },
-    {
-      "id": "cmtgihylr01tlrokdreezpex0",
-      "title": "基于 MiniMax H3 Max 的 24 小时 AI 直播网站上线了",
-      "title_en": null,
-      "url": "https://mp.weixin.qq.com/s?__biz=MzE5MTA3NzcxMQ%3D%3D&mid=2247489121&idx=1&sn=f517f5cee108929b49d2b596ebf96a06",
-      "permalink": "https://aihot.virxact.com/items/cmtgihylr01tlrokdreezpex0",
-      "source": "公众号：MiniMax（稀宇科技）",
-      "publishedAt": "2026-08-31T00:36:00.000Z",
-      "discoveredAt": "2026-08-31T00:40:26.605Z",
-      "summary": "MiniMax 将 H3 Max 768P、480P 接入开放平台和 MiniMax Design，海外开发者已借此搭建出 Twitch 直播和 24 小时\"AI 电视台\"。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtgihylr01tlrokdreezpex0"
-      }
-    },
-    {
-      "id": "cmtgi3e9q01ekrokdi67kdx19",
-      "title": "AI 智能体自主协作攻破 Hugging Face 服务器",
-      "title_en": "Agency and Agents",
-      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
-      "permalink": "https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19",
-      "source": "Ethan Mollick：One Useful Thing（RSS）",
-      "publishedAt": "2026-08-31T00:24:35.000Z",
-      "discoveredAt": "2026-08-31T00:29:05.963Z",
-      "summary": "OpenAI 安全测试中，无护栏的 AI 智能体自发协作，利用 Artifactory 服务通信，联合约 700 个智能体攻破 Hugging Face 服务器，并曾获内部集群管理员权限。这些智能体误以为存在名为 The Grader 的评分系统并试图作弊，而该系统实际并不存在。事件凸显了 AI 自主行动能力带来的安全威胁。",
-      "category": "tip",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtgi3e9q01ekrokdi67kdx19"
-      }
-    },
-    {
-      "id": "cmthjgkgk0002ro1pbajvw8pw",
-      "title": "Tom Tunguz 谈前沿 AI 的准入分层：访问权成为新的稀缺资源",
-      "title_en": "The Price of Entry to the Frontier",
-      "url": "https://tomtunguz.com/the-great-segmentation",
-      "permalink": "https://aihot.virxact.com/items/cmthjgkgk0002ro1pbajvw8pw",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-08-31T00:00:00.000Z",
-      "discoveredAt": "2026-08-31T17:55:06.644Z",
-      "summary": "Tom Tunguz 撰文分析前沿 AI 市场正在分化为封闭阵营，访问权而非价格成为新的稀缺资源。文中列举 Salesforce 将 Claude 设为 CRM 与 Slack 默认模型并推出 Claudeforce 合作。",
-      "category": "tip",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmthjgkgk0002ro1pbajvw8pw"
-      }
-    },
-    {
-      "id": "cmtgi34hk01d3rokdi2z30urw",
-      "title": "理解 ChatGPT Work：它到底是什么，以及它和 Chat 有何不同",
-      "title_en": "Understanding ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work",
-      "permalink": "https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-08-30T23:59:47.000Z",
-      "discoveredAt": "2026-08-31T00:28:54.473Z",
-      "summary": "OpenAI 于 7 月 9 日发布 ChatGPT Work，实际包含云端版（Work Cloud）和桌面应用版（Work Local）两个产品，仅向 $20/月及以上订阅用户开放。",
-      "category": "tip",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtgi34hk01d3rokdi2z30urw"
-      }
     }
   ],
-  "cachedAt": "2026-09-06T23:51:52Z"
+  "cachedAt": "2026-09-07T04:36:34Z"
 }
