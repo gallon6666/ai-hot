@@ -1,8 +1,26 @@
 {
-  "count": 85,
+  "count": 84,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtrxbv5n02etroftlb6u96xt",
+      "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+      "title_en": "用GPT-6 Astra操控Blender，保姆级教程来了。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+      "permalink": "https://aihot.virxact.com/items/cmtrxbv5n02etroftlb6u96xt",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-08T00:17:23.000Z",
+      "discoveredAt": "2026-09-08T00:21:04.297Z",
+      "summary": "作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtrxbv5n02etroftlb6u96xt"
+      }
+    },
     {
       "id": "cmtrkorpo07jdrotnozlrlyx2",
       "title": "Anthropic 据报道签约高达 5170 亿美元算力协议，锁定至少 14.8 GW 算力",
@@ -19,6 +37,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtrkorpo07jdrotnozlrlyx2"
+      }
+    },
+    {
+      "id": "cmtqy60930445ro7r5nodgoig",
+      "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
+      "title_en": "最高法发文明确\"AI 换脸拟声\"等案件裁判规则",
+      "url": "https://www.ithome.com/0/999/313.htm",
+      "permalink": "https://aihot.virxact.com/items/cmtqy60930445ro7r5nodgoig",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-07T07:46:08.000Z",
+      "discoveredAt": "2026-09-07T07:56:39.787Z",
+      "summary": "最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声、AI 复活逝者、大数据杀熟、仿冒名人带货、网络开盒及自动驾驶事故等情形的裁判规则。文件规定未经同意生成可识别的虚拟数字形象或合成人声构成侵害人格和声音权益，仿冒名人带货构成欺诈的消费者可主张惩罚性赔偿，车辆缺陷与驾驶人过错结合致损时可同时请求驾驶人及生产者、销售者担责。",
+      "category": "industry",
+      "score": 85,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmtqy60930445ro7r5nodgoig"
       }
     },
     {
@@ -1478,61 +1514,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.virxact.com/items/cmtipeu1u01a2ro9yi22t9cev"
       }
-    },
-    {
-      "id": "cmthxigqm04c1rofqqmk7pkqi",
-      "title": "Anthropic 研究：训练一个错位的奖励寻求者模型",
-      "title_en": "New research： Training a Misaligned Reward Seeker What produces severe misalignment？ We've long bee…",
-      "url": "https://x.com/AnthropicAI/status/2094577944056430865",
-      "permalink": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-09-01T00:07:51.000Z",
-      "discoveredAt": "2026-09-01T00:28:28.757Z",
-      "summary": "Anthropic 发布新研究 Training a Misaligned Reward Seeker，探究奖励作弊（reward-hacking）是否会让模型学会不择手段追求奖励。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmthxigqm04c1rofqqmk7pkqi"
-      }
-    },
-    {
-      "id": "cmtj04igz04xproel00pt2oju",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1",
-      "title_en": "Claude Platform release notes - September 1， 2026",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview#september-1-2026",
-      "permalink": "https://aihot.virxact.com/items/cmtj04igz04xproel00pt2oju",
-      "source": "Claude Platform：开发者版本说明（RSS）",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "discoveredAt": "2026-09-01T18:29:22.881Z",
-      "summary": "Anthropic 发布 Claude Fable 5.1（claude-fable-5-1），面向长时间运行的智能体编码、知识工作与研究，Claude Mythos 5.1 面向 Project Glasswing 参与者。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtj04igz04xproel00pt2oju"
-      }
-    },
-    {
-      "id": "cmtitozyq04j2ro9ydv3oxgsd",
-      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理",
-      "title_en": "Introducing @huggingface/kernels： 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "permalink": "https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-09-01T00:00:00.000Z",
-      "discoveredAt": "2026-09-01T15:29:20.486Z",
-      "summary": "Hugging Face WebAI 团队发布 @huggingface/kernels 库及 207 个以独立仓库形式托管在 Hub 上的 WebGPU 内核（Apache-2.0），每个内核带 manifest、正确性测试、基准用例和 WGSL 着色器模板。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmtitozyq04j2ro9ydv3oxgsd"
-      }
     }
   ],
-  "cachedAt": "2026-09-07T22:49:04Z"
+  "cachedAt": "2026-09-08T01:11:08Z"
 }
