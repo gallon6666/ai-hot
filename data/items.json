@@ -1,24 +1,42 @@
 {
-  "count": 96,
+  "count": 97,
   "hasNext": false,
   "nextCursor": null,
   "items": [
     {
-      "id": "cmts7irnz02mxromdn4jhepn9",
-      "title": "Mistral AI 宣布 30 亿欧元 D 轮融资",
-      "title_en": "Today marks a major step for Mistral： we're announcing a €3B Series D， the largest equity round ever…",
-      "url": "https://x.com/MistralAI/status/2097188835897586083",
-      "permalink": "https://aihot.virxact.com/items/cmts7irnz02mxromdn4jhepn9",
-      "source": "X：Mistral AI (@MistralAI)",
-      "publishedAt": "2026-09-08T05:02:37.000Z",
-      "discoveredAt": "2026-09-08T05:06:19.979Z",
-      "summary": "Mistral AI 官方宣布完成 30 亿欧元 D 轮融资，公司称这是欧洲科技公司有史以来规模最大的股权融资，距离其创立仅三年。",
-      "category": "industry",
-      "score": 65,
+      "id": "cmtscjydz01garow6gi54pft9",
+      "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
+      "title_en": "纳维-斯托克斯方程--特里斯坦·巴克马斯特 【pdf】",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "permalink": "https://aihot.virxact.com/items/cmtscjydz01garow6gi54pft9",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-08T07:20:02.739Z",
+      "discoveredAt": "2026-09-08T07:27:15.232Z",
+      "summary": "特里斯坦·巴克马斯特（Tristan Buckmaster）与 Levent Alpöge 公开三项有限时间 blowup 结果，涵盖带光滑强迫的不可压缩多孔介质方程。",
+      "category": "tip",
+      "score": 82,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.virxact.com/items/cmts7irnz02mxromdn4jhepn9"
+        "canonical": "https://aihot.virxact.com/items/cmtscjydz01garow6gi54pft9"
+      }
+    },
+    {
+      "id": "cmts9dr2m029hrobq86wrny37",
+      "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
+      "title_en": "Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+      "permalink": "https://aihot.virxact.com/items/cmts9dr2m029hrobq86wrny37",
+      "source": "Mistral AI：News（网页）",
+      "publishedAt": "2026-09-08T05:58:27.839Z",
+      "discoveredAt": "2026-09-08T05:58:27.839Z",
+      "summary": "Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。",
+      "category": "industry",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.virxact.com/items/cmts9dr2m029hrobq86wrny37"
       }
     },
     {
@@ -1732,5 +1750,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-08T05:56:45Z"
+  "cachedAt": "2026-09-08T11:15:19Z"
 }
