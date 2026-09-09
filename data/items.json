@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg4MzE3ODI3MDAwLCJpIjoiY210amltemd4MDgzenJvYnZla20yem1qZSJ9",
+  "nextCursor": "eyJhIjoxNzg4MzE5OTQwMDAwLCJpIjoiY210amp0NzM2MDE4MHJvZTQzZ2dvMHQwOSJ9",
   "items": [
+    {
+      "id": "cmtt7nvmn02h6romq0xpo0p2w",
+      "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
+      "title_en": "Introducing Runway for Premiere Pro & After Effects",
+      "url": "https://runwayml.com/news/company-news/runway-for-adobe",
+      "permalink": "https://aihot.news/items/cmtt7nvmn02h6romq0xpo0p2w",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-09-08T21:58:07.884Z",
+      "discoveredAt": "2026-09-08T21:58:07.884Z",
+      "summary": "Runway 发布 Runway Plugins，新面板可直接嵌入 Premiere Pro 和 After Effects，在时间线内生成图像和视频、重绘片段并放置结果。Edit Studio 可基于已有片段用 Aleph 2 按原始时长重新渲染，插件免费下载（macOS 和 Windows），生成功能面向所有付费计划并消耗现有额度。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtt7nvmn02h6romq0xpo0p2w"
+      }
+    },
     {
       "id": "cmtt65r1002f0rocpzpypdjgt",
       "title": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtjjt7360180roe43ggo0t09"
       }
-    },
-    {
-      "id": "cmtjimzgx083zrobvekm2zmje",
-      "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿",
-      "title_en": "🏆 #1 overall on Code Arena， and top of the Pareto frontier at $5/MToken. Thanks！ @arena Give Qwen3…",
-      "url": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
-      "permalink": "https://aihot.news/items/cmtjimzgx083zrobvekm2zmje",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "publishedAt": "2026-09-02T02:57:07.000Z",
-      "discoveredAt": "2026-09-02T03:07:37.845Z",
-      "summary": "通义千问发布 Qwen3.8-Max-0902，在 Code Arena： WebDev 以 1，691 分首次亮相即排名总榜第一，并以混合价 $5/MToken 成为 Pareto 前沿上得分最高的模型，现已可在 QwenCloud 试用。",
-      "category": "ai-models",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtjimzgx083zrobvekm2zmje"
-      }
     }
   ],
-  "cachedAt": "2026-09-08T21:49:52Z"
+  "cachedAt": "2026-09-09T00:12:26Z"
 }
