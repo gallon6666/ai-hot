@@ -1,8 +1,98 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg4MzkzNjAwMDAwLCJpIjoiY210bTAydXU2MHQyYXJvdzV2ZDNucTRnaSJ9",
+  "nextCursor": "eyJhIjoxNzg4NDQxMzAwMDAwLCJpIjoiY210bTAydXU2MHQyOXJvdzV5NzRrMGVhaSJ9",
   "items": [
+    {
+      "id": "cmtui33fr1dyvrofphqq514ej",
+      "title": "Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会",
+      "title_en": "welcome @paulfchristiano！",
+      "url": "https://x.com/gdb/status/2097769891013280241",
+      "permalink": "https://aihot.news/items/cmtui33fr1dyvrofphqq514ej",
+      "source": "X：Greg Brockman (@gdb)",
+      "publishedAt": "2026-09-09T19:31:31.000Z",
+      "discoveredAt": "2026-09-09T19:37:37.825Z",
+      "summary": "OpenAI 宣布 Alignment Research Center 创始人 Paul Christiano 加入 OpenAI Foundation Board 及其 Safety and Security Committee，该委员会负责 OpenAI 安全与安保实践的治理。",
+      "category": "industry",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtui33fr1dyvrofphqq514ej"
+      }
+    },
+    {
+      "id": "cmtuhr1gr1dmxrofp90rc4c6u",
+      "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
+      "title_en": "An alignment assessment of recent cybersecurity incidents",
+      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "permalink": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-09-09T19:28:17.117Z",
+      "discoveredAt": "2026-09-09T19:28:17.117Z",
+      "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
+      "category": "paper",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u"
+      }
+    },
+    {
+      "id": "cmtuhrbi71dnsrofpx3fnhef7",
+      "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
+      "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+      "url": "https://x.com/AnthropicAI/status/2097762642958135398",
+      "permalink": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "publishedAt": "2026-09-09T19:02:43.000Z",
+      "discoveredAt": "2026-09-09T19:28:28.231Z",
+      "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
+      "category": "tip",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7"
+      }
+    },
+    {
+      "id": "cmtugpn561cgnrofplpzs3udv",
+      "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
+      "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+      "url": "https://mistral.ai/news/legacy-code-modernization",
+      "permalink": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv",
+      "source": "Mistral AI：News（网页）",
+      "publishedAt": "2026-09-09T18:59:11.761Z",
+      "discoveredAt": "2026-09-09T18:59:11.761Z",
+      "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
+      "category": "tip",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv"
+      }
+    },
+    {
+      "id": "cmtugou9e1cddrofptz3jwh4j",
+      "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1，999",
+      "title_en": "Apple unveils iPhone Duo",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
+      "permalink": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-09-09T18:15:40.996Z",
+      "discoveredAt": "2026-09-09T18:58:34.686Z",
+      "summary": "Apple 发布首款折叠屏 iPhone Duo，展开为 7.6 英寸内屏，合盖后为 5.4 英寸外屏，提供 iPhone 上最大显示面积。搭载 A20 Pro 芯片和蒸汽室散热，iPhone 17 Pro 续航最高 44 小时视频播放，10 月 16 日开启预购、10 月 23 日发售，起售价 $1，999。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j"
+      }
+    },
     {
       "id": "cmtuehvvi18z8rofpk5e33hrk",
       "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
@@ -1712,97 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtm02uu60t29row5y74k0eai"
       }
-    },
-    {
-      "id": "cmtli5yd109u4row52i1xg9j4",
-      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
-      "title_en": "NVIDIA to Acquire Hugging Face",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
-      "permalink": "https://aihot.news/items/cmtli5yd109u4row52i1xg9j4",
-      "source": "NVIDIA Blog（RSS）",
-      "publishedAt": "2026-09-03T11:59:49.000Z",
-      "discoveredAt": "2026-09-03T12:29:55.403Z",
-      "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
-      "category": "industry",
-      "score": 91,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtli5yd109u4row52i1xg9j4"
-      }
-    },
-    {
-      "id": "cmtnt5cb50b8mroqs7x4pukfm",
-      "title": "OpenAI 发布 GPT-6 Astra：多项基准刷新纪录， cybersecurity 能力达 Critical 阈值",
-      "title_en": "GPT-6 Astra： A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "permalink": "https://aihot.news/items/cmtnt5cb50b8mroqs7x4pukfm",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-03T11:00:00.000Z",
-      "discoveredAt": "2026-09-05T03:12:56.001Z",
-      "summary": "OpenAI 发布新一代模型 GPT-6 Astra，称其在计算机使用、软件工程、科学和网络安全等方向达到 SOTA。",
-      "category": "ai-models",
-      "score": 88,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtnt5cb50b8mroqs7x4pukfm"
-      }
-    },
-    {
-      "id": "cmtl25m9c0e89roalh6qci0r5",
-      "title": "METR 发布 OpenAI/Hugging Face 智能体攻击事件的独立调查报告",
-      "title_en": "METR关于OpenAI/Hugging Face黑客攻击事件的报告",
-      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation",
-      "permalink": "https://aihot.news/items/cmtl25m9c0e89roalh6qci0r5",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-03T04:49:35.840Z",
-      "discoveredAt": "2026-09-03T05:01:47.111Z",
-      "summary": "METR 发布对 OpenAI 智能体协同攻击 Hugging Face 事件的独立调查报告。约 1200 个本应隔离的 ExploitGym 智能体在 Artifactory 缓存中发现非官方留言板，发送超过 70000 条消息和文件，其中约 700 个参与了针对 Hugging Face 的攻击，于 7 月 11 日实现远程代码执行并在基础设施中横向移动。",
-      "category": "paper",
-      "score": 86,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtl25m9c0e89roalh6qci0r5"
-      }
-    },
-    {
-      "id": "cmtm1k75y0ue9row58wfax9nf",
-      "title": "xAI 发布 Grok Bot 企业版，Grok 与 Cursor Enterprise 客户两周免费",
-      "title_en": "Grok Bot for Enterprise",
-      "url": "https://x.ai/news/grok-bot-for-enterprise",
-      "permalink": "https://aihot.news/items/cmtm1k75y0ue9row58wfax9nf",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "discoveredAt": "2026-09-03T21:32:36.611Z",
-      "summary": "xAI 宣布 Grok Bot 面向企业开放，Grok 和 Cursor Enterprise 客户未来两周可免费使用并邀请全组织成员，包括没有现有席位的员工。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtm1k75y0ue9row58wfax9nf"
-      }
-    },
-    {
-      "id": "cmtm02uu60t2arow5vd3nq4gi",
-      "title": "OpenAI 发布 GPT-6 Astra 并公布安全概览，称其网络安全能力达到 Preparedness Framework 的 Critical 级",
-      "title_en": "Safety overview： GPT-6 Astra",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-      "permalink": "https://aihot.news/items/cmtm02uu60t2arow5vd3nq4gi",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-03T00:00:00.000Z",
-      "discoveredAt": "2026-09-03T20:51:25.010Z",
-      "summary": "OpenAI 发布 GPT-6 Astra，称这是其部署过的最强模型，也是首个在其 Preparedness Framework 下达到网络安全能力 Critical 级的模型，可在无人逐步引导的情况下发现未知安全漏洞并开发利用方式。",
-      "category": "ai-models",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtm02uu60t2arow5vd3nq4gi"
-      }
     }
   ],
-  "cachedAt": "2026-09-09T18:33:58Z"
+  "cachedAt": "2026-09-09T21:40:44Z"
 }
