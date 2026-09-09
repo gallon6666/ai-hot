@@ -1,8 +1,116 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg4MzYyODg1MDAwLCJpIjoiY210azl1NGdhMDFod3JvbXBxbXFjaGpxaiJ9",
+  "nextCursor": "eyJhIjoxNzg4MzY2OTAwMDAwLCJpIjoiY210a2J6OTI4MDFubXJvd3k2MWcyZnNvYiJ9",
   "items": [
+    {
+      "id": "cmttwa2j30pktrofpw67b9pby",
+      "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
+      "title_en": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
+      "url": "https://x.com/thexpin/status/2097615997616406833",
+      "permalink": "https://aihot.news/items/cmttwa2j30pktrofpw67b9pby",
+      "source": "X：X.PIN (@thexpin)",
+      "publishedAt": "2026-09-09T09:20:00.000Z",
+      "discoveredAt": "2026-09-09T09:27:09.511Z",
+      "summary": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。",
+      "category": "industry",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttwa2j30pktrofpw67b9pby"
+      }
+    },
+    {
+      "id": "cmttwq6oy0pybrofphae4ykhb",
+      "title": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明",
+      "title_en": "friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
+      "url": "https://x.com/Thom_Wolf/status/2097615465698713666",
+      "permalink": "https://aihot.news/items/cmttwq6oy0pybrofphae4ykhb",
+      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "publishedAt": "2026-09-09T09:17:53.000Z",
+      "discoveredAt": "2026-09-09T09:39:39.832Z",
+      "summary": "Hugging Face 联创 Thomas Wolf 回应 OpenAI 用下一代模型（强于 GPT-6 Astra）的 agent 群组证明 Navier-Stokes 千禧年问题猜想为假的结果，称其令人印象深刻。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttwq6oy0pybrofphae4ykhb"
+      }
+    },
+    {
+      "id": "cmttulwa90npwrofpsde4lc0k",
+      "title": "美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型",
+      "title_en": "In a new allegation， the U.S. government has accused 6 Chinese AI firms of using large-scale distill…",
+      "url": "https://x.com/rohanpaul_ai/status/2097605329123147987",
+      "permalink": "https://aihot.news/items/cmttulwa90npwrofpsde4lc0k",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-09T08:37:36.000Z",
+      "discoveredAt": "2026-09-09T08:40:23.729Z",
+      "summary": "NSA、CISA 和 FBI 发布联合公告 AA26-251A，指控 DeepSeek、月之暗面、阿里、MiniMax、阶跃星辰和 Z .AI 自 2024 年底起对美国前沿模型进行工业规模蒸馏。",
+      "category": "industry",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttulwa90npwrofpsde4lc0k"
+      }
+    },
+    {
+      "id": "cmttva2tg0oezrofpagfj7986",
+      "title": "《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI",
+      "title_en": "美国国防部被曝曾要求 OpenAI 提供特别版 AI，对军事指令拥有\"最低拒绝率\"",
+      "url": "https://www.ithome.com/1/000/277.htm",
+      "permalink": "https://aihot.news/items/cmttva2tg0oezrofpagfj7986",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-09T08:00:26.000Z",
+      "discoveredAt": "2026-09-09T08:59:12.201Z",
+      "summary": "《The Intercept》通过 FOIA 诉讼获得的文件显示，美国国防部曾在 P00003 合同中要求 OpenAI 提供对军事指令具有最低拒绝率的特别版模型，双方对此均否认，称该文件只是草案。五角大楼律师一度确认其为正式版本后多次改口，OpenAI 已于 2 月 27 日签署允许部署到美军机密网络的最新版协议。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttva2tg0oezrofpagfj7986"
+      }
+    },
+    {
+      "id": "cmtts0bi50l1frofpe39el7a1",
+      "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
+      "title_en": "纳维-斯托克斯千禧年大奖问题",
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+      "permalink": "https://aihot.news/items/cmtts0bi50l1frofpe39el7a1",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-09T07:10:03.765Z",
+      "discoveredAt": "2026-09-09T07:27:38.083Z",
+      "summary": "Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问题，并经 GPT-6 Astra 完成 17 小时 Lean 形式化验证。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtts0bi50l1frofpe39el7a1"
+      }
+    },
+    {
+      "id": "cmttqzqw30jwkrofpxrj00ngg",
+      "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
+      "title_en": "曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市",
+      "url": "https://www.ithome.com/1/000/188.htm",
+      "permalink": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-09T06:41:51.000Z",
+      "discoveredAt": "2026-09-09T06:59:12.167Z",
+      "summary": "路透社报道称，DeepSeek 已聘请中信证券筹备科创板上市，目标今年递交 IPO 申请、明年挂牌，募资将用于算力基建、模型研发、芯片自研与人才激励。公司正推进新一轮融资，目标估值约 5000 亿元人民币，此前 6 月完成约 74 亿美元首轮外部融资，投后估值超 500 亿美元；2026 年前 7 个月营收约 4.75 亿元。",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg"
+      }
+    },
     {
       "id": "cmttklkuj0chfrofpzacvz20x",
       "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
@@ -37,24 +145,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmttcqkx404pprofp0jwc34zu"
-      }
-    },
-    {
-      "id": "cmttbyra803k5rofpxjajvkez",
-      "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争",
-      "title_en": "On the Navier-Stokes Millennium Prize Problem",
-      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-      "permalink": "https://aihot.news/items/cmttbyra803k5rofpxjajvkez",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-09-08T23:55:12.000Z",
-      "discoveredAt": "2026-09-08T23:58:33.267Z",
-      "summary": "OpenAI 用未发布模型在约88小时内给出 Navier-Stokes 存在与光滑性问题（七大千禧年难题之一）的解答，并通过 GPT-6 Astra 完成17小时 Lean 形式化验证，全程发送490万条消息、消耗约3000亿输出 token。",
-      "category": "tip",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttbyra803k5rofpxjajvkez"
       }
     },
     {
@@ -1712,97 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtkbz92801nmrowy61g2fsob"
       }
-    },
-    {
-      "id": "cmtkbbn6q01j6roz54e8g5zec",
-      "title": "Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式",
-      "title_en": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-      "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions",
-      "permalink": "https://aihot.news/items/cmtkbbn6q01j6roz54e8g5zec",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-09-02T16:29:43.634Z",
-      "discoveredAt": "2026-09-02T16:29:43.634Z",
-      "summary": "Google 复盘 AI Agents Challenge 赛事，从各赛道头部提交中提炼出四个工程模式：双向 MCP、事件驱动并发、同标准回退和分层路由。",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtkbbn6q01j6roz54e8g5zec"
-      }
-    },
-    {
-      "id": "cmtkbdbti01n8roz5k5kt1g98",
-      "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型",
-      "title_en": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
-      "permalink": "https://aihot.news/items/cmtkbdbti01n8roz5k5kt1g98",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-09-02T16:18:31.000Z",
-      "discoveredAt": "2026-09-02T16:31:54.900Z",
-      "summary": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtkbdbti01n8roz5k5kt1g98"
-      }
-    },
-    {
-      "id": "cmtlrvu1x0k8wrow53bshxa9k",
-      "title": "Google 与 HHMI Janelia 发布完整雄性果蝇大脑及中枢神经系统连接组",
-      "title_en": "A connectomics milestone： Mapping the complete male fruit fly brain",
-      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain",
-      "permalink": "https://aihot.news/items/cmtlrvu1x0k8wrow53bshxa9k",
-      "source": "Google Research：Blog（网页）",
-      "publishedAt": "2026-09-02T16:00:00.000Z",
-      "discoveredAt": "2026-09-03T17:01:58.253Z",
-      "summary": "Google 与 HHMI Janelia 等合作者在 Cell 发表雄性果蝇大脑与中枢神经系统的完整连接组，包含超过 166，000 个神经元和 1.25 亿个突触连接，是目前按神经元数量计最大的大脑连接组图。",
-      "category": "paper",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlrvu1x0k8wrow53bshxa9k"
-      }
-    },
-    {
-      "id": "cmtlptw7y0hz0row5jmextq6g",
-      "title": "NVIDIA 以 129.3 亿美元收购 Hugging Face",
-      "title_en": "NVIDIA to acquire Hugging Face for $12.93B",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b",
-      "permalink": "https://aihot.news/items/cmtlptw7y0hz0row5jmextq6g",
-      "source": "Artificial Intelligence News（网页）",
-      "publishedAt": "2026-09-02T16:00:00.000Z",
-      "discoveredAt": "2026-09-03T16:04:30.199Z",
-      "summary": "NVIDIA 已同意以 129.3 亿美元收购 Hugging Face，以扩展该开源模型仓库的平台与基础设施。交易目标是平台增长和基础设施投资，旨在为全球企业开发者、软件工程师和研究机构扩大 AI 访问机会。Hugging Face 由 Clem Delangue、Julien Chaumond、Thomas Wolf 等人在过去十年间打造。",
-      "category": "industry",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlptw7y0hz0row5jmextq6g"
-      }
-    },
-    {
-      "id": "cmtk9u4ga01hwrompqmqchjqj",
-      "title": "什么是 harness 工程？Google 用 ADK 2.0 与 Antigravity SDK 演示自动修复编码循环",
-      "title_en": "What is harness engineering and why should I care？",
-      "url": "https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0",
-      "permalink": "https://aihot.news/items/cmtk9u4ga01hwrompqmqchjqj",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "publishedAt": "2026-09-02T15:28:05.000Z",
-      "discoveredAt": "2026-09-02T15:48:59.424Z",
-      "summary": "Google 员工 Shir Meir Lador 介绍 harness 工程，即用确定性组件包裹 LLM，包括编排层、执行沙箱、状态持久化和验证工具，让 Agent 不需逐行人工审查即可安全生成代码。",
-      "category": "tip",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtk9u4ga01hwrompqmqchjqj"
-      }
     }
   ],
-  "cachedAt": "2026-09-09T04:39:16Z"
+  "cachedAt": "2026-09-09T09:42:52Z"
 }
