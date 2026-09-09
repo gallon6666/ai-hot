@@ -1,8 +1,80 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg4MzE5OTQwMDAwLCJpIjoiY210amp0NzM2MDE4MHJvZTQzZ2dvMHQwOSJ9",
+  "nextCursor": "eyJhIjoxNzg4MzYyODg1MDAwLCJpIjoiY210azl1NGdhMDFod3JvbXBxbXFjaGpxaiJ9",
   "items": [
+    {
+      "id": "cmttklkuj0chfrofpzacvz20x",
+      "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+      "title_en": "GPT Image2.5悄悄上线，靠提示语提升AI生图可控性的时代要过去了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+      "permalink": "https://aihot.news/items/cmttklkuj0chfrofpzacvz20x",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-09-09T00:27:00.000Z",
+      "discoveredAt": "2026-09-09T04:00:13.177Z",
+      "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttklkuj0chfrofpzacvz20x"
+      }
+    },
+    {
+      "id": "cmttcqkx404pprofp0jwc34zu",
+      "title": "GPT-6 Astra推理等级怎么选才最省Token",
+      "title_en": "一文带你看懂，GPT-6 Astra推理等级怎么选才最省Token。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686094&idx=1&sn=c06c40993f7ab28f2302619e4b89986b",
+      "permalink": "https://aihot.news/items/cmttcqkx404pprofp0jwc34zu",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-09T00:09:00.000Z",
+      "discoveredAt": "2026-09-09T00:20:10.825Z",
+      "summary": "卡兹克发文讲解GPT-6 Astra的推理强度等级（Reasoning Effort）含义，指出各档位是同一模型的不同思考预算，Ultra则类似拉起多个智能体协作的专项工作组。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttcqkx404pprofp0jwc34zu"
+      }
+    },
+    {
+      "id": "cmttbyra803k5rofpxjajvkez",
+      "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争",
+      "title_en": "On the Navier-Stokes Millennium Prize Problem",
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+      "permalink": "https://aihot.news/items/cmttbyra803k5rofpxjajvkez",
+      "source": "Simon Willison 博客",
+      "publishedAt": "2026-09-08T23:55:12.000Z",
+      "discoveredAt": "2026-09-08T23:58:33.267Z",
+      "summary": "OpenAI 用未发布模型在约88小时内给出 Navier-Stokes 存在与光滑性问题（七大千禧年难题之一）的解答，并通过 GPT-6 Astra 完成17小时 Lean 形式化验证，全程发送490万条消息、消耗约3000亿输出 token。",
+      "category": "tip",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttbyra803k5rofpxjajvkez"
+      }
+    },
+    {
+      "id": "cmttchnc104jvrofp05adlcv6",
+      "title": "Meta 智能体产品 Muse 开放体验，官方回应用户好评",
+      "title_en": "the team poured their heart and souls into it， and it warms our hearts to see the response ❤️ we ar…",
+      "url": "https://x.com/alexandr_wang/status/2097472059077202339",
+      "permalink": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "publishedAt": "2026-09-08T23:48:02.000Z",
+      "discoveredAt": "2026-09-09T00:13:13.197Z",
+      "summary": "Meta 的 Muse 智能体产品开放更多用户试用，入口为 https://muse.ai/join，Meta 首席 AI 官 Alexandr Wang 称团队为产品倾注心血并感谢用户反响。引用的评价称其设计、速度和浏览器等智能体流程表现出色，具备 Instagram 等 Meta 产品原生集成优势，但也指出 soul.md 等命名对普通用户不直观、feed 内容相关性不足等问题。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6"
+      }
+    },
     {
       "id": "cmtt7nvmn02h6romq0xpo0p2w",
       "title": "Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑",
@@ -1730,79 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtk9u4ga01hwrompqmqchjqj"
       }
-    },
-    {
-      "id": "cmtkaa7gs01v5romp7lhz3mwj",
-      "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
-      "title_en": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "permalink": "https://aihot.news/items/cmtkaa7gs01v5romp7lhz3mwj",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-09-02T14:35:03.000Z",
-      "discoveredAt": "2026-09-02T16:01:31.790Z",
-      "summary": "OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。",
-      "category": "industry",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtkaa7gs01v5romp7lhz3mwj"
-      }
-    },
-    {
-      "id": "cmtkffuf503cbrobqkwhimxmp",
-      "title": "Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行",
-      "title_en": "Run cloud agents on machines you manage",
-      "url": "https://cursor.com/blog/self-hosted-machines",
-      "permalink": "https://aihot.news/items/cmtkffuf503cbrobqkwhimxmp",
-      "source": "Cursor Blog",
-      "publishedAt": "2026-09-02T12:00:00.000Z",
-      "discoveredAt": "2026-09-02T18:25:53.655Z",
-      "summary": "Cursor 发布 Self-Hosted Machines，让云智能体的工具执行迁移到企业自有网络内的机器，智能体循环、推理和规划仍留在 Cursor 云端，通过 worker 的出站 HTTPS 连接对接，Cursor 不会主动连入企业网络。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtkffuf503cbrobqkwhimxmp"
-      }
-    },
-    {
-      "id": "cmtjkp6dc02j5rori29u5h7kl",
-      "title": "美团 LongCat-2.0 上线 Cline 免费试用",
-      "title_en": "LongCat-2.0 is now free to try in @cline ！ 🐱",
-      "url": "https://x.com/Meituan_LongCat/status/2094996391387111865",
-      "permalink": "https://aihot.news/items/cmtjkp6dc02j5rori29u5h7kl",
-      "source": "X：美团 LongCat (@Meituan_LongCat)",
-      "publishedAt": "2026-09-02T03:50:37.000Z",
-      "discoveredAt": "2026-09-02T04:05:19.828Z",
-      "summary": "LongCat-2.0 现已在 @cline 中免费试用！🐱\n\n【引用 @cline】：LongCat-2.0 目前在 Cline 中免费使用。\n\n这是一款来自 @Meituan_LongCat 的 1.6T 开源权重 MoE 模型，拥有 1M 上下文，得分与 Claude Opus 4.7 和 Gemini 3.1 Pro 相近。\n\n立即尝试：npm i -g cline /model 在免费模型下选择 LongCat-2.0",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtjkp6dc02j5rori29u5h7kl"
-      }
-    },
-    {
-      "id": "cmtjjt7360180roe43ggo0t09",
-      "title": "UU远程新版本上线：完整 TUI 渲染与多终端会话管理，强化远程 Vibe Coding 体验",
-      "title_en": "UU远程史诗级升级，这就是如今远程Vibe Coding的第一神器。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685772&idx=1&sn=a073c30899a7f420147673def8209609",
-      "permalink": "https://aihot.news/items/cmtjjt7360180roe43ggo0t09",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-09-02T03:32:20.000Z",
-      "discoveredAt": "2026-09-02T03:40:27.472Z",
-      "summary": "UU远程于9月2日上线新版本，重点优化终端功能，补齐 TUI 渲染交互与终端会话管理能力。主要更新包括：Mac 免密码登录、移动端输入优化并新增调用系统输入法的独立输入框、可同时创建和管理多个终端会话并支持手机与电脑间跨端同步接管（通过 uuyc-cli lterm 命令）。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtjjt7360180roe43ggo0t09"
-      }
     }
   ],
-  "cachedAt": "2026-09-09T00:12:26Z"
+  "cachedAt": "2026-09-09T04:39:16Z"
 }
