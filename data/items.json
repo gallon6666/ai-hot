@@ -1,8 +1,62 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg4MzY2OTAwMDAwLCJpIjoiY210a2J6OTI4MDFubXJvd3k2MWcyZnNvYiJ9",
+  "nextCursor": "eyJhIjoxNzg4Mzg1MTg0MDAwLCJpIjoiY210a21lMTlvMDJwbHJvNXE5NGpzZjk0eCJ9",
   "items": [
+    {
+      "id": "cmtu4vcfo0zj1rofpcmeg65vo",
+      "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
+      "title_en": "Scenarios for our Economic Future",
+      "url": "https://www.anthropic.com/institute/econ-scenarios",
+      "permalink": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo",
+      "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "publishedAt": "2026-09-09T13:27:40.545Z",
+      "discoveredAt": "2026-09-09T13:27:40.545Z",
+      "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
+      "category": "tip",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo"
+      }
+    },
+    {
+      "id": "cmttzipvw0sqlrofp63a8px22",
+      "title": "OpenAI 纳维-斯托克斯方程证明争议：Buckmaster 指控不当行为，各方回应引出开放科学之问",
+      "title_en": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+      "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs",
+      "permalink": "https://aihot.news/items/cmttzipvw0sqlrofp63a8px22",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-09T10:27:37.000Z",
+      "discoveredAt": "2026-09-09T10:57:54.744Z",
+      "summary": "数学家 Tristan Buckmaster 指控 OpenAI 施压、拒绝其合作者 Levent Alpöge（任职于 Anthropic）署名，且可能用两人上传到 Codex 的草稿训练模型，称其为绝对学术不端。",
+      "category": "tip",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttzipvw0sqlrofp63a8px22"
+      }
+    },
+    {
+      "id": "cmttxf8n90qovrofp2tiv0g2g",
+      "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
+      "title_en": "AI 攻克数学难题，纽约大学教授质疑 OpenAI\"截胡\"其研究成果",
+      "url": "https://www.ithome.com/1/000/353.htm",
+      "permalink": "https://aihot.news/items/cmttxf8n90qovrofp2tiv0g2g",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-09T09:34:47.000Z",
+      "discoveredAt": "2026-09-09T09:59:12.629Z",
+      "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
+      "category": "industry",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttxf8n90qovrofp2tiv0g2g"
+      }
+    },
     {
       "id": "cmttwa2j30pktrofpw67b9pby",
       "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
@@ -145,6 +199,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmttcqkx404pprofp0jwc34zu"
+      }
+    },
+    {
+      "id": "cmtu70vhj11u4rofpg46vvloh",
+      "title": "OpenRouter 推出美国区域路由，与去年上线的 EU 路由配套保障数据驻留",
+      "title_en": "In-Region Routing： Keep your data in the US or EU",
+      "url": "https://openrouter.ai/blog/announcements/us-in-region-routing",
+      "permalink": "https://aihot.news/items/cmtu70vhj11u4rofpg46vvloh",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "discoveredAt": "2026-09-09T14:27:50.909Z",
+      "summary": "OpenRouter 推出 US In-Region Routing，请求经 us.openrouter.ai 在美国境内解密并只路由到美国 provider 端点，eu.openrouter.ai 同理服务欧盟。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtu70vhj11u4rofpg46vvloh"
       }
     },
     {
@@ -1730,79 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtkme19o02plro5q94jsf94x"
       }
-    },
-    {
-      "id": "cmtkkcguj04aurollf1lq9a9s",
-      "title": "Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升",
-      "title_en": "i really hate to say it， but… gemini who？ 🏎️💨",
-      "url": "https://x.com/alexandr_wang/status/2095249704888197175",
-      "permalink": "https://aihot.news/items/cmtkkcguj04aurollf1lq9a9s",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "publishedAt": "2026-09-02T20:37:12.000Z",
-      "discoveredAt": "2026-09-02T20:43:13.329Z",
-      "summary": "Meta 发布 Muse Spark 1.3，是五个月内第四个 Muse Spark 版本。xhigh 版在 Artificial Analysis Intelligence Index 得 61 分。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtkkcguj04aurollf1lq9a9s"
-      }
-    },
-    {
-      "id": "cmtkh71ky017vrolly7trswyx",
-      "title": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
-      "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it someth…",
-      "url": "https://x.com/claudeai/status/2095226833293685100",
-      "permalink": "https://aihot.news/items/cmtkh71ky017vrolly7trswyx",
-      "source": "X：Claude (@claudeai)",
-      "publishedAt": "2026-09-02T19:06:19.000Z",
-      "discoveredAt": "2026-09-02T19:15:00.970Z",
-      "summary": "Claude 官方宣布 Claude Cowork 和 Claude Code 新增后台使用电脑的能力。用户把任务交给 Claude 后，它会像人一样点击、输入和打开应用，用户可同时去做其他事。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtkh71ky017vrolly7trswyx"
-      }
-    },
-    {
-      "id": "cmtkfkfvl03garobqyr0vwpth",
-      "title": "GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本",
-      "title_en": "How we make AI coding more cost efficient without sacrificing task quality",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality",
-      "permalink": "https://aihot.news/items/cmtkfkfvl03garobqyr0vwpth",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-09-02T18:00:00.000Z",
-      "discoveredAt": "2026-09-02T18:29:28.032Z",
-      "summary": "GitHub 工程师 Erik Kristensen 分享了 Copilot 降本的四项改动：选择性压缩工具输出、移除 view 工具行号前缀（线下推理成本降约 5%，线上用户日均推理成本降约 3%）、压缩 task-tool 提示词（每轮省约 1300 token，每活跃小时归一化成本降 2.9%）、后台任务完成后直接交付结果（AI Credits 用量降约 2.3%）。",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtkfkfvl03garobqyr0vwpth"
-      }
-    },
-    {
-      "id": "cmtkbz92801nmrowy61g2fsob",
-      "title": "Google AI 团队分享如何为 LLM-as-a-Judge 评测编写可靠的评分标准",
-      "title_en": "How to Write Reliable Rubrics for LLM-as-a-Judge Evaluations",
-      "url": "https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp",
-      "permalink": "https://aihot.news/items/cmtkbz92801nmrowy61g2fsob",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "publishedAt": "2026-09-02T16:35:00.000Z",
-      "discoveredAt": "2026-09-02T16:48:59.899Z",
-      "summary": "Google AI 团队发布教程，讲解如何为 LLM-as-a-Judge 评测编写可靠的布尔式评分标准，指出模糊提示会导致评估不一致和浪费 token。文中给出四条经验：问题保持原子化且互不重叠、只让评判模型评估客观事实（可用 RFC 2119 术语如 MUST 表述）、只评 prompt 中明确要求的内容、用专家标注的 golden set 校准评判模型直至与人类评分一致。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtkbz92801nmrowy61g2fsob"
-      }
     }
   ],
-  "cachedAt": "2026-09-09T09:42:52Z"
+  "cachedAt": "2026-09-09T14:34:21Z"
 }
