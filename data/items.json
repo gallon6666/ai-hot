@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg4NDQxMzAwMDAwLCJpIjoiY210bTAydXU2MHQyOXJvdzV5NzRrMGVhaSJ9",
+  "nextCursor": "eyJhIjoxNzg4NDUxMjAwMDAwLCJpIjoiY210bmFwdWR2MDF6YnJvZzE2bzZkeGdvaSJ9",
   "items": [
+    {
+      "id": "cmturtlc70cqurorpv4fsfr4t",
+      "title": "27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局",
+      "title_en": "一个27岁的AI研究员从Anthropic辞职了，因为他担心AI会导致人类灭绝。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb",
+      "permalink": "https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-10T00:08:00.000Z",
+      "discoveredAt": "2026-09-10T00:10:11.215Z",
+      "summary": "27岁研究员Jacob Coxon辞职并称OpenAI与Anthropic正押上所有人生命奔向自我改进的超级智能，Anthropic对齐负责人公开支持。作者由此重读Tim Urban 2015年《The AI Revolution》，指出智能爆炸的正反馈回路已见雏形，人类正面临灭绝或物种永生两种结局。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t"
+      }
+    },
     {
       "id": "cmtui33fr1dyvrofphqq514ej",
       "title": "Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会",
@@ -181,6 +199,42 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo"
+      }
+    },
+    {
+      "id": "cmturgfqq0c5prorpcycuemwl",
+      "title": "OpenAI 呼吁抓住 AI 政策窗口期，支持强制性国家安全监管与四项加州法案",
+      "title_en": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "permalink": "https://aihot.news/items/cmturgfqq0c5prorpcycuemwl",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "discoveredAt": "2026-09-09T23:59:57.567Z",
+      "summary": "OpenAI 宣布推动强制性、基于能力的国家 AI 安全监管，并正式支持四项已通过加州议会的法案：SB 813（独立安全评估基础设施）、AB 1405（AI 审计师标准）、SB 1119（未成年人保护）、AB 1864（防范 AI 生物威胁）。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmturgfqq0c5prorpcycuemwl"
+      }
+    },
+    {
+      "id": "cmtun5zb61iwvrofpczl5k33h",
+      "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
+      "title_en": "GPT-6 Astra： The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "permalink": "https://aihot.news/items/cmtun5zb61iwvrofpczl5k33h",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-09T11:00:00.000Z",
+      "discoveredAt": "2026-09-09T21:59:51.764Z",
+      "summary": "OpenAI 发布 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 提供，定价为每百万输入 token $10、输出 token $50。",
+      "category": "ai-models",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtun5zb61iwvrofpczl5k33h"
       }
     },
     {
@@ -1748,61 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtnapudv01zbrog16o6dxgoi"
       }
-    },
-    {
-      "id": "cmtlrfcid0jqzrow5cg1jvuny",
-      "title": "Google Cloud 教你用 Cloud Run instances 以每月 $5.70 搭建常驻 Agent",
-      "title_en": "Build a Long-Running Agent in the Cloud for $5.70/Month",
-      "url": "https://dev.to/googleai/build-a-long-running-agent-in-the-cloud-for-570month-113c",
-      "permalink": "https://aihot.news/items/cmtlrfcid0jqzrow5cg1jvuny",
-      "source": "Google AI：DEV 作者专属（RSS）",
-      "publishedAt": "2026-09-03T15:54:57.000Z",
-      "discoveredAt": "2026-09-03T16:49:09.997Z",
-      "summary": "Shir Meir Lador 在 Google AI 开发者博客介绍如何用 Cloud Run instances 以每月 $5.70（1 vCPU、1Gi 内存、共享 CPU）在云端 24/7 运行常驻 Agent。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlrfcid0jqzrow5cg1jvuny"
-      }
-    },
-    {
-      "id": "cmtlnmh4o0fmsrow5i7pdq8b0",
-      "title": "Google DeepMind 发布 WeatherNext 3 全球天气 AI 模型， hourly 更新且分辨率较上一代提升约 5 倍",
-      "title_en": "Introducing WeatherNext 3， our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
-      "permalink": "https://aihot.news/items/cmtlnmh4o0fmsrow5i7pdq8b0",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-09-03T15:02:08.000Z",
-      "discoveredAt": "2026-09-03T15:02:17.965Z",
-      "summary": "Google DeepMind 与 Google Research 发布 WeatherNext 3，称其为迄今最先进的全球天气 AI 模型，经 Brightband 独立实时评估。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlnmh4o0fmsrow5i7pdq8b0"
-      }
-    },
-    {
-      "id": "cmtm02uu60t29row5y74k0eai",
-      "title": "OpenAI 推出 Daybreak for Frontline Defenders，投入10亿美元支持一线网络防御",
-      "title_en": "Daybreak for Frontline Defenders： $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "permalink": "https://aihot.news/items/cmtm02uu60t29row5y74k0eai",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-03T13:15:00.000Z",
-      "discoveredAt": "2026-09-03T20:51:25.010Z",
-      "summary": "OpenAI 发布 Daybreak for Frontline Defenders 全球计划，承诺提供10亿美元的 Daybreak 补贴访问、培训、技术支持与合作，计划在未来六个月内消耗，优先支持水处理、电网、州和地方政府、社区银行、非营利组织和开源维护者等资源有限的一线防御者。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtm02uu60t29row5y74k0eai"
-      }
     }
   ],
-  "cachedAt": "2026-09-09T21:40:44Z"
+  "cachedAt": "2026-09-10T00:12:57Z"
 }
