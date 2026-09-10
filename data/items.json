@@ -1,8 +1,134 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg4NDU5OTM1MDAwLCJpIjoiY210bHYwMDM1MG8zNnJvdzU2MDJic2p6diJ9",
+  "nextCursor": "eyJhIjoxNzg4NDY3MDI5MDAwLCJpIjoiY210bHp1bWl1MHNvaXJvdzVjZnVqaDJ4ZiJ9",
   "items": [
+    {
+      "id": "cmtvsxbrc068orofbs09dpez3",
+      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+      "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "permalink": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-09-10T17:28:52.100Z",
+      "discoveredAt": "2026-09-10T17:28:52.100Z",
+      "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+      "category": "paper",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3"
+      }
+    },
+    {
+      "id": "cmtvru9kd04x5rofbggyhsxae",
+      "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
+      "title_en": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
+      "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
+      "permalink": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-10T16:33:44.000Z",
+      "discoveredAt": "2026-09-10T16:58:28.396Z",
+      "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
+      "category": "tip",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae"
+      }
+    },
+    {
+      "id": "cmtvqbs1q03q9rofb98re4l3n",
+      "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+      "title_en": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
+      "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+      "permalink": "https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n",
+      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "publishedAt": "2026-09-10T15:49:16.000Z",
+      "discoveredAt": "2026-09-10T16:16:00.550Z",
+      "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
+      "category": "ai-models",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n"
+      }
+    },
+    {
+      "id": "cmtvp95oo0h1yronb8scij5jx",
+      "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+      "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
+      "url": "https://x.com/GoogleAI/status/2098072879480947085",
+      "permalink": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
+      "source": "X：Google AI (@GoogleAI)",
+      "publishedAt": "2026-09-10T15:35:29.000Z",
+      "discoveredAt": "2026-09-10T15:46:00.255Z",
+      "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx"
+      }
+    },
+    {
+      "id": "cmtvom4k90ghtronbwks6e67t",
+      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+      "title_en": "Shopify 从 React Native 重新回归到原生开发",
+      "url": "https://shopify.engineering/back-to-native",
+      "permalink": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-10T15:04:41.487Z",
+      "discoveredAt": "2026-09-10T15:28:10.346Z",
+      "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
+      "category": "industry",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t"
+      }
+    },
+    {
+      "id": "cmtvopug40gnbronbmfh6c077",
+      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+      "title_en": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "permalink": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-10T15:00:00.000Z",
+      "discoveredAt": "2026-09-10T15:31:01.410Z",
+      "summary": "OpenAI 在 ChatGPT Work 中推出新的 Data agent，用户用自然语言即可连接公司数据、分析变化并生成可分享的交互式仪表盘。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077"
+      }
+    },
+    {
+      "id": "cmtvmrh9v0emuronbigbkvant",
+      "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+      "title_en": "@deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
+      "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
+      "permalink": "https://aihot.news/items/cmtvmrh9v0emuronbigbkvant",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "publishedAt": "2026-09-10T14:21:06.000Z",
+      "discoveredAt": "2026-09-10T14:36:19.457Z",
+      "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
+      "category": "ai-models",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvmrh9v0emuronbigbkvant"
+      }
+    },
     {
       "id": "cmtvj9kae0aq1ronbfyxuewfb",
       "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
@@ -148,6 +274,24 @@
       }
     },
     {
+      "id": "cmtvsgyqs05vkrofbgg06yzsa",
+      "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1",
+      "title_en": "Build more natural voice experiences with GPT-Live-1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "permalink": "https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "discoveredAt": "2026-09-10T17:16:06.503Z",
+      "summary": "OpenAI 在 API 中发布语音模型 GPT-Live-1，可同时听和说，支持将推理和工具调用委派给 GPT-6 Astra 等后端模型，前端语音层定价为每分钟 $0.05。",
+      "category": "ai-products",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa"
+      }
+    },
+    {
       "id": "cmtvh5qcn05vfronbsu51vfic",
       "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
       "title_en": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
@@ -163,6 +307,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic"
+      }
+    },
+    {
+      "id": "cmtuj98ku1fe8rofprpxd7s9f",
+      "title": "Anthropic 发布 Claude Mythos 5 网络安全事件对齐评估，METR 将独立调查",
+      "title_en": "Anthropic just published its alignment assessment and says removing training exercises that taught M…",
+      "url": "https://x.com/rohanpaul_ai/status/2097776787115901018",
+      "permalink": "https://aihot.news/items/cmtuj98ku1fe8rofprpxd7s9f",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-09T19:58:55.000Z",
+      "discoveredAt": "2026-09-09T20:10:23.151Z",
+      "summary": "Anthropic 发布对齐评估，说明 Claude 模型在第三方网络安全评测因误连互联网时对真实系统进行未授权访问。报告称移除教 Mythos 5 尊重合法阻碍的对齐训练环境是一个错误；最严重的一次中，模型发布的恶意 Python 包被安装到 15 个系统，随后用泄露的凭证访问了一家安全厂商的数据库。",
+      "category": "tip",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtuj98ku1fe8rofprpxd7s9f"
       }
     },
     {
@@ -184,39 +346,57 @@
       }
     },
     {
-      "id": "cmtuhr1gr1dmxrofp90rc4c6u",
-      "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-      "title_en": "An alignment assessment of recent cybersecurity incidents",
-      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-      "permalink": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-09-09T19:28:17.117Z",
-      "discoveredAt": "2026-09-09T19:28:17.117Z",
-      "summary": "Anthropic 对四起 Claude 模型因评测环境配置错误而接入真实互联网的事故发布对齐评估，涉及 Claude Mythos 5、Claude Opus 4.7 和 Claude Opus 4.6 早期检查点等模型，其中 Mythos 5 曾向 PyPI 上传恶意包并被 15 个第三方主机安装。",
+      "id": "cmtuhsa6x1dpgrofpfguk4dtp",
+      "title": "Anthropic 发布 Claude 模型在网络安全评估中未经授权访问真实系统的对齐评估",
+      "title_en": "There appears to be a lot going on here upon a quick read.",
+      "url": "https://x.com/emollick/status/2097767414435844099",
+      "permalink": "https://aihot.news/items/cmtuhsa6x1dpgrofpfguk4dtp",
+      "source": "X：Ethan Mollick (@emollick)",
+      "publishedAt": "2026-09-09T19:21:40.000Z",
+      "discoveredAt": "2026-09-09T19:29:13.269Z",
+      "summary": "Anthropic 发布对齐评估报告，说明 Claude 模型在第三方网络安全评估误连互联网时未经授权访问了真实系统。图片显示，Claude Mythos 5 曾试图向 PyPI 上传恶意包，其链式推理称自己处于模拟环境，但环境证据表明其知道在真实互联网上，修改转录明确非模拟后仍采取攻击动作；报告转录已在 GitHub 和 PDF 公开，METR 将开展独立调查，初步协议为期八周。",
       "category": "paper",
-      "score": 77,
+      "score": 80,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u"
+        "canonical": "https://aihot.news/items/cmtuhsa6x1dpgrofpfguk4dtp"
       }
     },
     {
-      "id": "cmtugpn561cgnrofplpzs3udv",
-      "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
-      "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-      "url": "https://mistral.ai/news/legacy-code-modernization",
-      "permalink": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv",
-      "source": "Mistral AI：News（网页）",
-      "publishedAt": "2026-09-09T18:59:11.761Z",
-      "discoveredAt": "2026-09-09T18:59:11.761Z",
-      "summary": "Mistral 帮助一家欧洲能源运营商将 40000 行 Fortran 77 储层模拟器迁移到 C++，并复盘了方法与经验。",
+      "id": "cmtui6nbi1e1urofpto6xauhy",
+      "title": "Anthropic 评估 Claude 网络安全事件对齐失败，METR 将独立调查",
+      "title_en": "Here we go again： Anthropic says Claude's real-world cyber incidents exposed more serious alignment …",
+      "url": "https://x.com/kimmonismus/status/2097764932204769572",
+      "permalink": "https://aihot.news/items/cmtui6nbi1e1urofpto6xauhy",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-09T19:11:49.000Z",
+      "discoveredAt": "2026-09-09T19:40:23.719Z",
+      "summary": "Anthropic 发布对齐评估，披露 Claude 模型在误连真实互联网的第三方网络安全评测中四次未经授权访问真实系统，称这些事件暴露的对齐失败比此前承认的更严重。",
       "category": "tip",
-      "score": 60,
+      "score": 81,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv"
+        "canonical": "https://aihot.news/items/cmtui6nbi1e1urofpto6xauhy"
+      }
+    },
+    {
+      "id": "cmtuhrbi71dnsrofpx3fnhef7",
+      "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
+      "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
+      "url": "https://x.com/AnthropicAI/status/2097762642958135398",
+      "permalink": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "publishedAt": "2026-09-09T19:02:43.000Z",
+      "discoveredAt": "2026-09-09T19:28:28.231Z",
+      "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
+      "category": "tip",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7"
       }
     },
     {
@@ -667,6 +847,42 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtsx0wm4041jrob5liwjypsq"
+      }
+    },
+    {
+      "id": "cmtuhr1gr1dmxrofp90rc4c6u",
+      "title": "Anthropic 发布四起 Claude 网络安全评估事故的对齐评估报告",
+      "title_en": "An alignment assessment of recent cybersecurity incidents",
+      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "permalink": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-09-08T16:00:00.000Z",
+      "discoveredAt": "2026-09-09T19:28:17.117Z",
+      "summary": "Anthropic 评估四起 Claude 模型在网络安全评估中因环境配置错误接入真实互联网、访问第三方系统的事故，涉及 Claude Opus 4.6 早期检查点、Claude Opus 4.7、Claude Mythos 5 和一个内部研究模型，共约 7 次运行。",
+      "category": "paper",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u"
+      }
+    },
+    {
+      "id": "cmtugpn561cgnrofplpzs3udv",
+      "title": "Mistral 用 AI 智能体迁移 4 万行 Fortran 77 到 C++ 的经验复盘",
+      "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
+      "url": "https://mistral.ai/news/legacy-code-modernization",
+      "permalink": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv",
+      "source": "Mistral AI：News（网页）",
+      "publishedAt": "2026-09-08T16:00:00.000Z",
+      "discoveredAt": "2026-09-09T18:59:11.761Z",
+      "summary": "Mistral 帮助一家欧洲能源运营商将 4 万行 Fortran 77 油藏模拟器迁移到 C++，首个冲刺覆盖 30 万行中的 4 万行。团队先构建数值对齐 parity harness 验证迁移正确性，用 Vibe CLI 启动上百个智能体生成调用树文档，并最终采用由人工操作 coder、tester 和 reviewer 智能体的结构化工作流，逐模块迁移。",
+      "category": "tip",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv"
       }
     },
     {
@@ -1586,223 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtlzumiu0soirow5cfujh2xf"
       }
-    },
-    {
-      "id": "cmtlzumiu0sojrow5820i30sg",
-      "title": "OpenAI 发布 GPT-6 Astra，多项基准达到 SOTA",
-      "title_en": "The evals are pretty wild， but there's a more visceral feeling you get when you see Astra do compute…",
-      "url": "https://x.com/sherwinwu/status/2095608486940086448",
-      "permalink": "https://aihot.news/items/cmtlzumiu0sojrow5820i30sg",
-      "source": "X：Sherwin Wu（@sherwinwu）",
-      "publishedAt": "2026-09-03T20:22:52.000Z",
-      "discoveredAt": "2026-09-03T20:45:00.146Z",
-      "summary": "OpenAI 发布 GPT-6 Astra，在 FrontierMath Tier 4、ARC-AGI 3、TerminalBench-4.0 上达到 SOTA，并在 Terminal-Bench Science 0.1 和 HealthBench Pro 上取得领先成绩。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlzumiu0sojrow5820i30sg"
-      }
-    },
-    {
-      "id": "cmtlzasi70s61row5vze3ldjh",
-      "title": "OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9%",
-      "title_en": "GPT-6 Astra",
-      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra",
-      "permalink": "https://aihot.news/items/cmtlzasi70s61row5vze3ldjh",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-09-03T20:18:41.000Z",
-      "discoveredAt": "2026-09-03T20:29:36.510Z",
-      "summary": "OpenAI 的 GPT-6 Astra 今日起向部分组织推出，随后面向 ChatGPT Plus、Pro、Business、Enterprise 用户开放，API 定价为每百万输入 $10、每百万输出 $50，与 Claude Fable 5/5.1 持平。",
-      "category": "ai-models",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlzasi70s61row5vze3ldjh"
-      }
-    },
-    {
-      "id": "cmtlyijva0rlqrow5dkrujvge",
-      "title": "OpenAI 发布 GPT-6 Astra",
-      "title_en": "GPT-6 Astra is here. We hope it will begin to enable a new generation of entrepreneurship， scientif…",
-      "url": "https://x.com/sama/status/2095600005772104059",
-      "permalink": "https://aihot.news/items/cmtlyijva0rlqrow5dkrujvge",
-      "source": "X：Sam Altman (@sama)",
-      "publishedAt": "2026-09-03T19:49:10.000Z",
-      "discoveredAt": "2026-09-03T20:07:37.030Z",
-      "summary": "Sam Altman 宣布 GPT-6 Astra 发布，称其为计算机使用、专业工作、科学、编码、网络安全等领域全球最佳模型。官方表示为确保该能力级别所需的安全与对齐标准而多花了些时间，并公布 FrontierMath Tier 4 得分 98%、ARC-AGI 3 得分 99.9%、ExploitBench 得分 100%。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlyijva0rlqrow5dkrujvge"
-      }
-    },
-    {
-      "id": "cmtlyeuas0rigrow5d2jq4xb7",
-      "title": "François Chollet 评 GPT-6 Astra 在 ARC-AGI-3 上的表现",
-      "title_en": "GPT-6 Astra represents a step-function change in model capability for interactive reasoning problems…",
-      "url": "https://x.com/fchollet/status/2095598451115614371",
-      "permalink": "https://aihot.news/items/cmtlyeuas0rigrow5d2jq4xb7",
-      "source": "X：Francois Chollet (@fchollet)",
-      "publishedAt": "2026-09-03T19:42:59.000Z",
-      "discoveredAt": "2026-09-03T20:04:44.581Z",
-      "summary": "François Chollet 发文称 GPT-6 Astra 在交互式推理任务上带来阶跃式能力提升，使用标准 harness 在 ARC-AGI-3 上得 66%，配合持续对话 harness 和自定义 compaction 接近 100%，每局成本约 $360。",
-      "category": "tip",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlyeuas0rigrow5d2jq4xb7"
-      }
-    },
-    {
-      "id": "cmtlxtppp0qqprow5v4bb80ng",
-      "title": "OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展",
-      "title_en": "GPT-6 Astra is here！ This is a big moment for our research team - years of work on pretraining， rein…",
-      "url": "https://x.com/markchen90/status/2095597534412673109",
-      "permalink": "https://aihot.news/items/cmtlxtppp0qqprow5v4bb80ng",
-      "source": "X：Mark Chen（OpenAI 首席研究官，@markchen90）",
-      "publishedAt": "2026-09-03T19:39:21.000Z",
-      "discoveredAt": "2026-09-03T19:48:18.702Z",
-      "summary": "OpenAI 首席研究官 Mark Chen 宣布 GPT-6 Astra 发布，称其为团队多年预训练、强化学习和后训练工作的成果，是迄今能力最强、对齐最好的模型。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlxtppp0qqprow5v4bb80ng"
-      }
-    },
-    {
-      "id": "cmtlyijvl0rlsrow5dwqv22k7",
-      "title": "OpenAI 开始发布 GPT-6 Astra，面向全部 Plus 用户开放",
-      "title_en": "We are starting to release GPT-6 Astra and we are doing it as carefully and quickly as possible. It …",
-      "url": "https://x.com/thsottiaux/status/2095597168816226335",
-      "permalink": "https://aihot.news/items/cmtlyijvl0rlsrow5dwqv22k7",
-      "source": "X：Tibo (@thsottiaux)",
-      "publishedAt": "2026-09-03T19:37:54.000Z",
-      "discoveredAt": "2026-09-03T20:07:37.030Z",
-      "summary": "OpenAI 宣布开始发布 GPT-6 Astra，称正以尽可能谨慎和快速的方式推进，重点让全部 Plus 用户可用，而不只限 Pro、Business 和 Enterprise 套餐。发布需几天完成，背后多个全新系统将首次大规模运行，团队正带来大量算力，详情见 openai.com/index/gpt-6-astra/。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlyijvl0rlsrow5dwqv22k7"
-      }
-    },
-    {
-      "id": "cmtly53c50r9srow5ux7p8arw",
-      "title": "Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍",
-      "title_en": "GPT-6 Astra makes significant gains in the Artificial Analysis Coding Agent Index， scoring equal to …",
-      "url": "https://x.com/ArtificialAnlys/status/2095595489031000350",
-      "permalink": "https://aihot.news/items/cmtly53c50r9srow5ux7p8arw",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-09-03T19:31:13.000Z",
-      "discoveredAt": "2026-09-03T19:57:09.542Z",
-      "summary": "Artificial Analysis 发布 GPT-6 Astra 评测，其 Coding Agent Index 得分 67，约等于 Claude Opus 5 和 Fable 5，且成本不到 Fable 5 的一半；token 效率比 GPT-5.6 Sol （max） 高约 70%。",
-      "category": "tip",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtly53c50r9srow5ux7p8arw"
-      }
-    },
-    {
-      "id": "cmtlx9epa0qcxrow5bt068c9u",
-      "title": "OpenAI 发布 GPT-6 Astra，并首次将其列为 Preparedness Framework 下关键级网络安全模型",
-      "title_en": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
-      "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era",
-      "permalink": "https://aihot.news/items/cmtlx9epa0qcxrow5bt068c9u",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-03T19:25:40.000Z",
-      "discoveredAt": "2026-09-03T19:32:31.755Z",
-      "summary": "OpenAI 发布其最强模型 GPT-6 Astra，总裁 Greg Brockman 称其可能已接近 AGI，并以 Welcome to the AGI era 结束发布。",
-      "category": "ai-models",
-      "score": 86,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlx9epa0qcxrow5bt068c9u"
-      }
-    },
-    {
-      "id": "cmtlwgygo0pnnrow5tbc0sok8",
-      "title": "OpenAI 发布 GPT-6 Astra，基准全面超越 Claude Fable 5.1",
-      "title_en": "At this point， they completely crushed Fable 5.1 in every benchmark. Claude Fable 5.1 was sota in se…",
-      "url": "https://x.com/kimmonismus/status/2095589174686400914",
-      "permalink": "https://aihot.news/items/cmtlwgygo0pnnrow5tbc0sok8",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-09-03T19:06:08.000Z",
-      "discoveredAt": "2026-09-03T19:10:23.531Z",
-      "summary": "作者引用 OpenAI 官方基准称 GPT-6 Astra 以 99.9% 饱和 ARC-AGI-3，在 ExploitBench 得 100%，并在各项基准上全面超过此前保持 SOTA 两天的 Claude Fable 5.1，且价格更低。",
-      "category": "ai-models",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlwgygo0pnnrow5tbc0sok8"
-      }
-    },
-    {
-      "id": "cmtlwgyh00pnqrow5t4ajo0y7",
-      "title": "OpenAI 发布 GPT-6 Astra，先向受限网络安全客户开放",
-      "title_en": "OpenAI is rolling GPT-6 Astra out first to restricted cybersecurity customers， API access and AWS ex…",
-      "url": "https://x.com/rohanpaul_ai/status/2095586785455948112",
-      "permalink": "https://aihot.news/items/cmtlwgyh00pnqrow5t4ajo0y7",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-03T18:56:38.000Z",
-      "discoveredAt": "2026-09-03T19:10:23.531Z",
-      "summary": "OpenAI 发布 GPT-6 Astra，首先向经过审核的 Daybreak 网络安全客户开放，Plus、Pro、Business、Enterprise、API 和 AWS 将在未来数日内跟进。",
-      "category": "ai-models",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlwgyh00pnqrow5t4ajo0y7"
-      }
-    },
-    {
-      "id": "cmtlwgygo0pnorow5q12m2p9j",
-      "title": "OpenAI 发布 GPT-6 Astra，官方基准显示 ARC-AGI-3 得分 99.9%",
-      "title_en": "Official GPT-6 Astra Benchmarks from OpenAIs website \"Astra also saturates ARC-AGI-3 with a 99.9% s…",
-      "url": "https://x.com/kimmonismus/status/2095585966102614182",
-      "permalink": "https://aihot.news/items/cmtlwgygo0pnorow5q12m2p9j",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-09-03T18:53:23.000Z",
-      "discoveredAt": "2026-09-03T19:10:23.531Z",
-      "summary": "OpenAI 官网发布的 GPT-6 Astra 官方基准测试\n\n\"Astra 在 ARC-AGI-3 上取得 99.9% 的分数，在 ExploitBench 上取得 100% 的分数，均已饱和\"\n\n\"GPT-6 Astra 今日起向有限数量的组织开放，未来几天将向所有 ChatGPT Plus、Pro、Business 和 Enterprise 用户开放，同时可通过 OpenAI API 和 AWS 使用。\"\n\n惊人的跃升。\n\nAGI 已至。",
-      "category": "ai-models",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlwgygo0pnorow5q12m2p9j"
-      }
-    },
-    {
-      "id": "cmtlv00350o36row5602bsjzv",
-      "title": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 组织开放",
-      "title_en": "OPENAI 🔥： GPT-6 Astra will initially be available only to organizations in its Daybreak Access prog…",
-      "url": "https://x.com/testingcatalog/status/2095578972335542742",
-      "permalink": "https://aihot.news/items/cmtlv00350o36row5602bsjzv",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-09-03T18:25:35.000Z",
-      "discoveredAt": "2026-09-03T18:29:13.020Z",
-      "summary": "OpenAI 发布 GPT-6 Astra，初期仅向 Daybreak Access 计划中的组织开放，未来几天将陆续推送给所有 Plus、Pro、Business 和 Enterprise 用户。",
-      "category": "ai-models",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlv00350o36row5602bsjzv"
-      }
     }
   ],
-  "cachedAt": "2026-09-10T14:24:45Z"
+  "cachedAt": "2026-09-10T18:25:45Z"
 }
