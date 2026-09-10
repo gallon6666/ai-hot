@@ -4,6 +4,78 @@
   "nextCursor": "eyJhIjoxNzg4NDU2OTA5MDA0LCJpIjoiY210bHUweWthMG5ldXJvdzVhczllNmp0dSJ9",
   "items": [
     {
+      "id": "cmtvb4b5s085erok9gose1mcf",
+      "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
+      "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
+      "url": "https://x.com/kimmonismus/status/2097970735591366804",
+      "permalink": "https://aihot.news/items/cmtvb4b5s085erok9gose1mcf",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-10T08:49:36.000Z",
+      "discoveredAt": "2026-09-10T09:10:23.034Z",
+      "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
+      "category": "ai-models",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvb4b5s085erok9gose1mcf"
+      }
+    },
+    {
+      "id": "cmtva1qh206burok9zip2wdid",
+      "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
+      "title_en": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+      "url": "https://x.com/kimmonismus/status/2097962333767102665",
+      "permalink": "https://aihot.news/items/cmtva1qh206burok9zip2wdid",
+      "source": "X：Kim (@kimmonismus)",
+      "publishedAt": "2026-09-10T08:16:13.000Z",
+      "discoveredAt": "2026-09-10T08:40:23.050Z",
+      "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
+      "category": "ai-models",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtva1qh206burok9zip2wdid"
+      }
+    },
+    {
+      "id": "cmtv7kmzk02vdrok9y0y8njiv",
+      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
+      "title_en": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
+      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+      "permalink": "https://aihot.news/items/cmtv7kmzk02vdrok9y0y8njiv",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-09-10T07:31:01.000Z",
+      "discoveredAt": "2026-09-10T07:31:07.541Z",
+      "summary": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。",
+      "category": "ai-models",
+      "score": 87,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtv7kmzk02vdrok9y0y8njiv"
+      }
+    },
+    {
+      "id": "cmtv48yni0oq5rorpf4o74549",
+      "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+      "title_en": "DeepSeek-V4.1-Flash 发布",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10",
+      "permalink": "https://aihot.news/items/cmtv48yni0oq5rorpf4o74549",
+      "source": "DeepSeek：API 更新日志",
+      "publishedAt": "2026-09-10T05:58:04.695Z",
+      "discoveredAt": "2026-09-10T05:58:04.695Z",
+      "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
+      "category": "ai-models",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtv48yni0oq5rorpf4o74549"
+      }
+    },
+    {
       "id": "cmtussvq60dj0rorpnzdh4g3k",
       "title": "Suno v6 发布，支持图片、视频和语音备忘录生成音乐",
       "title_en": "Suno v6 is here. Turn images， videos， and voice memos into music. Make precise changes to songs you…",
@@ -76,24 +148,6 @@
       }
     },
     {
-      "id": "cmtuhrbi71dnsrofpx3fnhef7",
-      "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
-      "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-      "url": "https://x.com/AnthropicAI/status/2097762642958135398",
-      "permalink": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-09-09T19:02:43.000Z",
-      "discoveredAt": "2026-09-09T19:28:28.231Z",
-      "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
-      "category": "tip",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7"
-      }
-    },
-    {
       "id": "cmtugpn561cgnrofplpzs3udv",
       "title": "Mistral 复盘用 AI Agent 迁移 40000 行 Fortran 77 到 C++ 的经验",
       "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
@@ -148,21 +202,21 @@
       }
     },
     {
-      "id": "cmtuejpai193wrofprivr8awm",
-      "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
-      "title_en": "Introducing Apple Watch Series 12， with the all-new Health Sensing System",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
-      "permalink": "https://aihot.news/items/cmtuejpai193wrofprivr8awm",
+      "id": "cmtuejpah193urofpj0jmte9i",
+      "title": "Apple 发布 Health Sensing System 与重构版 Health app，Apple Watch Series 12 和 Ultra 4 主打 readiness 与 Health Age",
+      "title_en": "Apple advances health and fitness capabilities using Apple Intelligence",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
+      "permalink": "https://aihot.news/items/cmtuejpah193urofpj0jmte9i",
       "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-09-09T17:50:47.609Z",
+      "publishedAt": "2026-09-09T17:52:05.481Z",
       "discoveredAt": "2026-09-09T17:58:34.548Z",
-      "summary": "Apple 发布 Apple Watch Series 12，称其具备可穿戴设备中最准确的心率监测，心率每 5 秒测量一次，HRV 测量频率提升至 24 倍，并新增 0-10 分 readiness 评分。",
+      "summary": "Apple 发布全新健康与健身功能，Apple Watch Series 12 和 Apple Watch Ultra 4 引入 Health Sensing System，支持每 5 秒测心率、HRV 测量频率提升至 24 倍、每日 0-10 的 readiness 评分。",
       "category": "ai-products",
-      "score": 60,
+      "score": 62,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuejpai193wrofprivr8awm"
+        "canonical": "https://aihot.news/items/cmtuejpah193urofpj0jmte9i"
       }
     },
     {
@@ -274,42 +328,6 @@
       }
     },
     {
-      "id": "cmttxf8n90qovrofp2tiv0g2g",
-      "title": "纽约大学教授质疑OpenAI借助其研究抢先发布纳维-斯托克斯问题证明",
-      "title_en": "AI 攻克数学难题，纽约大学教授质疑 OpenAI\"截胡\"其研究成果",
-      "url": "https://www.ithome.com/1/000/353.htm",
-      "permalink": "https://aihot.news/items/cmttxf8n90qovrofp2tiv0g2g",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-09T09:34:47.000Z",
-      "discoveredAt": "2026-09-09T09:59:12.629Z",
-      "summary": "纽约大学教授Tristan Buckmaster与Anthropic数学家Levent Alpöge使用Codex和Claude在纳维-斯托克斯存在性与光滑性问题上取得初步进展，随后OpenAI公布了该千禧年大奖难题的完整证明，称其由一个尚未发布的新一代模型发现，研究始于9月1日，总计消耗3000亿个输出Token，按Astra价格计算约2250万美元。",
-      "category": "industry",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttxf8n90qovrofp2tiv0g2g"
-      }
-    },
-    {
-      "id": "cmttwa2j30pktrofpw67b9pby",
-      "title": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面等六家中国 AI 公司大规模提取美国模型知识",
-      "title_en": "The NSA， FBI and CISA accused DeepSeek， Moonshot AI， Alibaba， MiniMax， StepFun and http://Z.ai of ex…",
-      "url": "https://x.com/thexpin/status/2097615997616406833",
-      "permalink": "https://aihot.news/items/cmttwa2j30pktrofpw67b9pby",
-      "source": "X：X.PIN (@thexpin)",
-      "publishedAt": "2026-09-09T09:20:00.000Z",
-      "discoveredAt": "2026-09-09T09:27:09.511Z",
-      "summary": "NSA、FBI 和 CISA 指控 DeepSeek、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和 Z.ai 至少自 2024 年起以产业规模从美国模型中提取知识。机构称其通过多渠道路由请求以绕过规则并提升数学与编码能力；蒸馏在获授权时合法，争议核心在于访问与同意。美国开发商被敦促立即行动并共享情报，相关公司暂未回应。",
-      "category": "industry",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttwa2j30pktrofpw67b9pby"
-      }
-    },
-    {
       "id": "cmttwq6oy0pybrofphae4ykhb",
       "title": "Thomas Wolf 认为 AI 数学尚未被解决，Navier-Stokes 结果更像反例搜索而非完整证明",
       "title_en": "friends are regularly surprised when i say i don't think math is （yet） \"solved，\" so in the wake of t…",
@@ -364,24 +382,6 @@
       }
     },
     {
-      "id": "cmtts0bi50l1frofpe39el7a1",
-      "title": "Simon Willison 评纳维-斯托克斯千禧年问题求解背后的 OpenAI 与 Anthropic 争议",
-      "title_en": "纳维-斯托克斯千禧年大奖问题",
-      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-      "permalink": "https://aihot.news/items/cmtts0bi50l1frofpe39el7a1",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-09T07:10:03.765Z",
-      "discoveredAt": "2026-09-09T07:27:38.083Z",
-      "summary": "Simon Willison 评论 OpenAI 用未发布模型在约 88 小时内求解纳维-斯托克斯存在性与光滑性问题，并经 GPT-6 Astra 完成 17 小时 Lean 形式化验证。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtts0bi50l1frofpe39el7a1"
-      }
-    },
-    {
       "id": "cmttqzqw30jwkrofpxrj00ngg",
       "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
       "title_en": "曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市",
@@ -397,24 +397,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg"
-      }
-    },
-    {
-      "id": "cmttklkuj0chfrofpzacvz20x",
-      "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-      "title_en": "GPT Image2.5悄悄上线，靠提示语提升AI生图可控性的时代要过去了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
-      "permalink": "https://aihot.news/items/cmttklkuj0chfrofpzacvz20x",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-09-09T00:27:00.000Z",
-      "discoveredAt": "2026-09-09T04:00:13.177Z",
-      "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttklkuj0chfrofpzacvz20x"
       }
     },
     {
@@ -490,6 +472,42 @@
       }
     },
     {
+      "id": "cmtt5xmpl029krocpiv1aq1je",
+      "title": "OpenAI 发布 Navier-Stokes 千禧年大奖难题的智能体求解证明",
+      "title_en": "Bed time reading 🥱",
+      "url": "https://x.com/EMostaque/status/2097427772285079873",
+      "permalink": "https://aihot.news/items/cmtt5xmpl029krocpiv1aq1je",
+      "source": "X：Emad Mostaque (@EMostaque)",
+      "publishedAt": "2026-09-08T20:52:03.000Z",
+      "discoveredAt": "2026-09-08T21:09:39.332Z",
+      "summary": "OpenAI 宣布给出 Navier-Stokes 千禧年大奖难题的一个解，证明由一组智能体使用比 GPT-6 Astra 能力强得多的 OpenAI 下一代模型产出。该问题关乎 Navier-Stokes 方程描述的光滑三维流体运动是否会崩溃，约 90 年未解；论文截图显示其构造了对每个正粘性从静止出发、在有限时间内发展出无界速度且动能有界的解，建立了 Fefferman 表述中的备选情形 （C） 与 （D）。",
+      "category": "paper",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtt5xmpl029krocpiv1aq1je"
+      }
+    },
+    {
+      "id": "cmtt1vfws018zrowaez22xu5e",
+      "title": "OpenAI 在 API 发布 GPT-Image-2.5 Flare 和 Sunburst 图像模型",
+      "title_en": "Meet GPT-Image-2.5 Flare and Sunburst. Introducing new image models in the API， with sharper detail…",
+      "url": "https://x.com/OpenAIDevs/status/2097399255975813387",
+      "permalink": "https://aihot.news/items/cmtt1vfws018zrowaez22xu5e",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-09-08T18:58:45.000Z",
+      "discoveredAt": "2026-09-08T19:16:00.524Z",
+      "summary": "OpenAI 推出 API 新图像模型 GPT-Image-2.5 Flare 和 Sunburst，主要改进包括更锐利的细节、更强的风格遵循，以及更多对图像编辑的控制。",
+      "category": "ai-models",
+      "score": 58,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtt1vfws018zrowaez22xu5e"
+      }
+    },
+    {
       "id": "cmtszfjuo04a7ro5wxi2n02va",
       "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
       "title_en": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
@@ -508,21 +526,21 @@
       }
     },
     {
-      "id": "cmtsyfj5p01qgro5wfoz5h410",
-      "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
-      "title_en": "Landmark event on the way to ASI， congratulations to the team Just because one solution showing blo…",
-      "url": "https://x.com/EMostaque/status/2097378223138959719",
-      "permalink": "https://aihot.news/items/cmtsyfj5p01qgro5wfoz5h410",
-      "source": "X：Emad Mostaque (@EMostaque)",
-      "publishedAt": "2026-09-08T17:35:10.000Z",
-      "discoveredAt": "2026-09-08T17:39:39.953Z",
-      "summary": "Emad Mostaque 转发 OpenAI 的公告并评论称这是迈向 ASI 的里程碑事件。OpenAI 宣布由一组智能体使用显著强于 GPT-6 Astra 的下一代模型，给出了 Navier-Stokes 千禧年大奖难题的一个 blow up 解，该问题涉及三维光滑流体运动的描述是否会崩溃，约 90 年未解。",
-      "category": "tip",
-      "score": 79,
+      "id": "cmtsz20uq02c7ro5wspf2ah93",
+      "title": "OpenAI 宣布智能体用新一代模型给出 Navier-Stokes 千禧年大奖难题的解",
+      "title_en": "another crazy day working at the crazy day factory",
+      "url": "https://x.com/ericmitchellai/status/2097380424570011838",
+      "permalink": "https://aihot.news/items/cmtsz20uq02c7ro5wspf2ah93",
+      "source": "X：Eric Mitchell (@ericmitchellai)",
+      "publishedAt": "2026-09-08T17:43:55.000Z",
+      "discoveredAt": "2026-09-08T17:57:09.214Z",
+      "summary": "OpenAI 宣布给出数学前沿难题之一的 Navier-Stokes 千禧年大奖难题的解，该证明由一组智能体使用一个能力显著强于 GPT-6 Astra 的 OpenAI 新一代模型产出。该问题关注 Navier-Stokes 方程描述的光滑三维流体运动是否会崩溃，已悬置约 90 年。",
+      "category": "paper",
+      "score": 78,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtsyfj5p01qgro5wfoz5h410"
+        "canonical": "https://aihot.news/items/cmtsz20uq02c7ro5wspf2ah93"
       }
     },
     {
@@ -541,24 +559,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtsz2a0q02ciro5w7oz3a0ix"
-      }
-    },
-    {
-      "id": "cmtsy52b401faro5wv9smnfmk",
-      "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
-      "title_en": "Yes， this result cost millions of dollars. But remember that when @OpenAI announced o3 it cost ~$50…",
-      "url": "https://x.com/polynoamial/status/2097375837670785447",
-      "permalink": "https://aihot.news/items/cmtsy52b401faro5wv9smnfmk",
-      "source": "X：Noam Brown (@polynoamial)",
-      "publishedAt": "2026-09-08T17:25:41.000Z",
-      "discoveredAt": "2026-09-08T17:31:31.549Z",
-      "summary": "Noam Brown 就 OpenAI 宣布以智能体组合求解 Navier-Stokes 千禧年大奖难题发表看法，承认这次证明花费数百万美元，但认为成本会快速下降。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtsy52b401faro5wv9smnfmk"
       }
     },
     {
@@ -1804,5 +1804,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-10T04:40:41Z"
+  "cachedAt": "2026-09-10T09:41:17Z"
 }
