@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg4NDU2OTA5MDA0LCJpIjoiY210bHUweWthMG5ldXJvdzVhczllNmp0dSJ9",
+  "nextCursor": "eyJhIjoxNzg4NDU5OTM1MDAwLCJpIjoiY210bHYwMDM1MG8zNnJvdzU2MDJic2p6diJ9",
   "items": [
+    {
+      "id": "cmtvj9kae0aq1ronbfyxuewfb",
+      "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
+      "title_en": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+      "permalink": "https://aihot.news/items/cmtvj9kae0aq1ronbfyxuewfb",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-10T12:40:51.000Z",
+      "discoveredAt": "2026-09-10T12:58:25.117Z",
+      "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
+      "category": "ai-models",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvj9kae0aq1ronbfyxuewfb"
+      }
+    },
+    {
+      "id": "cmtveyrm2000mronbnrnl0gez",
+      "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+      "title_en": "RSA 260 的因式分解",
+      "url": "https://cognition.com/blog/factoring-rsa-260",
+      "permalink": "https://aihot.news/items/cmtveyrm2000mronbnrnl0gez",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-10T10:50:45.032Z",
+      "discoveredAt": "2026-09-10T10:58:04.656Z",
+      "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtveyrm2000mronbnrnl0gez"
+      }
+    },
     {
       "id": "cmtvb4b5s085erok9gose1mcf",
       "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
@@ -109,6 +145,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t"
+      }
+    },
+    {
+      "id": "cmtvh5qcn05vfronbsu51vfic",
+      "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
+      "title_en": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "permalink": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "discoveredAt": "2026-09-10T11:59:27.962Z",
+      "summary": "Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic"
       }
     },
     {
@@ -1748,61 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtlv00350o36row5602bsjzv"
       }
-    },
-    {
-      "id": "cmtlu0vyd0nelrow5qppvereu",
-      "title": "OpenAI 发布新模型 Astra，主打计算机与浏览器操作但因 opaque recurrence 引发争议",
-      "title_en": "OpenAI launches Astra， its powerful （and controversial） new model",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
-      "permalink": "https://aihot.news/items/cmtlu0vyd0nelrow5qppvereu",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-09-03T18:01:45.000Z",
-      "discoveredAt": "2026-09-03T18:01:56.327Z",
-      "summary": "OpenAI 发布最新模型 Astra，称其为迄今最强大模型，主打计算机和浏览器操作，先面向 Daybreak 网络安全计划客户开放，随后一周内覆盖 Pro、Plus、Enterprise、Business 付费账户及 API。",
-      "category": "ai-models",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlu0vyd0nelrow5qppvereu"
-      }
-    },
-    {
-      "id": "cmtlw62vl0pf9row5nljoks6p",
-      "title": "OpenAI 发布 GPT-6 Astra，称已进入 AGI 时代",
-      "title_en": "OpenAI's next big AI model has 'entered the AGI era'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "permalink": "https://aihot.news/items/cmtlw62vl0pf9row5nljoks6p",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-09-03T18:00:00.000Z",
-      "discoveredAt": "2026-09-03T19:01:57.995Z",
-      "summary": "OpenAI 发布下一代的旗舰模型 GPT-6 Astra，称其为能力上的世代跃升，Greg Brockman 表示现在可能已进入 AGI 时代。",
-      "category": "ai-models",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlw62vl0pf9row5nljoks6p"
-      }
-    },
-    {
-      "id": "cmtlu0yka0neurow5as9e6jtu",
-      "title": "IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期",
-      "title_en": "K2 Horizon：前沿性能，极致开放",
-      "url": "https://ifm.ai/blog/k2",
-      "permalink": "https://aihot.news/items/cmtlu0yka0neurow5as9e6jtu",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-03T17:35:09.004Z",
-      "discoveredAt": "2026-09-03T18:01:59.106Z",
-      "summary": "IFM 发布 K2 Horizon 模型系列，共六个模型：375B-A23B、36B-A4B、32B、7B、3.7B 和 0.9B，均以 Apache 2.0 开源，其中 0.9B、3.7B 和 7B 宣称在其规模上达到 SOTA，36B-A4B 采用新提出的稀疏注意力架构 MoVA。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtlu0yka0neurow5as9e6jtu"
-      }
     }
   ],
-  "cachedAt": "2026-09-10T09:41:17Z"
+  "cachedAt": "2026-09-10T14:24:45Z"
 }
