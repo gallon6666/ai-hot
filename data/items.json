@@ -1,8 +1,26 @@
 {
-  "count": 92,
+  "count": 90,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtw9fws408trrolkp9glkz9j",
+      "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
+      "title_en": "Grok @Bot summary of SpaceX CFO talk",
+      "url": "https://x.com/elonmusk/status/2098217236771295567",
+      "permalink": "https://aihot.news/items/cmtw9fws408trrolkp9glkz9j",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "publishedAt": "2026-09-11T01:09:06.000Z",
+      "discoveredAt": "2026-09-11T01:11:11.949Z",
+      "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtw9fws408trrolkp9glkz9j"
+      }
+    },
     {
       "id": "cmtw0ejbx03jdro8s0ve1llhi",
       "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
@@ -1156,6 +1174,24 @@
       }
     },
     {
+      "id": "cmtwb8s1l0afrrolkk3mph1zd",
+      "title": "Tomer Tunguz 解析 AI 消耗的三波浪潮：从聊天到智能体再到 meta-harness",
+      "title_en": "The Three Waves of AI Consumption",
+      "url": "https://tomtunguz.com/three-waves-of-ai-consumption",
+      "permalink": "https://aihot.news/items/cmtwb8s1l0afrrolkk3mph1zd",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "discoveredAt": "2026-09-07T00:00:00.000Z",
+      "summary": "VC Tomer Tunguz 提出 AI token 消耗分三波：聊天约 1m tokens/人/天，单智能体约 100m-200m tokens/天，meta-harness 并行调度多智能体可达数十亿。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtwb8s1l0afrrolkk3mph1zd"
+      }
+    },
+    {
       "id": "cmtq5pxc10275roiufscxyie4",
       "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
       "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
@@ -1586,79 +1622,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtmvk9590ccdromyrrae80ir"
       }
-    },
-    {
-      "id": "cmtmehz6p01cerotxiqdnxdw2",
-      "title": "GPT-6 Astra 上线 Microsoft Foundry，早期客户已在 Azure 上使用",
-      "title_en": "Excited to see early customers already using Astra on Azure！ https://azure.microsoft.com/en-us/blog/...",
-      "url": "https://x.com/satyanadella/status/2095713765446840591",
-      "permalink": "https://aihot.news/items/cmtmehz6p01cerotxiqdnxdw2",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "publishedAt": "2026-09-04T03:21:12.000Z",
-      "discoveredAt": "2026-09-04T03:35:04.764Z",
-      "summary": "Satya Nadella 发文表示，早期客户已开始使用 Azure 上的 Astra。GPT-6 Astra 现已通过 Microsoft Foundry 提供，详情见 Azure 官方博客 https://azure.microsoft.com/en-us/blog/gpt-6-astra-frontier-intelligence-for-work-now-available-in-microsoft-foundry/。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtmehz6p01cerotxiqdnxdw2"
-      }
-    },
-    {
-      "id": "cmtmcipsq00sirovbhprdqc1x",
-      "title": "OpenAI 发布 GPT-6 Astra，主打桌面自动化与网络安全 Critical 档位",
-      "title_en": "总结一下GPT-6 Astra 的亮点给大家，AGI真的离我们越来越近了吗？ 1. 开放问题突破：攻克包括构造 non-sofic 群、推翻 Connes 刚性猜想在内的 10 道数学/计算难题，全部…",
-      "url": "https://x.com/AYi_AInotes/status/2095700816980222311",
-      "permalink": "https://aihot.news/items/cmtmcipsq00sirovbhprdqc1x",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-04T02:29:45.000Z",
-      "discoveredAt": "2026-09-04T02:39:39.327Z",
-      "summary": "OpenAI 发布 GPT-6 Astra，主打计算机操作能力。作者总结其亮点包括：以 Lean 形式化证明攻克 10 道数学/计算难题，单次解题 Token 成本约 $2000。",
-      "category": "ai-models",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtmcipsq00sirovbhprdqc1x"
-      }
-    },
-    {
-      "id": "cmtmcipsq00sjrovbxu1gd6lk",
-      "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作与对齐能力",
-      "title_en": "大家别再以为OpenAI 只是发了一个更会聊天的 GPT-6了， 首席研究官 @markchen90 转发时只强调了一件事： 电脑上你能干的活，Astra 都能替你干，而且快了近一倍， 更吓人的…",
-      "url": "https://x.com/AYi_AInotes/status/2095698966684049433",
-      "permalink": "https://aihot.news/items/cmtmcipsq00sjrovbxu1gd6lk",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "publishedAt": "2026-09-04T02:22:24.000Z",
-      "discoveredAt": "2026-09-04T02:39:39.327Z",
-      "summary": "OpenAI 发布 GPT-6 Astra，首席研究官 Mark Chen 称其能构建测试软件、跨应用操作电脑并尝试开放科学问题。作者补充数字：OSWorld 真实桌面任务从 75 分钟降到 40 分钟，职场自动化从 18% 升到 41%，未防护越权率从上一代 48% 压到 0%，并称花了 2000 美元算力解出 10 道十年未解的数学与理论计算难题；同时指出带工具的综合测试仍落后 Claude。",
-      "category": "ai-models",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtmcipsq00sjrovbxu1gd6lk"
-      }
-    },
-    {
-      "id": "cmtma05f8017zro9fao7eonjg",
-      "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
-      "title_en": "AI 的世界，没有最强，只有更强！",
-      "url": "https://x.com/frxiaobei/status/2095682473745363068",
-      "permalink": "https://aihot.news/items/cmtma05f8017zro9fao7eonjg",
-      "source": "X：小北 (@frxiaobei)",
-      "publishedAt": "2026-09-04T01:16:52.000Z",
-      "discoveredAt": "2026-09-04T01:29:13.436Z",
-      "summary": "OpenAI 于 9 月 3 日发布 GPT-6 Astra，API 模型名 gpt-6-astra，每百万输入 Token 10 美元、输出 50 美元，未来几天推送到 ChatGPT 各档订阅、API 和 AWS Bedrock。",
-      "category": "ai-models",
-      "score": 85,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtma05f8017zro9fao7eonjg"
-      }
     }
   ],
-  "cachedAt": "2026-09-11T00:08:19Z"
+  "cachedAt": "2026-09-11T04:36:35Z"
 }
