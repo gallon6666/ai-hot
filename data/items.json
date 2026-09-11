@@ -1,8 +1,26 @@
 {
-  "count": 90,
+  "count": 89,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtxbm8dp037xrouueja171wr",
+      "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+      "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
+      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+      "permalink": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-09-11T18:26:10.000Z",
+      "discoveredAt": "2026-09-11T18:59:53.161Z",
+      "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr"
+      }
+    },
     {
       "id": "cmtx7e9sn09mmroedph6hkyx4",
       "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
@@ -1586,43 +1604,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtnkdx8y031qroqs79optcp2"
       }
-    },
-    {
-      "id": "cmtne97cd058urog1zpa39wm7",
-      "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放",
-      "title_en": "GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
-      "url": "https://x.com/OpenAI/status/2095968413646737608",
-      "permalink": "https://aihot.news/items/cmtne97cd058urog1zpa39wm7",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-09-04T20:13:05.000Z",
-      "discoveredAt": "2026-09-04T20:16:00.579Z",
-      "summary": "OpenAI 宣布 GPT-6 Astra 现已向所有 Pro、Enterprise 和 Business Premium 用户开放，可在 ChatGPT Work 和 Codex 中使用，同时已上线 API。Plus 和 Business 用户的推送可能需要几天时间。",
-      "category": "ai-models",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtne97cd058urog1zpa39wm7"
-      }
-    },
-    {
-      "id": "cmtnbhhu902perog1dmrla299",
-      "title": "Claude 完成 Fermat 大定理的形式化证明，生成超 1300 万行 Lean 代码",
-      "title_en": "Checking that a major mathematical proof is correct can take years. Formalization-converting the mat…",
-      "url": "https://x.com/AnthropicAI/status/2095947707605266436",
-      "permalink": "https://aihot.news/items/cmtnbhhu902perog1dmrla299",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-09-04T18:50:48.000Z",
-      "discoveredAt": "2026-09-04T18:58:28.869Z",
-      "summary": "Anthropic 宣布 Claude 上月完成了 Fermat 大定理的首个形式化证明，这是迄今最大的 Lean 证明。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtnbhhu902perog1dmrla299"
-      }
     }
   ],
-  "cachedAt": "2026-09-11T18:30:23Z"
+  "cachedAt": "2026-09-11T21:42:19Z"
 }
