@@ -1,5 +1,5 @@
 {
-  "count": 90,
+  "count": 92,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -721,6 +721,42 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmttcqkx404pprofp0jwc34zu"
+      }
+    },
+    {
+      "id": "cmtwlujuv02r1row74s96s67t",
+      "title": "OpenRouter 评测 Seedance 2.5：长镜头与已有素材编辑的场景及成本解析",
+      "title_en": "Seedance 2.5 Review： What It's Best At and When to Use It",
+      "url": "https://openrouter.ai/blog/insights/seedance-2-5-review",
+      "permalink": "https://aihot.news/items/cmtwlujuv02r1row74s96s67t",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "discoveredAt": "2026-09-09T00:00:00.000Z",
+      "summary": "OpenRouter 发布对 ByteDance Seedance 2.5 视频模型的评测，该模型自 2026 年 8 月 7 日上线其视频 API，生成 4 到 30 秒、480p 或 720p 的片段，支持图像、视频、音频引用和首尾帧控制，音频同趟生成不加价。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtwlujuv02r1row74s96s67t"
+      }
+    },
+    {
+      "id": "cmtwlujuv02r0row7odx8rss3",
+      "title": "OpenRouter 教程：用代码调用 Nano Banana 2 编辑图像",
+      "title_en": "Nano Banana API： Edit Images with Gemini in Code",
+      "url": "https://openrouter.ai/blog/tutorials/nano-banana",
+      "permalink": "https://aihot.news/items/cmtwlujuv02r0row7odx8rss3",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "discoveredAt": "2026-09-09T00:00:00.000Z",
+      "summary": "OpenRouter 发布教程，演示通过 API 向 google/gemini-3.1-flash-image（即 Nano Banana 2）发送源图和文本指令完成图像编辑，编辑结果以 base64 形式在响应中返回。教程给出 Python 和 TypeScript 示例、提示词写法、多轮小步编辑方法，以及更换模型只需改一个字段，并介绍了 Nano Banana 系列四个成员的价格与质量差异。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtwlujuv02r0row7odx8rss3"
       }
     },
     {
@@ -1624,5 +1660,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-11T04:36:35Z"
+  "cachedAt": "2026-09-11T09:38:49Z"
 }
