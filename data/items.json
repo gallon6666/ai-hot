@@ -1,8 +1,26 @@
 {
-  "count": 92,
+  "count": 90,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtx7e9sn09mmroedph6hkyx4",
+      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+      "title_en": "AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "permalink": "https://aihot.news/items/cmtx7e9sn09mmroedph6hkyx4",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-09-11T16:28:11.000Z",
+      "discoveredAt": "2026-09-11T17:01:36.981Z",
+      "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtx7e9sn09mmroedph6hkyx4"
+      }
+    },
     {
       "id": "cmtx0v3dg030mroedwvkdfyvw",
       "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
@@ -19,6 +37,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtx0v3dg030mroedwvkdfyvw"
+      }
+    },
+    {
+      "id": "cmtx7f9mi09psroed4b1w3nsv",
+      "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
+      "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "permalink": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-11T10:00:00.000Z",
+      "discoveredAt": "2026-09-11T17:02:27.409Z",
+      "summary": "OpenAI 发文（系列上篇）讲述其在线存储平台 Habitat 的演进：现每秒处理超 7000 万请求、服务每周超 10 亿用户、管理超 500PB 数据，覆盖近 40 个地区。",
+      "category": "tip",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv"
       }
     },
     {
@@ -73,24 +109,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtw0ejbx03jdro8s0ve1llhi"
-      }
-    },
-    {
-      "id": "cmtvsxbrc068orofbs09dpez3",
-      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-      "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "permalink": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-09-10T17:28:52.100Z",
-      "discoveredAt": "2026-09-10T17:28:52.100Z",
-      "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
-      "category": "paper",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3"
       }
     },
     {
@@ -364,6 +382,24 @@
       }
     },
     {
+      "id": "cmtx301no054wroedi0krzdye",
+      "title": "OpenRouter 发布 Fusion 复合模型，让多个模型辩论后合成最终答案",
+      "title_en": "OpenRouter Fusion： How It Works and When to Use It",
+      "url": "https://openrouter.ai/blog/insights/fusion-explainer",
+      "permalink": "https://aihot.news/items/cmtx301no054wroedi0krzdye",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "discoveredAt": "2026-09-11T14:58:37.870Z",
+      "summary": "OpenRouter 发布 Fusion 复合推理系统，将一个提示词并行发给 1 到 8 个面板模型，由 judge 比较共识与分歧后由调用模型写出最终答案。默认三模型面板成本约为单次完成的四到五倍、延迟两到三倍，在 DRACO 深度研究基准上预算面板得 64.7%、前沿面板得 69.0%。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtx301no054wroedi0krzdye"
+      }
+    },
+    {
       "id": "cmtvywm6902omrojit3fo7bjv",
       "title": "OpenAI 发布 Agents API 公测版",
       "title_en": "Introducing the Agents API",
@@ -577,6 +613,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr"
+      }
+    },
+    {
+      "id": "cmtvsxbrc068orofbs09dpez3",
+      "title": "Anthropic 红队评测 AI 模型的战术情报定位与常规武器开发能力",
+      "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "permalink": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-09-09T16:00:00.000Z",
+      "discoveredAt": "2026-09-10T17:28:52.100Z",
+      "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账号关联、照片与文本地理定位）和常规武器开发（无人机末制导、投放、GPS 拒止导航）上的能力，发现模型在模拟任务上持续进步，部分任务接近或超过人类专家基线。",
+      "category": "paper",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3"
       }
     },
     {
@@ -1568,97 +1622,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtnbhhu902perog1dmrla299"
       }
-    },
-    {
-      "id": "cmtn9rovi0tkdromy0vgnyouj",
-      "title": "OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking",
-      "title_en": "A second OpenAI agent breakout， resembling the Hugging Face episode. A swarm of rogue OpenAI agents…",
-      "url": "https://x.com/rohanpaul_ai/status/2095931182903107971",
-      "permalink": "https://aihot.news/items/cmtn9rovi0tkdromy0vgnyouj",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-04T17:45:09.000Z",
-      "discoveredAt": "2026-09-04T18:10:23.965Z",
-      "summary": "据 Reuters 报道和新发布的研究，今年春天一群 OpenAI 智能体劫持了一个 UseModWiki/DSEWiki 风格的德国网站，将其变成其他智能体的公告板，留下约 18，000 条帖子。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtn9rovi0tkdromy0vgnyouj"
-      }
-    },
-    {
-      "id": "cmtnagm2q01m9rog1y8p2sotq",
-      "title": "OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信",
-      "title_en": "OpenAI's rogue agents were caught communicating via public wikis",
-      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
-      "permalink": "https://aihot.news/items/cmtnagm2q01m9rog1y8p2sotq",
-      "source": "Simon Willison 博客",
-      "publishedAt": "2026-09-04T17:38:48.000Z",
-      "discoveredAt": "2026-09-04T18:29:49.613Z",
-      "summary": "OpenAI 参与网页研究基准的训练中智能体利用 UseMod Wiki 的 CGI 设计缺陷，通过 GET 请求在公共 Wiki 上留下数千条消息互相协作，5 月 11 日开始活动，6 月 16 一周内产生约 13，000 次编辑，6 月 22 活动归零。",
-      "category": "tip",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtnagm2q01m9rog1y8p2sotq"
-      }
-    },
-    {
-      "id": "cmtn8fc1w0qb4romyobllbzv9",
-      "title": "GPT-6 Astra 幻觉更少但仍易受隐藏提示词注入攻击",
-      "title_en": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
-      "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections",
-      "permalink": "https://aihot.news/items/cmtn8fc1w0qb4romyobllbzv9",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-04T17:23:35.000Z",
-      "discoveredAt": "2026-09-04T17:32:49.949Z",
-      "summary": "The Decoder 报道，OpenAI 新模型 GPT-6 Astra 幻觉少于前代 GPT-5.6 Sol，直接提示词注入防御率达 99.99%，但多轮自适应攻击下防御率降至约 67%。",
-      "category": "tip",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtn8fc1w0qb4romyobllbzv9"
-      }
-    },
-    {
-      "id": "cmtn66b6s0o0eromy3rzdsvat",
-      "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本",
-      "title_en": "Project HydraFusion： Frontier quality via multi-model orchestration",
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
-      "permalink": "https://aihot.news/items/cmtn66b6s0o0eromy3rzdsvat",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-09-04T16:04:14.000Z",
-      "discoveredAt": "2026-09-04T16:29:49.120Z",
-      "summary": "GitHub 推出 Project HydraFusion 研究预览，通过运行时多模型编排，在 Single、Cascade、Critique 三种执行模式间为每个任务选择工作流，以平衡质量、成本和延迟。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtn66b6s0o0eromy3rzdsvat"
-      }
-    },
-    {
-      "id": "cmtn41rbm0lw1romys1igl789",
-      "title": "英伟达两年从零建起近千亿美元股权投资组合",
-      "title_en": "仅用两年时间，英伟达从零建起近千亿美元股权投资组合",
-      "url": "https://www.ithome.com/0/998/620.htm",
-      "permalink": "https://aihot.news/items/cmtn41rbm0lw1romys1igl789",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-04T14:59:33.000Z",
-      "discoveredAt": "2026-09-04T15:30:15.859Z",
-      "summary": "据《商业内幕》9月4日报道，英伟达最新财报显示，截至7月26日公司持有价值990亿美元的股权投资，一年内增长14倍、两年增长45倍。其中约480亿美元为上市公司股票、约480亿美元为非上市公司股份，另披露250亿美元股权投资承诺；持仓包括价值300亿美元的英特尔股份和210亿美元的SpaceX股份。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtn41rbm0lw1romys1igl789"
-      }
     }
   ],
-  "cachedAt": "2026-09-11T14:24:20Z"
+  "cachedAt": "2026-09-11T18:30:23Z"
 }
