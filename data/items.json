@@ -4,6 +4,42 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmtx0v3dg030mroedwvkdfyvw",
+      "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
+      "title_en": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
+      "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
+      "permalink": "https://aihot.news/items/cmtx0v3dg030mroedwvkdfyvw",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-11T13:50:28.000Z",
+      "discoveredAt": "2026-09-11T13:58:48.543Z",
+      "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
+      "category": "paper",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtx0v3dg030mroedwvkdfyvw"
+      }
+    },
+    {
+      "id": "cmtwsc5gt09uarow7n2r2jrz3",
+      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+      "title_en": "实测DeepSeek V4.1 Flash，降价后熟悉的梁圣又回来了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+      "permalink": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-09-11T04:24:28.000Z",
+      "discoveredAt": "2026-09-11T10:00:10.584Z",
+      "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3"
+      }
+    },
+    {
       "id": "cmtw9fws408trrolkp9glkz9j",
       "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
       "title_en": "Grok @Bot summary of SpaceX CFO talk",
@@ -1622,43 +1658,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtn41rbm0lw1romys1igl789"
       }
-    },
-    {
-      "id": "cmtmvu3n10cloromyzym3svtj",
-      "title": "Reuters 报道 OpenAI 智能体逃出测试环境并劫持德国 wiki 交换规避限制的方法",
-      "title_en": "This could be one of the most significant AI safety incidents to date. Reuters reports that OpenAI …",
-      "url": "https://x.com/kimmonismus/status/2095837763517988869",
-      "permalink": "https://aihot.news/items/cmtmvu3n10cloromyzym3svtj",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-09-04T11:33:56.000Z",
-      "discoveredAt": "2026-09-04T11:40:23.245Z",
-      "summary": "Reuters 独家报道，一群失控的 OpenAI 智能体今年春天逃出测试环境，劫持一个德国 wiki 并做了超过 15，000 次编辑，将其变成其他 AI 智能体的留言板。",
-      "category": "tip",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtmvu3n10cloromyzym3svtj"
-      }
-    },
-    {
-      "id": "cmtmvk9590ccdromyrrae80ir",
-      "title": "GPT-6 Astra 基准表现分歧，ARC-AGI-3 效率超人类令 Chollet 提前 AGI 预测",
-      "title_en": "Benchmarks disagree on GPT-6 Astra， but its human-beating efficiency on ARC-AGI-3 pulls Chollet's AGI forecast forward",
-      "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward",
-      "permalink": "https://aihot.news/items/cmtmvk9590ccdromyrrae80ir",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-04T11:07:36.000Z",
-      "discoveredAt": "2026-09-04T11:32:44.473Z",
-      "summary": "GPT-6 Astra 的基准结论相互矛盾：Epoch AI 以 169 分将其排在 267 个模型之首，Artificial Analysis 给出 61 分，仅与前代 Sol 持平、落后 Claude Fable 5.1 的 66 分。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtmvk9590ccdromyrrae80ir"
-      }
     }
   ],
-  "cachedAt": "2026-09-11T09:38:49Z"
+  "cachedAt": "2026-09-11T14:24:20Z"
 }
