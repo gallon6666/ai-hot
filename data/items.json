@@ -1,8 +1,44 @@
 {
-  "count": 90,
+  "count": 96,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtyuqztw0bk6roupjaey0f6w",
+      "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+      "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+      "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+      "permalink": "https://aihot.news/items/cmtyuqztw0bk6roupjaey0f6w",
+      "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+      "publishedAt": "2026-09-12T20:18:42.000Z",
+      "discoveredAt": "2026-09-12T20:43:13.067Z",
+      "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtyuqztw0bk6roupjaey0f6w"
+      }
+    },
+    {
+      "id": "cmtyth87f098broupl3k186iw",
+      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+      "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+      "url": "https://x.com/trq212/status/2098860941391872132",
+      "permalink": "https://aihot.news/items/cmtyth87f098broupl3k186iw",
+      "source": "X：Thariq (@trq212)",
+      "publishedAt": "2026-09-12T19:46:58.000Z",
+      "discoveredAt": "2026-09-12T20:07:37.646Z",
+      "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtyth87f098broupl3k186iw"
+      }
+    },
     {
       "id": "cmtyof5al04e2rog01a0893gu",
       "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
@@ -310,6 +346,42 @@
       }
     },
     {
+      "id": "cmtym2c3q0003rob0w6kxvnn3",
+      "title": "LlamaIndex 解析 just-in-time Agentic OCR：两遍式文档处理如何平衡成本与精度",
+      "title_en": "Just-in-Time Agentic OCR",
+      "url": "https://www.llamaindex.ai/blog/just-in-time-agentic-ocr",
+      "permalink": "https://aihot.news/items/cmtym2c3q0003rob0w6kxvnn3",
+      "source": "LlamaIndex：产品、工程与评测",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "discoveredAt": "2026-09-10T16:00:00.000Z",
+      "summary": "LlamaIndex 博客提出 just-in-time Agentic OCR 模式：先用 LiteParse 等免费解析器粗读全部文件供检索，再仅对相关页面调用 VLM 做 OCR。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtym2c3q0003rob0w6kxvnn3"
+      }
+    },
+    {
+      "id": "cmtym29350002roszb5f930dv",
+      "title": "Augment 复盘软件工厂建设：人均规模调整产出增长 4.5 倍",
+      "title_en": "Beyond AI Coding Agents： How We Built Augment's Software Factory",
+      "url": "https://www.augmentcode.com/blog/beyond-ai-coding-agents-how-we-built-augments-software-factory",
+      "permalink": "https://aihot.news/items/cmtym29350002roszb5f930dv",
+      "source": "Augment Code 博客（网页）",
+      "publishedAt": "2026-09-10T16:00:00.000Z",
+      "discoveredAt": "2026-09-10T16:00:00.000Z",
+      "summary": "Augment Code 发布长文，复盘其九个月建设的软件工厂：2025 年 11 月至 2026 年 7 月，基于 Cosmos 平台在需求、工单、PR、生产四个环节部署 PR Author。",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtym29350002roszb5f930dv"
+      }
+    },
+    {
       "id": "cmtvqbs1q03q9rofb98re4l3n",
       "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
       "title_en": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
@@ -433,24 +505,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtw4o8qc03iwrolkwc03elil"
-      }
-    },
-    {
-      "id": "cmtveyrm2000mronbnrnl0gez",
-      "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-      "title_en": "RSA 260 的因式分解",
-      "url": "https://cognition.com/blog/factoring-rsa-260",
-      "permalink": "https://aihot.news/items/cmtveyrm2000mronbnrnl0gez",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-10T10:50:45.032Z",
-      "discoveredAt": "2026-09-10T10:58:04.656Z",
-      "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtveyrm2000mronbnrnl0gez"
       }
     },
     {
@@ -775,6 +829,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr"
+      }
+    },
+    {
+      "id": "cmtym40hx0004roske1zgdkmu",
+      "title": "Cognition 发布 SWE-2 编码模型，以更低成本逼近前沿",
+      "title_en": "Introducing SWE-2： Pushing the Pareto Frontier",
+      "url": "https://cognition.com/blog/swe-2",
+      "permalink": "https://aihot.news/items/cmtym40hx0004roske1zgdkmu",
+      "source": "Cognition 模型 / Devin 博客（网页）",
+      "publishedAt": "2026-09-09T16:00:00.000Z",
+      "discoveredAt": "2026-09-09T16:00:00.000Z",
+      "summary": "Cognition 发布最先进编码模型 SWE-2，基于 2.8T 参数的 Kimi K33 后训练，在 FrontierCode 1.1 Main 取得 50.0%，仅比 Fable 5.1 低不到一分且便宜 64%。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtym40hx0004roske1zgdkmu"
       }
     },
     {
@@ -1246,6 +1318,24 @@
       }
     },
     {
+      "id": "cmtym40hx0005roskspizl2a2",
+      "title": "Cognition 团队用 Devin 完成 RSA-260 分解，刷新公开 RSA 挑战纪录",
+      "title_en": "Factoring RSA-260",
+      "url": "https://cognition.com/blog/factoring-rsa-260",
+      "permalink": "https://aihot.news/items/cmtym40hx0005roskspizl2a2",
+      "source": "Cognition 模型 / Devin 博客（网页）",
+      "publishedAt": "2026-09-08T16:00:00.000Z",
+      "discoveredAt": "2026-09-08T16:00:00.000Z",
+      "summary": "Cognition 研究团队驱动多个 Devin 智能体构建 GPU 格子筛，用约 4，900 GPU 天（约 40 万美元）完成 260 位 RSA-260 分解，创下公开 RSA 分解挑战新纪录，超越 2020 年 2 月的 RSA-250。",
+      "category": "paper",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtym40hx0005roskspizl2a2"
+      }
+    },
+    {
       "id": "cmtuhr1gr1dmxrofp90rc4c6u",
       "title": "Anthropic 发布四起 Claude 网络安全评估事故的对齐评估报告",
       "title_en": "An alignment assessment of recent cybersecurity incidents",
@@ -1372,6 +1462,24 @@
       }
     },
     {
+      "id": "cmtym46co0003robxz9gapbnc",
+      "title": "Epoch AI 实测 GPT-5.6 与 Claude 5 长上下文延迟缩放差异",
+      "title_en": "Latency Scaling Differences for GPT and Claude Models",
+      "url": "https://epoch.ai/publications/long-context-latency-scaling-gpt-vs-claude",
+      "permalink": "https://aihot.news/items/cmtym46co0003robxz9gapbnc",
+      "source": "Epoch AI：研究、数据与评测",
+      "publishedAt": "2026-09-08T00:00:00.000Z",
+      "discoveredAt": "2026-09-08T00:00:00.000Z",
+      "summary": "Epoch AI 测量四款模型的首 token 延迟（TTFT）随上下文长度的缩放，发现 GPT-5.6 Terra 和 Sol 呈明显二次曲线，Claude Sonnet 5 接近线性，Opus 5 噪声较大但仍接近线性。",
+      "category": "paper",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtym46co0003robxz9gapbnc"
+      }
+    },
+    {
       "id": "cmtym20dc0005rovuprjuu7xo",
       "title": "vLLM x AgentX：面向真实世界智能体推理服务的全栈优化",
       "title_en": "vLLM x AgentX： Optimizing for Real-World Agentic Serving",
@@ -1441,6 +1549,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtrkorpo07jdrotnozlrlyx2"
+      }
+    },
+    {
+      "id": "cmtym40hx0006roskf9ja0kdg",
+      "title": "Cognition 完成超 20 亿美元 E 轮融资，估值达 480 亿美元",
+      "title_en": "Do it all with Devin： Announcing our Series E",
+      "url": "https://cognition.com/blog/series-e",
+      "permalink": "https://aihot.news/items/cmtym40hx0006roskf9ja0kdg",
+      "source": "Cognition 模型 / Devin 博客（网页）",
+      "publishedAt": "2026-09-07T16:00:00.000Z",
+      "discoveredAt": "2026-09-07T16:00:00.000Z",
+      "summary": "Cognition 宣布完成超 20 亿美元 E 轮融资，估值 480 亿美元，由 Andreessen Horowitz 和 Accel 领投，Founders Fund、General Catalyst、Avenir 等跟投。",
+      "category": "industry",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtym40hx0006roskf9ja0kdg"
       }
     },
     {
@@ -1604,25 +1730,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtphtttc01pkroxxh8pinzq2"
       }
-    },
-    {
-      "id": "cmtoxdsbb032sromz8bcrhsii",
-      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-      "title_en": "GPT-6 Astra from OpenAI claimed a top spot on WebDev Arena， surpassing recently released Claude Fabl…",
-      "url": "https://x.com/testingcatalog/status/2096350628054176240",
-      "permalink": "https://aihot.news/items/cmtoxdsbb032sromz8bcrhsii",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "publishedAt": "2026-09-05T21:31:52.000Z",
-      "discoveredAt": "2026-09-05T21:59:13.167Z",
-      "summary": "GPT-6 Astra （Max） 以 1797 分登顶 Code Arena： WebDev，领先第 2 名 Claude Fable 5.1 （Max） 35 分、第 3 名 Claude Opus 5 （Max） 1688 分。",
-      "category": "ai-products",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtoxdsbb032sromz8bcrhsii"
-      }
     }
   ],
-  "cachedAt": "2026-09-12T19:18:34Z"
+  "cachedAt": "2026-09-12T22:15:17Z"
 }
