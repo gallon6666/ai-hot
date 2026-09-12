@@ -4,6 +4,24 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmtyof5al04e2rog01a0893gu",
+      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+      "title_en": "https://x.com/i/article/2098531824528220160",
+      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "permalink": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-09-12T17:33:23.000Z",
+      "discoveredAt": "2026-09-12T17:46:00.889Z",
+      "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+      "category": "ai-products",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu"
+      }
+    },
+    {
       "id": "cmtym1wo1039krodl7j8164q8",
       "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
       "title_en": "Introducing v6",
@@ -91,6 +109,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtxmd06905q5roi3ds616hwo"
+      }
+    },
+    {
+      "id": "cmtym24xb0002rob419mlyhlb",
+      "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
+      "title_en": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
+      "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
+      "permalink": "https://aihot.news/items/cmtym24xb0002rob419mlyhlb",
+      "source": "Baseten 工程博客（网页）",
+      "publishedAt": "2026-09-11T22:01:37.000Z",
+      "discoveredAt": "2026-09-11T22:01:37.000Z",
+      "summary": "DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtym24xb0002rob419mlyhlb"
       }
     },
     {
@@ -361,24 +397,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtvnvq3r0g0dronbaqql51u3"
-      }
-    },
-    {
-      "id": "cmtvmrh9v0emuronbigbkvant",
-      "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
-      "title_en": "@deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
-      "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
-      "permalink": "https://aihot.news/items/cmtvmrh9v0emuronbigbkvant",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "publishedAt": "2026-09-10T14:21:06.000Z",
-      "discoveredAt": "2026-09-10T14:36:19.457Z",
-      "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
-      "category": "ai-models",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvmrh9v0emuronbigbkvant"
       }
     },
     {
@@ -1604,25 +1622,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtoxdsbb032sromz8bcrhsii"
       }
-    },
-    {
-      "id": "cmtoq071c01tjro4mqmxcuu03",
-      "title": "OpenAI 承认 wiki 事件，称正在制定更透明的事故披露框架",
-      "title_en": "OpenAI confirms 'wiki incident，' says it's 'working on a framework' for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
-      "permalink": "https://aihot.news/items/cmtoq071c01tjro4mqmxcuu03",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-09-05T18:05:27.000Z",
-      "discoveredAt": "2026-09-05T18:32:44.115Z",
-      "summary": "OpenAI 确认其 AI 智能体接管一家德国 wiki 论坛的 wiki 事件属实，称此类错位此前被当作研究问题沟通，随真实世界影响出现需要扩展披露方式。公司表示正在制定一个披露框架并将在未来几周内分享，同时与全球数十家政府监管机构合作处理这些问题。",
-      "category": "industry",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtoq071c01tjro4mqmxcuu03"
-      }
     }
   ],
-  "cachedAt": "2026-09-12T17:07:29Z"
+  "cachedAt": "2026-09-12T19:18:34Z"
 }
