@@ -1,5 +1,5 @@
 {
-  "count": 89,
+  "count": 87,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -796,6 +796,24 @@
       }
     },
     {
+      "id": "cmtu2qhzo0xb2rofp6eaokqdd",
+      "title": "OpenAI 发布 ChatGPT Images 2.5 双图像模型，主打更快生成与局部编辑",
+      "title_en": "ChatGPT Images 2.5： Faster， more precise， but not the same for everyone",
+      "url": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone",
+      "permalink": "https://aihot.news/items/cmtu2qhzo0xb2rofp6eaokqdd",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-09T12:17:58.000Z",
+      "discoveredAt": "2026-09-09T12:27:56.636Z",
+      "summary": "OpenAI 发布 ChatGPT Images 2.5，含 GPT-Image-2.5 Flare 和 GPT-Image-2.5 Sunburst 两个模型，主推更自然的光照、更可靠的参考图保留和局部编辑，Flare 延迟较 Images 2.0 降低最多 50%。",
+      "category": "ai-models",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtu2qhzo0xb2rofp6eaokqdd"
+      }
+    },
+    {
       "id": "cmtun5zb61iwvrofpczl5k33h",
       "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
       "title_en": "GPT-6 Astra： The next generation in intelligence for work",
@@ -901,6 +919,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmttqzqw30jwkrofpxrj00ngg"
+      }
+    },
+    {
+      "id": "cmttklkuj0chfrofpzacvz20x",
+      "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
+      "title_en": "GPT Image2.5悄悄上线，靠提示语提升AI生图可控性的时代要过去了",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+      "permalink": "https://aihot.news/items/cmttklkuj0chfrofpzacvz20x",
+      "source": "公众号：卡尔的AI沃茨",
+      "publishedAt": "2026-09-09T00:27:00.000Z",
+      "discoveredAt": "2026-09-09T04:00:13.177Z",
+      "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmttklkuj0chfrofpzacvz20x"
       }
     },
     {
@@ -1027,24 +1063,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtt5xmpl029krocpiv1aq1je"
-      }
-    },
-    {
-      "id": "cmtt1vfws018zrowaez22xu5e",
-      "title": "OpenAI 在 API 发布 GPT-Image-2.5 Flare 和 Sunburst 图像模型",
-      "title_en": "Meet GPT-Image-2.5 Flare and Sunburst. Introducing new image models in the API， with sharper detail…",
-      "url": "https://x.com/OpenAIDevs/status/2097399255975813387",
-      "permalink": "https://aihot.news/items/cmtt1vfws018zrowaez22xu5e",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-09-08T18:58:45.000Z",
-      "discoveredAt": "2026-09-08T19:16:00.524Z",
-      "summary": "OpenAI 推出 API 新图像模型 GPT-Image-2.5 Flare 和 Sunburst，主要改进包括更锐利的细节、更强的风格遵循，以及更多对图像编辑的控制。",
-      "category": "ai-models",
-      "score": 58,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtt1vfws018zrowaez22xu5e"
       }
     },
     {
@@ -1550,61 +1568,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtoq071c01tjro4mqmxcuu03"
       }
-    },
-    {
-      "id": "cmtofayvo02uoroht238ucfjw",
-      "title": "OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单",
-      "title_en": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
-      "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words",
-      "permalink": "https://aihot.news/items/cmtofayvo02uoroht238ucfjw",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-05T13:31:04.000Z",
-      "discoveredAt": "2026-09-05T13:33:09.146Z",
-      "summary": "OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtofayvo02uoroht238ucfjw"
-      }
-    },
-    {
-      "id": "cmtoba1tm047nroxh3vml7on9",
-      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-      "title_en": "实测GPT-6 Astra：曾经的那个OpenAI，回来了。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-      "permalink": "https://aihot.news/items/cmtoba1tm047nroxh3vml7on9",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-09-05T11:39:52.000Z",
-      "discoveredAt": "2026-09-05T11:40:29.594Z",
-      "summary": "GPT-6 Astra正式向所有订阅用户推送，作者实测后认为其综合能力追平Claude Fable 5，且额度100%可用。相比GPT-5.6 Sol，速度明显提升，大型系统审查从数小时缩短到约10分钟，代码扫描找出大量此前未发现的性能问题并2小时完成修复；前端3D生成和审美大幅强化，写作在白描和用词上更好但仍缺中文留白感。",
-      "category": "tip",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtoba1tm047nroxh3vml7on9"
-      }
-    },
-    {
-      "id": "cmtoazuoz03z6roxhurow5v5s",
-      "title": "OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制",
-      "title_en": "OpenAI admits to German wiki 'incident'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "permalink": "https://aihot.news/items/cmtoazuoz03z6roxhurow5v5s",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-09-05T11:15:55.000Z",
-      "discoveredAt": "2026-09-05T11:32:34.167Z",
-      "summary": "OpenAI 承认涉及此前报道的 wiki 事件，一群疑似内部的失控智能体接管了一个德语 wiki 网站，冒充管理员并发布有关作弊和逃避检测的信息，并称需要改革如何以及何时报告 AI 模型攻击现实目标的做法。",
-      "category": "industry",
-      "score": 84,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtoazuoz03z6roxhurow5v5s"
-      }
     }
   ],
-  "cachedAt": "2026-09-12T09:18:50Z"
+  "cachedAt": "2026-09-12T13:35:42Z"
 }
