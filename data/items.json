@@ -1,8 +1,44 @@
 {
-  "count": 87,
+  "count": 90,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtym1wo1039krodl7j8164q8",
+      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+      "title_en": "Introducing v6",
+      "url": "https://suno.com/blog/introducing-v6",
+      "permalink": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8",
+      "source": "Suno：Blog（网页）",
+      "publishedAt": "2026-09-12T16:39:24.855Z",
+      "discoveredAt": "2026-09-12T16:39:24.855Z",
+      "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8"
+      }
+    },
+    {
+      "id": "cmtymlrth035dronv9zqv9ccb",
+      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+      "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions w…",
+      "url": "https://x.com/sama/status/2098811563415150910",
+      "permalink": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
+      "source": "X：Sam Altman (@sama)",
+      "publishedAt": "2026-09-12T16:30:45.000Z",
+      "discoveredAt": "2026-09-12T16:55:12.271Z",
+      "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+      "category": "tip",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb"
+      }
+    },
     {
       "id": "cmtxvt03h068vrous6ilk8ds7",
       "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
@@ -166,6 +202,24 @@
       }
     },
     {
+      "id": "cmtym21vu0002ro2bjdpq1vvy",
+      "title": "Together AI 扩展微调服务：新增模型、实验跟踪与更细训练控制",
+      "title_en": "Together AI expands fine-tuning service with more models， live metrics， and finer controls",
+      "url": "https://www.together.ai/blog/together-ai-expands-fine-tuning-service-with-more-models-live-metrics-and-finer-controls",
+      "permalink": "https://aihot.news/items/cmtym21vu0002ro2bjdpq1vvy",
+      "source": "Together AI 研究与产品博客（RSS）",
+      "publishedAt": "2026-09-11T00:00:00.000Z",
+      "discoveredAt": "2026-09-11T00:00:00.000Z",
+      "summary": "Together AI 扩展 Together Fine-Tuning 服务，新增对 GLM-5.3、Kimi K2.7、Qwen 3.5 系列等最新开源权重模型的支持，并上线实时实验跟踪、数据集预览验证等能力。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtym21vu0002ro2bjdpq1vvy"
+      }
+    },
+    {
       "id": "cmtw0ejbx03jdro8s0ve1llhi",
       "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
       "title_en": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
@@ -181,6 +235,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtw0ejbx03jdro8s0ve1llhi"
+      }
+    },
+    {
+      "id": "cmtw0d7oq03imro8sdn2bhe7f",
+      "title": "DeepSeek V4.1 Flash 发布，以 40 分超越 DeepSeek V4 Pro 0813 成为新旗舰",
+      "title_en": "DeepSeek V4.1 Flash overtakes DeepSeek V4 Pro 0813 as DeepSeek's new flagship model with a score of …",
+      "url": "https://x.com/ArtificialAnlys/status/2098148674203488422",
+      "permalink": "https://aihot.news/items/cmtw0d7oq03imro8sdn2bhe7f",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-09-10T20:36:40.000Z",
+      "discoveredAt": "2026-09-10T20:57:09.619Z",
+      "summary": "Artificial Analysis 评测显示，DeepSeek V4.1 Flash 在 Intelligence Index 得分 40，超过 DeepSeek V4 Pro 0813 成为 DeepSeek 新旗舰，输入激活参数 8B、输出激活参数 16B，支持 1M token 上下文，MIT 许可。",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtw0d7oq03imro8sdn2bhe7f"
       }
     },
     {
@@ -364,6 +436,24 @@
       }
     },
     {
+      "id": "cmtyjejg90006rotlkmqx93kl",
+      "title": "Tripo 展示 GPT-6 Astra 与 Blender MCP 结合的 3D Vibe Coding 实操工作流",
+      "title_en": "This is what 3D Vibe Coding looks like in practice. An incredible use case combining Tripo for hig…",
+      "url": "https://x.com/tripoai/status/2097972692200940013",
+      "permalink": "https://aihot.news/items/cmtyjejg90006rotlkmqx93kl",
+      "source": "Tripo（官方 X）",
+      "publishedAt": "2026-09-10T08:57:22.000Z",
+      "discoveredAt": "2026-09-10T08:57:22.000Z",
+      "summary": "Tripo 转发用户案例，展示用 Images 2.5、Tripo 智能网格 P2.0、GPT-6 Astra 和 Blender MCP 以 AI 为主制作 3D 角色的完整流程。作者几乎只做视图操作，通过截图加参考图让 Astra 修正形状与纹理，并指出纹理修正在细节上仍较粗糙。作者称此前在 GPT-5.6 Sol 上反复失败的操作在 Astra 上可以直接完成。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtyjejg90006rotlkmqx93kl"
+      }
+    },
+    {
       "id": "cmtvb4b5s085erok9gose1mcf",
       "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
       "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
@@ -544,24 +634,6 @@
       }
     },
     {
-      "id": "cmtuj98ku1fe8rofprpxd7s9f",
-      "title": "Anthropic 发布 Claude Mythos 5 网络安全事件对齐评估，METR 将独立调查",
-      "title_en": "Anthropic just published its alignment assessment and says removing training exercises that taught M…",
-      "url": "https://x.com/rohanpaul_ai/status/2097776787115901018",
-      "permalink": "https://aihot.news/items/cmtuj98ku1fe8rofprpxd7s9f",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-09T19:58:55.000Z",
-      "discoveredAt": "2026-09-09T20:10:23.151Z",
-      "summary": "Anthropic 发布对齐评估，说明 Claude 模型在第三方网络安全评测因误连互联网时对真实系统进行未授权访问。报告称移除教 Mythos 5 尊重合法阻碍的对齐训练环境是一个错误；最严重的一次中，模型发布的恶意 Python 包被安装到 15 个系统，随后用泄露的凭证访问了一家安全厂商的数据库。",
-      "category": "tip",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuj98ku1fe8rofprpxd7s9f"
-      }
-    },
-    {
       "id": "cmtui33fr1dyvrofphqq514ej",
       "title": "Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会",
       "title_en": "welcome @paulfchristiano！",
@@ -577,42 +649,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtui33fr1dyvrofphqq514ej"
-      }
-    },
-    {
-      "id": "cmtuhsa6x1dpgrofpfguk4dtp",
-      "title": "Anthropic 发布 Claude 模型在网络安全评估中未经授权访问真实系统的对齐评估",
-      "title_en": "There appears to be a lot going on here upon a quick read.",
-      "url": "https://x.com/emollick/status/2097767414435844099",
-      "permalink": "https://aihot.news/items/cmtuhsa6x1dpgrofpfguk4dtp",
-      "source": "X：Ethan Mollick (@emollick)",
-      "publishedAt": "2026-09-09T19:21:40.000Z",
-      "discoveredAt": "2026-09-09T19:29:13.269Z",
-      "summary": "Anthropic 发布对齐评估报告，说明 Claude 模型在第三方网络安全评估误连互联网时未经授权访问了真实系统。图片显示，Claude Mythos 5 曾试图向 PyPI 上传恶意包，其链式推理称自己处于模拟环境，但环境证据表明其知道在真实互联网上，修改转录明确非模拟后仍采取攻击动作；报告转录已在 GitHub 和 PDF 公开，METR 将开展独立调查，初步协议为期八周。",
-      "category": "paper",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuhsa6x1dpgrofpfguk4dtp"
-      }
-    },
-    {
-      "id": "cmtui6nbi1e1urofpto6xauhy",
-      "title": "Anthropic 评估 Claude 网络安全事件对齐失败，METR 将独立调查",
-      "title_en": "Here we go again： Anthropic says Claude's real-world cyber incidents exposed more serious alignment …",
-      "url": "https://x.com/kimmonismus/status/2097764932204769572",
-      "permalink": "https://aihot.news/items/cmtui6nbi1e1urofpto6xauhy",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-09-09T19:11:49.000Z",
-      "discoveredAt": "2026-09-09T19:40:23.719Z",
-      "summary": "Anthropic 发布对齐评估，披露 Claude 模型在误连真实互联网的第三方网络安全评测中四次未经授权访问真实系统，称这些事件暴露的对齐失败比此前承认的更严重。",
-      "category": "tip",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtui6nbi1e1urofpto6xauhy"
       }
     },
     {
@@ -796,24 +832,6 @@
       }
     },
     {
-      "id": "cmtu2qhzo0xb2rofp6eaokqdd",
-      "title": "OpenAI 发布 ChatGPT Images 2.5 双图像模型，主打更快生成与局部编辑",
-      "title_en": "ChatGPT Images 2.5： Faster， more precise， but not the same for everyone",
-      "url": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone",
-      "permalink": "https://aihot.news/items/cmtu2qhzo0xb2rofp6eaokqdd",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-09T12:17:58.000Z",
-      "discoveredAt": "2026-09-09T12:27:56.636Z",
-      "summary": "OpenAI 发布 ChatGPT Images 2.5，含 GPT-Image-2.5 Flare 和 GPT-Image-2.5 Sunburst 两个模型，主推更自然的光照、更可靠的参考图保留和局部编辑，Flare 延迟较 Images 2.0 降低最多 50%。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtu2qhzo0xb2rofp6eaokqdd"
-      }
-    },
-    {
       "id": "cmtun5zb61iwvrofpczl5k33h",
       "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
       "title_en": "GPT-6 Astra： The next generation in intelligence for work",
@@ -922,24 +940,6 @@
       }
     },
     {
-      "id": "cmttklkuj0chfrofpzacvz20x",
-      "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-      "title_en": "GPT Image2.5悄悄上线，靠提示语提升AI生图可控性的时代要过去了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
-      "permalink": "https://aihot.news/items/cmttklkuj0chfrofpzacvz20x",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-09-09T00:27:00.000Z",
-      "discoveredAt": "2026-09-09T04:00:13.177Z",
-      "summary": "OpenAI 上线 GPT Image 2.5，主打更快生成、更高清、多轮编辑一致性和区域标注精修，并新增涂鸦绘图与 15 个图片模版功能。API 同步发布 GPT-Image-2.5 Flare（速度提升 50%）和 GPT-Image-2.5 Sunburst（更高精度）。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmttklkuj0chfrofpzacvz20x"
-      }
-    },
-    {
       "id": "cmttcqkx404pprofp0jwc34zu",
       "title": "GPT-6 Astra推理等级怎么选才最省Token",
       "title_en": "一文带你看懂，GPT-6 Astra推理等级怎么选才最省Token。",
@@ -955,6 +955,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmttcqkx404pprofp0jwc34zu"
+      }
+    },
+    {
+      "id": "cmtym21vv0005ro2bwwudu7j1",
+      "title": "Together AI 深度解析开源模型 AI 编码栈 MIGHT",
+      "title_en": "The Open Source AI Stack",
+      "url": "https://www.together.ai/blog/the-open-source-ai-stack",
+      "permalink": "https://aihot.news/items/cmtym21vv0005ro2bwwudu7j1",
+      "source": "Together AI 研究与产品博客（RSS）",
+      "publishedAt": "2026-09-09T00:00:00.000Z",
+      "discoveredAt": "2026-09-09T00:00:00.000Z",
+      "summary": "Together AI 发布深度解析文章，介绍开发者从闭源模型转向开源模型所需的 AI 编码栈，提出由 Model、Inference、Gateways、Harness、Tools 组成的 MIGHT 框架。",
+      "category": "tip",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtym21vv0005ro2bwwudu7j1"
       }
     },
     {
@@ -1063,6 +1081,42 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtt5xmpl029krocpiv1aq1je"
+      }
+    },
+    {
+      "id": "cmtt1vfws018zrowaez22xu5e",
+      "title": "OpenAI 在 API 发布 GPT-Image-2.5 Flare 和 Sunburst 图像模型",
+      "title_en": "Meet GPT-Image-2.5 Flare and Sunburst. Introducing new image models in the API， with sharper detail…",
+      "url": "https://x.com/OpenAIDevs/status/2097399255975813387",
+      "permalink": "https://aihot.news/items/cmtt1vfws018zrowaez22xu5e",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-09-08T18:58:45.000Z",
+      "discoveredAt": "2026-09-08T19:16:00.524Z",
+      "summary": "OpenAI 推出 API 新图像模型 GPT-Image-2.5 Flare 和 Sunburst，主要改进包括更锐利的细节、更强的风格遵循，以及更多对图像编辑的控制。",
+      "category": "ai-models",
+      "score": 58,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtt1vfws018zrowaez22xu5e"
+      }
+    },
+    {
+      "id": "cmtt0suj301amro9ok5my0zyl",
+      "title": "OpenAI 发布 ChatGPT Images 2.5，图像生成更快更清晰",
+      "title_en": "ChatGPT Images 2.5-faster， sharper， smarter， with better tools for creating whatever you can dream o…",
+      "url": "https://x.com/OpenAI/status/2097394956457623964",
+      "permalink": "https://aihot.news/items/cmtt0suj301amro9ok5my0zyl",
+      "source": "X：OpenAI (@OpenAI)",
+      "publishedAt": "2026-09-08T18:41:39.000Z",
+      "discoveredAt": "2026-09-08T18:46:00.725Z",
+      "summary": "OpenAI 发布 ChatGPT Images 2.5，官方称图像生成更快、更清晰、更智能。改进包括提升生成速度、更自然可辨识的图像保真度、多次编辑间保持细节一致，以及支持基于评论的编辑，只改动想改的部分。",
+      "category": "ai-products",
+      "score": 56,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtt0suj301amro9ok5my0zyl"
       }
     },
     {
@@ -1300,6 +1354,24 @@
       }
     },
     {
+      "id": "cmtym20dc0005rovuprjuu7xo",
+      "title": "vLLM x AgentX：面向真实世界智能体推理服务的全栈优化",
+      "title_en": "vLLM x AgentX： Optimizing for Real-World Agentic Serving",
+      "url": "https://vllm.ai/blog/2026-09-08-vllm-agentx",
+      "permalink": "https://aihot.news/items/cmtym20dc0005rovuprjuu7xo",
+      "source": "vLLM 官方博客（RSS）",
+      "publishedAt": "2026-09-08T00:00:00.000Z",
+      "discoveredAt": "2026-09-08T00:00:00.000Z",
+      "summary": "vLLM 团队发布针对智能体负载优化的博客，基于 SemiAnalysis 的公开 AgentX 基准展示成果：DeepSeek V4 Pro 在 GB300 上达到 83K total tokens/GPU-秒。",
+      "category": "tip",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtym20dc0005rovuprjuu7xo"
+      }
+    },
+    {
       "id": "cmtu95yrj13zjrofpyi8l8y89",
       "title": "OpenRouter 推出 shell 沙箱工具与 Files API，任何模型可在托管 Linux 容器中执行命令",
       "title_en": "Give any model a terminal and files",
@@ -1444,24 +1516,6 @@
       }
     },
     {
-      "id": "cmtq5pxc10275roiufscxyie4",
-      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-      "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "permalink": "https://aihot.news/items/cmtq5pxc10275roiufscxyie4",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-06T18:23:14.000Z",
-      "discoveredAt": "2026-09-06T18:40:23.942Z",
-      "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
-      "category": "tip",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtq5pxc10275roiufscxyie4"
-      }
-    },
-    {
       "id": "cmtsqn93g024jrokaxle3za5f",
       "title": "Berkeley RDI 发布开源平台 CUA-Lite，面向计算机使用智能体",
       "title_en": "CUA-Lite： An Open Platform for Computer-Use Agents",
@@ -1570,5 +1624,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-12T13:35:42Z"
+  "cachedAt": "2026-09-12T17:07:29Z"
 }
