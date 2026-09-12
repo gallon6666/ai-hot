@@ -1,8 +1,26 @@
 {
-  "count": 89,
+  "count": 88,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtxmd06905q5roi3ds616hwo",
+      "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
+      "title_en": "冲刺史上最大 IPO：英伟达正洽谈为 Anthropic 投资至多 100 亿美元",
+      "url": "https://www.ithome.com/1/001/488.htm",
+      "permalink": "https://aihot.news/items/cmtxmd06905q5roi3ds616hwo",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-11T23:22:39.000Z",
+      "discoveredAt": "2026-09-12T00:00:37.059Z",
+      "summary": "据路透社报道，英伟达正与 Anthropic 洽谈以基石投资者身份参与其 IPO，考虑投资至多 100 亿美元。Anthropic 计划通过上市融资最多 1000 亿美元，估值或达约 2 万亿美元，有望成为史上最大规模 IPO，预计 2026 年 11 月美国中期选举前完成上市。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtxmd06905q5roi3ds616hwo"
+      }
+    },
     {
       "id": "cmtxbm8dp037xrouueja171wr",
       "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
@@ -1568,43 +1586,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtnphe3t07vfroqsvrbd9enn"
       }
-    },
-    {
-      "id": "cmtnl720g03olroqsrkmbl292",
-      "title": "Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元",
-      "title_en": "Anthropic IPO 推迟至中期选举前：最早 10 月中旬启动路演，目标估值 2 万亿美元",
-      "url": "https://www.ithome.com/0/998/630.htm",
-      "permalink": "https://aihot.news/items/cmtnl720g03olroqsrkmbl292",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-04T22:52:38.000Z",
-      "discoveredAt": "2026-09-04T23:30:17.725Z",
-      "summary": "据路透社报道，Anthropic 预计最早 10 月中旬启动 IPO 路演，计划在 11 月美国中期选举前数日完成上市，招股书公开时间推迟至 9 月下旬。部分投资者给出高达 2 万亿美元的估值预期，目标募资 1，000 亿美元，若达成将超越 SpaceX 约 1.77 万亿美元的上市估值纪录。彭博社报道称其年化营收已超 650 亿美元，第二季度营收超 115 亿美元，调整后营业利润已实现盈利。",
-      "category": "industry",
-      "score": 85,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtnl720g03olroqsrkmbl292"
-      }
-    },
-    {
-      "id": "cmtnkdx8y031qroqs79optcp2",
-      "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出",
-      "title_en": "Now out to all Plus and Business users. Happy building！",
-      "url": "https://x.com/sama/status/2096008528834244741",
-      "permalink": "https://aihot.news/items/cmtnkdx8y031qroqs79optcp2",
-      "source": "X：Sam Altman (@sama)",
-      "publishedAt": "2026-09-04T22:52:29.000Z",
-      "discoveredAt": "2026-09-04T23:07:37.383Z",
-      "summary": "Sam Altman 宣布 GPT-6 Astra 现已向所有 Plus 和 Business 用户推出。此前该模型已面向 Pro、Enterprise 和 Business Premium 用户在 Work/Codex 及 API 中提供。",
-      "category": "ai-models",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtnkdx8y031qroqs79optcp2"
-      }
     }
   ],
-  "cachedAt": "2026-09-11T21:42:19Z"
+  "cachedAt": "2026-09-12T00:16:23Z"
 }
