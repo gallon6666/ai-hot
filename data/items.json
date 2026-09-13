@@ -1,24 +1,24 @@
 {
-  "count": 97,
+  "count": 95,
   "hasNext": false,
   "nextCursor": null,
   "items": [
     {
-      "id": "cmtz1a2f10pr2roupq2k1944c",
-      "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-      "title_en": "📞 1-800-ChatGPT",
-      "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-      "permalink": "https://aihot.news/items/cmtz1a2f10pr2roupq2k1944c",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-09-12T23:16:27.000Z",
-      "discoveredAt": "2026-09-12T23:46:00.835Z",
-      "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
-      "category": "ai-models",
-      "score": 70,
+      "id": "cmtzezuk0077wrowyi7a4qy7v",
+      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+      "title_en": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+      "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+      "permalink": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-09-13T05:56:03.000Z",
+      "discoveredAt": "2026-09-13T06:09:58.347Z",
+      "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
+      "category": "tip",
+      "score": 78,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtz1a2f10pr2roupq2k1944c"
+        "canonical": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v"
       }
     },
     {
@@ -91,6 +91,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8"
+      }
+    },
+    {
+      "id": "cmtyn3ymd0015ro7fmrjlcr8p",
+      "title": "英伟达是人工智能领域的\"中央银行\"",
+      "title_en": null,
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "permalink": "https://aihot.news/items/cmtyn3ymd0015ro7fmrjlcr8p",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-12T16:37:21.932Z",
+      "discoveredAt": "2026-09-12T17:09:22.230Z",
+      "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtyn3ymd0015ro7fmrjlcr8p"
       }
     },
     {
@@ -1694,61 +1712,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtsqn93g024jrokaxle3za5f"
       }
-    },
-    {
-      "id": "cmtq23v6k01aorotwh8xip8r1",
-      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱",
-      "title_en": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "permalink": "https://aihot.news/items/cmtq23v6k01aorotwh8xip8r1",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-06T09:00:00.000Z",
-      "discoveredAt": "2026-09-06T16:59:15.618Z",
-      "summary": "OpenAI 发布长文《An Alien Mind》，回溯 2023 年 RLSlow 项目中确认推理模型可扩展训练的起点，并系统阐述目标对齐与价值对齐的区分。文章指出链式思维监控的效果正随着模型能力提升而逐步减弱，GPT-6 Astra 在对齐上显著优于 GPT-5.6 Sol；作者预期进展可能持续走向机器递归自我改进（RSI），呼吁自愿放缓扩展、建立第三方安全门槛并加强国际协调。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtq23v6k01aorotwh8xip8r1"
-      }
-    },
-    {
-      "id": "cmtpzyon6019iroemu68v4s2v",
-      "title": "OpenAI 发布内部研究加速报告：已达成自动化研究实习生目标，推进 2028 年 3 月自动化 AI 研究员",
-      "title_en": "Research acceleration： The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "permalink": "https://aihot.news/items/cmtpzyon6019iroemu68v4s2v",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-06T08:00:00.000Z",
-      "discoveredAt": "2026-09-06T15:59:14.286Z",
-      "summary": "OpenAI 发文披露自动化研究进展，宣布已达成去年秋天设定的今年 9 月拥有自动化研究实习生（可在人类指导下完成耗时数天的明确研究任务）的目标，并计划在 2028 年 3 月前造出自动化 AI 研究员。",
-      "category": "tip",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtpzyon6019iroemu68v4s2v"
-      }
-    },
-    {
-      "id": "cmtphtttc01pkroxxh8pinzq2",
-      "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
-      "title_en": "OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩一度大幅变化",
-      "url": "https://www.ithome.com/0/998/927.htm",
-      "permalink": "https://aihot.news/items/cmtphtttc01pkroxxh8pinzq2",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-06T06:46:16.000Z",
-      "discoveredAt": "2026-09-06T07:31:34.538Z",
-      "summary": "据 Fortune 报道，OpenAI 自 9 月 3 日发布 GPT-6 Astra 公告以来多次修改评测基准数据：Astra 幻觉率曾从 4.2% 降至 2% 后又改回。",
-      "category": "tip",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtphtttc01pkroxxh8pinzq2"
-      }
     }
   ],
-  "cachedAt": "2026-09-13T04:43:45Z"
+  "cachedAt": "2026-09-13T10:15:09Z"
 }
