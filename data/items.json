@@ -1,8 +1,26 @@
 {
-  "count": 96,
+  "count": 97,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmtz1a2f10pr2roupq2k1944c",
+      "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+      "title_en": "📞 1-800-ChatGPT",
+      "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+      "permalink": "https://aihot.news/items/cmtz1a2f10pr2roupq2k1944c",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-09-12T23:16:27.000Z",
+      "discoveredAt": "2026-09-12T23:46:00.835Z",
+      "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtz1a2f10pr2roupq2k1944c"
+      }
+    },
     {
       "id": "cmtyuqztw0bk6roupjaey0f6w",
       "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
@@ -1732,5 +1750,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-12T22:15:17Z"
+  "cachedAt": "2026-09-13T00:00:36Z"
 }
