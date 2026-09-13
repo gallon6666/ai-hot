@@ -4,6 +4,24 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmu06l0dg09hiroryn5e19xp1",
+      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
+      "title_en": "Two cheers （out of three） for Dario Amodei",
+      "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
+      "permalink": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "publishedAt": "2026-09-13T18:34:31.000Z",
+      "discoveredAt": "2026-09-13T19:02:16.596Z",
+      "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1"
+      }
+    },
+    {
       "id": "cmu01iavi08reroymepsxnar2",
       "title": "Anthropic 报告称胡塞组织用 Claude Code 开发导弹制导软件",
       "title_en": "Houthis Used Claude Code to Develop Missile Guidance Software： Anthropic",
@@ -37,24 +55,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v"
-      }
-    },
-    {
-      "id": "cmtyuqztw0bk6roupjaey0f6w",
-      "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-      "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-      "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-      "permalink": "https://aihot.news/items/cmtyuqztw0bk6roupjaey0f6w",
-      "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-      "publishedAt": "2026-09-12T20:18:42.000Z",
-      "discoveredAt": "2026-09-12T20:43:13.067Z",
-      "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtyuqztw0bk6roupjaey0f6w"
       }
     },
     {
@@ -1714,5 +1714,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-13T18:11:06Z"
+  "cachedAt": "2026-09-13T20:47:23Z"
 }
