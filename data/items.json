@@ -1,8 +1,134 @@
 {
-  "count": 91,
+  "count": 92,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu1rrthc04ffrovwf4kpknmm",
+      "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
+      "title_en": "GPT-5.6 Luna vs. GPT-6 Astra： Is a $1.20 Model Good Enough for Code Review？",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "permalink": "https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-14T19:56:20.000Z",
+      "discoveredAt": "2026-09-14T21:43:10.995Z",
+      "summary": "Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm"
+      }
+    },
+    {
+      "id": "cmu1miqz1154mrocnhtw6icqw",
+      "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
+      "title_en": "Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic",
+      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+      "permalink": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-14T19:15:56.861Z",
+      "discoveredAt": "2026-09-14T19:15:56.861Z",
+      "summary": "Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw"
+      }
+    },
+    {
+      "id": "cmu1jhejj0njbrocn5llfnktp",
+      "title": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名",
+      "title_en": "Exciting news： DeepSeek-V4.1-Flash （Max） by @deepseek_ai just landed in Agent Arena at #3 among open…",
+      "url": "https://x.com/arena/status/2099549108013006958",
+      "permalink": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-09-14T17:21:29.000Z",
+      "discoveredAt": "2026-09-14T17:51:06.246Z",
+      "summary": "DeepSeek-V4.1-Flash （Max） 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。",
+      "category": "paper",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1jhejj0njbrocn5llfnktp"
+      }
+    },
+    {
+      "id": "cmu1ju3b00pmgrocnrgwe6e9e",
+      "title": "Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线",
+      "title_en": "Siri AI， a profoundly more capable and personal assistant， is here",
+      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+      "permalink": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e",
+      "source": "Apple：Newsroom（RSS）",
+      "publishedAt": "2026-09-14T17:09:41.324Z",
+      "discoveredAt": "2026-09-14T18:00:58.336Z",
+      "summary": "Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e"
+      }
+    },
+    {
+      "id": "cmu1gt8gn097trocnxxvdhxli",
+      "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
+      "title_en": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
+      "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
+      "permalink": "https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "publishedAt": "2026-09-14T16:32:25.000Z",
+      "discoveredAt": "2026-09-14T16:36:19.273Z",
+      "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
+      "category": "ai-models",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli"
+      }
+    },
+    {
+      "id": "cmu1g31xf07frrocnmjfagq29",
+      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+      "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "permalink": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-14T15:46:45.000Z",
+      "discoveredAt": "2026-09-14T16:15:57.841Z",
+      "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29"
+      }
+    },
+    {
+      "id": "cmu1amg9d06bbro7zn6v1kszh",
+      "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
+      "title_en": "What a time to be alive - rouge AI agents attack RubyGems.org",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+      "permalink": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-14T12:40:57.000Z",
+      "discoveredAt": "2026-09-14T13:43:07.935Z",
+      "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
+      "category": "tip",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh"
+      }
+    },
     {
       "id": "cmu12ocst0b6nro2nypi25zyq",
       "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
@@ -22,21 +148,21 @@
       }
     },
     {
-      "id": "cmu06l0dg09hiroryn5e19xp1",
-      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-      "title_en": "Two cheers （out of three） for Dario Amodei",
-      "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-      "permalink": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-09-13T18:34:31.000Z",
-      "discoveredAt": "2026-09-13T19:02:16.596Z",
-      "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+      "id": "cmu1hrr070dycrocndfax0y0c",
+      "title": "Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题",
+      "title_en": "What Does Pacing Mean？",
+      "url": "https://tomtunguz.com/what-does-the-pause-mean",
+      "permalink": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "discoveredAt": "2026-09-14T17:03:10.543Z",
+      "summary": "Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工、经济、地缘政治和监管俘获五派立场，并指出没有任何一派给出具体速度。",
       "category": "tip",
-      "score": 62,
+      "score": 69,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu06l0dg09hiroryn5e19xp1"
+        "canonical": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c"
       }
     },
     {
@@ -73,42 +199,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v"
-      }
-    },
-    {
-      "id": "cmtyth87f098broupl3k186iw",
-      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-      "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-      "url": "https://x.com/trq212/status/2098860941391872132",
-      "permalink": "https://aihot.news/items/cmtyth87f098broupl3k186iw",
-      "source": "X：Thariq (@trq212)",
-      "publishedAt": "2026-09-12T19:46:58.000Z",
-      "discoveredAt": "2026-09-12T20:07:37.646Z",
-      "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtyth87f098broupl3k186iw"
-      }
-    },
-    {
-      "id": "cmtyof5al04e2rog01a0893gu",
-      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-      "title_en": "https://x.com/i/article/2098531824528220160",
-      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "permalink": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-09-12T17:33:23.000Z",
-      "discoveredAt": "2026-09-12T17:46:00.889Z",
-      "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
-      "category": "ai-products",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu"
       }
     },
     {
@@ -199,24 +289,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7"
-      }
-    },
-    {
-      "id": "cmtxnd7fw06wcroi31psxg2c6",
-      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-      "title_en": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
-      "url": "https://www.rubyhack.ai/",
-      "permalink": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-12T00:24:20.561Z",
-      "discoveredAt": "2026-09-12T00:28:47.494Z",
-      "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
-      "category": "paper",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxnd7fw06wcroi31psxg2c6"
       }
     },
     {
@@ -415,24 +487,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtw0d7oq03imro8sdn2bhe7f"
-      }
-    },
-    {
-      "id": "cmtvru9kd04x5rofbggyhsxae",
-      "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
-      "title_en": "Swarmchasers\" hunt rogue agents， Anthropic investigates itself， and the trail they both follow is going dark",
-      "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark",
-      "permalink": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-10T16:33:44.000Z",
-      "discoveredAt": "2026-09-10T16:58:28.396Z",
-      "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
-      "category": "tip",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvru9kd04x5rofbggyhsxae"
       }
     },
     {
@@ -904,24 +958,6 @@
       }
     },
     {
-      "id": "cmtuejpai193wrofprivr8awm",
-      "title": "Apple 发布 Apple Watch Series 12，搭载全新 Health Sensing System 与 S11 芯片",
-      "title_en": "Introducing Apple Watch Series 12， with the all-new Health Sensing System",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
-      "permalink": "https://aihot.news/items/cmtuejpai193wrofprivr8awm",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-09-09T17:50:47.609Z",
-      "discoveredAt": "2026-09-09T17:58:34.548Z",
-      "summary": "Apple 发布 Apple Watch Series 12，称其具备可穿戴设备中最准确的心率监测，心率每 5 秒测量一次，HRV 测量频率提升至 24 倍，并新增 0-10 分 readiness 评分。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuejpai193wrofprivr8awm"
-      }
-    },
-    {
       "id": "cmtuejpai193yrofptlbx9jyr",
       "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
       "title_en": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
@@ -1027,24 +1063,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmturgfqq0c5prorpcycuemwl"
-      }
-    },
-    {
-      "id": "cmtun5zb61iwvrofpczl5k33h",
-      "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景",
-      "title_en": "GPT-6 Astra： The next generation in intelligence for work",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "permalink": "https://aihot.news/items/cmtun5zb61iwvrofpczl5k33h",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-09T11:00:00.000Z",
-      "discoveredAt": "2026-09-09T21:59:51.764Z",
-      "summary": "OpenAI 发布 GPT-6 Astra，已在 ChatGPT Work、Codex 和 API 提供，定价为每百万输入 token $10、输出 token $50。",
-      "category": "ai-models",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtun5zb61iwvrofpczl5k33h"
       }
     },
     {
@@ -1642,5 +1660,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-14T18:36:48Z"
+  "cachedAt": "2026-09-14T22:29:10Z"
 }
