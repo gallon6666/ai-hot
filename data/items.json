@@ -1,5 +1,5 @@
 {
-  "count": 95,
+  "count": 92,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -55,24 +55,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v"
-      }
-    },
-    {
-      "id": "cmtyth87f098broupl3k186iw",
-      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
-      "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
-      "url": "https://x.com/trq212/status/2098860941391872132",
-      "permalink": "https://aihot.news/items/cmtyth87f098broupl3k186iw",
-      "source": "X：Thariq (@trq212)",
-      "publishedAt": "2026-09-12T19:46:58.000Z",
-      "discoveredAt": "2026-09-12T20:07:37.646Z",
-      "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtyth87f098broupl3k186iw"
       }
     },
     {
@@ -1676,43 +1658,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtqy60930445ro7r5nodgoig"
       }
-    },
-    {
-      "id": "cmtqhifvf04pwrohqvdfqmfxp",
-      "title": "GPT-6 Astra爆火后，卡兹克谈执行能力贬值与判断力断层",
-      "title_en": "因为GPT-6 Astra的爆火，我好像看见了时代的断层。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685960&idx=1&sn=df5885920be226f9514f47a7f2d30621",
-      "permalink": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-09-07T00:08:00.000Z",
-      "discoveredAt": "2026-09-07T00:10:30.732Z",
-      "summary": "GPT-6 Astra上线后，大量用户用它自主操控Blender、Houdini、Unity、Aseprite等专业软件，做出游戏Demo、3D复刻旧金山艺术宫等作品，其中旧金山艺术宫案例里Astra自己搜索几百张参考图、翻到美国国会图书馆的老扫描文件找柱子尺寸，多数工作在夜间自主完成。",
-      "category": "tip",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtqhifvf04pwrohqvdfqmfxp"
-      }
-    },
-    {
-      "id": "cmtwb8s1l0afrrolkk3mph1zd",
-      "title": "Tomer Tunguz 解析 AI 消耗的三波浪潮：从聊天到智能体再到 meta-harness",
-      "title_en": "The Three Waves of AI Consumption",
-      "url": "https://tomtunguz.com/three-waves-of-ai-consumption",
-      "permalink": "https://aihot.news/items/cmtwb8s1l0afrrolkk3mph1zd",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-09-07T00:00:00.000Z",
-      "discoveredAt": "2026-09-07T00:00:00.000Z",
-      "summary": "VC Tomer Tunguz 提出 AI token 消耗分三波：聊天约 1m tokens/人/天，单智能体约 100m-200m tokens/天，meta-harness 并行调度多智能体可达数十亿。",
-      "category": "tip",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtwb8s1l0afrrolkk3mph1zd"
-      }
     }
   ],
-  "cachedAt": "2026-09-13T23:08:01Z"
+  "cachedAt": "2026-09-14T01:02:28Z"
 }
