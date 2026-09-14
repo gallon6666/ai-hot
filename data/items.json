@@ -1,8 +1,26 @@
 {
-  "count": 93,
+  "count": 95,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu12ocst0b6nro2nypi25zyq",
+      "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+      "title_en": "小红书 AllSpark 发布 Iris：同量级最强开源 Search Agent",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
+      "permalink": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
+      "source": "公众号：小红书技术（dots.llm）",
+      "publishedAt": "2026-09-14T09:59:00.000Z",
+      "discoveredAt": "2026-09-14T10:00:40.191Z",
+      "summary": "小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq"
+      }
+    },
     {
       "id": "cmu06l0dg09hiroryn5e19xp1",
       "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
@@ -55,6 +73,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v"
+      }
+    },
+    {
+      "id": "cmtyth87f098broupl3k186iw",
+      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+      "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+      "url": "https://x.com/trq212/status/2098860941391872132",
+      "permalink": "https://aihot.news/items/cmtyth87f098broupl3k186iw",
+      "source": "X：Thariq (@trq212)",
+      "publishedAt": "2026-09-12T19:46:58.000Z",
+      "discoveredAt": "2026-09-12T20:07:37.646Z",
+      "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtyth87f098broupl3k186iw"
       }
     },
     {
@@ -685,6 +721,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t"
+      }
+    },
+    {
+      "id": "cmu10mxhc08m6ro2nafd8smam",
+      "title": "Hugging Face 用 LoRA 与 Storage Bucket 在 HF Jobs 上跑异步 GRPO，免 NCCL 并提速 3.9 倍",
+      "title_en": "Async GRPO with LoRA across HF Jobs： a bucket， a proxy， and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "permalink": "https://aihot.news/items/cmu10mxhc08m6ro2nafd8smam",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "discoveredAt": "2026-09-10T00:00:00.000Z",
+      "summary": "Hugging Face 在 TRL v1.14 的 AsyncGRPOTrainer 中支持只训练和同步 LoRA adapter，配合 Storage Bucket 挂载与代理路由，让训练 Job 和 vLLM 推理 Job 在不同机器上运行而无需 NCCL。",
+      "category": "tip",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu10mxhc08m6ro2nafd8smam"
       }
     },
     {
@@ -1658,25 +1712,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtsz50zn02mtro5w6ywm1xml"
       }
-    },
-    {
-      "id": "cmtqy60930445ro7r5nodgoig",
-      "title": "最高法发布涉人工智能纠纷案件审理意见，明确 AI 换脸拟声等裁判规则",
-      "title_en": "最高法发文明确\"AI 换脸拟声\"等案件裁判规则",
-      "url": "https://www.ithome.com/0/999/313.htm",
-      "permalink": "https://aihot.news/items/cmtqy60930445ro7r5nodgoig",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-07T07:46:08.000Z",
-      "discoveredAt": "2026-09-07T07:56:39.787Z",
-      "summary": "最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》，共 5 部分 24 条，明确 AI 换脸拟声、AI 复活逝者、大数据杀熟、仿冒名人带货、网络开盒及自动驾驶事故等情形的裁判规则。文件规定未经同意生成可识别的虚拟数字形象或合成人声构成侵害人格和声音权益，仿冒名人带货构成欺诈的消费者可主张惩罚性赔偿，车辆缺陷与驾驶人过错结合致损时可同时请求驾驶人及生产者、销售者担责。",
-      "category": "industry",
-      "score": 85,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtqy60930445ro7r5nodgoig"
-      }
     }
   ],
-  "cachedAt": "2026-09-14T06:15:38Z"
+  "cachedAt": "2026-09-14T12:50:36Z"
 }
