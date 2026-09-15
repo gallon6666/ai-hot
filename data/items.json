@@ -1,8 +1,62 @@
 {
-  "count": 90,
+  "count": 91,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu2n8sq10chlrovqbe47wj5t",
+      "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
+      "title_en": "OpenAI 内部 Lily 项目曝光：人工审核 ChatGPT 用户聊天记录以优化大模型",
+      "url": "https://www.ithome.com/1/002/750.htm",
+      "permalink": "https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-15T11:48:13.000Z",
+      "discoveredAt": "2026-09-15T12:24:10.728Z",
+      "summary": "404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2n8sq10chlrovqbe47wj5t"
+      }
+    },
+    {
+      "id": "cmu2lqodj08k0rovqocv9r3z3",
+      "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
+      "title_en": "1Password's AI patching benchmark is misleading",
+      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
+      "permalink": "https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3",
+      "source": "Trail of Bits：AI安全研究",
+      "publishedAt": "2026-09-15T11:00:00.000Z",
+      "discoveredAt": "2026-09-15T11:42:07.572Z",
+      "summary": "Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。",
+      "category": "tip",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2lqodj08k0rovqocv9r3z3"
+      }
+    },
+    {
+      "id": "cmu2gnngu032brovqo7pvrfx9",
+      "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+      "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+      "permalink": "https://aihot.news/items/cmu2gnngu032brovqo7pvrfx9",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-15T09:04:36.000Z",
+      "discoveredAt": "2026-09-15T09:19:47.577Z",
+      "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2gnngu032brovqo7pvrfx9"
+      }
+    },
     {
       "id": "cmu2d4jj405xcro25xm50v262",
       "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
@@ -1586,43 +1640,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv"
       }
-    },
-    {
-      "id": "cmtt0pw2p018pro9owlhpi092",
-      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-      "title_en": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "permalink": "https://aihot.news/items/cmtt0pw2p018pro9owlhpi092",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-08T11:30:00.000Z",
-      "discoveredAt": "2026-09-08T18:43:42.877Z",
-      "summary": "OpenAI 发布 ChatGPT Images 2.5 图像模型，生成延迟比 Images 2.0 降低最多 50%，细节、编辑精度、参考照片保真度和多轮编辑一致性均有提升。",
-      "category": "ai-models",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtt0pw2p018pro9owlhpi092"
-      }
-    },
-    {
-      "id": "cmtszna9e04isro5woti0ixg6",
-      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-      "title_en": "On the Navier-Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "permalink": "https://aihot.news/items/cmtszna9e04isro5woti0ixg6",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-08T10:00:00.000Z",
-      "discoveredAt": "2026-09-08T18:13:41.404Z",
-      "summary": "OpenAI 宣布其内部 AI 系统给出 Navier-Stokes 存在与光滑性问题的解答，证明初始光滑的流体可在有限时间内形成奇点，并附证明文稿与 Lean 形式化验证。",
-      "category": "paper",
-      "score": 85,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtszna9e04isro5woti0ixg6"
-      }
     }
   ],
-  "cachedAt": "2026-09-15T07:42:15Z"
+  "cachedAt": "2026-09-15T13:31:17Z"
 }
