@@ -1,8 +1,26 @@
 {
-  "count": 87,
+  "count": 84,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu352k2908t9rosaotpsx42c",
+      "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
+      "title_en": "We built a replacement for AWS DynamoDB， a key-value database for fast web content fetches. This was…",
+      "url": "https://x.com/AravSrinivas/status/2099957318935028173",
+      "permalink": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "publishedAt": "2026-09-15T20:23:34.000Z",
+      "discoveredAt": "2026-09-15T20:43:13.349Z",
+      "summary": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。",
+      "category": "industry",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c"
+      }
+    },
     {
       "id": "cmu2xv8tm0365roc1a401zg9y",
       "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
@@ -1496,79 +1514,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmttchnc104jvrofp05adlcv6"
       }
-    },
-    {
-      "id": "cmtt65r1002f0rocpzpypdjgt",
-      "title": "OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra",
-      "title_en": "Astra is fully rolled out to Plus， Pro， Business， and Enterprise users in Codex and ChatGPT Work. G…",
-      "url": "https://x.com/OpenAI/status/2097431322117476423",
-      "permalink": "https://aihot.news/items/cmtt65r1002f0rocpzpypdjgt",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-09-08T21:06:10.000Z",
-      "discoveredAt": "2026-09-08T21:16:00.371Z",
-      "summary": "OpenAI 宣布 Astra 已全面推送给 Codex 和 ChatGPT Work 中的 Plus、Pro、Business 和 Enterprise 用户。用户可以直接使用，并可通过 openai.com/gpt-tv/ 观看 Astra 的实机演示。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtt65r1002f0rocpzpypdjgt"
-      }
-    },
-    {
-      "id": "cmtt5xmpl029krocpiv1aq1je",
-      "title": "OpenAI 发布 Navier-Stokes 千禧年大奖难题的智能体求解证明",
-      "title_en": "Bed time reading 🥱",
-      "url": "https://x.com/EMostaque/status/2097427772285079873",
-      "permalink": "https://aihot.news/items/cmtt5xmpl029krocpiv1aq1je",
-      "source": "X：Emad Mostaque (@EMostaque)",
-      "publishedAt": "2026-09-08T20:52:03.000Z",
-      "discoveredAt": "2026-09-08T21:09:39.332Z",
-      "summary": "OpenAI 宣布给出 Navier-Stokes 千禧年大奖难题的一个解，证明由一组智能体使用比 GPT-6 Astra 能力强得多的 OpenAI 下一代模型产出。该问题关乎 Navier-Stokes 方程描述的光滑三维流体运动是否会崩溃，约 90 年未解；论文截图显示其构造了对每个正粘性从静止出发、在有限时间内发展出无界速度且动能有界的解，建立了 Fefferman 表述中的备选情形 （C） 与 （D）。",
-      "category": "paper",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtt5xmpl029krocpiv1aq1je"
-      }
-    },
-    {
-      "id": "cmtt1vfws018zrowaez22xu5e",
-      "title": "OpenAI 在 API 发布 GPT-Image-2.5 Flare 和 Sunburst 图像模型",
-      "title_en": "Meet GPT-Image-2.5 Flare and Sunburst. Introducing new image models in the API， with sharper detail…",
-      "url": "https://x.com/OpenAIDevs/status/2097399255975813387",
-      "permalink": "https://aihot.news/items/cmtt1vfws018zrowaez22xu5e",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "publishedAt": "2026-09-08T18:58:45.000Z",
-      "discoveredAt": "2026-09-08T19:16:00.524Z",
-      "summary": "OpenAI 推出 API 新图像模型 GPT-Image-2.5 Flare 和 Sunburst，主要改进包括更锐利的细节、更强的风格遵循，以及更多对图像编辑的控制。",
-      "category": "ai-models",
-      "score": 58,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtt1vfws018zrowaez22xu5e"
-      }
-    },
-    {
-      "id": "cmtt0suj301amro9ok5my0zyl",
-      "title": "OpenAI 发布 ChatGPT Images 2.5，图像生成更快更清晰",
-      "title_en": "ChatGPT Images 2.5-faster， sharper， smarter， with better tools for creating whatever you can dream o…",
-      "url": "https://x.com/OpenAI/status/2097394956457623964",
-      "permalink": "https://aihot.news/items/cmtt0suj301amro9ok5my0zyl",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-09-08T18:41:39.000Z",
-      "discoveredAt": "2026-09-08T18:46:00.725Z",
-      "summary": "OpenAI 发布 ChatGPT Images 2.5，官方称图像生成更快、更清晰、更智能。改进包括提升生成速度、更自然可辨识的图像保真度、多次编辑间保持细节一致，以及支持基于评论的编辑，只改动想改的部分。",
-      "category": "ai-products",
-      "score": 56,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtt0suj301amro9ok5my0zyl"
-      }
     }
   ],
-  "cachedAt": "2026-09-15T18:10:12Z"
+  "cachedAt": "2026-09-15T21:18:16Z"
 }
