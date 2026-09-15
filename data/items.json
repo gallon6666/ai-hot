@@ -1,8 +1,44 @@
 {
-  "count": 92,
+  "count": 89,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu1xyw1004hvromg5m4jf131",
+      "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
+      "title_en": "DeepSeek-V4.1-Flash on Fireworks： Astra-level DeepSWE at 1/15th the cost",
+      "url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+      "permalink": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131",
+      "source": "Fireworks AI（网页）",
+      "publishedAt": "2026-09-15T00:36:35.301Z",
+      "discoveredAt": "2026-09-15T00:36:35.301Z",
+      "summary": "Fireworks 发布 DeepSeek-V4.1-Flash 并公布完整基准结果：在 DeepSWE 上以 max 档取得 74.34% pass@1，与 GPT-6 Astra 同一水平，但每任务成本 $0.43，约为 Astra 的 1/15。",
+      "category": "ai-models",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131"
+      }
+    },
+    {
+      "id": "cmu1w7993037vrorbhyp0mwmn",
+      "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
+      "title_en": "Is Big Tech's AI slowdown a safety pact or a cartel？",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "permalink": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
+      "source": "The Verge：AI（RSS）",
+      "publishedAt": "2026-09-14T22:59:41.000Z",
+      "discoveredAt": "2026-09-14T23:47:11.878Z",
+      "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的\"卡特尔\"。",
+      "category": "tip",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn"
+      }
+    },
     {
       "id": "cmu1rrthc04ffrovwf4kpknmm",
       "title": "GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗",
@@ -1568,97 +1604,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmts9dr2m029hrobq86wrny37"
       }
-    },
-    {
-      "id": "cmtrxbv5n02etroftlb6u96xt",
-      "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-      "title_en": "用GPT-6 Astra操控Blender，保姆级教程来了。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-      "permalink": "https://aihot.news/items/cmtrxbv5n02etroftlb6u96xt",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-09-08T00:17:23.000Z",
-      "discoveredAt": "2026-09-08T00:21:04.297Z",
-      "summary": "作者数字生命卡兹克发布GPT-6 Astra操控Blender的小白教程，介绍前期安装、官方MCP与Computer Use插件配置，并实测三种玩法。Computer Use花约4小时搭出天坛祈年殿，但耗掉200美刀Pro会员近半额度；MCP更快，可完成摩托车建模与组装动画，但复杂任务会单次运行超时，可拆分步骤或用CLI执行Python脚本解决。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtrxbv5n02etroftlb6u96xt"
-      }
-    },
-    {
-      "id": "cmtym46co0003robxz9gapbnc",
-      "title": "Epoch AI 实测 GPT-5.6 与 Claude 5 长上下文延迟缩放差异",
-      "title_en": "Latency Scaling Differences for GPT and Claude Models",
-      "url": "https://epoch.ai/publications/long-context-latency-scaling-gpt-vs-claude",
-      "permalink": "https://aihot.news/items/cmtym46co0003robxz9gapbnc",
-      "source": "Epoch AI：研究、数据与评测",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "discoveredAt": "2026-09-08T00:00:00.000Z",
-      "summary": "Epoch AI 测量四款模型的首 token 延迟（TTFT）随上下文长度的缩放，发现 GPT-5.6 Terra 和 Sol 呈明显二次曲线，Claude Sonnet 5 接近线性，Opus 5 噪声较大但仍接近线性。",
-      "category": "paper",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtym46co0003robxz9gapbnc"
-      }
-    },
-    {
-      "id": "cmtym20dc0005rovuprjuu7xo",
-      "title": "vLLM x AgentX：面向真实世界智能体推理服务的全栈优化",
-      "title_en": "vLLM x AgentX： Optimizing for Real-World Agentic Serving",
-      "url": "https://vllm.ai/blog/2026-09-08-vllm-agentx",
-      "permalink": "https://aihot.news/items/cmtym20dc0005rovuprjuu7xo",
-      "source": "vLLM 官方博客（RSS）",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "discoveredAt": "2026-09-08T00:00:00.000Z",
-      "summary": "vLLM 团队发布针对智能体负载优化的博客，基于 SemiAnalysis 的公开 AgentX 基准展示成果：DeepSeek V4 Pro 在 GB300 上达到 83K total tokens/GPU-秒。",
-      "category": "tip",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtym20dc0005rovuprjuu7xo"
-      }
-    },
-    {
-      "id": "cmtu95yrj13zjrofpyi8l8y89",
-      "title": "OpenRouter 推出 shell 沙箱工具与 Files API，任何模型可在托管 Linux 容器中执行命令",
-      "title_en": "Give any model a terminal and files",
-      "url": "https://openrouter.ai/blog/announcements/shell-tool",
-      "permalink": "https://aihot.news/items/cmtu95yrj13zjrofpyi8l8y89",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "discoveredAt": "2026-09-09T15:27:51.366Z",
-      "summary": "OpenRouter 发布 openrouter：shell 服务端工具和 Files API，OpenRouter 上任何支持工具调用的模型都可在托管 Linux 容器中运行命令，两者现已在 beta 阶段开放。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtu95yrj13zjrofpyi8l8y89"
-      }
-    },
-    {
-      "id": "cmtt3hrxg02xarowa0a6iz1dc",
-      "title": "Tom Tunguz 分析 OpenAI 的 3x AI 生产力增益是否只是机器不睡觉",
-      "title_en": "Is the 3x AI Productivity Gain just a Computer that Never Sleeps？",
-      "url": "https://tomtunguz.com/openai-research-acceleration-agentic-productivity",
-      "permalink": "https://aihot.news/items/cmtt3hrxg02xarowa0a6iz1dc",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "discoveredAt": "2026-09-08T20:01:23.617Z",
-      "summary": "Tom Tunguz 引用 OpenAI 内部数据，分析其 3x 研究生产力增益的来源：每名研究员 8 小时班次对应 3.14 个 agent 工作日，通常并行运行 4 个 agent。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtt3hrxg02xarowa0a6iz1dc"
-      }
     }
   ],
-  "cachedAt": "2026-09-14T22:29:10Z"
+  "cachedAt": "2026-09-15T01:26:10Z"
 }
