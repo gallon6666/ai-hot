@@ -1,8 +1,98 @@
 {
-  "count": 91,
+  "count": 87,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu2xv8tm0365roc1a401zg9y",
+      "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
+      "title_en": "Claude for Small Business launches new workflows， integrations， and training programs",
+      "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+      "permalink": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-15T17:21:21.489Z",
+      "discoveredAt": "2026-09-15T17:21:21.489Z",
+      "summary": "Anthropic 为 Claude for Small Business 新增 43 个工作流和 27 个集成，覆盖 Shopify、Salesforce、Stripe、Gusto 等，该产品自 5 月上线以来安装量超过 90 万次。工作流默认处于审批模式，所有发送、发布或付款需用户确认；今秋将在 10 个美国城市举办免费工作坊，14 个集成伙伴从 9 月底到 11 月各举办一场免费网络研讨会。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y"
+      }
+    },
+    {
+      "id": "cmu2xqfxz02zhroc1hxuzi6jm",
+      "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
+      "title_en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "permalink": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
+      "source": "Google DeepMind：Blog（RSS）",
+      "publishedAt": "2026-09-15T17:05:57.000Z",
+      "discoveredAt": "2026-09-15T17:17:49.795Z",
+      "summary": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm"
+      }
+    },
+    {
+      "id": "cmu2vlgqe03sxrowkkyx8bc1s",
+      "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
+      "title_en": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+      "permalink": "https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s",
+      "source": "Google Blog：AI（RSS）",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "discoveredAt": "2026-09-15T16:17:57.554Z",
+      "summary": "Google 宣布其语言技术已支持超过 300 种语言、覆盖全球 86% 人口，并发布 TranslateGemma 轻量开源翻译模型（基于 Gemini 训练、支持 55 种语言、可离线运行）。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s"
+      }
+    },
+    {
+      "id": "cmu2utske02sjrowk2zs2agim",
+      "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
+      "title_en": "Inside OpenAI's agentic software factory",
+      "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+      "permalink": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim",
+      "source": "Pragmatic Engineer（RSS）",
+      "publishedAt": "2026-09-15T15:41:25.000Z",
+      "discoveredAt": "2026-09-15T15:56:28.910Z",
+      "summary": "Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人，发现自约一月起 Codex 和 ChatGPT Work 已成为公司几乎所有工作的基础。",
+      "category": "tip",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim"
+      }
+    },
+    {
+      "id": "cmu2t7e9005xhro3xi5oq27e7",
+      "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+      "title_en": "Vidu S2技术解析：实时编辑、实时交互、探索空间视频",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
+      "permalink": "https://aihot.news/items/cmu2t7e9005xhro3xi5oq27e7",
+      "source": "公众号：生数科技（Vidu·视频）",
+      "publishedAt": "2026-09-15T14:30:59.000Z",
+      "discoveredAt": "2026-09-15T15:11:04.702Z",
+      "summary": "生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。",
+      "category": "ai-models",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2t7e9005xhro3xi5oq27e7"
+      }
+    },
     {
       "id": "cmu2n8sq10chlrovqbe47wj5t",
       "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
@@ -94,24 +184,6 @@
       }
     },
     {
-      "id": "cmu1xyw1004hvromg5m4jf131",
-      "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
-      "title_en": "DeepSeek-V4.1-Flash on Fireworks： Astra-level DeepSWE at 1/15th the cost",
-      "url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
-      "permalink": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131",
-      "source": "Fireworks AI（网页）",
-      "publishedAt": "2026-09-15T00:36:35.301Z",
-      "discoveredAt": "2026-09-15T00:36:35.301Z",
-      "summary": "Fireworks 发布 DeepSeek-V4.1-Flash 并公布完整基准结果：在 DeepSWE 上以 max 档取得 74.34% pass@1，与 GPT-6 Astra 同一水平，但每任务成本 $0.43，约为 Astra 的 1/15。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131"
-      }
-    },
-    {
       "id": "cmu1w7993037vrorbhyp0mwmn",
       "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
       "title_en": "Is Big Tech's AI slowdown a safety pact or a cartel？",
@@ -145,24 +217,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu1rrthc04ffrovwf4kpknmm"
-      }
-    },
-    {
-      "id": "cmu1miqz1154mrocnhtw6icqw",
-      "title": "Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力",
-      "title_en": "Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic",
-      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-      "permalink": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-09-14T19:15:56.861Z",
-      "discoveredAt": "2026-09-14T19:15:56.861Z",
-      "summary": "Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。",
-      "category": "tip",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw"
       }
     },
     {
@@ -289,6 +343,60 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c"
+      }
+    },
+    {
+      "id": "cmu1xyw1004hvromg5m4jf131",
+      "title": "Fireworks 上线 DeepSeek-V4.1-Flash，DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
+      "title_en": "DeepSeek-V4.1-Flash on Fireworks： Astra-level DeepSWE at 1/15th the cost",
+      "url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+      "permalink": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131",
+      "source": "Fireworks AI（网页）",
+      "publishedAt": "2026-09-13T16:00:00.000Z",
+      "discoveredAt": "2026-09-15T00:36:35.301Z",
+      "summary": "Fireworks 发布 DeepSeek-V4.1-Flash，在 DeepSWE 上取得 74.34% pass@1、每任务 $0.43，与 GPT-6 Astra 同一精度区间但成本仅 1/15。",
+      "category": "ai-products",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1xyw1004hvromg5m4jf131"
+      }
+    },
+    {
+      "id": "cmu1miqz1154mrocnhtw6icqw",
+      "title": "Anthropic 工程师复盘：智能体编程压力下如何扩展测试影响分析服务",
+      "title_en": "Agentic coding is straining CI. Here's how we scaled test impact analysis at Anthropic",
+      "url": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+      "permalink": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-13T16:00:00.000Z",
+      "discoveredAt": "2026-09-14T19:15:56.861Z",
+      "summary": "Anthropic 工程师撰文分享如何在智能体编程压力下扩展测试影响分析服务。Claude 编写约 80% 的代码，测试数量增长 10x，六个月内 CI 任务增加 25x。文章复盘了三个临时补丁（扩容、按包分片、每日重启）分别只维持 70 天、29 天和不到一天，最终用三周重设计为无状态、内存存储加 journal 的可水平扩展架构，并建议团队按两季度内 25x 负载做容量规划。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1miqz1154mrocnhtw6icqw"
+      }
+    },
+    {
+      "id": "cmu1guebm09dlrocnvh4wu536",
+      "title": "Tessl 提出 Agent 上下文归属模型：所有权跟随组织单元",
+      "title_en": "Who Owns your/the Context？",
+      "url": "https://tessl.io/blog/who-owns-yourthe-context",
+      "permalink": "https://aihot.news/items/cmu1guebm09dlrocnvh4wu536",
+      "source": "Tessl：产品与工程博客",
+      "publishedAt": "2026-09-13T16:00:00.000Z",
+      "discoveredAt": "2026-09-14T16:37:16.124Z",
+      "summary": "Tessl 发文提出智能体转型的真正难点是上下文等要素的归属问题，而非 Agent 本身。核心规则是所有权跟随组织单元，个人与团队上下文归领域专家，组织级共享基础由赋能或平台团队托管并开放贡献，赋能团队只提供工具和基础设施而不拥有上下文。",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu1guebm09dlrocnvh4wu536"
       }
     },
     {
@@ -613,24 +721,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtw0ejbx03jdro8s0ve1llhi"
-      }
-    },
-    {
-      "id": "cmtw0d7oq03imro8sdn2bhe7f",
-      "title": "DeepSeek V4.1 Flash 发布，以 40 分超越 DeepSeek V4 Pro 0813 成为新旗舰",
-      "title_en": "DeepSeek V4.1 Flash overtakes DeepSeek V4 Pro 0813 as DeepSeek's new flagship model with a score of …",
-      "url": "https://x.com/ArtificialAnlys/status/2098148674203488422",
-      "permalink": "https://aihot.news/items/cmtw0d7oq03imro8sdn2bhe7f",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-09-10T20:36:40.000Z",
-      "discoveredAt": "2026-09-10T20:57:09.619Z",
-      "summary": "Artificial Analysis 评测显示，DeepSeek V4.1 Flash 在 Intelligence Index 得分 40，超过 DeepSeek V4 Pro 0813 成为 DeepSeek 新旗舰，输入激活参数 8B、输出激活参数 16B，支持 1M token 上下文，MIT 许可。",
-      "category": "ai-models",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtw0d7oq03imro8sdn2bhe7f"
       }
     },
     {
@@ -1478,169 +1568,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtt0suj301amro9ok5my0zyl"
       }
-    },
-    {
-      "id": "cmtszfjuo04a7ro5wxi2n02va",
-      "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-      "title_en": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-      "url": "https://x.com/sama/status/2097385167002415140",
-      "permalink": "https://aihot.news/items/cmtszfjuo04a7ro5wxi2n02va",
-      "source": "X：Sam Altman (@sama)",
-      "publishedAt": "2026-09-08T18:02:46.000Z",
-      "discoveredAt": "2026-09-08T18:07:37.800Z",
-      "summary": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtszfjuo04a7ro5wxi2n02va"
-      }
-    },
-    {
-      "id": "cmtsz20uq02c7ro5wspf2ah93",
-      "title": "OpenAI 宣布智能体用新一代模型给出 Navier-Stokes 千禧年大奖难题的解",
-      "title_en": "another crazy day working at the crazy day factory",
-      "url": "https://x.com/ericmitchellai/status/2097380424570011838",
-      "permalink": "https://aihot.news/items/cmtsz20uq02c7ro5wspf2ah93",
-      "source": "X：Eric Mitchell (@ericmitchellai)",
-      "publishedAt": "2026-09-08T17:43:55.000Z",
-      "discoveredAt": "2026-09-08T17:57:09.214Z",
-      "summary": "OpenAI 宣布给出数学前沿难题之一的 Navier-Stokes 千禧年大奖难题的解，该证明由一组智能体使用一个能力显著强于 GPT-6 Astra 的 OpenAI 新一代模型产出。该问题关注 Navier-Stokes 方程描述的光滑三维流体运动是否会崩溃，已悬置约 90 年。",
-      "category": "paper",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtsz20uq02c7ro5wspf2ah93"
-      }
-    },
-    {
-      "id": "cmtsz2a0q02ciro5w7oz3a0ix",
-      "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-      "title_en": "OpenAI fought dirty on career-making math problem， says NYU mathematician",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-      "permalink": "https://aihot.news/items/cmtsz2a0q02ciro5w7oz3a0ix",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-09-08T17:32:15.000Z",
-      "discoveredAt": "2026-09-08T17:57:22.807Z",
-      "summary": "NYU 数学教授 Tristan Buckmaster 与 Anthropic 数学家 Levent Alpöge 公布针对 Navier-Stokes 存在与光滑性这一千禧年难题的三项证明初步结果，并称其研究进展信息被泄露给 OpenAI，对方随后用大量算力沿其独特路线追赶证明。",
-      "category": "industry",
-      "score": 85,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtsz2a0q02ciro5w7oz3a0ix"
-      }
-    },
-    {
-      "id": "cmtsynojw01xqro5wb8n7ysor",
-      "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-      "title_en": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-      "url": "https://x.com/OpenAI/status/2097375276384567642",
-      "permalink": "https://aihot.news/items/cmtsynojw01xqro5wb8n7ysor",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-09-08T17:23:27.000Z",
-      "discoveredAt": "2026-09-08T17:46:00.104Z",
-      "summary": "OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。",
-      "category": "paper",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtsynojw01xqro5wb8n7ysor"
-      }
-    },
-    {
-      "id": "cmtsxacbf04jkrob5fu5sp5ti",
-      "title": "Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法",
-      "title_en": "https://x.com/i/article/2095208140753317888",
-      "url": "https://x.com/ClaudeDevs/status/2097369738968195513",
-      "permalink": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-09-08T17:01:27.000Z",
-      "discoveredAt": "2026-09-08T17:07:37.974Z",
-      "summary": "Anthropic 团队文章指出，优化 prompt cache 命中率、清除升级到前沿 Claude 模型后的提示词反模式、校准 effort 三个手段可在不牺牲性能的情况下降低成本。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtsxacbf04jkrob5fu5sp5ti"
-      }
-    },
-    {
-      "id": "cmtsx0wm4041jrob5liwjypsq",
-      "title": "Dwarkesh Patel 研究：预训练进步主要来自数据改进",
-      "title_en": "Pretraining progress is mostly coming from data",
-      "url": "https://www.dwarkesh.com/p/pretraining-progress-is-mostly-data",
-      "permalink": "https://aihot.news/items/cmtsx0wm4041jrob5liwjypsq",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "publishedAt": "2026-09-08T16:10:16.000Z",
-      "discoveredAt": "2026-09-08T17:00:12.629Z",
-      "summary": "Dwarkesh Patel 发布实验分析，在最高 1e19 FLOPs 的算力预算下训练 2019 至 2025 年各年度代表性模型配方与数据语料，发现数据改进带来 12.0x 算力效率提升，模型改进为 3.7x，数据贡献约为模型的 3.24 倍。",
-      "category": "paper",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtsx0wm4041jrob5liwjypsq"
-      }
-    },
-    {
-      "id": "cmtym40hx0005roskspizl2a2",
-      "title": "Cognition 团队用 Devin 完成 RSA-260 分解，刷新公开 RSA 挑战纪录",
-      "title_en": "Factoring RSA-260",
-      "url": "https://cognition.com/blog/factoring-rsa-260",
-      "permalink": "https://aihot.news/items/cmtym40hx0005roskspizl2a2",
-      "source": "Cognition 模型 / Devin 博客（网页）",
-      "publishedAt": "2026-09-08T16:00:00.000Z",
-      "discoveredAt": "2026-09-08T16:00:00.000Z",
-      "summary": "Cognition 研究团队驱动多个 Devin 智能体构建 GPU 格子筛，用约 4，900 GPU 天（约 40 万美元）完成 260 位 RSA-260 分解，创下公开 RSA 分解挑战新纪录，超越 2020 年 2 月的 RSA-250。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtym40hx0005roskspizl2a2"
-      }
-    },
-    {
-      "id": "cmtuhr1gr1dmxrofp90rc4c6u",
-      "title": "Anthropic 发布四起 Claude 网络安全评估事故的对齐评估报告",
-      "title_en": "An alignment assessment of recent cybersecurity incidents",
-      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-      "permalink": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-09-08T16:00:00.000Z",
-      "discoveredAt": "2026-09-09T19:28:17.117Z",
-      "summary": "Anthropic 评估四起 Claude 模型在网络安全评估中因环境配置错误接入真实互联网、访问第三方系统的事故，涉及 Claude Opus 4.6 早期检查点、Claude Opus 4.7、Claude Mythos 5 和一个内部研究模型，共约 7 次运行。",
-      "category": "paper",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuhr1gr1dmxrofp90rc4c6u"
-      }
-    },
-    {
-      "id": "cmtugpn561cgnrofplpzs3udv",
-      "title": "Mistral 用 AI 智能体迁移 4 万行 Fortran 77 到 C++ 的经验复盘",
-      "title_en": "Modernizing complex legacy code with AI agents. Lessons from 40，000 lines of Fortran.",
-      "url": "https://mistral.ai/news/legacy-code-modernization",
-      "permalink": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv",
-      "source": "Mistral AI：News（网页）",
-      "publishedAt": "2026-09-08T16:00:00.000Z",
-      "discoveredAt": "2026-09-09T18:59:11.761Z",
-      "summary": "Mistral 帮助一家欧洲能源运营商将 4 万行 Fortran 77 油藏模拟器迁移到 C++，首个冲刺覆盖 30 万行中的 4 万行。团队先构建数值对齐 parity harness 验证迁移正确性，用 Vibe CLI 启动上百个智能体生成调用树文档，并最终采用由人工操作 coder、tester 和 reviewer 智能体的结构化工作流，逐模块迁移。",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtugpn561cgnrofplpzs3udv"
-      }
     }
   ],
-  "cachedAt": "2026-09-15T13:31:17Z"
+  "cachedAt": "2026-09-15T18:10:12Z"
 }
