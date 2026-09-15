@@ -1,8 +1,44 @@
 {
-  "count": 89,
+  "count": 90,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu2d4jj405xcro25xm50v262",
+      "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+      "title_en": "阶跃发布语音大模型StepAudio 3，拿下多个全球第一！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+      "permalink": "https://aihot.news/items/cmu2d4jj405xcro25xm50v262",
+      "source": "公众号：阶跃星辰（Step）",
+      "publishedAt": "2026-09-15T07:29:56.000Z",
+      "discoveredAt": "2026-09-15T07:40:58.299Z",
+      "summary": "阶跃星辰发布 StepAudio 3 系列，包含 Realtime、ASR、TTS、Gen 和 Music 五款模型，已在阶跃星辰开放平台上线。",
+      "category": "ai-models",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2d4jj405xcro25xm50v262"
+      }
+    },
+    {
+      "id": "cmu23uewb08bfrow2t7lv6cxc",
+      "title": "Artificial Analysis 评测：GPT-Live-1 以 81.5 分登顶 Speech to Speech Index",
+      "title_en": "OpenAI's GPT-Live-1 debuts at #1 on the Artificial Analysis Speech to Speech Index at a score of 81….",
+      "url": "https://x.com/ArtificialAnlys/status/2099698254414029207",
+      "permalink": "https://aihot.news/items/cmu23uewb08bfrow2t7lv6cxc",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-09-15T03:14:09.000Z",
+      "discoveredAt": "2026-09-15T03:21:06.808Z",
+      "summary": "Artificial Analysis 发布 Speech to Speech Index，OpenAI 的 GPT-Live-1 以 81.5 分（Astra 后端，medium 推理强度）排名第一，超过 Grok Voice Think Fast 2.0 High 的 81.3；Sol 后端配置得 80.1 排第三。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu23uewb08bfrow2t7lv6cxc"
+      }
+    },
     {
       "id": "cmu1xyw1004hvromg5m4jf131",
       "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15",
@@ -235,6 +271,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v"
+      }
+    },
+    {
+      "id": "cmtyuqztw0bk6roupjaey0f6w",
+      "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+      "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+      "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+      "permalink": "https://aihot.news/items/cmtyuqztw0bk6roupjaey0f6w",
+      "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+      "publishedAt": "2026-09-12T20:18:42.000Z",
+      "discoveredAt": "2026-09-12T20:43:13.067Z",
+      "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmtyuqztw0bk6roupjaey0f6w"
       }
     },
     {
@@ -1568,43 +1622,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtszna9e04isro5woti0ixg6"
       }
-    },
-    {
-      "id": "cmtscjydz01garow6gi54pft9",
-      "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-      "title_en": "纳维-斯托克斯方程--特里斯坦·巴克马斯特 【pdf】",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "permalink": "https://aihot.news/items/cmtscjydz01garow6gi54pft9",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-08T07:20:02.739Z",
-      "discoveredAt": "2026-09-08T07:27:15.232Z",
-      "summary": "特里斯坦·巴克马斯特（Tristan Buckmaster）与 Levent Alpöge 公开三项有限时间 blowup 结果，涵盖带光滑强迫的不可压缩多孔介质方程。",
-      "category": "tip",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtscjydz01garow6gi54pft9"
-      }
-    },
-    {
-      "id": "cmts9dr2m029hrobq86wrny37",
-      "title": "Mistral 完成 30 亿欧元 D 轮融资，估值超 210 亿欧元",
-      "title_en": "Mistral raises €3B to make sovereign， open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion.",
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-      "permalink": "https://aihot.news/items/cmts9dr2m029hrobq86wrny37",
-      "source": "Mistral AI：News（网页）",
-      "publishedAt": "2026-09-08T05:58:27.839Z",
-      "discoveredAt": "2026-09-08T05:58:27.839Z",
-      "summary": "Mistral 宣布完成 30 亿欧元 D 轮融资，投后估值超过 210 亿欧元，公司称这是欧洲科技公司有史以来最大的股权融资，距其成立三年。",
-      "category": "industry",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmts9dr2m029hrobq86wrny37"
-      }
     }
   ],
-  "cachedAt": "2026-09-15T01:26:10Z"
+  "cachedAt": "2026-09-15T07:42:15Z"
 }
