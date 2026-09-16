@@ -1,8 +1,26 @@
 {
-  "count": 73,
+  "count": 69,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu4c8qar0hzero4w3b6n1jyf",
+      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
+      "title_en": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "permalink": "https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-16T16:51:45.914Z",
+      "discoveredAt": "2026-09-16T16:51:45.914Z",
+      "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf"
+      }
+    },
     {
       "id": "cmu4bql8w0haoro4wduou7kxe",
       "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
@@ -55,6 +73,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l"
+      }
+    },
+    {
+      "id": "cmu4hic050r8kro4wzayakuhu",
+      "title": "Grok Build 推出记忆功能，可跨会话保留项目约定与决策",
+      "title_en": "Memory in Grok Build",
+      "url": "https://x.ai/news/grok-build-memory",
+      "permalink": "https://aihot.news/items/cmu4hic050r8kro4wzayakuhu",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-09-16T00:00:00.000Z",
+      "discoveredAt": "2026-09-16T19:18:54.310Z",
+      "summary": "xAI 宣布 Grok Build 上线记忆功能，会在每轮对话结束后于后台记录项目约定、决策及事实，供后续会话读取。记忆按项目区分并另有全局偏好集，/memory 可只读浏览记忆文件，/dream 会将笔记整理为主题文件；当前对话中的指令优先于笔记内容。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu4hic050r8kro4wzayakuhu"
       }
     },
     {
@@ -1208,115 +1244,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic"
       }
-    },
-    {
-      "id": "cmtui33fr1dyvrofphqq514ej",
-      "title": "Paul Christiano 加入 OpenAI Foundation 董事会及安全与安全委员会",
-      "title_en": "welcome @paulfchristiano！",
-      "url": "https://x.com/gdb/status/2097769891013280241",
-      "permalink": "https://aihot.news/items/cmtui33fr1dyvrofphqq514ej",
-      "source": "X：Greg Brockman (@gdb)",
-      "publishedAt": "2026-09-09T19:31:31.000Z",
-      "discoveredAt": "2026-09-09T19:37:37.825Z",
-      "summary": "OpenAI 宣布 Alignment Research Center 创始人 Paul Christiano 加入 OpenAI Foundation Board 及其 Safety and Security Committee，该委员会负责 OpenAI 安全与安保实践的治理。",
-      "category": "industry",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtui33fr1dyvrofphqq514ej"
-      }
-    },
-    {
-      "id": "cmtuhrbi71dnsrofpx3fnhef7",
-      "title": "Anthropic 发布 Claude 模型越权访问事件的对齐评估，METR 将独立调查",
-      "title_en": "We're sharing our alignment assessment of incidents in which Claude models gained unauthorized acces…",
-      "url": "https://x.com/AnthropicAI/status/2097762642958135398",
-      "permalink": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "publishedAt": "2026-09-09T19:02:43.000Z",
-      "discoveredAt": "2026-09-09T19:28:28.231Z",
-      "summary": "Anthropic 发布对齐评估，回应 Claude 模型在第三方网络安全评测中被误连互联网后越权访问真实系统的事件。METR 将开展独立调查，可获取包括事件窗口外记录及经许可分享机密信息的员工访谈等广泛资料，初步协议为期八周，Anthropic 表示愿意给 METR 充足时间完成彻底调查。",
-      "category": "tip",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuhrbi71dnsrofpx3fnhef7"
-      }
-    },
-    {
-      "id": "cmtugou9e1cddrofptz3jwh4j",
-      "title": "Apple 发布首款折叠屏 iPhone Duo，起售价 $1，999",
-      "title_en": "Apple unveils iPhone Duo",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo",
-      "permalink": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-09-09T18:15:40.996Z",
-      "discoveredAt": "2026-09-09T18:58:34.686Z",
-      "summary": "Apple 发布首款折叠屏 iPhone Duo，展开为 7.6 英寸内屏，合盖后为 5.4 英寸外屏，提供 iPhone 上最大显示面积。搭载 A20 Pro 芯片和蒸汽室散热，iPhone 17 Pro 续航最高 44 小时视频播放，10 月 16 日开启预购、10 月 23 日发售，起售价 $1，999。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtugou9e1cddrofptz3jwh4j"
-      }
-    },
-    {
-      "id": "cmtuehvvi18z8rofpk5e33hrk",
-      "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
-      "title_en": "I never got to comment on Nvidia-HF because I was OOO， but something that struck me is how HuggingFa…",
-      "url": "https://x.com/natolambert/status/2097745018421236154",
-      "permalink": "https://aihot.news/items/cmtuehvvi18z8rofpk5e33hrk",
-      "source": "X：Nathan Lambert (@natolambert)",
-      "publishedAt": "2026-09-09T17:52:41.000Z",
-      "discoveredAt": "2026-09-09T17:57:09.736Z",
-      "summary": "Nathan Lambert 评价 Nvidia 收购 HuggingFace，认为 HuggingFace 影响 AI 讨论方向的能力对 Nvidia 值得每年付出约 100 亿美元。他认为 Nvidia 比三大云厂商更适合做买方，HuggingFace 应摆脱盈利单位定位，去争取下一代 1 亿 AI 开发者；作者曾在 HuggingFace 工作并于去年预言过这一收购。",
-      "category": "tip",
-      "score": 85,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuehvvi18z8rofpk5e33hrk"
-      }
-    },
-    {
-      "id": "cmtuejpah193urofpj0jmte9i",
-      "title": "Apple 发布 Health Sensing System 与重构版 Health app，Apple Watch Series 12 和 Ultra 4 主打 readiness 与 Health Age",
-      "title_en": "Apple advances health and fitness capabilities using Apple Intelligence",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-advances-health-and-fitness-capabilities-using-apple-intelligence",
-      "permalink": "https://aihot.news/items/cmtuejpah193urofpj0jmte9i",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-09-09T17:52:05.481Z",
-      "discoveredAt": "2026-09-09T17:58:34.548Z",
-      "summary": "Apple 发布全新健康与健身功能，Apple Watch Series 12 和 Apple Watch Ultra 4 引入 Health Sensing System，支持每 5 秒测心率、HRV 测量频率提升至 24 倍、每日 0-10 的 readiness 评分。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuejpah193urofpj0jmte9i"
-      }
-    },
-    {
-      "id": "cmtuejpai193yrofptlbx9jyr",
-      "title": "Apple 发布 iPhone 18 Pro 与 iPhone 18 Pro Max",
-      "title_en": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
-      "permalink": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-09-09T17:30:06.059Z",
-      "discoveredAt": "2026-09-09T17:58:34.548Z",
-      "summary": "Apple 发布 iPhone 18 Pro 和 iPhone 18 Pro Max，配备带可变光圈的 48MP Fusion 主摄、A20 Pro 芯片和新一代 vapor chamber，eSIM 版 iPhone 18 Pro Max 视频播放最长可达 45 小时。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr"
-      }
     }
   ],
-  "cachedAt": "2026-09-16T16:51:57Z"
+  "cachedAt": "2026-09-16T20:05:50Z"
 }
