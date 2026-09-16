@@ -1,8 +1,62 @@
 {
-  "count": 75,
+  "count": 73,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu4bql8w0haoro4wduou7kxe",
+      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+      "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+      "url": "https://x.com/bcherny/status/2100260544087535639",
+      "permalink": "https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe",
+      "source": "X：Boris Cherny (@bcherny)",
+      "publishedAt": "2026-09-16T16:28:29.000Z",
+      "discoveredAt": "2026-09-16T16:37:37.101Z",
+      "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu4bql8w0haoro4wduou7kxe"
+      }
+    },
+    {
+      "id": "cmu46kvju0bdsro4w0sonrv7q",
+      "title": "微软 AI CEO 警告\"模型福利\"论调",
+      "title_en": "https://x.com/i/article/2100222503125917696",
+      "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+      "permalink": "https://aihot.news/items/cmu46kvju0bdsro4w0sonrv7q",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
+      "publishedAt": "2026-09-16T14:01:39.000Z",
+      "discoveredAt": "2026-09-16T14:13:13.562Z",
+      "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu46kvju0bdsro4w0sonrv7q"
+      }
+    },
+    {
+      "id": "cmu4574wb09w5ro4w7cdwfm7l",
+      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+      "title_en": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "permalink": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-16T13:00:00.000Z",
+      "discoveredAt": "2026-09-16T13:34:31.714Z",
+      "summary": "OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允许用户在点击广告后与明确标识的商业赞助智能体对话，目前在美国部分广告主中测试。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l"
+      }
+    },
     {
       "id": "cmu36fa060aaqrosaqk9opwh9",
       "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
@@ -37,24 +91,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c"
-      }
-    },
-    {
-      "id": "cmu2xv8tm0365roc1a401zg9y",
-      "title": "Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划",
-      "title_en": "Claude for Small Business launches new workflows， integrations， and training programs",
-      "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
-      "permalink": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-09-15T17:21:21.489Z",
-      "discoveredAt": "2026-09-15T17:21:21.489Z",
-      "summary": "Anthropic 为 Claude for Small Business 新增 43 个工作流和 27 个集成，覆盖 Shopify、Salesforce、Stripe、Gusto 等，该产品自 5 月上线以来安装量超过 90 万次。工作流默认处于审批模式，所有发送、发布或付款需用户确认；今秋将在 10 个美国城市举办免费工作坊，14 个集成伙伴从 9 月底到 11 月各举办一场免费网络研讨会。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y"
       }
     },
     {
@@ -325,6 +361,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli"
+      }
+    },
+    {
+      "id": "cmu2xv8tm0365roc1a401zg9y",
+      "title": "Claude for Small Business 新增 43 个 workflow 与 27 个集成",
+      "title_en": "Claude for Small Business launches new workflows， integrations， and training programs",
+      "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+      "permalink": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-14T16:00:00.000Z",
+      "discoveredAt": "2026-09-15T17:21:21.489Z",
+      "summary": "Anthropic 为 Claude for Small Business 新增 43 个 workflow 和 27 个集成，覆盖 Shopify、Salesforce、TikTok、Zoom、Stripe、Zapier 等工具，该产品自 5 月上线以来安装量超过 90 万次。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y"
       }
     },
     {
@@ -1262,97 +1316,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtuejpai193yrofptlbx9jyr"
       }
-    },
-    {
-      "id": "cmtym40hx0004roske1zgdkmu",
-      "title": "Cognition 发布 SWE-2 编码模型，以更低成本逼近前沿",
-      "title_en": "Introducing SWE-2： Pushing the Pareto Frontier",
-      "url": "https://cognition.com/blog/swe-2",
-      "permalink": "https://aihot.news/items/cmtym40hx0004roske1zgdkmu",
-      "source": "Cognition 模型 / Devin 博客（网页）",
-      "publishedAt": "2026-09-09T16:00:00.000Z",
-      "discoveredAt": "2026-09-09T16:00:00.000Z",
-      "summary": "Cognition 发布最先进编码模型 SWE-2，基于 2.8T 参数的 Kimi K33 后训练，在 FrontierCode 1.1 Main 取得 50.0%，仅比 Fable 5.1 低不到一分且便宜 64%。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtym40hx0004roske1zgdkmu"
-      }
-    },
-    {
-      "id": "cmtvsxbrc068orofbs09dpez3",
-      "title": "Anthropic 红队评测 AI 模型的战术情报定位与常规武器开发能力",
-      "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "permalink": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-09-09T16:00:00.000Z",
-      "discoveredAt": "2026-09-10T17:28:52.100Z",
-      "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账号关联、照片与文本地理定位）和常规武器开发（无人机末制导、投放、GPS 拒止导航）上的能力，发现模型在模拟任务上持续进步，部分任务接近或超过人类专家基线。",
-      "category": "paper",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvsxbrc068orofbs09dpez3"
-      }
-    },
-    {
-      "id": "cmtud99z117yurofph84r3cio",
-      "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
-      "title_en": "GPT-6 Astra， looped transformers， and hidden reasoning",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "permalink": "https://aihot.news/items/cmtud99z117yurofph84r3cio",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-09T14:37:47.000Z",
-      "discoveredAt": "2026-09-09T17:22:29.350Z",
-      "summary": "OpenAI 发布 GPT-6 Astra，作者评测认为其计算机使用和图像渲染能力尤为突出，ARC-AGI-3 达 99.9%，前代 GPT-5.6 Sol 仅 7.8%。",
-      "category": "tip",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtud99z117yurofph84r3cio"
-      }
-    },
-    {
-      "id": "cmtu4vcfo0zj1rofpcmeg65vo",
-      "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-      "title_en": "Scenarios for our Economic Future",
-      "url": "https://www.anthropic.com/institute/econ-scenarios",
-      "permalink": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo",
-      "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-      "publishedAt": "2026-09-09T13:27:40.545Z",
-      "discoveredAt": "2026-09-09T13:27:40.545Z",
-      "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
-      "category": "tip",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtu4vcfo0zj1rofpcmeg65vo"
-      }
-    },
-    {
-      "id": "cmturgfqq0c5prorpcycuemwl",
-      "title": "OpenAI 呼吁抓住 AI 政策窗口期，支持强制性国家安全监管与四项加州法案",
-      "title_en": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "permalink": "https://aihot.news/items/cmturgfqq0c5prorpcycuemwl",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-09T13:00:00.000Z",
-      "discoveredAt": "2026-09-09T23:59:57.567Z",
-      "summary": "OpenAI 宣布推动强制性、基于能力的国家 AI 安全监管，并正式支持四项已通过加州议会的法案：SB 813（独立安全评估基础设施）、AB 1405（AI 审计师标准）、SB 1119（未成年人保护）、AB 1864（防范 AI 生物威胁）。",
-      "category": "tip",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmturgfqq0c5prorpcycuemwl"
-      }
     }
   ],
-  "cachedAt": "2026-09-16T11:28:37Z"
+  "cachedAt": "2026-09-16T16:51:57Z"
 }
