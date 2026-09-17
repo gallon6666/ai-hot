@@ -1,5 +1,5 @@
 {
-  "count": 64,
+  "count": 59,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1064,97 +1064,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtvnvq3r0g0dronbaqql51u3"
       }
-    },
-    {
-      "id": "cmtvj9kae0aq1ronbfyxuewfb",
-      "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
-      "title_en": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
-      "permalink": "https://aihot.news/items/cmtvj9kae0aq1ronbfyxuewfb",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-10T12:40:51.000Z",
-      "discoveredAt": "2026-09-10T12:58:25.117Z",
-      "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
-      "category": "ai-models",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvj9kae0aq1ronbfyxuewfb"
-      }
-    },
-    {
-      "id": "cmtw4o8qc03iwrolkwc03elil",
-      "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
-      "title_en": "Introducing Projects",
-      "url": "https://cursor.com/blog/projects",
-      "permalink": "https://aihot.news/items/cmtw4o8qc03iwrolkwc03elil",
-      "source": "Cursor Blog",
-      "publishedAt": "2026-09-10T12:00:00.000Z",
-      "discoveredAt": "2026-09-10T22:57:43.796Z",
-      "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtw4o8qc03iwrolkwc03elil"
-      }
-    },
-    {
-      "id": "cmtyjejg90006rotlkmqx93kl",
-      "title": "Tripo 展示 GPT-6 Astra 与 Blender MCP 结合的 3D Vibe Coding 实操工作流",
-      "title_en": "This is what 3D Vibe Coding looks like in practice. An incredible use case combining Tripo for hig…",
-      "url": "https://x.com/tripoai/status/2097972692200940013",
-      "permalink": "https://aihot.news/items/cmtyjejg90006rotlkmqx93kl",
-      "source": "Tripo（官方 X）",
-      "publishedAt": "2026-09-10T08:57:22.000Z",
-      "discoveredAt": "2026-09-10T08:57:22.000Z",
-      "summary": "Tripo 转发用户案例，展示用 Images 2.5、Tripo 智能网格 P2.0、GPT-6 Astra 和 Blender MCP 以 AI 为主制作 3D 角色的完整流程。作者几乎只做视图操作，通过截图加参考图让 Astra 修正形状与纹理，并指出纹理修正在细节上仍较粗糙。作者称此前在 GPT-5.6 Sol 上反复失败的操作在 Astra 上可以直接完成。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtyjejg90006rotlkmqx93kl"
-      }
-    },
-    {
-      "id": "cmtvb4b5s085erok9gose1mcf",
-      "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-      "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-      "url": "https://x.com/kimmonismus/status/2097970735591366804",
-      "permalink": "https://aihot.news/items/cmtvb4b5s085erok9gose1mcf",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-09-10T08:49:36.000Z",
-      "discoveredAt": "2026-09-10T09:10:23.034Z",
-      "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
-      "category": "ai-models",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvb4b5s085erok9gose1mcf"
-      }
-    },
-    {
-      "id": "cmtva1qh206burok9zip2wdid",
-      "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
-      "title_en": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
-      "url": "https://x.com/kimmonismus/status/2097962333767102665",
-      "permalink": "https://aihot.news/items/cmtva1qh206burok9zip2wdid",
-      "source": "X：Kim (@kimmonismus)",
-      "publishedAt": "2026-09-10T08:16:13.000Z",
-      "discoveredAt": "2026-09-10T08:40:23.050Z",
-      "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
-      "category": "ai-models",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtva1qh206burok9zip2wdid"
-      }
     }
   ],
-  "cachedAt": "2026-09-17T07:36:40Z"
+  "cachedAt": "2026-09-17T13:25:06Z"
 }
