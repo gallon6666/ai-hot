@@ -1,5 +1,5 @@
 {
-  "count": 66,
+  "count": 64,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1154,43 +1154,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtva1qh206burok9zip2wdid"
       }
-    },
-    {
-      "id": "cmtv7kmzk02vdrok9y0y8njiv",
-      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-      "title_en": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
-      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-      "permalink": "https://aihot.news/items/cmtv7kmzk02vdrok9y0y8njiv",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-09-10T07:31:01.000Z",
-      "discoveredAt": "2026-09-10T07:31:07.541Z",
-      "summary": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。",
-      "category": "ai-models",
-      "score": 87,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtv7kmzk02vdrok9y0y8njiv"
-      }
-    },
-    {
-      "id": "cmtv48yni0oq5rorpf4o74549",
-      "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-      "title_en": "DeepSeek-V4.1-Flash 发布",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10",
-      "permalink": "https://aihot.news/items/cmtv48yni0oq5rorpf4o74549",
-      "source": "DeepSeek：API 更新日志",
-      "publishedAt": "2026-09-10T05:58:04.695Z",
-      "discoveredAt": "2026-09-10T05:58:04.695Z",
-      "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
-      "category": "ai-models",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtv48yni0oq5rorpf4o74549"
-      }
     }
   ],
-  "cachedAt": "2026-09-17T01:23:24Z"
+  "cachedAt": "2026-09-17T07:36:40Z"
 }
