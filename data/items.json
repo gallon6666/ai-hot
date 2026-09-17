@@ -1,8 +1,98 @@
 {
-  "count": 59,
+  "count": 57,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu5tujnp0jvoroqoq64oqnjr",
+      "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
+      "title_en": "Projects redesigned： from folder to conversation",
+      "url": "https://claude.com/blog/projects-redesigned",
+      "permalink": "https://aihot.news/items/cmu5tujnp0jvoroqoq64oqnjr",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-17T17:52:08.951Z",
+      "discoveredAt": "2026-09-17T17:52:08.951Z",
+      "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu5tujnp0jvoroqoq64oqnjr"
+      }
+    },
+    {
+      "id": "cmu5smj860insroqokcuh0u9v",
+      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+      "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "permalink": "https://aihot.news/items/cmu5smj860insroqokcuh0u9v",
+      "source": "Qwen：Blog Retrieval（API）",
+      "publishedAt": "2026-09-17T17:18:08.568Z",
+      "discoveredAt": "2026-09-17T17:18:08.568Z",
+      "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu5smj860insroqokcuh0u9v"
+      }
+    },
+    {
+      "id": "cmu5r7kl30h35roqonpk4qypn",
+      "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊",
+      "title_en": "Models know when they're reward hacking - and we can catch them at scale",
+      "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+      "permalink": "https://aihot.news/items/cmu5r7kl30h35roqonpk4qypn",
+      "source": "Goodfire Research（网页）",
+      "publishedAt": "2026-09-17T16:38:32.383Z",
+      "discoveredAt": "2026-09-17T16:38:32.383Z",
+      "summary": "Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，可用简单探针实时检测。在 Kimi K3、GLM 5.2、Qwen 3.8 Max 三个开源模型的三个智能体基准上，50-96% 的 rollout 出现奖励作弊；探针能捕捉 LLM 链式思维监测漏掉的作弊案例，且可泛化到训练数据之外的任务。",
+      "category": "paper",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu5r7kl30h35roqonpk4qypn"
+      }
+    },
+    {
+      "id": "cmu5qsx2y0gpfroqonmogw4sk",
+      "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+      "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/noam-brown",
+      "permalink": "https://aihot.news/items/cmu5qsx2y0gpfroqonmogw4sk",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "publishedAt": "2026-09-17T15:38:13.000Z",
+      "discoveredAt": "2026-09-17T16:27:03.558Z",
+      "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
+      "category": "tip",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu5qsx2y0gpfroqonmogw4sk"
+      }
+    },
+    {
+      "id": "cmu5ocffd0duoroqoykax6pm1",
+      "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
+      "title_en": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+      "url": "https://x.com/UnslothAI/status/2100601458458804381",
+      "permalink": "https://aihot.news/items/cmu5ocffd0duoroqoykax6pm1",
+      "source": "X：Unsloth (@UnslothAI)",
+      "publishedAt": "2026-09-17T15:03:09.000Z",
+      "discoveredAt": "2026-09-17T15:18:18.910Z",
+      "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu5ocffd0duoroqoykax6pm1"
+      }
+    },
     {
       "id": "cmu4tu41w07ufrokck6s0p0cp",
       "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
@@ -73,24 +163,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu4nyoxd07n9rodcxgc06f52"
-      }
-    },
-    {
-      "id": "cmu4c8qar0hzero4w3b6n1jyf",
-      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
-      "title_en": "Claude Cowork and chat are now one Claude",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
-      "permalink": "https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-09-16T16:51:45.914Z",
-      "discoveredAt": "2026-09-16T16:51:45.914Z",
-      "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf"
       }
     },
     {
@@ -217,6 +289,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm"
+      }
+    },
+    {
+      "id": "cmu4c8qar0hzero4w3b6n1jyf",
+      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一 Claude，并推出 Docs 和 Slides",
+      "title_en": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "permalink": "https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "discoveredAt": "2026-09-16T16:51:45.914Z",
+      "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，并沿用已有的上下文、skills 和 connectors。",
+      "category": "ai-products",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf"
       }
     },
     {
@@ -938,133 +1028,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtw0ejbx03jdro8s0ve1llhi"
       }
-    },
-    {
-      "id": "cmtym2c3q0003rob0w6kxvnn3",
-      "title": "LlamaIndex 解析 just-in-time Agentic OCR：两遍式文档处理如何平衡成本与精度",
-      "title_en": "Just-in-Time Agentic OCR",
-      "url": "https://www.llamaindex.ai/blog/just-in-time-agentic-ocr",
-      "permalink": "https://aihot.news/items/cmtym2c3q0003rob0w6kxvnn3",
-      "source": "LlamaIndex：产品、工程与评测",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
-      "discoveredAt": "2026-09-10T16:00:00.000Z",
-      "summary": "LlamaIndex 博客提出 just-in-time Agentic OCR 模式：先用 LiteParse 等免费解析器粗读全部文件供检索，再仅对相关页面调用 VLM 做 OCR。",
-      "category": "tip",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtym2c3q0003rob0w6kxvnn3"
-      }
-    },
-    {
-      "id": "cmtym29350002roszb5f930dv",
-      "title": "Augment 复盘软件工厂建设：人均规模调整产出增长 4.5 倍",
-      "title_en": "Beyond AI Coding Agents： How We Built Augment's Software Factory",
-      "url": "https://www.augmentcode.com/blog/beyond-ai-coding-agents-how-we-built-augments-software-factory",
-      "permalink": "https://aihot.news/items/cmtym29350002roszb5f930dv",
-      "source": "Augment Code 博客（网页）",
-      "publishedAt": "2026-09-10T16:00:00.000Z",
-      "discoveredAt": "2026-09-10T16:00:00.000Z",
-      "summary": "Augment Code 发布长文，复盘其九个月建设的软件工厂：2025 年 11 月至 2026 年 7 月，基于 Cosmos 平台在需求、工单、PR、生产四个环节部署 PR Author。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtym29350002roszb5f930dv"
-      }
-    },
-    {
-      "id": "cmtvqbs1q03q9rofb98re4l3n",
-      "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
-      "title_en": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
-      "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
-      "permalink": "https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n",
-      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-      "publishedAt": "2026-09-10T15:49:16.000Z",
-      "discoveredAt": "2026-09-10T16:16:00.550Z",
-      "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
-      "category": "ai-models",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvqbs1q03q9rofb98re4l3n"
-      }
-    },
-    {
-      "id": "cmtvp95oo0h1yronb8scij5jx",
-      "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-      "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-      "url": "https://x.com/GoogleAI/status/2098072879480947085",
-      "permalink": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx",
-      "source": "X：Google AI (@GoogleAI)",
-      "publishedAt": "2026-09-10T15:35:29.000Z",
-      "discoveredAt": "2026-09-10T15:46:00.255Z",
-      "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvp95oo0h1yronb8scij5jx"
-      }
-    },
-    {
-      "id": "cmtvom4k90ghtronbwks6e67t",
-      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-      "title_en": "Shopify 从 React Native 重新回归到原生开发",
-      "url": "https://shopify.engineering/back-to-native",
-      "permalink": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-10T15:04:41.487Z",
-      "discoveredAt": "2026-09-10T15:28:10.346Z",
-      "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
-      "category": "industry",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvom4k90ghtronbwks6e67t"
-      }
-    },
-    {
-      "id": "cmtvopug40gnbronbmfh6c077",
-      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
-      "title_en": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "permalink": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-10T15:00:00.000Z",
-      "discoveredAt": "2026-09-10T15:31:01.410Z",
-      "summary": "OpenAI 在 ChatGPT Work 中推出新的 Data agent，用户用自然语言即可连接公司数据、分析变化并生成可分享的交互式仪表盘。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvopug40gnbronbmfh6c077"
-      }
-    },
-    {
-      "id": "cmtvnvq3r0g0dronbaqql51u3",
-      "title": "OpenRouter 推出有状态 Shell 工具 `openrouter：shell` 并上线 Files API",
-      "title_en": "New stateful server tool： Shell！ Any model on OpenRouter can now run commands in a hosted Linux con…",
-      "url": "https://x.com/OpenRouter/status/2098063468759027725",
-      "permalink": "https://aihot.news/items/cmtvnvq3r0g0dronbaqql51u3",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "publishedAt": "2026-09-10T14:58:05.000Z",
-      "discoveredAt": "2026-09-10T15:07:37.367Z",
-      "summary": "OpenRouter 推出新的有状态服务端工具 Shell，任何 OpenRouter 上的模型都可以在托管的 Linux 容器中运行命令。该功能今日起以 beta 形式提供，代号为 `openrouter：shell`，同时新增 Files API 用于在容器内外传输文件。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvnvq3r0g0dronbaqql51u3"
-      }
     }
   ],
-  "cachedAt": "2026-09-17T13:25:06Z"
+  "cachedAt": "2026-09-17T18:11:13Z"
 }
