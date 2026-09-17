@@ -1,8 +1,62 @@
 {
-  "count": 70,
+  "count": 66,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu4tu41w07ufrokck6s0p0cp",
+      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+      "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "permalink": "https://aihot.news/items/cmu4tu41w07ufrokck6s0p0cp",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-09-17T00:26:43.000Z",
+      "discoveredAt": "2026-09-17T01:04:16.828Z",
+      "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
+      "category": "tip",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu4tu41w07ufrokck6s0p0cp"
+      }
+    },
+    {
+      "id": "cmu4s9jrn0683rokccdfqwbux",
+      "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+      "title_en": "分享一个大幅节省Codex额度的邪修方法，不要浪费了你的ChatGPT Pro会员。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+      "permalink": "https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-17T00:09:06.000Z",
+      "discoveredAt": "2026-09-17T00:20:17.923Z",
+      "summary": "自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux"
+      }
+    },
+    {
+      "id": "cmu4qd86t048trokcz1lw2xxu",
+      "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+      "title_en": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+      "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "permalink": "https://aihot.news/items/cmu4qd86t048trokcz1lw2xxu",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "publishedAt": "2026-09-16T22:58:50.000Z",
+      "discoveredAt": "2026-09-16T23:27:09.073Z",
+      "summary": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。",
+      "category": "tip",
+      "score": 83,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu4qd86t048trokcz1lw2xxu"
+      }
+    },
     {
       "id": "cmu4nyoxd07n9rodcxgc06f52",
       "title": "OpenAI 发布模型失准披露框架并公开六份失准报告",
@@ -1136,133 +1190,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtv48yni0oq5rorpf4o74549"
       }
-    },
-    {
-      "id": "cmtussvq60dj0rorpnzdh4g3k",
-      "title": "Suno v6 发布，支持图片、视频和语音备忘录生成音乐",
-      "title_en": "Suno v6 is here. Turn images， videos， and voice memos into music. Make precise changes to songs you…",
-      "url": "https://x.com/suno/status/2097846245540888664",
-      "permalink": "https://aihot.news/items/cmtussvq60dj0rorpnzdh4g3k",
-      "source": "X：Suno (@suno)",
-      "publishedAt": "2026-09-10T00:34:55.000Z",
-      "discoveredAt": "2026-09-10T00:37:37.454Z",
-      "summary": "Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐，并对已创建的歌曲进行精确修改。同时提供 v6-wild 版本供探索更多可能性，官方附有 2 分钟以内的功能演示视频。",
-      "category": "ai-models",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtussvq60dj0rorpnzdh4g3k"
-      }
-    },
-    {
-      "id": "cmturtlc70cqurorpv4fsfr4t",
-      "title": "27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局",
-      "title_en": "一个27岁的AI研究员从Anthropic辞职了，因为他担心AI会导致人类灭绝。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb",
-      "permalink": "https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-09-10T00:08:00.000Z",
-      "discoveredAt": "2026-09-10T00:10:11.215Z",
-      "summary": "27岁研究员Jacob Coxon辞职并称OpenAI与Anthropic正押上所有人生命奔向自我改进的超级智能，Anthropic对齐负责人公开支持。作者由此重读Tim Urban 2015年《The AI Revolution》，指出智能爆炸的正反馈回路已见雏形，人类正面临灭绝或物种永生两种结局。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmturtlc70cqurorpv4fsfr4t"
-      }
-    },
-    {
-      "id": "cmu10mxhc08m6ro2nafd8smam",
-      "title": "Hugging Face 用 LoRA 与 Storage Bucket 在 HF Jobs 上跑异步 GRPO，免 NCCL 并提速 3.9 倍",
-      "title_en": "Async GRPO with LoRA across HF Jobs： a bucket， a proxy， and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "permalink": "https://aihot.news/items/cmu10mxhc08m6ro2nafd8smam",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "discoveredAt": "2026-09-10T00:00:00.000Z",
-      "summary": "Hugging Face 在 TRL v1.14 的 AsyncGRPOTrainer 中支持只训练和同步 LoRA adapter，配合 Storage Bucket 挂载与代理路由，让训练 Job 和 vLLM 推理 Job 在不同机器上运行而无需 NCCL。",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu10mxhc08m6ro2nafd8smam"
-      }
-    },
-    {
-      "id": "cmtx301no054wroedi0krzdye",
-      "title": "OpenRouter 发布 Fusion 复合模型，让多个模型辩论后合成最终答案",
-      "title_en": "OpenRouter Fusion： How It Works and When to Use It",
-      "url": "https://openrouter.ai/blog/insights/fusion-explainer",
-      "permalink": "https://aihot.news/items/cmtx301no054wroedi0krzdye",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "discoveredAt": "2026-09-11T14:58:37.870Z",
-      "summary": "OpenRouter 发布 Fusion 复合推理系统，将一个提示词并行发给 1 到 8 个面板模型，由 judge 比较共识与分歧后由调用模型写出最终答案。默认三模型面板成本约为单次完成的四到五倍、延迟两到三倍，在 DRACO 深度研究基准上预算面板得 64.7%、前沿面板得 69.0%。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtx301no054wroedi0krzdye"
-      }
-    },
-    {
-      "id": "cmtvywm6902omrojit3fo7bjv",
-      "title": "OpenAI 发布 Agents API 公测版",
-      "title_en": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "permalink": "https://aihot.news/items/cmtvywm6902omrojit3fo7bjv",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "discoveredAt": "2026-09-10T20:16:15.888Z",
-      "summary": "OpenAI 推出 Agents API 公开测试版，将驱动 Codex 的 harness 与基础设施通过单次 API 调用开放给开发者，托管在云端。",
-      "category": "ai-products",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvywm6902omrojit3fo7bjv"
-      }
-    },
-    {
-      "id": "cmtvsgyqs05vkrofbgg06yzsa",
-      "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1",
-      "title_en": "Build more natural voice experiences with GPT-Live-1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "permalink": "https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "discoveredAt": "2026-09-10T17:16:06.503Z",
-      "summary": "OpenAI 在 API 中发布语音模型 GPT-Live-1，可同时听和说，支持将推理和工具调用委派给 GPT-6 Astra 等后端模型，前端语音层定价为每分钟 $0.05。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvsgyqs05vkrofbgg06yzsa"
-      }
-    },
-    {
-      "id": "cmtvh5qcn05vfronbsu51vfic",
-      "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
-      "title_en": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "permalink": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic",
-      "source": "Hugging Face：Blog（RSS）",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "discoveredAt": "2026-09-10T11:59:27.962Z",
-      "summary": "Hugging Face 发布 Workflow1111，用 gr.Workflow 以 73 个节点、11 条媒体管线重建 AUTOMATIC1111 的大部分功能，覆盖文本生成图像、高清修复、图生图、prompt matrix、VLM 反推提示词、检测生成 inpaint 蒙版、ControlNet 式预处理器、背景移除、PNG Info 和图生视频。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtvh5qcn05vfronbsu51vfic"
-      }
     }
   ],
-  "cachedAt": "2026-09-16T22:54:48Z"
+  "cachedAt": "2026-09-17T01:23:24Z"
 }
