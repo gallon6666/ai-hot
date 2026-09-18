@@ -1,8 +1,44 @@
 {
-  "count": 65,
+  "count": 66,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu6h4gdc0oh9rofjwfl983n6",
+      "title": "Hacktron 披露利用 libheif 漏洞与 OpenAI SSO 缺陷接管员工 ChatGPT 账户的过程",
+      "title_en": "Hacking OpenAI",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "permalink": "https://aihot.news/items/cmu6h4gdc0oh9rofjwfl983n6",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-18T02:47:24.000Z",
+      "discoveredAt": "2026-09-18T04:43:55.447Z",
+      "summary": "Hacktron 团队于 2026 年 7 月 25 日在 72 小时内串联两个漏洞，通过 community.openai.com 论坛的 libheif 堆缓冲区溢出实现 RCE，再借 OpenAI SSO 缺陷接管员工 ChatGPT/Codex 账户，并用员工 Codex 在 OpenAI 内部 monorepo 打开 PR #1186742 作为证明。",
+      "category": "tip",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu6h4gdc0oh9rofjwfl983n6"
+      }
+    },
+    {
+      "id": "cmu67pecj0e0wrofj97vtuwzu",
+      "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+      "title_en": "这个只会做选择题的Jev，却是今年我看到的最特别的大模型。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
+      "permalink": "https://aihot.news/items/cmu67pecj0e0wrofj97vtuwzu",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-18T00:08:00.000Z",
+      "discoveredAt": "2026-09-18T00:20:18.275Z",
+      "summary": "TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。",
+      "category": "tip",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu67pecj0e0wrofj97vtuwzu"
+      }
+    },
     {
       "id": "cmu66hcff0ci8rofjhs1az9qz",
       "title": "ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增",
@@ -271,6 +307,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu4s9jrn0683rokccdfqwbux"
+      }
+    },
+    {
+      "id": "cmu6ds2t00kqarofjrwmdwjyh",
+      "title": "DeepSeek-V4.1-Flash 发布：552B MoE 多模态模型主打 KV cache 压缩",
+      "title_en": "DeepSeek-V4.1-Flash： Pushing the Limits of KV Cache Compression",
+      "url": "https://arxiv.org/abs/2609.19969",
+      "permalink": "https://aihot.news/items/cmu6ds2t00kqarofjrwmdwjyh",
+      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "discoveredAt": "2026-09-18T03:10:21.114Z",
+      "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，一个 552B 参数的多模态 MoE 模型，支持最长 100 万 token 上下文，模型权重已在 Hugging Face 开放。",
+      "category": "ai-models",
+      "score": 85,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu6ds2t00kqarofjrwmdwjyh"
       }
     },
     {
@@ -1136,43 +1190,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv"
       }
-    },
-    {
-      "id": "cmtwsc5gt09uarow7n2r2jrz3",
-      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-      "title_en": "实测DeepSeek V4.1 Flash，降价后熟悉的梁圣又回来了",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-      "permalink": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3",
-      "source": "公众号：卡尔的AI沃茨",
-      "publishedAt": "2026-09-11T04:24:28.000Z",
-      "discoveredAt": "2026-09-11T10:00:10.584Z",
-      "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtwsc5gt09uarow7n2r2jrz3"
-      }
-    },
-    {
-      "id": "cmtw9fws408trrolkp9glkz9j",
-      "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
-      "title_en": "Grok @Bot summary of SpaceX CFO talk",
-      "url": "https://x.com/elonmusk/status/2098217236771295567",
-      "permalink": "https://aihot.news/items/cmtw9fws408trrolkp9glkz9j",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "publishedAt": "2026-09-11T01:09:06.000Z",
-      "discoveredAt": "2026-09-11T01:11:11.949Z",
-      "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtw9fws408trrolkp9glkz9j"
-      }
     }
   ],
-  "cachedAt": "2026-09-18T00:15:17Z"
+  "cachedAt": "2026-09-18T04:45:16Z"
 }
