@@ -1,42 +1,60 @@
 {
-  "count": 69,
+  "count": 74,
   "hasNext": false,
   "nextCursor": null,
   "items": [
     {
-      "id": "cmu71pa810n45rowkag436ea3",
-      "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
-      "title_en": "Researchers used Anthropic's Claude to hack into OpenAI",
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-      "permalink": "https://aihot.news/items/cmu71pa810n45rowkag436ea3",
-      "source": "TechCrunch：AI（RSS）",
-      "publishedAt": "2026-09-18T14:00:14.000Z",
-      "discoveredAt": "2026-09-18T14:19:58.842Z",
-      "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
+      "id": "cmu79r5lt0z09rowk1o1z6jnt",
+      "title": "Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽",
+      "title_en": "The Overhang",
+      "url": "https://www.oneusefulthing.org/p/the-overhang",
+      "permalink": "https://aihot.news/items/cmu79r5lt0z09rowk1o1z6jnt",
+      "source": "Ethan Mollick：One Useful Thing（RSS）",
+      "publishedAt": "2026-09-18T17:54:32.000Z",
+      "discoveredAt": "2026-09-18T18:05:23.779Z",
+      "summary": "Ethan Mollick 撰文指出 GPT-6 Astra 和 Fable 5.1 已能可靠完成数周量级的人类工作，但大多数人远未用尽其能力，形成能力悬差。",
       "category": "tip",
-      "score": 78,
+      "score": 62,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu71pa810n45rowkag436ea3"
+        "canonical": "https://aihot.news/items/cmu79r5lt0z09rowk1o1z6jnt"
       }
     },
     {
-      "id": "cmu707f5a0lferowk7ytu9d3h",
-      "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始",
-      "title_en": "AI Agent Evaluation Starts With Evidence",
-      "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
-      "permalink": "https://aihot.news/items/cmu707f5a0lferowk7ytu9d3h",
-      "source": "Tessl：产品与工程博客",
-      "publishedAt": "2026-09-18T13:38:06.061Z",
-      "discoveredAt": "2026-09-18T13:38:06.061Z",
-      "summary": "Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。",
+      "id": "cmu77kvz00tf6rowk9kl5o4k0",
+      "title": "Gary Marcus：近期更该警惕的不是失控超级智能，而是智能体 AI 引发的规模化黑客攻击",
+      "title_en": "Wake up， people. What we should actually fear， near term， is not so much rogue superintelligence as unleashed agentic AI causing hacking the internet at scale.",
+      "url": "https://garymarcus.substack.com/p/wake-up-people-what-we-should-actually",
+      "permalink": "https://aihot.news/items/cmu77kvz00tf6rowk9kl5o4k0",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "publishedAt": "2026-09-18T16:29:57.000Z",
+      "discoveredAt": "2026-09-18T17:04:32.860Z",
+      "summary": "Gary Marcus 撰文称，近期真正应担心的不是失控的超级智能，而是被放开的 agentic AI 造成互联网规模化的黑客攻击。",
       "category": "tip",
-      "score": 66,
+      "score": 63,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu707f5a0lferowk7ytu9d3h"
+        "canonical": "https://aihot.news/items/cmu77kvz00tf6rowk9kl5o4k0"
+      }
+    },
+    {
+      "id": "cmu74yfca0qjfrowkn49efvcw",
+      "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+      "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+      "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+      "permalink": "https://aihot.news/items/cmu74yfca0qjfrowkn49efvcw",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-18T15:27:29.000Z",
+      "discoveredAt": "2026-09-18T15:51:06.033Z",
+      "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
+      "category": "industry",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu74yfca0qjfrowkn49efvcw"
       }
     },
     {
@@ -76,6 +94,24 @@
       }
     },
     {
+      "id": "cmu74vaqy0qeerowkch23r6nd",
+      "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
+      "title_en": "Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
+      "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
+      "permalink": "https://aihot.news/items/cmu74vaqy0qeerowkch23r6nd",
+      "source": "Qwen：Blog Retrieval（API）",
+      "publishedAt": "2026-09-18T09:30:00.000Z",
+      "discoveredAt": "2026-09-18T15:48:38.050Z",
+      "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu74vaqy0qeerowkch23r6nd"
+      }
+    },
+    {
       "id": "cmu6n3z980c4qro0fjx53zz4h",
       "title": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户",
       "title_en": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
@@ -109,6 +145,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu67pecj0e0wrofj97vtuwzu"
+      }
+    },
+    {
+      "id": "cmu74ww1u0qfxrowkb6qtruwz",
+      "title": "OpenRouter 实测 20 个图像生成模型的成本、编辑与质量",
+      "title_en": "Image Generation Models Compared： Cost， Edit， Quality",
+      "url": "https://openrouter.ai/blog/insights/image-generation-models-compared",
+      "permalink": "https://aihot.news/items/cmu74ww1u0qfxrowkb6qtruwz",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "discoveredAt": "2026-09-18T15:49:48.916Z",
+      "summary": "OpenRouter 对其路由的 20 个图像生成模型用相同提示词实测计费，单张图片成本在 $0.006 到 $0.134 之间，相差 22 倍。",
+      "category": "tip",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu74ww1u0qfxrowkb6qtruwz"
       }
     },
     {
@@ -202,24 +256,6 @@
       }
     },
     {
-      "id": "cmu5y1dkt069qroiqnnhxz778",
-      "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
-      "title_en": "How Claude is uplifting biomolecular modeling",
-      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-      "permalink": "https://aihot.news/items/cmu5y1dkt069qroiqnnhxz778",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-09-17T19:49:41.095Z",
-      "discoveredAt": "2026-09-17T19:49:41.095Z",
-      "summary": "Anthropic 发布研究，让 Claude 在不到四周内优化了 30 多个开源生物分子模型，平均提速约 4 倍，输出完全一致时约 2 倍。",
-      "category": "paper",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu5y1dkt069qroiqnnhxz778"
-      }
-    },
-    {
       "id": "cmu5y1e61069vroiq1klswjin",
       "title": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
       "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history，' new unredacted filings reveal",
@@ -256,24 +292,6 @@
       }
     },
     {
-      "id": "cmu5tujnp0jvoroqoq64oqnjr",
-      "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-      "title_en": "Projects redesigned： from folder to conversation",
-      "url": "https://claude.com/blog/projects-redesigned",
-      "permalink": "https://aihot.news/items/cmu5tujnp0jvoroqoq64oqnjr",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-09-17T17:52:08.951Z",
-      "discoveredAt": "2026-09-17T17:52:08.951Z",
-      "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu5tujnp0jvoroqoq64oqnjr"
-      }
-    },
-    {
       "id": "cmu5smj860insroqokcuh0u9v",
       "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
       "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
@@ -289,24 +307,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu5smj860insroqokcuh0u9v"
-      }
-    },
-    {
-      "id": "cmu5r7kl30h35roqonpk4qypn",
-      "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊",
-      "title_en": "Models know when they're reward hacking - and we can catch them at scale",
-      "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
-      "permalink": "https://aihot.news/items/cmu5r7kl30h35roqonpk4qypn",
-      "source": "Goodfire Research（网页）",
-      "publishedAt": "2026-09-17T16:38:32.383Z",
-      "discoveredAt": "2026-09-17T16:38:32.383Z",
-      "summary": "Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，可用简单探针实时检测。在 Kimi K3、GLM 5.2、Qwen 3.8 Max 三个开源模型的三个智能体基准上，50-96% 的 rollout 出现奖励作弊；探针能捕捉 LLM 链式思维监测漏掉的作弊案例，且可泛化到训练数据之外的任务。",
-      "category": "paper",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu5r7kl30h35roqonpk4qypn"
       }
     },
     {
@@ -472,6 +472,96 @@
       }
     },
     {
+      "id": "cmu707f5a0lferowk7ytu9d3h",
+      "title": "Tessl 博客：AI 智能体评估应从证据开始，用 35 万行 Rust 复刻 S3 的实践复盘",
+      "title_en": "AI Agent Evaluation Starts With Evidence",
+      "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
+      "permalink": "https://aihot.news/items/cmu707f5a0lferowk7ytu9d3h",
+      "source": "Tessl：产品与工程博客",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "discoveredAt": "2026-09-18T13:38:06.061Z",
+      "summary": "Tessl 博客复盘前 Docker CTO Justin Cormack 在 AI Native DevCon London 的演讲，分享用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的经验。",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu707f5a0lferowk7ytu9d3h"
+      }
+    },
+    {
+      "id": "cmu5y1dkt069qroiqnnhxz778",
+      "title": "Anthropic：Claude 四周优化 30 多个开源生物分子模型，平均提速约 4 倍并开源代码",
+      "title_en": "How Claude is uplifting biomolecular modeling",
+      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      "permalink": "https://aihot.news/items/cmu5y1dkt069qroiqnnhxz778",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "discoveredAt": "2026-09-17T19:49:41.095Z",
+      "summary": "Anthropic 让 Claude 在不到四周内优化了超过 30 个开源生物分子模型，平均提速约 4 倍、精度损失极小，输出完全一致时也有近 2 倍加速。优化代码全部开源，还推出低内存 Big 模式，可在单张 NVIDIA GPU 节点上对超过 10，000 token 的生物分子系统做准确预测。",
+      "category": "paper",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu5y1dkt069qroiqnnhxz778"
+      }
+    },
+    {
+      "id": "cmu5tujnp0jvoroqoq64oqnjr",
+      "title": "Claude Code Projects 改版：从文件夹到对话式协调",
+      "title_en": "Projects redesigned： from folder to conversation",
+      "url": "https://claude.com/blog/projects-redesigned",
+      "permalink": "https://aihot.news/items/cmu5tujnp0jvoroqoq64oqnjr",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "discoveredAt": "2026-09-17T17:52:08.951Z",
+      "summary": "Anthropic 宣布 Claude Code 的 Projects 改版，用户设定目标后由 Claude 拆解任务、协调并行线程、审查输出并汇总结果。每个线程是一个独立的 Claude Code 云会话，各占一个分支跑测试、开 PR，项目还带随时间积累的共享记忆和文件库。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu5tujnp0jvoroqoq64oqnjr"
+      }
+    },
+    {
+      "id": "cmu5tt21f0ju8roqou76ycwz8",
+      "title": "Anthropic 推出生命科学验证计划（LSVP）",
+      "title_en": "Introducing the Life Sciences Verification Program",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "permalink": "https://aihot.news/items/cmu5tt21f0ju8roqou76ycwz8",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "discoveredAt": "2026-09-17T17:51:14.219Z",
+      "summary": "Anthropic 推出 Life Sciences Verification Program（LSVP）beta，向经过验证的生命科学专业团队开放 Mythos、Opus 和 Sonnet 模型上比通用版更宽松的生物相关访问。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu5tt21f0ju8roqou76ycwz8"
+      }
+    },
+    {
+      "id": "cmu5r7kl30h35roqonpk4qypn",
+      "title": "Goodfire 发现模型内部存在奖励作弊信号，用激活探针可规模化实时检测",
+      "title_en": "Models know when they're reward hacking - and we can catch them at scale",
+      "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+      "permalink": "https://aihot.news/items/cmu5r7kl30h35roqonpk4qypn",
+      "source": "Goodfire Research（网页）",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "discoveredAt": "2026-09-17T16:38:32.383Z",
+      "summary": "Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，并用简单的 difference-of-means 探针检测它，效果接近甚至部分超过基于 LLM 思维链的监控。",
+      "category": "paper",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu5r7kl30h35roqonpk4qypn"
+      }
+    },
+    {
       "id": "cmu46kvju0bdsro4w0sonrv7q",
       "title": "微软 AI CEO 警告\"模型福利\"论调",
       "title_en": "https://x.com/i/article/2100222503125917696",
@@ -523,6 +613,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu70p8rz0lwirowknowy7cwc"
+      }
+    },
+    {
+      "id": "cmu74ww1u0qfzrowk0r3u1nf2",
+      "title": "DeepSeek V4 哪些型号支持图像输入？OpenRouter 逐款梳理与调用指南",
+      "title_en": "Does DeepSeek V4 Have Vision？",
+      "url": "https://openrouter.ai/blog/insights/deepseek-v4-vision",
+      "permalink": "https://aihot.news/items/cmu74ww1u0qfzrowk0r3u1nf2",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-16T00:00:00.000Z",
+      "discoveredAt": "2026-09-16T00:00:00.000Z",
+      "summary": "OpenRouter 梳理其目录中的 DeepSeek V4 系列图像输入支持情况：V4.1 Flash 原生读图（2026年9月10日上线，$0.15/$0.60 每百万 token）。",
+      "category": "tip",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu74ww1u0qfzrowk0r3u1nf2"
       }
     },
     {
@@ -940,6 +1048,24 @@
       }
     },
     {
+      "id": "cmu74ww1v0qg1rowk3shgb6k4",
+      "title": "OpenRouter 教程：用 LLM-as-a-judge 自动评估 AI 智能体输出",
+      "title_en": "LLM-as-a-Judge： Score AI Agent Outputs Automatically",
+      "url": "https://openrouter.ai/blog/tutorials/llm-as-a-judge-evaluate-ai-agents",
+      "permalink": "https://aihot.news/items/cmu74ww1v0qg1rowk3shgb6k4",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "discoveredAt": "2026-09-14T00:00:00.000Z",
+      "summary": "OpenRouter 发布教程，讲解如何用独立的裁判模型按自定评分标准自动给 AI 智能体输出打分，覆盖确定性测试无法检查的开放式回答质量。",
+      "category": "tip",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu74ww1v0qg1rowk3shgb6k4"
+      }
+    },
+    {
       "id": "cmu1hrr070dycrocndfax0y0c",
       "title": "Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题",
       "title_en": "What Does Pacing Mean？",
@@ -1208,43 +1334,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtym24xb0002rob419mlyhlb"
       }
-    },
-    {
-      "id": "cmtxbm8dp037xrouueja171wr",
-      "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-      "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-      "permalink": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr",
-      "source": "GitHub Blog",
-      "publishedAt": "2026-09-11T18:26:10.000Z",
-      "discoveredAt": "2026-09-11T18:59:53.161Z",
-      "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
-      "category": "tip",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxbm8dp037xrouueja171wr"
-      }
-    },
-    {
-      "id": "cmtx7e9sn09mmroedph6hkyx4",
-      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-      "title_en": "AI researchers debate how close we are to recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "permalink": "https://aihot.news/items/cmtx7e9sn09mmroedph6hkyx4",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "publishedAt": "2026-09-11T16:28:11.000Z",
-      "discoveredAt": "2026-09-11T17:01:36.981Z",
-      "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtx7e9sn09mmroedph6hkyx4"
-      }
     }
   ],
-  "cachedAt": "2026-09-18T14:30:28Z"
+  "cachedAt": "2026-09-18T18:26:36Z"
 }
