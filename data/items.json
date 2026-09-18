@@ -1,24 +1,42 @@
 {
-  "count": 66,
+  "count": 67,
   "hasNext": false,
   "nextCursor": null,
   "items": [
     {
-      "id": "cmu6h4gdc0oh9rofjwfl983n6",
-      "title": "Hacktron 披露利用 libheif 漏洞与 OpenAI SSO 缺陷接管员工 ChatGPT 账户的过程",
-      "title_en": "Hacking OpenAI",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "permalink": "https://aihot.news/items/cmu6h4gdc0oh9rofjwfl983n6",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-18T02:47:24.000Z",
-      "discoveredAt": "2026-09-18T04:43:55.447Z",
-      "summary": "Hacktron 团队于 2026 年 7 月 25 日在 72 小时内串联两个漏洞，通过 community.openai.com 论坛的 libheif 堆缓冲区溢出实现 RCE，再借 OpenAI SSO 缺陷接管员工 ChatGPT/Codex 账户，并用员工 Codex 在 OpenAI 内部 monorepo 打开 PR #1186742 作为证明。",
+      "id": "cmu6n3z980c4qro0fjx53zz4h",
+      "title": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户",
+      "title_en": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
+      "url": "https://x.com/haider1/status/2100848578340220987",
+      "permalink": "https://aihot.news/items/cmu6n3z980c4qro0fjx53zz4h",
+      "source": "X：Haider (@haider1)",
+      "publishedAt": "2026-09-18T07:25:07.000Z",
+      "discoveredAt": "2026-09-18T07:31:31.889Z",
+      "summary": "一个3人团队在7月25日利用两个漏洞接管了OpenAI员工的 ChatGPT/Codex 账户，并可访问 Outlook、Slack、GitHub 等关联服务，他们用向 OpenAI 内部代码库提交 PR 的方式证明了漏洞，全程不到72小时。",
       "category": "tip",
-      "score": 81,
+      "score": 76,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu6h4gdc0oh9rofjwfl983n6"
+        "canonical": "https://aihot.news/items/cmu6n3z980c4qro0fjx53zz4h"
+      }
+    },
+    {
+      "id": "cmu6idvti04i9ro0fktczvi9g",
+      "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+      "title_en": "入侵OpenAI",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "permalink": "https://aihot.news/items/cmu6idvti04i9ro0fktczvi9g",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-18T04:45:46.237Z",
+      "discoveredAt": "2026-09-18T05:19:16.734Z",
+      "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
+      "category": "tip",
+      "score": 84,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu6idvti04i9ro0fktczvi9g"
       }
     },
     {
@@ -1192,5 +1210,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-18T04:45:16Z"
+  "cachedAt": "2026-09-18T09:43:50Z"
 }
