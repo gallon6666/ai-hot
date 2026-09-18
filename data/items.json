@@ -1,8 +1,80 @@
 {
-  "count": 67,
+  "count": 69,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu71pa810n45rowkag436ea3",
+      "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
+      "title_en": "Researchers used Anthropic's Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+      "permalink": "https://aihot.news/items/cmu71pa810n45rowkag436ea3",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-09-18T14:00:14.000Z",
+      "discoveredAt": "2026-09-18T14:19:58.842Z",
+      "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu71pa810n45rowkag436ea3"
+      }
+    },
+    {
+      "id": "cmu707f5a0lferowk7ytu9d3h",
+      "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始",
+      "title_en": "AI Agent Evaluation Starts With Evidence",
+      "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
+      "permalink": "https://aihot.news/items/cmu707f5a0lferowk7ytu9d3h",
+      "source": "Tessl：产品与工程博客",
+      "publishedAt": "2026-09-18T13:38:06.061Z",
+      "discoveredAt": "2026-09-18T13:38:06.061Z",
+      "summary": "Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu707f5a0lferowk7ytu9d3h"
+      }
+    },
+    {
+      "id": "cmu6w30lt0dnhrowkh7qwiped",
+      "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
+      "title_en": "Auditing in the age of （good enough） AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
+      "permalink": "https://aihot.news/items/cmu6w30lt0dnhrowkh7qwiped",
+      "source": "Trail of Bits：AI安全研究",
+      "publishedAt": "2026-09-18T11:00:00.000Z",
+      "discoveredAt": "2026-09-18T11:42:42.720Z",
+      "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
+      "category": "tip",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu6w30lt0dnhrowkh7qwiped"
+      }
+    },
+    {
+      "id": "cmu6y9sjz0jbyrowkh7tus28l",
+      "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+      "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "permalink": "https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-18T10:35:28.000Z",
+      "discoveredAt": "2026-09-18T12:43:59.287Z",
+      "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
+      "category": "tip",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l"
+      }
+    },
     {
       "id": "cmu6n3z980c4qro0fjx53zz4h",
       "title": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户",
@@ -19,24 +91,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu6n3z980c4qro0fjx53zz4h"
-      }
-    },
-    {
-      "id": "cmu6idvti04i9ro0fktczvi9g",
-      "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-      "title_en": "入侵OpenAI",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "permalink": "https://aihot.news/items/cmu6idvti04i9ro0fktczvi9g",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-18T04:45:46.237Z",
-      "discoveredAt": "2026-09-18T05:19:16.734Z",
-      "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
-      "category": "tip",
-      "score": 84,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu6idvti04i9ro0fktczvi9g"
       }
     },
     {
@@ -451,6 +505,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l"
+      }
+    },
+    {
+      "id": "cmu70p8rz0lwirowknowy7cwc",
+      "title": "蚂蚁 inclusionAI 开源 Realtime-Venus 全双工交互系统",
+      "title_en": "inclusionAI/Realtime-Venus",
+      "url": "https://github.com/inclusionAI/Realtime-Venus",
+      "permalink": "https://aihot.news/items/cmu70p8rz0lwirowknowy7cwc",
+      "source": "蚂蚁 inclusionAI：GitHub 新仓库",
+      "publishedAt": "2026-09-16T07:57:55.000Z",
+      "discoveredAt": "2026-09-16T07:57:55.000Z",
+      "summary": "蚂蚁集团 Venus 团队与清华大学在 GitHub 开源 Realtime-Venus，一个支持全双工对话与异步任务委托的实时交互系统。系统包含三个组件：Realtime-Venus-Omni（9B，流式音视频对话与主动交互）、Realtime-Venus-Audio（9B，语音交互与音频理解）以及负责后台任务执行并将结果返回同一对话的 Harness 运行时。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu70p8rz0lwirowknowy7cwc"
       }
     },
     {
@@ -1172,43 +1244,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtx7e9sn09mmroedph6hkyx4"
       }
-    },
-    {
-      "id": "cmtx0v3dg030mroedwvkdfyvw",
-      "title": "Anthropic 威胁报告披露 Claude 被用于间谍软件、导弹与无人机研发，中国实验室大规模蒸馏提取数据",
-      "title_en": "How hackers used Claude for missiles， drone swarms， and surveillance， while Chinese labs mined it for training data",
-      "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
-      "permalink": "https://aihot.news/items/cmtx0v3dg030mroedwvkdfyvw",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-11T13:50:28.000Z",
-      "discoveredAt": "2026-09-11T13:58:48.543Z",
-      "summary": "Anthropic 发布威胁情报报告，记录 2025 年 12 月至 2026 年 8 月间 Claude 被滥用的七类行为。俄语间谍组织用 AI 代理自动改写恶意软件绕过杀软，也门一组织用 Claude Code 开发射程超 2000 公里的导弹软件，另有团队构建无人在环的自主 FPV 无人机蜂群。",
-      "category": "paper",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtx0v3dg030mroedwvkdfyvw"
-      }
-    },
-    {
-      "id": "cmtx7f9mi09psroed4b1w3nsv",
-      "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
-      "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "permalink": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-11T10:00:00.000Z",
-      "discoveredAt": "2026-09-11T17:02:27.409Z",
-      "summary": "OpenAI 发文（系列上篇）讲述其在线存储平台 Habitat 的演进：现每秒处理超 7000 万请求、服务每周超 10 亿用户、管理超 500PB 数据，覆盖近 40 个地区。",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtx7f9mi09psroed4b1w3nsv"
-      }
     }
   ],
-  "cachedAt": "2026-09-18T09:43:50Z"
+  "cachedAt": "2026-09-18T14:30:28Z"
 }
