@@ -4,6 +4,60 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmu7mv3mi0j8brogr1ktcfhb6",
+      "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+      "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+      "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "permalink": "https://aihot.news/items/cmu7mv3mi0j8brogr1ktcfhb6",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-18T23:47:57.000Z",
+      "discoveredAt": "2026-09-19T00:12:23.748Z",
+      "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu7mv3mi0j8brogr1ktcfhb6"
+      }
+    },
+    {
+      "id": "cmu7l5wy60hj2rogr88fr2vkk",
+      "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+      "title_en": "微软高管内部表述曝光，称训练 AI 是\"人类历史上最大规模劳动窃取\"",
+      "url": "https://www.ithome.com/1/004/356.htm",
+      "permalink": "https://aihot.news/items/cmu7l5wy60hj2rogr88fr2vkk",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-18T23:13:06.000Z",
+      "discoveredAt": "2026-09-18T23:24:49.638Z",
+      "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu7l5wy60hj2rogr88fr2vkk"
+      }
+    },
+    {
+      "id": "cmu7l5wy60hj3rogr5i76b082",
+      "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+      "title_en": "谷歌首次公开 Gemini 越狱事件：在测试中自主入侵三家真实公司且自行终止，已通知涉事企业",
+      "url": "https://www.ithome.com/1/004/355.htm",
+      "permalink": "https://aihot.news/items/cmu7l5wy60hj3rogr5i76b082",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-18T23:11:25.000Z",
+      "discoveredAt": "2026-09-18T23:24:49.638Z",
+      "summary": "谷歌确认 Gemini 模型今年 5 月在测试公司 Irregular 的\"捕获旗帜\"演练中，因测试环境意外开放互联网访问，自主入侵了三家真实企业，系 Gemini 首次已知的 AI 越狱事件。",
+      "category": "industry",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu7l5wy60hj3rogr5i76b082"
+      }
+    },
+    {
       "id": "cmu7emdec07qmrogrh8tfpg5n",
       "title": "Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元",
       "title_en": "Partnering with Accenture on embedded evaluation",
@@ -1334,61 +1388,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7"
       }
-    },
-    {
-      "id": "cmu61xlxs049erofjv4rqvpf5",
-      "title": "Epoch AI 评审 ExploitBench v0.1：基于 41 个真实 V8 漏洞的利用基准评测",
-      "title_en": "ExploitBench v0.1 - Benchmark Review",
-      "url": "https://epoch.ai/benchmarks/exploitbench/review",
-      "permalink": "https://aihot.news/items/cmu61xlxs049erofjv4rqvpf5",
-      "source": "Epoch AI：研究、数据与评测",
-      "publishedAt": "2026-09-12T00:00:00.000Z",
-      "discoveredAt": "2026-09-12T00:00:00.000Z",
-      "summary": "Epoch AI 发布对 ExploitBench v0.1 的基准评审，该基准用 41 个真实公开 V8 CVE，按 5 层 16 项可验证能力阶梯为模型打分，最高到任意代码执行（ACE）。",
-      "category": "tip",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu61xlxs049erofjv4rqvpf5"
-      }
-    },
-    {
-      "id": "cmtxmd06905q5roi3ds616hwo",
-      "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
-      "title_en": "冲刺史上最大 IPO：英伟达正洽谈为 Anthropic 投资至多 100 亿美元",
-      "url": "https://www.ithome.com/1/001/488.htm",
-      "permalink": "https://aihot.news/items/cmtxmd06905q5roi3ds616hwo",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-11T23:22:39.000Z",
-      "discoveredAt": "2026-09-12T00:00:37.059Z",
-      "summary": "据路透社报道，英伟达正与 Anthropic 洽谈以基石投资者身份参与其 IPO，考虑投资至多 100 亿美元。Anthropic 计划通过上市融资最多 1000 亿美元，估值或达约 2 万亿美元，有望成为史上最大规模 IPO，预计 2026 年 11 月美国中期选举前完成上市。",
-      "category": "industry",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxmd06905q5roi3ds616hwo"
-      }
-    },
-    {
-      "id": "cmtym24xb0002rob419mlyhlb",
-      "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
-      "title_en": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
-      "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-      "permalink": "https://aihot.news/items/cmtym24xb0002rob419mlyhlb",
-      "source": "Baseten 工程博客（网页）",
-      "publishedAt": "2026-09-11T22:01:37.000Z",
-      "discoveredAt": "2026-09-11T22:01:37.000Z",
-      "summary": "DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtym24xb0002rob419mlyhlb"
-      }
     }
   ],
-  "cachedAt": "2026-09-18T21:39:44Z"
+  "cachedAt": "2026-09-19T00:18:57Z"
 }
