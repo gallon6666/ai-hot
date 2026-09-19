@@ -1,5 +1,5 @@
 {
-  "count": 78,
+  "count": 77,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1388,25 +1388,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb"
       }
-    },
-    {
-      "id": "cmtygklxb0dunrojhsd5rriu4",
-      "title": "Dario Amodei 发文呼吁为前沿 AI 降速并提出三点计划",
-      "title_en": "We Must Pace the Frontier： I've written a new essay on why the AI industry should slow down， with a …",
-      "url": "https://x.com/DarioAmodei/status/2098773920774074715",
-      "permalink": "https://aihot.news/items/cmtygklxb0dunrojhsd5rriu4",
-      "source": "X：Dario Amodei (@DarioAmodei)",
-      "publishedAt": "2026-09-12T14:01:10.000Z",
-      "discoveredAt": "2026-09-12T14:06:19.408Z",
-      "summary": "Dario Amodei 发布新文章《We Must Pace the Frontier》，主张 AI 行业应放慢速度并给出三点计划。Anthropic 单方面承诺落实第一步，为第三方评估者提供永久、员工级系统访问权限，使其可验证安全措施执行情况、报告事故并在训练期间评估模型对齐。全文见 https://darioamodei.com/post/we-must-pace-the-frontier",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtygklxb0dunrojhsd5rriu4"
-      }
     }
   ],
-  "cachedAt": "2026-09-19T10:55:16Z"
+  "cachedAt": "2026-09-19T14:23:10Z"
 }
