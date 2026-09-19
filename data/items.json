@@ -1,8 +1,44 @@
 {
-  "count": 77,
+  "count": 78,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu7tboxt0pv0rogre8ibr9n8",
+      "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
+      "title_en": "love people sharing their muse prompts which work well！",
+      "url": "https://x.com/alexandr_wang/status/2101141362607632873",
+      "permalink": "https://aihot.news/items/cmu7tboxt0pv0rogre8ibr9n8",
+      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
+      "publishedAt": "2026-09-19T02:48:32.000Z",
+      "discoveredAt": "2026-09-19T03:13:13.968Z",
+      "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu7tboxt0pv0rogre8ibr9n8"
+      }
+    },
+    {
+      "id": "cmu7nb3bm0jugrogroyv3fm5h",
+      "title": "Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元",
+      "title_en": "Anthropic 计划将 IPO 推迟至 11 月，上市估值约 2 万亿美元",
+      "url": "https://www.ithome.com/1/004/369.htm",
+      "permalink": "https://aihot.news/items/cmu7nb3bm0jugrogroyv3fm5h",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-19T00:07:04.000Z",
+      "discoveredAt": "2026-09-19T00:24:50.115Z",
+      "summary": "据《华尔街日报》报道，Anthropic 计划将 IPO 推迟至 11 月，晚于投资者预期的 10 月，以留出时间展示第三季度财务数据。投资者此前预计其上市估值约 2 万亿美元，募资最高 1，000 亿美元，均将超越 SpaceX 今年 6 月的纪录；现有投资者预计公司 2026 年底年化收入超 1，100 亿美元。竞争对手 OpenAI 表示 2027 年前不上市，正处新一轮融资早期讨论阶段。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu7nb3bm0jugrogroyv3fm5h"
+      }
+    },
     {
       "id": "cmu7mv3mi0j8brogr1ktcfhb6",
       "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
@@ -1370,25 +1406,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmtygklxb0dunrojhsd5rriu4"
       }
-    },
-    {
-      "id": "cmtxvt03h068vrous6ilk8ds7",
-      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-      "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "permalink": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-12T02:39:39.000Z",
-      "discoveredAt": "2026-09-12T04:25:01.481Z",
-      "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtxvt03h068vrous6ilk8ds7"
-      }
     }
   ],
-  "cachedAt": "2026-09-19T00:18:57Z"
+  "cachedAt": "2026-09-19T05:51:13Z"
 }
