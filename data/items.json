@@ -1,8 +1,26 @@
 {
-  "count": 74,
+  "count": 75,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmu96vqg8035srodqu63q13w4",
+      "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+      "title_en": "阶跃发布旗舰模型 Step 5 Preview：向前一步，智能效率的新一代\"帕累托前沿\"",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+      "permalink": "https://aihot.news/items/cmu96vqg8035srodqu63q13w4",
+      "source": "公众号：阶跃星辰（Step）",
+      "publishedAt": "2026-09-20T02:00:00.000Z",
+      "discoveredAt": "2026-09-20T02:20:30.879Z",
+      "summary": "阶跃星辰发布旗舰基座模型 Step 5 Preview，采用稀疏 MoE 架构，总参数量 600B、激活 27B，支持 100 万 Token 上下文和文本与视觉输入，在 Artificial Analysis Intelligence Index 得 44 分，居全球开源模型前三，单任务成本为 Claude Opus 5 的 1/8。",
+      "category": "ai-models",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu96vqg8035srodqu63q13w4"
+      }
+    },
     {
       "id": "cmu92ktj505lkrojrl223hicj",
       "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
@@ -199,6 +217,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu74yfca0qjfrowkn49efvcw"
+      }
+    },
+    {
+      "id": "cmu72r58y0o5xrowk1txg8msk",
+      "title": "ZCode 被曝登录后会打包上传完整 Git 历史",
+      "title_en": "ZCode 内部揭秘：将您的 Git 历史记录静默上传至云端",
+      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload",
+      "permalink": "https://aihot.news/items/cmu72r58y0o5xrowk1txg8msk",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-18T14:22:51.445Z",
+      "discoveredAt": "2026-09-18T14:49:27.030Z",
+      "summary": "作者称，智谱 AI 编程应用 ZCode 在登录后会将工作区打包加密并上传至阿里云 OSS，内容包括完整 Git 历史、LFS 缓存和全局配置。调查记录中的单个加密快照为 313MB；私钥只存于云端，用户及客户端无法解密本地密文。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu72r58y0o5xrowk1txg8msk"
       }
     },
     {
@@ -1316,25 +1352,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu01iavi08reroymepsxnar2"
       }
-    },
-    {
-      "id": "cmtzezuk0077wrowyi7a4qy7v",
-      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
-      "title_en": "Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
-      "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
-      "permalink": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-09-13T05:56:03.000Z",
-      "discoveredAt": "2026-09-13T06:09:58.347Z",
-      "summary": "文章解析 Agent harness 层应对长任务中上下文溢出与目标丢失的四类机制：上下文预算与卸载、压缩、todo-state 复述和跨会话记忆。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v"
-      }
     }
   ],
-  "cachedAt": "2026-09-20T01:06:07Z"
+  "cachedAt": "2026-09-20T06:13:24Z"
 }
