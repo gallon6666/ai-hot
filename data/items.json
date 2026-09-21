@@ -1,5 +1,5 @@
 {
-  "count": 75,
+  "count": 73,
   "hasNext": false,
   "nextCursor": null,
   "items": [
@@ -1316,43 +1316,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq"
       }
-    },
-    {
-      "id": "cmu74ww1v0qg1rowk3shgb6k4",
-      "title": "OpenRouter 教程：用 LLM-as-a-judge 自动评估 AI 智能体输出",
-      "title_en": "LLM-as-a-Judge： Score AI Agent Outputs Automatically",
-      "url": "https://openrouter.ai/blog/tutorials/llm-as-a-judge-evaluate-ai-agents",
-      "permalink": "https://aihot.news/items/cmu74ww1v0qg1rowk3shgb6k4",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "discoveredAt": "2026-09-14T00:00:00.000Z",
-      "summary": "OpenRouter 发布教程，讲解如何用独立的裁判模型按自定评分标准自动给 AI 智能体输出打分，覆盖确定性测试无法检查的开放式回答质量。",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu74ww1v0qg1rowk3shgb6k4"
-      }
-    },
-    {
-      "id": "cmu1hrr070dycrocndfax0y0c",
-      "title": "Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题",
-      "title_en": "What Does Pacing Mean？",
-      "url": "https://tomtunguz.com/what-does-the-pause-mean",
-      "permalink": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "discoveredAt": "2026-09-14T17:03:10.543Z",
-      "summary": "Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工、经济、地缘政治和监管俘获五派立场，并指出没有任何一派给出具体速度。",
-      "category": "tip",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1hrr070dycrocndfax0y0c"
-      }
     }
   ],
-  "cachedAt": "2026-09-20T21:31:04Z"
+  "cachedAt": "2026-09-21T00:14:38Z"
 }
