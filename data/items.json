@@ -4,6 +4,42 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmubhf6n4106prolnfasuj0hw",
+      "title": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56",
+      "title_en": "Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…",
+      "url": "https://x.com/ArtificialAnlys/status/2102074898327932987",
+      "permalink": "https://aihot.news/items/cmubhf6n4106prolnfasuj0hw",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-09-21T16:38:05.000Z",
+      "discoveredAt": "2026-09-21T16:51:06.433Z",
+      "summary": "Artificial Analysis 发布 Grok 4.7 评测，其在 Artificial Analysis Intelligence Index 得分 46，较 Grok 4.6 高 2 分，使 SpaceXAI 进入前四大 AI 实验室。",
+      "category": "paper",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmubhf6n4106prolnfasuj0hw"
+      }
+    },
+    {
+      "id": "cmub7xf1o0pu2roln165i6mhu",
+      "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+      "title_en": "科技巨头因 AI 购物起争端：亚马逊封禁 Meta Muse 智能体",
+      "url": "https://www.ithome.com/1/005/418.htm",
+      "permalink": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-21T11:52:52.000Z",
+      "discoveredAt": "2026-09-21T12:25:21.443Z",
+      "summary": "亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu"
+      }
+    },
+    {
       "id": "cmuaytowf0c4oroln02tacq0c",
       "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
       "title_en": "Kimi Code Desktop 正式与你见面",
@@ -55,6 +91,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmualyqxc0nztro5tbldva2bh"
+      }
+    },
+    {
+      "id": "cmubfarpy0xtirolnplntl9p1",
+      "title": "xAI 发布 Grok 4.7，主打编码与知识工作",
+      "title_en": "Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More",
+      "url": "https://x.ai/news/grok-4-7",
+      "permalink": "https://aihot.news/items/cmubfarpy0xtirolnplntl9p1",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "discoveredAt": "2026-09-21T15:51:31.217Z",
+      "summary": "xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/百万输入 token、$6/百万输出 token，与 Grok 4.6 同价同速，另有速度和价格加倍的快速变体。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmubfarpy0xtirolnplntl9p1"
       }
     },
     {
@@ -451,6 +505,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu67pecj0e0wrofj97vtuwzu"
+      }
+    },
+    {
+      "id": "cmu797mz00v50rowk50a6ksp3",
+      "title": "xAI 发布 Grok Voice Transcribe 2.0 语音转写模型，准确率较 1.0 翻倍",
+      "title_en": "Introducing Grok Voice Transcribe 2.0",
+      "url": "https://x.ai/news/grok-voice-transcribe-2",
+      "permalink": "https://aihot.news/items/cmu797mz00v50rowk50a6ksp3",
+      "source": "xAI：News（网页）",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "discoveredAt": "2026-09-18T17:49:58.497Z",
+      "summary": "xAI 发布 Grok Voice Transcribe 2.0 语音转写模型，官方称在真实场景评测中准确率是 1.0 的两倍且价格不变。在 Artificial Analysis 公开榜单上，它在 32 个 streaming 模型中准确率排名第一；多语言能力提升最大，短短语集合上词错误率从 20.6% 降至 6.8%。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmu797mz00v50rowk50a6ksp3"
       }
     },
     {
@@ -1280,79 +1352,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu1ju3b00pmgrocnrgwe6e9e"
       }
-    },
-    {
-      "id": "cmu1gt8gn097trocnxxvdhxli",
-      "title": "硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文",
-      "title_en": "The hottest open-source models on OpenRouter. Now live on SiliconFlow. 🔥 Meet Hy4 preview： 770B tot…",
-      "url": "https://x.com/SiliconFlowAI/status/2099536759168352634",
-      "permalink": "https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli",
-      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-      "publishedAt": "2026-09-14T16:32:25.000Z",
-      "discoveredAt": "2026-09-14T16:36:19.273Z",
-      "summary": "硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。",
-      "category": "ai-models",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1gt8gn097trocnxxvdhxli"
-      }
-    },
-    {
-      "id": "cmu2xv8tm0365roc1a401zg9y",
-      "title": "Claude for Small Business 新增 43 个 workflow 与 27 个集成",
-      "title_en": "Claude for Small Business launches new workflows， integrations， and training programs",
-      "url": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
-      "permalink": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-09-14T16:00:00.000Z",
-      "discoveredAt": "2026-09-15T17:21:21.489Z",
-      "summary": "Anthropic 为 Claude for Small Business 新增 43 个 workflow 和 27 个集成，覆盖 Shopify、Salesforce、TikTok、Zoom、Stripe、Zapier 等工具，该产品自 5 月上线以来安装量超过 90 万次。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu2xv8tm0365roc1a401zg9y"
-      }
-    },
-    {
-      "id": "cmu1g31xf07frrocnmjfagq29",
-      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-      "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-      "permalink": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-14T15:46:45.000Z",
-      "discoveredAt": "2026-09-14T16:15:57.841Z",
-      "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-      "category": "industry",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1g31xf07frrocnmjfagq29"
-      }
-    },
-    {
-      "id": "cmu1amg9d06bbro7zn6v1kszh",
-      "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析",
-      "title_en": "What a time to be alive - rouge AI agents attack RubyGems.org",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
-      "permalink": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-14T12:40:57.000Z",
-      "discoveredAt": "2026-09-14T13:43:07.935Z",
-      "summary": "作者分析被指与 OpenAI 机器人相关的 GemStuffer 恶意 gem 代码，发现其利用 .yardopts 的 --load 加载脚本，在安装或 RubyDoc.info 处理 YARD 文档时执行任意代码，且 Docker 容器有网络访问权限可执行爬取。",
-      "category": "tip",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1amg9d06bbro7zn6v1kszh"
-      }
     }
   ],
-  "cachedAt": "2026-09-21T10:40:45Z"
+  "cachedAt": "2026-09-21T17:01:35Z"
 }
