@@ -1,8 +1,44 @@
 {
-  "count": 73,
+  "count": 75,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmuao05at0q8uro5tpc85e2kj",
+      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+      "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "permalink": "https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-09-21T02:50:40.000Z",
+      "discoveredAt": "2026-09-21T03:07:37.253Z",
+      "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
+      "category": "ai-models",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj"
+      }
+    },
+    {
+      "id": "cmualyqxc0nztro5tbldva2bh",
+      "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+      "title_en": "汉化组，可能是世界上最不怕AI冲击的一群人。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+      "permalink": "https://aihot.news/items/cmualyqxc0nztro5tbldva2bh",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-21T01:52:57.000Z",
+      "discoveredAt": "2026-09-21T02:10:32.014Z",
+      "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmualyqxc0nztro5tbldva2bh"
+      }
+    },
     {
       "id": "cmuaajd3y08yjro5tqgc5u6up",
       "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
@@ -1318,5 +1354,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-21T00:14:38Z"
+  "cachedAt": "2026-09-21T04:56:52Z"
 }
