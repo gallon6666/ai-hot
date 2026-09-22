@@ -1,8 +1,62 @@
 {
-  "count": 79,
+  "count": 82,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmuc1rfgb05sdrotszk0w9ivq",
+      "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
+      "title_en": "今夜的荣光属于MiMo V2.6。",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686569&idx=1&sn=f716d3dd70259240800a67b9fabd53fd",
+      "permalink": "https://aihot.news/items/cmuc1rfgb05sdrotszk0w9ivq",
+      "source": "公众号：数字生命卡兹克",
+      "publishedAt": "2026-09-22T02:02:03.000Z",
+      "discoveredAt": "2026-09-22T02:20:31.609Z",
+      "summary": "作者实测同日凌晨发布的 Grok 4.7 与小米 MiMo V2.6，认为 Grok 4.7 低于预期，MiMo V2.6 成为性能、价格、速度三角的当前版本答案。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuc1rfgb05sdrotszk0w9ivq"
+      }
+    },
+    {
+      "id": "cmuc0pmnx04g0rotscsnqd50c",
+      "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
+      "title_en": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+      "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+      "permalink": "https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-09-22T01:49:19.000Z",
+      "discoveredAt": "2026-09-22T01:51:06.952Z",
+      "summary": "Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c"
+      }
+    },
+    {
+      "id": "cmubyl2o004y7ro9i986nyhfy",
+      "title": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用",
+      "title_en": "What Is Nemotron 3.5 Lightning",
+      "url": "https://openrouter.ai/blog/insights/nemotron-3-5-lightning",
+      "permalink": "https://aihot.news/items/cmubyl2o004y7ro9i986nyhfy",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "discoveredAt": "2026-09-22T00:51:34.102Z",
+      "summary": "OpenRouter 发文解读 NVIDIA 的 Nemotron 3.5 Lightning，这是一款 30B 总参数、约 3B 激活参数的混合专家开源权重模型，定位于工具调用、编码等高频、边界清晰的 Agent 执行步骤，与负责复杂推理的 Nemotron 3 Ultra（550B 总参数、55B 激活）形成分工。",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmubyl2o004y7ro9i986nyhfy"
+      }
+    },
     {
       "id": "cmubr2enk04a1rociadivcsjt",
       "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
@@ -199,6 +253,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmuaytowf0c4oroln02tacq0c"
+      }
+    },
+    {
+      "id": "cmuc2t8pi06v6rots79xxyyt8",
+      "title": "腾讯混元发布 Hy Image3.5 preview 图像生成模型",
+      "title_en": "Hy Image3.5 preview 发布：为专业创作提供高性价比模型",
+      "url": "https://hunyuan.tencent.com/research/100119?langVersion=zh",
+      "permalink": "https://aihot.news/items/cmuc2t8pi06v6rots79xxyyt8",
+      "source": "腾讯混元：Research（API）",
+      "publishedAt": "2026-09-21T02:51:50.000Z",
+      "discoveredAt": "2026-09-22T02:49:55.238Z",
+      "summary": "腾讯混元发布 Hy Image3.5 preview，支持文生图与图生图、最多 5 张参考图、多轮编辑和最高 2K 分辨率输出，经上百名专业设计师 GSB 盲测对上一代胜率综合提升 30% 以上。",
+      "category": "ai-models",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuc2t8pi06v6rots79xxyyt8"
       }
     },
     {
@@ -1406,25 +1478,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu2d4jj405xcro25xm50v262"
       }
-    },
-    {
-      "id": "cmu23uewb08bfrow2t7lv6cxc",
-      "title": "Artificial Analysis 评测：GPT-Live-1 以 81.5 分登顶 Speech to Speech Index",
-      "title_en": "OpenAI's GPT-Live-1 debuts at #1 on the Artificial Analysis Speech to Speech Index at a score of 81….",
-      "url": "https://x.com/ArtificialAnlys/status/2099698254414029207",
-      "permalink": "https://aihot.news/items/cmu23uewb08bfrow2t7lv6cxc",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-09-15T03:14:09.000Z",
-      "discoveredAt": "2026-09-15T03:21:06.808Z",
-      "summary": "Artificial Analysis 发布 Speech to Speech Index，OpenAI 的 GPT-Live-1 以 81.5 分（Astra 后端，medium 推理强度）排名第一，超过 Grok Voice Think Fast 2.0 High 的 81.3；Sol 后端配置得 80.1 排第三。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu23uewb08bfrow2t7lv6cxc"
-      }
     }
   ],
-  "cachedAt": "2026-09-22T00:04:53Z"
+  "cachedAt": "2026-09-22T04:51:49Z"
 }
