@@ -4,6 +4,60 @@
   "nextCursor": null,
   "items": [
     {
+      "id": "cmubr2enk04a1rociadivcsjt",
+      "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
+      "title_en": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
+      "url": "https://x.com/arena/status/2102142912943489220",
+      "permalink": "https://aihot.news/items/cmubr2enk04a1rociadivcsjt",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-09-21T21:08:21.000Z",
+      "discoveredAt": "2026-09-21T21:21:06.694Z",
+      "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
+      "category": "ai-models",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmubr2enk04a1rociadivcsjt"
+      }
+    },
+    {
+      "id": "cmubqsb9b03v9rocigei56crg",
+      "title": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数",
+      "title_en": "Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26",
+      "url": "https://x.com/ClementDelangue/status/2102141768674222323",
+      "permalink": "https://aihot.news/items/cmubqsb9b03v9rocigei56crg",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "publishedAt": "2026-09-21T21:03:48.000Z",
+      "discoveredAt": "2026-09-21T21:13:13.250Z",
+      "summary": "小米（Xiaomi）发布开放权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，超越前代 MiMo-V2.5-Pro 的 26，为开放权重模型中最高。",
+      "category": "ai-models",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmubqsb9b03v9rocigei56crg"
+      }
+    },
+    {
+      "id": "cmubqsb9l03vbrociqf22sr07",
+      "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
+      "title_en": "Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
+      "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
+      "permalink": "https://aihot.news/items/cmubqsb9l03vbrociqf22sr07",
+      "source": "X：小米 MiMo (@XiaomiMiMo)",
+      "publishedAt": "2026-09-21T20:51:03.000Z",
+      "discoveredAt": "2026-09-21T21:13:13.250Z",
+      "summary": "小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。",
+      "category": "ai-models",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmubqsb9l03vbrociqf22sr07"
+      }
+    },
+    {
       "id": "cmubpn8sw05u5ro4vlvacy22d",
       "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
       "title_en": "Xiaomi MiMo-V2.6：扩展强化学习规模，迈向自我提升",
@@ -37,24 +91,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmubom7qi04k8ro4v1zoas2o7"
-      }
-    },
-    {
-      "id": "cmubox8pl0510ro4vw01ibnin",
-      "title": "小米 MiMo-V2.6-Pro 发布，登顶 Artificial Analysis 开源权重模型智能指数",
-      "title_en": "MiMo-V2.6-Pro debuts as the top open weights model on the Artificial Analysis Intelligence Index （46…",
-      "url": "https://x.com/ArtificialAnlys/status/2102128560962187701",
-      "permalink": "https://aihot.news/items/cmubox8pl0510ro4vw01ibnin",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-09-21T20:11:19.000Z",
-      "discoveredAt": "2026-09-21T20:21:06.337Z",
-      "summary": "Xiaomi 发布开源权重模型 MiMo-V2.6-Pro，在 Artificial Analysis Intelligence Index 得分 46，为开源权重模型中最高，前代 MiMo-V2.5-Pro 为 26。",
-      "category": "ai-models",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmubox8pl0510ro4vw01ibnin"
       }
     },
     {
@@ -1388,43 +1424,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu23uewb08bfrow2t7lv6cxc"
       }
-    },
-    {
-      "id": "cmu3a2rht0goyrosayo2gs0nh",
-      "title": "Vercel 将 inbound 销售团队从 10 人压缩至 1.25 人，AI 销售开发智能体年成本仅数千美元",
-      "title_en": "When Inbound Sells Itself",
-      "url": "https://tomtunguz.com/single-digit-thousand-dollar-ai-sdr",
-      "permalink": "https://aihot.news/items/cmu3a2rht0goyrosayo2gs0nh",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-09-15T00:00:00.000Z",
-      "discoveredAt": "2026-09-15T23:03:22.332Z",
-      "summary": "Vercel COO Jeanne DeWitt Grosser 在 The Information 访谈中表示，公司 inbound 销售开发已实现 90% 自动化，团队从 10 人压缩至 1.25 人。",
-      "category": "tip",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu3a2rht0goyrosayo2gs0nh"
-      }
-    },
-    {
-      "id": "cmu1w7993037vrorbhyp0mwmn",
-      "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-      "title_en": "Is Big Tech's AI slowdown a safety pact or a cartel？",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "permalink": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-09-14T22:59:41.000Z",
-      "discoveredAt": "2026-09-14T23:47:11.878Z",
-      "summary": "Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的\"卡特尔\"。",
-      "category": "tip",
-      "score": 83,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu1w7993037vrorbhyp0mwmn"
-      }
     }
   ],
-  "cachedAt": "2026-09-21T21:02:40Z"
+  "cachedAt": "2026-09-22T00:04:53Z"
 }
