@@ -1,24 +1,186 @@
 {
-  "count": 93,
-  "hasNext": false,
-  "nextCursor": null,
+  "count": 100,
+  "hasNext": true,
+  "nextCursor": "eyJhIjoxNzg5NTYzNjAwMDAwLCJpIjoiY211NDU3NHdiMDl3NXJvNHc3Y2R3Zm03bCJ9",
   "items": [
     {
-      "id": "cmud15c4p0405ro1fa7kb61fe",
-      "title": "GPT-6 Sol 和 GPT-6 Luna 上线 Arena，API 定价比 GPT-5.6 促销价低 50%",
-      "title_en": "GPT-6 Sol and GPT-6 Luna by @OpenAI are now in the Arena！ Head to Agent Arena to test them out， and…",
-      "url": "https://x.com/arena/status/2102470066784854177",
-      "permalink": "https://aihot.news/items/cmud15c4p0405ro1fa7kb61fe",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-09-22T18:48:20.000Z",
-      "discoveredAt": "2026-09-22T18:51:06.503Z",
-      "summary": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，主打更快、更便宜以支持大规模工作，并优化了缓存和推理效率，API 定价比 GPT-5.6 促销价低 50%。",
-      "category": "ai-products",
-      "score": 73,
+      "id": "cmud73hd204tvrora52lp47l0",
+      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价低 50%",
+      "title_en": "Maybe our cutest launch so far. But still packing the biggest punch.",
+      "url": "https://x.com/thsottiaux/status/2102509507415048245",
+      "permalink": "https://aihot.news/items/cmud73hd204tvrora52lp47l0",
+      "source": "X：Tibo (@thsottiaux)",
+      "publishedAt": "2026-09-22T21:25:03.000Z",
+      "discoveredAt": "2026-09-22T21:37:37.215Z",
+      "summary": "OpenAI 欢迎两个新模型加入 GPT-6 系列。GPT-6 Sol 和 Luna 基于 GPT-6 Astra 的技术成果，将大部分能力带入更快、更便宜、支持大规模工作的模型中。通过提升缓存和推理效率，两款模型 API 价格比 GPT-5.6 促销定价低 50%。",
+      "category": "ai-models",
+      "score": 74,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmud15c4p0405ro1fa7kb61fe"
+        "canonical": "https://aihot.news/items/cmud73hd204tvrora52lp47l0"
+      }
+    },
+    {
+      "id": "cmud4mu5303n5roa915w7f1ja",
+      "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
+      "title_en": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "permalink": "https://aihot.news/items/cmud4mu5303n5roa915w7f1ja",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-22T21:00:00.000Z",
+      "discoveredAt": "2026-09-22T20:28:41.898Z",
+      "summary": "OpenAI 为 GPT-6 系列推出改进的提示词缓存系统，默认提高缓存命中率，对 30 分钟窗口内复用的合格共享前缀提供最高 90% 的缓存输入 token 折扣。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud4mu5303n5roa915w7f1ja"
+      }
+    },
+    {
+      "id": "cmud52j4i003droralpe8a53b",
+      "title": "Claude Opus 5.5 发布：较 Opus 5 降价提速，系统卡披露安全演习中约半数运行或有危害行为",
+      "title_en": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
+      "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
+      "permalink": "https://aihot.news/items/cmud52j4i003droralpe8a53b",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-22T20:12:31.000Z",
+      "discoveredAt": "2026-09-22T20:40:46.517Z",
+      "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud52j4i003droralpe8a53b"
+      }
+    },
+    {
+      "id": "cmud2ya2c03wnrov6lnmiq2dv",
+      "title": "Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降",
+      "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier",
+      "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
+      "permalink": "https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "publishedAt": "2026-09-22T19:41:37.417Z",
+      "discoveredAt": "2026-09-22T19:41:37.417Z",
+      "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，价格约为 GPT-5.6 同名型号的一半，Sol 定价 $2/$10 每百万输入/输出 token，Luna 为 $0.10/$0.50。",
+      "category": "tip",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud2ya2c03wnrov6lnmiq2dv"
+      }
+    },
+    {
+      "id": "cmud3b5q504b9rov6qig73auy",
+      "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+      "title_en": "Meta 的 Muse 存在一个严重的 0-day 漏洞",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "permalink": "https://aihot.news/items/cmud3b5q504b9rov6qig73auy",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-22T19:29:49.288Z",
+      "discoveredAt": "2026-09-22T19:51:38.625Z",
+      "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
+      "category": "industry",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud3b5q504b9rov6qig73auy"
+      }
+    },
+    {
+      "id": "cmud3aisf04anrov691zrlhcg",
+      "title": "Arena 上线 GPT-6 Sol 与 GPT-6 Luna 测试，评分即将公布",
+      "title_en": "Scores for GPT-6 Sol and GPT-6 Luna by @OpenAI are coming soon. Head to Arena now to test them. Your…",
+      "url": "https://x.com/arena/status/2102480304409878769",
+      "permalink": "https://aihot.news/items/cmud3aisf04anrov691zrlhcg",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-09-22T19:29:01.000Z",
+      "discoveredAt": "2026-09-22T19:51:06.871Z",
+      "summary": "Arena 宣布 OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 评分即将公布，邀请用户前往 Arena 实测并通过投票真实智能体任务支持其排行榜。",
+      "category": "ai-models",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud3aisf04anrov691zrlhcg"
+      }
+    },
+    {
+      "id": "cmud57mjw02snrora28mvi2h0",
+      "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
+      "title_en": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+      "permalink": "https://aihot.news/items/cmud57mjw02snrora28mvi2h0",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-22T19:03:38.000Z",
+      "discoveredAt": "2026-09-22T20:44:52.774Z",
+      "summary": "五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。",
+      "category": "tip",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud57mjw02snrora28mvi2h0"
+      }
+    },
+    {
+      "id": "cmud32gov0427rov6rcxw9xlf",
+      "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
+      "title_en": "Pentagon： Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
+      "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
+      "permalink": "https://aihot.news/items/cmud32gov0427rov6rcxw9xlf",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-22T19:03:38.000Z",
+      "discoveredAt": "2026-09-22T19:44:52.495Z",
+      "summary": "据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。",
+      "category": "industry",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud32gov0427rov6rcxw9xlf"
+      }
+    },
+    {
+      "id": "cmud28tsp03quro5yp2q3ynpp",
+      "title": "Anthropic 发布 Claude Opus 5.5：性能对标 Fable 5.1，运行成本比 Opus 5 低 40%",
+      "title_en": "Anthropic Releases Claude Opus 5.5： Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+      "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release",
+      "permalink": "https://aihot.news/items/cmud28tsp03quro5yp2q3ynpp",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-09-22T18:59:35.000Z",
+      "discoveredAt": "2026-09-22T19:21:49.576Z",
+      "summary": "Anthropic 发布 Claude 5.5 家族首个模型 Claude Opus 5.5，称其在多数工作上达到 Fable 5.1 水平，典型工作负载运行成本比 Opus 5 低 40%，输出速度快 30% 以上。",
+      "category": "ai-models",
+      "score": 84,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud28tsp03quro5yp2q3ynpp"
+      }
+    },
+    {
+      "id": "cmud0p2rl03ipro1flr9w7tnn",
+      "title": "Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手",
+      "title_en": "Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+      "url": "https://x.com/sama/status/2102465143997440308",
+      "permalink": "https://aihot.news/items/cmud0p2rl03ipro1flr9w7tnn",
+      "source": "X：Sam Altman (@sama)",
+      "publishedAt": "2026-09-22T18:28:46.000Z",
+      "discoveredAt": "2026-09-22T18:38:27.084Z",
+      "summary": "Sam Altman 表示，以按任务定价衡量，GPT-6 Sol 和 Luna 在市场上没有可竞争的对手。引用内容称两款模型相比 5.6 系列在智能、对齐、工作产出、编码和计算机使用上有大幅提升，价格每 token 减半，按任务算更低。他说希望人们能用大量 AI，这对探索眼前的新复兴很重要。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud0p2rl03ipro1flr9w7tnn"
       }
     },
     {
@@ -37,6 +199,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmud0p2rm03irro1f0azwgip8"
+      }
+    },
+    {
+      "id": "cmud0p2q603inro1fm32430f8",
+      "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
+      "title_en": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
+      "url": "https://x.com/OpenRouter/status/2102463839283617992",
+      "permalink": "https://aihot.news/items/cmud0p2q603inro1fm32430f8",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-09-22T18:23:35.000Z",
+      "discoveredAt": "2026-09-22T18:38:27.084Z",
+      "summary": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud0p2q603inro1fm32430f8"
       }
     },
     {
@@ -91,6 +271,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmud0ng5n001gro1fb8xe3oji"
+      }
+    },
+    {
+      "id": "cmud1y2ku039iro5ysl7pq6d3",
+      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%",
+      "title_en": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "permalink": "https://aihot.news/items/cmud1y2ku039iro5ysl7pq6d3",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-22T18:00:00.000Z",
+      "discoveredAt": "2026-09-22T19:13:26.358Z",
+      "summary": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，将 GPT-6 Astra 的训练方法用于更快更便宜的模型，API 价格较 GPT-5.6 促销价下调 50%（Sol 输入 $4→$2、输出 $20→$10；Luna 输入 $0.20→$0.10、输出 $1.20→$0.50，每百万 token）。",
+      "category": "ai-models",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud1y2ku039iro5ysl7pq6d3"
       }
     },
     {
@@ -274,24 +472,6 @@
       }
     },
     {
-      "id": "cmucwn00k0rgmroed9bjd9g33",
-      "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
-      "title_en": "Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-      "permalink": "https://aihot.news/items/cmucwn00k0rgmroed9bjd9g33",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-22T14:35:15.000Z",
-      "discoveredAt": "2026-09-22T16:44:52.065Z",
-      "summary": "Ars Technica 报道，安全专家 Patrick Wardle 披露 Meta 的 macOS AI 助手 Muse 存在 0-day 漏洞：任何本地应用或终端命令都能修改未公开设置，把语音转录端点指向攻击者服务器，从而获取 Muse 账户令牌和完整控制权。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmucwn00k0rgmroed9bjd9g33"
-      }
-    },
-    {
       "id": "cmucoqh360i0jroedps8dr2es",
       "title": "Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售",
       "title_en": "The new Mac mini and Mac Studio are available today",
@@ -361,6 +541,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c"
+      }
+    },
+    {
+      "id": "cmud77i8r04yerorajpj343j2",
+      "title": "Epoch AI 研究报告：达到同等 AI 性能的成本每季度下降约 47%",
+      "title_en": "The plunging price of thought",
+      "url": "https://epoch.ai/publications/the-plunging-price-of-thought",
+      "permalink": "https://aihot.news/items/cmud77i8r04yerorajpj343j2",
+      "source": "Epoch AI：研究、数据与评测",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "discoveredAt": "2026-09-22T21:40:46.303Z",
+      "summary": "Epoch AI 发布报告，估算过去三年内达到同等 AI 性能的成本平均每季度下降约 47%，即每年约 13 倍，并认为这一速度可能自 2021 年 11 月商业 LLM 推理开始以来持续至今。分析覆盖数学、硬科学和技能游戏类五个基准；刚达到 SOTA 的性能成本每季度下降 66%，两年后放缓至每季度 32%；报告同时指出基准针对性训练、数据不完整等局限。数据与代码在 GitHub 上公开。",
+      "category": "paper",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud77i8r04yerorajpj343j2"
       }
     },
     {
@@ -757,6 +955,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmua567e703tmro5t558lzx7o"
+      }
+    },
+    {
+      "id": "cmud2u29803s0rov6uljj8bm2",
+      "title": "Fireworks AI 分析：前沿不是单个模型，而是路由器，FireRouter 发布",
+      "title_en": "The frontier isn't a model. It's a router.",
+      "url": "https://fireworks.ai/blog/the-frontier-isnt-a-model-its-a-router",
+      "permalink": "https://aihot.news/items/cmud2u29803s0rov6uljj8bm2",
+      "source": "Fireworks AI（网页）",
+      "publishedAt": "2026-09-20T16:00:00.000Z",
+      "discoveredAt": "2026-09-20T16:00:00.000Z",
+      "summary": "Fireworks AI 发布 FireRouter 并分析 DeepSWE v1.1 上 113 个任务、18 个模型的路由潜力。",
+      "category": "tip",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud2u29803s0rov6uljj8bm2"
       }
     },
     {
@@ -1586,97 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l"
       }
-    },
-    {
-      "id": "cmu70p8rz0lwirowknowy7cwc",
-      "title": "蚂蚁 inclusionAI 开源 Realtime-Venus 全双工交互系统",
-      "title_en": "inclusionAI/Realtime-Venus",
-      "url": "https://github.com/inclusionAI/Realtime-Venus",
-      "permalink": "https://aihot.news/items/cmu70p8rz0lwirowknowy7cwc",
-      "source": "蚂蚁 inclusionAI：GitHub 新仓库",
-      "publishedAt": "2026-09-16T07:57:55.000Z",
-      "discoveredAt": "2026-09-16T07:57:55.000Z",
-      "summary": "蚂蚁集团 Venus 团队与清华大学在 GitHub 开源 Realtime-Venus，一个支持全双工对话与异步任务委托的实时交互系统。系统包含三个组件：Realtime-Venus-Omni（9B，流式音视频对话与主动交互）、Realtime-Venus-Audio（9B，语音交互与音频理解）以及负责后台任务执行并将结果返回同一对话的 Harness 运行时。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu70p8rz0lwirowknowy7cwc"
-      }
-    },
-    {
-      "id": "cmu74ww1u0qfzrowk0r3u1nf2",
-      "title": "DeepSeek V4 哪些型号支持图像输入？OpenRouter 逐款梳理与调用指南",
-      "title_en": "Does DeepSeek V4 Have Vision？",
-      "url": "https://openrouter.ai/blog/insights/deepseek-v4-vision",
-      "permalink": "https://aihot.news/items/cmu74ww1u0qfzrowk0r3u1nf2",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-09-16T00:00:00.000Z",
-      "discoveredAt": "2026-09-16T00:00:00.000Z",
-      "summary": "OpenRouter 梳理其目录中的 DeepSeek V4 系列图像输入支持情况：V4.1 Flash 原生读图（2026年9月10日上线，$0.15/$0.60 每百万 token）。",
-      "category": "tip",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu74ww1u0qfzrowk0r3u1nf2"
-      }
-    },
-    {
-      "id": "cmu4hic050r8kro4wzayakuhu",
-      "title": "Grok Build 推出记忆功能，可跨会话保留项目约定与决策",
-      "title_en": "Memory in Grok Build",
-      "url": "https://x.ai/news/grok-build-memory",
-      "permalink": "https://aihot.news/items/cmu4hic050r8kro4wzayakuhu",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-09-16T00:00:00.000Z",
-      "discoveredAt": "2026-09-16T19:18:54.310Z",
-      "summary": "xAI 宣布 Grok Build 上线记忆功能，会在每轮对话结束后于后台记录项目约定、决策及事实，供后续会话读取。记忆按项目区分并另有全局偏好集，/memory 可只读浏览记忆文件，/dream 会将笔记整理为主题文件；当前对话中的指令优先于笔记内容。",
-      "category": "ai-products",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu4hic050r8kro4wzayakuhu"
-      }
-    },
-    {
-      "id": "cmu36fa060aaqrosaqk9opwh9",
-      "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-      "title_en": "Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-      "url": "https://x.com/arena/status/2099971741993050236",
-      "permalink": "https://aihot.news/items/cmu36fa060aaqrosaqk9opwh9",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-09-15T21:20:53.000Z",
-      "discoveredAt": "2026-09-15T21:21:06.645Z",
-      "summary": "Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Astra （Max） 以 1733 分居第一，领先 GPT-5.6 Sol （xHigh） 129 分；Claude Fable 5.1 （Max） 以 1710 分排第二，Muse Spark 1.3 （Max） 1645 分第四，GLM-5.3-Flash 1588 分第十。",
-      "category": "tip",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu36fa060aaqrosaqk9opwh9"
-      }
-    },
-    {
-      "id": "cmu352k2908t9rosaotpsx42c",
-      "title": "Perplexity 自研 CobbleDB 替代 AWS DynamoDB，每年最多可节省一亿美元",
-      "title_en": "We built a replacement for AWS DynamoDB， a key-value database for fast web content fetches. This was…",
-      "url": "https://x.com/AravSrinivas/status/2099957318935028173",
-      "permalink": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "publishedAt": "2026-09-15T20:23:34.000Z",
-      "discoveredAt": "2026-09-15T20:43:13.349Z",
-      "summary": "Perplexity CEO Aravind Srinivas 宣布自研键值数据库 CobbleDB，替代 AWS DynamoDB 用于快速网页内容抓取，迁移后每年最多可节省一亿美元。该项目由两名工程师和数百个持续运行的 Computer 智能体在两个月内完成核心基础设施，官方研究称热存储批次读取延迟较 DynamoDB 全分布下降约 5 倍（P50 从 31.4ms 降至 5.60ms）。",
-      "category": "industry",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c"
-      }
     }
   ],
-  "cachedAt": "2026-09-22T18:52:40Z"
+  "cachedAt": "2026-09-22T22:06:35Z"
 }
