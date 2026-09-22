@@ -1,8 +1,260 @@
 {
-  "count": 80,
+  "count": 93,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "cmud15c4p0405ro1fa7kb61fe",
+      "title": "GPT-6 Sol 和 GPT-6 Luna 上线 Arena，API 定价比 GPT-5.6 促销价低 50%",
+      "title_en": "GPT-6 Sol and GPT-6 Luna by @OpenAI are now in the Arena！ Head to Agent Arena to test them out， and…",
+      "url": "https://x.com/arena/status/2102470066784854177",
+      "permalink": "https://aihot.news/items/cmud15c4p0405ro1fa7kb61fe",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-09-22T18:48:20.000Z",
+      "discoveredAt": "2026-09-22T18:51:06.503Z",
+      "summary": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，主打更快、更便宜以支持大规模工作，并优化了缓存和推理效率，API 定价比 GPT-5.6 促销价低 50%。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud15c4p0405ro1fa7kb61fe"
+      }
+    },
+    {
+      "id": "cmud0p2rm03irro1f0azwgip8",
+      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%",
+      "title_en": "GPT-6 Sol and Luna are great models but also these characters are so cute",
+      "url": "https://x.com/sama/status/2102464201335984392",
+      "permalink": "https://aihot.news/items/cmud0p2rm03irro1f0azwgip8",
+      "source": "X：Sam Altman (@sama)",
+      "publishedAt": "2026-09-22T18:25:02.000Z",
+      "discoveredAt": "2026-09-22T18:38:27.084Z",
+      "summary": "OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud0p2rm03irro1f0azwgip8"
+      }
+    },
+    {
+      "id": "cmud02r5503swro7nhqpu7dgu",
+      "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
+      "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+      "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+      "permalink": "https://aihot.news/items/cmud02r5503swro7nhqpu7dgu",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-09-22T18:20:06.000Z",
+      "discoveredAt": "2026-09-22T18:21:06.239Z",
+      "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
+      "category": "tip",
+      "score": 84,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud02r5503swro7nhqpu7dgu"
+      }
+    },
+    {
+      "id": "cmud102ad03urro1fdmzfqj9w",
+      "title": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50%",
+      "title_en": "GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
+      "url": "https://x.com/sherwinwu/status/2102462783707344907",
+      "permalink": "https://aihot.news/items/cmud102ad03urro1fdmzfqj9w",
+      "source": "X：Sherwin Wu（@sherwinwu）",
+      "publishedAt": "2026-09-22T18:19:24.000Z",
+      "discoveredAt": "2026-09-22T18:47:00.297Z",
+      "summary": "OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GPT-5.6 低 50%。Sherwin Wu 补充 GPT-6 Luna 定价为每 1M tokens 输入 $0.10、输出 $0.50，并称价格很快需要改按每十亿 tokens 计价。",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud102ad03urro1fdmzfqj9w"
+      }
+    },
+    {
+      "id": "cmud0ng5n001gro1fb8xe3oji",
+      "title": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送",
+      "title_en": "GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
+      "url": "https://x.com/ChatGPT/status/2102462020339613966",
+      "permalink": "https://aihot.news/items/cmud0ng5n001gro1fb8xe3oji",
+      "source": "X：ChatGPT (@ChatGPT)",
+      "publishedAt": "2026-09-22T18:16:22.000Z",
+      "discoveredAt": "2026-09-22T18:37:12.287Z",
+      "summary": "OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud0ng5n001gro1fb8xe3oji"
+      }
+    },
+    {
+      "id": "cmucz06v905eironivy08mtvk",
+      "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+      "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+      "url": "https://x.com/arena/status/2102454952576868638",
+      "permalink": "https://aihot.news/items/cmucz06v905eironivy08mtvk",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-09-22T17:48:17.000Z",
+      "discoveredAt": "2026-09-22T17:51:06.073Z",
+      "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+      "category": "industry",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmucz06v905eironivy08mtvk"
+      }
+    },
+    {
+      "id": "cmucyny580521roni2aiyh9xj",
+      "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
+      "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+      "permalink": "https://aihot.news/items/cmucyny580521roni2aiyh9xj",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "publishedAt": "2026-09-22T17:41:36.934Z",
+      "discoveredAt": "2026-09-22T17:41:36.934Z",
+      "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
+      "category": "tip",
+      "score": 85,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmucyny580521roni2aiyh9xj"
+      }
+    },
+    {
+      "id": "cmucwy58v0rskroedmv35n8ji",
+      "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
+      "title_en": "Introducing Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "permalink": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-09-22T16:53:30.664Z",
+      "discoveredAt": "2026-09-22T16:53:30.664Z",
+      "summary": "Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。",
+      "category": "ai-models",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmucwy58v0rskroedmv35n8ji"
+      }
+    },
+    {
+      "id": "cmucxgajz0sfiroedxx6y9qyw",
+      "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+      "title_en": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+      "url": "https://x.com/bcherny/status/2102439069053747549",
+      "permalink": "https://aihot.news/items/cmucxgajz0sfiroedxx6y9qyw",
+      "source": "X：Boris Cherny (@bcherny)",
+      "publishedAt": "2026-09-22T16:45:10.000Z",
+      "discoveredAt": "2026-09-22T17:07:37.651Z",
+      "summary": "Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmucxgajz0sfiroedxx6y9qyw"
+      }
+    },
+    {
+      "id": "cmucxgaki0sfkroed0n804wg5",
+      "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
+      "title_en": "Claude Opus 5.5 from @AnthropicAI is live on OpenRouter！ The first model in the Claude 5.5 family l…",
+      "url": "https://x.com/OpenRouter/status/2102438921213014078",
+      "permalink": "https://aihot.news/items/cmucxgaki0sfkroed0n804wg5",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-09-22T16:44:34.000Z",
+      "discoveredAt": "2026-09-22T17:07:37.651Z",
+      "summary": "Anthropic 的 Claude Opus 5.5 上线 OpenRouter，是 Claude 5.5 系列首个模型，在智能体编码、知识工作和计算机使用上领先 Opus 5 和 Fable 5.1。提供 1M 上下文窗口，定价为每百万输入 token $4、输出 $20，比 Opus 5 低 20%。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmucxgaki0sfkroed0n804wg5"
+      }
+    },
+    {
+      "id": "cmucwv0h50ro5roedgmckw2j5",
+      "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+      "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+      "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+      "permalink": "https://aihot.news/items/cmucwv0h50ro5roedgmckw2j5",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-09-22T16:41:45.000Z",
+      "discoveredAt": "2026-09-22T16:51:06.241Z",
+      "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+      "category": "tip",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmucwv0h50ro5roedgmckw2j5"
+      }
+    },
+    {
+      "id": "cmucxceh40salroedruwhn0ee",
+      "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+      "title_en": "v2.1.280",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+      "permalink": "https://aihot.news/items/cmucxceh40salroedruwhn0ee",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "publishedAt": "2026-09-22T16:38:14.000Z",
+      "discoveredAt": "2026-09-22T17:04:36.534Z",
+      "summary": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
+      "category": "ai-products",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmucxceh40salroedruwhn0ee"
+      }
+    },
+    {
+      "id": "cmucwpqty0rj8roedzxz1496u",
+      "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
+      "title_en": "Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
+      "url": "https://x.com/claudeai/status/2102435511222890900",
+      "permalink": "https://aihot.news/items/cmucwpqty0rj8roedzxz1496u",
+      "source": "X：Claude (@claudeai)",
+      "publishedAt": "2026-09-22T16:31:01.000Z",
+      "discoveredAt": "2026-09-22T16:47:00.295Z",
+      "summary": "Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。",
+      "category": "ai-models",
+      "score": 70,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmucwpqty0rj8roedzxz1496u"
+      }
+    },
+    {
+      "id": "cmuctnbbf0nziroedajbl6g3r",
+      "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+      "title_en": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
+      "url": "https://x.com/arena/status/2102416020678008986",
+      "permalink": "https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-09-22T15:13:34.000Z",
+      "discoveredAt": "2026-09-22T15:21:06.898Z",
+      "summary": "通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r"
+      }
+    },
     {
       "id": "cmucs4qas0m1vroedh2vdhjb6",
       "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
@@ -19,6 +271,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6"
+      }
+    },
+    {
+      "id": "cmucwn00k0rgmroed9bjd9g33",
+      "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+      "title_en": "Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "permalink": "https://aihot.news/items/cmucwn00k0rgmroed9bjd9g33",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-22T14:35:15.000Z",
+      "discoveredAt": "2026-09-22T16:44:52.065Z",
+      "summary": "Ars Technica 报道，安全专家 Patrick Wardle 披露 Meta 的 macOS AI 助手 Muse 存在 0-day 漏洞：任何本地应用或终端命令都能修改未公开设置，把语音转录端点指向攻击者服务器，从而获取 Muse 账户令牌和完整控制权。",
+      "category": "industry",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmucwn00k0rgmroed9bjd9g33"
       }
     },
     {
@@ -91,6 +361,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmuc0pmnx04g0rotscsnqd50c"
+      }
+    },
+    {
+      "id": "cmucxyky704ftronibjzp4dos",
+      "title": "OpenRouter 实测 Jev 1.13 与 Claude Opus 5 在 Banking77 分类任务上的准确率、延迟与成本",
+      "title_en": "Is Jev as Accurate as Frontier Models at Classification？",
+      "url": "https://openrouter.ai/blog/insights/jev-vs-claude-opus-5-classification",
+      "permalink": "https://aihot.news/items/cmucxyky704ftronibjzp4dos",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "discoveredAt": "2026-09-22T17:21:52.130Z",
+      "summary": "OpenRouter 用 Banking77 测试集的 3，080 条客服语料对比 Jev 1.13 与 Claude Opus 5 的意图分类表现。Jev 准确率 81.0% 比 Opus 的 84.4% 低 3.3 个百分点，但中位延迟 175 ms 约为 Opus（2，266 ms）的 1/13，每千次请求成本 $0.11 对 $2.42（启用提示词缓存）。",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmucxyky704ftronibjzp4dos"
       }
     },
     {
@@ -238,24 +526,6 @@
       }
     },
     {
-      "id": "cmubni6yr03ihro4v6pea4amm",
-      "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-      "title_en": "Benchmarking Grok 4.7",
-      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-      "permalink": "https://aihot.news/items/cmubni6yr03ihro4v6pea4amm",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "publishedAt": "2026-09-21T19:41:25.079Z",
-      "discoveredAt": "2026-09-21T19:41:25.079Z",
-      "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmubni6yr03ihro4v6pea4amm"
-      }
-    },
-    {
       "id": "cmubi4zxl110orolnqaltv0qp",
       "title": "马斯克称 Grok 4.7 使 xAI 在智能体编码领域位列第三",
       "title_en": "Grok 4.7 places @SpaceXAI as third， after Anthropic &amp； OpenAI， for agentic coding. When factori…",
@@ -271,6 +541,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmubi4zxl110orolnqaltv0qp"
+      }
+    },
+    {
+      "id": "cmubhf6n4106prolnfasuj0hw",
+      "title": "Artificial Analysis 评测 Grok 4.7：智能指数得分 46，编码智能体指数升至 56",
+      "title_en": "Grok 4.7 scores 46 on the Artificial Analysis Intelligence Index to bring SpaceXAI into the top 4 AI…",
+      "url": "https://x.com/ArtificialAnlys/status/2102074898327932987",
+      "permalink": "https://aihot.news/items/cmubhf6n4106prolnfasuj0hw",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-09-21T16:38:05.000Z",
+      "discoveredAt": "2026-09-21T16:51:06.433Z",
+      "summary": "Artificial Analysis 发布 Grok 4.7 评测，其在 Artificial Analysis Intelligence Index 得分 46，较 Grok 4.6 高 2 分，使 SpaceXAI 进入前四大 AI 实验室。",
+      "category": "paper",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmubhf6n4106prolnfasuj0hw"
       }
     },
     {
@@ -469,6 +757,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmua567e703tmro5t558lzx7o"
+      }
+    },
+    {
+      "id": "cmubni6yr03ihro4v6pea4amm",
+      "title": "Artificial Analysis 评测 Grok 4.7：智能指数 46 分进入前四，编码智能体升至第 4",
+      "title_en": "Benchmarking Grok 4.7",
+      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+      "permalink": "https://aihot.news/items/cmubni6yr03ihro4v6pea4amm",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "publishedAt": "2026-09-20T16:00:00.000Z",
+      "discoveredAt": "2026-09-21T19:41:25.079Z",
+      "summary": "Artificial Analysis 发布 Grok 4.7 评测，Grok 4.7（xhigh）智能指数得 46 分，较 Grok 4.6 高 2 分，使 SpaceXAI 进入前四；搭配 Grok Build 的编码智能体指数从 47 升至 56，仅次于 Claude Fable 5.1、GPT-6 Astra 和 Claude Opus 5。",
+      "category": "tip",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmubni6yr03ihro4v6pea4amm"
       }
     },
     {
@@ -1370,79 +1676,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu352k2908t9rosaotpsx42c"
       }
-    },
-    {
-      "id": "cmu2xqfxz02zhroc1hxuzi6jm",
-      "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking",
-      "title_en": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
-      "permalink": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-09-15T17:05:57.000Z",
-      "discoveredAt": "2026-09-15T17:17:49.795Z",
-      "summary": "Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。",
-      "category": "ai-models",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu2xqfxz02zhroc1hxuzi6jm"
-      }
-    },
-    {
-      "id": "cmu4c8qar0hzero4w3b6n1jyf",
-      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一 Claude，并推出 Docs 和 Slides",
-      "title_en": "Claude Cowork and chat are now one Claude",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
-      "permalink": "https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "discoveredAt": "2026-09-16T16:51:45.914Z",
-      "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，并沿用已有的上下文、skills 和 connectors。",
-      "category": "ai-products",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu4c8qar0hzero4w3b6n1jyf"
-      }
-    },
-    {
-      "id": "cmu2vlgqe03sxrowkkyx8bc1s",
-      "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-      "title_en": "AI for everyone in every language",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "permalink": "https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s",
-      "source": "Google Blog：AI（RSS）",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "discoveredAt": "2026-09-15T16:17:57.554Z",
-      "summary": "Google 宣布其语言技术已支持超过 300 种语言、覆盖全球 86% 人口，并发布 TranslateGemma 轻量开源翻译模型（基于 Gemini 训练、支持 55 种语言、可离线运行）。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu2vlgqe03sxrowkkyx8bc1s"
-      }
-    },
-    {
-      "id": "cmu2utske02sjrowk2zs2agim",
-      "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-      "title_en": "Inside OpenAI's agentic software factory",
-      "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-      "permalink": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim",
-      "source": "Pragmatic Engineer（RSS）",
-      "publishedAt": "2026-09-15T15:41:25.000Z",
-      "discoveredAt": "2026-09-15T15:56:28.910Z",
-      "summary": "Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人，发现自约一月起 Codex 和 ChatGPT Work 已成为公司几乎所有工作的基础。",
-      "category": "tip",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu2utske02sjrowk2zs2agim"
-      }
     }
   ],
-  "cachedAt": "2026-09-22T14:50:56Z"
+  "cachedAt": "2026-09-22T18:52:40Z"
 }
