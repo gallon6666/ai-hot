@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg5NTc0NDAwMDAwLCJpIjoiY211NXI3a2wzMGgzNXJvcW9ucGs0cXlwbiJ9",
+  "nextCursor": "eyJhIjoxNzg5NTc0NDAwMDAwLCJpIjoiY211NXR1am5wMGp2b3JvcW9xNjRvcW5qciJ9",
   "items": [
+    {
+      "id": "cmudwte2x0aqtroghe1b5cxfd",
+      "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
+      "title_en": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
+      "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
+      "permalink": "https://aihot.news/items/cmudwte2x0aqtroghe1b5cxfd",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-09-23T09:11:23.000Z",
+      "discoveredAt": "2026-09-23T09:37:37.169Z",
+      "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。",
+      "category": "ai-models",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmudwte2x0aqtroghe1b5cxfd"
+      }
+    },
     {
       "id": "cmudnpv0k0hrrrogg9gcyun5n",
       "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
@@ -922,6 +940,24 @@
       }
     },
     {
+      "id": "cmudpvn230nxmroggdp0jx9uj",
+      "title": "TypeSafe 决策模型 Jev 通过 OpenRouter Decisions API 开放调用",
+      "title_en": "What Is Jev？ TypeSafe's Decision Model Explained for Developers",
+      "url": "https://openrouter.ai/blog/insights/what-is-jev",
+      "permalink": "https://aihot.news/items/cmudpvn230nxmroggdp0jx9uj",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-21T00:00:00.000Z",
+      "discoveredAt": "2026-09-21T00:00:00.000Z",
+      "summary": "TypeSafe 的决策模型 Jev 已可通过 OpenRouter Decisions API 调用，模型 ID 为 typesafe/jev-1.13，于 2026 年 9 月 15 日发布早期访问。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmudpvn230nxmroggdp0jx9uj"
+      }
+    },
+    {
       "id": "cmubhvftd10qjrolnr7q9k3lt",
       "title": "Tomer Tunguz 谈 AI 优化 if-then 判断：专用决策器把分类成本降近百倍",
       "title_en": "AI Comes for the If Statement",
@@ -1766,43 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu5tujnp0jvoroqoq64oqnjr"
       }
-    },
-    {
-      "id": "cmu5tt21f0ju8roqou76ycwz8",
-      "title": "Anthropic 推出生命科学验证计划（LSVP）",
-      "title_en": "Introducing the Life Sciences Verification Program",
-      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "permalink": "https://aihot.news/items/cmu5tt21f0ju8roqou76ycwz8",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "discoveredAt": "2026-09-17T17:51:14.219Z",
-      "summary": "Anthropic 推出 Life Sciences Verification Program（LSVP）beta，向经过验证的生命科学专业团队开放 Mythos、Opus 和 Sonnet 模型上比通用版更宽松的生物相关访问。",
-      "category": "ai-products",
-      "score": 64,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu5tt21f0ju8roqou76ycwz8"
-      }
-    },
-    {
-      "id": "cmu5r7kl30h35roqonpk4qypn",
-      "title": "Goodfire 发现模型内部存在奖励作弊信号，用激活探针可规模化实时检测",
-      "title_en": "Models know when they're reward hacking - and we can catch them at scale",
-      "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
-      "permalink": "https://aihot.news/items/cmu5r7kl30h35roqonpk4qypn",
-      "source": "Goodfire Research（网页）",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "discoveredAt": "2026-09-17T16:38:32.383Z",
-      "summary": "Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，并用简单的 difference-of-means 探针检测它，效果接近甚至部分超过基于 LLM 思维链的监控。",
-      "category": "paper",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu5r7kl30h35roqonpk4qypn"
-      }
     }
   ],
-  "cachedAt": "2026-09-23T05:56:44Z"
+  "cachedAt": "2026-09-23T11:31:48Z"
 }
