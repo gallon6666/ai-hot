@@ -1,8 +1,62 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg5NTYzNjAwMDAwLCJpIjoiY211NDU3NHdiMDl3NXJvNHc3Y2R3Zm03bCJ9",
+  "nextCursor": "eyJhIjoxNzg5NTc0NDAwMDAwLCJpIjoiY211NXI3a2wzMGgzNXJvcW9ucGs0cXlwbiJ9",
   "items": [
+    {
+      "id": "cmudnpv0k0hrrrogg9gcyun5n",
+      "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
+      "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+      "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
+      "permalink": "https://aihot.news/items/cmudnpv0k0hrrrogg9gcyun5n",
+      "source": "MarkTechPost（RSS）",
+      "publishedAt": "2026-09-23T05:18:36.000Z",
+      "discoveredAt": "2026-09-23T05:22:56.280Z",
+      "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmudnpv0k0hrrrogg9gcyun5n"
+      }
+    },
+    {
+      "id": "cmudfo3yi090orogg6bl51tiq",
+      "title": "Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一",
+      "title_en": "Thanks @arena for the recognition！ 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Ima…",
+      "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912",
+      "permalink": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "publishedAt": "2026-09-23T01:24:44.000Z",
+      "discoveredAt": "2026-09-23T01:37:37.014Z",
+      "summary": "通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq"
+      }
+    },
+    {
+      "id": "cmude350u077jroggw7odbigk",
+      "title": "OpenRouter 发布 2026 年最佳嵌入模型选型指南，覆盖 37 个目录条目",
+      "title_en": "Best Embedding Models in 2026",
+      "url": "https://openrouter.ai/blog/insights/best-embedding-models-2026",
+      "permalink": "https://aihot.news/items/cmude350u077jroggw7odbigk",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "discoveredAt": "2026-09-23T00:53:18.852Z",
+      "summary": "OpenRouter 于 2026 年 9 月 11 日核实嵌入模型目录共 37 个条目，并通过自家 embeddings API 向 19 个模型发送批量请求、共 28 项检查，确认请求与响应行为。",
+      "category": "tip",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmude350u077jroggw7odbigk"
+      }
+    },
     {
       "id": "cmudch57g05bqroggl65fi9vo",
       "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
@@ -433,24 +487,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmucwpqty0rj8roedzxz1496u"
-      }
-    },
-    {
-      "id": "cmuctnbbf0nziroedajbl6g3r",
-      "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
-      "title_en": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
-      "url": "https://x.com/arena/status/2102416020678008986",
-      "permalink": "https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-09-22T15:13:34.000Z",
-      "discoveredAt": "2026-09-22T15:21:06.898Z",
-      "summary": "通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuctnbbf0nziroedajbl6g3r"
       }
     },
     {
@@ -1766,43 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu5r7kl30h35roqonpk4qypn"
       }
-    },
-    {
-      "id": "cmu46kvju0bdsro4w0sonrv7q",
-      "title": "微软 AI CEO 警告\"模型福利\"论调",
-      "title_en": "https://x.com/i/article/2100222503125917696",
-      "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-      "permalink": "https://aihot.news/items/cmu46kvju0bdsro4w0sonrv7q",
-      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-      "publishedAt": "2026-09-16T14:01:39.000Z",
-      "discoveredAt": "2026-09-16T14:13:13.562Z",
-      "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
-      "category": "ai-models",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu46kvju0bdsro4w0sonrv7q"
-      }
-    },
-    {
-      "id": "cmu4574wb09w5ro4w7cdwfm7l",
-      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
-      "title_en": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "permalink": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-16T13:00:00.000Z",
-      "discoveredAt": "2026-09-16T13:34:31.714Z",
-      "summary": "OpenAI 为 ChatGPT Ads 推出多项 AI 驱动的新体验。Sponsored Agents 允许用户在点击广告后与明确标识的商业赞助智能体对话，目前在美国部分广告主中测试。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu4574wb09w5ro4w7cdwfm7l"
-      }
     }
   ],
-  "cachedAt": "2026-09-23T00:30:08Z"
+  "cachedAt": "2026-09-23T05:56:44Z"
 }
