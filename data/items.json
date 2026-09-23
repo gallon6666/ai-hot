@@ -1,8 +1,116 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg5Njg5NjAwMDAwLCJpIjoiY211Nzk3bXowMHY1MHJvd2s1MGE2a3NwMyJ9",
+  "nextCursor": "eyJhIjoxNzg5NzQ4OTk3MDAwLCJpIjoiY211NzdrdnowMHRmNnJvd2s5a2w1bzRrMCJ9",
   "items": [
+    {
+      "id": "cmuepgrq30eh3royntmaj59h4",
+      "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+      "title_en": "阿尔巴内塞透露，OpenAI 入侵了\"联邦医疗保险\"系统",
+      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "permalink": "https://aihot.news/items/cmuepgrq30eh3royntmaj59h4",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-23T22:54:29.320Z",
+      "discoveredAt": "2026-09-23T22:59:38.001Z",
+      "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+      "category": "industry",
+      "score": 84,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuepgrq30eh3royntmaj59h4"
+      }
+    },
+    {
+      "id": "cmueno9s80cv0royn7zd2ihe1",
+      "title": "AI 公司负责人在联合国安理会简报会上警告 AI 可能危及全人类",
+      "title_en": "Historic UN Security Council Briefing on AI",
+      "url": "https://garymarcus.substack.com/p/historic-un-security-council-briefing",
+      "permalink": "https://aihot.news/items/cmueno9s80cv0royn7zd2ihe1",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "publishedAt": "2026-09-23T21:46:40.000Z",
+      "discoveredAt": "2026-09-23T22:09:28.705Z",
+      "summary": "联合国安理会举行 AI 简报会，Yoshua Bengio、Sam Altman、Dario Amodei 和 Hugging Face CEO Clement Delangue 相继发言，美联社报道主要 AI 公司负责人警告若无干预，AI 可能对全人类构成风险。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmueno9s80cv0royn7zd2ihe1"
+      }
+    },
+    {
+      "id": "cmuemnn9m07yproynbzmmumd3",
+      "title": "Fireworks Research 发布 Ember-1，以更少推理 token 保持 Kimi K3 质量",
+      "title_en": "Introducing Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "permalink": "https://aihot.news/items/cmuemnn9m07yproynbzmmumd3",
+      "source": "Fireworks AI（网页）",
+      "publishedAt": "2026-09-23T21:40:50.983Z",
+      "discoveredAt": "2026-09-23T21:40:50.983Z",
+      "summary": "Fireworks Research 发布基于 Kimi K3 的专用模型 Ember-1，以约少 40% 的 token 达到与 Kimi K3 相当的质量，今日以 Research Preview 形式在 Serverless 上线。",
+      "category": "ai-models",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuemnn9m07yproynbzmmumd3"
+      }
+    },
+    {
+      "id": "cmuem5vyq07nqroynhi5j65vd",
+      "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
+      "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+      "url": "https://x.com/natolambert/status/2102872133244183038",
+      "permalink": "https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd",
+      "source": "X：Nathan Lambert (@natolambert)",
+      "publishedAt": "2026-09-23T21:26:00.000Z",
+      "discoveredAt": "2026-09-23T21:27:09.428Z",
+      "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+      "category": "tip",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuem5vyq07nqroynhi5j65vd"
+      }
+    },
+    {
+      "id": "cmuek0q2c05foroynclaijp3z",
+      "title": "团队分享提升 Agent Harness Token 效率的提示词",
+      "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+      "url": "https://x.com/ericzakariasson/status/2102853511637774551",
+      "permalink": "https://aihot.news/items/cmuek0q2c05foroynclaijp3z",
+      "source": "X：Eric Zakariasson (@ericzakariasson)",
+      "publishedAt": "2026-09-23T20:12:00.000Z",
+      "discoveredAt": "2026-09-23T20:27:09.837Z",
+      "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuek0q2c05foroynclaijp3z"
+      }
+    },
+    {
+      "id": "cmuekny10060lroyn21gctbfw",
+      "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
+      "title_en": "How we made claude.ai 3x faster in two weeks",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+      "permalink": "https://aihot.news/items/cmuekny10060lroyn21gctbfw",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-23T19:23:40.000Z",
+      "discoveredAt": "2026-09-23T20:45:13.477Z",
+      "summary": "Anthropic 团队发文详解今年 8 月通过两周冲刺让 claude.ai 和桌面端核心体验提速约 3 倍的过程：聚焦覆盖 95% 用户活动的四条旅程，75 分位首屏可输入时间从 3.1 秒降到 0.55 秒，合并超过三千个变更且无一次面向用户的事故。",
+      "category": "tip",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuekny10060lroyn21gctbfw"
+      }
+    },
     {
       "id": "cmueh1dx305ejrovxhm7a1f4l",
       "title": "Anthropic 上线 Claude Marketplace，汇聚插件、智能体与服务伙伴",
@@ -235,6 +343,42 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmue2etyn0k5broghxiolkkpi"
+      }
+    },
+    {
+      "id": "cmuepgodc0egsroynju6bomql",
+      "title": "Cursor 发布 Rollouts 和 Security Reviewer 开发机器人",
+      "title_en": "Bots for the last mile： Rollouts， Security Review",
+      "url": "https://cursor.com/blog/rollouts-and-security-reviewer",
+      "permalink": "https://aihot.news/items/cmuepgodc0egsroynju6bomql",
+      "source": "Cursor Blog",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "discoveredAt": "2026-09-23T22:59:33.651Z",
+      "summary": "Cursor 发布两款软件开发机器人 Rollouts 和 Security Reviewer，帮助团队更快把安全可靠的代码送入生产环境。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuepgodc0egsroynju6bomql"
+      }
+    },
+    {
+      "id": "cmuepgodc0egrroyn9ves9c7r",
+      "title": "Cursor 提升 agent 长时运行 token 效率，用户成本降低 7%",
+      "title_en": "Improved token efficiency for longer agent runs",
+      "url": "https://cursor.com/blog/improved-token-efficiency",
+      "permalink": "https://aihot.news/items/cmuepgodc0egrroyn9ves9c7r",
+      "source": "Cursor Blog",
+      "publishedAt": "2026-09-23T12:00:00.000Z",
+      "discoveredAt": "2026-09-23T22:59:33.651Z",
+      "summary": "Cursor 通过改进 agent harness，在不降低 agent 质量的情况下将用户 token 成本降低 7%。",
+      "category": "tip",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuepgodc0egrroyn9ves9c7r"
       }
     },
     {
@@ -1658,151 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmu77kvz00tf6rowk9kl5o4k0"
       }
-    },
-    {
-      "id": "cmu74yfca0qjfrowkn49efvcw",
-      "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
-      "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-      "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-      "permalink": "https://aihot.news/items/cmu74yfca0qjfrowkn49efvcw",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-18T15:27:29.000Z",
-      "discoveredAt": "2026-09-18T15:51:06.033Z",
-      "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
-      "category": "industry",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu74yfca0qjfrowkn49efvcw"
-      }
-    },
-    {
-      "id": "cmu72r58y0o5xrowk1txg8msk",
-      "title": "ZCode 被曝登录后会打包上传完整 Git 历史",
-      "title_en": "ZCode 内部揭秘：将您的 Git 历史记录静默上传至云端",
-      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload",
-      "permalink": "https://aihot.news/items/cmu72r58y0o5xrowk1txg8msk",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-18T14:22:51.445Z",
-      "discoveredAt": "2026-09-18T14:49:27.030Z",
-      "summary": "作者称，智谱 AI 编程应用 ZCode 在登录后会将工作区打包加密并上传至阿里云 OSS，内容包括完整 Git 历史、LFS 缓存和全局配置。调查记录中的单个加密快照为 313MB；私钥只存于云端，用户及客户端无法解密本地密文。",
-      "category": "tip",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu72r58y0o5xrowk1txg8msk"
-      }
-    },
-    {
-      "id": "cmu6w30lt0dnhrowkh7qwiped",
-      "title": "Trail of Bits 用 Agent 为 Miden zkVM 审计自建 LSP、反编译器和 Lean 形式化证明",
-      "title_en": "Auditing in the age of （good enough） AI",
-      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai",
-      "permalink": "https://aihot.news/items/cmu6w30lt0dnhrowkh7qwiped",
-      "source": "Trail of Bits：AI安全研究",
-      "publishedAt": "2026-09-18T11:00:00.000Z",
-      "discoveredAt": "2026-09-18T11:42:42.720Z",
-      "summary": "Trail of Bits 在审计 Miden zkVM 前，让 Agent 用六个月从零构建了 MASM 的 LSP 服务器、反编译器、静态分析引擎和 Lean VM 执行器模型。这些工具发现了可让恶意 prover 伪造 Falcon 签名盗取资金的高危漏洞，静态分析定位了 400 多处类型验证缺陷，Lean 工作产出 95 个机器验证的正确性证明，还发现两个单元测试未捕获的细微 bug。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu6w30lt0dnhrowkh7qwiped"
-      }
-    },
-    {
-      "id": "cmu6y9sjz0jbyrowkh7tus28l",
-      "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
-      "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
-      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "permalink": "https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-18T10:35:28.000Z",
-      "discoveredAt": "2026-09-18T12:43:59.287Z",
-      "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
-      "category": "tip",
-      "score": 86,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu6y9sjz0jbyrowkh7tus28l"
-      }
-    },
-    {
-      "id": "cmu74vaqy0qeerowkch23r6nd",
-      "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
-      "title_en": "Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
-      "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
-      "permalink": "https://aihot.news/items/cmu74vaqy0qeerowkch23r6nd",
-      "source": "Qwen：Blog Retrieval（API）",
-      "publishedAt": "2026-09-18T09:30:00.000Z",
-      "discoveredAt": "2026-09-18T15:48:38.050Z",
-      "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
-      "category": "ai-models",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu74vaqy0qeerowkch23r6nd"
-      }
-    },
-    {
-      "id": "cmu6i7irl000qro0fik1cusru",
-      "title": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码",
-      "title_en": "WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
-      "url": "https://x.com/rohanpaul_ai/status/2100810101145891305",
-      "permalink": "https://aihot.news/items/cmu6i7irl000qro0fik1cusru",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-18T04:52:13.000Z",
-      "discoveredAt": "2026-09-18T05:14:18.242Z",
-      "summary": "据 WSJ 报道，三名研究人员使用 Claude Opus 5 将 Discourse 的一个漏洞串联成对 OpenAI 私有代码的访问。 researchers 在 Discourse 服务器上获得了包括 OpenAI 员工在内的认证 token，部分 forum token 可用于 ChatGPT 并触达 OpenAI 的 GitHub 服务。",
-      "category": "industry",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu6i7irl000qro0fik1cusru"
-      }
-    },
-    {
-      "id": "cmu67pecj0e0wrofj97vtuwzu",
-      "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-      "title_en": "这个只会做选择题的Jev，却是今年我看到的最特别的大模型。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
-      "permalink": "https://aihot.news/items/cmu67pecj0e0wrofj97vtuwzu",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-09-18T00:08:00.000Z",
-      "discoveredAt": "2026-09-18T00:20:18.275Z",
-      "summary": "TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu67pecj0e0wrofj97vtuwzu"
-      }
-    },
-    {
-      "id": "cmu797mz00v50rowk50a6ksp3",
-      "title": "xAI 发布 Grok Voice Transcribe 2.0 语音转写模型，准确率较 1.0 翻倍",
-      "title_en": "Introducing Grok Voice Transcribe 2.0",
-      "url": "https://x.ai/news/grok-voice-transcribe-2",
-      "permalink": "https://aihot.news/items/cmu797mz00v50rowk50a6ksp3",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-09-18T00:00:00.000Z",
-      "discoveredAt": "2026-09-18T17:49:58.497Z",
-      "summary": "xAI 发布 Grok Voice Transcribe 2.0 语音转写模型，官方称在真实场景评测中准确率是 1.0 的两倍且价格不变。在 Artificial Analysis 公开榜单上，它在 32 个 streaming 模型中准确率排名第一；多语言能力提升最大，短短语集合上词错误率从 20.6% 降至 6.8%。",
-      "category": "ai-products",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu797mz00v50rowk50a6ksp3"
-      }
     }
   ],
-  "cachedAt": "2026-09-23T20:19:46Z"
+  "cachedAt": "2026-09-23T23:40:05Z"
 }
