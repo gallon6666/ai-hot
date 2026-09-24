@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg5OTU5MDQwMDAwLCJpIjoiY211YW8wNWF0MHE4dXJvNXRwYzg1ZTJraiJ9",
+  "nextCursor": "eyJhIjoxNzg5OTU5MTEwMDAwLCJpIjoiY211YzJ0OHBpMDZ2NnJvdHM3OXh4eXl0OCJ9",
   "items": [
+    {
+      "id": "cmufwtcfq034nrogvh3zpr6df",
+      "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
+      "title_en": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+      "permalink": "https://aihot.news/items/cmufwtcfq034nrogvh3zpr6df",
+      "source": "GitHub Blog",
+      "publishedAt": "2026-09-24T18:26:12.000Z",
+      "discoveredAt": "2026-09-24T19:13:07.494Z",
+      "summary": "GitHub Security Lab 的 Antonio Morales 开源了基于 Taskflow Agent 的 Fuzzing Taskflow，指向 GitHub 仓库即可自动识别入口点、编写 harness、运行 AFL++、读取覆盖报告并分诊崩溃。",
+      "category": "tip",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufwtcfq034nrogvh3zpr6df"
+      }
+    },
     {
       "id": "cmuft4xrw07varoxz9brnf7vh",
       "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmuc2t8pi06v6rots79xxyyt8"
       }
-    },
-    {
-      "id": "cmuao05at0q8uro5tpc85e2kj",
-      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-      "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-      "permalink": "https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "publishedAt": "2026-09-21T02:50:40.000Z",
-      "discoveredAt": "2026-09-21T03:07:37.253Z",
-      "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
-      "category": "ai-models",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj"
-      }
     }
   ],
-  "cachedAt": "2026-09-24T19:07:37Z"
+  "cachedAt": "2026-09-24T22:21:58Z"
 }
