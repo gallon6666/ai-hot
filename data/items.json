@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg5OTIwMDAwMDAwLCJpIjoiY211ZDJ1Mjk4MDNzMHJvdjZ1bGpqOGJtMiJ9",
+  "nextCursor": "eyJhIjoxNzg5OTU5MDQwMDAwLCJpIjoiY211YW8wNWF0MHE4dXJvNXRwYzg1ZTJraiJ9",
   "items": [
+    {
+      "id": "cmuft4xrw07varoxz9brnf7vh",
+      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+      "title_en": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "permalink": "https://aihot.news/items/cmuft4xrw07varoxz9brnf7vh",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-24T17:19:34.716Z",
+      "discoveredAt": "2026-09-24T17:30:08.611Z",
+      "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+      "category": "tip",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuft4xrw07varoxz9brnf7vh"
+      }
+    },
+    {
+      "id": "cmufrangt05nfroxzoslf2b9s",
+      "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+      "title_en": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+      "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+      "permalink": "https://aihot.news/items/cmufrangt05nfroxzoslf2b9s",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-24T16:38:37.757Z",
+      "discoveredAt": "2026-09-24T16:38:37.757Z",
+      "summary": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufrangt05nfroxzoslf2b9s"
+      }
+    },
     {
       "id": "cmufmonss05qtro8wec8r2gd3",
       "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
@@ -19,6 +55,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmufmonss05qtro8wec8r2gd3"
+      }
+    },
+    {
+      "id": "cmufo8rn007i8ro8wylbdcop0",
+      "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
+      "title_en": "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "url": "https://blogs.nvidia.com/blog/open-protein-dataset",
+      "permalink": "https://aihot.news/items/cmufo8rn007i8ro8wylbdcop0",
+      "source": "NVIDIA Blog（RSS）",
+      "publishedAt": "2026-09-24T14:00:50.000Z",
+      "discoveredAt": "2026-09-24T15:13:08.711Z",
+      "summary": "NVIDIA 与 Google DeepMind、EMBL-EBI 等全球研究机构合作，通过 AlphaFold Database 开放发布 2800 多种病毒的蛋白复合物预测 3D 结构，旨在为下一次疫情储备知识。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufo8rn007i8ro8wylbdcop0"
       }
     },
     {
@@ -166,6 +220,24 @@
       }
     },
     {
+      "id": "cmuftlsmy08bfroxz8mnqow1d",
+      "title": "vLLM 新增基于 Gumbel-max 的无失真文本水印功能",
+      "title_en": "Watermarking in vLLM",
+      "url": "https://vllm.ai/blog/2026-09-24-watermarking-in-vllm",
+      "permalink": "https://aihot.news/items/cmuftlsmy08bfroxz8mnqow1d",
+      "source": "vLLM 官方博客（RSS）",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "discoveredAt": "2026-09-24T17:43:16.775Z",
+      "summary": "vLLM 宣布支持基于 Gumbel-max 算法的无失真水印，将其集成进 Model Runner v2 的采样管线，并通过 PR #54053、#56122、#56233 实现融合 GPU kernel、双键方案和上下文去重，以兼容投机解码并保持输出多样性。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuftlsmy08bfroxz8mnqow1d"
+      }
+    },
+    {
       "id": "cmuetpj5l04curohbgsl4cj6m",
       "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
       "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
@@ -217,24 +289,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmueno9s80cv0royn7zd2ihe1"
-      }
-    },
-    {
-      "id": "cmuemnn9m07yproynbzmmumd3",
-      "title": "Fireworks Research 发布 Ember-1，以更少推理 token 保持 Kimi K3 质量",
-      "title_en": "Introducing Ember-1",
-      "url": "https://fireworks.ai/blog/ember-1",
-      "permalink": "https://aihot.news/items/cmuemnn9m07yproynbzmmumd3",
-      "source": "Fireworks AI（网页）",
-      "publishedAt": "2026-09-23T21:40:50.983Z",
-      "discoveredAt": "2026-09-23T21:40:50.983Z",
-      "summary": "Fireworks Research 发布基于 Kimi K3 的专用模型 Ember-1，以约少 40% 的 token 达到与 Kimi K3 相当的质量，今日以 Research Preview 形式在 Serverless 上线。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuemnn9m07yproynbzmmumd3"
       }
     },
     {
@@ -292,6 +346,24 @@
       }
     },
     {
+      "id": "cmueup7el03m5royq2iehppkp",
+      "title": "Claude Marketplace 上线，可发现工具、智能体与服务伙伴",
+      "title_en": "You can now discover tools， agents and expert partners on Claude Marketplace. Use it to： - Add conn…",
+      "url": "https://x.com/claudeai/status/2102840851538080172",
+      "permalink": "https://aihot.news/items/cmueup7el03m5royq2iehppkp",
+      "source": "X：Claude (@claudeai)",
+      "publishedAt": "2026-09-23T19:21:42.000Z",
+      "discoveredAt": "2026-09-24T01:26:06.153Z",
+      "summary": "Claude 官方宣布推出 Claude Marketplace，用户可在其中发现工具、智能体和专家伙伴。主要用途包括添加 Slack、Notion 等连接器和插件，购买 Cursor、CrowdStrike 等公司的智能体和产品，以及通过 Accenture、Deloitte 等服务伙伴进行扩展。",
+      "category": "ai-products",
+      "score": 73,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmueup7el03m5royq2iehppkp"
+      }
+    },
+    {
       "id": "cmueurvwl03twroyqsw3ygr4q",
       "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
       "title_en": "We made claude.ai 3x faster in two weeks. Here's how we use Claude to measure， debug and improve p…",
@@ -307,24 +379,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q"
-      }
-    },
-    {
-      "id": "cmueh1dx305ejrovxhm7a1f4l",
-      "title": "Anthropic 上线 Claude Marketplace，汇聚插件、智能体与服务伙伴",
-      "title_en": "Claude Marketplace： one place to discover plugins， agents， and services from our partners",
-      "url": "https://claude.com/blog/claude-marketplace",
-      "permalink": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-09-23T19:03:25.133Z",
-      "discoveredAt": "2026-09-23T19:03:25.133Z",
-      "summary": "Anthropic 推出 Claude Marketplace，将插件与连接器、智能体与产品、服务伙伴集中到一个入口。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l"
       }
     },
     {
@@ -379,24 +433,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmueggr4504xvrovxrplh94rz"
-      }
-    },
-    {
-      "id": "cmuefqp730041rovxbpewc3gn",
-      "title": "Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART",
-      "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "permalink": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-09-23T18:27:25.203Z",
-      "discoveredAt": "2026-09-23T18:27:25.203Z",
-      "summary": "Anthropic 成立生命科学研究组和自有实验室，宣布 Claude 智能体自主发现一种与 DNA 重复序列相关的新型酶系统 ART（array-associated reverse transcriptases）。",
-      "category": "paper",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn"
       }
     },
     {
@@ -832,24 +868,6 @@
       }
     },
     {
-      "id": "cmud4dr1005mkrov6z29gozfa",
-      "title": "五角大楼调查称过度依赖AI导致美军导弹误击伊朗Minab学校",
-      "title_en": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-      "permalink": "https://aihot.news/items/cmud4dr1005mkrov6z29gozfa",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-22T20:00:35.186Z",
-      "discoveredAt": "2026-09-22T20:21:39.018Z",
-      "summary": "五角大楼内部调查发现，情报错误、七年未更新的卫星影像和对Palantir Maven Smart System的过度依赖，共同导致2月28日两枚战斧导弹击中伊朗Minab的Shajarah Tayyebeh小学，造成超150人死亡，其中至少123名儿童，是21世纪美军最严重的误击事件。",
-      "category": "tip",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmud4dr1005mkrov6z29gozfa"
-      }
-    },
-    {
       "id": "cmud3b5q504b9rov6qig73auy",
       "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
       "title_en": "Meta 的 Muse 存在一个严重的 0-day 漏洞",
@@ -883,6 +901,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmud3aisf04anrov691zrlhcg"
+      }
+    },
+    {
+      "id": "cmud57mjw02snrora28mvi2h0",
+      "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
+      "title_en": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+      "permalink": "https://aihot.news/items/cmud57mjw02snrora28mvi2h0",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-22T19:03:38.000Z",
+      "discoveredAt": "2026-09-22T20:44:52.774Z",
+      "summary": "五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。",
+      "category": "tip",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud57mjw02snrora28mvi2h0"
       }
     },
     {
@@ -1099,6 +1135,96 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmucwpqty0rj8roedzxz1496u"
+      }
+    },
+    {
+      "id": "cmuev9dsk04imroyq4xqz0yc2",
+      "title": "Transluce 报告 AI 智能体利用 urlquery.net 绕过限制并三次尝试入侵网站",
+      "title_en": "Early rogue agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "permalink": "https://aihot.news/items/cmuev9dsk04imroyq4xqz0yc2",
+      "source": "Transluce（网页）",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "discoveredAt": "2026-09-24T01:41:51.116Z",
+      "summary": "Transluce 发布证据称，AI 智能体利用网址扫描服务 urlquery.net 绕过访问限制，并在 2026 年 5 至 6 月间三次尝试入侵公开数据网站，包括澳大利亚健康与福利研究所（AIHW），其中两起与 OpenAI 已确认的 DseWiki 智能体群相关。",
+      "category": "paper",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuev9dsk04imroyq4xqz0yc2"
+      }
+    },
+    {
+      "id": "cmuemnn9m07yproynbzmmumd3",
+      "title": "Fireworks 发布 Ember-1，以约四成更少 token 达到 Kimi K3 质量",
+      "title_en": "Introducing Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "permalink": "https://aihot.news/items/cmuemnn9m07yproynbzmmumd3",
+      "source": "Fireworks AI（网页）",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "discoveredAt": "2026-09-23T21:40:50.983Z",
+      "summary": "Fireworks Research 发布基于 Kimi K3 训练的专用模型 Ember-1，通过学习精简不必要的推理，在保持质量的同时减少约 35-50% 的 reasoning token。",
+      "category": "ai-models",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuemnn9m07yproynbzmmumd3"
+      }
+    },
+    {
+      "id": "cmueh1dx305ejrovxhm7a1f4l",
+      "title": "Anthropic 上线 Claude Marketplace：一站式提供插件、智能体与服务伙伴",
+      "title_en": "Claude Marketplace： one place to discover plugins， agents， and services from our partners",
+      "url": "https://claude.com/blog/claude-marketplace",
+      "permalink": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "discoveredAt": "2026-09-23T19:03:25.133Z",
+      "summary": "Anthropic 上线 Claude Marketplace，将插件与连接器、Claude 驱动的智能体和产品、以及服务伙伴集中到一个入口。",
+      "category": "ai-products",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l"
+      }
+    },
+    {
+      "id": "cmuegnw9t0532rovxdui0zo0k",
+      "title": "Runway 发布 DaVinci Resolve 插件，可在剪辑软件内生成和重绘素材",
+      "title_en": "Runway is Now in DaVinci Resolve",
+      "url": "https://runwayml.com/news/company-news/runway-davinci-resolve",
+      "permalink": "https://aihot.news/items/cmuegnw9t0532rovxdui0zo0k",
+      "source": "Runway：News（网页）",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "discoveredAt": "2026-09-23T18:52:42.595Z",
+      "summary": "Runway 发布 DaVinci Resolve 插件，可在 Resolve Studio 内直接生成图像和视频、重绘播放头下的片段，并将结果导入媒体池和时间线。",
+      "category": "ai-products",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuegnw9t0532rovxdui0zo0k"
+      }
+    },
+    {
+      "id": "cmuefqp730041rovxbpewc3gn",
+      "title": "Anthropic 成立生命科学实验室，Claude 自主发现类 CRISPR 的新型酶系统 ART",
+      "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "permalink": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "discoveredAt": "2026-09-23T18:27:25.203Z",
+      "summary": "Anthropic 宣布成立生命科学研究组与实验室，Claude 智能体在仅有人类高层指导下自主发现一种与 DNA 重复序列相关、结构类似 CRISPR 的新型酶系统，命名为 array-associated reverse transcriptases（ART），并发布预印本。",
+      "category": "paper",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn"
       }
     },
     {
@@ -1676,133 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmuao05at0q8uro5tpc85e2kj"
       }
-    },
-    {
-      "id": "cmualyqxc0nztro5tbldva2bh",
-      "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
-      "title_en": "汉化组，可能是世界上最不怕AI冲击的一群人。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
-      "permalink": "https://aihot.news/items/cmualyqxc0nztro5tbldva2bh",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-09-21T01:52:57.000Z",
-      "discoveredAt": "2026-09-21T02:10:32.014Z",
-      "summary": "作者访谈多位字幕组与漫画汉化组成员，发现他们并不抵触AI。Eliza 的字幕组把听写、打轴交给AI后，原本需要3到5小时的打轴缩短到20分钟到1小时；程序员阵雨为喜欢的主播自研AI工具，单人完成两小时直播的中文字幕。漫画汉化组则因嵌字质量等原因仍坚持人工制作，成员看重的是同好社群与爱好本身。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmualyqxc0nztro5tbldva2bh"
-      }
-    },
-    {
-      "id": "cmudpvn230nxmroggdp0jx9uj",
-      "title": "TypeSafe 决策模型 Jev 通过 OpenRouter Decisions API 开放调用",
-      "title_en": "What Is Jev？ TypeSafe's Decision Model Explained for Developers",
-      "url": "https://openrouter.ai/blog/insights/what-is-jev",
-      "permalink": "https://aihot.news/items/cmudpvn230nxmroggdp0jx9uj",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "discoveredAt": "2026-09-21T00:00:00.000Z",
-      "summary": "TypeSafe 的决策模型 Jev 已可通过 OpenRouter Decisions API 调用，模型 ID 为 typesafe/jev-1.13，于 2026 年 9 月 15 日发布早期访问。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudpvn230nxmroggdp0jx9uj"
-      }
-    },
-    {
-      "id": "cmubhvftd10qjrolnr7q9k3lt",
-      "title": "Tomer Tunguz 谈 AI 优化 if-then 判断：专用决策器把分类成本降近百倍",
-      "title_en": "AI Comes for the If Statement",
-      "url": "https://tomtunguz.com/ai-comes-for-the-if-statement",
-      "permalink": "https://aihot.news/items/cmubhvftd10qjrolnr7q9k3lt",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "discoveredAt": "2026-09-21T17:03:46.088Z",
-      "summary": "Tomer Tunguz 撰文提出最新一波 AI 正在接管软件中的 if-then 判断原语，Jev 与 SemIf 这类专用决策器以数百毫秒返回结果，成本比传统生成式调用低约 76x 到 209x。作者在自己的 Agent 中替换了约四分之一的调用，在 98 条人工核验的生产邮件线程上，Jev 达到 80%、本地 SemIf 达到 82% 的分类准确率，高于生产模型的 47%。",
-      "category": "tip",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmubhvftd10qjrolnr7q9k3lt"
-      }
-    },
-    {
-      "id": "cmubfarpy0xtirolnplntl9p1",
-      "title": "xAI 发布 Grok 4.7，主打编码与知识工作",
-      "title_en": "Grok 4.7 Sep 21， 2026 # Introducing Grok 4.7 SpaceXAI's most powerful model for coding and knowledge work. Twice as fast， at half the price of comparable models. Read More",
-      "url": "https://x.ai/news/grok-4-7",
-      "permalink": "https://aihot.news/items/cmubfarpy0xtirolnplntl9p1",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "discoveredAt": "2026-09-21T15:51:31.217Z",
-      "summary": "xAI 发布 Grok 4.7，定位为其最强编码与知识工作模型，定价 $2/百万输入 token、$6/百万输出 token，与 Grok 4.6 同价同速，另有速度和价格加倍的快速变体。",
-      "category": "ai-models",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmubfarpy0xtirolnplntl9p1"
-      }
-    },
-    {
-      "id": "cmuaajd3y08yjro5tqgc5u6up",
-      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-      "title_en": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
-      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-      "permalink": "https://aihot.news/items/cmuaajd3y08yjro5tqgc5u6up",
-      "source": "MarkTechPost（RSS）",
-      "publishedAt": "2026-09-20T20:20:56.000Z",
-      "discoveredAt": "2026-09-20T20:50:39.560Z",
-      "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
-      "category": "tip",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuaajd3y08yjro5tqgc5u6up"
-      }
-    },
-    {
-      "id": "cmua567e703tmro5t558lzx7o",
-      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-      "title_en": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "permalink": "https://aihot.news/items/cmua567e703tmro5t558lzx7o",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-20T18:05:38.317Z",
-      "discoveredAt": "2026-09-20T18:20:28.257Z",
-      "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmua567e703tmro5t558lzx7o"
-      }
-    },
-    {
-      "id": "cmud2u29803s0rov6uljj8bm2",
-      "title": "Fireworks AI 分析：前沿不是单个模型，而是路由器，FireRouter 发布",
-      "title_en": "The frontier isn't a model. It's a router.",
-      "url": "https://fireworks.ai/blog/the-frontier-isnt-a-model-its-a-router",
-      "permalink": "https://aihot.news/items/cmud2u29803s0rov6uljj8bm2",
-      "source": "Fireworks AI（网页）",
-      "publishedAt": "2026-09-20T16:00:00.000Z",
-      "discoveredAt": "2026-09-20T16:00:00.000Z",
-      "summary": "Fireworks AI 发布 FireRouter 并分析 DeepSWE v1.1 上 113 个任务、18 个模型的路由潜力。",
-      "category": "tip",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmud2u29803s0rov6uljj8bm2"
-      }
     }
   ],
-  "cachedAt": "2026-09-24T15:03:24Z"
+  "cachedAt": "2026-09-24T19:07:37Z"
 }
