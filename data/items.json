@@ -1,8 +1,62 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg5OTA1NjAwMDAwLCJpIjoiY211OXRmaHU5MDR0dXJva3gydmZqeTM0ZiJ9",
+  "nextCursor": "eyJhIjoxNzg5OTIwMDAwMDAwLCJpIjoiY211ZDJ1Mjk4MDNzMHJvdjZ1bGpqOGJtMiJ9",
   "items": [
+    {
+      "id": "cmufmonss05qtro8wec8r2gd3",
+      "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+      "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
+      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+      "permalink": "https://aihot.news/items/cmufmonss05qtro8wec8r2gd3",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-24T14:01:05.000Z",
+      "discoveredAt": "2026-09-24T14:29:33.155Z",
+      "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+      "category": "industry",
+      "score": 88,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufmonss05qtro8wec8r2gd3"
+      }
+    },
+    {
+      "id": "cmufjfzsr04avro6oidhywggl",
+      "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+      "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+      "permalink": "https://aihot.news/items/cmufjfzsr04avro6oidhywggl",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-09-24T12:54:19.000Z",
+      "discoveredAt": "2026-09-24T12:58:48.615Z",
+      "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+      "category": "industry",
+      "score": 89,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufjfzsr04avro6oidhywggl"
+      }
+    },
+    {
+      "id": "cmufjyocz04u6ro6ohojge69s",
+      "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI",
+      "title_en": "\"I think the answer is we have to shut the labs down\" - Jensen Huang",
+      "url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+      "permalink": "https://aihot.news/items/cmufjyocz04u6ro6ohojge69s",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "publishedAt": "2026-09-24T12:27:50.000Z",
+      "discoveredAt": "2026-09-24T13:13:18.775Z",
+      "summary": "Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmufjyocz04u6ro6ohojge69s"
+      }
+    },
     {
       "id": "cmufcbvmu05wqroaga2mai2eu",
       "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
@@ -778,6 +832,24 @@
       }
     },
     {
+      "id": "cmud4dr1005mkrov6z29gozfa",
+      "title": "五角大楼调查称过度依赖AI导致美军导弹误击伊朗Minab学校",
+      "title_en": "五角大楼称，过度依赖人工智能导致了针对伊朗一所学校的导弹袭击",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
+      "permalink": "https://aihot.news/items/cmud4dr1005mkrov6z29gozfa",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-22T20:00:35.186Z",
+      "discoveredAt": "2026-09-22T20:21:39.018Z",
+      "summary": "五角大楼内部调查发现，情报错误、七年未更新的卫星影像和对Palantir Maven Smart System的过度依赖，共同导致2月28日两枚战斧导弹击中伊朗Minab的Shajarah Tayyebeh小学，造成超150人死亡，其中至少123名儿童，是21世纪美军最严重的误击事件。",
+      "category": "tip",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmud4dr1005mkrov6z29gozfa"
+      }
+    },
+    {
       "id": "cmud3b5q504b9rov6qig73auy",
       "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
       "title_en": "Meta 的 Muse 存在一个严重的 0-day 漏洞",
@@ -811,24 +883,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmud3aisf04anrov691zrlhcg"
-      }
-    },
-    {
-      "id": "cmud57mjw02snrora28mvi2h0",
-      "title": "五角大楼调查：过度依赖 Maven AI 是美军误击伊朗米纳布学校的原因之一",
-      "title_en": "Overreliance on AI contributed to missile strike on Iran school - Pentagon",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack",
-      "permalink": "https://aihot.news/items/cmud57mjw02snrora28mvi2h0",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-22T19:03:38.000Z",
-      "discoveredAt": "2026-09-22T20:44:52.774Z",
-      "summary": "五角大楼内部调查发现，2026 年 2 月 28 日两枚 Tomahawk 导弹击中伊朗米纳布 Shajarah Tayyebeh 小学，造成超过 150 人死亡、其中至少 123 名儿童，原因是情报过时、卫星图像七年未更新，以及 Centcom 部分人员过度依赖 Palantir 的 Maven Smart System。",
-      "category": "tip",
-      "score": 86,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmud57mjw02snrora28mvi2h0"
       }
     },
     {
@@ -1748,61 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmud2u29803s0rov6uljj8bm2"
       }
-    },
-    {
-      "id": "cmubni6yr03ihro4v6pea4amm",
-      "title": "Artificial Analysis 评测 Grok 4.7：智能指数 46 分进入前四，编码智能体升至第 4",
-      "title_en": "Benchmarking Grok 4.7",
-      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-      "permalink": "https://aihot.news/items/cmubni6yr03ihro4v6pea4amm",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "publishedAt": "2026-09-20T16:00:00.000Z",
-      "discoveredAt": "2026-09-21T19:41:25.079Z",
-      "summary": "Artificial Analysis 发布 Grok 4.7 评测，Grok 4.7（xhigh）智能指数得 46 分，较 Grok 4.6 高 2 分，使 SpaceXAI 进入前四；搭配 Grok Build 的编码智能体指数从 47 升至 56，仅次于 Claude Fable 5.1、GPT-6 Astra 和 Claude Opus 5。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmubni6yr03ihro4v6pea4amm"
-      }
-    },
-    {
-      "id": "cmu9w55as056krowjqmhejtmz",
-      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-      "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "permalink": "https://aihot.news/items/cmu9w55as056krowjqmhejtmz",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "publishedAt": "2026-09-20T13:52:24.000Z",
-      "discoveredAt": "2026-09-20T14:07:40.700Z",
-      "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu9w55as056krowjqmhejtmz"
-      }
-    },
-    {
-      "id": "cmu9tfhu904turokx2vfjy34f",
-      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-      "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "permalink": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f",
-      "source": "Qwen：Blog Retrieval（API）",
-      "publishedAt": "2026-09-20T12:00:00.000Z",
-      "discoveredAt": "2026-09-20T12:51:42.765Z",
-      "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
-      "category": "ai-models",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmu9tfhu904turokx2vfjy34f"
-      }
     }
   ],
-  "cachedAt": "2026-09-24T09:58:28Z"
+  "cachedAt": "2026-09-24T15:03:24Z"
 }
