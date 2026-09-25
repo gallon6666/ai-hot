@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg5OTc3MjcyMDAwLCJpIjoiY211YXl0b3dmMGM0b3JvbG4wMnRhY3EwYyJ9",
+  "nextCursor": "eyJhIjoxNzg5OTkxODE2MDAwLCJpIjoiY211Yjd4ZmJlMHB1dHJvbG5ma2tlcGUyYyJ9",
   "items": [
+    {
+      "id": "cmugxabb31gj8rogv0mand702",
+      "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+      "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
+      "url": "https://x.com/satyanadella/status/2103455884366188544",
+      "permalink": "https://aihot.news/items/cmugxabb31gj8rogv0mand702",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "publishedAt": "2026-09-25T12:05:37.000Z",
+      "discoveredAt": "2026-09-25T12:14:05.199Z",
+      "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmugxabb31gj8rogv0mand702"
+      }
+    },
+    {
+      "id": "cmugvl6n31bd7rogvzdsm0qge",
+      "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+      "title_en": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
+      "permalink": "https://aihot.news/items/cmugvl6n31bd7rogvzdsm0qge",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-09-25T11:00:28.000Z",
+      "discoveredAt": "2026-09-25T11:26:33.636Z",
+      "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
+      "category": "tip",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmugvl6n31bd7rogvzdsm0qge"
+      }
+    },
     {
       "id": "cmugn2un312cfrogv5xoi1n1c",
       "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
@@ -1766,43 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmub7xfbe0putrolnfkkepe2c"
       }
-    },
-    {
-      "id": "cmub7xf1o0pu2roln165i6mhu",
-      "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
-      "title_en": "科技巨头因 AI 购物起争端：亚马逊封禁 Meta Muse 智能体",
-      "url": "https://www.ithome.com/1/005/418.htm",
-      "permalink": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-21T11:52:52.000Z",
-      "discoveredAt": "2026-09-21T12:25:21.443Z",
-      "summary": "亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。",
-      "category": "industry",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmub7xf1o0pu2roln165i6mhu"
-      }
-    },
-    {
-      "id": "cmuaytowf0c4oroln02tacq0c",
-      "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
-      "title_en": "Kimi Code Desktop 正式与你见面",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
-      "permalink": "https://aihot.news/items/cmuaytowf0c4oroln02tacq0c",
-      "source": "公众号：月之暗面（Kimi）",
-      "publishedAt": "2026-09-21T07:54:32.000Z",
-      "discoveredAt": "2026-09-21T08:10:31.886Z",
-      "summary": "Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuaytowf0c4oroln02tacq0c"
-      }
     }
   ],
-  "cachedAt": "2026-09-25T07:45:23Z"
+  "cachedAt": "2026-09-25T13:44:22Z"
 }
