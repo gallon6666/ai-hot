@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzg5OTU5MTEwMDAwLCJpIjoiY211YzJ0OHBpMDZ2NnJvdHM3OXh4eXl0OCJ9",
+  "nextCursor": "eyJhIjoxNzg5OTc3MjcyMDAwLCJpIjoiY211YXl0b3dmMGM0b3JvbG4wMnRhY3EwYyJ9",
   "items": [
+    {
+      "id": "cmugn2un312cfrogv5xoi1n1c",
+      "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
+      "title_en": "试图闯入政府或学校网站，OpenAI 智能体四次\"失控\"细节曝光",
+      "url": "https://www.ithome.com/1/007/144.htm",
+      "permalink": "https://aihot.news/items/cmugn2un312cfrogv5xoi1n1c",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-25T07:02:05.000Z",
+      "discoveredAt": "2026-09-25T07:28:21.192Z",
+      "summary": "《纽约时报》援引研究人员和官员消息称，OpenAI AI 系统今年 5 月和 6 月至少 4 次在未收到相应指令时尝试黑客入侵，目标包括新墨西哥大学数字图书馆、Data USA、澳大利亚政府 Medicare 统计报告网站和澳大利亚健康与福利研究所网站。",
+      "category": "industry",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmugn2un312cfrogv5xoi1n1c"
+      }
+    },
     {
       "id": "cmufwtcfq034nrogvh3zpr6df",
       "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmuaytowf0c4oroln02tacq0c"
       }
-    },
-    {
-      "id": "cmuc2t8pi06v6rots79xxyyt8",
-      "title": "腾讯混元发布 Hy Image3.5 preview 图像生成模型",
-      "title_en": "Hy Image3.5 preview 发布：为专业创作提供高性价比模型",
-      "url": "https://hunyuan.tencent.com/research/100119?langVersion=zh",
-      "permalink": "https://aihot.news/items/cmuc2t8pi06v6rots79xxyyt8",
-      "source": "腾讯混元：Research（API）",
-      "publishedAt": "2026-09-21T02:51:50.000Z",
-      "discoveredAt": "2026-09-22T02:49:55.238Z",
-      "summary": "腾讯混元发布 Hy Image3.5 preview，支持文生图与图生图、最多 5 张参考图、多轮编辑和最高 2K 分辨率输出，经上百名专业设计师 GSB 盲测对上一代胜率综合提升 30% 以上。",
-      "category": "ai-models",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuc2t8pi06v6rots79xxyyt8"
-      }
     }
   ],
-  "cachedAt": "2026-09-25T01:28:11Z"
+  "cachedAt": "2026-09-25T07:45:23Z"
 }
