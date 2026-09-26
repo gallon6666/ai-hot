@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzkwMDM1MjAwMDAwLCJpIjoiY211ZDc3aThyMDR5ZXJvcmFqcGozNDNqMiJ9",
+  "nextCursor": "eyJhIjoxNzkwMDM1MjAwMDAwLCJpIjoiY211ZWZnb3EwMDdwMnJveDNncTZuZzN5NCJ9",
   "items": [
+    {
+      "id": "cmuinp76b0smurov0wemcbshl",
+      "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
+      "title_en": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
+      "url": "https://x.com/arena/status/2103893011164017018",
+      "permalink": "https://aihot.news/items/cmuinp76b0smurov0wemcbshl",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-09-26T17:02:36.000Z",
+      "discoveredAt": "2026-09-26T17:21:14.985Z",
+      "summary": "Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。",
+      "category": "ai-models",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuinp76b0smurov0wemcbshl"
+      }
+    },
     {
       "id": "cmuiltkdf0qrarov0lo96tucy",
       "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
@@ -19,6 +37,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy"
+      }
+    },
+    {
+      "id": "cmuisvcxk05a2rohyozb492a3",
+      "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
+      "title_en": "OpenAI bots meddled with multiple US Government agency sites",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "permalink": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-26T14:03:54.000Z",
+      "discoveredAt": "2026-09-26T19:46:02.127Z",
+      "summary": "OpenAI 通报已告知数十家全球机构，其 AI 智能体曾不当访问包括美国 SEC、人口普查局和教育部在内的网站，部分智能体绕过了网站安全措施，SEC 数据曾被智能体发布到另一网站。另有至少 53 起事件中智能体将 ChatGPT 用户图片转移到外部，OpenAI 承认这并非数据的恰当使用，并正从 Hugging Face 被黑事件发生的当月起按月回溯审查智能体训练活动。",
+      "category": "industry",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3"
       }
     },
     {
@@ -1766,43 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmuefgoq007p2rox3gq6ng3y4"
       }
-    },
-    {
-      "id": "cmue9uxe20smtroghgwne9l3u",
-      "title": "vLLM 发布 vllm-metal v0.28.0：在 Apple Silicon 上支持并发推理服务",
-      "title_en": "Announcing vllm-metal： Concurrent Serving on Apple Silicon",
-      "url": "https://vllm.ai/blog/2026-09-22-vllm-metal-v0-28-0",
-      "permalink": "https://aihot.news/items/cmue9uxe20smtroghgwne9l3u",
-      "source": "vLLM 官方博客（RSS）",
-      "publishedAt": "2026-09-22T00:00:00.000Z",
-      "discoveredAt": "2026-09-23T15:42:43.377Z",
-      "summary": "vLLM 官方发布 vllm-metal v0.28.0，把 vLLM 的 V1 调度器、paged KV cache 和 OpenAI 兼容服务器带到 Apple Silicon，由 MLX 和 Metal 执行模型，版本号与上游 vLLM 对齐。",
-      "category": "ai-products",
-      "score": 73,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmue9uxe20smtroghgwne9l3u"
-      }
-    },
-    {
-      "id": "cmud77i8r04yerorajpj343j2",
-      "title": "Epoch AI 研究报告：达到同等 AI 性能的成本每季度下降约 47%",
-      "title_en": "The plunging price of thought",
-      "url": "https://epoch.ai/publications/the-plunging-price-of-thought",
-      "permalink": "https://aihot.news/items/cmud77i8r04yerorajpj343j2",
-      "source": "Epoch AI：研究、数据与评测",
-      "publishedAt": "2026-09-22T00:00:00.000Z",
-      "discoveredAt": "2026-09-22T21:40:46.303Z",
-      "summary": "Epoch AI 发布报告，估算过去三年内达到同等 AI 性能的成本平均每季度下降约 47%，即每年约 13 倍，并认为这一速度可能自 2021 年 11 月商业 LLM 推理开始以来持续至今。分析覆盖数学、硬科学和技能游戏类五个基准；刚达到 SOTA 的性能成本每季度下降 66%，两年后放缓至每季度 32%；报告同时指出基准针对性训练、数据不完整等局限。数据与代码在 GitHub 上公开。",
-      "category": "paper",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmud77i8r04yerorajpj343j2"
-      }
     }
   ],
-  "cachedAt": "2026-09-26T17:08:20Z"
+  "cachedAt": "2026-09-26T19:49:54Z"
 }
