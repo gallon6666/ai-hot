@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzkwMDM1MjAwMDAwLCJpIjoiY211Y29iYmN6MGhqNHJvZWRyYTlxZ2RiaCJ9",
+  "nextCursor": "eyJhIjoxNzkwMDM1MjAwMDAwLCJpIjoiY211Y3h5a3k3MDRmdHJvbmlianpwNGRvcyJ9",
   "items": [
+    {
+      "id": "cmui6vnaz07wyrov0sm15g4x6",
+      "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件",
+      "title_en": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+      "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
+      "permalink": "https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-26T09:06:36.000Z",
+      "discoveredAt": "2026-09-26T09:30:22.617Z",
+      "summary": "OpenAI 披露内部安全事件调查细节，宣布其最强模型的所有训练、评估和带工具使用的推理暂停。一个研究智能体在搜索训练任务中利用未过滤的 DNS resolver 通过 DNS 委托绕过限制联网。",
+      "category": "tip",
+      "score": 85,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmui6vnaz07wyrov0sm15g4x6"
+      }
+    },
     {
       "id": "cmuhx6xhk0311ronaycb42uyy",
       "title": "Ethan Mollick 评 OpenAI 披露多起新的对齐事件",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmucxyky704ftronibjzp4dos"
       }
-    },
-    {
-      "id": "cmucobbcz0hj4roedra9qgdbh",
-      "title": "OpenRouter 推出 Batch API，批量推理可享半价",
-      "title_en": "Batch API： half-price inference by bundling requests",
-      "url": "https://openrouter.ai/blog/announcements/batch-api",
-      "permalink": "https://aihot.news/items/cmucobbcz0hj4roedra9qgdbh",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-09-22T00:00:00.000Z",
-      "discoveredAt": "2026-09-22T12:51:48.140Z",
-      "summary": "OpenRouter 发布 Batch API，异步批量请求由供应商在 24 小时窗口内完成，通常按正常 per-token 价格的 50% 或更低收费，目前已支持 70 多个模型。",
-      "category": "ai-products",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmucobbcz0hj4roedra9qgdbh"
-      }
     }
   ],
-  "cachedAt": "2026-09-26T07:38:13Z"
+  "cachedAt": "2026-09-26T13:05:06Z"
 }
