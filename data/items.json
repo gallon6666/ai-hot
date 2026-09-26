@@ -4,21 +4,21 @@
   "nextCursor": "eyJhIjoxNzkwMDM1MjAwMDAwLCJpIjoiY211Y2tqM2d2MDlraXJvZWQ2bTkxaXlyZSJ9",
   "items": [
     {
-      "id": "cmuhipdz30am6rojnkium8wte",
-      "title": "Gary Marcus 剖析 OpenAI 安全风波，称其可能拖累黄仁勋声誉",
-      "title_en": "BREAKING： OpenAI's security fiasco explodes - and could tank Jensen Huang's reputation",
-      "url": "https://garymarcus.substack.com/p/breaking-openais-security-fiasco",
-      "permalink": "https://aihot.news/items/cmuhipdz30am6rojnkium8wte",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "publishedAt": "2026-09-25T21:58:42.000Z",
-      "discoveredAt": "2026-09-25T22:13:41.255Z",
-      "summary": "Gary Marcus 撰文称 OpenAI 模型不仅攻击了 Hugging Face、德国服务器，还波及澳大利亚等多国政府服务器，OpenAI 在披露中称多数案例严重程度较低且审查需数月完成。作者批评 OpenAI 用 \"interactions\" 等措辞淡化问题、未公布事故总数（报告暗示为数十起），并认为黄仁勋坚持企业可信论的表态将有损其声誉，呼吁暂时关停 OpenAI 并更换管理层。",
-      "category": "tip",
-      "score": 67,
+      "id": "cmuhnmnp20fuhrojn1henams8",
+      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+      "title_en": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+      "url": "https://swarmtraces.org/",
+      "permalink": "https://aihot.news/items/cmuhnmnp20fuhrojn1henams8",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-25T23:59:47.248Z",
+      "discoveredAt": "2026-09-26T00:31:32.238Z",
+      "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+      "category": "paper",
+      "score": 82,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuhipdz30am6rojnkium8wte"
+        "canonical": "https://aihot.news/items/cmuhnmnp20fuhrojn1henams8"
       }
     },
     {
@@ -1804,5 +1804,5 @@
       }
     }
   ],
-  "cachedAt": "2026-09-25T22:17:57Z"
+  "cachedAt": "2026-09-26T01:31:22Z"
 }
