@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzkwMDcxNjg2MDAwLCJpIjoiY211ZjlqaXJ4MDV4d3JvY3NuanJ1b3Z6eSJ9",
+  "nextCursor": "eyJhIjoxNzkwMDc0ODAxMDAwLCJpIjoiY211Y2tqYXdyMDlsanJvZWR6NHlmM3hxZiJ9",
   "items": [
+    {
+      "id": "cmujmfafc0lsrro9hqdnqg5or",
+      "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+      "title_en": "OpenAI 担心在 Hacker News 上出现的内容可能引发的\"舆论影响\"",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+      "permalink": "https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-27T09:27:15.061Z",
+      "discoveredAt": "2026-09-27T09:33:20.694Z",
+      "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or"
+      }
+    },
     {
       "id": "cmujftxjg0exdro9hi64xx2i9",
       "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
@@ -1784,25 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmuckjawr09ljroedz4yf3xqf"
       }
-    },
-    {
-      "id": "cmuf9jirx05xwrocsnjruovzy",
-      "title": "Seedance 2.5 API 上线 Draft 模式，480P 试错后 1080P 一次成片",
-      "title_en": "Seedance 2.5上线Draft模式：480P高效试错，1080P一次成片",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544657&idx=1&sn=e5fdcf14a3224fad53ca898eb7877280",
-      "permalink": "https://aihot.news/items/cmuf9jirx05xwrocsnjruovzy",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-09-22T10:08:06.000Z",
-      "discoveredAt": "2026-09-24T08:21:38.554Z",
-      "summary": "火山引擎为 Seedance 2.5 API 推出 Draft（样片）模式，先用 480P 快速生成样片验证创意，选中后再通过样片 ID 生成 1080P 成片，复用提示词、参考素材、seed、ratio、duration 等参数保证一致性。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuf9jirx05xwrocsnjruovzy"
-      }
     }
   ],
-  "cachedAt": "2026-09-27T08:06:30Z"
+  "cachedAt": "2026-09-27T13:56:11Z"
 }
