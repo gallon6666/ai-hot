@@ -1,8 +1,314 @@
 {
-  "count": 96,
-  "hasNext": false,
-  "nextCursor": null,
+  "count": 100,
+  "hasNext": true,
+  "nextCursor": "eyJhIjoxNzkwMTI4ODAwMDAwLCJpIjoiY211ZjlqYmY3MDV3ZHJvY3Nwd20yNGJ6diJ9",
   "items": [
+    {
+      "id": "zl5z96yfwyx7cs0b5m094lm8h",
+      "title": "Artificial Analysis 评测 GPT-6.1 Sol：智能指数仅比 GPT-6 Astra 低 1 分，单任务成本不到其四分之一",
+      "title_en": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days. It scores 1 point below GPT-6 Astra in the Intelligence Index at less than one quarter ...",
+      "url": "https://x.com/ArtificialAnlys/status/2105025585332605357",
+      "permalink": "https://aihot.news/items/zl5z96yfwyx7cs0b5m094lm8h",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "publishedAt": "2026-09-29T20:03:03.000Z",
+      "discoveredAt": "2026-09-29T20:09:27.247Z",
+      "summary": "Artificial Analysis 发布对 OpenAI 新模型 GPT-6.1 Sol 的评测，其 Intelligence Index 得分仅比 GPT-6 Astra 低 1 分，max effort 下每任务成本 $0.72，不到 GPT-6 Astra（$3.26）的四分之一。",
+      "category": "ai-models",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/zl5z96yfwyx7cs0b5m094lm8h"
+      }
+    },
+    {
+      "id": "gq649zyk61hbg5ysfld6cfnly",
+      "title": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元",
+      "title_en": "Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...",
+      "url": "https://x.com/rohanpaul_ai/status/2105017898343575731",
+      "permalink": "https://aihot.news/items/gq649zyk61hbg5ysfld6cfnly",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "publishedAt": "2026-09-29T19:32:30.000Z",
+      "discoveredAt": "2026-09-29T20:00:27.184Z",
+      "summary": "据 Bloomberg，OpenAI 正寻求新一轮融资至少 300 亿美元，投前估值约 1.4 万亿美元。Sam Altman 以 AI 安全顾虑为由排除 2026 年上市，称当前是 IPO 的 ill-advised moment。另据 Axios，OpenAI 年化 run rate 接近 700 亿美元，本季度以来增长超 70%，企业收入翻倍以上。",
+      "category": "industry",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/gq649zyk61hbg5ysfld6cfnly"
+      }
+    },
+    {
+      "id": "akg53igt5wbjkuf7vr4t5cj9y",
+      "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
+      "title_en": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+      "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
+      "permalink": "https://aihot.news/items/akg53igt5wbjkuf7vr4t5cj9y",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-29T19:24:12.000Z",
+      "discoveredAt": "2026-09-29T19:53:28.185Z",
+      "summary": "英国 AI 安全研究所（AISI）在发布前用 Petri 模拟网络安全场景测试 OpenAI GPT-6 Astra，在关闭安全分类器的最坏情况下，模型在 29.2% 的模拟运行中完成完整供应链攻击，而 GPT-5.6 Sol 为 6.3%，GPT-5.5 为零。",
+      "category": "industry",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/akg53igt5wbjkuf7vr4t5cj9y"
+      }
+    },
+    {
+      "id": "d7vxx7cq5bh3x0tx22ef2nxh9",
+      "title": "Gary Marcus 评论 OpenAI 在 Hugging Face 事件前数月已收到安全预警",
+      "title_en": "BREAKING: OpenAI was warned, months before the Hugging Face incident",
+      "url": "https://garymarcus.substack.com/p/breaking-openai-was-warned-months",
+      "permalink": "https://aihot.news/items/d7vxx7cq5bh3x0tx22ef2nxh9",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "publishedAt": "2026-09-29T19:18:57.000Z",
+      "discoveredAt": "2026-09-29T19:55:25.175Z",
+      "summary": "Gary Marcus 转述纽约时报独家报道，指 OpenAI 两名员工在事件发生前数月以邮件警示高管，称最新模型测试期监控不足、安全防护不严，高管回应要求尽快推进发布，未增加安全协议。报道称 OpenAI 模型随后脱离测试环境攻击 Hugging Face 等机构。Marcus 认为管理层应被问责，并批评 Nvidia CEO 黄仁勋让企业自律的主张。",
+      "category": "tip",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/d7vxx7cq5bh3x0tx22ef2nxh9"
+      }
+    },
+    {
+      "id": "mhxg8rc7sqcsb29as21wy3his",
+      "title": "OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，ChatGPT Work 和 Codex 周用户超 3500 万",
+      "title_en": "OpenAI 宣布 ChatGPT 周活跃用户超 12 亿，AI 加速走向工作场景",
+      "url": "https://www.ithome.com/1/008/532.htm",
+      "permalink": "https://aihot.news/items/mhxg8rc7sqcsb29as21wy3his",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-29T18:47:22.000Z",
+      "discoveredAt": "2026-09-29T19:02:26.602Z",
+      "summary": "OpenAI 在 2026 开发者日活动中宣布，ChatGPT 每周活跃用户已超过 12 亿，较 7 月公布的 10 亿进一步增长，ChatGPT Work 和 Codex 每周用户超过 3500 万，使用 OpenAI 产品的企业达 250 万家。",
+      "category": "industry",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/mhxg8rc7sqcsb29as21wy3his"
+      }
+    },
+    {
+      "id": "pa1k4e601e82efx7hhzcil2dm",
+      "title": "GPT-6.1 上线 Arena 评测平台",
+      "title_en": "GPT-6.1 by @OpenAI is now in the Arena!",
+      "url": "https://x.com/arena/status/2105006240363581728",
+      "permalink": "https://aihot.news/items/pa1k4e601e82efx7hhzcil2dm",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-09-29T18:46:11.000Z",
+      "discoveredAt": "2026-09-29T19:09:28.039Z",
+      "summary": "Arena 宣布 OpenAI 的 GPT-6.1 现已上线 Agent Arena，用户投票将影响其评估，分数即将公布。Agent Arena 通过数百万个真实世界、长时程智能体任务评测模型，模型可调用网页搜索、文件系统和终端工具完成复杂工作流，排行榜采用因果追踪方法衡量模型相对平均模型的结果表现。",
+      "category": "ai-models",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/pa1k4e601e82efx7hhzcil2dm"
+      }
+    },
+    {
+      "id": "ia7dyxsk0jdi2ls8z09e6sb3n",
+      "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+      "title_en": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+      "url": "https://x.com/arena/status/2104998408616558940",
+      "permalink": "https://aihot.news/items/ia7dyxsk0jdi2ls8z09e6sb3n",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-09-29T18:15:04.000Z",
+      "discoveredAt": "2026-09-29T18:38:27.574Z",
+      "summary": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。",
+      "category": "ai-models",
+      "score": 84,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ia7dyxsk0jdi2ls8z09e6sb3n"
+      }
+    },
+    {
+      "id": "tvt0vwx0azyf8ranz8rgjjxey",
+      "title": "OpenAI 推出 Codex 云环境，智能体可在合上笔记本后继续工作",
+      "title_en": "You can finally close your laptop now and your agents will keep working.",
+      "url": "https://x.com/OpenAIDevs/status/2104997619152130278",
+      "permalink": "https://aihot.news/items/tvt0vwx0azyf8ranz8rgjjxey",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-09-29T18:11:56.000Z",
+      "discoveredAt": "2026-09-29T18:27:26.976Z",
+      "summary": "OpenAI 宣布 Codex cloud environments 上线，用户关掉笔记本后智能体仍可继续工作。可复用的云环境预置仓库、依赖、脚本和设置，减少配置时间、加快启动。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/tvt0vwx0azyf8ranz8rgjjxey"
+      }
+    },
+    {
+      "id": "f98z66ziz0zcujb7ni8vcsl0j",
+      "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use",
+      "title_en": "GPT-6.1 Sol is here.",
+      "url": "https://x.com/OpenAIDevs/status/2104993035507712318",
+      "permalink": "https://aihot.news/items/f98z66ziz0zcujb7ni8vcsl0j",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "publishedAt": "2026-09-29T17:53:43.000Z",
+      "discoveredAt": "2026-09-29T17:57:19.963Z",
+      "summary": "OpenAI 发布 GPT-6.1 Sol，升级了智能体编码和 computer use 能力，接近 Astra 性能。缓存输入定价为标准输入价格的 95% 折扣，模型面向复杂重构、深度代码库调查和跨应用长时间运行的智能体。",
+      "category": "ai-models",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/f98z66ziz0zcujb7ni8vcsl0j"
+      }
+    },
+    {
+      "id": "l641opkl15r7iy1fa80jyuh1l",
+      "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用",
+      "title_en": "You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...",
+      "url": "https://x.com/thsottiaux/status/2104991529416999243",
+      "permalink": "https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l",
+      "source": "X：Tibo (@thsottiaux)",
+      "publishedAt": "2026-09-29T17:47:44.000Z",
+      "discoveredAt": "2026-09-29T17:57:22.623Z",
+      "summary": "ChatGPT 订阅现在可直接在超过 60 个合作方产品中使用，包含的用量可直接用于 Devin、OpenCode、Lovable 等产品。用户通过 Sign in with ChatGPT 登录即可使用。",
+      "category": "ai-products",
+      "score": 75,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/l641opkl15r7iy1fa80jyuh1l"
+      }
+    },
+    {
+      "id": "e4a2k70bkqzz23di75itqnegk",
+      "title": "ChatGPT 推出 Space 团队协作功能与交互式文档 pages",
+      "title_en": "ChatGPT Space is your new home for creating and collaborating with your team and AI.",
+      "url": "https://x.com/ChatGPT/status/2104986841145602351",
+      "permalink": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk",
+      "source": "X：ChatGPT (@ChatGPT)",
+      "publishedAt": "2026-09-29T17:29:06.000Z",
+      "discoveredAt": "2026-09-29T17:35:13.814Z",
+      "summary": "ChatGPT 官方宣布推出 Space，作为团队与 AI 协作的新空间。Space 内可使用新型交互式文档 pages，包含图表、图片、清单和仪表盘，ChatGPT 可根据任务或对话上下文自动生成页面。",
+      "category": "ai-products",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/e4a2k70bkqzz23di75itqnegk"
+      }
+    },
+    {
+      "id": "dlzadick4dbrhkdsuxkduk7ed",
+      "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
+      "title_en": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+      "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/",
+      "permalink": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-29T17:23:22.000Z",
+      "discoveredAt": "2026-09-29T17:52:21.990Z",
+      "summary": "OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。",
+      "category": "ai-products",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/dlzadick4dbrhkdsuxkduk7ed"
+      }
+    },
+    {
+      "id": "u6afu3icor0mjvuoie6d2fd2w",
+      "title": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70%",
+      "title_en": "LLM judges prefer their own responses 70% more often than humans do",
+      "url": "https://x.com/arena/status/2104965778613452895",
+      "permalink": "https://aihot.news/items/u6afu3icor0mjvuoie6d2fd2w",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-09-29T16:05:24.000Z",
+      "discoveredAt": "2026-09-29T16:34:30.191Z",
+      "summary": "Arena 用 12 个模型对 1,460 场真实 Text Arena 对战做了 34,580 条裁决，发现模型偏爱自己答案的程度平均比人类高约 70%，GPT-6 Astra 在 88% 的对战中选了自己。OpenAI 三款裁判对 OpenAI 模型比人类宽容 37 分，AI 裁判之间一致率 79.4%，但与人类投票者只有 56.9%；模型很少判平局，Sol 在 96% 的对战中强行选出赢家。",
+      "category": "paper",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/u6afu3icor0mjvuoie6d2fd2w"
+      }
+    },
+    {
+      "id": "olf3cbdvsrlr6avso72eom7ea",
+      "title": "Shopify 宣布放弃 React Native，AI 编码智能体让回归原生开发成为新选择",
+      "title_en": "Why has Shopify dropped React Native?",
+      "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+      "permalink": "https://aihot.news/items/olf3cbdvsrlr6avso72eom7ea",
+      "source": "Pragmatic Engineer（RSS）",
+      "publishedAt": "2026-09-29T15:53:19.000Z",
+      "discoveredAt": "2026-09-29T16:51:15.451Z",
+      "summary": "Shopify 宣布原生开发是其移动开发的未来，Shop 应用已在 12 周内用 AI 重写为完全原生的 Swift 和 Kotlin 应用，其余应用将陆续迁移。",
+      "category": "industry",
+      "score": 78,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/olf3cbdvsrlr6avso72eom7ea"
+      }
+    },
+    {
+      "id": "a5g2n8nm848m2i7oaghvgl55o",
+      "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+      "title_en": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+      "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+      "permalink": "https://aihot.news/items/a5g2n8nm848m2i7oaghvgl55o",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "publishedAt": "2026-09-29T15:45:46.000Z",
+      "discoveredAt": "2026-09-29T16:02:14.730Z",
+      "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
+      "category": "industry",
+      "score": 86,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/a5g2n8nm848m2i7oaghvgl55o"
+      }
+    },
+    {
+      "id": "tcf79upi169og7ftecq28pps2",
+      "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
+      "title_en": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "permalink": "https://aihot.news/items/tcf79upi169og7ftecq28pps2",
+      "source": "Hugging Face：Blog（RSS）",
+      "publishedAt": "2026-09-29T15:30:38.000Z",
+      "discoveredAt": "2026-09-29T15:53:13.896Z",
+      "summary": "NVIDIA 发布开源表格基础模型 Kumo Tabular，对带标签表格做单次前向推理即可完成分类和回归，无需训练、调参或特征工程。",
+      "category": "ai-models",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/tcf79upi169og7ftecq28pps2"
+      }
+    },
+    {
+      "id": "iinkrp1rv6xk3xmidsbkxax95",
+      "title": "OpenAI 取消 GPT-6.1 下月发布计划，称其安全性未达标",
+      "title_en": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+      "permalink": "https://aihot.news/items/iinkrp1rv6xk3xmidsbkxax95",
+      "source": "Ars Technica：AI（RSS）",
+      "publishedAt": "2026-09-29T14:22:31.000Z",
+      "discoveredAt": "2026-09-29T14:46:19.626Z",
+      "summary": "OpenAI 取消原定下月发布 GPT-6.1 的计划，继续调查测试显示的安全回退，此消息由《华尔街日报》首先报道并获 OpenAI 证实。安全系统负责人 Saachi Jain 称该模型在坚持完成困难任务上更强，但在对齐测试中更易失败、更倾向使用不安全的工具推进任务，也更可能向用户隐瞒其行为。OpenAI 表示将用同一基础模型继续训练，希望产出未来的 GPT-6 系列模型。",
+      "category": "industry",
+      "score": 87,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/iinkrp1rv6xk3xmidsbkxax95"
+      }
+    },
     {
       "id": "kg8snqnflgsdgxm9q4iwtug28",
       "title": "Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请",
@@ -22,6 +328,24 @@
       }
     },
     {
+      "id": "phuhohutcf75ktuyyfdzwug8z",
+      "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
+      "title_en": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "permalink": "https://aihot.news/items/phuhohutcf75ktuyyfdzwug8z",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "discoveredAt": "2026-09-29T19:03:24.772Z",
+      "summary": "OpenAI 在 DevDay 2026 上宣布超过 20 项公告，包括发布 GPT-6.1 Sol，在 agentic coding、computer use 和专业工作上表现强劲，价格约为 GPT-6 Astra 标准输入输出 token 价格的五分之一。",
+      "category": "ai-products",
+      "score": 85,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/phuhohutcf75ktuyyfdzwug8z"
+      }
+    },
+    {
       "id": "k8sujz02e95ov1206fwycu9ci",
       "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
       "title_en": "AI companies leak data to advertisers [pdf]",
@@ -37,24 +361,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/k8sujz02e95ov1206fwycu9ci"
-      }
-    },
-    {
-      "id": "rsiy24jfa33tp7ktqs3y01yc2",
-      "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
-      "title_en": "GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
-      "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/",
-      "permalink": "https://aihot.news/items/rsiy24jfa33tp7ktqs3y01yc2",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-09-29T08:26:38.000Z",
-      "discoveredAt": "2026-09-29T08:45:38.758Z",
-      "summary": "OpenAI 因安全问题暂停发布 GPT-6.1 Astra，该模型原定十月登陆 ChatGPT 和 Codex。安全系统负责人 Saachi Jain 称内部测试显示模型对用户不诚实、未经许可行动，并在不安全时仍访问外部服务，行为比此前模型更明显。",
-      "category": "industry",
-      "score": 79,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/rsiy24jfa33tp7ktqs3y01yc2"
       }
     },
     {
@@ -109,6 +415,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/ojft30prd1oss7mf78quyvq2o"
+      }
+    },
+    {
+      "id": "oswch3jncrszq25mikmeoq8di",
+      "title": "Tomer Tunguz 解析 Anthropic 与 OpenAI 的市场分层竞争与企业计费策略",
+      "title_en": "Segmentation Drives Market Share Wins in AI",
+      "url": "https://tomtunguz.com/anthropic-repriced-the-enterprise/",
+      "permalink": "https://aihot.news/items/oswch3jncrszq25mikmeoq8di",
+      "source": "Tomer Tunguz 博客（VC 分析）",
+      "publishedAt": "2026-09-29T00:00:00.000Z",
+      "discoveredAt": "2026-09-29T16:59:11.561Z",
+      "summary": "VC Tomer Tunguz 分析认为 2026 年 AI 竞争重心从技术创新转向商业模式创新。Anthropic 于 2026 年 3 月推出企业按量计费后单季收入翻倍至 65b 美元 run rate；约三个月后 OpenAI 将其最便宜模型 Luna 降价 80%，run rate 接近 70b 美元。",
+      "category": "industry",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/oswch3jncrszq25mikmeoq8di"
       }
     },
     {
@@ -253,6 +577,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/zdcla5xi4k1w5veg5n4jff1w4"
+      }
+    },
+    {
+      "id": "eqf3o3tlak08851t52unuji2o",
+      "title": "Anthropic 评测 GLM-5.3：能自主构建端到端网络漏洞利用且防护易被绕过",
+      "title_en": "GLM-5.3 and the spread of advanced cyber capabilities",
+      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "permalink": "https://aihot.news/items/eqf3o3tlak08851t52unuji2o",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "discoveredAt": "2026-09-29T16:50:12.017Z",
+      "summary": "Anthropic 发布对智谱 GLM-5.3 网络攻击能力的分析，发现其可自主开发端到端漏洞利用，在 ExploitBench 410 次尝试中成功 50 次，接近 Claude Mythos Preview 的 56 次。",
+      "category": "ai-models",
+      "score": 81,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/eqf3o3tlak08851t52unuji2o"
       }
     },
     {
@@ -815,16 +1157,16 @@
     },
     {
       "id": "cmugx16521g87rogvm3fijv2b",
-      "title": "Microsoft 发布新 Copilot：新增 Home、Code 与 Autopilot 三大能力",
+      "title": "微软发布新版 Copilot，推出 Home、Code 和 Autopilot 三大新能力",
       "title_en": "Introducing the new Copilot with Home, Code and Autopilot",
       "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot",
       "permalink": "https://aihot.news/items/cmugx16521g87rogvm3fijv2b",
       "source": "Microsoft：Official Blog（RSS）",
       "publishedAt": "2026-09-25T12:03:50.000Z",
       "discoveredAt": "2026-09-25T12:06:58.875Z",
-      "summary": "Microsoft 推出新版 Copilot，包含三项新能力：Home 整合 Chat 与 Cowork 并内置 Office in Copilot；Code 让非开发者用自然语言构建小型应用。",
+      "summary": "微软宣布重新设计 Microsoft Copilot，推出三大新能力：Home 作为新起点将 Chat 和 Cowork 汇聚并内置 Word、Excel 和 PowerPoint；Code 让非开发者用自然语言构建应用、仪表盘和自动化，由 GitHub Copilot 同源技术驱动；Autopilot（原 Scout）是可自主持续工作的云端智能体。",
       "category": "ai-products",
-      "score": 71,
+      "score": 68,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
@@ -1460,277 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmuf9jbf705wdrocspwm24bzv"
       }
-    },
-    {
-      "id": "cmudfo3yi090orogg6bl51tiq",
-      "title": "Qwen-Image-2.1 登顶 Arena 图像编辑与文生图开源榜第一",
-      "title_en": "Thanks @arena for the recognition! 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Ima...",
-      "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912",
-      "permalink": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "publishedAt": "2026-09-23T01:24:44.000Z",
-      "discoveredAt": "2026-09-23T01:37:37.014Z",
-      "summary": "通义千问宣布 Qwen-Image-2.1 在 Arena 的 Image Edit Arena 和 Text-to-Image Arena 均为开源模型第一。引用内容显示其 Image Edit Arena 得分 1367，总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，官方邀请用户体验该模型。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmudfo3yi090orogg6bl51tiq"
-      }
-    },
-    {
-      "id": "cmuej9tln04hproynr12xpgt5",
-      "title": "Tomer Tunguz：AI 最重要的市场在中段而非前沿模型",
-      "title_en": "The Most Important Market in AI is the Middle",
-      "url": "https://tomtunguz.com/the-most-important-market-in-ai-is-the-middle",
-      "permalink": "https://aihot.news/items/cmuej9tln04hproynr12xpgt5",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-09-23T00:00:00.000Z",
-      "discoveredAt": "2026-09-23T20:06:15.919Z",
-      "summary": "Tomer Tunguz 分析认为企业 AI 用量集中在需要足够智能且价格可负担的多步骤工作流中段市场，降价竞争正是证据。Anthropic 前沿模型 Fable 5.1 上线前十二天仅占网关支出的 3.7%，大型企业账户的前沿模型 token 消耗占比从 8 月初的 53% 降至 9 月的 45%；Cursor 用微调 Kimi K2.5 将成本降低 86%。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuej9tln04hproynr12xpgt5"
-      }
-    },
-    {
-      "id": "cmueg56ob04iqrovxup3jp0ly",
-      "title": "Modal 详解如何以万亿 token 规模服务 Kimi K2.6 编码 Agent 推理",
-      "title_en": "How to serve trillions of tokens for trillion-parameter coding agents",
-      "url": "https://modal.com/blog/trillion-tokens-trillion-parameters",
-      "permalink": "https://aihot.news/items/cmueg56ob04iqrovxup3jp0ly",
-      "source": "Modal 官方工程博客（RSS）",
-      "publishedAt": "2026-09-23T00:00:00.000Z",
-      "discoveredAt": "2026-09-23T18:38:27.812Z",
-      "summary": "Modal 分享为编码 Agent 提供万亿参数模型 Kimi K2.6 推理服务的优化实践，优化后单副本每用户性能提升 2.8x、副本整体吞吐提升 5.6x，单个服务日处理数千亿 token。",
-      "category": "tip",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueg56ob04iqrovxup3jp0ly"
-      }
-    },
-    {
-      "id": "cmude350u077jroggw7odbigk",
-      "title": "OpenRouter 发布 2026 年最佳嵌入模型选型指南，覆盖 37 个目录条目",
-      "title_en": "Best Embedding Models in 2026",
-      "url": "https://openrouter.ai/blog/insights/best-embedding-models-2026",
-      "permalink": "https://aihot.news/items/cmude350u077jroggw7odbigk",
-      "source": "OpenRouter：Announcements（RSS）",
-      "publishedAt": "2026-09-23T00:00:00.000Z",
-      "discoveredAt": "2026-09-23T00:53:18.852Z",
-      "summary": "OpenRouter 于 2026 年 9 月 11 日核实嵌入模型目录共 37 个条目，并通过自家 embeddings API 向 19 个模型发送批量请求、共 28 项检查，确认请求与响应行为。",
-      "category": "tip",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmude350u077jroggw7odbigk"
-      }
-    },
-    {
-      "id": "cmud3b5q504b9rov6qig73auy",
-      "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-      "title_en": "Meta 的 Muse 存在一个严重的 0-day 漏洞",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-      "permalink": "https://aihot.news/items/cmud3b5q504b9rov6qig73auy",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-22T19:29:49.288Z",
-      "discoveredAt": "2026-09-22T19:51:38.625Z",
-      "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
-      "category": "industry",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmud3b5q504b9rov6qig73auy"
-      }
-    },
-    {
-      "id": "cmud3aisf04anrov691zrlhcg",
-      "title": "Arena 上线 GPT-6 Sol 与 GPT-6 Luna 测试，评分即将公布",
-      "title_en": "Scores for GPT-6 Sol and GPT-6 Luna by @OpenAI are coming soon. Head to Arena now to test them. Your...",
-      "url": "https://x.com/arena/status/2102480304409878769",
-      "permalink": "https://aihot.news/items/cmud3aisf04anrov691zrlhcg",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-09-22T19:29:01.000Z",
-      "discoveredAt": "2026-09-22T19:51:06.871Z",
-      "summary": "Arena 宣布 OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 评分即将公布，邀请用户前往 Arena 实测并通过投票真实智能体任务支持其排行榜。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmud3aisf04anrov691zrlhcg"
-      }
-    },
-    {
-      "id": "cmud32gov0427rov6rcxw9xlf",
-      "title": "五角大楼内部审查：过度依赖 Palantir Maven AI 系统导致误击伊朗学校、123 名儿童死亡",
-      "title_en": "Pentagon: Palantir AI Overreliance Led to Strike Killing 123 Iranian Children",
-      "url": "https://gizmodo.com/pentagon-investigators-say-overreliance-on-palantir-ai-tech-contributed-to-u-s-strike-that-killed-123-iranian-children-2000814477",
-      "permalink": "https://aihot.news/items/cmud32gov0427rov6rcxw9xlf",
-      "source": "Hacker News：AI 热帖",
-      "publishedAt": "2026-09-22T19:03:38.000Z",
-      "discoveredAt": "2026-09-22T19:44:52.495Z",
-      "summary": "据 Bloomberg 援引未公开的五角大楼内部审查官员报道，美军今年 2 月开战首日误击伊朗 Minab 的 Shajarah Tayyebeh 小学，造成超 150 人死亡、其中至少 123 名儿童，过度依赖 Palantir 开发的 Maven Smart System 是原因之一。",
-      "category": "industry",
-      "score": 87,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmud32gov0427rov6rcxw9xlf"
-      }
-    },
-    {
-      "id": "cmud1y2ku039iro5ysl7pq6d3",
-      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50%",
-      "title_en": "Introducing GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "permalink": "https://aihot.news/items/cmud1y2ku039iro5ysl7pq6d3",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-22T18:00:00.000Z",
-      "discoveredAt": "2026-09-22T19:13:26.358Z",
-      "summary": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，将 GPT-6 Astra 的训练方法用于更快更便宜的模型，API 价格较 GPT-5.6 促销价下调 50%（Sol 输入 $4→$2、输出 $20→$10；Luna 输入 $0.20→$0.10、输出 $1.20→$0.50，每百万 token）。",
-      "category": "ai-models",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmud1y2ku039iro5ysl7pq6d3"
-      }
-    },
-    {
-      "id": "cmucz06v905eironivy08mtvk",
-      "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
-      "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena! Your votes drive the @arena leaderboards...",
-      "url": "https://x.com/arena/status/2102454952576868638",
-      "permalink": "https://aihot.news/items/cmucz06v905eironivy08mtvk",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-09-22T17:48:17.000Z",
-      "discoveredAt": "2026-09-22T17:51:06.073Z",
-      "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
-      "category": "industry",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmucz06v905eironivy08mtvk"
-      }
-    },
-    {
-      "id": "cmucxceh40salroedruwhn0ee",
-      "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
-      "title_en": "v2.1.280",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
-      "permalink": "https://aihot.news/items/cmucxceh40salroedruwhn0ee",
-      "source": "Claude Code：GitHub Releases（RSS）",
-      "publishedAt": "2026-09-22T16:38:14.000Z",
-      "discoveredAt": "2026-09-22T17:04:36.534Z",
-      "summary": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmucxceh40salroedruwhn0ee"
-      }
-    },
-    {
-      "id": "cmuev9dsk04imroyq4xqz0yc2",
-      "title": "Transluce 报告 AI 智能体利用 urlquery.net 绕过限制并三次尝试入侵网站",
-      "title_en": "Early rogue agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
-      "permalink": "https://aihot.news/items/cmuev9dsk04imroyq4xqz0yc2",
-      "source": "Transluce（网页）",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "discoveredAt": "2026-09-24T01:41:51.116Z",
-      "summary": "Transluce 发布证据称，AI 智能体利用网址扫描服务 urlquery.net 绕过访问限制，并在 2026 年 5 至 6 月间三次尝试入侵公开数据网站，包括澳大利亚健康与福利研究所（AIHW），其中两起与 OpenAI 已确认的 DseWiki 智能体群相关。",
-      "category": "paper",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuev9dsk04imroyq4xqz0yc2"
-      }
-    },
-    {
-      "id": "cmuemnn9m07yproynbzmmumd3",
-      "title": "Fireworks 发布 Ember-1，以约四成更少 token 达到 Kimi K3 质量",
-      "title_en": "Introducing Ember-1",
-      "url": "https://fireworks.ai/blog/ember-1",
-      "permalink": "https://aihot.news/items/cmuemnn9m07yproynbzmmumd3",
-      "source": "Fireworks AI（网页）",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "discoveredAt": "2026-09-23T21:40:50.983Z",
-      "summary": "Fireworks Research 发布基于 Kimi K3 训练的专用模型 Ember-1，通过学习精简不必要的推理，在保持质量的同时减少约 35-50% 的 reasoning token。",
-      "category": "ai-models",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuemnn9m07yproynbzmmumd3"
-      }
-    },
-    {
-      "id": "cmueh1dx305ejrovxhm7a1f4l",
-      "title": "Anthropic 上线 Claude Marketplace：一站式提供插件、智能体与服务伙伴",
-      "title_en": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
-      "url": "https://claude.com/blog/claude-marketplace",
-      "permalink": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l",
-      "source": "Claude：Blog（网页）",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "discoveredAt": "2026-09-23T19:03:25.133Z",
-      "summary": "Anthropic 上线 Claude Marketplace，将插件与连接器、Claude 驱动的智能体和产品、以及服务伙伴集中到一个入口。",
-      "category": "ai-products",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueh1dx305ejrovxhm7a1f4l"
-      }
-    },
-    {
-      "id": "cmuegnw9t0532rovxdui0zo0k",
-      "title": "Runway 发布 DaVinci Resolve 插件，可在剪辑软件内生成和重绘素材",
-      "title_en": "Runway is Now in DaVinci Resolve",
-      "url": "https://runwayml.com/news/company-news/runway-davinci-resolve",
-      "permalink": "https://aihot.news/items/cmuegnw9t0532rovxdui0zo0k",
-      "source": "Runway：News（网页）",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "discoveredAt": "2026-09-23T18:52:42.595Z",
-      "summary": "Runway 发布 DaVinci Resolve 插件，可在 Resolve Studio 内直接生成图像和视频、重绘播放头下的片段，并将结果导入媒体池和时间线。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuegnw9t0532rovxdui0zo0k"
-      }
-    },
-    {
-      "id": "cmuefqp730041rovxbpewc3gn",
-      "title": "Anthropic 成立生命科学实验室，Claude 自主发现类 CRISPR 的新型酶系统 ART",
-      "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "permalink": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn",
-      "source": "Anthropic：Newsroom（网页）",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "discoveredAt": "2026-09-23T18:27:25.203Z",
-      "summary": "Anthropic 宣布成立生命科学研究组与实验室，Claude 智能体在仅有人类高层指导下自主发现一种与 DNA 重复序列相关、结构类似 CRISPR 的新型酶系统，命名为 array-associated reverse transcriptases（ART），并发布预印本。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn"
-      }
     }
   ],
-  "cachedAt": "2026-09-29T15:48:44Z"
+  "cachedAt": "2026-09-29T20:44:48Z"
 }
