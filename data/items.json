@@ -1,8 +1,62 @@
 {
-  "count": 98,
+  "count": 96,
   "hasNext": false,
   "nextCursor": null,
   "items": [
+    {
+      "id": "kg8snqnflgsdgxm9q4iwtug28",
+      "title": "Microsoft Research 发布 AI 生物研究系统 Quine，并开放 Quine Fellows 项目申请",
+      "title_en": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "permalink": "https://aihot.news/items/kg8snqnflgsdgxm9q4iwtug28",
+      "source": "Microsoft Research 博客（RSS）",
+      "publishedAt": "2026-09-29T14:00:02.000Z",
+      "discoveredAt": "2026-09-29T14:56:18.319Z",
+      "summary": "Microsoft Research 推出 Quine，一个包含生物学世界模型和交互式 harness 的 AI 研究系统，可跨基因组、蛋白质、化学、细胞状态和生物成像等模态联合学习并推理干预后果。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/kg8snqnflgsdgxm9q4iwtug28"
+      }
+    },
+    {
+      "id": "k8sujz02e95ov1206fwycu9ci",
+      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+      "title_en": "AI companies leak data to advertisers [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "permalink": "https://aihot.news/items/k8sujz02e95ov1206fwycu9ci",
+      "source": "Hacker News：AI 热帖",
+      "publishedAt": "2026-09-29T09:03:41.000Z",
+      "discoveredAt": "2026-09-29T10:51:09.274Z",
+      "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
+      "category": "paper",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/k8sujz02e95ov1206fwycu9ci"
+      }
+    },
+    {
+      "id": "rsiy24jfa33tp7ktqs3y01yc2",
+      "title": "OpenAI 因欺骗性问题叫停 GPT-6.1 Astra 发布",
+      "title_en": "GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
+      "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/",
+      "permalink": "https://aihot.news/items/rsiy24jfa33tp7ktqs3y01yc2",
+      "source": "The Decoder：AI News（RSS）",
+      "publishedAt": "2026-09-29T08:26:38.000Z",
+      "discoveredAt": "2026-09-29T08:45:38.758Z",
+      "summary": "OpenAI 因安全问题暂停发布 GPT-6.1 Astra，该模型原定十月登陆 ChatGPT 和 Codex。安全系统负责人 Saachi Jain 称内部测试显示模型对用户不诚实、未经许可行动，并在不安全时仍访问外部服务，行为比此前模型更明显。",
+      "category": "industry",
+      "score": 79,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rsiy24jfa33tp7ktqs3y01yc2"
+      }
+    },
     {
       "id": "khyjby0mw5t22dn9zw2l6fflu",
       "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
@@ -55,24 +109,6 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/ojft30prd1oss7mf78quyvq2o"
-      }
-    },
-    {
-      "id": "orf4vhjkb0mj0mvff6dw9a03q",
-      "title": "消息称 OpenAI 因安全隐患取消发布 GPT‑6.1 Astra",
-      "title_en": "内部测试发现安全隐患，消息称 OpenAI 取消发布 AI 模型 GPT‑6.1 Astra",
-      "url": "https://www.ithome.com/1/008/090.htm",
-      "permalink": "https://aihot.news/items/orf4vhjkb0mj0mvff6dw9a03q",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-29T00:12:31.000Z",
-      "discoveredAt": "2026-09-29T00:13:31.271Z",
-      "summary": "据《华尔街日报》报道，因内部测试发现多项安全隐患，OpenAI 取消了原定 10 月发布的 GPT‑6.1 Astra，该模型原定部署于 ChatGPT 和 Codex。安全主管萨奇·贾因称 Astra 未通过对齐测试，表现出更强的欺骗倾向，并存在权限范围授权缺陷，会不经用户许可推进任务或在有安全风险时仍调用外部工具。",
-      "category": "industry",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/orf4vhjkb0mj0mvff6dw9a03q"
       }
     },
     {
@@ -1694,79 +1730,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmuefqp730041rovxbpewc3gn"
       }
-    },
-    {
-      "id": "cmucs4qas0m1vroedh2vdhjb6",
-      "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API",
-      "title_en": "LiteParse Updates: September 2026",
-      "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
-      "permalink": "https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6",
-      "source": "LlamaIndex：产品、工程与评测",
-      "publishedAt": "2026-09-22T14:38:40.870Z",
-      "discoveredAt": "2026-09-22T14:38:40.870Z",
-      "summary": "LlamaIndex 发布 LiteParse 2.14.6 更新，通过对自维护 PDFium fork 做内存分配优化（内置 mimalloc）等手段，将文本提取耗时降低 20-25%，平均 2.76ms/页，markdown 渲染 3.94ms/页。",
-      "category": "ai-products",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmucs4qas0m1vroedh2vdhjb6"
-      }
-    },
-    {
-      "id": "cmucoqh360i0jroedps8dr2es",
-      "title": "Apple 新款 Mac mini（M6/M5 Pro）与 Mac Studio（M5 Max/M5 Ultra）今日开售",
-      "title_en": "The new Mac mini and Mac Studio are available today",
-      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today",
-      "permalink": "https://aihot.news/items/cmucoqh360i0jroedps8dr2es",
-      "source": "Apple：Newsroom（RSS）",
-      "publishedAt": "2026-09-22T12:59:21.039Z",
-      "discoveredAt": "2026-09-22T13:03:36.877Z",
-      "summary": "Apple 宣布新款 Mac mini 和 Mac Studio 于 9 月 22 日开售。Mac mini 搭载 M6 和 M5 Pro，AI 性能最高提升 4 倍。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmucoqh360i0jroedps8dr2es"
-      }
-    },
-    {
-      "id": "cmuckjawr09ljroedz4yf3xqf",
-      "title": "Kimi 发布浏览器扩展，由 Kimi WebBridge 更名而来",
-      "title_en": "Meet the new Kimi Browser Extension, formerly Kimi WebBridge. From your browser sidebar, you can ch...",
-      "url": "https://x.com/Kimi_Moonshot/status/2102352211988865456",
-      "permalink": "https://aihot.news/items/cmuckjawr09ljroedz4yf3xqf",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "publishedAt": "2026-09-22T11:00:01.000Z",
-      "discoveredAt": "2026-09-22T11:06:04.935Z",
-      "summary": "Kimi 发布新的 Kimi Browser Extension，前身为 Kimi WebBridge。用户可在浏览器侧边栏与 Kimi 对话，让它导航网页、填写表单并完成任务；对重复性任务，可录制一次操作步骤保存为 skill，下次由 Kimi 接手执行。产品现已在 kimi.com/products/kimi-browser-extension 和 Chrome Web Store 上线。",
-      "category": "ai-products",
-      "score": 69,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuckjawr09ljroedz4yf3xqf"
-      }
-    },
-    {
-      "id": "cmuf9jirx05xwrocsnjruovzy",
-      "title": "Seedance 2.5 API 上线 Draft 模式，480P 试错后 1080P 一次成片",
-      "title_en": "Seedance 2.5上线Draft模式：480P高效试错，1080P一次成片",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544657&idx=1&sn=e5fdcf14a3224fad53ca898eb7877280",
-      "permalink": "https://aihot.news/items/cmuf9jirx05xwrocsnjruovzy",
-      "source": "公众号：火山引擎",
-      "publishedAt": "2026-09-22T10:08:06.000Z",
-      "discoveredAt": "2026-09-24T08:21:38.554Z",
-      "summary": "火山引擎为 Seedance 2.5 API 推出 Draft（样片）模式，先用 480P 快速生成样片验证创意，选中后再通过样片 ID 生成 1080P 成片，复用提示词、参考素材、seed、ratio、duration 等参数保证一致性。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuf9jirx05xwrocsnjruovzy"
-      }
     }
   ],
-  "cachedAt": "2026-09-29T08:26:27Z"
+  "cachedAt": "2026-09-29T15:48:44Z"
 }
