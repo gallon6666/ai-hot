@@ -1,8 +1,152 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzkwMTc3MTE0MDAwLCJpIjoiY211ZWE4eHJtMHQxbnJvZ2hoeGoyeTNlZyJ9",
+  "nextCursor": "eyJhIjoxNzkwMjAwMDAwMDAwLCJpIjoiY211ZW5vOXM4MGN2MHJveW43emQyaWhlMSJ9",
   "items": [
+    {
+      "id": "rykd5ehzsa334zhi0cp2b9ypg",
+      "title": "Google 与白宫及科技领袖签署 White House Accord on Super Intelligence",
+      "title_en": "Great to meet today with @POTUS, @JDVance, @SpeakerJohnson and Administration + tech leaders. Important conversation and we signed today ...",
+      "url": "https://x.com/sundarpichai/status/2105121763176894804",
+      "permalink": "https://aihot.news/items/rykd5ehzsa334zhi0cp2b9ypg",
+      "source": "X：Sundar Pichai (@sundarpichai)",
+      "publishedAt": "2026-09-30T02:25:14.000Z",
+      "discoveredAt": "2026-09-30T02:41:37.477Z",
+      "summary": "Sundar Pichai 宣布 Google 在与特朗普总统、JD Vance、Speaker Johnson 及政府与科技领袖会晤后，签署了 White House Accord on Super Intelligence 及 Joint Commitment on Frontier Responsibilities。",
+      "category": "industry",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rykd5ehzsa334zhi0cp2b9ypg"
+      }
+    },
+    {
+      "id": "qw3a6btvwdalftejp20ccxjb3",
+      "title": "DeepSeek 开源面向华为昇腾平台的基础设施组件",
+      "title_en": "DeepSeek 开源昇腾基础组件",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034#rd",
+      "permalink": "https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3",
+      "source": "公众号：DeepSeek（深度求索）",
+      "publishedAt": "2026-09-30T02:01:00.000Z",
+      "discoveredAt": "2026-09-30T03:30:45.495Z",
+      "summary": "DeepSeek 开源面向华为昇腾算力平台的基础设施组件，包括 TileLang 编译工具、DeepGEMM、DeepEP、TileKernels、FlashMLA、DeepSelect，与此前英伟达平台开源组件一一对应。",
+      "category": "ai-models",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/qw3a6btvwdalftejp20ccxjb3"
+      }
+    },
+    {
+      "id": "ndk15d5pv9et8zspxncqzh55y",
+      "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+      "title_en": "消息称 AI 失控前 OpenAI 已接到员工警告，但高层选择无视",
+      "url": "https://www.ithome.com/1/008/592.htm",
+      "permalink": "https://aihot.news/items/ndk15d5pv9et8zspxncqzh55y",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-30T01:48:21.000Z",
+      "discoveredAt": "2026-09-30T01:55:37.364Z",
+      "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
+      "category": "industry",
+      "score": 87,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/ndk15d5pv9et8zspxncqzh55y"
+      }
+    },
+    {
+      "id": "tezd4474gysof1re07lje1xc3",
+      "title": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除",
+      "title_en": "Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天发通知解除",
+      "url": "https://www.ithome.com/1/008/589.htm",
+      "permalink": "https://aihot.news/items/tezd4474gysof1re07lje1xc3",
+      "source": "IT之家（RSS）",
+      "publishedAt": "2026-09-30T01:41:26.000Z",
+      "discoveredAt": "2026-09-30T01:55:37.379Z",
+      "summary": "Anthropic 与 SpaceX 签署算力协议，据路透社查阅的 IPO 申报文件，合同金额上限最高达 845 亿美元，用于租用 SpaceX 数据中心内的英伟达 GPU。",
+      "category": "industry",
+      "score": 82,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/tezd4474gysof1re07lje1xc3"
+      }
+    },
+    {
+      "id": "rag4wqxxj3qhsk4m61swzqpw9",
+      "title": "GamersNexus 分析内存厂商以长期协议锁定产能，消费级 RAM 与 SSD 价格一年大涨",
+      "title_en": "内存厂商摧毁了消费市场",
+      "url": "https://gamersnexus.net/news-features/memory-companies-have-destroyed-consumer-market",
+      "permalink": "https://aihot.news/items/rag4wqxxj3qhsk4m61swzqpw9",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "publishedAt": "2026-09-30T01:40:59.989Z",
+      "discoveredAt": "2026-09-30T01:49:37.338Z",
+      "summary": "GamersNexus 撰文指出，Micron、Samsung、SK Hynix 等内存厂商正以 3-5 年长期协议（LTA）把 50%-70% 产能分配给最大的 5-16 家客户，试图消除行业原有的周期性低价。",
+      "category": "industry",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rag4wqxxj3qhsk4m61swzqpw9"
+      }
+    },
+    {
+      "id": "qu0zwrg9img0cfv03vtgmopbs",
+      "title": "OpenRouter 教程：如何测试 AI Agent 的工具调用准确性",
+      "title_en": "How to Test Tool-Calling Accuracy in AI Agents",
+      "url": "https://openrouter.ai/blog/tutorials/how-to-test-tool-calling-accuracy-in-ai-agents/",
+      "permalink": "https://aihot.news/items/qu0zwrg9img0cfv03vtgmopbs",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "discoveredAt": "2026-09-30T00:56:35.294Z",
+      "summary": "OpenRouter 发布教程，讲解如何测试 AI Agent 的工具调用准确性，将失败拆分为工具选择错误和参数错误两类分别测试。",
+      "category": "tip",
+      "score": 62,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/qu0zwrg9img0cfv03vtgmopbs"
+      }
+    },
+    {
+      "id": "lq71il0lehssgkular7zs5ybl",
+      "title": "OpenRouter 教程：提示词或模型变更后如何对 AI Agent 做回归测试",
+      "title_en": "AI Agent Regression Testing After a Prompt or Model Change",
+      "url": "https://openrouter.ai/blog/tutorials/ai-agent-regression-testing-after-a-prompt-or-model-change/",
+      "permalink": "https://aihot.news/items/lq71il0lehssgkular7zs5ybl",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "discoveredAt": "2026-09-30T00:56:35.283Z",
+      "summary": "OpenRouter 发布 AI Agent 回归测试教程：每次提示词、模型、工具定义或检索设置变更后，重跑锁定的用例集并对照书面行为契约检查。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/lq71il0lehssgkular7zs5ybl"
+      }
+    },
+    {
+      "id": "fibq25b0liw1wvpxc0kg5kktn",
+      "title": "OpenRouter 教程：如何从生产流量构建 golden 评测集并跨模型复测",
+      "title_en": "Building a Golden Eval Dataset from Production Traffic",
+      "url": "https://openrouter.ai/blog/tutorials/building-a-golden-eval-dataset-from-production-traffic/",
+      "permalink": "https://aihot.news/items/fibq25b0liw1wvpxc0kg5kktn",
+      "source": "OpenRouter：Announcements（RSS）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "discoveredAt": "2026-09-30T00:56:35.289Z",
+      "summary": "OpenRouter 发布教程，讲解如何从生产流量构建 golden 评测集，作为每次部署前的回归测试。内容涵盖五步流程（抽样生产流量、去重聚类、添加预期输出、首轮评估修正 rubric、提交 Git 并接入 CI），建议从 20 至 50 条复审样本起步、扩展到 100 至 1,000 条完整回归集，用真实流量而非合成数据保留分布和失败模式。",
+      "category": "tip",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/fibq25b0liw1wvpxc0kg5kktn"
+      }
+    },
     {
       "id": "vfjmts2i5gd8f3y5cerlb7h2q",
       "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
@@ -58,21 +202,21 @@
       }
     },
     {
-      "id": "gq649zyk61hbg5ysfld6cfnly",
-      "title": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元",
-      "title_en": "Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...",
-      "url": "https://x.com/rohanpaul_ai/status/2105017898343575731",
-      "permalink": "https://aihot.news/items/gq649zyk61hbg5ysfld6cfnly",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-29T19:32:30.000Z",
-      "discoveredAt": "2026-09-29T20:00:27.184Z",
-      "summary": "据 Bloomberg，OpenAI 正寻求新一轮融资至少 300 亿美元，投前估值约 1.4 万亿美元。Sam Altman 以 AI 安全顾虑为由排除 2026 年上市，称当前是 IPO 的 ill-advised moment。另据 Axios，OpenAI 年化 run rate 接近 700 亿美元，本季度以来增长超 70%，企业收入翻倍以上。",
+      "id": "hxdv40od8cwti1sfmkmursiop",
+      "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元",
+      "title_en": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "permalink": "https://aihot.news/items/hxdv40od8cwti1sfmkmursiop",
+      "source": "TechCrunch：AI（RSS）",
+      "publishedAt": "2026-09-29T19:52:37.000Z",
+      "discoveredAt": "2026-09-30T00:45:35.110Z",
+      "summary": "据 Bloomberg 报道，OpenAI 正与投资者洽谈在 IPO 前融资至少 300 亿美元，估值约 1.4 万亿美元。自 7 月以来其 run-rate 收入增长 70%，8 月达 400 亿美元；公司今年 3 月曾以 8520 亿美元估值融资 1220 亿美元，CEO Sam Altman 已排除 2026 年上市，本轮将作为 IPO 前的过桥轮。",
       "category": "industry",
-      "score": 81,
+      "score": 83,
       "selected": true,
       "attribution": {
         "source": "AIHOT",
-        "canonical": "https://aihot.news/items/gq649zyk61hbg5ysfld6cfnly"
+        "canonical": "https://aihot.news/items/hxdv40od8cwti1sfmkmursiop"
       }
     },
     {
@@ -685,6 +829,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/zdcla5xi4k1w5veg5n4jff1w4"
+      }
+    },
+    {
+      "id": "uet0fx7vwv720jh2evuzmfbmm",
+      "title": "Artificial Analysis 开源 AA-AgentPerf-Local，测试笔记本与工作站上本地 AI 智能体推理性能",
+      "title_en": "AA-AgentPerf-Local: Benchmarking local AI agents on laptops and workstations",
+      "url": "https://artificialanalysis.ai/articles/aa-agentperf-local",
+      "permalink": "https://aihot.news/items/uet0fx7vwv720jh2evuzmfbmm",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "discoveredAt": "2026-09-30T03:51:36.805Z",
+      "summary": "Artificial Analysis 发布开源工具 AA-AgentPerf-Local，通过重放 8 个真实智能体任务（168 轮、上下文增长至约 56K tokens）测试本地推理性能，并上线笔记本与工作站排行榜。",
+      "category": "ai-products",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/uet0fx7vwv720jh2evuzmfbmm"
       }
     },
     {
@@ -1640,169 +1802,7 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/cmueno9s80cv0royn7zd2ihe1"
       }
-    },
-    {
-      "id": "cmueurvwl03tvroyqdzcth166",
-      "title": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度",
-      "title_en": "Cloud sessions are officially available and out of research preview! They let you keep Claude Code w...",
-      "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-      "permalink": "https://aihot.news/items/cmueurvwl03tvroyqdzcth166",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-09-23T21:23:41.000Z",
-      "discoveredAt": "2026-09-24T01:28:13.469Z",
-      "summary": "Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11:59 PM PT 前领取、11 月 4 日前用完。",
-      "category": "ai-products",
-      "score": 68,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueurvwl03tvroyqdzcth166"
-      }
-    },
-    {
-      "id": "cmuek0q2c05foroynclaijp3z",
-      "title": "团队分享提升 Agent Harness Token 效率的提示词",
-      "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv...",
-      "url": "https://x.com/ericzakariasson/status/2102853511637774551",
-      "permalink": "https://aihot.news/items/cmuek0q2c05foroynclaijp3z",
-      "source": "X：Eric Zakariasson (@ericzakariasson)",
-      "publishedAt": "2026-09-23T20:12:00.000Z",
-      "discoveredAt": "2026-09-23T20:27:09.837Z",
-      "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
-      "category": "tip",
-      "score": 77,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuek0q2c05foroynclaijp3z"
-      }
-    },
-    {
-      "id": "cmueurvwl03twroyqsw3ygr4q",
-      "title": "Claude 团队分享两周内将 claude.ai 提速 3 倍的方法与提示词",
-      "title_en": "We made claude​.ai 3x faster in two weeks. Here’s how we use Claude to measure, debug and improve p...",
-      "url": "https://x.com/ClaudeDevs/status/2102839691154427983",
-      "permalink": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "publishedAt": "2026-09-23T19:17:05.000Z",
-      "discoveredAt": "2026-09-24T01:28:13.469Z",
-      "summary": "Claude 团队宣布在两周内将 claude.ai 速度提升 3 倍。文章介绍他们如何用 Claude 来测量、调试和改进性能，并附上了相关提示词和方法，详见 https://claude.dev/blog/how-we-made-claude-ai-faster/。",
-      "category": "tip",
-      "score": 51,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueurvwl03twroyqsw3ygr4q"
-      }
-    },
-    {
-      "id": "cmueho4vu065orovxbe0r7q3s",
-      "title": "MiMo-V2.6-Pro、Claude Opus 5.5、GPT-6 Luna/Sol 发布改变智能指数与成本 Pareto 前沿",
-      "title_en": "The Intelligence Index vs Cost per Task Pareto frontier shifted this week with the releases of MiMo-...",
-      "url": "https://x.com/ArtificialAnlys/status/2102833926788288704",
-      "permalink": "https://aihot.news/items/cmueho4vu065orovxbe0r7q3s",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "publishedAt": "2026-09-23T18:54:11.000Z",
-      "discoveredAt": "2026-09-23T19:21:08.250Z",
-      "summary": "Artificial Analysis 称本周 MiMo-V2.6-Pro、Claude Opus 5.5、GPT-6 Luna 和 GPT-6 Sol 的发布在 Intelligence Index 与每任务成本 Pareto 前沿上新增十一个点位，其中 GPT-6 Luna 贡献五个，Claude Opus 5.5 贡献四个。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueho4vu065orovxbe0r7q3s"
-      }
-    },
-    {
-      "id": "cmueup7f003m7royq61z93ftn",
-      "title": "OpenAI 更新 ChatGPT Voice：支持邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动",
-      "title_en": "We heard you loud and clear. ChatGPT Voice can now: - Use plugins like your email, calendar, and Sl...",
-      "url": "https://x.com/OpenAI/status/2102808325742322002",
-      "permalink": "https://aihot.news/items/cmueup7f003m7royq61z93ftn",
-      "source": "X：OpenAI (@OpenAI)",
-      "publishedAt": "2026-09-23T17:12:27.000Z",
-      "discoveredAt": "2026-09-24T01:26:06.153Z",
-      "summary": "OpenAI 宣布 ChatGPT Voice 更新，即日起在最新版应用全球推送。语音功能现可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol 和 Luna 模型驱动。同时语音可在网页和移动端的 ChatGPT Work 中使用，仅通过说话即可在浏览器中创建文档、演示文稿、网站和表格，或处理复杂任务。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmueup7f003m7royq61z93ftn"
-      }
-    },
-    {
-      "id": "cmued0oy602x2rommk0l8lw6q",
-      "title": "Antigravity SDK 支持本地模型，首发 Gemma 4 26B A4B 配合 LiteRT",
-      "title_en": "Introducing Support for Local AI Models in the Antigravity SDK",
-      "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
-      "permalink": "https://aihot.news/items/cmued0oy602x2rommk0l8lw6q",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-09-23T17:09:01.108Z",
-      "discoveredAt": "2026-09-23T17:09:01.108Z",
-      "summary": "Google 宣布 Antigravity SDK 支持本地工作流，首发支持通过 Google AI Edge 的 LiteRT 运行 Gemma 4 26B A4B，可完全离线获得智能体辅助能力，建议机器配备超过 24GB VRAM 或统一内存。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmued0oy602x2rommk0l8lw6q"
-      }
-    },
-    {
-      "id": "cmuedgev303hyromm2gpbnjqf",
-      "title": "Arena 实测：GPT-6 Sol (Max) 以 1689 分列 Code Arena: WebDev 第 4 名",
-      "title_en": "Real-world results are in for GPT-6 Sol (Max) by @OpenAI. It landed #4 in the Code Arena: WebDev wit...",
-      "url": "https://x.com/arena/status/2102806554340974612",
-      "permalink": "https://aihot.news/items/cmuedgev303hyromm2gpbnjqf",
-      "source": "X：Arena (@arena)",
-      "publishedAt": "2026-09-23T17:05:25.000Z",
-      "discoveredAt": "2026-09-23T17:23:20.251Z",
-      "summary": "Arena 公布 OpenAI 的 GPT-6 Sol (Max) 真实投票结果，在 Code Arena: WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuedgev303hyromm2gpbnjqf"
-      }
-    },
-    {
-      "id": "cmufzisoh06alrogv9r5eugcc",
-      "title": "Anthropic Project Swap 实验：201 名员工让 Claude 智能体替人换书交易",
-      "title_en": "Project Swap: What happens when agents trade for us?",
-      "url": "https://www.anthropic.com/research/project-swap",
-      "permalink": "https://aihot.news/items/cmufzisoh06alrogv9r5eugcc",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "publishedAt": "2026-09-23T16:00:00.000Z",
-      "discoveredAt": "2026-09-24T20:28:54.792Z",
-      "summary": "Anthropic 开展 Project Swap 实验，让 201 名员工携带一本书，其 Claude 智能体在数字交易大厅代表他们谈判换书。5 分钟聊天后，Claude 构建的图书排序与本人自评排序在 61% 的书对上一致；市场效率为 0.55（最优 0.89），其中 85% 的差距来自智能体对参与者偏好的理解不足，而非谈判表现。",
-      "category": "paper",
-      "score": 61,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmufzisoh06alrogv9r5eugcc"
-      }
-    },
-    {
-      "id": "cmuea8xrm0t1nroghhxj2y3eg",
-      "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
-      "title_en": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "permalink": "https://aihot.news/items/cmuea8xrm0t1nroghhxj2y3eg",
-      "source": "Google DeepMind：Blog（RSS）",
-      "publishedAt": "2026-09-23T15:25:14.000Z",
-      "discoveredAt": "2026-09-23T15:53:33.804Z",
-      "summary": "Google DeepMind 发布 Gemini 3.8 Flash TTS 和 Gemini 3.8 Flash-Lite TTS 两款文本转语音模型，支持用自然语言提示词从零设计声音、30 秒样本复刻声音，并提供逐行表演指导、长时音频生成和双说话人场景编排，覆盖 100 多种语言。",
-      "category": "ai-models",
-      "score": 74,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmuea8xrm0t1nroghhxj2y3eg"
-      }
     }
   ],
-  "cachedAt": "2026-09-30T00:24:49Z"
+  "cachedAt": "2026-09-30T06:40:52Z"
 }
