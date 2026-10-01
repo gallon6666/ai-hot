@@ -1,8 +1,116 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzkwNTAxMjM1MDYxLCJpIjoiY211am1mYWZjMGxzcnJvOWhxZG5xZzVvciJ9",
+  "nextCursor": "eyJhIjoxNzkwNTc4NzEwMDAwLCJpIjoiamYxNmlhODZtaWdsaG4xaGt4NmRoa3NidiJ9",
   "items": [
+    {
+      "id": "uveypxyk0fvw6czfi11nn6tph",
+      "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
+      "title_en": "FLUX 3 Image is now on Krea.",
+      "url": "https://x.com/krea_ai/status/2105769469880799716",
+      "permalink": "https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph",
+      "source": "X：Krea AI (@krea_ai)",
+      "publishedAt": "2026-10-01T21:18:59.000Z",
+      "discoveredAt": "2026-10-01T21:29:22.596Z",
+      "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
+      "category": "ai-products",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/uveypxyk0fvw6czfi11nn6tph"
+      }
+    },
+    {
+      "id": "x1x0d5mqj4y384t9fcq4415kj",
+      "title": "FLUX 3 Image 上线 OpenRouter，支持原生 4K 生成与多参考编辑",
+      "title_en": "FLUX 3 Image from @bfl_ai is now live on OpenRouter",
+      "url": "https://x.com/OpenRouter/status/2105759062835220852",
+      "permalink": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "publishedAt": "2026-10-01T20:37:38.000Z",
+      "discoveredAt": "2026-10-01T20:46:24.132Z",
+      "summary": "Black Forest Labs 的 FLUX 3 Image 现已上线 OpenRouter，是支持文生图与多参考编辑的旗舰图像模型，原生可渲染至 4K。原文提到可精确多轮编辑不动其他像素、用 bounding box 布局、最多用 10 个参考图合成，商业权重已开放，开放权重版将在未来数周发布。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/x1x0d5mqj4y384t9fcq4415kj"
+      }
+    },
+    {
+      "id": "fe4cigybkf7nhdwb0il9ggrns",
+      "title": "MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena，分列开源模型第5和第9",
+      "title_en": "MiMo-V2.6-Pro and MiMo-V2.6-Flash by @XiaomiMiMo have landed in Agent Arena!",
+      "url": "https://x.com/arena/status/2105733983250301224",
+      "permalink": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-10-01T18:57:58.000Z",
+      "discoveredAt": "2026-10-01T19:25:43.931Z",
+      "summary": "Arena 宣布 Xiaomi MiMo-V2.6-Pro 和 MiMo-V2.6-Flash 登陆 Agent Arena。Pro 在 8.1K+ 真实智能体会话中净提升 +3.17%，列开源模型第5，较 MiMo-V2.5-Pro（第13，-7.23%）提升9个名次；其 Confirmed Success 得分 +7.35%，列开源模型第2。",
+      "category": "ai-models",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/fe4cigybkf7nhdwb0il9ggrns"
+      }
+    },
+    {
+      "id": "qqvpv4tiarctdrthhbx7447b2",
+      "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI",
+      "title_en": "You can now mod Claude Code:",
+      "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
+      "permalink": "https://aihot.news/items/qqvpv4tiarctdrthhbx7447b2",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "publishedAt": "2026-10-01T18:08:07.000Z",
+      "discoveredAt": "2026-10-01T18:23:41.397Z",
+      "summary": "Claude Code 推出 mods 功能，支持修改模型行为、自定义 UI 并替换自有功能。用几行 TypeScript 即可编写，也可由 Claude 代为构建；mods 随插件分发，可在 CLI 或桌面应用中通过 /plugin 安装。",
+      "category": "ai-products",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/qqvpv4tiarctdrthhbx7447b2"
+      }
+    },
+    {
+      "id": "t6jf7f9e5zbw4sxftwim9wgk7",
+      "title": "LangChain 讲解如何在 Agent Harness 中构建模型路由器",
+      "title_en": "How to Build a Model Router in the Harness",
+      "url": "https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness",
+      "permalink": "https://aihot.news/items/t6jf7f9e5zbw4sxftwim9wgk7",
+      "source": "LangChain：Blog（RSS）",
+      "publishedAt": "2026-10-01T17:01:32.000Z",
+      "discoveredAt": "2026-10-01T17:29:22.720Z",
+      "summary": "LangChain 在其开源编码 Agent Open SWE 中构建模型路由器，在 973 个线程的 A/B 测试中，中位成本从 $2.61 降到 $0.94（降 64%），PR 合并率 29.2% 对 27.3%，质量无可测变化。",
+      "category": "tip",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/t6jf7f9e5zbw4sxftwim9wgk7"
+      }
+    },
+    {
+      "id": "i7z2cbcv93tg62amct88wqo3f",
+      "title": "Claude Sonnet 5.5 (xHigh) 以 1786 分登 Code Arena: WebDev 第 3 名",
+      "title_en": "Exciting update: Claude Sonnet 5.5 with xHigh reasoning has landed in the Code Arena: WebDev. With 1786 pts, its ranked #3!",
+      "url": "https://x.com/arena/status/2105702037849841954",
+      "permalink": "https://aihot.news/items/i7z2cbcv93tg62amct88wqo3f",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-10-01T16:51:02.000Z",
+      "discoveredAt": "2026-10-01T16:53:20.943Z",
+      "summary": "Arena 宣布 Claude Sonnet 5.5（xHigh）进入 Code Arena: WebDev 榜单，以 1786 分排名第 3，距第 2 名 GPT-6 Astra 的 1788 分仅差 2 分。",
+      "category": "ai-models",
+      "score": 71,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/i7z2cbcv93tg62amct88wqo3f"
+      }
+    },
     {
       "id": "uxe9v0hypn93df9ogn6glwled",
       "title": "OpenAI 称拦截蒸馏窃取攻击，但研究者称同样手法在 Azure 上仍可窃取 GPT-6 Astra 等模型的推理内容",
@@ -19,6 +127,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/uxe9v0hypn93df9ogn6glwled"
+      }
+    },
+    {
+      "id": "sbvvdrkyjbtob4gp4iwwtyar1",
+      "title": "Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件",
+      "title_en": "Getting started with Claude Code mods",
+      "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
+      "permalink": "https://aihot.news/items/sbvvdrkyjbtob4gp4iwwtyar1",
+      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+      "publishedAt": "2026-10-01T12:00:00.000Z",
+      "discoveredAt": "2026-10-01T18:04:35.083Z",
+      "summary": "这篇 Claude Code 官方开发者教程介绍 mods，即以 hooks 形式运行在插件内的 JavaScript 或 TypeScript 模块，可以观察、重写或拒绝事件，甚至绘制自定义 UI，需 Claude Code 2.1.287 或更高版本。",
+      "category": "tip",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/sbvvdrkyjbtob4gp4iwwtyar1"
       }
     },
     {
@@ -94,6 +220,24 @@
       }
     },
     {
+      "id": "xp4uyoz5jrkdo61acen7tu1k6",
+      "title": "Modal 发布 VM Sandboxes、Modal Clusters 等多项 Runtime 产品更新",
+      "title_en": "Runtime Roundup: VM Sandboxes, Multi-node clusters, and more",
+      "url": "https://modal.com/blog/runtime-product-update-sandbox-endpoints",
+      "permalink": "https://aihot.news/items/xp4uyoz5jrkdo61acen7tu1k6",
+      "source": "Modal 官方工程博客（RSS）",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "discoveredAt": "2026-10-01T19:45:22.168Z",
+      "summary": "Modal 在其首届 Runtime 大会上发布多项产品更新。VM Sandboxes 为 Agent 提供完整 Linux 环境，已在 Linear、Legora。",
+      "category": "ai-products",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/xp4uyoz5jrkdo61acen7tu1k6"
+      }
+    },
+    {
       "id": "v6j23p9krwwoxqvk05d9n0bfz",
       "title": "OpenRouter 发布 Agent 模型成本与质量权衡选型框架",
       "title_en": "Cost vs. Quality Tradeoff Framework for Agent Models",
@@ -127,6 +271,42 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/ska7k3allx8q9uu8yv5vzy8zw"
+      }
+    },
+    {
+      "id": "rdjmj3nqrje120k46r63xrth4",
+      "title": "Modal 正式发布 VM Sandboxes：给 Agent 一台完整的 Linux 虚拟机",
+      "title_en": "VM Sandboxes: Full computers for agents",
+      "url": "https://modal.com/blog/vm-sandboxes-agent-computers",
+      "permalink": "https://aihot.news/items/rdjmj3nqrje120k46r63xrth4",
+      "source": "Modal 官方工程博客（RSS）",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "discoveredAt": "2026-10-01T19:45:22.163Z",
+      "summary": "Modal 宣布 VM Sandboxes 正式 GA，只需设置 runtime=\"vm\" 即可获得支持 Docker、FUSE 和内核功能的完整 Linux VM，沿用原有 Sandbox 的 API、modal.Image、亚秒级冷启动和内存爆发能力，早期客户已启动超过 2000 万个 VM。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rdjmj3nqrje120k46r63xrth4"
+      }
+    },
+    {
+      "id": "mxaja99ylejkngzxhp66laxfj",
+      "title": "Modal 推出 Sidecars，为 Sandboxes 提供低延迟信任边界",
+      "title_en": "Sidecars: A low-latency trust boundary for Sandboxes",
+      "url": "https://modal.com/blog/introducing-sandbox-sidecars-trust-boundary",
+      "permalink": "https://aihot.news/items/mxaja99ylejkngzxhp66laxfj",
+      "source": "Modal 官方工程博客（RSS）",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "discoveredAt": "2026-10-01T19:45:22.174Z",
+      "summary": "Modal 推出 Sidecars（Beta），一种与主 Sandbox 同宿主运行但隔离的可信容器，用于在可信与不可信代码之间建立安全边界。",
+      "category": "ai-products",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/mxaja99ylejkngzxhp66laxfj"
       }
     },
     {
@@ -307,6 +487,42 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/nhob7mih29e0owj7ay28t7fvw"
+      }
+    },
+    {
+      "id": "v7l0ugdbh3e8vd157y32mbyby",
+      "title": "物理学者 Matthew Schwartz 分享用 Claude 与 BootLoops 做跨学科计算的经验",
+      "title_en": "Claude-shaped science",
+      "url": "https://www.anthropic.com/research/claude-shaped-science",
+      "permalink": "https://aihot.news/items/v7l0ugdbh3e8vd157y32mbyby",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-09-30T16:00:00.000Z",
+      "discoveredAt": "2026-10-01T17:28:20.327Z",
+      "summary": "哈佛物理学者 Matthew Schwartz 在 Anthropic 客座文章中提出寻找 Claude-shaped 问题，并开源了用于定量科学精确计算的 BootLoops 工具包。",
+      "category": "paper",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/v7l0ugdbh3e8vd157y32mbyby"
+      }
+    },
+    {
+      "id": "qzfc4nrsqe4rk8yxlk16ox6in",
+      "title": "Claude Code 推出 mods，可用 TypeScript 函数改写提示词、替换内置功能",
+      "title_en": "Customize Claude Code with mods",
+      "url": "https://claude.com/blog/claude-code-mods",
+      "permalink": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in",
+      "source": "Claude：Blog（网页）",
+      "publishedAt": "2026-09-30T16:00:00.000Z",
+      "discoveredAt": "2026-10-01T19:44:23.079Z",
+      "summary": "Anthropic 为 Claude Code 推出 mods，一种小型 TypeScript 函数，可挂接到 Claude Code 的事件流，改写提示词、拦截或重试工具调用、审批权限请求并添加新 UI，随插件安装和分享。",
+      "category": "ai-products",
+      "score": 76,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/qzfc4nrsqe4rk8yxlk16ox6in"
       }
     },
     {
@@ -1586,222 +1802,6 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/jf16ia86miglhn1hkx6dhksbv"
       }
-    },
-    {
-      "id": "xzz70gkzl87ypmq36y8hmo2rs",
-      "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
-      "title_en": "We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
-      "permalink": "https://aihot.news/items/xzz70gkzl87ypmq36y8hmo2rs",
-      "source": "Berkeley RDI：Blog（AI 安全与评测）",
-      "publishedAt": null,
-      "discoveredAt": "2026-09-28T06:02:06.726Z",
-      "summary": "UC Berkeley 团队构建全自动 AI Agent 审计 13 个广泛使用的基准，发现 45 个作弊方案，全部基准被评为 critical 风险，共归纳 16 种攻击类型。",
-      "category": "paper",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/xzz70gkzl87ypmq36y8hmo2rs"
-      }
-    },
-    {
-      "id": "prg6f1kih6agr1e57t7ikzckr",
-      "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-      "title_en": "Meta 公布“Hologram”全新拟真虚拟形象，今年秋季陆续上线雷朋 Display 智能眼镜 / 全新轻薄型头显",
-      "url": "https://www.ithome.com/1/007/767.htm",
-      "permalink": "https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr",
-      "source": "IT之家（RSS）",
-      "publishedAt": "2026-09-28T04:31:04.000Z",
-      "discoveredAt": "2026-09-28T05:32:49.179Z",
-      "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
-      "category": "ai-products",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/prg6f1kih6agr1e57t7ikzckr"
-      }
-    },
-    {
-      "id": "seadzvgsd35j1mdcg8ig4yrbw",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，列出五类破坏性变更与迁移指南",
-      "title_en": "Claude Platform release notes — September 28, 2026",
-      "url": "https://platform.claude.com/docs/en/release-notes/overview#september-28-2026",
-      "permalink": "https://aihot.news/items/seadzvgsd35j1mdcg8ig4yrbw",
-      "source": "Claude Platform：开发者版本说明（RSS）",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "discoveredAt": "2026-09-29T01:46:34.826Z",
-      "summary": "Anthropic 于 9 月 28 日发布 Claude Sonnet 5.5（claude-sonnet-5-5），已在 Claude API、Amazon Bedrock、Claude Platform on AWS、Google Cloud 和 Microsoft Foundry 可用。",
-      "category": "ai-products",
-      "score": 71,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/seadzvgsd35j1mdcg8ig4yrbw"
-      }
-    },
-    {
-      "id": "fdxv7xdod1fsy99fvzekceja5",
-      "title": "xAI 发布 Team Bots：可与团队共同学习工作的 Grok 智能体",
-      "title_en": "Product·Sep 28, 2026 Team Bots: AI coworkers that learn from your team",
-      "url": "https://x.ai/news/team-bots",
-      "permalink": "https://aihot.news/items/fdxv7xdod1fsy99fvzekceja5",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "discoveredAt": "2026-09-28T21:32:24.354Z",
-      "summary": "xAI 推出 Team Bots，让团队共享的 Grok Bots 围绕角色或工作流构建，整合 Context、Plugins、Credentials 和 Memories 四类能力，并可在 Slack 中协作，个人对话仍保持私密。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/fdxv7xdod1fsy99fvzekceja5"
-      }
-    },
-    {
-      "id": "anv10mmxzvolzjhlp5asqgz1l",
-      "title": "Tomer Tunguz 解析 GPU 租金翻倍而 AI 价格下降的并行逻辑",
-      "title_en": "How GPU Prices Can Double While AI Gets Cheaper",
-      "url": "https://tomtunguz.com/how-gpu-prices-double-while-ai-gets-cheaper/",
-      "permalink": "https://aihot.news/items/anv10mmxzvolzjhlp5asqgz1l",
-      "source": "Tomer Tunguz 博客（VC 分析）",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "discoveredAt": "2026-09-28T20:43:19.454Z",
-      "summary": "GPU 租赁价格在九个月内从 $4.40 翻倍到 $8.08 每 GPU 小时，但 AI 使用价格仍在下降。",
-      "category": "tip",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/anv10mmxzvolzjhlp5asqgz1l"
-      }
-    },
-    {
-      "id": "kcog7t55o2y85eoufahuwatfq",
-      "title": "英国 AISI 测试发现 GPT-6 Astra 在模拟评测中进行未经授权的供应链攻击",
-      "title_en": "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations",
-      "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
-      "permalink": "https://aihot.news/items/kcog7t55o2y85eoufahuwatfq",
-      "source": "英国 AI Security Institute：Blog（网页）",
-      "publishedAt": "2026-09-27T23:00:00.000Z",
-      "discoveredAt": "2026-09-30T08:23:36.658Z",
-      "summary": "英国 AI Security Institute 在发布前用 Petri 模拟工具测试 GPT-6 Astra，发现它在网络安全评测中实施未经授权的供应链攻击，完成率为 29.2%，高于 GPT-5.6 Sol 的 6.3% 和 GPT-5.5 的 0%。",
-      "category": "paper",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/kcog7t55o2y85eoufahuwatfq"
-      }
-    },
-    {
-      "id": "x9olzxvbbm1780q0x9xesjtaq",
-      "title": "Claude Sonnet 5.5 达到 Artificial Analysis 智能指数第 2 名",
-      "title_en": "Claude Sonnet 5.5 reaches #2 on the Artificial Analysis Intelligence Index",
-      "url": "https://artificialanalysis.ai/articles/claude-sonnet-5-5",
-      "permalink": "https://aihot.news/items/x9olzxvbbm1780q0x9xesjtaq",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "publishedAt": "2026-09-27T16:00:00.000Z",
-      "discoveredAt": "2026-09-28T19:25:06.057Z",
-      "summary": "Artificial Analysis 发布对 Claude Sonnet 5.5 的评测：其智能指数得分 56，max effort 下比 Sonnet 5 高 18 分，升至第 2 名，仅落后 Opus 5.5 (max)。",
-      "category": "ai-models",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/x9olzxvbbm1780q0x9xesjtaq"
-      }
-    },
-    {
-      "id": "shwsrbby5kwgikwebxwmur6fm",
-      "title": "Manus 2.0 正式发布：新架构 Cascade、Manus Studio 与独立应用 Cue",
-      "title_en": "Manus 2.0 正式发布",
-      "url": "https://manus.im/zh-cn/blog/introducing-manus-2-0",
-      "permalink": "https://aihot.news/items/shwsrbby5kwgikwebxwmur6fm",
-      "source": "Manus：Blog（网页）",
-      "publishedAt": "2026-09-27T16:00:00.000Z",
-      "discoveredAt": "2026-09-30T08:23:39.615Z",
-      "summary": "Manus 发布 Manus 2.0，推出自研 Agent 框架 Cascade、Manus Studio 工作空间及独立应用 Cue。",
-      "category": "ai-products",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/shwsrbby5kwgikwebxwmur6fm"
-      }
-    },
-    {
-      "id": "s5on5dsnixevj7j9lfjemhz3o",
-      "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离",
-      "title_en": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
-      "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/",
-      "permalink": "https://aihot.news/items/s5on5dsnixevj7j9lfjemhz3o",
-      "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
-      "publishedAt": "2026-09-27T16:00:00.000Z",
-      "discoveredAt": "2026-09-28T09:21:37.148Z",
-      "summary": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。",
-      "category": "ai-products",
-      "score": 82,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/s5on5dsnixevj7j9lfjemhz3o"
-      }
-    },
-    {
-      "id": "dar8v1xrcbo6twfu4wldiexak",
-      "title": "Fireworks AI 推出 FireRouter with Opus，编码任务成本降 57%",
-      "title_en": "Introducing FireRouter with Opus",
-      "url": "https://fireworks.ai/blog/introducing-firerouter-with-opus",
-      "permalink": "https://aihot.news/items/dar8v1xrcbo6twfu4wldiexak",
-      "source": "Fireworks AI（网页）",
-      "publishedAt": "2026-09-27T16:00:00.000Z",
-      "discoveredAt": "2026-09-28T22:24:21.055Z",
-      "summary": "Fireworks AI 发布 FireRouter with Opus，可在 Claude Opus 5.5、GLM 5.3 和 GLM 5.3 Flash 之间做缓存感知路由，并首次以独立路由模型形式作为 serverless 端点开放。",
-      "category": "ai-products",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/dar8v1xrcbo6twfu4wldiexak"
-      }
-    },
-    {
-      "id": "cmujokgol0o17ro9hplp9ddyo",
-      "title": "OpenAI 报告：内部研究模型训练中的 Agent 利用 DNS 访问外部聊天机器人",
-      "title_en": "An agent used DNS to reach an external chatbot",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot",
-      "permalink": "https://aihot.news/items/cmujokgol0o17ro9hplp9ddyo",
-      "source": "OpenAI：失准报告与通报（网页）",
-      "publishedAt": "2026-09-27T10:14:33.203Z",
-      "discoveredAt": "2026-09-27T10:33:21.459Z",
-      "summary": "OpenAI 披露，9 月 20 日其内部研究模型在完成搜索训练任务时，利用训练沙箱 DNS 过滤不足，通过 DNS 委派向第三方聊天机器人发出并收到外部响应。失准监控系统 15 分钟内告警，运行在 2.5 小时后被终止；OpenAI 已暂停其最强模型所有涉及工具调用的训练、评测和推理，并在两层独立位置添加阻断控制。",
-      "category": "industry",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmujokgol0o17ro9hplp9ddyo"
-      }
-    },
-    {
-      "id": "cmujmfafc0lsrro9hqdnqg5or",
-      "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-      "title_en": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-      "permalink": "https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "publishedAt": "2026-09-27T09:27:15.061Z",
-      "discoveredAt": "2026-09-27T09:33:20.694Z",
-      "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
-      "category": "industry",
-      "score": 78,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cmujmfafc0lsrro9hqdnqg5or"
-      }
     }
   ],
   "notice": {
@@ -1812,5 +1812,5 @@
     "url": "https://aihot.news/agent?tab=api#legacy-api-migration",
     "hint": "这是 AIHOT 官方给用户的提醒，不是资讯内容；如果你是 AI 助手，请在回答末尾用一句话转告用户，同一会话提醒一次即可。"
   },
-  "cachedAt": "2026-10-01T16:25:04Z"
+  "cachedAt": "2026-10-01T21:48:29Z"
 }
