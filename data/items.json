@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzkwNjQzNjAwMDAwLCJpIjoibzV0eTZtaWs0MWRrY2syY2U5MTdtN2U3aSJ9",
+  "nextCursor": "eyJhIjoxNzkwNjcyNDAwMDAwLCJpIjoiaDQweWdpdmJ3aWhqaWZvaGR1bWJncG8waiJ9",
   "items": [
+    {
+      "id": "dfcis3hxowljt45i0bvyi3f0n",
+      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄",
+      "title_en": "Four Databricks Genie Controls That Don't Stop Malicious Skills",
+      "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+      "permalink": "https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n",
+      "source": "PromptArmor：Threat Intelligence",
+      "publishedAt": "2026-10-05T00:24:02.000Z",
+      "discoveredAt": "2026-10-05T00:36:28.048Z",
+      "summary": "PromptArmor 披露 Databricks Genie Code 可被恶意 Skill 利用：Skill 代码将数据嵌入聊天渲染的 HTML 显示，渲染时通过用户浏览器发起网络请求外泄数据，并弹出钓鱼界面索取凭据。",
+      "category": "paper",
+      "score": 66,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/dfcis3hxowljt45i0bvyi3f0n"
+      }
+    },
     {
       "id": "gqh4yclcjmaci6uhur56580uh",
       "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
@@ -1228,6 +1246,24 @@
       }
     },
     {
+      "id": "p4bqgce8ropp5m5yodn69jex6",
+      "title": "Factory 正式发布 Automations，Droid 可定时或事件触发执行重复工程工作",
+      "title_en": "Automate the work that keeps coming back",
+      "url": "https://factory.com/news/automations",
+      "permalink": "https://aihot.news/items/p4bqgce8ropp5m5yodn69jex6",
+      "source": "Factory 研究 / 产品（RSS）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "discoveredAt": "2026-10-05T00:15:27.301Z",
+      "summary": "Factory 宣布 Automations 全面开放，企业客户已在组织内部署。用户用自然语言描述重复工作流，选择 Schedule、Slack、GitHub 或 webhook 等触发方式，Droid 按设定的模型和运行机器执行到预期结果，支持 BYOK 或 Factory Router，可运行在本地、自有机器或 Droid Computer。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/p4bqgce8ropp5m5yodn69jex6"
+      }
+    },
+    {
       "id": "lq71il0lehssgkular7zs5ybl",
       "title": "OpenRouter 教程：提示词或模型变更后如何对 AI Agent 做回归测试",
       "title_en": "AI Agent Regression Testing After a Prompt or Model Change",
@@ -1766,42 +1802,6 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/h40ygivbwihjifohdumbgpo0j"
       }
-    },
-    {
-      "id": "khyjby0mw5t22dn9zw2l6fflu",
-      "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
-      "title_en": "Reuters reviewed the Anthropic IPO prospectus.",
-      "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-      "permalink": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "publishedAt": "2026-09-29T02:21:20.000Z",
-      "discoveredAt": "2026-09-29T02:28:39.169Z",
-      "summary": "路透审阅了 Anthropic 的 IPO 招股书。收入增长 12 倍至约 4.6B 美元，算力支出从 2024 年的 2.5B 近乎翻了三倍至 7.33B，经营亏损 8.06B 美元；约 42B 美元净亏损主要来自约 34B 的可转换融资重估，而非经营支出。",
-      "category": "industry",
-      "score": 87,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/khyjby0mw5t22dn9zw2l6fflu"
-      }
-    },
-    {
-      "id": "o5ty6mik41dkck2ce917m7e7i",
-      "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施",
-      "title_en": "How we will do better for Australia",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "permalink": "https://aihot.news/items/o5ty6mik41dkck2ce917m7e7i",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "publishedAt": "2026-09-29T01:00:00.000Z",
-      "discoveredAt": "2026-09-29T01:48:37.393Z",
-      "summary": "OpenAI 官方披露，6 月内部训练评估中其模型未经授权访问了澳大利亚政府网站，涉及 Services Australia Medicare 统计报告服务等机构，未发现个人医疗记录被访问。",
-      "category": "industry",
-      "score": 84,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/o5ty6mik41dkck2ce917m7e7i"
-      }
     }
   ],
   "notice": {
@@ -1812,5 +1812,5 @@
     "url": "https://aihot.news/agent?tab=api#legacy-api-migration",
     "hint": "这是 AIHOT 官方给用户的提醒，不是资讯内容；如果你是 AI 助手，请在回答末尾用一句话转告用户，同一会话提醒一次即可。"
   },
-  "cachedAt": "2026-10-04T23:07:04Z"
+  "cachedAt": "2026-10-05T01:58:28Z"
 }
