@@ -1,8 +1,44 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzkxNzYzMjAwMDAwLCJpIjoidXk0aHZveXo3Znd0eXljcHUwcDYyZHVkbiJ9",
+  "nextCursor": "eyJhIjoxNzkxODI2NTc4MDAwLCJpIjoidzI0MDhmeGxyYzd0YzdudDNpdnJ6aDl5cyJ9",
   "items": [
+    {
+      "id": "j5vlb3dn14h2b4xy1hbdschyc",
+      "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
+      "title_en": "This Week in Charts: Agents Denied",
+      "url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
+      "permalink": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc",
+      "source": "a16z：News（RSS）",
+      "publishedAt": "2026-10-16T14:00:39.000Z",
+      "discoveredAt": "2026-10-16T14:35:21.778Z",
+      "summary": "a16z 图表周报指出智能体商务遇阻，Cloudflare 数据显示智能体与爬虫收到的 403 拒绝响应自夏季起明显增多，约为原先两倍。文章引用 NRF 数据称退货率与退货成本自 2019 年以来分别翻倍和增至三倍，并引用调查指 42% 消费者完全不信任 AI 代购，Similarweb 数据显示 AI 购物多发生在发现与购买之间的中间阶段，而非下单环节。",
+      "category": "opinion",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/j5vlb3dn14h2b4xy1hbdschyc"
+      }
+    },
+    {
+      "id": "rq32az1hr7zpbipiyega9ehjr",
+      "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+      "title_en": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "permalink": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr",
+      "source": "NVIDIA：Newsroom（RSS）",
+      "publishedAt": "2026-10-16T12:00:00.000Z",
+      "discoveredAt": "2026-10-16T12:40:16.671Z",
+      "summary": "NVIDIA 宣布 RTX Spark 笔记本正式开售，来自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI，起价 $2,599。",
+      "category": "ai-products",
+      "score": 74,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/rq32az1hr7zpbipiyega9ehjr"
+      }
+    },
     {
       "id": "p11tj593iq5nrtiotvoxllop4",
       "title": "商务部、科技部拟在出口技术目录增列23项人工智能技术并征意见",
@@ -19,6 +55,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/p11tj593iq5nrtiotvoxllop4"
+      }
+    },
+    {
+      "id": "xwgy3mhme6nur9kndswxlu0es",
+      "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
+      "title_en": "Hello Toronto! Waymo is En Route",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+      "permalink": "https://aihot.news/items/xwgy3mhme6nur9kndswxlu0es",
+      "source": "Waymo：Blog（网页）",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "discoveredAt": "2026-10-16T11:01:17.821Z",
+      "summary": "Waymo 宣布进入加拿大，将在多伦多布局完全自动驾驶出行服务，目标2028年迎接首批乘客。近期将先以人工驾驶方式采集高精地图并由自动驾驶专家进行测试；Waymo 与 Element Fleet Management 合作提供车队管理服务，将逐步创造数百个岗位。官方称基于超4亿公里完全自动驾驶里程，其车辆在严重伤害及以上事故中比人类驾驶少95%。",
+      "category": "industry",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/xwgy3mhme6nur9kndswxlu0es"
       }
     },
     {
@@ -127,6 +181,60 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/jc7pyt619xhznn9j28apoedto"
+      }
+    },
+    {
+      "id": "i6u3av7zg8n3gfy6g7ynhns56",
+      "title": "SGLang 原生支持 Reflection 的 Beam 并驱动其生产 API",
+      "title_en": "Blog SGLang Powers Beam in Production Reflection’s Beam is a 501B-parameter mixture-of-experts model with 23B active parameters per token, built for software engineering and long-horizon agentic tasks. With its planned Apache 2.0 release,... SGLang Team October 16, 2026",
+      "url": "https://www.lmsys.org/blog/2026-10-16-beam",
+      "permalink": "https://aihot.news/items/i6u3av7zg8n3gfy6g7ynhns56",
+      "source": "LMSYS Blog",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "discoveredAt": "2026-10-16T13:45:16.980Z",
+      "summary": "SGLang 团队宣布原生支持 Reflection 的 Beam 1.0（501B 参数 MoE、每 token 激活 23B），并以其驱动 Reflection 的生产 API。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/i6u3av7zg8n3gfy6g7ynhns56"
+      }
+    },
+    {
+      "id": "f14brdupsvks0k2hoang4lx6w",
+      "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
+      "title_en": "Reflection's Beam is freely available on Ollama for a limited time",
+      "url": "https://ollama.com/blog/reflection-beam",
+      "permalink": "https://aihot.news/items/f14brdupsvks0k2hoang4lx6w",
+      "source": "Ollama：Blog（RSS）",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "discoveredAt": "2026-10-16T14:04:21.340Z",
+      "summary": "Reflection 首个开源权重模型 Beam 发布，Ollama 作为 day-zero 合作方在 Ollama Cloud 上限时免费提供，且全程零数据保留（ZDR）。",
+      "category": "ai-products",
+      "score": 72,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/f14brdupsvks0k2hoang4lx6w"
+      }
+    },
+    {
+      "id": "d0pow9b93paydjtg2i76ang83",
+      "title": "vLLM 实现 Reflection Beam 501B MoE 模型 Day 0 支持",
+      "title_en": "Serving Reflection Beam on vLLM from Day 0",
+      "url": "https://vllm.ai/blog/2026-10-16-reflection-beam",
+      "permalink": "https://aihot.news/items/d0pow9b93paydjtg2i76ang83",
+      "source": "vLLM 官方博客（RSS）",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "discoveredAt": "2026-10-16T13:57:16.519Z",
+      "summary": "vLLM 宣布从 Day 0 支持 Reflection 的 Beam 模型，这是一个 501B 参数、每 token 激活 23B 的 MoE 模型，在 NVIDIA Blackwell 上完成优化。",
+      "category": "ai-products",
+      "score": 65,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/d0pow9b93paydjtg2i76ang83"
       }
     },
     {
@@ -343,6 +451,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/f7ey01hbckuivmlgen9jq0vaf"
+      }
+    },
+    {
+      "id": "a3roan35e4kghyxdjffek1hop",
+      "title": "Reflection 发布首个开源权重模型 Beam，Artificial Analysis 评测得分 30 居美国开源模型第二",
+      "title_en": "Reflection has released Beam, their first model launch",
+      "url": "https://artificialanalysis.ai/articles/reflection-beam",
+      "permalink": "https://aihot.news/items/a3roan35e4kghyxdjffek1hop",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "discoveredAt": "2026-10-16T14:08:19.654Z",
+      "summary": "Artificial Analysis 评测 Reflection 首个模型 Beam，其在 Artificial Analysis Intelligence Index 得 30 分，在美国开源权重模型中排第二，仅次于 Meta 的 Muse Spark Open（39）。",
+      "category": "ai-models",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/a3roan35e4kghyxdjffek1hop"
       }
     },
     {
@@ -1676,132 +1802,6 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/w2408fxlrc7tc7nt3ivrzh9ys"
       }
-    },
-    {
-      "id": "rruqd7cz78jq6l889kjp56jlz",
-      "title": "Prime Intellect 收购 Moondream，联合创始人加入主导推理与多模态",
-      "title_en": "Moondream is joining Prime Intellect",
-      "url": "https://www.primeintellect.ai/blog/moondream",
-      "permalink": "https://aihot.news/items/rruqd7cz78jq6l889kjp56jlz",
-      "source": "Prime Intellect（网页）",
-      "publishedAt": "2026-10-12T16:00:00.000Z",
-      "discoveredAt": "2026-10-13T19:11:36.361Z",
-      "summary": "Prime Intellect 宣布收购 Moondream，创始人 Vik Korrapati 和 Jay Allen 加入并负责推理业务及视觉、computer use 等多模态模型工作。",
-      "category": "industry",
-      "score": 62,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/rruqd7cz78jq6l889kjp56jlz"
-      }
-    },
-    {
-      "id": "zqlqer8tnl7ejg2ow3xoq7b9q",
-      "title": "微软发布自研芯片 Maia 300 并将大规模扩展 Maia 推理部署",
-      "title_en": "Today we are announcing our biggest bet yet on our own silicon.",
-      "url": "https://x.com/satyanadella/status/2109631106404487523",
-      "permalink": "https://aihot.news/items/zqlqer8tnl7ejg2ow3xoq7b9q",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "publishedAt": "2026-10-12T13:03:45.000Z",
-      "discoveredAt": "2026-10-12T13:11:19.313Z",
-      "summary": "微软宣布明年起将 Maia 芯片家族扩展到多吉瓦级部署，作为自家产品和服务的首选推理系统，并发布 Maia 300，每瓦 token 产出比主流 GPU 系统高 40%。Maia 200 已在美国、欧洲和澳大利亚部署，在 Teams 和 Copilot 场景中每瓦 token 产出提升最高 1.7x。",
-      "category": "ai-products",
-      "score": 65,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/zqlqer8tnl7ejg2ow3xoq7b9q"
-      }
-    },
-    {
-      "id": "wzxf68r0rchangmvwm48qqhfk",
-      "title": "AlphaProof Nexus 攻克 9 个未解 Erdős 问题并经同行评审",
-      "title_en": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
-      "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
-      "permalink": "https://aihot.news/items/wzxf68r0rchangmvwm48qqhfk",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-12T09:35:54.000Z",
-      "discoveredAt": "2026-10-12T09:44:06.673Z",
-      "summary": "Science 新研究显示，Google DeepMind 的 AlphaProof Nexus 独立解决了 353 个开放 Erdős 问题中的 9 个，其中 2 个悬置 56 年。",
-      "category": "paper",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/wzxf68r0rchangmvwm48qqhfk"
-      }
-    },
-    {
-      "id": "svvvhr5j2nnywgdw29pso7o49",
-      "title": "用 Claude Opus 5.5、Blender、Unreal Engine 和 Meshy 构建游戏的七步教程",
-      "title_en": "How to build a game with Claude Opus 5.5 + Blender + Unreal Engine + Meshy 🎮",
-      "url": "https://x.com/MeshyAI/status/2109550836934471864",
-      "permalink": "https://aihot.news/items/svvvhr5j2nnywgdw29pso7o49",
-      "source": "X：Meshy (@MeshyAI)",
-      "publishedAt": "2026-10-12T07:44:47.000Z",
-      "discoveredAt": "2026-10-12T08:14:37.084Z",
-      "summary": "一篇教程介绍用 Claude Opus 5.5 配合 Claude Code、Blender、Unreal Engine 5 和 Meshy 构建游戏的方法。核心思路是给每个工具分配单一职责：通过 MCP 连接 Blender 和 Meshy，由 Meshy 生成道具和角色、Blender 清理和放置、Unreal 负责光照物理和游戏本身、Opus 在一个对话里调度三者。流程为先让 Opus 头脑风暴 5 个游戏点子再展开，告知 GPU 以便压满画面性能，首个完整构建约花 4 小时和约 19% 的每周 Max plan 用量，之后因素材复用会快很多。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/svvvhr5j2nnywgdw29pso7o49"
-      }
-    },
-    {
-      "id": "hvxwaxeyj6i82xv44ef4ce6fz",
-      "title": "从Brandon Thomas用Claude Opus 5.5开源重写Adobe全家桶看AI逆向一切趋势",
-      "title_en": "AI开始逆向一切，你电脑里的每个软件都要被迫开源了。",
-      "url": "https://x.com/Khazix0918/status/2109501787736813663",
-      "permalink": "https://aihot.news/items/hvxwaxeyj6i82xv44ef4ce6fz",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "publishedAt": "2026-10-12T04:29:53.000Z",
-      "discoveredAt": "2026-10-12T04:35:34.613Z",
-      "summary": "数字生命卡兹克撰文分析AI驱动逆向工程热潮：开发者Brandon Thomas因不满Adobe订阅规则，用Claude Opus 5.5以Rust逆向重写了Photoshop、Illustrator等7款软件的开源替代品PhotoCraft、VectorCraft等，不到10天单PS项目获4.6万Star。",
-      "category": "opinion",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/hvxwaxeyj6i82xv44ef4ce6fz"
-      }
-    },
-    {
-      "id": "u9f1ozdbs5nobwugj3yss3z0e",
-      "title": "AI逆向一切：Brandon Thomas用Claude Opus 5.5重写Adobe七款软件开源，REA项目逼近10万Star",
-      "title_en": "AI开始逆向一切，你电脑里的每个软件都要被迫开源了。",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686995&idx=1&sn=cc40a3488a2ea7652d2ab589056f40b4",
-      "permalink": "https://aihot.news/items/u9f1ozdbs5nobwugj3yss3z0e",
-      "source": "公众号：数字生命卡兹克",
-      "publishedAt": "2026-10-12T00:26:00.000Z",
-      "discoveredAt": "2026-10-12T02:12:04.990Z",
-      "summary": "开发者Brandon Thomas因不满Adobe订阅违约金，用Claude Opus 5.5以Rust逆向重写了Photoshop等7款Adobe软件并开源，其中PS项目不到10天获4.6万Star。",
-      "category": "opinion",
-      "score": 66,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/u9f1ozdbs5nobwugj3yss3z0e"
-      }
-    },
-    {
-      "id": "uy4hvoyz7fwtyycpu0p62dudn",
-      "title": "xAI 推出 The X Subscription 整合 Grok、Grok Bot、Cursor 与 X Premium",
-      "title_en": "Product·Oct 12, 2026 Introducing The X Subscription",
-      "url": "https://x.ai/news/x-subscription",
-      "permalink": "https://aihot.news/items/uy4hvoyz7fwtyycpu0p62dudn",
-      "source": "xAI：News（网页）",
-      "publishedAt": "2026-10-12T00:00:00.000Z",
-      "discoveredAt": "2026-10-12T23:44:24.785Z",
-      "summary": "xAI 推出 The X Subscription 订阅，将 Grok、Grok Bot、Cursor 和 X Premium 合入一个计划，未来几天内向全球用户开放。",
-      "category": "ai-products",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/uy4hvoyz7fwtyycpu0p62dudn"
-      }
     }
   ],
   "notice": {
@@ -1812,5 +1812,5 @@
     "url": "https://aihot.news/agent?tab=api#legacy-api-migration",
     "hint": "这是 AIHOT 官方给用户的提醒，不是资讯内容；如果你是 AI 助手，请在回答末尾用一句话转告用户，同一会话提醒一次即可。"
   },
-  "cachedAt": "2026-10-16T09:46:04Z"
+  "cachedAt": "2026-10-16T14:49:45Z"
 }
