@@ -1,8 +1,26 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzkxODQ5NjAwMDAwLCJpIjoiZnB5and2M285end4Yzl6czdqMWJtbnc4aSJ9",
+  "nextCursor": "eyJhIjoxNzkxODUzNzc3MDAwLCJpIjoicWJpNnhpN2EzcmUxNXR4ZmVsbDhpOWE3YyJ9",
   "items": [
+    {
+      "id": "bjzjg5k7af07c1c20bc1a8gxp",
+      "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
+      "title_en": "Exciting news: Muse Spark Open (Max) by @AIatMeta is the #1 US open model in the Code Arena: WebDev! With 1511 pts, it’s #13 among open m...",
+      "url": "https://x.com/arena/status/2111221323217412318",
+      "permalink": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp",
+      "source": "X：Arena (@arena)",
+      "publishedAt": "2026-10-16T22:22:42.000Z",
+      "discoveredAt": "2026-10-16T22:51:31.836Z",
+      "summary": "Arena 公布 Meta 发布的 Muse Spark Open (Max) 在 Code Arena: WebDev 以 1511 分位居美国开源模型第一、开源模型总榜第 13。",
+      "category": "ai-models",
+      "score": 80,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/bjzjg5k7af07c1c20bc1a8gxp"
+      }
+    },
     {
       "id": "kygipgwqrajle6hctg9nqid7w",
       "title": "Anthropic 披露 Claude 编写了约 90% 的 Claude Code 代码",
@@ -490,6 +508,42 @@
       }
     },
     {
+      "id": "oetmf0o04av0c4h7yrgfkb4zc",
+      "title": "Anthropic 调查揭示公众与员工对 AI 影响的预期鸿沟",
+      "title_en": "The AI expectations gap",
+      "url": "https://www.anthropic.com/research/ai-expectations-gap",
+      "permalink": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "discoveredAt": "2026-10-16T23:28:32.537Z",
+      "summary": "Anthropic 于 2026 年 8 月调查美国成人代表样本（N=10,980）与其员工，发现双方对 AI 现有能力判断相近，但对进展速度分歧巨大。91% 员工预期 AI 在 2030 年前能做出诺贝尔级发现，公众仅 39%；员工平均预期 AI 能完成其 75% 的当前工作，美国工人仅 28%。",
+      "category": "paper",
+      "score": 60,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/oetmf0o04av0c4h7yrgfkb4zc"
+      }
+    },
+    {
+      "id": "nextj30ehkdcjpzpk4fgz1p1w",
+      "title": "Anthropic 报告：AI 如何改变公司内部的雇佣与工作组织",
+      "title_en": "How employment is changing at Anthropic",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "permalink": "https://aihot.news/items/nextj30ehkdcjpzpk4fgz1p1w",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "publishedAt": "2026-10-15T16:00:00.000Z",
+      "discoveredAt": "2026-10-16T23:28:32.543Z",
+      "summary": "Anthropic 发布基于内部数据的技术报告，研究 AI 对自身雇佣与工作组织的影响。到 2026 年 8 月，交互式 AI agent 工时已达员工的 6 倍；技术部门初级员工占比从 21% 降至 14%，初级技术招聘占比从 27% 降至 9%。",
+      "category": "paper",
+      "score": 77,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/nextj30ehkdcjpzpk4fgz1p1w"
+      }
+    },
+    {
       "id": "jn8i9j3ppsb0f79mrtldd43h8",
       "title": "Anthropic 用 Claude Mythos 5 设计出更高效的量子电路，多项超过已发表最优设计",
       "title_en": "Designing more efficient quantum circuits with Claude",
@@ -563,14 +617,14 @@
     },
     {
       "id": "l9jgzg24ei3a7m8xu1xfhy9n7",
-      "title": "NVIDIA 发布开源 Nemotron 3.5 Super VL 及 Bolt 两款端侧模型",
+      "title": "NVIDIA 发布 Nemotron 3.5 Super VL 与 Bolt 系列开放模型，覆盖数据中心到桌面端",
       "title_en": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
       "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
       "permalink": "https://aihot.news/items/l9jgzg24ei3a7m8xu1xfhy9n7",
       "source": "NVIDIA Blog（RSS）",
       "publishedAt": "2026-10-15T15:00:24.000Z",
       "discoveredAt": "2026-10-15T15:56:28.251Z",
-      "summary": "NVIDIA 发布开源 1200 亿参数的 Nemotron 3.5 Super VL 多模态模型，称在其类别中任务完成最快、比同类次优快 5x，并推出两款端侧模型 Bolt 74B-A9B 24GB 与 Bolt E4B 4GB，后者 10 月 23 日上线。模型采用 2-bit 原生量化可在 RTX/DGX Spark 上本地运行，权重、数据集和训练配方开放，已有数十家机构基于自有数据后训练。",
+      "summary": "NVIDIA 发布开源 1200 亿参数多模态模型 Nemotron 3.5 Super VL，以及面向端侧的 Nemotron 3.5 Bolt 74B-A9B 24GB 和 Bolt E4B 4GB（后者 10 月 23 日上线）。",
       "category": "ai-models",
       "score": 70,
       "selected": true,
@@ -1748,60 +1802,6 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/qbi6xi7a3re15txfell8i9a7c"
       }
-    },
-    {
-      "id": "z371wogdvjh86jh8s6v6vlrui",
-      "title": "Google 用 Gemini 4 Argon 无人值守优化 20 万行 Python 代码库 ADK",
-      "title_en": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
-      "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
-      "permalink": "https://aihot.news/items/z371wogdvjh86jh8s6v6vlrui",
-      "source": "Google Developers Blog（RSS）",
-      "publishedAt": "2026-10-13T00:00:00.000Z",
-      "discoveredAt": "2026-10-13T16:49:34.227Z",
-      "summary": "Google 工程师用 Gemini 4 Argon 在 google/adk-python 上无人值守跑 11 小时，提出 6 项优化、审查后合并 2 项，使长会话内存会话准备时间降低约 40%，包导入加快 21%。",
-      "category": "tip",
-      "score": 70,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/z371wogdvjh86jh8s6v6vlrui"
-      }
-    },
-    {
-      "id": "j0hjfg7ioz2gs0s8msqnafpjj",
-      "title": "Liquid AI 发布 LFM2.5-24B-A2B 端侧推理模型",
-      "title_en": "LFM2.5-24B-A2B: Built for Fast On-Device Agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "permalink": "https://aihot.news/items/j0hjfg7ioz2gs0s8msqnafpjj",
-      "source": "Liquid AI 模型与工程博客（网页）",
-      "publishedAt": "2026-10-13T00:00:00.000Z",
-      "discoveredAt": "2026-10-13T17:07:30.836Z",
-      "summary": "Liquid AI 发布开源权重模型 LFM2.5-24B-A2B，总参数 24B、每 token 激活 2B，定位端侧快速智能体。",
-      "category": "ai-models",
-      "score": 63,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/j0hjfg7ioz2gs0s8msqnafpjj"
-      }
-    },
-    {
-      "id": "fpyjwv3o9zwxc9zs7j1bmnw8i",
-      "title": "Anthropic 自研版本控制系统 Scion，五个月完成 monorepo 从 git 迁移",
-      "title_en": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "permalink": "https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i",
-      "source": "Anthropic：Engineering（事故复盘 + 工程实践 · 网页）",
-      "publishedAt": "2026-10-13T00:00:00.000Z",
-      "discoveredAt": "2026-10-13T16:22:38.834Z",
-      "summary": "Anthropic 发布工程复盘，因 Claude 使日均合并代码量从 2026 年 5 月约 2,500 增至 9 月超 30,000，五个月内自研版本控制系统 Scion 并完全替代 git，同时推出代码评审工具 Antique。",
-      "category": "tip",
-      "score": 72,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/fpyjwv3o9zwxc9zs7j1bmnw8i"
-      }
     }
   ],
   "notice": {
@@ -1812,5 +1812,5 @@
     "url": "https://aihot.news/agent?tab=api#legacy-api-migration",
     "hint": "这是 AIHOT 官方给用户的提醒，不是资讯内容；如果你是 AI 助手，请在回答末尾用一句话转告用户，同一会话提醒一次即可。"
   },
-  "cachedAt": "2026-10-16T22:04:27Z"
+  "cachedAt": "2026-10-17T00:26:56Z"
 }
