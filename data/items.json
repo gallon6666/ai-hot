@@ -1,8 +1,80 @@
 {
   "count": 100,
   "hasNext": true,
-  "nextCursor": "eyJhIjoxNzkyMDM4MjU4MDAwLCJpIjoia2c2YngzZ29hZ2tuNGs4a3Q3amw5bHFnZCJ9",
+  "nextCursor": "eyJhIjoxNzkyMDY5MjAxMDAwLCJpIjoidjBkdzYxOXRlMzZ5endlaXF0dXc3cGp4cyJ9",
   "items": [
+    {
+      "id": "yctlb0l95y3sib5cw8ebp5jc8",
+      "title": "NVIDIA 联合六家供应链伙伴扩大制造产能",
+      "title_en": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
+      "permalink": "https://aihot.news/items/yctlb0l95y3sib5cw8ebp5jc8",
+      "source": "NVIDIA：Newsroom（RSS）",
+      "publishedAt": "2026-10-21T10:33:00.000Z",
+      "discoveredAt": "2026-10-21T11:21:22.862Z",
+      "summary": "NVIDIA 在 GTC Berlin 宣布与 Amkor、IBIDEN、KYEC、三星电机、SPIL 和欣兴电子合作扩大基板、先进封装、测试和光引擎产能。基板产能未来三年提升 2.5 倍，Amkor 先进封装产能到 2028 年底提升超 300%，KYEC 获 NVIDIA 11 亿美元产能预留预付款在美国建新厂，SPIL 光引擎产能目标 2027 年中提升 15 倍。",
+      "category": "industry",
+      "score": 67,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/yctlb0l95y3sib5cw8ebp5jc8"
+      }
+    },
+    {
+      "id": "dc2v30rnorkgoko7huaxd9rr2",
+      "title": "NVIDIA 在 GTC Berlin 宣布 Bolt、沃尔沃等欧洲车企基于 Hyperion 构建 L3/L4 车辆与 robotaxi 车队",
+      "title_en": "European Mobility Leaders Build Safe Vehicles and Robotaxi Fleets on NVIDIA Hyperion",
+      "url": "https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion",
+      "permalink": "https://aihot.news/items/dc2v30rnorkgoko7huaxd9rr2",
+      "source": "NVIDIA：Newsroom（RSS）",
+      "publishedAt": "2026-10-21T10:14:00.000Z",
+      "discoveredAt": "2026-10-21T11:21:22.960Z",
+      "summary": "NVIDIA 在 GTC Berlin 宣布 Bolt（与 Lucid 合作）、Mercedes-Benz、Volkswagen Commercial Vehicles、Einride 等欧洲车企和出行公司在 NVIDIA Hyperion 计算平台上展示自动驾驶用例，Volvo Cars 采用 Hyperion 与 Alpamayo Stack。",
+      "category": "ai-products",
+      "score": 61,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/dc2v30rnorkgoko7huaxd9rr2"
+      }
+    },
+    {
+      "id": "b4mzaobsnurkv83h81ceel1yq",
+      "title": "NVIDIA 携手 Nokia 及多家电信运营商将网络改造为分布式智能平台",
+      "title_en": "NVIDIA, Nokia and Leading Telecom Operators Turn Networks Into Distributed Intelligence Platforms",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
+      "permalink": "https://aihot.news/items/b4mzaobsnurkv83h81ceel1yq",
+      "source": "NVIDIA：Newsroom（RSS）",
+      "publishedAt": "2026-10-21T10:11:00.000Z",
+      "discoveredAt": "2026-10-21T10:20:29.085Z",
+      "summary": "NVIDIA 在 GTC Berlin 宣布全球主要电信运营商正在把网络改造为分布式智能平台，在数据中心、城域站点和基站部署 NVIDIA 加速计算。",
+      "category": "industry",
+      "score": 63,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/b4mzaobsnurkv83h81ceel1yq"
+      }
+    },
+    {
+      "id": "l94ayb89z6n2xxc9ce6c6ubeh",
+      "title": "NVIDIA 扩展开源模型家族，覆盖语言、机器人、生物与量子计算以支持欧洲主权智能",
+      "title_en": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+      "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
+      "permalink": "https://aihot.news/items/l94ayb89z6n2xxc9ce6c6ubeh",
+      "source": "NVIDIA Blog（RSS）",
+      "publishedAt": "2026-10-21T10:00:07.000Z",
+      "discoveredAt": "2026-10-21T10:51:21.884Z",
+      "summary": "NVIDIA 扩展开源模型家族，推出 Nemotron 3.5 Super VL 与 Nemotron 3.5 Bolt、Nemotron Retriever、Kumo 结构化数据模型、Cosmos 3.5 世界模型、Alpamayo 2 Edge 自动驾驶推理模型、BioNeMo RFD4-Proteina 蛋白质设计模型及量子计算 Ising 模型家族。",
+      "category": "ai-models",
+      "score": 64,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/l94ayb89z6n2xxc9ce6c6ubeh"
+      }
+    },
     {
       "id": "qhvh1rm03vym5ns6ku6hjkkmq",
       "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
@@ -163,6 +235,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/lh8vm7yp332xoffhqoscusss4"
+      }
+    },
+    {
+      "id": "wz8yuzgpztob6gtdo8pxuip2j",
+      "title": "编程 Agent 增长遭遇人类评审瓶颈：Tessl 博客解析信任赤字",
+      "title_en": "There Aren’t Enough Chaperones for All Your Coding Agents",
+      "url": "https://tessl.io/blog/there-arent-enough-chaperones-for-all-your-coding-agents",
+      "permalink": "https://aihot.news/items/wz8yuzgpztob6gtdo8pxuip2j",
+      "source": "Tessl：产品与工程博客",
+      "publishedAt": "2026-10-20T16:00:00.000Z",
+      "discoveredAt": "2026-10-21T08:32:29.821Z",
+      "summary": "Tessl 博客引用 Jellyfish 2026 年 9 月 AI Engineering Trends 数据指出，中位数公司已有 22% 的合并 PR 由自主编码 Agent 撰写（90 分位达 53%），但仅约 0.6% 的 PR 由 Agent 评审合并（前 10% 公司为 9%）。",
+      "category": "opinion",
+      "score": 69,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/wz8yuzgpztob6gtdo8pxuip2j"
       }
     },
     {
@@ -343,6 +433,24 @@
       "attribution": {
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/uaewh6yvv55k3kqgy7zsxyqi7"
+      }
+    },
+    {
+      "id": "m21za8riy5da0davyqguzkvla",
+      "title": "Anthropic 用 Claude 缩减开源代码攻击面：25 个项目发现 493 个问题",
+      "title_en": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "permalink": "https://aihot.news/items/m21za8riy5da0davyqguzkvla",
+      "source": "Anthropic：Newsroom（网页）",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "discoveredAt": "2026-10-21T10:56:25.416Z",
+      "summary": "Anthropic 发布关于用 Claude 自动化攻击面分析与缩减的研究总结，在 25 个、超 500 万行代码的开源项目中用默认配置、配置交互和早期可达性三种方法发现 493 个问题。",
+      "category": "paper",
+      "score": 68,
+      "selected": true,
+      "attribution": {
+        "source": "AIHOT",
+        "canonical": "https://aihot.news/items/m21za8riy5da0davyqguzkvla"
       }
     },
     {
@@ -1694,114 +1802,6 @@
         "source": "AIHOT",
         "canonical": "https://aihot.news/items/v0dw619te36yzweiqtuw7pjxs"
       }
-    },
-    {
-      "id": "x02vc0ewajam37hjrbpwsfnre",
-      "title": "Claude Code 团队如何做代码审查：六层检查与风险分级审批",
-      "title_en": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "permalink": "https://aihot.news/items/x02vc0ewajam37hjrbpwsfnre",
-      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-      "publishedAt": "2026-10-15T12:00:00.000Z",
-      "discoveredAt": "2026-10-16T01:38:42.918Z",
-      "summary": "Anthropic Claude Code 团队详解在 Claude 写约 90% 代码的情况下如何组织代码审查：审查从终点关卡变为持续进行，每个 PR 经过验证、必需 CI、AI 审查、安全审查、按风险分级的人工审批和合并队列六层检查，再辅以快速回滚。",
-      "category": "tip",
-      "score": 76,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/x02vc0ewajam37hjrbpwsfnre"
-      }
-    },
-    {
-      "id": "pd501xipe38ooxo1t7jn7hphn",
-      "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
-      "title_en": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "permalink": "https://aihot.news/items/pd501xipe38ooxo1t7jn7hphn",
-      "source": "The Verge：AI（RSS）",
-      "publishedAt": "2026-10-15T11:00:00.000Z",
-      "discoveredAt": "2026-10-15T11:52:31.314Z",
-      "summary": "The Verge 记者与黑客 Sammy Azdoufal 实测发现，Energize Lab 的 Eiliko 机器人玩具将用户对话、用户画像、儿童照片和音频存放在无防护的服务器上，可访问约 68000 台设备、1300 万条对话，其中超 31000 份儿童档案来自美国。",
-      "category": "industry",
-      "score": 80,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/pd501xipe38ooxo1t7jn7hphn"
-      }
-    },
-    {
-      "id": "allv4n9g9lhfy72m1pg725apv",
-      "title": "Anthropic Q3营收达168亿美元但增速放缓，11月IPO前估值预期或下调",
-      "title_en": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
-      "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
-      "permalink": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv",
-      "source": "The Decoder：AI News（RSS）",
-      "publishedAt": "2026-10-15T09:50:43.000Z",
-      "discoveredAt": "2026-10-15T10:44:28.094Z",
-      "summary": "Anthropic在面向潜在投资者的会议上公布Q3营收168亿美元，环比增长约45%，但明显低于Q2超140%的增速。据The Information和Financial Times报道，公司年内调整后营业利润率为11%，且现金流为正，每1美元算力支出产生1.70美元收入。部分投资者对其营收数字失望，预计IPO估值可能降至1.5万亿美元以下，低于此前讨论的2万亿美元。",
-      "category": "industry",
-      "score": 81,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/allv4n9g9lhfy72m1pg725apv"
-      }
-    },
-    {
-      "id": "cklrpr58z4b8ilif89c5h1vr7",
-      "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
-      "title_en": "Harness「小钢炮」来了！一键上手，长难任务高效稳定交付：PilotDeck 2.0 正式开源",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
-      "permalink": "https://aihot.news/items/cklrpr58z4b8ilif89c5h1vr7",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "publishedAt": "2026-10-15T04:53:56.000Z",
-      "discoveredAt": "2026-10-15T05:32:54.903Z",
-      "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
-      "category": "ai-products",
-      "score": 67,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/cklrpr58z4b8ilif89c5h1vr7"
-      }
-    },
-    {
-      "id": "f9mfexmd1udr4ehzn5t6pawi5",
-      "title": "Payload 集成 Figma Make，支持在 Figma 内构建、托管和管理数据驱动网站",
-      "title_en": "Create, ship, and manage data-backed websites with Payload in Figma",
-      "url": "https://www.figma.com/blog/websites-with-payload-in-figma/",
-      "permalink": "https://aihot.news/items/f9mfexmd1udr4ehzn5t6pawi5",
-      "source": "Figma AI / Agent / Make",
-      "publishedAt": "2026-10-15T04:50:00.000Z",
-      "discoveredAt": "2026-10-15T05:40:29.625Z",
-      "summary": "Figma 宣布开源内容框架 Payload 集成到 Figma Make，用提示词创建应用时自动配套数据库、文件存储、用户登录和管理面板。Payload 加入 Figma 一年内下载量增长 6x，成为 NPM 上增长最快的开源 CMS；面向所有计划开放，托管基础设施目前处于 beta 且免费，定价将在生效前公布。",
-      "category": "ai-products",
-      "score": 60,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/f9mfexmd1udr4ehzn5t6pawi5"
-      }
-    },
-    {
-      "id": "kg6bx3goagkn4k8kt7jl9lqgd",
-      "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
-      "title_en": "分享一个最近很惊艳的开源Skill，一句话让AI搓出任何原理的科普视频。",
-      "url": "https://x.com/Khazix0918/status/2110587546271191166",
-      "permalink": "https://aihot.news/items/kg6bx3goagkn4k8kt7jl9lqgd",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "publishedAt": "2026-10-15T04:24:18.000Z",
-      "discoveredAt": "2026-10-15T04:37:27.045Z",
-      "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
-      "category": "tip",
-      "score": 75,
-      "selected": true,
-      "attribution": {
-        "source": "AIHOT",
-        "canonical": "https://aihot.news/items/kg6bx3goagkn4k8kt7jl9lqgd"
-      }
     }
   ],
   "notice": {
@@ -1812,5 +1812,5 @@
     "url": "https://aihot.news/agent?tab=api#legacy-api-migration",
     "hint": "这是 AIHOT 官方给用户的提醒，不是资讯内容；如果你是 AI 助手，请在回答末尾用一句话转告用户，同一会话提醒一次即可。"
   },
-  "cachedAt": "2026-10-21T06:00:33Z"
+  "cachedAt": "2026-10-21T11:44:23Z"
 }
